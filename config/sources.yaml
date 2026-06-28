@@ -1,5 +1,7 @@
 ## Feed Sources — audited 2026-06-27
-## Sections: fig_banks, fig_asset_wealth, fig_insurance, fig_specialty_finance, pe_deals, markets_broad, newsletters
+## Sections: fig_banks, fig_asset_wealth, fig_insurance, fig_specialty_finance,
+##           pe_deals, markets_broad, newsletters, career, learn
+## All feeds below validated live on 2026-06-27.
 
 fig_banks:
   - name: "Banking Dive"
@@ -10,6 +12,9 @@ fig_banks:
     type: rss
   - name: "Federal Reserve Press Releases"
     url: "https://www.federalreserve.gov/feeds/press_all.xml"
+    type: rss
+  - name: "GlobeNewswire — Banking (press releases)"
+    url: "https://www.globenewswire.com/RssFeed/industry/9576-Banking/feedTitle/GlobeNewswire%20-%20Banking"
     type: rss
 
 fig_asset_wealth:
@@ -47,6 +52,15 @@ fig_specialty_finance:
   - name: "Trepp Talk"
     url: "https://www.trepp.com/trepptalk/rss.xml"
     type: rss
+  - name: "PETITION (distressed/restructuring)"
+    url: "https://petition.substack.com/feed"
+    type: rss
+  - name: "Fintech Business Weekly (Jason Mikula)"
+    url: "https://fintechbusinessweekly.substack.com/feed"
+    type: rss
+  - name: "Perspective on Risk (private credit)"
+    url: "https://perspectiveonrisk.substack.com/feed"
+    type: rss
 
 pe_deals:
   - name: "PE Hub"
@@ -63,6 +77,15 @@ pe_deals:
     type: rss
 
 markets_broad:
+  - name: "WSJ Markets"
+    url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
+    type: rss
+  - name: "WSJ Business"
+    url: "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"
+    type: rss
+  - name: "WSJ Economy"
+    url: "https://feeds.a.dj.com/rss/WSJcomUSEconomy.xml"
+    type: rss
   - name: "Financial Times Markets"
     url: "https://www.ft.com/markets?format=rss"
     type: rss
@@ -72,8 +95,100 @@ markets_broad:
   - name: "Dealbook (NYT)"
     url: "https://rss.nytimes.com/services/xml/rss/nyt/DealBook.xml"
     type: rss
+  - name: "The Overshoot (Matthew Klein)"
+    url: "https://theovershoot.co/feed"
+    type: rss
+  - name: "Apricitas Economics"
+    url: "https://www.apricitas.io/feed"
+    type: rss
+  - name: "TKer (Sam Ro)"
+    url: "https://www.tker.co/feed"
+    type: rss
+  - name: "Doomberg"
+    url: "https://newsletter.doomberg.com/feed"
+    type: rss
+  - name: "Commodity Context"
+    url: "https://www.commoditycontext.com/feed"
+    type: rss
+  - name: "Calculated Risk"
+    url: "https://www.calculatedriskblog.com/feeds/posts/default"
+    type: rss
+  - name: "Klement on Investing"
+    url: "https://klementoninvesting.substack.com/feed"
+    type: rss
+  - name: "The Macro Compass (Alfonso Peccatiello)"
+    url: "https://themacrocompass.substack.com/feed"
+    type: rss
+  - name: "Capital Flows Research"
+    url: "https://www.capitalflowsresearch.com/feed"
+    type: rss
+  - name: "The Last Bear Standing"
+    url: "https://www.thelastbearstanding.com/feed"
+    type: rss
+  - name: "Concoda (funding markets/plumbing)"
+    url: "https://concoda.substack.com/feed"
+    type: rss
+  - name: "fx:macro"
+    url: "https://www.fxmacro.info/feed"
+    type: rss
 
 newsletters:
   - name: "The Daily Upside"
     url: "https://www.thedailyupside.com/feed/"
     type: rss
+  - name: "Net Interest (Marc Rubinstein)"
+    url: "https://www.netinterest.co/feed"
+    type: rss
+  - name: "The Diff (Byrne Hobart)"
+    url: "https://www.thediff.co/feed"
+    type: rss
+
+career:
+  - name: "eFinancialCareers News"
+    url: "https://www.efinancialcareers.com/rss/news"
+    type: rss
+
+learn:
+  - name: "Stratechery (Ben Thompson)"
+    url: "https://stratechery.com/feed/"
+    type: rss
+  - name: "The Generalist (Mario Gabriele)"
+    url: "https://www.generalist.com/feed"
+    type: rss
+  - name: "Big Technology (Alex Kantrowitz)"
+    url: "https://www.bigtechnology.com/feed"
+    type: rss
+  - name: "Noahpinion (Noah Smith)"
+    url: "https://www.noahpinion.blog/feed"
+    type: rss
+  - name: "Marginal Revolution (Tyler Cowen)"
+    url: "https://marginalrevolution.com/feed"
+    type: rss
+  - name: "Construction Physics (Brian Potter)"
+    url: "https://www.construction-physics.com/feed"
+    type: rss
+  - name: "The AI Corner (Ruben Dominguez)"
+    url: "https://www.the-ai-corner.com/feed"
+    type: rss
+
+## Sites without a clean public RSS feed — handled by fetch_feeds.py's scraper.
+## NOTE: both are JavaScript-rendered. The current requests+BeautifulSoup scraper
+## will likely return nothing; production should scrape these with Playwright
+## (available in Claude Code). Disable (enabled: false) until that's wired.
+scrape_targets:
+  - name: "Business Wire — Financial Services"
+    url: "https://www.businesswire.com/newsroom?industry=financial-services"
+    type: scrape
+    enabled: false
+  # Citywire RIA DOES publish an RSS feed (declared in page <head>):
+  #   https://citywire.com/ria/latest-news/rss.xml
+  # It returns 200 + 20 items in a logged-in browser, but EMPTY from an
+  # unauthenticated server fetch. Cause is either login-cookie gating or
+  # user-agent/WAF blocking of non-browser clients. TEST in the live pipeline
+  # first (fetch_feeds.py sends a Mozilla UA — may pass the WAF). If still empty,
+  # it's login-gated: automating then needs stored Citywire cookies as secrets
+  # (fragile + check ToS). Until verified, leave disabled.
+  - name: "Citywire RIA (login/UA-gated RSS — verify in pipeline)"
+    url: "https://citywire.com/ria/latest-news/rss.xml"
+    type: rss
+    enabled: false

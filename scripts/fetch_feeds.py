@@ -132,6 +132,8 @@ def main():
         "pe_deals": "PE & Deals",
         "markets_broad": "Markets & Macro",
         "newsletters": "Newsletters",
+        "career": "Career Intel",
+        "learn": "Learn",
     }
 
     for section_key, section_label in section_map.items():
