@@ -369,6 +369,28 @@ let fIndex      = 0;
 let fSource     = 'unread';
 let tileSizes   = {};
 
+/* ─── PERSISTENCE ─── */
+function editionKey() {
+  const et = new Date(new Date().toLocaleString('en-US', {timeZone:'America/New_York'}));
+  return `${et.getFullYear()}-${String(et.getMonth()+1).padStart(2,'0')}-${String(et.getDate()).padStart(2,'0')}`;
+}
+function saveState() {
+  const key = editionKey();
+  try {
+    localStorage.setItem('nf_read_' + key, JSON.stringify([...readSet]));
+    localStorage.setItem('nf_later',        JSON.stringify([...laterSet]));
+  } catch(e) {}
+}
+function loadState() {
+  const key = editionKey();
+  try {
+    const r = localStorage.getItem('nf_read_' + key);
+    if (r) JSON.parse(r).forEach(id => readSet.add(id));
+    const l = localStorage.getItem('nf_later');
+    if (l) JSON.parse(l).forEach(id => laterSet.add(id));
+  } catch(e) {}
+}
+
 /* ─── HELPERS ─── */
 function esc(s) {
   if (s == null) return '';
@@ -450,6 +472,7 @@ async function loadFeeds() {
     }));
 
     tileSizes = computeSizes(DATA);
+    loadState();
     buildEditionHeader();
     buildIndices();
     buildLanes();
@@ -654,6 +677,7 @@ function markRead(d) {
   function commit() {
     readSet.add(d.id);
     laterSet.delete(d.id);
+    saveState();
     render();
     updateMeter();
     buildTray();
@@ -665,6 +689,7 @@ function markRead(d) {
 
 function toggleLater(id) {
   if (laterSet.has(id)) laterSet.delete(id); else laterSet.add(id);
+  saveState();
   updateLaterBadge();
 }
 function updateLaterBadge() {
@@ -683,7 +708,7 @@ function buildTray() {
     c.className   = 'chip';
     c.textContent = d.title;
     c.title       = d.title;
-    c.onclick = () => { readSet.delete(d.id); render(); updateMeter(); buildTray(); };
+    c.onclick = () => { readSet.delete(d.id); saveState(); render(); updateMeter(); buildTray(); };
     trayList.appendChild(c);
   });
   if (items.length === 1) document.getElementById('tray').classList.remove('collapsed');
@@ -809,6 +834,7 @@ function fRead() {
     setTimeout(() => {
       readSet.add(d.id);
       laterSet.delete(d.id);
+      saveState();
       updateMeter(); buildTray(); updateLaterBadge(); render(); renderFocus();
     }, 480);
   }
@@ -857,7 +883,7 @@ function buildLater() {
          <button class="mini on" data-rm="1" title="Remove">&#10005;</button>
        </div>`;
     row.querySelector('[data-read]').onclick = () => openReader(d);
-    row.querySelector('[data-rm]').onclick   = () => { laterSet.delete(d.id); updateLaterBadge(); buildLater(); };
+    row.querySelector('[data-rm]').onclick   = () => { laterSet.delete(d.id); saveState(); updateLaterBadge(); buildLater(); };
     grid.appendChild(row);
   });
 }
