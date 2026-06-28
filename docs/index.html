@@ -230,6 +230,46 @@
   .later-row .lr-s{color:var(--muted);font-size:12.5px;margin-top:3px}
   .later-row .lr-src{color:var(--faint);font-size:11.5px;margin-top:4px}
   .later-row .lr-act{display:flex;gap:8px;flex:none}
+
+  /* A11Y — focus rings */
+  :focus-visible{outline:2px solid var(--markets);outline-offset:3px;border-radius:6px}
+  .card:focus-visible,.lane:focus-visible{outline:2px solid var(--markets);outline-offset:2px;border-radius:18px}
+
+  /* RESPONSIVE — tablet (≤900px): 2-col grid */
+  @media(max-width:900px){
+    .wrap{padding:22px 18px 80px}
+    .edition{font-size:30px}
+    .deck{grid-template-columns:repeat(2,1fr);grid-auto-rows:155px}
+    .s-hero .c-title{font-size:20px}
+    .indices{overflow-x:auto;flex-wrap:nowrap;scrollbar-width:none}
+    .indices::-webkit-scrollbar{display:none}
+    .idx-note{display:none}
+    .stage{height:480px}
+  }
+
+  /* RESPONSIVE — mobile (≤480px): tighten spacing, shrink type */
+  @media(max-width:480px){
+    .wrap{padding:14px 13px 60px}
+    .edition{font-size:24px}
+    .subline{font-size:12.5px}
+    .right-rail{gap:8px}
+    .modeswitch button{padding:8px 10px;font-size:12px}
+    .ring{width:50px;height:50px}
+    .ring .num b{font-size:15px}
+    .deck{grid-template-columns:repeat(2,1fr);grid-auto-rows:130px;gap:10px}
+    .s-hero .c-title{font-size:17px}
+    .s-wide .c-title,.s-tall .c-title{font-size:14px}
+    .scrim{padding:12px}
+    .reader{padding:22px 18px;border-radius:16px}
+    .reader h2{font-size:20px}
+    .fnav{gap:8px}
+    .fnav .ico{width:40px;height:40px;font-size:16px}
+    .stage{height:420px}
+    .todaybrief{padding:14px 16px}
+    .brief-bar{flex-direction:column}
+    .later-row{flex-wrap:wrap}
+    .later-row .lr-act{width:100%;justify-content:flex-end}
+  }
 </style>
 </head>
 <body>
@@ -284,11 +324,11 @@
   <div class="view" id="focus">
     <div class="stage" id="stage"></div>
     <div class="fnav">
-      <div class="ico" onclick="fPrev()" aria-label="Previous">&#8592;</div>
+      <div class="ico" onclick="fPrev()" role="button" tabindex="0" aria-label="Previous article" onkeydown="if(event.key==='Enter'||event.key===' ')fPrev()">&#8592;</div>
       <button class="btn primary" onclick="fRead()">Mark read</button>
       <button class="btn" onclick="fLater()">&#9734; Read later</button>
       <div class="fcounter" id="fCounter">0 / 0</div>
-      <div class="ico" onclick="fNext()" aria-label="Next">&#8594;</div>
+      <div class="ico" onclick="fNext()" role="button" tabindex="0" aria-label="Next article" onkeydown="if(event.key==='Enter'||event.key===' ')fNext()">&#8594;</div>
     </div>
     <div class="fhint"><kbd>&#8592;</kbd> <kbd>&#8594;</kbd> move &middot; <kbd>R</kbd> read &middot; <kbd>L</kbd> read later</div>
   </div>
@@ -648,10 +688,15 @@ function buildLanes() {
     const b = document.createElement('div');
     b.className = 'lane' + (k === 'all' ? ' active' : '');
     b.textContent = k === 'all' ? 'All' : LANE[k].l;
+    b.tabIndex = 0;
+    b.setAttribute('role', 'button');
+    b.setAttribute('aria-pressed', k === 'all' ? 'true' : 'false');
+    b.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); b.click(); } };
     b.onclick = () => {
       activeLane = k;
-      el.querySelectorAll('.lane').forEach(x => x.classList.remove('active'));
+      el.querySelectorAll('.lane').forEach(x => { x.classList.remove('active'); x.setAttribute('aria-pressed','false'); });
       b.classList.add('active');
+      b.setAttribute('aria-pressed','true');
       render();
       buildTodayBrief();
     };
@@ -678,6 +723,10 @@ function card(d, size) {
   const el  = document.createElement('div');
   el.className  = 'card ' + size;
   el.dataset.id = d.id;
+  el.tabIndex   = 0;
+  el.setAttribute('role', 'article');
+  el.setAttribute('aria-label', d.title);
+  el.onkeydown  = e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openReader(d); } };
 
   el.innerHTML =
     `<div class="accentbar" style="background:${col}"></div>
