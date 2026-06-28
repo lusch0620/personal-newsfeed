@@ -785,7 +785,7 @@ function renderFocus() {
          &middot; relevance ${d.score}/10
        </div>
        <h2>${esc(d.title)}</h2>
-       <div class="f-sum">${esc(d.sum_long || d.sum)}</div>
+       <div class="f-sum">${esc(d.sum)}</div>
        <span class="f-more">Show more</span>
        ${d.hl ? `<div class="f-hl">${esc(d.hl)}</div>` : ''}
        <div class="f-meta"><span>${esc(d.src)}</span><span>${esc(d.time)}</span></div>`;
