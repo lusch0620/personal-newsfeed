@@ -1,0 +1,119 @@
+## Feed Sources Configuration
+## Add/remove sources here. Script reads this file on each run.
+## Sections: fig_banks, fig_asset_wealth, fig_insurance, fig_specialty_finance, markets_broad, newsletters
+
+fig_banks:
+  - name: "American Banker"
+    url: "https://www.americanbanker.com/feed"
+    type: rss
+  - name: "FDIC News"
+    url: "https://www.fdic.gov/news/news/press/rss.xml"
+    type: rss
+  - name: "OCC News"
+    url: "https://www.occ.gov/news-issuances/news-releases/rss.xml"
+    type: rss
+  - name: "Federal Reserve Press Releases"
+    url: "https://www.federalreserve.gov/feeds/press_all.xml"
+    type: rss
+  - name: "Reuters Banking"
+    url: "https://feeds.reuters.com/reuters/businessNews"
+    type: rss
+  - name: "Bloomberg Finance"
+    url: "https://feeds.bloomberg.com/markets/news.rss"
+    type: rss
+
+fig_asset_wealth:
+  - name: "Pensions & Investments"
+    url: "https://www.pionline.com/rss/home"
+    type: rss
+  - name: "Investment News"
+    url: "https://www.investmentnews.com/rss/all"
+    type: rss
+  - name: "Wealth Management"
+    url: "https://www.wealthmanagement.com/rss.xml"
+    type: rss
+  - name: "Financial Planning"
+    url: "https://www.financial-planning.com/feed"
+    type: rss
+  - name: "Citywire Wealth Manager"
+    url: "https://citywire.com/wealth-manager/rss"
+    type: rss
+
+fig_insurance:
+  - name: "Insurance Journal"
+    url: "https://www.insurancejournal.com/feeds/insurancejournal.xml"
+    type: rss
+  - name: "AM Best News"
+    url: "https://news.ambest.com/rss/rss_news.aspx"
+    type: rss
+  - name: "Insurance Business"
+    url: "https://www.insurancebusinessmag.com/us/rss"
+    type: rss
+  - name: "Reinsurance News"
+    url: "https://www.reinsurancene.ws/feed/"
+    type: rss
+
+fig_specialty_finance:
+  - name: "Asset Securitization Report"
+    url: "https://www.asreport.com/feed"
+    type: rss
+  - name: "Private Debt Investor"
+    url: "https://www.privatedebtinvestor.com/feed/"
+    type: rss
+  - name: "Leveraged Buyouts - WSJ"
+    url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
+    type: rss
+  - name: "ABS/MBS via Reuters"
+    url: "https://feeds.reuters.com/reuters/companyNews"
+    type: rss
+  - name: "Fintech Nexus"
+    url: "https://www.fintechnexus.com/feed/"
+    type: rss
+
+markets_broad:
+  - name: "Financial Times Markets"
+    url: "https://www.ft.com/markets?format=rss"
+    type: rss
+  - name: "WSJ Markets"
+    url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
+    type: rss
+  - name: "Reuters Top News"
+    url: "https://feeds.reuters.com/reuters/topNews"
+    type: rss
+  - name: "Dealbook (NYT)"
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/DealBook.xml"
+    type: rss
+  - name: "Bloomberg Markets"
+    url: "https://feeds.bloomberg.com/markets/news.rss"
+    type: rss
+  - name: "SEC EDGAR Filings"
+    url: "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=8-K&dateb=&owner=include&count=20&search_text=&output=atom"
+    type: rss
+  - name: "M&A News - Reuters"
+    url: "https://feeds.reuters.com/reuters/mergersNews"
+    type: rss
+
+newsletters:
+  - name: "The Daily Upside"
+    url: "https://www.thedailyupside.com/feed/"
+    type: rss
+  - name: "Morning Brew"
+    url: "https://www.morningbrew.com/daily/feed"
+    type: rss
+  - name: "Axios Financial Services"
+    url: "https://api.axios.com/feed/columns/the-axios-financial-services-newsletter"
+    type: rss
+  ## DealBook is already pulled via NYT RSS above
+  ## Axios Pro requires scraping — handled in scrape_niche.py
+
+scrape_targets:
+  - name: "Axios Pro Financial Services"
+    url: "https://www.axios.com/pro/financial-services"
+    type: scrape
+    selector: "article"
+    enabled: true
+  - name: "PitchBook News"
+    url: "https://pitchbook.com/news/articles"
+    type: scrape
+    selector: "article"
+    enabled: true

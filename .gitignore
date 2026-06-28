@@ -1,0 +1,6 @@
+data/raw_articles.json
+data/feeds.json
+__pycache__/
+*.pyc
+.env
+.DS_Store

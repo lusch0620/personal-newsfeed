@@ -1,0 +1,50 @@
+name: Update NewsFeed
+
+on:
+  schedule:
+    # Every 2 hours, 7am–11pm ET (UTC+5 offset)
+    - cron: '0 12,14,16,18,20,22,0,2 * * 1-5'  # Weekdays
+    - cron: '0 14,18,22 * * 0,6'                 # Weekends (lighter)
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch feeds
+        run: python scripts/fetch_feeds.py
+
+      - name: Summarize with Claude Haiku
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/summarize.py
+
+      - name: Copy data to site/
+        run: |
+          mkdir -p site/data
+          cp data/feeds.json site/data/feeds.json
+
+      - name: Commit and push updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site/data/feeds.json
+          git diff --staged --quiet || git commit -m "chore: update feed $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
