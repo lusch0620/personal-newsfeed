@@ -166,6 +166,7 @@
   .r-topics{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0 4px}
   .r-topic{font-size:11px;padding:3px 9px;border-radius:20px;background:rgba(255,255,255,.07);color:var(--muted);border:1px solid var(--stroke)}
   .r-actions{display:flex;gap:10px;margin-top:26px;flex-wrap:wrap}
+  .disc-banner{display:none;align-items:center;justify-content:space-between;gap:12px;background:rgba(247,211,61,.07);border:1px solid rgba(247,211,61,.2);border-radius:12px;padding:12px 16px;margin-bottom:14px;font-size:13px;color:var(--ink)}
 
   /* VIEWS */
   .view{display:none}
@@ -261,6 +262,7 @@
 
   <div class="view on" id="deck-view">
     <div class="lanes" id="lanes"></div>
+    <div class="disc-banner" id="discoveryBanner"></div>
     <div class="todaybrief" id="todaybrief"></div>
     <div class="deck" id="deck">
       <div class="state-msg" style="grid-column:1/-1"><div class="spinner"></div>Loading feed&hellip;</div>
@@ -391,6 +393,91 @@ function loadState() {
   } catch(e) {}
 }
 
+/* ─── LEARNING ALGORITHM (P3.5) ─── */
+const SIGNAL_W  = { read: 1.0, save: 1.5, brief: 2.0, skip: -0.3 };
+const HALF_LIFE = 14;
+
+function captureSignal(d, action) {
+  if (!d) return;
+  let sigs = [];
+  try { sigs = JSON.parse(localStorage.getItem('nf_signals') || '[]'); } catch(e) {}
+  sigs.push({ id: d.id, action, src: d.src, lane: d.lane, topics: d.topics || [], ts: Date.now() });
+  const cutoff = Date.now() - 60 * 86400000;
+  sigs = sigs.filter(s => s.ts > cutoff);
+  try { localStorage.setItem('nf_signals', JSON.stringify(sigs)); } catch(e) {}
+  rebuildProfile(sigs);
+  checkDiscovery(sigs);
+}
+
+function rebuildProfile(sigs) {
+  const raw = { sources: {}, lanes: {}, topics: {} };
+  sigs.forEach(s => {
+    const w  = SIGNAL_W[s.action] || 0;
+    const dw = w * Math.pow(2, -(Date.now() - s.ts) / (HALF_LIFE * 86400000));
+    if (!dw) return;
+    raw.sources[s.src]  = (raw.sources[s.src]  || 0) + dw;
+    raw.lanes[s.lane]   = (raw.lanes[s.lane]   || 0) + dw;
+    (s.topics || []).forEach(t => { raw.topics[t] = (raw.topics[t] || 0) + dw; });
+  });
+  const norm = obj => {
+    const mx = Math.max(...Object.values(obj), 1e-9);
+    return Object.fromEntries(Object.entries(obj).map(([k,v]) => [k, v/mx]));
+  };
+  try {
+    localStorage.setItem('nf_profile', JSON.stringify({
+      sources: norm(raw.sources), lanes: norm(raw.lanes), topics: norm(raw.topics)
+    }));
+  } catch(e) {}
+}
+
+function getProfile() {
+  try { return JSON.parse(localStorage.getItem('nf_profile') || 'null'); } catch(e) { return null; }
+}
+
+function applyRanking() {
+  const p = getProfile();
+  DATA.forEach(d => {
+    if (!p) { d.finalScore = d.score; return; }
+    const srcW   = p.sources[d.src]  || 0;
+    const laneW  = p.lanes[d.lane]   || 0;
+    const topics = d.topics || [];
+    const topicW = topics.length
+      ? topics.reduce((s, t) => s + (p.topics[t] || 0), 0) / topics.length
+      : 0;
+    const personal = srcW * 0.3 + laneW * 0.3 + topicW * 0.4;
+    d.finalScore = d.score * 0.5 + personal * 10 * 0.5;
+  });
+}
+
+function checkDiscovery(sigs) {
+  const banner = document.getElementById('discoveryBanner');
+  if (!banner) return;
+  const p = getProfile();
+  if (!p) return;
+  let dismissed = [];
+  try { dismissed = JSON.parse(localStorage.getItem('nf_disc_dismissed') || '[]'); } catch(e) {}
+  const readCounts = {};
+  sigs.filter(s => s.action === 'read').forEach(s => { readCounts[s.src] = (readCounts[s.src]||0)+1; });
+  for (const [src, w] of Object.entries(p.sources)) {
+    if (!dismissed.includes(src) && w >= 0.75 && (readCounts[src]||0) >= 20) {
+      banner.innerHTML =
+        `<span>You keep reading <b>${esc(src)}</b> — consider adding a similar outlet.</span>
+         <button class="btn mini" onclick="dismissDiscovery(${JSON.stringify(src)})">Got it</button>`;
+      banner.style.display = 'flex';
+      return;
+    }
+  }
+  banner.style.display = 'none';
+}
+
+function dismissDiscovery(src) {
+  let d = [];
+  try { d = JSON.parse(localStorage.getItem('nf_disc_dismissed') || '[]'); } catch(e) {}
+  if (!d.includes(src)) d.push(src);
+  try { localStorage.setItem('nf_disc_dismissed', JSON.stringify(d)); } catch(e) {}
+  document.getElementById('discoveryBanner').style.display = 'none';
+}
+
 /* ─── HELPERS ─── */
 function esc(s) {
   if (s == null) return '';
@@ -421,18 +508,19 @@ function unread()   { return DATA.filter(d => !readSet.has(d.id)); }
 function laneList() {
   return unread()
     .filter(d => activeLane === 'all' || d.lane === activeLane)
-    .sort((a,b) => b.score - a.score);
+    .sort((a,b) => (b.finalScore||b.score) - (a.finalScore||a.score));
 }
 
 /* ─── TILE SIZING ─── */
 function computeSizes(articles) {
-  const sorted = [...articles].sort((a,b) => b.score - a.score);
+  const sorted = [...articles].sort((a,b) => (b.finalScore||b.score) - (a.finalScore||a.score));
   const sizes  = {};
   let heroes = 0, accents = 0, wideNext = true;
   sorted.forEach(d => {
-    if (d.score >= 9 && heroes < MAX_HEROES) {
+    const s = d.finalScore || d.score;
+    if (s >= 9 && heroes < MAX_HEROES) {
       sizes[d.id] = 's-hero'; heroes++;
-    } else if (d.score >= 8 && accents < MAX_ACCENTS) {
+    } else if (s >= 8 && accents < MAX_ACCENTS) {
       sizes[d.id] = wideNext ? 's-wide' : 's-tall';
       wideNext = !wideNext; accents++;
     } else {
@@ -471,8 +559,9 @@ async function loadFeeds() {
       hl:       a.summary_ai?.highlight      || '',
     }));
 
-    tileSizes = computeSizes(DATA);
     loadState();
+    applyRanking();
+    tileSizes = computeSizes(DATA);
     buildEditionHeader();
     buildIndices();
     buildLanes();
@@ -677,6 +766,7 @@ function markRead(d) {
   function commit() {
     readSet.add(d.id);
     laterSet.delete(d.id);
+    captureSignal(d, 'read');
     saveState();
     render();
     updateMeter();
@@ -688,7 +778,12 @@ function markRead(d) {
 }
 
 function toggleLater(id) {
-  if (laterSet.has(id)) laterSet.delete(id); else laterSet.add(id);
+  if (laterSet.has(id)) {
+    laterSet.delete(id);
+  } else {
+    laterSet.add(id);
+    captureSignal(byId(id), 'save');
+  }
   saveState();
   updateLaterBadge();
 }
@@ -728,7 +823,7 @@ function buildTodayBrief() {
   const panel = document.getElementById('todaybrief');
   const list  = unread()
     .filter(d => activeLane === 'all' || d.lane === activeLane)
-    .sort((a,b) => b.score - a.score);
+    .sort((a,b) => (b.finalScore||b.score) - (a.finalScore||a.score));
   const top  = list.slice(0, 4);
   const name = activeLane === 'all' ? null : LANE[activeLane]?.l;
   const title = name ? `What's going on &middot; ${esc(name)}` : "What's going on today";
@@ -780,7 +875,7 @@ function setMode(m) {
 /* ─── FOCUS MODE ─── */
 function focusList() {
   if (fSource === 'later') return DATA.filter(d => laterSet.has(d.id) && !readSet.has(d.id));
-  return unread().sort((a,b) => b.score - a.score);
+  return unread().sort((a,b) => (b.finalScore||b.score) - (a.finalScore||a.score));
 }
 function renderFocus() {
   const stage = document.getElementById('stage');
@@ -822,7 +917,14 @@ function renderFocus() {
   }
   document.getElementById('fCounter').textContent = `${fIndex+1} / ${list.length}`;
 }
-function fNext() { if (fIndex < focusList().length - 1) { fIndex++; renderFocus(); } }
+function fNext() {
+  const list = focusList();
+  if (fIndex < list.length - 1) {
+    captureSignal(list[fIndex], 'skip');
+    fIndex++;
+    renderFocus();
+  }
+}
 function fPrev() { if (fIndex > 0)                      { fIndex--; renderFocus(); } }
 function fRead() {
   const list = focusList();
@@ -834,6 +936,7 @@ function fRead() {
     setTimeout(() => {
       readSet.add(d.id);
       laterSet.delete(d.id);
+      captureSignal(d, 'read');
       saveState();
       updateMeter(); buildTray(); updateLaterBadge(); render(); renderFocus();
     }, 480);
@@ -919,8 +1022,10 @@ function runBrief(q) {
     const hay = [d.title, d.sum, d.sum_long, d.hl, (d.topics||[]).join(' '), LANE[d.lane]?.l || ''].join(' ').toLowerCase();
     return (laneHit && d.lane === laneHit) || terms.some(t => hay.includes(t));
   });
-  matches.sort((a,b) => b.score - a.score);
-  renderBrief(q, matches.slice(0,5), false);
+  matches.sort((a,b) => (b.finalScore||b.score) - (a.finalScore||a.score));
+  const top5 = matches.slice(0,5);
+  top5.forEach(d => captureSignal(d, 'brief'));
+  renderBrief(q, top5, false);
 }
 function renderBrief(topic, items, saved) {
   if (!items.length) {
