@@ -36,15 +36,15 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/summarize.py
 
-      - name: Copy data to site/
+      - name: Copy data to docs/
         run: |
-          mkdir -p site/data
-          cp data/feeds.json site/data/feeds.json
+          mkdir -p docs/data
+          cp data/feeds.json docs/data/feeds.json
 
       - name: Commit and push updated feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add site/data/feeds.json
+          git add docs/data/feeds.json
           git diff --staged --quiet || git commit -m "chore: update feed $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
