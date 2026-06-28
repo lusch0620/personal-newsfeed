@@ -22,7 +22,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; PersonalNewsFeed/1.0; +https://github.com/luciusgao/personal-newsfeed)"
 }
 
-MAX_AGE_HOURS = 24  # Only keep articles from the last 24 hours
+MAX_AGE_HOURS = 48  # 48h window — regulatory sources (Fed) post infrequently
 
 
 def article_id(url: str) -> str:
@@ -129,6 +129,7 @@ def main():
         "fig_asset_wealth": "FIG — Asset & Wealth Management",
         "fig_insurance": "FIG — Insurance",
         "fig_specialty_finance": "FIG — Specialty Finance",
+        "pe_deals": "PE & Deals",
         "markets_broad": "Markets & Macro",
         "newsletters": "Newsletters",
     }

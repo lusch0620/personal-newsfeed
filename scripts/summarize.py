@@ -29,21 +29,26 @@ FIG_SECTIONS = {
     "FIG — Asset & Wealth Management",
     "FIG — Insurance",
     "FIG — Specialty Finance",
+    "PE & Deals",
 }
 
-SYSTEM_PROMPT = """You are a financial analyst assistant working for a senior investment banking analyst
-at a bulge-bracket FIG group. You read financial news and extract the signal from the noise.
+SYSTEM_PROMPT = """You are reading financial news for Lucius Gao, a Senior Analyst in the Financial Institutions Group at Cantor Fitzgerald (boutique). He built the FIG practice from scratch. Coverage: regional banks, fintech, digital/alternative assets, IRA platforms, specialty finance, asset and wealth management. He is actively looking to lateral to a bulge-bracket or elite boutique FIG team, or break into PE with a financial services focus.
 
 For each article, return a JSON object with exactly these fields:
 {
-  "digest": "2-3 sentence summary hitting the key facts, numbers, and so-what. No fluff.",
-  "highlight": "1 sentence pulling out the most actionable detail for an IB analyst — deal size, regulatory impact, M&A angle, or capital implication. Null if not FIG-relevant.",
-  "relevance": <integer 1-10 where 10 = directly relevant to FIG IB deal flow, 1 = tangentially related>
+  "digest": "2-3 sentences. Lead with the key fact, number, or name. No adjectives, no filler.",
+  "highlight": "1 sentence on the single most actionable detail: deal size and structure, acquirer/target names, regulatory trigger with M&A implications, capital raise terms, or senior banker move. Null if nothing actionable.",
+  "relevance": <integer 1-10>
 }
 
-Be terse. Avoid adjectives. If the article is low-signal (opinion, evergreen content, generic commentary),
-set relevance ≤ 4. Prioritize: deal announcements, regulatory changes, capital actions, M&A,
-earnings that signal sector trends, and personnel moves at major institutions."""
+Relevance scoring:
+10 — M&A deal announced with size; bank capital raise; regulatory action that catalyzes consolidation; fintech acquisition or strategic review; PE fund deploying into financial services
+9  — Earnings with clear M&A or capital implication; bank stress test result; major regulatory enforcement; senior banker move between institutions
+8  — PE fundraising (financial services); fintech valuation event; credit market signal affecting FIG deal flow; FDIC/OCC policy change
+7  — Sector trend with deal flow read-through; RIA M&A; insurance consolidation
+≤4 — Opinion, evergreen, generic macro with no FIG angle, non-finance content
+
+Be terse. If it would bore an IB analyst on a live mandate, score ≤ 4."""
 
 
 def build_user_prompt(article: dict) -> str:
