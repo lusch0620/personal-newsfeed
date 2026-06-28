@@ -1,4 +1,4 @@
-## Feed Sources — audited 2026-06-27, dead URLs replaced
+## Feed Sources — audited 2026-06-27
 ## Sections: fig_banks, fig_asset_wealth, fig_insurance, fig_specialty_finance, pe_deals, markets_broad, newsletters
 
 fig_banks:
@@ -22,6 +22,12 @@ fig_asset_wealth:
   - name: "Wealth Management"
     url: "https://www.wealthmanagement.com/rss.xml"
     type: rss
+  - name: "Financial Advisor Magazine"
+    url: "https://www.fa-mag.com/news/rss"
+    type: rss
+  - name: "RIABiz"
+    url: "https://riabiz.com/rss"
+    type: rss
 
 fig_insurance:
   - name: "Insurance Journal"
@@ -38,6 +44,9 @@ fig_specialty_finance:
   - name: "Private Debt Investor"
     url: "https://www.privatedebtinvestor.com/feed/"
     type: rss
+  - name: "Trepp Talk"
+    url: "https://www.trepp.com/trepptalk/rss.xml"
+    type: rss
 
 pe_deals:
   - name: "PE Hub"
@@ -49,13 +58,16 @@ pe_deals:
   - name: "Buyouts Insider"
     url: "https://www.buyoutsinsider.com/feed/"
     type: rss
+  - name: "Secondaries Investor"
+    url: "https://www.secondariesinvestor.com/feed/"
+    type: rss
 
 markets_broad:
   - name: "Financial Times Markets"
     url: "https://www.ft.com/markets?format=rss"
     type: rss
-  - name: "Bloomberg Markets"
-    url: "https://feeds.bloomberg.com/markets/news.rss"
+  - name: "MarketWatch"
+    url: "http://feeds.marketwatch.com/marketwatch/topstories/"
     type: rss
   - name: "Dealbook (NYT)"
     url: "https://rss.nytimes.com/services/xml/rss/nyt/DealBook.xml"
