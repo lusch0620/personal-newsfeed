@@ -1,28 +1,28 @@
 # Personal NewsFeed — Build Roadmap
 
-*Last updated: 2026-06-28. Companion to `CLAUDE.md`. Read both before starting.*
+*Last updated: 2026-06-29. Companion to `CLAUDE.md`. Read both before starting.*
 
 ---
 
-## 0. TL;DR + effort estimate
+## 0. TL;DR + build status
 
-Replace the plain-list `docs/index.html` with the "Briefing Deck + Focus Mode" design and add four features: richer summaries with talking points, read-later, a read-state that recedes to the background, and a learning algorithm that re-ranks articles based on reading behavior.
+| Phase | Scope | Status |
+|------|-------|--------|
+| P1 | Bento deck + focus mode + lanes + read-recede + bounded edition | ✅ done |
+| P2 | Richer summaries: `summary_long`, `talking_points`, `topics` | ✅ done |
+| P3 | Persistence: read-state + read-later via localStorage | ✅ done |
+| P3.5 | Learning algorithm: signal capture → profile → re-ranking | ✅ done |
+| P5 | Responsive, a11y, iOS fixes, mobile lane chips | ✅ done |
+| — | Cross-device Gist sync + magic setup URL | ✅ done |
+| — | Like/dislike reactions (+3.0 / -2.0 weights), tile indicators | ✅ done |
+| — | Personal notes in reader → Gist sync → `data/notes.md` → scoring | ✅ done |
+| — | Auto-archive notes > 90 days → `data/notes_archive/YYYY-MM.md` | ✅ done |
+| — | ↻ Pipeline refresh button (workflow_dispatch via GitHub API) | ✅ done — needs PAT `repo` scope |
+| P6 F7 | Daily/lane overview brief pre-baked in pipeline | **next** |
+| P6 F8 | Live indices strip (pipeline snapshot) | **next** |
+| P4 | Brief Me backend: Cloudflare Worker + web search + citations | deferred |
 
-| Phase | Scope | Est. (focused coding) |
-|------|-------|----------------------|
-| P1 | Front-end port: deck + focus + lanes + read-recede + bounded edition | 3–5 hrs |
-| P2 | Richer summaries + talking points + topic tags (summarize.py + schema + reader) | 2–3 hrs |
-| P3 | Persistence: read-state + read-later via localStorage | 2–3 hrs |
-| P3.5 | Learning algorithm: signal capture → interest profile → article re-ranking | 2–3 hrs |
-| P4 | Brief backend: serverless function + web search + citations | 6–8 hrs — **deferred** |
-| P5 | Polish: responsive, empty states, accessibility, QA | 2–4 hrs |
-| P6 | Daily/lane overview brief (F7) + live indices strip (F8) | 3–5 hrs (+1 day if real-time indices via proxy) |
-
-**Recommended build order: P1 → P2 → P3 → P3.5 → P5 → P6 → P4 (last)**
-
-P4 (Brief backend) is deferred — it's the most complex piece (Cloudflare Workers, serverless env vars, abuse protection) and the reading experience doesn't depend on it. Build P1–P3.5 first for a complete, self-contained product.
-
-**Watch out:** the bento grid tile sizing and read-recede animation in P1 will take longer than expected. Budget half a day just for that.
+**Next up: P6 F7 (daily brief generation in summarize.py) → P6 F8 (live indices) → P4 (Brief Me backend, last).**
 
 ---
 
