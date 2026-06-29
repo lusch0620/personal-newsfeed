@@ -179,6 +179,7 @@
   .r-notes textarea:focus{border-color:var(--stroke)}
   .note-saved{font-size:11px;color:var(--muted);margin-top:5px;height:14px;opacity:0;transition:opacity .3s}
   .note-saved.show{opacity:1}
+  .tb-src{color:var(--muted);font-size:12px}
   .r-ask{margin-top:22px;padding-top:18px;border-top:1px solid var(--stroke-soft)}
   .r-ask label{display:block;font-size:11px;color:var(--muted);margin-bottom:8px;letter-spacing:.06em;text-transform:uppercase}
   .r-ask-row{display:flex;gap:8px}
@@ -429,7 +430,8 @@
 </div>
 
 <script>
-const FEED_URL = 'data/feeds.json';
+const FEED_URL   = 'data/feeds.json';
+const BRIEFS_URL = 'data/briefs.json';
 const MAX_HEROES  = 2;
 const MAX_ACCENTS = 4;
 
@@ -858,9 +860,13 @@ function computeSizes(articles) {
 /* ─── LOAD ─── */
 async function loadFeeds() {
   try {
-    const r = await fetch(FEED_URL + '?t=' + Date.now());
+    const [r, rb] = await Promise.all([
+      fetch(FEED_URL   + '?t=' + Date.now()),
+      fetch(BRIEFS_URL + '?t=' + Date.now()),
+    ]);
     if (!r.ok) throw new Error('HTTP ' + r.status);
     const raw = await r.json();
+    if (rb.ok) { try { BRIEFS = await rb.json(); } catch(e) { BRIEFS = {}; } }
 
     if (!Array.isArray(raw) || !raw.length) {
       document.getElementById('deck').innerHTML =
@@ -1246,12 +1252,46 @@ function updateMeter() {
 /* ─── TODAY'S BRIEF PANEL ─── */
 function buildTodayBrief() {
   const panel = document.getElementById('todaybrief');
-  const list  = unread()
+  const name  = activeLane === 'all' ? null : LANE[activeLane]?.l;
+  const title = name ? `What's going on &middot; ${esc(name)}` : "What's going on today";
+
+  // Map activeLane key back to section label for BRIEFS lookup
+  const sectionKey = activeLane === 'all'
+    ? 'all'
+    : Object.keys(SECTION_TO_LANE).find(s => SECTION_TO_LANE[s] === activeLane) || 'all';
+
+  const brief = BRIEFS[sectionKey];
+
+  // If pipeline brief exists, render it
+  if (brief && brief.bullets && brief.bullets.length) {
+    panel.innerHTML =
+      `<div class="tb-head">
+         <div class="ic">&#9733;</div>
+         <h3>${title}</h3>
+         <span class="aitag">AI brief</span>
+         <span class="lede">${esc(brief.lede || '')}</span>
+       </div>
+       <div class="tb-list">
+         ${brief.bullets.map(b => {
+           const d   = byId(b.refId);
+           const col = d ? cvar(LANE[d.lane]?.c || '--markets') : 'var(--muted)';
+           return `<div class="tb-item" data-id="${esc(b.refId || '')}">
+             <span class="mk" style="background:${col}"></span>
+             <span class="tb-text">${esc(b.text)}<span class="tb-src"> — ${esc(b.source || '')}</span></span>
+           </div>`;
+         }).join('')}
+       </div>`;
+    panel.querySelectorAll('.tb-item[data-id]').forEach(el =>
+      el.onclick = () => { const d = byId(el.dataset.id); if (d) openReader(d); }
+    );
+    return;
+  }
+
+  // Fallback: client-side assembly from article highlights
+  const list = unread()
     .filter(d => activeLane === 'all' || d.lane === activeLane)
     .sort((a,b) => (b.finalScore||b.score) - (a.finalScore||a.score));
-  const top  = list.slice(0, 4);
-  const name = activeLane === 'all' ? null : LANE[activeLane]?.l;
-  const title = name ? `What's going on &middot; ${esc(name)}` : "What's going on today";
+  const top = list.slice(0, 4);
 
   if (!top.length) {
     panel.innerHTML =
