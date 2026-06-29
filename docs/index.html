@@ -562,12 +562,13 @@ function dismissDiscovery(src) {
 
 /* ─── GIST SYNC ─── */
 const SYNC_FILE = 'newsfeed-sync.json';
+const GIST_ID   = 'be1fddb5fb8215040ef67d3d79253301';
 let _pushTimer = null;
 
 function getSyncCfg() {
-  return { pat: localStorage.getItem('nf_sync_pat')||'', gistId: localStorage.getItem('nf_sync_gist')||'' };
+  return { pat: localStorage.getItem('nf_sync_pat')||'', gistId: localStorage.getItem('nf_sync_gist') || GIST_ID };
 }
-function syncEnabled() { const c=getSyncCfg(); return !!(c.pat && c.gistId); }
+function syncEnabled() { return !!getSyncCfg().pat; }
 
 function setSyncStatus(s) {
   const dot = document.getElementById('syncDot');
@@ -661,8 +662,8 @@ function openSyncSettings() {
 function closeSyncSettings() { document.getElementById('smodal').classList.remove('open'); }
 async function saveSyncSettings() {
   const pat    = document.getElementById('sPatInput').value.trim();
-  const gistId = document.getElementById('sGistInput').value.trim();
-  if (!pat || !gistId) { document.getElementById('sSyncStatus').textContent = 'Both fields are required.'; return; }
+  const gistId = document.getElementById('sGistInput').value.trim() || GIST_ID;
+  if (!pat) { document.getElementById('sSyncStatus').textContent = 'PAT is required.'; return; }
   localStorage.setItem('nf_sync_pat',  pat);
   localStorage.setItem('nf_sync_gist', gistId);
   document.getElementById('sSyncStatus').textContent = 'Syncing…';
@@ -1285,6 +1286,19 @@ document.getElementById('loadYestBtn').onclick = function() {
   this.disabled    = true;
   this.style.opacity = .5;
 };
+
+// Auto-configure sync from magic URL: #setup=<PAT>
+(function() {
+  const h = location.hash;
+  if (h.startsWith('#setup=')) {
+    const pat = decodeURIComponent(h.slice(7));
+    if (pat) {
+      localStorage.setItem('nf_sync_pat',  pat);
+      localStorage.setItem('nf_sync_gist', GIST_ID);
+      history.replaceState(null, '', location.pathname + location.search);
+    }
+  }
+})();
 
 loadFeeds();
 </script>
