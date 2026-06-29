@@ -149,9 +149,9 @@
   @keyframes spin{to{transform:rotate(360deg)}}
 
   /* READER SCRIM */
-  .scrim{position:fixed;inset:0;z-index:40;background:rgba(4,5,9,.6);backdrop-filter:blur(6px);display:none;align-items:center;justify-content:center;padding:28px;opacity:0;transition:opacity .3s}
+  .scrim{position:fixed;inset:0;z-index:40;background:rgba(4,5,9,.6);backdrop-filter:blur(6px);display:none;align-items:center;justify-content:center;padding:clamp(12px,3vw,28px) clamp(12px,3vw,28px) max(clamp(12px,3vw,28px),env(safe-area-inset-bottom,0px));opacity:0;transition:opacity .3s}
   .scrim.open{display:flex;opacity:1}
-  .reader{width:min(680px,100%);max-height:84vh;overflow:auto;border-radius:22px;border:1px solid var(--stroke);background:rgba(18,20,28,.85);backdrop-filter:blur(22px);padding:34px;transform:translateY(16px) scale(.98);transition:.35s cubic-bezier(.2,.8,.2,1)}
+  .reader{width:min(680px,100%);max-height:min(84dvh,84vh);overflow:auto;border-radius:22px;border:1px solid var(--stroke);background:rgba(18,20,28,.85);backdrop-filter:blur(22px);padding:34px;transform:translateY(16px) scale(.98);transition:.35s cubic-bezier(.2,.8,.2,1)}
   .scrim.open .reader{transform:none}
   .reader .r-tag{display:inline-flex;align-items:center;gap:8px;font-size:11.5px;color:var(--muted);margin-bottom:16px}
   .reader h2{font-size:27px;font-weight:600;letter-spacing:-.02em;line-height:1.18;margin-bottom:14px}
@@ -259,12 +259,15 @@
     .deck{grid-template-columns:repeat(2,1fr);grid-auto-rows:130px;gap:10px}
     .s-hero .c-title{font-size:17px}
     .s-wide .c-title,.s-tall .c-title{font-size:14px}
-    .scrim{padding:12px}
-    .reader{padding:22px 18px;border-radius:16px}
+    .reader{padding:22px 18px 32px;border-radius:16px}
     .reader h2{font-size:20px}
-    .fnav{gap:8px}
+    .r-actions{flex-direction:column;gap:8px}
+    .r-actions .btn{width:100%;justify-content:center;text-align:center}
+    .fcard{padding:24px 20px}
+    .fcard h2{font-size:20px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+    .fnav{gap:8px;padding-bottom:env(safe-area-inset-bottom,12px)}
     .fnav .ico{width:40px;height:40px;font-size:16px}
-    .stage{height:420px}
+    .stage{height:360px}
     .todaybrief{padding:14px 16px}
     .brief-bar{flex-direction:column}
     .later-row{flex-wrap:wrap}
