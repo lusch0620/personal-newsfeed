@@ -928,8 +928,8 @@ function buildEditionHeader() {
     `That’s the ${DATA.length}-story edition. No endless scroll — you’ve reached the end of today.`;
 }
 
-/* ─── INDICES (demo data — P6 writes live values into feeds.json) ─── */
-const IDX = [
+/* ─── INDICES ─── */
+let IDX = [
   {nm:'S&P 500',   v:6218.4,  base:6218.4 },
   {nm:'Nasdaq',    v:20114.6, base:20114.6},
   {nm:'Dow',       v:44012.0, base:44012.0},
@@ -937,12 +937,20 @@ const IDX = [
   {nm:'VIX',       v:13.6,    base:13.6   },
   {nm:'KBW Banks', v:122.4,   base:122.4  },
 ];
+let IDX_LIVE = false;
 function buildIndices() {
+  // Use pipeline-fetched data if available
+  if (BRIEFS.indices && BRIEFS.indices.length) {
+    IDX = BRIEFS.indices.filter(x => x.v !== null).map(x => ({...x}));
+    IDX_LIVE = true;
+  }
   const el = document.getElementById('indices');
-  el.innerHTML =
-    `<div class="idx-live"><span class="dot"></span>Delayed</div>` +
+  const tag = IDX_LIVE
+    ? `<div class="idx-live"><span class="dot"></span>~2h delayed</div>`
+    : `<div class="idx-live" style="color:var(--muted)"><span class="dot" style="background:var(--muted)"></span>Demo</div>`;
+  el.innerHTML = tag +
     IDX.map((_,i) => `<div class="idx" id="idx${i}"></div>`).join('') +
-    `<div class="idx-note">demo data &middot; live pipeline in P6</div>`;
+    (IDX_LIVE ? `<div class="idx-note">refreshed every ~2h &middot; not investment advice</div>` : `<div class="idx-note">demo data</div>`);
   paintIndices();
 }
 function paintIndices() {
@@ -962,6 +970,7 @@ function paintIndices() {
   });
 }
 function tickIndices() {
+  if (IDX_LIVE) return; // don't fake-tick live data
   IDX.forEach(x => {
     const vol = x.bp ? 0.01 : (x.v < 100 ? 0.05 : x.v * 0.0004);
     x.v += (Math.random() - 0.5) * 2 * vol;

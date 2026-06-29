@@ -85,6 +85,42 @@ def brief_lane(client, articles: list[dict], lane_label: str) -> dict:
         }
 
 
+INDICES = [
+    {"nm": "S&P 500",   "ticker": "^GSPC", "bp": False},
+    {"nm": "Nasdaq",    "ticker": "^IXIC", "bp": False},
+    {"nm": "Dow",       "ticker": "^DJI",  "bp": False},
+    {"nm": "US 10Y",    "ticker": "^TNX",  "bp": True},
+    {"nm": "VIX",       "ticker": "^VIX",  "bp": False},
+    {"nm": "KBW Banks", "ticker": "^BKX",  "bp": False},
+]
+
+def fetch_indices() -> list[dict]:
+    """Fetch index quotes from Yahoo Finance. Returns list with live values."""
+    import urllib.request, urllib.error
+    results = []
+    headers = {"User-Agent": "Mozilla/5.0"}
+    for idx in INDICES:
+        try:
+            url = f"https://query1.finance.yahoo.com/v8/finance/chart/{idx['ticker']}?interval=1d&range=2d"
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                data = json.load(resp)
+            meta   = data["chart"]["result"][0]["meta"]
+            price  = meta.get("regularMarketPrice") or meta.get("chartPreviousClose")
+            prev   = meta.get("chartPreviousClose") or price
+            results.append({
+                "nm":   idx["nm"],
+                "v":    round(price, 4),
+                "base": round(prev, 4),
+                "bp":   idx["bp"],
+            })
+            print(f"  {idx['nm']}: {price}")
+        except Exception as e:
+            print(f"  [INDEX ERROR] {idx['nm']}: {e}")
+            results.append({"nm": idx["nm"], "v": None, "base": None, "bp": idx["bp"]})
+    return results
+
+
 def main():
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
@@ -117,6 +153,9 @@ def main():
     )[:TOP_N]
     print(f"  Briefing: All lanes ({len(top_all)} articles)...")
     briefs["all"] = brief_lane(client, top_all, "all lanes")
+
+    print("Fetching live indices...")
+    briefs["indices"] = fetch_indices()
 
     OUTPUT_PATH.parent.mkdir(exist_ok=True)
     with open(OUTPUT_PATH, "w") as f:
