@@ -165,6 +165,18 @@
   .r-tp li{font-size:14.5px;color:#cdd3df;line-height:1.55;padding:10px 14px;background:rgba(255,255,255,.04);border-radius:8px;border-left:2px solid var(--accent-col,var(--markets))}
   .r-topics{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0 4px}
   .r-topic{font-size:11px;padding:3px 9px;border-radius:20px;background:rgba(255,255,255,.07);color:var(--muted);border:1px solid var(--stroke)}
+  .r-react{display:flex;gap:8px;margin-top:18px}
+  .btn-react{display:flex;align-items:center;gap:5px;padding:7px 14px;border-radius:999px;border:1px solid var(--stroke-soft);background:transparent;color:var(--muted);font-size:13px;cursor:pointer;transition:.2s;font-family:inherit}
+  .btn-react:hover{border-color:var(--stroke);color:var(--ink)}
+  .btn-react.like.active{background:rgba(74,222,128,.12);border-color:#4ade80;color:#4ade80}
+  .btn-react.dislike.active{background:rgba(248,113,113,.12);border-color:#f87171;color:#f87171}
+  .r-notes{margin-top:22px;padding-top:18px;border-top:1px solid var(--stroke-soft)}
+  .r-notes label{display:block;font-size:11px;color:var(--muted);margin-bottom:8px;letter-spacing:.06em;text-transform:uppercase}
+  .r-notes textarea{width:100%;min-height:80px;background:rgba(255,255,255,.04);border:1px solid var(--stroke-soft);border-radius:10px;color:var(--ink);font-size:14px;font-family:inherit;padding:10px 12px;resize:vertical;line-height:1.55;outline:none;box-sizing:border-box}
+  .r-notes textarea:focus{border-color:var(--stroke)}
+  .note-saved{font-size:11px;color:var(--muted);margin-top:5px;height:14px;opacity:0;transition:opacity .3s}
+  .note-saved.show{opacity:1}
+  .rxn-dot,.note-dot{font-size:10px;opacity:.65;pointer-events:none}
   .r-actions{display:flex;gap:10px;margin-top:26px;flex-wrap:wrap}
   .disc-banner{display:none;align-items:center;justify-content:space-between;gap:12px;background:rgba(247,211,61,.07);border:1px solid rgba(247,211,61,.2);border-radius:12px;padding:12px 16px;margin-bottom:14px;font-size:13px;color:var(--ink)}
   .sync-dot{position:absolute;bottom:5px;right:5px;width:7px;height:7px;border-radius:50%;border:1.5px solid #07080c}
@@ -449,6 +461,9 @@ let DATA        = [];
 let activeLane  = 'all';
 let readSet     = new Set();
 let laterSet    = new Set();
+let reactionMap = {};
+let notesMap    = {};
+let _noteTimer  = null;
 let mode        = 'deck';
 let fIndex      = 0;
 let fSource     = 'unread';
@@ -475,10 +490,42 @@ function loadState() {
     const l = localStorage.getItem('nf_later');
     if (l) JSON.parse(l).forEach(id => laterSet.add(id));
   } catch(e) {}
+  loadReactions();
+  loadNotes();
+}
+function loadReactions() {
+  try { reactionMap = JSON.parse(localStorage.getItem('nf_reactions')||'{}'); } catch(e) { reactionMap = {}; }
+}
+function saveReactions() {
+  localStorage.setItem('nf_reactions', JSON.stringify(reactionMap));
+  schedulePush();
+}
+function toggleReaction(d, action) {
+  const cur = reactionMap[d.id];
+  if (cur && cur.action === action) {
+    delete reactionMap[d.id];
+  } else {
+    reactionMap[d.id] = { action, ts: Date.now() };
+    captureSignal(d, action);
+  }
+  saveReactions();
+  render();
+}
+function loadNotes() {
+  try { notesMap = JSON.parse(localStorage.getItem('nf_notes')||'{}'); } catch(e) { notesMap = {}; }
+}
+function saveNote(id, text) {
+  if (text.trim()) {
+    notesMap[id] = { text: text.trim(), ts: Date.now() };
+  } else {
+    delete notesMap[id];
+  }
+  localStorage.setItem('nf_notes', JSON.stringify(notesMap));
+  schedulePush();
 }
 
 /* ─── LEARNING ALGORITHM (P3.5) ─── */
-const SIGNAL_W  = { read: 1.0, save: 1.5, brief: 2.0, skip: -0.3 };
+const SIGNAL_W  = { read: 1.0, save: 1.5, brief: 2.0, like: 3.0, dislike: -2.0, skip: -0.3 };
 const HALF_LIFE = 14;
 
 function captureSignal(d, action) {
@@ -606,8 +653,10 @@ async function pushGist() {
     const v = localStorage.getItem('nf_read_'+k);
     if (v) state.read[k] = JSON.parse(v);
   }
-  try { state.later   = JSON.parse(localStorage.getItem('nf_later')   ||'[]'); } catch(e){}
-  try { state.signals = JSON.parse(localStorage.getItem('nf_signals') ||'[]'); } catch(e){}
+  try { state.later     = JSON.parse(localStorage.getItem('nf_later')     ||'[]'); } catch(e){}
+  try { state.signals   = JSON.parse(localStorage.getItem('nf_signals')   ||'[]'); } catch(e){}
+  try { state.reactions = JSON.parse(localStorage.getItem('nf_reactions') ||'{}'); } catch(e){}
+  try { state.notes     = JSON.parse(localStorage.getItem('nf_notes')     ||'{}'); } catch(e){}
   try {
     const r = await fetch(`https://api.github.com/gists/${gistId}`, {
       method:'PATCH',
@@ -645,6 +694,18 @@ function mergeRemote(remote) {
     if (!seen.has(key)) { merged.push(s); seen.add(key); }
   });
   localStorage.setItem('nf_signals', JSON.stringify(merged));
+  // Reactions: last-ts-wins
+  const locReact = JSON.parse(localStorage.getItem('nf_reactions')||'{}');
+  Object.entries(remote.reactions||{}).forEach(([id, r]) => {
+    if (!locReact[id] || r.ts > locReact[id].ts) locReact[id] = r;
+  });
+  localStorage.setItem('nf_reactions', JSON.stringify(locReact));
+  // Notes: last-ts-wins
+  const locNotes = JSON.parse(localStorage.getItem('nf_notes')||'{}');
+  Object.entries(remote.notes||{}).forEach(([id, n]) => {
+    if (!locNotes[id] || n.ts > locNotes[id].ts) locNotes[id] = n;
+  });
+  localStorage.setItem('nf_notes', JSON.stringify(locNotes));
 }
 
 async function initialSync() {
@@ -912,6 +973,9 @@ function card(d, size) {
        <span class="src">${esc(d.src)} &middot; ${esc(d.time)}</span>
        <span class="acts">
          <button class="mini${laterSet.has(d.id)?' on':''}" data-act="later" title="Read later">&#9734;</button>
+         ${reactionMap[d.id]?.action==='like'    ? '<span class="rxn-dot" title="Liked">👍</span>'    : ''}
+         ${reactionMap[d.id]?.action==='dislike' ? '<span class="rxn-dot" title="Disliked">👎</span>' : ''}
+         ${notesMap[d.id] ? '<span class="note-dot" title="Has notes">✏︎</span>' : ''}
        </span>
      </div>`;
 
@@ -946,6 +1010,8 @@ function openReader(d) {
   const topicsHtml = d.topics && d.topics.length
     ? `<div class="r-topics">${d.topics.map(t => `<span class="r-topic">${esc(t)}</span>`).join('')}</div>`
     : '';
+  const rxn       = reactionMap[d.id];
+  const noteText  = notesMap[d.id]?.text || '';
   document.getElementById('reader').innerHTML =
     `<div class="r-tag">
        <span class="tag" style="background:${col}22;color:${col}">${esc(L.l)}</span>
@@ -957,6 +1023,15 @@ function openReader(d) {
      ${tpHtml}
      ${d.hl  ? `<div class="hl">${esc(d.hl)}</div>` : ''}
      ${topicsHtml}
+     <div class="r-react">
+       <button class="btn-react like${rxn?.action==='like'?' active':''}" id="likeBtn">👍 Like</button>
+       <button class="btn-react dislike${rxn?.action==='dislike'?' active':''}" id="dislikeBtn">👎 Dislike</button>
+     </div>
+     <div class="r-notes">
+       <label>Your notes</label>
+       <textarea id="noteArea" placeholder="Thoughts, follow-ups, context…">${esc(noteText)}</textarea>
+       <div class="note-saved" id="noteSaved">Saved ✓</div>
+     </div>
      ${d.url !== '#' ? `<a class="r-link" href="${esc(d.url)}" target="_blank" rel="noopener noreferrer">Read full article &#8599;</a>` : ''}
      <div class="r-actions">
        <button class="btn primary" id="markBtn">Mark read &amp; send to background</button>
@@ -970,6 +1045,26 @@ function openReader(d) {
     document.getElementById('laterBtn').innerHTML =
       laterSet.has(d.id) ? '&#9733; Saved' : '&#9734; Read later';
   };
+  document.getElementById('likeBtn').onclick = () => {
+    toggleReaction(d, 'like');
+    const r = reactionMap[d.id];
+    document.getElementById('likeBtn').classList.toggle('active', r?.action==='like');
+    document.getElementById('dislikeBtn').classList.toggle('active', r?.action==='dislike');
+  };
+  document.getElementById('dislikeBtn').onclick = () => {
+    toggleReaction(d, 'dislike');
+    const r = reactionMap[d.id];
+    document.getElementById('likeBtn').classList.toggle('active', r?.action==='like');
+    document.getElementById('dislikeBtn').classList.toggle('active', r?.action==='dislike');
+  };
+  document.getElementById('noteArea').addEventListener('input', e => {
+    clearTimeout(_noteTimer);
+    _noteTimer = setTimeout(() => {
+      saveNote(d.id, e.target.value);
+      const sv = document.getElementById('noteSaved');
+      if (sv) { sv.classList.add('show'); setTimeout(() => sv.classList.remove('show'), 1500); }
+    }, 500);
+  });
 }
 function closeReader() {
   document.getElementById('scrim').classList.remove('open');
