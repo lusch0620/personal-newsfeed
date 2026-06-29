@@ -1,165 +1,175 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Morgan Stanley clears crypto hurdle while Fed independence gets Supreme Court backing; cannabis banking reform resurfaces and regional consolidation heats up.",
+    "lede": "Morgan Stanley clears digital-asset trust hurdle; cannabis banking reform resurfaces; Fed governance tested amid Trump removal attempt.",
     "bullets": [
       {
-        "text": "Morgan Stanley wins OCC conditional approval for digital-asset trust charter, subject to maintaining $50M tier 1 capital and regulator nonobjection on material business changes.",
+        "text": "Morgan Stanley wins OCC conditional approval for digital-asset trust charter, requiring $50M minimum tier 1 capital and regulator sign-off on material business changes.",
         "refId": "f1322e4b31ca",
         "source": "Banking Dive"
       },
       {
-        "text": "Supreme Court rules 5-4 that Trump cannot remove Fed Governor Lisa Cook, cementing Fed independence from executive removal power.",
-        "refId": "5ae7281940d2",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Cannabis banking reform bill reintroduced following DEA rescheduling of medical cannabis from Schedule I to Schedule III\u2014potential regulatory pathway opening.",
+        "text": "Lawmakers reintroduced cannabis banking reform bill riding federal rescheduling momentum, aiming to end cash-based operations for state-legal cannabis businesses.",
         "refId": "0a280c45af95",
         "source": "Banking Dive"
       },
       {
-        "text": "Capital One positioning aggressively for Texas market share as regional bank consolidation accelerates and middle-class contraction pressures growth.",
+        "text": "Capital One positioning as 'steady partner' in Texas regional bank consolidation wave, competing aggressively for corporate banking relationships.",
         "refId": "acbcdda9cc50",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Supreme Court blocked Trump's attempt to remove Fed Governor Lisa Cook 5-4, preserving her seat despite expanded presidential removal powers.",
+        "refId": "5ae7281940d2",
         "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "Wealth management consolidation accelerates with leadership reshuffles and product innovation, while advisors grapple with private markets bloat.",
+    "lede": "Wealth management consolidation accelerates as platforms unify retirement/investment services, while structured products and private markets gain sophistication\u2014but Hightower hits leadership turbulence.",
     "bullets": [
       {
-        "text": "Hightower president exits after <3 months in role; successor TBD. Meanwhile Willow Wealth ($6.9B) names new president as sector shuffles leadership.",
-        "refId": "17355ff0b775",
+        "text": "Calamos packaging autocallables into ETFs to democratize structured income for retail; liquidity and tax efficiency are the draw for advisors seeking yield products.",
+        "refId": "d3ac3de944a5",
         "source": "Wealth Management"
       },
       {
-        "text": "Wealth and retirement advisory services consolidating amid regulatory tailwinds and client demand\u2014classic M&A setup for the space.",
+        "text": "Wealth and retirement platforms converging at speed as regulatory clarity and tech reduce friction; consolidation play could reshape advisor economics and AUM capture.",
         "refId": "8746af2d09fd",
         "source": "Wealth Management"
       },
       {
-        "text": "Calamos brings autocallable ETFs to retail via lower minimums and daily liquidity; advisors meanwhile packing private market portfolios with hidden concentration risk.",
-        "refId": "d3ac3de944a5",
+        "text": "Regulatory tailwinds enabling decumulation strategies in DC plans, expanding advisor toolkit and potential fee opportunities in retirement income management.",
+        "refId": "37b0b234ca56",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Hightower president exits after <3 months; leadership gap emerges at a firm positioning itself in the M&A consolidation wave.",
+        "refId": "17355ff0b775",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "PE-backed Hub International eyes public exit via confidential IPO filing while cat reinsurance rates slide 16% YTD\u2014mix of consolidation momentum and softening market discipline.",
+    "lede": "PE exit momentum in specialty insurance, rising cat exposure in Europe, and operational tech gains reshaping the underwriting landscape.",
     "bullets": [
       {
-        "text": "Hub International ($29B valuation) files confidentially for US IPO\u2014PE's clearest signal yet on exiting specialty insurance consolidation plays through public markets.",
+        "text": "$29B PE-backed Hub International files confidentially for US IPO\u2014major signal that consolidation plays in insurance broking are ready for public market exit.",
         "refId": "703f331fb89c",
         "source": "Insurance Journal"
       },
       {
-        "text": "Global property cat reinsurance rates down 16% YTD into July renewals on benign loss activity and excess capacity, extending the soft market into traditionally firmer periods.",
-        "refId": "a47a32f8bca5",
-        "source": "Reinsurance News"
+        "text": "Neptune doubles flood limits to $15M as property values surge, positioning for underserved markets amid rising climate risk.",
+        "refId": "1d5b1ebb725e",
+        "source": "Insurance Journal"
       },
       {
-        "text": "J.C. Flowers executives join Niyam Group's board\u2014PE conviction holding firm in India-focused reinsurance consolidation despite market headwinds elsewhere.",
-        "refId": "dd42470557f1",
-        "source": "Reinsurance News"
+        "text": "Eastern Europe heatwave (Budapest 104\u00b0F) spikes catastrophe exposure for regional carriers in Hungary, Romania, Balkans.",
+        "refId": "741cdca272d4",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Mayflower and Hadron launch first dedicated US affirmative AI liability program, covering the full E&O/employment/D&O stack\u2014new risk class gaining distribution momentum.",
-        "refId": "d9f7f366cdd4",
-        "source": "Reinsurance News"
+        "text": "Bridge Specialty Group cuts submission costs 40% with BoundAI tech\u2014specialty underwriting moving decisively toward automation and efficiency.",
+        "refId": "33939d6a3c4c",
+        "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "Fintech M&A stalls while Asia surges; UK exchanges face brain drain; payments infrastructure goes AI and 24/5.",
+    "lede": "Emerging-market fintech exits heating up alongside challenger bank distress; AI payment infrastructure moves to production.",
     "bullets": [
       {
-        "text": "Atom Bank sale collapsing at \u00a3600M valuation\u2014digital challenger can't find buyers in tightening fintech M&A market.",
-        "refId": "5334045f972c",
-        "source": "Finextra"
-      },
-      {
-        "text": "Mynt's $1.5bn Philippines IPO signals strong fintech appetite in Southeast Asia, validating digital payments consolidation in emerging markets.",
+        "text": "Mynt targets $1.5B IPO for GCash\u2014largest Philippine listing ever\u2014signaling strong exit appetite in emerging-market digital payments.",
         "refId": "70bfb17a2bff",
         "source": "Finextra"
       },
       {
-        "text": "LSE warns 200 UK-listed companies could migrate to US exchanges under worst-case scenario\u2014competitive and regulatory pressure mounting.",
-        "refId": "db718f7d102e",
+        "text": "Atom Bank's sale process imploding around \u00a3600M asking price; challenger bank M&A market showing real stress.",
+        "refId": "5334045f972c",
         "source": "Finextra"
       },
       {
-        "text": "NSCC extends clearing hours to 24x5 and Cr\u00e9dit Agricole executes first production agentic AI payment\u2014infrastructure racing ahead of regulation.",
-        "refId": "4919264ebcae",
+        "text": "Credit Agricole, Mastercard, and Worldline live first production agentic payment transaction in France\u2014autonomous rails moving beyond pilots.",
+        "refId": "e9f7370802e7",
         "source": "Finextra"
+      },
+      {
+        "text": "Private debt secondaries growth narrative under pressure as non-listed BDCs weigh on broader credit fundraising.",
+        "refId": "422439785650",
+        "source": "Private Debt Investor"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "Four PE deals in motion across specialty finance and real estate, but LP confidence wavering as Colorado PERA reviews its underperforming PE allocation.",
+    "lede": "Bridgepoint makes a major real estate play, but LP confidence in PE returns is cracking as Colorado PERA signals a pullback.",
     "bullets": [
       {
-        "text": "JC Flowers consortium acquiring Republic Finance in specialty finance play; Bridgepoint snapping up $22B AUM Kayne Anderson Real Estate\u2014two significant buys with valuations TBD.",
-        "refId": "9cc54cf44c15, 5ffb2e3925f6",
+        "text": "Bridgepoint acquiring Kayne Anderson Real Estate ($22B AUM) in a largely undisclosed deal; another big asset manager consolidation in real estate.",
+        "refId": "5ffb2e3925f6",
         "source": "PE Hub"
       },
       {
-        "text": "Fengate thesis: lower mid-market PE wins on operational discipline and pricing power, not leverage\u2014particularly in financial services and healthcare amid geopolitical uncertainty.",
-        "refId": "2d204e06d5fa",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Colorado PERA ($75B) pulling back on PE after benchmark underperformance; Aon signals wider LP retrenchment across the sector.",
+        "text": "Colorado PERA ($75B pension fund) reconsidering PE allocation after underperformance\u2014symptom of broader LP frustration with returns in this cycle.",
         "refId": "302660575fe1",
         "source": "Buyouts Insider"
+      },
+      {
+        "text": "JC Flowers leading investor group to acquire Republic Finance; financial services consolidation continues with Nowlake Technology also in.",
+        "refId": "9cc54cf44c15",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Lower mid-market PE proving resilient through operational discipline rather than leverage, per Fengate\u2014where returns are actually being generated.",
+        "refId": "1a328096ac14",
+        "source": "PE Hub"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "Fintech valuations crumbling, AI concentration reshaping capital flows, and deleveraging risks rising\u2014sovereign funds pivoting to private markets as public equities face structural headwinds.",
+    "lede": "Digital bank M&A stalls while macro headwinds intensify\u2014deleveraging risks rise as sovereign funds flee AI-concentrated public markets.",
     "bullets": [
       {
-        "text": "Atom Bank sale collapsing after failing to attract bids near \u00a3600mn target, signaling deeper fintech valuation pain in tightening credit environment.",
+        "text": "Atom Bank's \u00a3600mn sale process is dead in the water with no bidders stepping up, leaving the 2014-founded UK digital lender stranded.",
         "refId": "21d782cde231",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Morgan Stanley warns quarter-end funding pressure and deleveraging risk rising across leveraged investors\u2014watch for forced selling ripples.",
+        "text": "Morgan Stanley warns deleveraging event risk is rising amid quarter-end funding pressures and tightening financial conditions\u2014a structural vulnerability to monitor.",
         "refId": "42441ccf8279",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Sovereign wealth funds rotating from public equities to private credit/infrastructure to dodge AI concentration risk and geopolitical constraints.",
+        "text": "Sovereign wealth funds are rotating hard from public equities into private credit and infrastructure, fleeing AI concentration risk and geopolitical exposure.",
         "refId": "82dac5019528",
         "source": "Financial Times Markets"
       },
       {
-        "text": "AI dominance creating winner-take-most dynamic that's flattening traditional sector and regional diversification across markets.",
+        "text": "AI dominance is creating a two-tier market where mega-cap tech vastly outperforms, collapsing alpha generation and distorting capital flows across the system.",
         "refId": "01d9792b9d87",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Five stories tracking portfolio rotation headwinds: Fed hawkishness and Iran tensions shake 2H26 outlooks, while crypto and gold ETFs face record outflows as rates stay elevated.",
+    "lede": "ETF market divergence: structured products gaining traction while traditional hedges and crypto face headwinds, as macro uncertainty reshapes 2026 outlooks.",
     "bullets": [
       {
-        "text": "Wealth managers repricing 2H26 as Fed extends rate-cut pause and Iran geopolitical risk clouds equity/commodity outlook.",
-        "refId": "060473db89c4",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Bitcoin ETF outflows hit records as retail/institutional investors retreat from crypto rally; gold ETFs also losing momentum on stronger dollar and elevated rates.",
-        "refId": "126def971542",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Autocallable ETFs captured $2.5B AUM in year one by bringing retail access to opaque structured-products\u2014bright spot in otherwise defensive asset rotation.",
+        "text": "Autocallable ETFs hit $2.5B AUM in first year by bringing structured products to retail\u2014a previously institutional-only market.",
         "refId": "2f22f1c683fa",
         "source": "The Daily Upside"
       },
       {
-        "text": "SpaceX's execution volatility creating ripple risk for smaller suppliers and ecosystem partners, signaling broader execution/credit concerns in growth-stage supply chains.",
-        "refId": "0681898210cd",
+        "text": "Gold ETF flows turned negative as rising real yields and dollar strength erode inflation-hedge appeal that drove two years of inflows.",
+        "refId": "6052581b3e44",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Bitcoin ETFs experiencing record outflows amid crypto winter, signaling weakening institutional and retail demand despite recent rally.",
+        "refId": "126def971542",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Wealth managers pivoting 2026 strategy on Fed's hawkish rate hold and Iran geopolitical risk, balancing growth optimism with defensive positioning.",
+        "refId": "060473db89c4",
         "source": "The Daily Upside"
       }
     ]
@@ -169,46 +179,51 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "5 stories spanning AI's structural impact on outsourcing, labor displacement, enterprise valuation, and institutional disruption\u2014with a reminder that academia isn't immune to LLM cheating.",
+    "lede": "AI reshaping labor markets and corporate structure while a chip upstart challenges Nvidia; also, Brown's cheating problem and Europe's AC crisis.",
     "bullets": [
       {
-        "text": "AI will push routine work offshore but pull core IP in-house\u2014outcome hinges on whether firms see AI as commodity or moat. Implications for FIG vendor consolidation and internal build vs. buy decisions.",
+        "text": "Cerebras IPO'd at $56B on wafer-scale chip architecture claiming superior LLM efficiency vs. Nvidia GPUs\u2014raised $510M Series A on differentiated compute thesis.",
+        "refId": "f25070f36479",
+        "source": "The AI Corner"
+      },
+      {
+        "text": "AI will simultaneously increase *and* decrease outsourcing by task type and geography, reversing the offshoring mega-trend\u2014labor arbitrage economics getting inverted.",
         "refId": "175ccfbea18c",
         "source": "Noahpinion"
       },
       {
-        "text": "OpenAI's $122B valuation is a masterclass in compute scarcity and pricing power; fintech and financial-services AI infrastructure face similar moat dynamics.",
-        "refId": "212160d80e86",
-        "source": "The AI Corner"
+        "text": "Brown econ professor caught widespread AI cheating in advanced math course\u2014signals assessment design failure in finance-adjacent technical training pipelines.",
+        "refId": "f1c8976fafc5",
+        "source": "Marginal Revolution"
       },
       {
-        "text": "Brown econ students caught using LLMs on problem sets and exams\u2014academic institutions facing credibility and curriculum headwinds as LLM adoption accelerates.",
-        "refId": "f1c8976fafc5",
+        "text": "Cowen argues AI won't cause mass unemployment, offering counterweight to displacement anxiety in current debate.",
+        "refId": "c450d224d273",
         "source": "Marginal Revolution"
       }
     ]
   },
   "all": {
-    "lede": "PE exit momentum in specialty insurance clashes with fintech valuation collapse, while Morgan Stanley clears digital assets hurdle and macro uncertainty reshapes 2H26 outlook.",
+    "lede": "Mixed signals on financial services M&A and capital raises: PE-backed exits heating up, but distressed asset sales cooling.",
     "bullets": [
       {
-        "text": "$29B Hub International confidentially files for IPO\u2014major PE exit signal in consolidation-heavy specialty insurance broker space.",
+        "text": "Hub International confidentially files for $29B IPO\u2014PE's insurance consolidation play heading to public markets via specialty broker exit.",
         "refId": "703f331fb89c",
         "source": "Insurance Journal"
       },
       {
-        "text": "Atom Bank sale collapses after failing to attract \u00a3600M bids, underscoring fintech valuation pressure in tightening credit markets.",
+        "text": "Mynt targets $1.5B IPO in Philippines, signaling emerging-market fintech appetite and digital payments consolidation momentum.",
+        "refId": "70bfb17a2bff",
+        "source": "Finextra"
+      },
+      {
+        "text": "Atom Bank's sale process collapsing with no bidders meeting \u00a3600mn ask\u2014UK digital banking facing strategic/PE headwinds.",
         "refId": "21d782cde231",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Morgan Stanley wins OCC conditional approval for digital-asset trust charter, subject to $50M tier 1 capital floor and material change nonobjection.",
-        "refId": "f1322e4b31ca",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Wealth managers recalibrating 2H26 as Fed signals extended rate-cut pause and Iran tensions create equity/commodity headwinds.",
-        "refId": "060473db89c4",
+        "text": "Autocallables hit $2.5B in AUM within first year as ETF wrappers democratize structured products for retail.",
+        "refId": "2f22f1c683fa",
         "source": "The Daily Upside"
       }
     ]
@@ -216,37 +231,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7436.73,
+      "v": 7440.43,
       "base": 7357.49,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25792.422,
+      "v": 25820.145,
       "base": 25358.6,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52230.04,
+      "v": 52182.74,
       "base": 51920.62,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.378,
+      "v": 4.374,
       "base": 4.372,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.62,
+      "v": 17.65,
       "base": 18.41,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 183.2605,
+      "v": 182.743,
       "base": 184.64,
       "bp": false
     }
