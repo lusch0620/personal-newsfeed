@@ -265,6 +265,9 @@
 
   /* RESPONSIVE — mobile (≤480px): tighten spacing, shrink type */
   @media(max-width:480px){
+    .lanes{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch;padding-bottom:4px}
+    .lanes::-webkit-scrollbar{display:none}
+    .lane{flex-shrink:0}
     .wrap{padding:14px 13px 60px}
     .edition{font-size:24px}
     .subline{font-size:12.5px}
