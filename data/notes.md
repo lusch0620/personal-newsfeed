@@ -1,8 +1,12 @@
 # Research Notes
 *Personal annotations from the newsfeed. Injected into scoring context each pipeline run.*
-*Last updated: 2026-06-29 22:05 UTC*
+*Last updated: 2026-06-29 23:54 UTC*
 
 ---
+
+### 2026-06-29 — The Illusion of Diversification in Private Markets
+**Source:** Wealth Management
+> is this a good business idea?
 
 ### 2026-06-29 — Bitcoin ETF Outflows Hit Record Highs As Crypto Winter Sets In
 **Source:** The Daily Upside
