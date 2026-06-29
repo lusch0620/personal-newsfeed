@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LG NewsFeed — Briefing Deck v2</title>
+<style>
+  :root{
+    --bg:#07080c; --ink:#eef1f6; --muted:#8a93a6; --faint:#5b6678;
+    --glass:rgba(255,255,255,.045); --glass-strong:rgba(255,255,255,.08);
+    --stroke:rgba(255,255,255,.10); --stroke-soft:rgba(255,255,255,.06);
+    --gold:#f5d23d;
+    --banks:#60a5fa; --aw:#34d399; --ins:#fb923c; --sf:#a78bfa;
+    --pe:#e879f9; --markets:#7dd3fc; --news:#f472b6; --career:#fcd34d; --learn:#5eead4;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+  body{min-height:100vh;overflow-x:hidden;position:relative}
+  .aurora{position:fixed;inset:-30vmax;z-index:0;filter:blur(90px);opacity:.55;pointer-events:none}
+  .aurora b{position:absolute;border-radius:50%;mix-blend-mode:screen;animation:drift 26s ease-in-out infinite}
+  .aurora .a1{width:46vmax;height:46vmax;background:#1b3a8f;top:2%;left:6%}
+  .aurora .a2{width:40vmax;height:40vmax;background:#5b1d6e;top:30%;right:0%;animation-delay:-8s}
+  .aurora .a3{width:34vmax;height:34vmax;background:#0e5a52;bottom:-6%;left:34%;animation-delay:-15s}
+  @keyframes drift{0%,100%{transform:translate(0,0) scale(1)}33%{transform:translate(4vmax,-3vmax) scale(1.08)}66%{transform:translate(-3vmax,3vmax) scale(.96)}}
+  @media (prefers-reduced-motion:reduce){.aurora b{animation:none}}
+  .clamp2{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .clamp3{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+
+  .wrap{position:relative;z-index:1;max-width:1180px;margin:0 auto;padding:34px 28px 120px}
+  header.top{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;margin-bottom:8px;flex-wrap:wrap}
+  .brand{font-size:13px;letter-spacing:.32em;text-transform:uppercase;color:var(--muted)}
+  .edition{font-size:40px;font-weight:600;letter-spacing:-.02em;line-height:1.05;margin-top:6px}
+  .edition span{color:var(--markets)}
+  .subline{color:var(--muted);font-size:14px;margin-top:8px}
+  .right-rail{display:flex;align-items:center;gap:14px}
+  .modeswitch{display:flex;border:1px solid var(--stroke);border-radius:12px;overflow:hidden;backdrop-filter:blur(8px)}
+  .modeswitch button{font:inherit;font-size:13px;color:var(--muted);background:transparent;border:0;padding:9px 15px;cursor:pointer;transition:.2s;display:flex;align-items:center;gap:6px}
+  .modeswitch button.active{background:#eef1f6;color:#07080c;font-weight:500}
+  .iconbtn{position:relative;width:42px;height:42px;border-radius:12px;border:1px solid var(--stroke);background:var(--glass);color:var(--ink);font-size:18px;cursor:pointer;display:flex;align-items:center;justify-content:center;backdrop-filter:blur(8px);transition:.2s}
+  .iconbtn:hover{border-color:#eef1f6}
+  .iconbtn .badge{position:absolute;top:-7px;right:-7px;min-width:19px;height:19px;border-radius:10px;background:var(--gold);color:#1a1407;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;padding:0 5px}
+  .ring{position:relative;width:60px;height:60px}
+  .ring svg{transform:rotate(-90deg)}
+  .ring .num{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center}
+  .ring .num b{font-size:18px;font-weight:600;line-height:1}
+  .ring .num small{font-size:9px;color:var(--muted);letter-spacing:.1em;text-transform:uppercase}
+
+  .lanes{display:flex;gap:8px;flex-wrap:wrap;margin:22px 0 26px}
+  .lane{font-size:12.5px;color:var(--muted);border:1px solid var(--stroke-soft);background:var(--glass);padding:7px 13px;border-radius:999px;cursor:pointer;transition:.2s;backdrop-filter:blur(8px);user-select:none}
+  .lane:hover{color:var(--ink);border-color:var(--stroke)}
+  .lane.active{color:#07080c;background:#eef1f6;border-color:#eef1f6;font-weight:500}
+
+  .deck{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-rows:148px;gap:14px}
+  .card{position:relative;border-radius:18px;border:1px solid var(--stroke);overflow:hidden;cursor:pointer;background:var(--glass);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);padding:16px 17px;display:flex;flex-direction:column;gap:7px;transition:transform .45s cubic-bezier(.2,.8,.2,1),opacity .45s,filter .45s,border-color .25s;will-change:transform}
+  .card::before{content:"";position:absolute;inset:0;border-radius:18px;opacity:0;transition:opacity .3s;background:radial-gradient(380px circle at var(--mx,50%) var(--my,0%),rgba(255,255,255,.14),transparent 60%);pointer-events:none}
+  .card:hover{transform:translateY(-4px)}
+  .card:hover::before{opacity:1}
+  .accentbar{position:absolute;left:0;top:0;bottom:0;width:3px}
+  .c-head{display:flex;align-items:center;gap:9px;font-size:11.5px;color:var(--muted)}
+  .tag{font-size:10.5px;font-weight:600;letter-spacing:.04em;padding:3px 9px;border-radius:999px}
+  .score{margin-left:auto;font-variant-numeric:tabular-nums;font-weight:600;font-size:12px;color:var(--ink);display:flex;align-items:center;gap:4px}
+  .score i{width:6px;height:6px;border-radius:50%;display:inline-block}
+  .c-mid{flex:1;min-height:0;display:flex;flex-direction:column;gap:5px}
+  .c-title{font-weight:600;letter-spacing:-.01em;line-height:1.2}
+  .c-sum{color:var(--muted);font-size:12px;line-height:1.42}
+  .c-more{font-size:11.5px;color:var(--markets);cursor:pointer;align-self:flex-start}
+  .c-more:hover{text-decoration:underline}
+  .c-foot{display:flex;align-items:center;justify-content:space-between;color:var(--faint);font-size:11.5px;margin-top:auto}
+  .c-foot .src{color:var(--muted)}
+  .c-foot .acts{display:flex;gap:6px}
+  .mini{width:24px;height:24px;border-radius:7px;border:1px solid var(--stroke-soft);background:transparent;color:var(--muted);font-size:13px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.15s}
+  .mini:hover{color:var(--ink);border-color:var(--stroke)}
+  .mini.on{color:var(--gold);border-color:rgba(245,210,61,.5)}
+  .s-hero{grid-column:span 2;grid-row:span 2}.s-hero .c-title{font-size:24px}.s-hero .c-sum{font-size:14px;line-height:1.5}
+  .s-wide{grid-column:span 2}.s-wide .c-title{font-size:16.5px}
+  .s-tall{grid-row:span 2}.s-tall .c-title{font-size:16px}
+  .s-sm .c-title{font-size:13.5px}
+  .s-sm .c-sum{font-size:11.5px}
+  .card.read{filter:grayscale(1) brightness(.62);opacity:.5;transform:scale(.96)}
+  .card.read:hover{opacity:.8}
+  .card.dismissing{opacity:0;transform:scale(.7) translateY(40px);pointer-events:none}
+
+  .tray{margin-top:40px;border-top:1px solid var(--stroke-soft);padding-top:18px}
+  .tray h3{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint);font-weight:500;display:flex;align-items:center;gap:10px;cursor:pointer}
+  .tray h3 .chev{margin-left:auto;transition:.3s}
+  .tray.collapsed .chev{transform:rotate(-90deg)}
+  .tray-list{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+  .tray.collapsed .tray-list{display:none}
+  .chip{font-size:12px;color:var(--muted);background:rgba(255,255,255,.03);border:1px solid var(--stroke-soft);padding:8px 12px;border-radius:10px;max-width:280px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;cursor:pointer;transition:.2s}
+  .chip:hover{color:var(--ink);border-color:var(--stroke)}
+
+  .endcap{text-align:center;margin-top:54px;color:var(--muted)}
+  .endcap .rule{height:1px;background:linear-gradient(90deg,transparent,var(--stroke),transparent);margin-bottom:22px}
+  .endcap p{font-size:14px;margin-bottom:16px}
+  .btn{font:inherit;font-size:14px;color:var(--ink);background:var(--glass-strong);border:1px solid var(--stroke);padding:12px 22px;border-radius:12px;cursor:pointer;backdrop-filter:blur(8px);transition:.2s}
+  .btn:hover{border-color:#eef1f6}
+  .btn.primary{background:#eef1f6;color:#07080c;border-color:#eef1f6;font-weight:500}
+  .btn.gold{background:var(--gold);color:#1a1407;border-color:var(--gold);font-weight:600}
+
+  .scrim{position:fixed;inset:0;z-index:40;background:rgba(4,5,9,.6);backdrop-filter:blur(6px);display:none;align-items:center;justify-content:center;padding:28px;opacity:0;transition:opacity .3s}
+  .scrim.open{display:flex;opacity:1}
+  .reader{width:min(680px,100%);max-height:84vh;overflow:auto;border-radius:22px;border:1px solid var(--stroke);background:rgba(18,20,28,.85);backdrop-filter:blur(22px);padding:34px;transform:translateY(16px) scale(.98);transition:.35s cubic-bezier(.2,.8,.2,1)}
+  .scrim.open .reader{transform:none}
+  .reader .r-tag{display:inline-flex;align-items:center;gap:8px;font-size:11.5px;color:var(--muted);margin-bottom:16px}
+  .reader h2{font-size:27px;font-weight:600;letter-spacing:-.02em;line-height:1.18;margin-bottom:14px}
+  .reader .r-meta{color:var(--faint);font-size:12.5px;margin-bottom:20px}
+  .reader p.body{color:#cdd3df;font-size:15.5px;line-height:1.7;margin-bottom:14px}
+  .reader .hl{border-left:2px solid var(--markets);padding:10px 0 10px 16px;color:var(--ink);font-size:14.5px;background:rgba(125,211,252,.05);border-radius:0 8px 8px 0;margin:18px 0}
+  .r-actions{display:flex;gap:10px;margin-top:26px;flex-wrap:wrap}
+
+  /* FOCUS */
+  #focus,#brief,#later{display:none}
+  .view.on{display:block}
+  .stage{position:relative;height:560px;display:flex;align-items:center;justify-content:center;perspective:1600px;margin-top:10px}
+  .fcard{position:absolute;width:min(620px,92%);border-radius:24px;border:1px solid var(--stroke);background:rgba(20,22,30,.78);backdrop-filter:blur(20px);padding:38px;transition:transform .5s cubic-bezier(.2,.8,.2,1),opacity .5s;will-change:transform}
+  .fcard .f-tag{display:inline-flex;align-items:center;gap:8px;font-size:12px;color:var(--muted);margin-bottom:16px}
+  .fcard h2{font-size:28px;font-weight:600;letter-spacing:-.02em;line-height:1.16;margin-bottom:14px}
+  .fcard .f-sum{color:#cdd3df;font-size:15.5px;line-height:1.6;margin-bottom:12px}
+  .fcard .f-more{font-size:13px;color:var(--markets);cursor:pointer}
+  .fcard .f-hl{border-left:2px solid var(--markets);padding:8px 0 8px 16px;color:var(--ink);font-size:14px;background:rgba(125,211,252,.05);border-radius:0 8px 8px 0;margin-top:16px}
+  .fcard .f-meta{color:var(--faint);font-size:12.5px;margin-top:20px;display:flex;justify-content:space-between}
+  .fcard.flyback{transform:translateY(-90px) translateZ(-700px) rotateX(22deg);opacity:0}
+  .fnav{display:flex;align-items:center;justify-content:center;gap:14px;margin-top:14px;flex-wrap:wrap}
+  .fnav .ico{width:46px;height:46px;border-radius:50%;border:1px solid var(--stroke);background:var(--glass);color:var(--ink);font-size:19px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.2s}
+  .fnav .ico:hover{border-color:#eef1f6}
+  .fcounter{font-variant-numeric:tabular-nums;color:var(--muted);font-size:13px;min-width:64px;text-align:center}
+  .fhint{text-align:center;color:var(--faint);font-size:12px;margin-top:16px}
+  kbd{font-family:ui-monospace,Menlo,monospace;font-size:11px;background:rgba(255,255,255,.06);border:1px solid var(--stroke);border-radius:5px;padding:1px 6px}
+  .empty{text-align:center;color:var(--muted);padding:80px 0}
+  .empty b{display:block;font-size:20px;color:var(--ink);margin-bottom:8px;font-weight:600}
+
+  /* BRIEF */
+  .brief-hero{text-align:center;padding:18px 0 8px}
+  .brief-hero h2{font-size:30px;font-weight:600;letter-spacing:-.02em;margin-bottom:8px}
+  .brief-hero p{color:var(--muted);font-size:14px}
+  .brief-bar{display:flex;gap:10px;max-width:680px;margin:22px auto 14px}
+  .brief-bar input{flex:1;font:inherit;font-size:15px;color:var(--ink);background:var(--glass);border:1px solid var(--stroke);border-radius:12px;padding:14px 16px;outline:none;backdrop-filter:blur(8px)}
+  .brief-bar input:focus{border-color:#eef1f6}
+  .sugs{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;max-width:760px;margin:0 auto 10px}
+  .sug{font-size:12.5px;color:var(--muted);border:1px solid var(--stroke-soft);background:var(--glass);padding:7px 13px;border-radius:999px;cursor:pointer;transition:.2s}
+  .sug:hover{color:var(--ink);border-color:var(--stroke)}
+  .brief-out{max-width:760px;margin:26px auto 0}
+  .brief-card{border:1px solid var(--stroke);background:rgba(18,20,28,.7);backdrop-filter:blur(18px);border-radius:18px;padding:30px 32px}
+  .brief-card .bk{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--markets);margin-bottom:8px}
+  .brief-card h3{font-size:23px;font-weight:600;letter-spacing:-.01em;margin-bottom:6px}
+  .brief-card .meta{color:var(--faint);font-size:12.5px;margin-bottom:20px}
+  .point{display:flex;gap:14px;padding:15px 0;border-top:1px solid var(--stroke-soft)}
+  .point .n{flex:none;width:24px;height:24px;border-radius:50%;border:1px solid var(--stroke);font-size:12px;font-weight:600;display:flex;align-items:center;justify-content:center;color:var(--markets)}
+  .point .pc .claim{font-weight:600;font-size:15.5px;line-height:1.4;margin-bottom:5px}
+  .point .pc .sup{color:var(--muted);font-size:13.5px;line-height:1.55}
+  .point .pc .cite{font-size:12px;color:var(--faint);margin-top:7px}
+  .point .pc .cite b{color:var(--news);font-weight:500}
+  .srcbox{margin-top:22px;border-top:1px solid var(--stroke);padding-top:16px}
+  .srcbox h4{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--faint);margin-bottom:10px}
+  .srcbox ol{margin:0;padding-left:18px;color:var(--muted);font-size:13px;line-height:1.8}
+  .note{margin-top:18px;font-size:12.5px;color:var(--faint);background:rgba(125,211,252,.05);border:1px solid var(--stroke-soft);border-radius:10px;padding:12px 14px;line-height:1.5}
+  .note b{color:var(--markets);font-weight:500}
+
+  .later-grid{display:flex;flex-direction:column;gap:10px;margin-top:8px}
+  .later-row{display:flex;align-items:center;gap:14px;border:1px solid var(--stroke);background:var(--glass);backdrop-filter:blur(10px);border-radius:14px;padding:14px 16px}
+  .later-row .lr-mid{flex:1;min-width:0}
+  .later-row .lr-t{font-weight:600;font-size:15px;line-height:1.25}
+  .later-row .lr-s{color:var(--muted);font-size:12.5px;margin-top:3px}
+  .later-row .lr-src{color:var(--faint);font-size:11.5px;margin-top:4px}
+  .later-row .lr-act{display:flex;gap:8px;flex:none}
+</style>
+</head>
+<body>
+<div class="aurora"><b class="a1"></b><b class="a2"></b><b class="a3"></b></div>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <div class="brand">LG NewsFeed</div>
+      <div class="edition">Friday <span>briefing</span></div>
+      <div class="subline">June 27, 2026 &middot; evening edition &middot; 14 stories from 40 sources</div>
+    </div>
+    <div class="right-rail">
+      <div class="modeswitch">
+        <button id="mDeck" class="active" onclick="setMode('deck')">Deck</button>
+        <button id="mFocus" onclick="setMode('focus')">Focus</button>
+        <button id="mBrief" onclick="setMode('brief')">Brief me</button>
+      </div>
+      <button class="iconbtn" onclick="setMode('later')" aria-label="Read later" title="Read later">&#9734;<span class="badge" id="laterBadge" style="display:none">0</span></button>
+      <div class="ring">
+        <svg width="60" height="60"><circle cx="30" cy="30" r="25" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="4"></circle>
+        <circle id="prog" cx="30" cy="30" r="25" fill="none" stroke="#7dd3fc" stroke-width="4" stroke-linecap="round" stroke-dasharray="157" stroke-dashoffset="157"></circle></svg>
+        <div class="num"><b id="readCount">0</b><small>read</small></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="view on" id="deck-view">
+    <div class="lanes" id="lanes"></div>
+    <div class="deck" id="deck"></div>
+    <div class="tray collapsed" id="tray">
+      <h3 id="trayHead"><span>Read &middot; in the background</span> <span id="trayCnt">(0)</span> <i class="chev">&#9662;</i></h3>
+      <div class="tray-list" id="trayList"></div>
+    </div>
+    <div class="endcap"><div class="rule"></div>
+      <p>That's the edition. No endless scroll &mdash; you've reached the end of today.</p>
+      <button class="btn" onclick="this.textContent='You are all caught up';this.disabled=true;this.style.opacity=.5">Load yesterday's edition</button>
+    </div>
+  </div>
+
+  <div class="view" id="focus">
+    <div class="stage" id="stage"></div>
+    <div class="fnav">
+      <div class="ico" onclick="fPrev()" aria-label="Previous">&#8592;</div>
+      <button class="btn primary" onclick="fRead()">Mark read</button>
+      <button class="btn" onclick="fLater()">&#9734; Read later</button>
+      <div class="fcounter" id="fCounter">1 / 14</div>
+      <div class="ico" onclick="fNext()" aria-label="Next">&#8594;</div>
+    </div>
+    <div class="fhint"><kbd>&#8592;</kbd> <kbd>&#8594;</kbd> move &middot; <kbd>R</kbd> read &middot; <kbd>L</kbd> read later</div>
+  </div>
+
+  <div class="view" id="brief">
+    <div class="brief-hero">
+      <h2>What are you curious about today?</h2>
+      <p>Type a topic and get succinct talking points, with support and sources.</p>
+    </div>
+    <div class="brief-bar">
+      <input id="briefIn" placeholder="e.g. brief me on regional bank M&amp;A" onkeydown="if(event.key==='Enter')runBrief(this.value)">
+      <button class="btn primary" onclick="runBrief(document.getElementById('briefIn').value)">Brief me</button>
+    </div>
+    <div class="sugs" id="sugs"></div>
+    <div class="brief-out" id="briefOut"></div>
+  </div>
+
+  <div class="view" id="later">
+    <div class="brief-hero"><h2>&#9734; Read later</h2><p id="laterSub">Saved stories to come back to.</p></div>
+    <div style="max-width:820px;margin:0 auto">
+      <div id="laterActions" style="display:flex;gap:10px;justify-content:center;margin-bottom:20px"></div>
+      <div class="later-grid" id="laterGrid"></div>
+    </div>
+  </div>
+</div>
+
+<div class="scrim" id="scrim"><div class="reader" id="reader"></div></div>
+
+<script>
+const LANE={banks:{l:"Banks",c:"--banks"},markets:{l:"Markets & Macro",c:"--markets"},news:{l:"Newsletters",c:"--news"},
+  pe:{l:"PE & Deals",c:"--pe"},sf:{l:"Specialty Finance",c:"--sf"},career:{l:"Career",c:"--career"},
+  learn:{l:"Learn",c:"--learn"},aw:{l:"Asset & Wealth",c:"--aw"}};
+const DATA=[
+ {id:1,size:"s-hero",lane:"banks",score:9,src:"CNBC",time:"2h ago",title:"JPMorgan names Petno and Rohrbaugh co-presidents as Marianne Lake exits",sum:"A co-presidency installs the two as the clearest candidates yet to one day succeed Jamie Dimon.",body:["JPMorgan Chase named Doug Petno and Troy Rohrbaugh as co-presidents, while longtime executive Marianne Lake departs after 30 years.","The move sharpens the field of internal candidates to eventually succeed Jamie Dimon and reorders reporting lines across the commercial and markets businesses."],hl:"Co-president structure at the $3.9T-asset bank makes the two the obvious succession frontrunners."},
+ {id:2,size:"s-wide",lane:"sf",score:8,src:"Finextra",time:"3h ago",title:"Binance to stop serving EU customers after failing to secure MiCA license",sum:"The largest global exchange will halt EU services July 1 after missing the bloc's crypto-licensing deadline.",body:["Binance told EU customers it will halt services from July 1 after failing to obtain a license under the bloc's Markets in Crypto-Assets Regulation."],hl:"MiCA enforcement forces the largest global exchange out of the EU."},
+ {id:3,size:"s-tall",lane:"news",score:9,src:"Net Interest",time:"5h ago",title:"The deposit franchise nobody is pricing correctly",sum:"Marc Rubinstein argues consensus underprices sticky, low-cost retail funding at a handful of regionals.",body:["Rubinstein walks through deposit beta and argues consensus underprices low-cost, sticky retail funding at a handful of regionals."],hl:"A reusable frame for valuing deposit franchises in FIG comps."},
+ {id:4,size:"s-sm",lane:"banks",score:8,src:"Banking Dive",time:"4h ago",title:"Two Southeast banks to merge in $163M all-stock deal",sum:"Colony Bank buys First Reliance, becoming the largest sub-$10B bank in GA/SC.",body:["Colony Bank to acquire First Reliance Bancshares, becoming the largest sub-$10B bank in Georgia/South Carolina."],hl:"$163M all-stock; platform for further add-on M&A."},
+ {id:5,size:"s-sm",lane:"pe",score:8,src:"PE Hub",time:"6h ago",title:"Mid-market PE firm raises $2.1B for financial-services fund",sum:"New fund targets specialty lenders and insurance services in the lower-middle market.",body:["The fund will target specialty lenders and insurance services in the lower-middle market."],hl:"Fresh dry powder aimed at specialty finance."},
+ {id:6,size:"s-wide",lane:"learn",score:9,src:"Stratechery",time:"7h ago",title:"Aggregation theory, ten years on: what the AI platforms got right",sum:"Ben Thompson maps his aggregation thesis onto AI incumbents: distribution, not models, is the moat.",body:["Thompson maps his aggregation thesis onto the AI incumbents and argues distribution, not models, remains the moat."],hl:"A strategy frame that travels beyond tech."},
+ {id:7,size:"s-sm",lane:"career",score:8,src:"eFinancialCareers",time:"8h ago",title:"Where FIG bankers are lateraling in 2026",sum:"Which platforms are paying up for FIG coverage talent, and where bonuses are landing.",body:["A read on which platforms are paying up for FIG coverage talent, and where bonuses are landing."],hl:"Direct lateral-market signal for FIG analysts."},
+ {id:8,size:"s-sm",lane:"markets",score:7,src:"TKer",time:"9h ago",title:"The labor market is cooling, not cracking",sum:"Sam Ro reads the latest payrolls as consistent with a soft landing, not a downturn.",body:["Sam Ro on why the latest payrolls print is consistent with a soft landing."],hl:"Clear takeaway on the rates path into year-end."},
+ {id:9,size:"s-tall",lane:"markets",score:8,src:"The Overshoot",time:"10h ago",title:"Credit conditions are quietly tightening at the regionals",sum:"Matthew Klein finds the tightening concentrated in CRE-exposed regional banks.",body:["Klein digs into senior-loan-officer survey internals; the tightening is concentrated in CRE-exposed regionals."],hl:"Read-through to deal financing for smaller banks."},
+ {id:10,size:"s-sm",lane:"aw",score:7,src:"Wealth Mgmt",time:"11h ago",title:"RIA roll-up pace hits record in Q2",sum:"Record RIA deal count; valuations holding despite higher financing costs.",body:["Aggregators closed a record number of RIA deals, valuations holding despite higher financing costs."],hl:"Sustained RIA M&A."},
+ {id:11,size:"s-sm",lane:"learn",score:7,src:"Noahpinion",time:"13h ago",title:"Why the productivity debate is mostly measurement",sum:"Noah Smith argues much of the AI-productivity disagreement is a statistics problem.",body:["Noah Smith argues much of the AI-productivity disagreement is a statistics problem."],hl:"Sharpens how to read productivity data."},
+ {id:12,size:"s-sm",lane:"news",score:7,src:"The Diff",time:"14h ago",title:"The economics of a stablecoin issuer",sum:"Byrne Hobart breaks down the float-driven model and where the regulatory risk sits.",body:["Byrne Hobart breaks down the float-driven business model and where regulatory risk sits."],hl:"Frames the digital-assets opportunity in FIG terms."},
+ {id:13,size:"s-sm",lane:"pe",score:7,src:"Buyouts",time:"16h ago",title:"Secondaries pricing firms up as LPs seek liquidity",sum:"Discounts to NAV narrowed in the latest tranche of LP-led deals.",body:["Discounts to NAV narrowed in the latest tranche of LP-led deals."],hl:"Liquidity returning to secondaries."},
+ {id:14,size:"s-sm",lane:"markets",score:6,src:"WSJ Markets",time:"17h ago",title:"Treasury yields drift as traders weigh data",sum:"A quiet session; the 10-year is little changed ahead of next week's CPI.",body:["A quiet session with the 10-year little changed ahead of next week's CPI."],hl:"Routine session; watch next week's CPI."}
+];
+const deck=document.getElementById('deck'), tray=document.getElementById('tray'),
+  trayList=document.getElementById('trayList'), trayCnt=document.getElementById('trayCnt');
+let activeLane="all", readSet=new Set(), laterSet=new Set(), mode="deck", fIndex=0, fSource="unread";
+function cvar(c){return getComputedStyle(document.documentElement).getPropertyValue(c).trim()}
+function unread(){return DATA.filter(d=>!readSet.has(d.id))}
+function byId(id){return DATA.find(d=>d.id===id)}
+
+function render(){
+  deck.innerHTML="";
+  unread().filter(d=>activeLane==="all"||d.lane===activeLane).sort((a,b)=>b.score-a.score)
+    .forEach(d=>deck.appendChild(card(d)));
+}
+function card(d){
+  const L=LANE[d.lane], col=cvar(L.c), el=document.createElement('div');
+  const big=(d.size==="s-hero"||d.size==="s-tall"||d.size==="s-wide");
+  el.className="card "+d.size; el.dataset.id=d.id;
+  el.innerHTML=`<div class="accentbar" style="background:${col}"></div>
+    <div class="c-head"><span class="tag" style="background:${col}22;color:${col}">${L.l}</span><span class="score"><i style="background:${col}"></i>${d.score}</span></div>
+    <div class="c-mid">
+      <div class="c-title ${big?'clamp3':'clamp2'}">${d.title}</div>
+      <div class="c-sum ${big?'clamp3':'clamp2'}">${d.sum}</div>
+      <span class="c-more">Show more</span>
+    </div>
+    <div class="c-foot"><span class="src">${d.src} &middot; ${d.time}</span>
+      <span class="acts"><button class="mini ${laterSet.has(d.id)?'on':''}" data-act="later" title="Read later">&#9734;</button></span>
+    </div>`;
+  el.addEventListener('mousemove',e=>{const r=el.getBoundingClientRect();el.style.setProperty('--mx',(e.clientX-r.left)+'px');el.style.setProperty('--my',(e.clientY-r.top)+'px')});
+  el.addEventListener('click',e=>{
+    if(e.target.dataset.act==="later"){e.stopPropagation();toggleLater(d.id);e.target.classList.toggle('on',laterSet.has(d.id));return;}
+    openReader(d);
+  });
+  return el;
+}
+function openReader(d){
+  const L=LANE[d.lane], col=cvar(L.c), r=document.getElementById('reader');
+  r.innerHTML=`<div class="r-tag"><span class="tag" style="background:${col}22;color:${col}">${L.l}</span> &middot; relevance ${d.score}/10</div>
+    <h2>${d.title}</h2><div class="r-meta">${d.src} &middot; ${d.time}</div>
+    ${d.body.map(p=>`<p class="body">${p}</p>`).join("")}<div class="hl">${d.hl}</div>
+    <div class="r-actions"><button class="btn primary" id="markBtn">Mark read &amp; send to background</button>
+    <button class="btn" id="laterBtn">${laterSet.has(d.id)?'&#9733; Saved':'&#9734; Read later'}</button>
+    <button class="btn" onclick="closeReader()">Keep in deck</button></div>`;
+  document.getElementById('scrim').classList.add('open');
+  document.getElementById('markBtn').onclick=()=>{closeReader();markRead(d);};
+  document.getElementById('laterBtn').onclick=()=>{toggleLater(d.id);document.getElementById('laterBtn').innerHTML=laterSet.has(d.id)?'&#9733; Saved':'&#9734; Read later';};
+}
+function closeReader(){document.getElementById('scrim').classList.remove('open');}
+document.getElementById('scrim').addEventListener('click',e=>{if(e.target.id==='scrim')closeReader();});
+function markRead(d){
+  const el=deck.querySelector(`.card[data-id="${d.id}"]`);
+  if(el){el.classList.add('dismissing');setTimeout(commit,450);}else commit();
+  function commit(){readSet.add(d.id);laterSet.delete(d.id);render();updateMeter();buildTray();updateLaterBadge();}
+}
+function toggleLater(id){if(laterSet.has(id))laterSet.delete(id);else laterSet.add(id);updateLaterBadge();}
+function updateLaterBadge(){
+  const b=document.getElementById('laterBadge');b.textContent=laterSet.size;b.style.display=laterSet.size?'flex':'none';
+}
+function buildTray(){
+  trayList.innerHTML="";const items=DATA.filter(d=>readSet.has(d.id));trayCnt.textContent=`(${items.length})`;
+  items.forEach(d=>{const c=document.createElement('div');c.className="chip";c.textContent=d.title;
+    c.onclick=()=>{readSet.delete(d.id);render();updateMeter();buildTray();};trayList.appendChild(c);});
+  if(items.length===1)tray.classList.remove('collapsed');
+}
+document.getElementById('trayHead').onclick=()=>tray.classList.toggle('collapsed');
+function updateMeter(){const n=readSet.size;document.getElementById('readCount').textContent=n;
+  document.getElementById('prog').style.strokeDashoffset=(2*Math.PI*25)*(1-n/DATA.length);}
+function buildLanes(){
+  const lanes=document.getElementById('lanes'), keys=["all",...new Set(DATA.map(d=>d.lane))];
+  keys.forEach(k=>{const b=document.createElement('div');b.className="lane"+(k==="all"?" active":"");
+    b.textContent=k==="all"?"All":LANE[k].l;
+    b.onclick=()=>{activeLane=k;document.querySelectorAll('.lane').forEach(x=>x.classList.remove('active'));b.classList.add('active');render();};
+    lanes.appendChild(b);});
+}
+
+/* MODES */
+function setMode(m){
+  mode=m;
+  document.getElementById('mDeck').classList.toggle('active',m==="deck");
+  document.getElementById('mFocus').classList.toggle('active',m==="focus");
+  document.getElementById('mBrief').classList.toggle('active',m==="brief");
+  ["deck-view","focus","brief","later"].forEach(v=>document.getElementById(v).classList.remove('on'));
+  ({deck:"deck-view",focus:"focus",brief:"brief",later:"later"}[m]&&document.getElementById({deck:"deck-view",focus:"focus",brief:"brief",later:"later"}[m]).classList.add('on'));
+  if(m==="focus"){fSource="unread";fIndex=0;renderFocus();}
+  if(m==="later")buildLater();
+}
+
+/* FOCUS */
+function focusList(){return fSource==="later"?DATA.filter(d=>laterSet.has(d.id)&&!readSet.has(d.id)):unread();}
+function renderFocus(){
+  const stage=document.getElementById('stage'), list=focusList();stage.innerHTML="";
+  if(!list.length){stage.innerHTML='<div class="empty"><b>'+(fSource==="later"?"Reading list cleared":"Inbox zero")+'</b>'+(fSource==="later"?"You have read everything you saved.":"You have cleared today's edition.")+'</div>';document.getElementById('fCounter').textContent="0 / 0";return;}
+  if(fIndex>=list.length)fIndex=list.length-1;
+  for(let depth=Math.min(2,list.length-1-fIndex);depth>=0;depth--){
+    const d=list[fIndex+depth], L=LANE[d.lane], col=cvar(L.c), el=document.createElement('div');
+    el.className="fcard";el.style.transform=`translateY(${depth*16}px) translateZ(${-depth*90}px) scale(${1-depth*.04})`;
+    el.style.opacity=depth===0?1:(.55-depth*.18);el.style.zIndex=10-depth;
+    el.innerHTML=`<div class="f-tag"><span class="tag" style="background:${col}22;color:${col}">${L.l}</span> &middot; relevance ${d.score}/10</div>
+      <h2>${d.title}</h2><div class="f-sum">${d.sum}</div><span class="f-more" data-id="${d.id}">Show more</span>
+      <div class="f-hl">${d.hl}</div><div class="f-meta"><span>${d.src}</span><span>${d.time}</span></div>`;
+    if(depth===0){el.id="topCard";el.querySelector('.f-more').onclick=()=>openReader(d);}
+    stage.appendChild(el);
+  }
+  document.getElementById('fCounter').textContent=`${fIndex+1} / ${list.length}`;
+}
+function fNext(){if(fIndex<focusList().length-1){fIndex++;renderFocus();}}
+function fPrev(){if(fIndex>0){fIndex--;renderFocus();}}
+function fRead(){const list=focusList();if(!list.length)return;const d=list[fIndex],top=document.getElementById('topCard');
+  if(top){top.classList.add('flyback');setTimeout(()=>{readSet.add(d.id);laterSet.delete(d.id);updateMeter();buildTray();updateLaterBadge();render();renderFocus();},480);}}
+function fLater(){const list=focusList();if(!list.length)return;toggleLater(list[fIndex].id);fNext();}
+document.addEventListener('keydown',e=>{
+  if(mode!=="focus")return;
+  if(e.key==="ArrowRight")fNext();else if(e.key==="ArrowLeft")fPrev();
+  else if(e.key.toLowerCase()==="r")fRead();else if(e.key.toLowerCase()==="l")fLater();});
+
+/* READ LATER */
+function buildLater(){
+  const grid=document.getElementById('laterGrid'), acts=document.getElementById('laterActions');
+  const items=DATA.filter(d=>laterSet.has(d.id));
+  document.getElementById('laterSub').textContent=items.length?`${items.length} saved. Start a session and read them one at a time.`:"Nothing saved yet — tap the star on any story.";
+  acts.innerHTML=items.length?`<button class="btn gold" onclick="startLaterSession()">Read these now &#8594;</button><button class="btn" onclick="briefSaved()">Brief me on these</button>`:"";
+  grid.innerHTML="";
+  items.forEach(d=>{const L=LANE[d.lane],col=cvar(L.c),row=document.createElement('div');row.className="later-row";
+    row.innerHTML=`<span class="tag" style="background:${col}22;color:${col};flex:none">${L.l}</span>
+      <div class="lr-mid"><div class="lr-t">${d.title}</div><div class="lr-s clamp2">${d.sum}</div><div class="lr-src">${d.src} &middot; ${d.time}</div></div>
+      <div class="lr-act"><button class="btn primary" data-read="${d.id}">Read now</button><button class="mini on" data-rm="${d.id}" title="Remove">&#10005;</button></div>`;
+    row.querySelector('[data-read]').onclick=()=>openReader(d);
+    row.querySelector('[data-rm]').onclick=()=>{laterSet.delete(d.id);updateLaterBadge();buildLater();};
+    grid.appendChild(row);});
+}
+function startLaterSession(){setMode('focus');fSource="later";fIndex=0;document.getElementById('mFocus').classList.add('active');renderFocus();}
+function briefSaved(){setMode('brief');renderBrief("Your saved reading list",DATA.filter(d=>laterSet.has(d.id)),true);}
+
+/* BRIEF ME */
+const SUGGEST=["Regional bank M&A","Private credit & specialty finance","Stablecoin regulation","Fed rate path","RIA consolidation","FIG lateral hiring"];
+const LIB={
+ "stablecoin regulation":{title:"Stablecoin regulation",points:[
+   {claim:"The EU is now enforcing, not drafting.",sup:"MiCA went from rulebook to teeth — Binance is exiting the bloc July 1 for lack of a license, the first major forced withdrawal.",cite:"Finextra"},
+   {claim:"The issuer model is a float business, and that's where the risk sits.",sup:"Revenue is interest on reserves; the regulatory pressure point is reserve quality and redemption guarantees, not the token itself.",cite:"The Diff"},
+   {claim:"Read-through for FIG: licensed players inherit share.",sup:"Forced exits create a consolidation opening for banks and licensed platforms seeking digital-asset rails.",cite:"Finextra / The Diff"}],
+   sources:["Finextra — Binance to exit EU over MiCA","The Diff — The economics of a stablecoin issuer"]},
+ "fed rate path":{title:"The Fed and the rate path",points:[
+   {claim:"The labor market is cooling, not cracking.",sup:"Latest payrolls are consistent with a soft landing rather than a downturn — argues against forced cuts.",cite:"TKer"},
+   {claim:"But credit is quietly tightening underneath.",sup:"Senior-loan-officer internals show tightening concentrated in CRE-exposed regionals — a channel the headline rate misses.",cite:"The Overshoot"},
+   {claim:"Near-term, the market is waiting on one print.",sup:"Treasuries are drifting with the 10-year little changed ahead of next week's CPI — that's the catalyst.",cite:"WSJ Markets"}],
+   sources:["TKer — The labor market is cooling, not cracking","The Overshoot — Credit conditions tightening at regionals","WSJ Markets — Treasury yields drift"]}
+};
+function buildSugs(){const s=document.getElementById('sugs');s.innerHTML=SUGGEST.map(t=>`<span class="sug">${t}</span>`).join("");
+  s.querySelectorAll('.sug').forEach(x=>x.onclick=()=>{document.getElementById('briefIn').value=x.textContent;runBrief(x.textContent);});}
+function runBrief(q){
+  q=(q||"").trim();if(!q)return;
+  const key=q.toLowerCase();
+  if(LIB[key]){const L=LIB[key];renderBriefStruct(L.title,L.points,L.sources,false);return;}
+  const terms=key.replace(/^brief me on/,'').replace(/[^a-z0-9 &]/g,'').split(/\s+/).filter(w=>w.length>2);
+  const laneHit=Object.keys(LANE).find(k=>LANE[k].l.toLowerCase().includes(key)||key.includes(LANE[k].l.toLowerCase().split(' ')[0]));
+  let matches=DATA.filter(d=>{const hay=(d.title+" "+d.sum+" "+d.hl+" "+LANE[d.lane].l).toLowerCase();
+    return (laneHit&&d.lane===laneHit)||terms.some(t=>hay.includes(t));});
+  matches.sort((a,b)=>b.score-a.score);
+  renderBrief(q,matches.slice(0,5),false);
+}
+function renderBrief(topic,items,saved){
+  if(!items.length){
+    document.getElementById('briefOut').innerHTML=`<div class="brief-card"><div class="bk">Brief</div><h3>${topic}</h3>
+      <div class="meta">No stories in today's edition match that yet.</div>
+      <div class="note"><b>Live version:</b> Claude runs web search across your 40 feeds plus the open web and returns 3&ndash;5 cited talking points with links. In this prototype, briefs are built only from today's 14 sample stories &mdash; try a suggestion below.</div></div>`;
+    return;}
+  const points=items.map(d=>({claim:d.sum,sup:d.hl,cite:d.src}));
+  const sources=items.map(d=>`${d.src} — ${d.title}`);
+  renderBriefStruct((saved?"Your saved reading list":topic),points,sources,true);
+}
+function renderBriefStruct(title,points,sources,fromFeed){
+  document.getElementById('briefOut').innerHTML=`<div class="brief-card">
+    <div class="bk">Talking points</div><h3>${title}</h3>
+    <div class="meta">${points.length} points &middot; ${fromFeed?"assembled from today's edition":"curated brief"} &middot; June 27, 2026</div>
+    ${points.map((p,i)=>`<div class="point"><div class="n">${i+1}</div><div class="pc">
+      <div class="claim">${p.claim}</div><div class="sup">${p.sup}</div><div class="cite">Support: <b>${p.cite}</b></div></div></div>`).join("")}
+    <div class="srcbox"><h4>Sources</h4><ol>${sources.map(s=>`<li>${s}</li>`).join("")}</ol></div>
+    <div class="note"><b>Live version:</b> adds open-web search and returns clickable cited links; this demo draws on today's 14 sample stories.</div>
+  </div>`;
+}
+
+buildLanes();render();updateMeter();buildTray();buildSugs();updateLaterBadge();
+</script>
+</body>
+</html>

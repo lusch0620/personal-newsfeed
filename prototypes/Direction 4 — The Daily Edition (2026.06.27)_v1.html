@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LG NewsFeed — The Daily Edition</title>
+<style>
+  :root{
+    --bg:#0c0b09; --paper:#13110d; --ink:#efe9dc; --muted:#9a917f; --faint:#6a6253;
+    --rule:rgba(239,233,220,.16); --rule-soft:rgba(239,233,220,.08);
+    --accent:#c9a24a;
+    --banks:#7fb2e8; --aw:#6fcf9f; --ins:#e0995a; --sf:#b79be8;
+    --pe:#e58fc6; --markets:#7fc6e8; --news:#e892ab; --career:#e0c45a; --learn:#5fd6c2;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{background:var(--bg);color:var(--ink)}
+  body{font-family:Georgia,"Iowan Old Style","Times New Roman",serif;line-height:1.5;min-height:100vh}
+  .grain{position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.5;background:radial-gradient(1100px circle at 50% -5%,rgba(201,162,74,.07),transparent 55%)}
+  .sheet{position:relative;z-index:1;max-width:1080px;margin:0 auto;padding:30px 34px 120px}
+
+  .masthead{text-align:center;border-bottom:3px double var(--rule);padding-bottom:18px}
+  .masthead .kick{font-family:-apple-system,system-ui,sans-serif;font-size:11px;letter-spacing:.42em;text-transform:uppercase;color:var(--muted)}
+  .masthead h1{font-size:62px;letter-spacing:-.01em;font-weight:700;margin:10px 0 6px;line-height:1}
+  .masthead h1 em{color:var(--accent);font-style:normal}
+  .dateline{font-family:-apple-system,system-ui,sans-serif;display:flex;justify-content:space-between;font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--faint);border-top:1px solid var(--rule-soft);margin-top:16px;padding-top:10px}
+
+  .nav{display:flex;gap:20px;justify-content:center;flex-wrap:wrap;font-family:-apple-system,system-ui,sans-serif;font-size:12px;letter-spacing:.14em;text-transform:uppercase;padding:16px 0;border-bottom:1px solid var(--rule);margin-bottom:26px}
+  .nav a{color:var(--muted);cursor:pointer;text-decoration:none;transition:.15s;position:relative}
+  .nav a:hover{color:var(--ink)}
+  .nav a.on{color:var(--accent)}
+
+  /* COVER */
+  .cover{display:grid;grid-template-columns:1.55fr 1fr;gap:34px;padding-bottom:30px;border-bottom:1px solid var(--rule);margin-bottom:8px}
+  .cover .lead{cursor:pointer}
+  .cover .ldtag{font-family:-apple-system,system-ui,sans-serif;font-size:11px;letter-spacing:.16em;text-transform:uppercase;margin-bottom:14px}
+  .cover h2{font-size:46px;line-height:1.05;letter-spacing:-.015em;font-weight:700;margin-bottom:16px}
+  .cover .stand{font-size:18px;color:#cfc7b5;line-height:1.55;margin-bottom:14px}
+  .cover .by{font-family:-apple-system,system-ui,sans-serif;font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--faint)}
+  .cover .rail{border-left:1px solid var(--rule);padding-left:26px}
+  .cover .rail h4{font-family:-apple-system,system-ui,sans-serif;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint);margin-bottom:14px}
+  .railitem{padding:13px 0;border-bottom:1px solid var(--rule-soft);cursor:pointer}
+  .railitem:last-child{border-bottom:0}
+  .railitem .rt{font-family:-apple-system,system-ui,sans-serif;font-size:10px;letter-spacing:.12em;text-transform:uppercase;margin-bottom:5px}
+  .railitem h5{font-size:17px;font-weight:700;line-height:1.2}
+  .railitem:hover h5{color:var(--accent)}
+
+  /* SECTIONS */
+  .section{margin-top:34px}
+  .sechead{display:flex;align-items:center;gap:14px;margin-bottom:18px}
+  .sechead .nm{font-family:-apple-system,system-ui,sans-serif;font-size:13px;letter-spacing:.24em;text-transform:uppercase;color:var(--ink)}
+  .sechead .ln{flex:1;height:1px;background:var(--rule)}
+  .sechead .ct{font-family:-apple-system,system-ui,sans-serif;font-size:11px;color:var(--faint)}
+  .cols{column-count:3;column-gap:30px}
+  @media (max-width:820px){.cols{column-count:2}.cover{grid-template-columns:1fr}.cover .rail{border-left:0;padding-left:0;border-top:1px solid var(--rule);padding-top:20px}}
+  .art{break-inside:avoid;border-bottom:1px solid var(--rule-soft);padding-bottom:16px;margin-bottom:18px;cursor:pointer;transition:.2s}
+  .art .at{font-family:-apple-system,system-ui,sans-serif;font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:7px}
+  .art h3{font-size:21px;line-height:1.16;font-weight:700;margin-bottom:8px}
+  .art:hover h3{color:var(--accent)}
+  .art p{font-size:14.5px;color:#bdb4a2;line-height:1.5}
+  .art .src{font-family:-apple-system,system-ui,sans-serif;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--faint);margin-top:8px}
+  .art.drop h3::first-letter{font-size:46px;float:left;line-height:.82;padding:4px 8px 0 0;color:var(--accent)}
+
+  /* read -> filed */
+  .art.read{opacity:.42}
+  .art.read h3{font-weight:400;font-size:15px;color:var(--muted)}
+  .art.read p,.art.read .at{display:none}
+  .art.read .src::before{content:"Filed · ";color:var(--accent)}
+
+  .endmark{text-align:center;margin-top:60px;color:var(--faint)}
+  .endmark .dot{font-size:20px;letter-spacing:.5em;color:var(--accent)}
+  .endmark p{font-family:-apple-system,system-ui,sans-serif;font-size:12px;letter-spacing:.1em;text-transform:uppercase;margin:14px 0}
+  .endmark .arch{display:inline-flex;gap:10px}
+  .endmark .arch span{font-family:-apple-system,system-ui,sans-serif;font-size:11px;letter-spacing:.08em;color:var(--muted);border:1px solid var(--rule);padding:7px 14px;border-radius:2px;cursor:pointer;text-transform:uppercase}
+  .endmark .arch span:hover{color:var(--ink);border-color:var(--accent)}
+
+  /* reader */
+  .scrim{position:fixed;inset:0;z-index:40;background:rgba(8,7,5,.74);display:none;align-items:flex-start;justify-content:center;padding:40px 24px;overflow:auto}
+  .scrim.open{display:flex}
+  .read-sheet{width:min(640px,100%);background:var(--paper);border:1px solid var(--rule);padding:46px 50px}
+  .read-sheet .rt{font-family:-apple-system,system-ui,sans-serif;font-size:11px;letter-spacing:.16em;text-transform:uppercase;margin-bottom:18px}
+  .read-sheet h2{font-size:34px;line-height:1.12;font-weight:700;letter-spacing:-.01em;margin-bottom:14px}
+  .read-sheet .meta{font-family:-apple-system,system-ui,sans-serif;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);border-bottom:1px solid var(--rule-soft);padding-bottom:18px;margin-bottom:22px}
+  .read-sheet p{font-size:17px;line-height:1.62;color:#d8d0bf;margin-bottom:15px}
+  .read-sheet p:first-of-type::first-letter{font-size:56px;float:left;line-height:.8;padding:6px 10px 0 0;color:var(--accent);font-weight:700}
+  .read-sheet .hl{font-family:-apple-system,system-ui,sans-serif;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:14px 0;font-size:14px;color:var(--accent);margin:20px 0;letter-spacing:.02em}
+  .read-sheet .act{display:flex;gap:12px;margin-top:24px}
+  .read-sheet .act button{font-family:-apple-system,system-ui,sans-serif;font-size:12px;letter-spacing:.08em;text-transform:uppercase;padding:11px 18px;cursor:pointer;border:1px solid var(--rule);background:transparent;color:var(--ink);border-radius:2px}
+  .read-sheet .act button.file{background:var(--accent);color:#1a1407;border-color:var(--accent);font-weight:700}
+</style>
+</head>
+<body>
+<div class="grain"></div>
+<div class="sheet">
+  <div class="masthead">
+    <div class="kick">Curated from 40 sources &middot; relevance-ranked by Claude</div>
+    <h1>The <em>LG</em> Briefing</h1>
+    <div class="dateline"><span>Vol. I &middot; No. 174</span><span>Friday, June 27, 2026 &middot; Evening Edition</span><span id="readstat">0 filed &middot; 14 to read</span></div>
+  </div>
+  <div class="nav" id="nav"></div>
+  <div id="cover"></div>
+  <div id="sections"></div>
+  <div class="endmark">
+    <div class="dot">&middot; &middot; &middot;</div>
+    <p>End of today's edition</p>
+    <div class="arch"><span onclick="this.textContent='No earlier editions'">Yesterday</span><span onclick="this.textContent='Archive empty'">This week</span></div>
+  </div>
+</div>
+<div class="scrim" id="scrim"><div class="read-sheet" id="rsheet"></div></div>
+
+<script>
+const LANE={banks:{l:"Banking",c:"--banks"},markets:{l:"Markets & Macro",c:"--markets"},news:{l:"Commentary",c:"--news"},
+  pe:{l:"Private Equity",c:"--pe"},sf:{l:"Specialty Finance",c:"--sf"},career:{l:"Career",c:"--career"},
+  learn:{l:"Ideas",c:"--learn"},aw:{l:"Asset & Wealth",c:"--aw"}};
+const SECTIONS=[["banks","Banking & FIG"],["markets","Markets & Macro"],["pe","Private Equity & Deals"],["news","Commentary"],["learn","Ideas worth your time"],["career","Career"]];
+const DATA=[
+ {id:1,lane:"banks",score:9,src:"CNBC",by:"Hugh Son",title:"JPMorgan anoints two heirs as Marianne Lake departs after thirty years",stand:"A co-presidency installs Doug Petno and Troy Rohrbaugh as the clearest candidates yet to one day succeed Jamie Dimon.",body:["JPMorgan Chase named Doug Petno and Troy Rohrbaugh as co-presidents, while Marianne Lake departs after three decades, sharpening the field of internal candidates to eventually succeed Jamie Dimon.","The reshuffle reorders reporting lines across the commercial and markets businesses and marks the most explicit succession signal the bank has offered."],hl:"A co-president structure at the $3.9T-asset bank makes the pair the obvious frontrunners."},
+ {id:3,lane:"news",score:9,src:"Net Interest",by:"Marc Rubinstein",title:"The deposit franchise nobody is pricing correctly",stand:"Why the market keeps misreading what sticky, low-cost retail funding is actually worth.",body:["Marc Rubinstein walks through the mechanics of deposit beta and argues the consensus underprices the value of low-cost, sticky retail funding at a handful of regional banks.","The piece offers a frame an analyst can carry straight into a comps exercise."],hl:"A reusable way to value deposit franchises in FIG comparables."},
+ {id:6,lane:"learn",score:9,src:"Stratechery",by:"Ben Thompson",title:"Aggregation theory, ten years on",stand:"What the AI platforms got right — and why distribution still beats the model.",body:["Ben Thompson revisits his aggregation framework against the current platform wars and argues that distribution, not the underlying model, remains the durable moat.","It is a strategy lens that travels well beyond technology."],hl:"A frame for thinking about any platform business, not just tech."},
+ {id:2,lane:"sf",score:8,src:"Finextra",title:"Binance to exit the EU after failing to win a MiCA license",body:["Binance told EU customers it will halt services from July 1 after failing to secure a license under the bloc's Markets in Crypto-Assets Regulation."],hl:"MiCA enforcement pushes the largest global exchange out of the bloc."},
+ {id:4,lane:"banks",score:8,src:"Banking Dive",title:"Two Southeast banks to merge in a $163M all-stock deal",body:["Colony Bank will acquire First Reliance Bancshares, becoming the largest sub-$10B bank headquartered in Georgia or South Carolina."],hl:"A platform built for further add-on acquisitions."},
+ {id:9,lane:"markets",score:8,src:"The Overshoot",by:"Matthew Klein",title:"Credit is quietly tightening at the regionals",body:["Matthew Klein digs into senior-loan-officer survey internals and finds the tightening concentrated in CRE-exposed regional banks."],hl:"A direct read-through to deal financing for smaller institutions."},
+ {id:8,lane:"markets",score:7,src:"TKer",by:"Sam Ro",title:"The labor market is cooling, not cracking",body:["Sam Ro argues the latest payrolls print is consistent with a soft landing rather than a downturn."],hl:"A clear takeaway on the path of rates into year-end."},
+ {id:5,lane:"pe",score:8,src:"PE Hub",title:"Mid-market firm raises $2.1B for a financial-services fund",body:["The fund will target specialty lenders and insurance services across the lower-middle market."],hl:"Fresh dry powder aimed squarely at specialty finance."},
+ {id:13,lane:"pe",score:7,src:"Buyouts",title:"Secondaries pricing firms up as LPs hunt liquidity",body:["Discounts to NAV narrowed in the latest tranche of LP-led deals."],hl:"Liquidity is returning to the secondaries market."},
+ {id:12,lane:"news",score:7,src:"The Diff",by:"Byrne Hobart",title:"The economics of a stablecoin issuer",body:["Byrne Hobart breaks down the float-driven business model and locates where the regulatory risk actually sits."],hl:"Frames the digital-assets opportunity in FIG terms."},
+ {id:11,lane:"learn",score:7,src:"Noahpinion",by:"Noah Smith",title:"The productivity debate is mostly about measurement",body:["Noah Smith argues much of the AI-productivity disagreement is a statistics problem, not an economics one."],hl:"Sharpens how to read the productivity data to come."},
+ {id:7,lane:"career",score:8,src:"eFinancialCareers",title:"Where FIG bankers are lateraling in 2026",body:["A read on which platforms are paying up for FIG coverage talent this cycle, and where the bonuses are landing."],hl:"Direct lateral-market signal for FIG analysts."},
+ {id:10,lane:"aw",score:7,src:"WealthManagement",title:"RIA roll-up pace hits a record in the second quarter",body:["Aggregators closed a record number of RIA deals, with valuations holding despite higher financing costs."],hl:"Sustained M&A across the wealth channel."},
+ {id:14,lane:"markets",score:6,src:"WSJ Markets",title:"Treasury yields drift as traders weigh the data",body:["A quiet session, with the 10-year little changed ahead of next week's inflation print."],hl:"A routine session; the CPI print is next week's event."}
+];
+let readSet=new Set();
+function cvar(c){return getComputedStyle(document.documentElement).getPropertyValue(c).trim()}
+function unread(){return DATA.filter(d=>!readSet.has(d.id))}
+
+function buildNav(){
+  const nav=document.getElementById('nav');
+  nav.innerHTML='<a class="on">Front page</a>'+SECTIONS.map(s=>`<a data-k="${s[0]}">${s[1]}</a>`).join("");
+  nav.querySelectorAll('a[data-k]').forEach(a=>a.onclick=()=>{
+    document.getElementById('sec-'+a.dataset.k)?.scrollIntoView({behavior:'smooth',block:'start'});});
+}
+function buildCover(){
+  const u=unread().sort((a,b)=>b.score-a.score);
+  const lead=u[0], rail=u.slice(1,4);
+  const c=document.getElementById('cover');
+  if(!lead){c.innerHTML="";return;}
+  const lc=cvar(LANE[lead.lane].c);
+  c.innerHTML=`<div class="cover">
+    <div class="lead" data-id="${lead.id}">
+      <div class="ldtag" style="color:${lc}">${LANE[lead.lane].l} &middot; lead story</div>
+      <h2>${lead.title}</h2>
+      <div class="stand">${lead.stand||lead.body[0]}</div>
+      <div class="by">${lead.by?("By "+lead.by+" · "):""}${lead.src}</div>
+    </div>
+    <div class="rail"><h4>Also on the front page</h4>
+      ${rail.map(d=>`<div class="railitem" data-id="${d.id}"><div class="rt" style="color:${cvar(LANE[d.lane].c)}">${LANE[d.lane].l}</div><h5>${d.title}</h5></div>`).join("")}
+    </div></div>`;
+  c.querySelectorAll('[data-id]').forEach(el=>el.onclick=()=>openReader(+el.dataset.id));
+}
+function buildSections(){
+  const wrap=document.getElementById('sections');wrap.innerHTML="";
+  SECTIONS.forEach(([key,label])=>{
+    const items=DATA.filter(d=>d.lane===key);
+    if(!items.length)return;
+    const left=items.filter(d=>!readSet.has(d.id)).length;
+    const sec=document.createElement('div');sec.className="section";sec.id="sec-"+key;
+    sec.innerHTML=`<div class="sechead"><span class="nm">${label}</span><span class="ln"></span><span class="ct">${left} to read</span></div>
+      <div class="cols">${items.sort((a,b)=>(readSet.has(a.id)-readSet.has(b.id))||b.score-a.score).map((d,i)=>{
+        const col=cvar(LANE[d.lane].c), drop=(!readSet.has(d.id)&&i===0)?" drop":"";
+        return `<div class="art${readSet.has(d.id)?' read':''}${drop}" data-id="${d.id}">
+          <div class="at" style="color:${col}">${LANE[d.lane].l} &middot; ${d.score}/10</div>
+          <h3>${d.title}</h3><p>${d.stand||d.body[0]}</p>
+          <div class="src">${d.by?(d.by+" · "):""}${d.src}</div></div>`;}).join("")}</div>`;
+    wrap.appendChild(sec);
+  });
+  wrap.querySelectorAll('.art').forEach(el=>el.onclick=()=>openReader(+el.dataset.id));
+}
+function openReader(id){
+  const d=DATA.find(x=>x.id===id), col=cvar(LANE[d.lane].c), r=document.getElementById('rsheet');
+  r.innerHTML=`<div class="rt" style="color:${col}">${LANE[d.lane].l} &middot; relevance ${d.score}/10</div>
+    <h2>${d.title}</h2><div class="meta">${d.by?("By "+d.by+" &middot; "):""}${d.src} &middot; June 27, 2026</div>
+    ${(d.stand?[`<b>${d.stand}</b>`]:[]).concat(d.body).map(p=>`<p>${p}</p>`).join("")}
+    <div class="hl">${d.hl}</div>
+    <div class="act"><button class="file" id="fileBtn">File &amp; remove from edition</button><button onclick="closeReader()">Keep on page</button></div>`;
+  document.getElementById('scrim').classList.add('open');
+  document.getElementById('fileBtn').onclick=()=>{readSet.add(id);closeReader();refresh();};
+}
+function closeReader(){document.getElementById('scrim').classList.remove('open');}
+document.getElementById('scrim').addEventListener('click',e=>{if(e.target.id==='scrim')closeReader();});
+document.addEventListener('keydown',e=>{if(e.key==="Escape")closeReader();});
+function refresh(){
+  document.getElementById('readstat').textContent=`${readSet.size} filed &middot; ${unread().length} to read`;
+  buildCover();buildSections();
+}
+buildNav();refresh();
+</script>
+</body>
+</html>
