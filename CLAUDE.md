@@ -1,6 +1,6 @@
 # Personal NewsFeed — Project Context
 
-*For Claude Code. Read this first, then `ROADMAP.md`.*
+*For Claude. Read this first, then `ROADMAP.md`.*
 
 ## Live site
 
@@ -8,23 +8,29 @@ https://lusch0620.github.io/personal-newsfeed/
 
 ## What this is
 
-A personal, FIG-focused news aggregator for Lucius Gao (FIG investment banker, targeting a lateral IB / PE move). Pulls ~48 RSS sources across banks, asset/wealth, insurance, specialty finance, PE/deals, markets/macro, newsletters, career intel, and "learn" sources. Claude Haiku summarizes each story and scores it 1–10. Output is a static site, refreshed every ~2h via GitHub Actions, hosted free on GitHub Pages.
+A personal, FIG-focused news aggregator for Lucius Gao (FIG investment banker at Cantor Fitzgerald, targeting a lateral IB / PE move). Pulls ~48 RSS sources across banks, asset/wealth, insurance, specialty finance, PE/deals, markets/macro, newsletters, career intel, and "learn" sources. Claude Haiku summarizes each story and scores it 1–10. Output is a static site, refreshed every ~2h via GitHub Actions, hosted free on GitHub Pages.
 
-## Current state (as of 2026-06-29)
-
-**The UI is fully built and live.** Pipeline + site are working.
+## File map
 
 ```
-config/sources.yaml             # 48 sources across 9 sections
-scripts/fetch_feeds.py          # RSS -> data/raw_articles.json
-scripts/fetch_notes.py          # Gist notes -> data/notes.md (CI only, needs SYNC_GIST_PAT)
-scripts/summarize.py            # Claude Haiku -> data/feeds.json (reads notes.md for context)
-data/notes.md                   # auto-generated from user annotations; injected into scoring
-data/notes_archive/YYYY-MM.md   # notes > 90 days auto-archived here
-docs/index.html                 # live site — bento deck + focus + brief + learning algo
-docs/data/feeds.json            # served copy (CI copies data/ -> docs/data/)
-.github/workflows/update-feed.yml  # cron: fetch_feeds -> fetch_notes -> summarize -> deploy
-prototypes/                     # design source of truth (Direction 1+3 v3 is the reference)
+config/sources.yaml               # 48 sources across 9 sections
+scripts/fetch_feeds.py            # RSS -> data/raw_articles.json
+scripts/fetch_notes.py            # Gist notes -> data/notes.md (CI only, needs SYNC_GIST_PAT)
+scripts/summarize.py              # Claude Haiku (8 async workers) -> data/feeds.json
+scripts/generate_briefs.py        # Claude Haiku -> data/briefs.json (lane briefs + live indices)
+data/notes.md                     # auto-generated from user annotations; injected into scoring
+data/notes_archive/YYYY-MM.md    # notes > 90 days auto-archived here
+docs/index.html                   # live site — full UI
+docs/data/feeds.json              # served copy of article data
+docs/data/briefs.json             # served copy of lane briefs + indices
+.github/workflows/update-feed.yml # cron pipeline
+prototypes/                       # design source of truth
+```
+
+## Pipeline order
+
+```
+fetch_feeds.py -> fetch_notes.py -> summarize.py -> generate_briefs.py -> deploy
 ```
 
 ## feeds.json schema
@@ -49,69 +55,89 @@ prototypes/                     # design source of truth (Direction 1+3 v3 is th
 }
 ```
 
-## What's built (completed phases)
+## briefs.json schema
 
-| Phase | Feature | Status |
-|-------|---------|--------|
-| P1 | Bento deck, focus mode, lane filters, read-recede tray, bounded edition | ✅ |
-| P2 | Richer summaries: `summary_long`, `talking_points`, `topics` | ✅ |
-| P3 | localStorage persistence (read state, read-later, edition-keyed) | ✅ |
-| P3.5 | Learning algorithm: signal capture → decay-weighted profile → re-ranking | ✅ |
-| P5 | Responsive (mobile 2-col, scrollable lane chips), a11y, iOS fixes | ✅ |
-| — | Cross-device sync via GitHub Gist (PAT stored in localStorage only) | ✅ |
-| — | Like/dislike reactions (weights: +3.0 / -2.0) with tile indicators | ✅ |
-| — | Personal notes in reader: auto-save, ✏ tile indicator, Gist sync | ✅ |
-| — | Notes → pipeline: `fetch_notes.py` → `data/notes.md` → scoring context | ✅ |
-| — | Auto-archive: notes > 90 days → `data/notes_archive/YYYY-MM.md` | ✅ |
-| — | **Ask Claude inline Q&A in article reader (Cloudflare Worker proxy)** | ✅ 2026-06-29 |
-| — | **Async summarization: 8 concurrent workers + exponential-backoff retry** | ✅ 2026-06-29 |
-| — | **Gist sync wired: ID `8a4b09f2ceb018c3b45460ee40e1ced9`, SYNC_GIST_PAT set** | ✅ 2026-06-29 |
-| — | Auto-archive: notes > 90 days → `data/notes_archive/YYYY-MM.md` | ✅ |
-| — | Pipeline refresh button (↻) in header — triggers workflow_dispatch | ✅ |
-
-## What's still to build
-
-| Phase | Feature | Notes |
-|-------|---------|-------|
-| P6 F7 | Daily/lane brief in `summarize.py` → `feeds.json.briefs` | `buildTodayBrief()` in JS already renders it; just needs pipeline generation |
-| P6 F8 | Live indices strip — snapshot quotes in pipeline | Currently demo data |
-| P4 | Brief Me backend (Cloudflare Worker + web search) | Deferred — most complex, nothing depends on it |
-
-## GitHub Actions secrets required
-
-| Secret | Value | Purpose |
-|--------|-------|---------|
-| `ANTHROPIC_API_KEY` | (set) | Claude Haiku for summarization |
-| `SYNC_GIST_PAT` | (set) | Reads user notes from Gist during pipeline |
-
-## Sync setup (cross-device)
-
-Open this URL on any new device to auto-configure sync:
+```json
+{
+  "FIG — Banks": {
+    "lede": "...",
+    "bullets": [{"text": "...", "refId": "<articleId>", "source": "WSJ"}]
+  },
+  "all": { "lede": "...", "bullets": [...] },
+  "indices": [
+    {"nm": "S&P 500", "v": 6218.4, "base": 6218.4, "bp": false},
+    {"nm": "US 10Y",  "v": 4.28,   "base": 4.28,   "bp": true}
+  ]
+}
 ```
-https://lusch0620.github.io/personal-newsfeed/#setup=<YOUR_PAT>
-```
-PAT lives in localStorage only — never in source. Gist ID `8a4b09f2ceb018c3b45460ee40e1ced9` is hardcoded in `index.html`.
-The actual PAT is saved in your password manager / personal notes — do not commit it to the repo.
 
-**PAT scope note:** current PAT has `gist` scope. The ↻ refresh button also needs `repo` scope — update at github.com/settings/tokens if the button returns red.
+## What's built (all completed as of 2026-06-29)
+
+| Feature | Status |
+|---------|--------|
+| Bento deck, focus mode, lane filters, read-recede tray, bounded edition | ✅ |
+| Richer summaries: `summary_long`, `talking_points`, `topics` | ✅ |
+| localStorage persistence (read state, read-later, edition-keyed) | ✅ |
+| Learning algorithm: signal capture → decay-weighted profile → re-ranking | ✅ |
+| Responsive (mobile), a11y, iOS fixes | ✅ |
+| Cross-device sync via GitHub Gist | ✅ |
+| Like/dislike reactions (+3.0 / -2.0 weights) | ✅ |
+| Personal notes in reader: auto-save, Gist sync | ✅ |
+| Notes → pipeline: `fetch_notes.py` → `data/notes.md` → scoring context | ✅ |
+| Auto-archive: notes > 90 days → `data/notes_archive/YYYY-MM.md` | ✅ |
+| Pipeline refresh button (↻) — triggers workflow_dispatch | ✅ |
+| **Ask Claude inline Q&A in article reader (Cloudflare Worker)** | ✅ 2026-06-29 |
+| **Async summarization: 8 concurrent workers + exponential-backoff retry** | ✅ 2026-06-29 |
+| **Pipeline-generated lane briefs (P6 F7)** | ✅ 2026-06-29 |
+| **Live indices strip: S&P, Nasdaq, Dow, 10Y, VIX, KBW Banks (P6 F8)** | ✅ 2026-06-29 |
+| **Brief Me: Claude Sonnet + web search + cited talking points (P4)** | ✅ 2026-06-29 |
 
 ## Cloudflare Worker
 
-**URL:** `https://newsfeed-ai.luciusgao2001.workers.dev`
-**Purpose:** Proxies Ask Claude Q&A from the article reader to the Anthropic API (keeps key server-side).
-**Secret:** `ANTHROPIC_API_KEY` set in Cloudflare Worker settings.
+**URL:** `https://newsfeed-ai.luciusgao2001.workers.dev`  
+**Secret:** `ANTHROPIC_API_KEY` set in Cloudflare Worker settings.  
 **CORS:** locked to `https://lusch0620.github.io`.
-**Input:** `POST { question, article: { title, source, summary, talking_points } }`
-**Output:** `{ answer }`
+
+| Route | Model | Purpose |
+|-------|-------|---------|
+| `POST /` or `/ask` | Haiku | Inline article Q&A in the reader |
+| `POST /brief` | Sonnet + web search | Brief Me — cited talking points beyond the feed |
+
+**Input `/ask`:** `{ question, article: { title, source, summary, talking_points } }`  
+**Input `/brief`:** `{ topic, articles: [{ title, source, summary }] }`  
+**Output both:** `{ answer }` or `{ lede, points: [{claim, source, url}] }`
+
+## GitHub Actions secrets
+
+| Secret | Purpose |
+|--------|---------|
+| `ANTHROPIC_API_KEY` | Claude Haiku for summarization + briefs; Sonnet for Brief Me |
+| `SYNC_GIST_PAT` | Reads user notes from Gist during pipeline |
+
+## Sync setup (cross-device)
+
+Gist ID: `8a4b09f2ceb018c3b45460ee40e1ced9` — hardcoded in `index.html` and `fetch_notes.py`.  
+PAT lives in localStorage only — never in source.  
+Open ⚙️ in the site header on any new device and enter the PAT + Gist ID.
+
+**PAT scope note:** PAT needs `gist`, `repo`, and `workflow` scope (all set on "Personal Feed" token).
+
+## Notes → algorithm loop
+
+1. User asks a question or writes a note in the article reader
+2. Q&A auto-appended to that article's notes in localStorage
+3. Gist sync (pushes on every interaction) → `newsfeed-sync.json` in Gist
+4. Next pipeline run: `fetch_notes.py` pulls Gist → `data/notes.md`
+5. `summarize.py` injects `notes.md` into scoring prompt → influences relevance scores
 
 ## Hard rules
 
-- Do not commit the Anthropic API key to the repo or any client-side file. Lives only in `ANTHROPIC_API_KEY` secret.
-- Do not hardcode the sync PAT in source. Lives in localStorage + `SYNC_GIST_PAT` secret only.
-- Keep it free: GitHub Actions + Pages, Haiku for summaries. Stay within free tiers.
-- The site is static. Anything needing the API key at request time must go through a serverless function.
-- Preserve the pipeline contract: `fetch_feeds.py` -> `raw_articles.json` -> `fetch_notes.py` -> `summarize.py` -> `feeds.json`. Extend the schema; don't break it.
+- Do not commit the Anthropic API key. Lives only in `ANTHROPIC_API_KEY` secret + Cloudflare Worker secret.
+- Do not hardcode the sync PAT in source. Lives in localStorage + `SYNC_GIST_PAT` secret.
+- Keep it free: GitHub Actions + Pages + Cloudflare Workers free tier.
+- The site is static. Anything needing an API key at request time goes through the Cloudflare Worker.
+- Pipeline contract: `fetch_feeds.py` → `raw_articles.json` → `fetch_notes.py` → `summarize.py` → `feeds.json` → `generate_briefs.py` → `briefs.json`. Extend; don't break.
 
 ## Owner preferences
 
-Direct, commercial, no fluff. Lucius is technically fluent (Python, JS) — don't over-explain. Give a recommendation, not a menu. Flag problems early.
+Direct, commercial, no fluff. Lucius is technically fluent (Python, JS). Give a recommendation, not a menu. Flag problems early. Always `git pull --rebase` before pushing.
