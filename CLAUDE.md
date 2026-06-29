@@ -86,7 +86,7 @@ Open this URL on any new device to auto-configure sync:
 ```
 https://lusch0620.github.io/personal-newsfeed/#setup=<YOUR_PAT>
 ```
-PAT lives in localStorage only — never in source. Gist ID `be1fddb5fb8215040ef67d3d79253301` is hardcoded in `index.html`.
+PAT lives in localStorage only — never in source. Gist ID `8a4b09f2ceb018c3b45460ee40e1ced9` is hardcoded in `index.html`.
 The actual PAT is saved in your password manager / personal notes — do not commit it to the repo.
 
 **PAT scope note:** current PAT has `gist` scope. The ↻ refresh button also needs `repo` scope — update at github.com/settings/tokens if the button returns red.
