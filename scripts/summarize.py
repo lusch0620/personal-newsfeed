@@ -12,6 +12,8 @@ Cost: ~$0.10-0.30/month at typical volume with Haiku pricing.
 import anthropic
 import json
 import os
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 ROOT        = Path(__file__).parent.parent
@@ -24,6 +26,14 @@ MIN_TITLE_LEN = 20
 
 # Skip re-summarizing if we already have a summary (incremental runs)
 INCREMENTAL = True
+
+# Concurrency — Haiku rate limit is 50 req/min on free tier, 1000 on paid
+# 8 workers keeps us comfortably under paid tier limits with room for retries
+MAX_WORKERS = 8
+
+# Retry settings
+MAX_RETRIES = 3
+RETRY_BASE_DELAY = 2.0  # seconds, doubled each retry
 
 FIG_SECTIONS = {
     "FIG — Banks",
@@ -90,37 +100,47 @@ Be terse and ruthless WITHIN each lane. The goal is signal: a 9 should be rare i
 
 
 def build_user_prompt(article: dict) -> str:
-    title = article.get("title", "")
-    raw = article.get("summary_raw", "")
+    title   = article.get("title", "")
+    raw     = article.get("summary_raw", "")
     section = article.get("section", "")
-    source = article.get("source", "")
-    is_fig = section in FIG_SECTIONS
+    source  = article.get("source", "")
+    is_fig  = section in FIG_SECTIONS
 
     content = f"Title: {title}\nSource: {source}\nSection: {section}\n"
     if raw:
         content += f"Excerpt: {raw[:400]}\n"
     if is_fig:
         content += "\nThis is a FIG-specific article. Extract deal/regulatory/capital highlights."
-
     return content
 
 
-def summarize_batch(client: anthropic.Anthropic, articles: list[dict], notes_ctx: str = "") -> list[dict]:
-    """Summarize articles. Each call is individual to keep prompts focused."""
-    system = SYSTEM_PROMPT + notes_ctx
-    results = []
-    for i, article in enumerate(articles):
-        existing = article.get("summary_ai")
-        if INCREMENTAL and existing and existing.get("summary_long") and existing.get("talking_points") and existing.get("topics"):
-            results.append(article)
-            continue
+def parse_response(text: str) -> dict:
+    text = text.strip()
+    if text.startswith("```"):
+        text = text.split("```")[1]
+        if text.startswith("json"):
+            text = text[4:]
+    return json.loads(text)
 
-        title = article.get("title", "")
-        if len(title) < MIN_TITLE_LEN:
-            article["summary_ai"] = {"digest": title, "summary_long": "", "talking_points": [], "topics": [], "highlight": None, "relevance": 3}
-            results.append(article)
-            continue
 
+def summarize_one(client: anthropic.Anthropic, article: dict, system: str) -> dict:
+    """Summarize a single article with exponential-backoff retry."""
+    title = article.get("title", "")
+
+    # Skip short titles
+    if len(title) < MIN_TITLE_LEN:
+        article["summary_ai"] = {
+            "digest": title, "summary_long": "", "talking_points": [],
+            "topics": [], "highlight": None, "relevance": 3,
+        }
+        return article
+
+    # Skip already-summarized articles (incremental mode)
+    existing = article.get("summary_ai")
+    if INCREMENTAL and existing and existing.get("summary_long") and existing.get("talking_points") and existing.get("topics"):
+        return article
+
+    for attempt in range(MAX_RETRIES):
         try:
             response = client.messages.create(
                 model="claude-haiku-4-5-20251001",
@@ -128,39 +148,92 @@ def summarize_batch(client: anthropic.Anthropic, articles: list[dict], notes_ctx
                 system=system,
                 messages=[{"role": "user", "content": build_user_prompt(article)}],
             )
-            text = response.content[0].text.strip()
-            # Strip markdown code fences if present
-            if text.startswith("```"):
-                text = text.split("```")[1]
-                if text.startswith("json"):
-                    text = text[4:]
-            parsed = json.loads(text)
-            article["summary_ai"] = parsed
+            article["summary_ai"] = parse_response(response.content[0].text)
+            return article
         except json.JSONDecodeError:
+            # Bad JSON from model — use raw excerpt as fallback, don't retry
             article["summary_ai"] = {
                 "digest": article.get("summary_raw", title)[:200],
-                "summary_long": "",
-                "talking_points": [],
-                "topics": [],
-                "highlight": None,
-                "relevance": 5,
+                "summary_long": "", "talking_points": [], "topics": [],
+                "highlight": None, "relevance": 5,
             }
+            return article
+        except anthropic.RateLimitError:
+            if attempt < MAX_RETRIES - 1:
+                delay = RETRY_BASE_DELAY * (2 ** attempt)
+                print(f"  [RATE LIMIT] retrying in {delay:.0f}s — {title[:40]}")
+                time.sleep(delay)
+            else:
+                print(f"  [RATE LIMIT] giving up after {MAX_RETRIES} attempts — {title[:40]}")
+                article["summary_ai"] = {
+                    "digest": title, "summary_long": "", "talking_points": [],
+                    "topics": [], "highlight": None, "relevance": 5,
+                }
+                return article
         except Exception as e:
             print(f"  [AI ERROR] {title[:50]}: {e}")
             article["summary_ai"] = {
-                "digest": title,
-                "summary_long": "",
-                "talking_points": [],
-                "topics": [],
-                "highlight": None,
-                "relevance": 5,
+                "digest": title, "summary_long": "", "talking_points": [],
+                "topics": [], "highlight": None, "relevance": 5,
             }
+            return article
 
-        results.append(article)
-        if (i + 1) % 10 == 0:
-            print(f"  Summarized {i + 1}/{len(articles)}")
+    return article
 
-    return results
+
+def summarize_all(client: anthropic.Anthropic, articles: list[dict], notes_ctx: str = "") -> list[dict]:
+    """Summarize all articles concurrently, preserving original order."""
+    system = SYSTEM_PROMPT + notes_ctx
+
+    # Separate articles that need summarization from those that don't
+    to_summarize = []
+    skip_indices = {}
+    for i, article in enumerate(articles):
+        existing = article.get("summary_ai")
+        short    = len(article.get("title", "")) < MIN_TITLE_LEN
+        if short:
+            article["summary_ai"] = {
+                "digest": article.get("title", ""), "summary_long": "",
+                "talking_points": [], "topics": [], "highlight": None, "relevance": 3,
+            }
+            skip_indices[i] = article
+        elif INCREMENTAL and existing and existing.get("summary_long") and existing.get("talking_points") and existing.get("topics"):
+            skip_indices[i] = article
+        else:
+            to_summarize.append((i, article))
+
+    print(f"  {len(skip_indices)} already summarized / skipped, {len(to_summarize)} to process")
+
+    if not to_summarize:
+        return articles
+
+    results = {}
+    completed = 0
+
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        future_to_idx = {
+            executor.submit(summarize_one, client, article, system): idx
+            for idx, article in to_summarize
+        }
+        for future in as_completed(future_to_idx):
+            idx = future_to_idx[future]
+            try:
+                results[idx] = future.result()
+            except Exception as e:
+                print(f"  [THREAD ERROR] index {idx}: {e}")
+                results[idx] = articles[idx]
+            completed += 1
+            if completed % 10 == 0:
+                print(f"  Summarized {completed}/{len(to_summarize)}")
+
+    # Reconstruct in original order
+    out = []
+    for i, article in enumerate(articles):
+        if i in skip_indices:
+            out.append(skip_indices[i])
+        else:
+            out.append(results.get(i, article))
+    return out
 
 
 def load_notes_context() -> str:
@@ -193,8 +266,8 @@ def main():
     if notes_ctx:
         print("Notes context loaded — injecting into scoring prompt.")
 
-    print(f"Summarizing {len(articles)} articles...")
-    articles = summarize_batch(client, articles, notes_ctx)
+    print(f"Summarizing {len(articles)} articles with {MAX_WORKERS} workers...")
+    articles = summarize_all(client, articles, notes_ctx)
 
     # Sort by relevance (desc), then date (desc)
     def sort_key(a):
