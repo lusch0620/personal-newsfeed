@@ -167,6 +167,22 @@
   .r-topic{font-size:11px;padding:3px 9px;border-radius:20px;background:rgba(255,255,255,.07);color:var(--muted);border:1px solid var(--stroke)}
   .r-actions{display:flex;gap:10px;margin-top:26px;flex-wrap:wrap}
   .disc-banner{display:none;align-items:center;justify-content:space-between;gap:12px;background:rgba(247,211,61,.07);border:1px solid rgba(247,211,61,.2);border-radius:12px;padding:12px 16px;margin-bottom:14px;font-size:13px;color:var(--ink)}
+  .sync-dot{position:absolute;bottom:5px;right:5px;width:7px;height:7px;border-radius:50%;border:1.5px solid #07080c}
+  .sync-dot[data-status="off"]{background:#444}
+  .sync-dot[data-status="syncing"]{background:#fcd34d;animation:pulse 1s ease-in-out infinite}
+  .sync-dot[data-status="synced"]{background:#34d399}
+  .sync-dot[data-status="error"]{background:#f87171}
+  .smodal{position:fixed;inset:0;z-index:50;background:rgba(4,5,9,.75);backdrop-filter:blur(8px);display:none;align-items:center;justify-content:center;padding:24px}
+  .smodal.open{display:flex}
+  .sbox{background:rgba(18,20,28,.97);border:1px solid var(--stroke);border-radius:20px;padding:32px;width:min(480px,100%);display:flex;flex-direction:column;gap:16px}
+  .sbox h3{font-size:18px;font-weight:600;margin-bottom:4px}
+  .sbox p{font-size:13px;color:var(--muted);line-height:1.6;margin-bottom:4px}
+  .sbox label{font-size:12px;color:var(--muted);display:block;margin-bottom:5px;font-weight:500;letter-spacing:.04em;text-transform:uppercase}
+  .sbox input{width:100%;background:rgba(255,255,255,.05);border:1px solid var(--stroke);border-radius:10px;padding:10px 13px;font:inherit;font-size:13px;color:var(--ink);outline:none;box-sizing:border-box;font-family:ui-monospace,monospace}
+  .sbox input:focus{border-color:var(--markets)}
+  .sbox .row{display:flex;gap:10px;justify-content:flex-end;margin-top:4px}
+  .ssave{background:#eef1f6;color:#07080c;border:0;border-radius:10px;padding:10px 20px;font:inherit;font-size:13px;font-weight:600;cursor:pointer}
+  .ssave:hover{background:#fff}
 
   /* VIEWS */
   .view{display:none}
@@ -291,6 +307,7 @@
         <button id="mBrief" onclick="setMode('brief')">Brief me</button>
       </div>
       <button class="iconbtn" onclick="setMode('later')" aria-label="Read later" title="Read later">&#9734;<span class="badge" id="laterBadge" style="display:none">0</span></button>
+      <button class="iconbtn" onclick="openSyncSettings()" aria-label="Sync settings" title="Sync settings" id="syncBtn">&#9881;<span class="sync-dot" id="syncDot" data-status="off"></span></button>
       <div class="ring">
         <svg width="60" height="60">
           <circle cx="30" cy="30" r="25" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="4"></circle>
@@ -363,6 +380,26 @@
 
 <div class="scrim" id="scrim"><div class="reader" id="reader"></div></div>
 
+<div class="smodal" id="smodal">
+  <div class="sbox">
+    <h3>&#9881; Sync settings</h3>
+    <p>State syncs across devices via a private GitHub Gist. Your PAT is stored only in this browser — never in the source code.</p>
+    <div>
+      <label>GitHub Personal Access Token (gist scope)</label>
+      <input id="sPatInput" type="password" placeholder="ghp_…" autocomplete="off" spellcheck="false">
+    </div>
+    <div>
+      <label>Gist ID</label>
+      <input id="sGistInput" type="text" placeholder="be1fddb5fb8215040ef67d3d79253301" autocomplete="off" spellcheck="false">
+    </div>
+    <div id="sSyncStatus" style="font-size:12.5px;color:var(--muted);min-height:18px"></div>
+    <div class="row">
+      <button class="btn" onclick="closeSyncSettings()">Cancel</button>
+      <button class="ssave" onclick="saveSyncSettings()">Save &amp; sync now</button>
+    </div>
+  </div>
+</div>
+
 <script>
 const FEED_URL = 'data/feeds.json';
 const MAX_HEROES  = 2;
@@ -425,6 +462,7 @@ function saveState() {
     localStorage.setItem('nf_read_' + key, JSON.stringify([...readSet]));
     localStorage.setItem('nf_later',        JSON.stringify([...laterSet]));
   } catch(e) {}
+  schedulePush();
 }
 function loadState() {
   const key = editionKey();
@@ -450,6 +488,7 @@ function captureSignal(d, action) {
   try { localStorage.setItem('nf_signals', JSON.stringify(sigs)); } catch(e) {}
   rebuildProfile(sigs);
   checkDiscovery(sigs);
+  schedulePush();
 }
 
 function rebuildProfile(sigs) {
@@ -520,6 +559,128 @@ function dismissDiscovery(src) {
   try { localStorage.setItem('nf_disc_dismissed', JSON.stringify(d)); } catch(e) {}
   document.getElementById('discoveryBanner').style.display = 'none';
 }
+
+/* ─── GIST SYNC ─── */
+const SYNC_FILE = 'newsfeed-state.json';
+let _pushTimer = null;
+
+function getSyncCfg() {
+  return { pat: localStorage.getItem('nf_sync_pat')||'', gistId: localStorage.getItem('nf_sync_gist')||'' };
+}
+function syncEnabled() { const c=getSyncCfg(); return !!(c.pat && c.gistId); }
+
+function setSyncStatus(s) {
+  const dot = document.getElementById('syncDot');
+  const lbl = document.getElementById('sSyncStatus');
+  if (dot) dot.dataset.status = s;
+  if (lbl) lbl.textContent = s==='synced'?'Synced ✓' : s==='syncing'?'Syncing…' : s==='error'?'Sync failed — check PAT / Gist ID' : '';
+}
+
+async function fetchGist() {
+  const { pat, gistId } = getSyncCfg();
+  try {
+    const r = await fetch(`https://api.github.com/gists/${gistId}`, {
+      headers: { Authorization: `token ${pat}`, Accept: 'application/vnd.github+json' }
+    });
+    if (!r.ok) { setSyncStatus('error'); return null; }
+    const data = await r.json();
+    const raw = data.files?.[SYNC_FILE]?.content;
+    return raw ? JSON.parse(raw) : {};
+  } catch(e) { setSyncStatus('error'); return null; }
+}
+
+async function pushGist() {
+  const { pat, gistId } = getSyncCfg();
+  if (!pat || !gistId) return;
+  setSyncStatus('syncing');
+  // Build state: read for last 7 days + later + signals
+  const state = { read: {}, later: [], signals: [] };
+  for (let i = 0; i < 7; i++) {
+    const d = new Date(new Date().toLocaleString('en-US',{timeZone:'America/New_York'}));
+    d.setDate(d.getDate() - i);
+    const k = `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+    const v = localStorage.getItem('nf_read_'+k);
+    if (v) state.read[k] = JSON.parse(v);
+  }
+  try { state.later   = JSON.parse(localStorage.getItem('nf_later')   ||'[]'); } catch(e){}
+  try { state.signals = JSON.parse(localStorage.getItem('nf_signals') ||'[]'); } catch(e){}
+  try {
+    const r = await fetch(`https://api.github.com/gists/${gistId}`, {
+      method:'PATCH',
+      headers:{ Authorization:`token ${pat}`, Accept:'application/vnd.github+json', 'Content-Type':'application/json' },
+      body: JSON.stringify({ files:{ [SYNC_FILE]:{ content: JSON.stringify(state) } } })
+    });
+    setSyncStatus(r.ok ? 'synced' : 'error');
+  } catch(e) { setSyncStatus('error'); }
+}
+
+function schedulePush() {
+  if (!syncEnabled()) return;
+  clearTimeout(_pushTimer);
+  _pushTimer = setTimeout(pushGist, 3000);
+}
+
+function mergeRemote(remote) {
+  if (!remote) return;
+  // Read: union per edition key
+  Object.entries(remote.read||{}).forEach(([k,ids]) => {
+    const local = new Set(JSON.parse(localStorage.getItem('nf_read_'+k)||'[]'));
+    ids.forEach(id => local.add(id));
+    localStorage.setItem('nf_read_'+k, JSON.stringify([...local]));
+  });
+  // Later: union
+  const loc = new Set(JSON.parse(localStorage.getItem('nf_later')||'[]'));
+  (remote.later||[]).forEach(id => loc.add(id));
+  localStorage.setItem('nf_later', JSON.stringify([...loc]));
+  // Signals: deduplicate by id+action+ts
+  const locSigs = JSON.parse(localStorage.getItem('nf_signals')||'[]');
+  const seen = new Set(locSigs.map(s=>`${s.id}:${s.action}:${s.ts}`));
+  const merged = [...locSigs];
+  (remote.signals||[]).forEach(s => {
+    const key = `${s.id}:${s.action}:${s.ts}`;
+    if (!seen.has(key)) { merged.push(s); seen.add(key); }
+  });
+  localStorage.setItem('nf_signals', JSON.stringify(merged));
+}
+
+async function initialSync() {
+  if (!syncEnabled()) return;
+  setSyncStatus('syncing');
+  const remote = await fetchGist();
+  mergeRemote(remote);
+  setSyncStatus('synced');
+}
+
+function openSyncSettings() {
+  const { pat, gistId } = getSyncCfg();
+  document.getElementById('sPatInput').value  = pat;
+  document.getElementById('sGistInput').value = gistId;
+  document.getElementById('sSyncStatus').textContent = '';
+  document.getElementById('smodal').classList.add('open');
+}
+function closeSyncSettings() { document.getElementById('smodal').classList.remove('open'); }
+async function saveSyncSettings() {
+  const pat    = document.getElementById('sPatInput').value.trim();
+  const gistId = document.getElementById('sGistInput').value.trim();
+  if (!pat || !gistId) { document.getElementById('sSyncStatus').textContent = 'Both fields are required.'; return; }
+  localStorage.setItem('nf_sync_pat',  pat);
+  localStorage.setItem('nf_sync_gist', gistId);
+  document.getElementById('sSyncStatus').textContent = 'Syncing…';
+  const remote = await fetchGist();
+  if (!remote) return; // error already set
+  mergeRemote(remote);
+  // Re-apply merged state to in-memory sets
+  readSet.clear(); laterSet.clear();
+  loadState();
+  rebuildProfile(JSON.parse(localStorage.getItem('nf_signals')||'[]'));
+  applyRanking();
+  render(); buildTray(); updateMeter(); updateLaterBadge(); buildTodayBrief();
+  await pushGist();
+  closeSyncSettings();
+}
+document.getElementById('smodal').addEventListener('click', e => {
+  if (e.target.id === 'smodal') closeSyncSettings();
+});
 
 /* ─── HELPERS ─── */
 function esc(s) {
@@ -602,6 +763,7 @@ async function loadFeeds() {
       hl:       a.summary_ai?.highlight      || '',
     }));
 
+    await initialSync();
     loadState();
     applyRanking();
     tileSizes = computeSizes(DATA);
