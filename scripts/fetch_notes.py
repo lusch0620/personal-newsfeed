@@ -15,7 +15,7 @@ from datetime import datetime, timezone, timedelta
 ROOT         = Path(__file__).parent.parent
 NOTES_PATH   = ROOT / "data" / "notes.md"
 ARCHIVE_DIR  = ROOT / "data" / "notes_archive"
-GIST_ID      = "be1fddb5fb8215040ef67d3d79253301"
+GIST_ID      = "8a4b09f2ceb018c3b45460ee40e1ced9"
 SYNC_FILE    = "newsfeed-sync.json"
 MAX_NOTES    = 30   # cap context length fed to Haiku
 ARCHIVE_DAYS = 90   # notes older than this get archived
