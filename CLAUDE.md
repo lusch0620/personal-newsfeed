@@ -63,6 +63,10 @@ prototypes/                     # design source of truth (Direction 1+3 v3 is th
 | — | Personal notes in reader: auto-save, ✏ tile indicator, Gist sync | ✅ |
 | — | Notes → pipeline: `fetch_notes.py` → `data/notes.md` → scoring context | ✅ |
 | — | Auto-archive: notes > 90 days → `data/notes_archive/YYYY-MM.md` | ✅ |
+| — | **Ask Claude inline Q&A in article reader (Cloudflare Worker proxy)** | ✅ 2026-06-29 |
+| — | **Async summarization: 8 concurrent workers + exponential-backoff retry** | ✅ 2026-06-29 |
+| — | **Gist sync wired: ID `8a4b09f2ceb018c3b45460ee40e1ced9`, SYNC_GIST_PAT set** | ✅ 2026-06-29 |
+| — | Auto-archive: notes > 90 days → `data/notes_archive/YYYY-MM.md` | ✅ |
 | — | Pipeline refresh button (↻) in header — triggers workflow_dispatch | ✅ |
 
 ## What's still to build
@@ -90,6 +94,15 @@ PAT lives in localStorage only — never in source. Gist ID `8a4b09f2ceb018c3b45
 The actual PAT is saved in your password manager / personal notes — do not commit it to the repo.
 
 **PAT scope note:** current PAT has `gist` scope. The ↻ refresh button also needs `repo` scope — update at github.com/settings/tokens if the button returns red.
+
+## Cloudflare Worker
+
+**URL:** `https://newsfeed-ai.luciusgao2001.workers.dev`
+**Purpose:** Proxies Ask Claude Q&A from the article reader to the Anthropic API (keeps key server-side).
+**Secret:** `ANTHROPIC_API_KEY` set in Cloudflare Worker settings.
+**CORS:** locked to `https://lusch0620.github.io`.
+**Input:** `POST { question, article: { title, source, summary, talking_points } }`
+**Output:** `{ answer }`
 
 ## Hard rules
 

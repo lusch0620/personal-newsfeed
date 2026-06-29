@@ -18,11 +18,14 @@
 | — | Personal notes in reader → Gist sync → `data/notes.md` → scoring | ✅ done |
 | — | Auto-archive notes > 90 days → `data/notes_archive/YYYY-MM.md` | ✅ done |
 | — | ↻ Pipeline refresh button (workflow_dispatch via GitHub API) | ✅ done — needs PAT `repo` scope |
+| — | **Ask Claude inline Q&A in reader (Cloudflare Worker deployed)** | ✅ 2026-06-29 |
+| — | **Async summarization: 8 workers + retry** | ✅ 2026-06-29 |
+| — | **Gist sync fully wired (ID + SYNC_GIST_PAT confirmed)** | ✅ 2026-06-29 |
 | P6 F7 | Daily/lane overview brief pre-baked in pipeline | **next** |
 | P6 F8 | Live indices strip (pipeline snapshot) | **next** |
-| P4 | Brief Me backend: Cloudflare Worker + web search + citations | deferred |
+| P4 | Brief Me backend: web search + citations (Worker already deployed) | deferred |
 
-**Next up: P6 F7 (daily brief generation in summarize.py) → P6 F8 (live indices) → P4 (Brief Me backend, last).**
+**Next up: P6 F7 (daily brief generation in `summarize.py`) → P6 F8 (live indices) → P4 (Brief Me web search, Cloudflare Worker already deployed).**
 
 ---
 
@@ -157,7 +160,9 @@ A panel: "What are you curious about today?" with an input and suggestion chips.
 
 Why a backend: the page is static and public; the Anthropic key cannot live in it. Need a serverless function.
 
-**Recommended approach:** a single Cloudflare Worker (free tier, generous) at e.g. `/api/brief`.
+**Cloudflare Worker already deployed** at `https://newsfeed-ai.luciusgao2001.workers.dev` for Ask Claude Q&A. Extend it with a `/brief` route for web search.
+
+**Original approach note:** a single Cloudflare Worker (free tier, generous) at e.g. `/api/brief`.
 - Input: `{ topic, savedItems? }`.
 - The Worker calls the Anthropic API with **web search enabled** (server-side tool use) and a prompt that asks for 3–5 talking points with citations, biased toward FIG/markets/PE relevance and toward sources already in `sources.yaml` when applicable.
 - Optionally pass the current `feeds.json` items as context so briefs blend today's feed with fresh web results.
