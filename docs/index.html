@@ -385,7 +385,7 @@
   <div class="view" id="brief">
     <div class="brief-hero">
       <h2>What are you curious about today?</h2>
-      <p>Search today's edition for talking points and highlights.</p>
+      <p>Ask anything — Claude searches the web and returns cited talking points.</p>
     </div>
     <div class="brief-bar">
       <input id="briefIn" placeholder="e.g. regional bank M&amp;A" onkeydown="if(event.key==='Enter')runBrief(this.value)">
@@ -1483,59 +1483,102 @@ function buildSugs() {
     runBrief(x.textContent);
   });
 }
-function runBrief(q) {
+async function runBrief(q) {
   q = (q || '').trim();
   if (!q) return;
-  const needle = q.toLowerCase().replace(/^brief me on\s*/,'');
-  const terms  = needle.replace(/[^a-z0-9 &]/g,'').split(/\s+/).filter(w => w.length > 2);
-  const laneHit = Object.keys(LANE).find(k =>
-    LANE[k].l.toLowerCase().includes(needle) ||
-    needle.includes(LANE[k].l.toLowerCase().split(' ')[0])
-  );
-  let matches = DATA.filter(d => {
-    const hay = [d.title, d.sum, d.sum_long, d.hl, (d.topics||[]).join(' '), LANE[d.lane]?.l || ''].join(' ').toLowerCase();
-    return (laneHit && d.lane === laneHit) || terms.some(t => hay.includes(t));
-  });
-  matches.sort((a,b) => (b.finalScore||b.score) - (a.finalScore||a.score));
-  const top5 = matches.slice(0,5);
-  top5.forEach(d => captureSignal(d, 'brief'));
-  renderBrief(q, top5, false);
+
+  // Capture signal on matching feed articles
+  const needle = q.toLowerCase();
+  const terms  = needle.split(/\s+/).filter(w => w.length > 2);
+  const matches = DATA.filter(d => {
+    const hay = [d.title, d.sum, d.sum_long, d.hl, (d.topics||[]).join(' ')].join(' ').toLowerCase();
+    return terms.some(t => hay.includes(t));
+  }).sort((a,b) => (b.finalScore||b.score) - (a.finalScore||a.score)).slice(0, 5);
+  matches.forEach(d => captureSignal(d, 'brief'));
+
+  // Show loading state
+  const out = document.getElementById('briefOut');
+  out.innerHTML = `<div class="brief-card">
+    <div class="bk">Brief</div>
+    <h3>${esc(q)}</h3>
+    <div class="meta" id="briefStatus">Searching the web…</div>
+  </div>`;
+
+  try {
+    const resp = await fetch(WORKER_URL + '/brief', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        topic: q,
+        articles: matches.map(d => ({
+          title: d.title, source: d.src, summary: d.sum_long || d.sum,
+        })),
+      }),
+    });
+    if (!resp.ok) throw new Error(await resp.text());
+    const data = await resp.json();
+    renderBrief(q, data);
+  } catch(e) {
+    out.innerHTML = `<div class="brief-card">
+      <div class="bk">Brief</div>
+      <h3>${esc(q)}</h3>
+      <div class="meta">Something went wrong: ${esc(e.message)}</div>
+    </div>`;
+  }
 }
-function renderBrief(topic, items, saved) {
-  if (!items.length) {
+
+function renderBrief(topic, data, saved) {
+  // Legacy path for "Brief me on saved" (still feed-based)
+  if (Array.isArray(data)) {
+    const items = data;
+    if (!items.length) {
+      document.getElementById('briefOut').innerHTML =
+        `<div class="brief-card"><div class="bk">Brief</div><h3>${esc(topic)}</h3>
+         <div class="meta">No stories in today's edition match that topic.</div></div>`;
+      return;
+    }
+    const dateStr = new Date().toLocaleDateString('en-US', {month:'long', day:'numeric', year:'numeric'});
     document.getElementById('briefOut').innerHTML =
       `<div class="brief-card">
-         <div class="bk">Brief</div>
-         <h3>${esc(topic)}</h3>
-         <div class="meta">No stories in today's edition match that topic.</div>
-         <div class="note"><b>Coming in P4:</b> Claude will run web search and return cited talking points beyond today's feed.</div>
-       </div>`;
-    return;
-  }
-  const title  = saved ? 'Your saved reading list' : topic;
-  const dateStr = new Date().toLocaleDateString('en-US', {month:'long', day:'numeric', year:'numeric'});
-  document.getElementById('briefOut').innerHTML =
-    `<div class="brief-card">
-       <div class="bk">Talking points</div>
-       <h3>${esc(title)}</h3>
-       <div class="meta">${items.length} points &middot; assembled from today's edition &middot; ${esc(dateStr)}</div>
-       ${items.map((d,i) =>
-         `<div class="point">
-            <div class="n">${i+1}</div>
-            <div class="pc">
+         <div class="bk">Talking points</div>
+         <h3>${esc(saved ? 'Your saved reading list' : topic)}</h3>
+         <div class="meta">${items.length} points &middot; ${esc(dateStr)}</div>
+         ${items.map((d,i) =>
+           `<div class="point"><div class="n">${i+1}</div><div class="pc">
               <div class="claim">${esc(d.sum)}</div>
               <div class="sup">${esc(d.hl)}</div>
               <div class="cite">Source: <a href="${esc(d.url)}" target="_blank" rel="noopener noreferrer">${esc(d.src)}</a></div>
+            </div></div>`
+         ).join('')}
+       </div>`;
+    return;
+  }
+
+  // New path: Worker response with web search
+  const dateStr = new Date().toLocaleDateString('en-US', {month:'long', day:'numeric', year:'numeric'});
+  document.getElementById('briefOut').innerHTML =
+    `<div class="brief-card">
+       <div class="bk">Talking points &middot; web search</div>
+       <h3>${esc(topic)}</h3>
+       <div class="meta">${esc(data.lede || '')} &middot; ${esc(dateStr)}</div>
+       ${(data.points || []).map((p,i) =>
+         `<div class="point">
+            <div class="n">${i+1}</div>
+            <div class="pc">
+              <div class="claim">${esc(p.claim)}</div>
+              <div class="cite">${p.url
+                ? `<a href="${esc(p.url)}" target="_blank" rel="noopener noreferrer">${esc(p.source)}</a>`
+                : esc(p.source)
+              }</div>
             </div>
           </div>`
        ).join('')}
        <div class="srcbox">
          <h4>Sources</h4>
-         <ol>${items.map(d =>
-           `<li><a href="${esc(d.url)}" target="_blank" rel="noopener noreferrer">${esc(d.src)} — ${esc(d.title)}</a></li>`
+         <ol>${(data.points || []).filter(p => p.url).map(p =>
+           `<li><a href="${esc(p.url)}" target="_blank" rel="noopener noreferrer">${esc(p.source)}</a></li>`
          ).join('')}</ol>
        </div>
-       <div class="note"><b>Coming in P4:</b> Claude will run web search and return cited talking points with live links beyond today's feed.</div>
      </div>`;
 }
 
