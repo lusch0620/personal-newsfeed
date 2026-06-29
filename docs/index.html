@@ -179,6 +179,15 @@
   .r-notes textarea:focus{border-color:var(--stroke)}
   .note-saved{font-size:11px;color:var(--muted);margin-top:5px;height:14px;opacity:0;transition:opacity .3s}
   .note-saved.show{opacity:1}
+  .r-ask{margin-top:22px;padding-top:18px;border-top:1px solid var(--stroke-soft)}
+  .r-ask label{display:block;font-size:11px;color:var(--muted);margin-bottom:8px;letter-spacing:.06em;text-transform:uppercase}
+  .r-ask-row{display:flex;gap:8px}
+  .r-ask-row input{flex:1;font:inherit;font-size:14px;color:var(--ink);background:rgba(255,255,255,.04);border:1px solid var(--stroke-soft);border-radius:10px;padding:10px 12px;outline:none}
+  .r-ask-row input:focus{border-color:var(--stroke)}
+  .r-ask-row button{flex-shrink:0}
+  .r-ask-ans{margin-top:12px;font-size:14px;line-height:1.6;color:var(--ink);background:rgba(125,211,252,.05);border:1px solid rgba(125,211,252,.15);border-radius:10px;padding:12px 14px;display:none}
+  .r-ask-ans.show{display:block}
+  .r-ask-ans.loading{color:var(--muted);font-style:italic}
   .rxn-dot,.note-dot{font-size:10px;opacity:.65;pointer-events:none}
   .r-actions{display:flex;gap:10px;margin-top:26px;flex-wrap:wrap}
   .disc-banner{display:none;align-items:center;justify-content:space-between;gap:12px;background:rgba(247,211,61,.07);border:1px solid rgba(247,211,61,.2);border-radius:12px;padding:12px 16px;margin-bottom:14px;font-size:13px;color:var(--ink)}
@@ -1079,6 +1088,14 @@ function openReader(d) {
        <textarea id="noteArea" placeholder="Thoughts, follow-ups, context…">${esc(noteText)}</textarea>
        <div class="note-saved" id="noteSaved">Saved ✓</div>
      </div>
+     <div class="r-ask">
+       <label>Ask Claude</label>
+       <div class="r-ask-row">
+         <input id="askInput" placeholder="What does this mean? What should I know?…" onkeydown="if(event.key==='Enter')askClaude(d)">
+         <button class="btn" id="askBtn" onclick="askClaude(d)">Ask</button>
+       </div>
+       <div class="r-ask-ans" id="askAns"></div>
+     </div>
      ${d.url !== '#' ? `<a class="r-link" href="${esc(d.url)}" target="_blank" rel="noopener noreferrer">Read full article &#8599;</a>` : ''}
      <div class="r-actions">
        <button class="btn primary" id="markBtn">Mark read &amp; send to background</button>
@@ -1113,6 +1130,54 @@ function openReader(d) {
     }, 500);
   });
 }
+const WORKER_URL = 'https://newsfeed-ai.luciusgao2001.workers.dev';
+
+async function askClaude(d) {
+  const input = document.getElementById('askInput');
+  const ansEl = document.getElementById('askAns');
+  const btn   = document.getElementById('askBtn');
+  const q = (input?.value || '').trim();
+  if (!q) return;
+
+  ansEl.className = 'r-ask-ans show loading';
+  ansEl.textContent = 'Thinking…';
+  btn.disabled = true;
+
+  try {
+    const resp = await fetch(WORKER_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        question: q,
+        article: {
+          title: d.title,
+          source: d.src,
+          summary: d.sum_long || d.sum || '',
+          talking_points: d.pts || [],
+        },
+      }),
+    });
+    if (!resp.ok) throw new Error(await resp.text());
+    const { answer } = await resp.json();
+    ansEl.className = 'r-ask-ans show';
+    ansEl.textContent = answer;
+
+    // Save Q&A to notes to feed the algorithm
+    const existing = notesMap[d.id]?.text || '';
+    const appended = existing
+      ? existing + '\n\nQ: ' + q + '\nA: ' + answer
+      : 'Q: ' + q + '\nA: ' + answer;
+    saveNote(d.id, appended);
+    const noteArea = document.getElementById('noteArea');
+    if (noteArea) noteArea.value = appended;
+  } catch(e) {
+    ansEl.className = 'r-ask-ans show';
+    ansEl.textContent = 'Error: ' + e.message;
+  } finally {
+    btn.disabled = false;
+  }
+}
+
 function closeReader() {
   document.getElementById('scrim').classList.remove('open');
 }
