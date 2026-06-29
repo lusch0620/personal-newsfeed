@@ -516,7 +516,14 @@ function loadNotes() {
 }
 function saveNote(id, text) {
   if (text.trim()) {
-    notesMap[id] = { text: text.trim(), ts: Date.now() };
+    const d = byId(id);
+    notesMap[id] = {
+      text:  text.trim(),
+      ts:    Date.now(),
+      title: d?.title || '',
+      src:   d?.src   || '',
+      date:  new Date().toISOString().split('T')[0],
+    };
   } else {
     delete notesMap[id];
   }

@@ -31,6 +31,11 @@ jobs:
       - name: Fetch feeds
         run: python scripts/fetch_feeds.py
 
+      - name: Fetch user notes from Gist
+        env:
+          SYNC_GIST_PAT: ${{ secrets.SYNC_GIST_PAT }}
+        run: python scripts/fetch_notes.py
+
       - name: Summarize with Claude Haiku
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -46,5 +51,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/data/feeds.json
+          git add data/notes.md 2>/dev/null || true
           git diff --staged --quiet || git commit -m "chore: update feed $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push

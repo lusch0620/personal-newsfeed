@@ -14,9 +14,10 @@ import json
 import os
 from pathlib import Path
 
-ROOT = Path(__file__).parent.parent
-RAW_PATH = ROOT / "data" / "raw_articles.json"
+ROOT        = Path(__file__).parent.parent
+RAW_PATH    = ROOT / "data" / "raw_articles.json"
 OUTPUT_PATH = ROOT / "data" / "feeds.json"
+NOTES_PATH  = ROOT / "data" / "notes.md"
 
 # Only summarize articles with enough raw content or title length
 MIN_TITLE_LEN = 20
@@ -104,8 +105,9 @@ def build_user_prompt(article: dict) -> str:
     return content
 
 
-def summarize_batch(client: anthropic.Anthropic, articles: list[dict]) -> list[dict]:
+def summarize_batch(client: anthropic.Anthropic, articles: list[dict], notes_ctx: str = "") -> list[dict]:
     """Summarize articles. Each call is individual to keep prompts focused."""
+    system = SYSTEM_PROMPT + notes_ctx
     results = []
     for i, article in enumerate(articles):
         existing = article.get("summary_ai")
@@ -123,7 +125,7 @@ def summarize_batch(client: anthropic.Anthropic, articles: list[dict]) -> list[d
             response = client.messages.create(
                 model="claude-haiku-4-5-20251001",
                 max_tokens=700,
-                system=SYSTEM_PROMPT,
+                system=system,
                 messages=[{"role": "user", "content": build_user_prompt(article)}],
             )
             text = response.content[0].text.strip()
@@ -161,6 +163,22 @@ def summarize_batch(client: anthropic.Anthropic, articles: list[dict]) -> list[d
     return results
 
 
+def load_notes_context() -> str:
+    """Return notes.md content as a prompt suffix, or empty string if not found."""
+    if not NOTES_PATH.exists():
+        return ""
+    text = NOTES_PATH.read_text().strip()
+    if not text:
+        return ""
+    return (
+        "\n\n=== USER RESEARCH NOTES ===\n"
+        "The user has written these annotations on recent articles. "
+        "They reveal what is capturing their attention right now. "
+        "Weight articles that connect to these themes, deals, or trends proportionally higher:\n\n"
+        + text
+    )
+
+
 def main():
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
@@ -171,8 +189,12 @@ def main():
     with open(RAW_PATH) as f:
         articles = json.load(f)
 
+    notes_ctx = load_notes_context()
+    if notes_ctx:
+        print("Notes context loaded — injecting into scoring prompt.")
+
     print(f"Summarizing {len(articles)} articles...")
-    articles = summarize_batch(client, articles)
+    articles = summarize_batch(client, articles, notes_ctx)
 
     # Sort by relevance (desc), then date (desc)
     def sort_key(a):
