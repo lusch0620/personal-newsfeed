@@ -1,0 +1,216 @@
+{
+  "FIG \u2014 Banks": {
+    "lede": "Morgan Stanley clears digital-asset trust charter hurdle; SpaceX index inclusion drives passive ETF flows; regional banking consolidation continues.",
+    "bullets": [
+      {
+        "text": "Morgan Stanley gets OCC conditional approval for digital-asset trust charter, requiring $50M minimum tier 1 capital and regulator sign-off on future business changes.",
+        "refId": "f1322e4b31ca",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Nasdaq fast-tracks SpaceX into Nasdaq-100 index, triggering automatic ETF rebalancing demand and significant passive fund inflows.",
+        "refId": "260dac11c73b",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Capital One positioning itself as stable corporate banking partner in Texas amid regional consolidation, though no specific deal or capital deployment details disclosed.",
+        "refId": "acbcdda9cc50",
+        "source": "Banking Dive"
+      }
+    ]
+  },
+  "FIG \u2014 Asset & Wealth Management": {
+    "lede": "Four stories on wealth management trends: consolidation pressures, product innovation in autocallables, diversification blind spots, and fixed income positioning.",
+    "bullets": [
+      {
+        "text": "Wealth managers are stacking private market funds without measuring true portfolio diversification impact, creating hidden concentration risk at the position level.",
+        "refId": "25122ced266e",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Calamos launching autocallable ETFs\u2014packaging structured income strategies with improved liquidity and tax efficiency to tap broader retail demand.",
+        "refId": "d3ac3de944a5",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Wealth and asset managers consolidating retirement + wealth advisory services; market heating up but no major deal anchors yet identified.",
+        "refId": "8746af2d09fd",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Fixed income environment remains elevated on geopolitical tension and AI disruption; DoubleLine's Cohen sees risk-reward balance opportunities in Treasuries.",
+        "refId": "ec5f9a4235b3",
+        "source": "Wealth Management"
+      }
+    ]
+  },
+  "FIG \u2014 Insurance": {
+    "lede": "Hub International moves toward IPO while the sector sees consolidation activity; litigation risks persist for major corporates despite court wins.",
+    "bullets": [
+      {
+        "text": "Hub International, a $29B PE-backed insurance broker, confidentially filed for US IPO\u2014signaling consolidators are ready to tap public markets as valuations stabilize.",
+        "refId": "703f331fb89c",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "The Doctors Company closed its $1.3B acquisition of ProAssurance med-mal specialist at $25/share, capping a deal announced over a year ago.",
+        "refId": "82ba0ff65590",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Bayer won a Supreme Court Roundup case, but the narrow ruling leaves underlying product-liability exposure intact and does not stop future litigation.",
+        "refId": "88f14bfbbf0b",
+        "source": "Insurance Journal"
+      }
+    ]
+  },
+  "FIG \u2014 Specialty Finance": {
+    "lede": "Specialty finance mixed bag: UK fintech M&A stumbling, Asian fintech scaling, but secondary debt and capital markets facing structural headwinds.",
+    "bullets": [
+      {
+        "text": "Atom Bank's \u00a3600M sale process collapsing due to lack of buyer interest at asking price\u2014signals tough exit environment for digital banks.",
+        "refId": "5334045f972c",
+        "source": "Finextra"
+      },
+      {
+        "text": "Non-listed BDCs dampening private debt secondaries fundraising, raising red flags on growth assumptions in a key specialty finance segment.",
+        "refId": "422439785650",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "LSE warns up to 200 UK-listed companies could migrate to US in worst-case scenario, pointing to regulatory/structural vulnerabilities in London capital markets.",
+        "refId": "db718f7d102e",
+        "source": "Finextra"
+      },
+      {
+        "text": "Mynt's $1.5bn IPO plans signal strong fintech momentum in Asia; meanwhile Cr\u00e9dit Agricole closes first production agentic payment transaction\u2014early win for autonomous infrastructure.",
+        "refId": "70bfb17a2bff",
+        "source": "Finextra"
+      }
+    ]
+  },
+  "PE & Deals": {
+    "lede": "Real estate and specialty finance consolidation accelerates: Bridgepoint acquiring $22B AUM manager, JC Flowers buying Republic Finance, while lower mid-market healthcare/finservices emerge as PE targets.",
+    "bullets": [
+      {
+        "text": "Bridgepoint acquiring Kayne Anderson Real Estate ($22B AUM) in major wealth/asset management consolidation play.",
+        "refId": "5ffb2e3925f6",
+        "source": "PE Hub"
+      },
+      {
+        "text": "JC Flowers-led group acquiring Republic Finance with Nowlake Technology as co-investor; valuations and deal structure under wraps for now.",
+        "refId": "9cc54cf44c15",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Lower mid-market financial services and healthcare remain sweet spots during macro volatility\u2014operational improvement driving 60-70% of value creation, per Fengate partner.",
+        "refId": "2d204e06d5fa",
+        "source": "PE Hub"
+      },
+      {
+        "text": "2024 fundraising recovery confirmed: PEI 300 data shows PE fundraising rebounding, with specialty platforms (mental health/neurodiversity) still attracting capital.",
+        "refId": "a2bad59c7937",
+        "source": "Private Equity International"
+      }
+    ]
+  },
+  "Markets & Macro": {
+    "lede": "Geopolitical supply shock meets tech bubble anxiety as Houthi mines crimp energy flows, BIS warns of AI bust risk, and a digital bank sale stalls.",
+    "bullets": [
+      {
+        "text": "Strait of Hormuz shipping capped at 50% prewar volumes for months due to Houthi mines; NYK CEO says safe routing severely constrained.",
+        "refId": "26e436500c67",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "BIS flags AI investment boom risks prologue to dot-com-style bust, citing weak near-term returns and deteriorating risk appetite as potential trigger.",
+        "refId": "1af60ab1713d",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Citadel Securities' $15B+ energy trading operation now rivals legacy commodity houses, capitalizing on algorithmic edge and dislocated market opportunities.",
+        "refId": "a24dfece7a18",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Atom Bank sale stalling near \u00a3600mn target\u2014digital bank struggling to attract serious bidders at asking price after months on market.",
+        "refId": "21d782cde231",
+        "source": "Financial Times Markets"
+      }
+    ]
+  },
+  "Newsletters": {
+    "lede": "4 stories spanning macro headwinds, structural product innovation, and strategic corporate bets as wealth managers recalibrate for a hawkish 2026.",
+    "bullets": [
+      {
+        "text": "Fed's hawkish hold + Iran tensions are forcing wealth managers to rebuild 2H 2026 portfolios; expect repositioning ripple effects across risk assets.",
+        "refId": "060473db89c4",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Autocallable ETFs hit $2.5B AUM in year one by cracking open structured products retail market\u2014watch for fee compression and competitive flood.",
+        "refId": "2f22f1c683fa",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Morgan Stanley committing $1.3B to Dallas expansion with city backing $18.5M in grants\u2014major regional wealth & operations footprint play.",
+        "refId": "70253fd71a93",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Gold ETF flows reversing as real rates rise and dollar strengthens; crowded safe-haven positioning unwinding.",
+        "refId": "6052581b3e44",
+        "source": "The Daily Upside"
+      }
+    ]
+  },
+  "Career Intel": {
+    "lede": "No stories in this lane today.",
+    "bullets": []
+  },
+  "Learn": {
+    "lede": "AI employment debate dominates discourse while Cerebras chips challenge GPU incumbency; infrastructure stories on utilities and climate adaptation.",
+    "bullets": [
+      {
+        "text": "Cerebras IPO'd at $56B betting wafer-scale chips disrupt GPU-dominated AI compute\u2014deliberate architectural play against entrenched NVIDIA/AMD.",
+        "refId": "f25070f36479",
+        "source": "The AI Corner"
+      },
+      {
+        "text": "AI won't create binary outsourcing/insourcing outcome\u2014Noah Smith argues task complexity and labor economics will drive simultaneous divergence, not uniform shift.",
+        "refId": "175ccfbea18c",
+        "source": "Noahpinion"
+      },
+      {
+        "text": "Tyler Cowen consolidates case against AI mass unemployment narrative in 12-minute framing that will likely anchor financial sector commentary.",
+        "refId": "c450d224d273",
+        "source": "Marginal Revolution"
+      }
+    ]
+  },
+  "all": {
+    "lede": "PE consolidators racing to exits with Hub's IPO filing, while digital assets get regulatory clarity and emerging markets fintech scales up.",
+    "bullets": [
+      {
+        "text": "$29B PE-backed insurance broker Hub International confidentially files for US IPO as consolidation play seeks public market liquidity.",
+        "refId": "703f331fb89c",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Atom Bank's \u00a3600M sale process collapsing due to lack of buyer interest at asking price\u2014another FIG exit stalling.",
+        "refId": "5334045f972c",
+        "source": "Finextra"
+      },
+      {
+        "text": "Morgan Stanley wins conditional OCC approval for digital-asset trust charter, clearing path for crypto/digital services expansion.",
+        "refId": "f1322e4b31ca",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Mynt plans $1.5B IPO for Philippines fintech GCash\u2014largest Philippine fintech listing ever, signaling emerging markets momentum.",
+        "refId": "70bfb17a2bff",
+        "source": "Finextra"
+      }
+    ]
+  }
+}
