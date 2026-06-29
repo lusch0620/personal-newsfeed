@@ -46,10 +46,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/generate_briefs.py
 
-      - name: Copy data to docs/
+       - name: Copy data to docs/
         run: |
           mkdir -p docs/data
-            cp data/briefs.json docs/data/briefs.json
+          cp data/feeds.json docs/data/feeds.json
+          cp data/briefs.json docs/data/briefs.json
 
       - name: Commit and push updated feed
         run: |
