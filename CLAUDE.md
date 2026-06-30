@@ -18,12 +18,20 @@ scripts/fetch_feeds.py            # RSS -> data/raw_articles.json
 scripts/fetch_notes.py            # Gist notes -> data/notes.md (CI only, needs SYNC_GIST_PAT)
 scripts/summarize.py              # Claude Haiku (8 async workers) -> data/feeds.json
 scripts/generate_briefs.py        # Claude Haiku -> data/briefs.json (lane briefs + live indices)
+scripts/generate_icons.py         # stdlib PNG icon generator for PWA (192 + 512)
 data/notes.md                     # auto-generated from user annotations; injected into scoring
 data/notes_archive/YYYY-MM.md    # notes > 90 days auto-archived here
 docs/index.html                   # live site — full UI
+docs/manifest.json                # PWA manifest
+docs/sw.js                        # service worker (network-first feeds, offline fallback)
+docs/icons/icon-192.png           # PWA icon
+docs/icons/icon-512.png           # PWA icon
 docs/data/feeds.json              # served copy of article data
 docs/data/briefs.json             # served copy of lane briefs + indices
+worker/index.js                   # Cloudflare Worker source (all routes)
+worker/wrangler.toml              # wrangler deploy config
 .github/workflows/update-feed.yml # cron pipeline
+.github/workflows/deploy-worker.yml # auto-deploys worker/ on push
 prototypes/                       # design source of truth
 ```
 
@@ -71,7 +79,7 @@ fetch_feeds.py -> fetch_notes.py -> summarize.py -> generate_briefs.py -> deploy
 }
 ```
 
-## What's built (all completed as of 2026-06-29)
+## What's built (as of 2026-06-30)
 
 | Feature | Status |
 |---------|--------|
@@ -86,11 +94,17 @@ fetch_feeds.py -> fetch_notes.py -> summarize.py -> generate_briefs.py -> deploy
 | Notes → pipeline: `fetch_notes.py` → `data/notes.md` → scoring context | ✅ |
 | Auto-archive: notes > 90 days → `data/notes_archive/YYYY-MM.md` | ✅ |
 | Pipeline refresh button (↻) — triggers workflow_dispatch | ✅ |
-| **Ask Claude inline Q&A in article reader (Cloudflare Worker)** | ✅ 2026-06-29 |
-| **Async summarization: 8 concurrent workers + exponential-backoff retry** | ✅ 2026-06-29 |
-| **Pipeline-generated lane briefs (P6 F7)** | ✅ 2026-06-29 |
-| **Live indices strip: S&P, Nasdaq, Dow, 10Y, VIX, KBW Banks (P6 F8)** | ✅ 2026-06-29 |
-| **Brief Me: Claude Sonnet + web search + cited talking points (P4)** | ✅ 2026-06-29 |
+| Ask Claude inline Q&A in article reader (Cloudflare Worker) | ✅ |
+| Async summarization: 8 concurrent workers + exponential-backoff retry | ✅ |
+| Pipeline-generated lane briefs (P6 F7) | ✅ |
+| Live indices strip: S&P, Nasdaq, Dow, 10Y, VIX, KBW Banks (P6 F8) | ✅ |
+| Brief Me: Claude Sonnet + web search + cited talking points | ✅ |
+| **PWA: installable on iPhone/Android, offline fallback via service worker** | ✅ 2026-06-30 |
+| **Algorithm: note signal (2.5), ask signal, topic max(), adaptive blending** | ✅ 2026-06-30 |
+| **Score floor filter (All / 5+ / 7+) below lane chips** | ✅ 2026-06-30 |
+| **Source quality panel in ⚙: avg score, engagement, prune recommendations** | ✅ 2026-06-30 |
+| **Source discovery: Worker /discover → RSS recommendations from profile** | ✅ 2026-06-30 |
+| **Worker source in repo (worker/index.js), auto-deploy via GitHub Actions** | ✅ 2026-06-30 |
 
 ## Cloudflare Worker
 
@@ -100,12 +114,18 @@ fetch_feeds.py -> fetch_notes.py -> summarize.py -> generate_briefs.py -> deploy
 
 | Route | Model | Purpose |
 |-------|-------|---------|
-| `POST /` or `/ask` | Haiku | Inline article Q&A in the reader |
-| `POST /brief` | Sonnet + web search | Brief Me — cited talking points beyond the feed |
+| `POST /ask` | Haiku | Inline article Q&A in the reader |
+| `POST /brief` | Sonnet + web search | Brief Me — cited talking points |
+| `POST /discover` | Sonnet + web search | RSS feed recommendations from profile |
 
 **Input `/ask`:** `{ question, article: { title, source, summary, talking_points } }`  
 **Input `/brief`:** `{ topic, articles: [{ title, source, summary }] }`  
-**Output both:** `{ answer }` or `{ lede, points: [{claim, source, url}] }`
+**Input `/discover`:** `{ topics: string[], sources: string[] }`  
+**Output `/ask`:** `{ answer }`  
+**Output `/brief`:** `{ lede, points: [{claim, source, url}] }`  
+**Output `/discover`:** `{ sources: [{name, rss_url, description, why, lane}] }`
+
+Worker source: `worker/index.js`. Auto-deploys via `deploy-worker.yml` on push to `worker/**`.
 
 ## GitHub Actions secrets
 
@@ -113,6 +133,7 @@ fetch_feeds.py -> fetch_notes.py -> summarize.py -> generate_briefs.py -> deploy
 |--------|---------|
 | `ANTHROPIC_API_KEY` | Claude Haiku for summarization + briefs; Sonnet for Brief Me |
 | `SYNC_GIST_PAT` | Reads user notes from Gist during pipeline |
+| `CF_API_TOKEN` | Cloudflare API token (Workers Edit scope) — deploys worker/index.js |
 
 ## Sync setup (cross-device)
 
