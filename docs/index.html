@@ -323,6 +323,27 @@
     .later-row{flex-wrap:wrap}
     .later-row .lr-act{width:100%;justify-content:flex-end}
   }
+
+  /* ── Score filter ── */
+  .filter-row{display:flex;align-items:center;gap:6px;padding:0 0 10px;flex-wrap:wrap}
+  .filter-label{font-size:11px;color:var(--faint);font-weight:600;letter-spacing:.06em;text-transform:uppercase;margin-right:2px}
+  .flt{font-size:11px;font-weight:600;padding:3px 9px;border-radius:20px;cursor:pointer;border:1px solid var(--stroke-soft);color:var(--muted);background:transparent;transition:all .15s}
+  .flt:hover{color:var(--ink);border-color:var(--stroke)}
+  .flt.active{background:rgba(255,255,255,.1);color:var(--ink);border-color:var(--stroke)}
+
+  /* ── Source quality panel ── */
+  .sq-details{border-top:1px solid var(--stroke-soft);padding-top:14px;margin-top:4px}
+  .sq-details summary{font-size:12.5px;color:var(--muted);cursor:pointer;list-style:none;font-weight:500;display:flex;justify-content:space-between;align-items:center}
+  .sq-details summary::-webkit-details-marker{display:none}
+  .sq-details[open] summary{color:var(--ink);margin-bottom:12px}
+  .sq-table{width:100%;border-collapse:collapse;font-size:12px;margin-top:8px}
+  .sq-table th{text-align:left;color:var(--muted);font-weight:500;padding:4px 6px;font-size:11px;letter-spacing:.04em;text-transform:uppercase}
+  .sq-table td{padding:5px 6px;border-top:1px solid var(--stroke-soft);vertical-align:middle}
+  .sq-table tr:last-child td{border-bottom:1px solid var(--stroke-soft)}
+  .sq-hi{color:#4ade80}.sq-mid{color:#fbbf24}.sq-lo{color:#f87171}
+  .sq-topics{margin-top:14px}
+  .sq-topics h5{font-size:11px;color:var(--muted);letter-spacing:.04em;text-transform:uppercase;margin-bottom:6px;font-weight:500}
+  .sq-tag{display:inline-block;padding:3px 9px;border-radius:12px;background:rgba(255,255,255,.07);color:var(--ink);font-size:11.5px;margin:2px 3px 2px 0}
 </style>
 </head>
 <body>
@@ -357,6 +378,7 @@
 
   <div class="view on" id="deck-view">
     <div class="lanes" id="lanes"></div>
+    <div class="filter-row" id="filterRow"></div>
     <div class="disc-banner" id="discoveryBanner"></div>
     <div class="todaybrief" id="todaybrief"></div>
     <div class="deck" id="deck">
@@ -432,6 +454,10 @@
       <button class="btn" onclick="closeSyncSettings()">Cancel</button>
       <button class="ssave" onclick="saveSyncSettings()">Save &amp; sync now</button>
     </div>
+    <details class="sq-details" id="sqDetails">
+      <summary>Source quality<span style="font-size:11px;opacity:.5">this edition</span></summary>
+      <div id="sqContent"></div>
+    </details>
   </div>
 </div>
 
@@ -480,6 +506,7 @@ const SUGGEST = [
 
 let DATA        = [];
 let activeLane  = 'all';
+let scoreFloor  = parseInt(localStorage.getItem('nf_score_floor') || '5');
 let readSet     = new Set();
 let laterSet    = new Set();
 let reactionMap = {};
@@ -647,6 +674,86 @@ function dismissDiscovery(src) {
   document.getElementById('discoveryBanner').style.display = 'none';
 }
 
+/* ─── SCORE FLOOR FILTER ─── */
+function setFloor(n) {
+  scoreFloor = n;
+  localStorage.setItem('nf_score_floor', n);
+  document.querySelectorAll('.flt').forEach(b => b.classList.toggle('active', +b.dataset.floor === n));
+  tileSizes = computeSizes(DATA);
+  render();
+  if (mode === 'focus') { fIndex = 0; renderFocus(); }
+}
+
+function buildFilterRow() {
+  const el = document.getElementById('filterRow');
+  if (!el) return;
+  const opts = [{label:'All', val:0}, {label:'5+', val:5}, {label:'7+', val:7}];
+  el.innerHTML = `<span class="filter-label">Score</span>` +
+    opts.map(o =>
+      `<button class="flt${scoreFloor===o.val?' active':''}" data-floor="${o.val}" onclick="setFloor(${o.val})">${o.label}</button>`
+    ).join('');
+}
+
+/* ─── SOURCE QUALITY ─── */
+function sourceQualityHTML() {
+  if (!DATA.length) return '<p style="font-size:12px;color:var(--muted)">No feed data loaded.</p>';
+  const p = getProfile();
+
+  const bySource = {};
+  DATA.forEach(d => {
+    if (!bySource[d.src]) bySource[d.src] = { count:0, sum:0, lane:d.lane };
+    bySource[d.src].count++;
+    bySource[d.src].sum += d.score;
+  });
+
+  const rows = Object.entries(bySource).map(([src, v]) => ({
+    src, count: v.count,
+    avg: v.sum / v.count,
+    eng: p ? (p.sources[src] || 0) : null,
+  })).sort((a,b) => a.avg - b.avg);
+
+  const tableRows = rows.map(r => {
+    const cls = r.avg >= 7 ? 'sq-hi' : r.avg >= 5 ? 'sq-mid' : 'sq-lo';
+    const dot = r.avg >= 7 ? '●' : r.avg >= 5 ? '●' : '●';
+    const eng = r.eng !== null ? (r.eng * 100).toFixed(0) + '%' : '—';
+    return `<tr>
+      <td><span class="${cls}">${dot}</span> ${esc(r.src)}</td>
+      <td style="text-align:right;font-variant-numeric:tabular-nums">${r.avg.toFixed(1)}</td>
+      <td style="text-align:right;color:var(--muted)">${r.count}</td>
+      <td style="text-align:right;color:var(--muted)">${eng}</td>
+    </tr>`;
+  }).join('');
+
+  const lowSrcs = rows.filter(r => r.avg < 5).map(r => r.src);
+  const pruneNote = lowSrcs.length
+    ? `<p style="font-size:11.5px;color:var(--muted);margin-top:10px">Consider removing from <code>sources.yaml</code>: ${lowSrcs.map(s=>`<b>${esc(s)}</b>`).join(', ')}</p>`
+    : '';
+
+  let topicsHTML = '';
+  if (p && Object.keys(p.topics).length) {
+    const top = Object.entries(p.topics)
+      .filter(([,v]) => v > 0)
+      .sort(([,a],[,b]) => b - a)
+      .slice(0, 8)
+      .map(([t]) => `<span class="sq-tag">${esc(t)}</span>`)
+      .join('');
+    if (top) topicsHTML = `<div class="sq-topics"><h5>Your top topics</h5>${top}</div>`;
+  }
+
+  return `
+    <table class="sq-table">
+      <thead><tr>
+        <th>Source</th>
+        <th style="text-align:right">Avg</th>
+        <th style="text-align:right">Art.</th>
+        <th style="text-align:right">Eng.</th>
+      </tr></thead>
+      <tbody>${tableRows}</tbody>
+    </table>
+    ${pruneNote}
+    ${topicsHTML}`;
+}
+
 /* ─── GIST SYNC ─── */
 const SYNC_FILE = 'newsfeed-sync.json';
 const GIST_ID   = '8a4b09f2ceb018c3b45460ee40e1ced9';
@@ -795,6 +902,7 @@ function openSyncSettings() {
   document.getElementById('sGistInput').value = gistId;
   document.getElementById('sSyncStatus').textContent = '';
   document.getElementById('smodal').classList.add('open');
+  document.getElementById('sqContent').innerHTML = sourceQualityHTML();
 }
 function closeSyncSettings() { document.getElementById('smodal').classList.remove('open'); }
 async function saveSyncSettings() {
@@ -850,6 +958,7 @@ function unread()   { return DATA.filter(d => !readSet.has(d.id)); }
 function laneList() {
   return unread()
     .filter(d => activeLane === 'all' || d.lane === activeLane)
+    .filter(d => !scoreFloor || d.score >= scoreFloor)
     .sort((a,b) => (b.finalScore||b.score) - (a.finalScore||a.score));
 }
 
@@ -859,7 +968,7 @@ function computeSizes(articles) {
   const sizes  = {};
   let heroes = 0, accents = 0, wideNext = true;
   sorted.forEach(d => {
-    const s = d.finalScore || d.score;
+    const s = d.score;  // AI score sets tier; finalScore sets order only
     if (s >= 9 && heroes < MAX_HEROES) {
       sizes[d.id] = 's-hero'; heroes++;
     } else if (s >= 8 && accents < MAX_ACCENTS) {
@@ -1018,6 +1127,7 @@ function buildLanes() {
     };
     el.appendChild(b);
   });
+  buildFilterRow();
 }
 
 /* ─── DECK ─── */
@@ -1365,7 +1475,9 @@ function setMode(m) {
 /* ─── FOCUS MODE ─── */
 function focusList() {
   if (fSource === 'later') return DATA.filter(d => laterSet.has(d.id) && !readSet.has(d.id));
-  return unread().sort((a,b) => (b.finalScore||b.score) - (a.finalScore||a.score));
+  return unread()
+    .filter(d => !scoreFloor || d.score >= scoreFloor)
+    .sort((a,b) => (b.finalScore||b.score) - (a.finalScore||a.score));
 }
 function renderFocus() {
   const stage = document.getElementById('stage');
