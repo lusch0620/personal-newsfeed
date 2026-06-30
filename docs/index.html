@@ -537,7 +537,8 @@ function loadNotes() {
 }
 function saveNote(id, text) {
   if (text.trim()) {
-    const d = byId(id);
+    const d      = byId(id);
+    const isNew  = !notesMap[id];
     notesMap[id] = {
       text:  text.trim(),
       ts:    Date.now(),
@@ -545,6 +546,7 @@ function saveNote(id, text) {
       src:   d?.src   || '',
       date:  new Date().toISOString().split('T')[0],
     };
+    if (isNew && text.trim().length > 15) captureSignal(d, 'note');
   } else {
     delete notesMap[id];
   }
@@ -553,7 +555,7 @@ function saveNote(id, text) {
 }
 
 /* ─── LEARNING ALGORITHM (P3.5) ─── */
-const SIGNAL_W  = { read: 1.0, save: 1.5, brief: 2.0, like: 3.0, dislike: -2.0, skip: -0.3 };
+const SIGNAL_W  = { read: 1.0, save: 1.5, note: 2.5, brief: 2.0, like: 3.0, dislike: -2.0, skip: -0.3 };
 const HALF_LIFE = 14;
 
 function captureSignal(d, action) {
@@ -571,10 +573,12 @@ function captureSignal(d, action) {
 
 function rebuildProfile(sigs) {
   const raw = { sources: {}, lanes: {}, topics: {} };
+  let totalW = 0;
   sigs.forEach(s => {
     const w  = SIGNAL_W[s.action] || 0;
     const dw = w * Math.pow(2, -(Date.now() - s.ts) / (HALF_LIFE * 86400000));
     if (!dw) return;
+    totalW += Math.abs(dw);
     raw.sources[s.src]  = (raw.sources[s.src]  || 0) + dw;
     raw.lanes[s.lane]   = (raw.lanes[s.lane]   || 0) + dw;
     (s.topics || []).forEach(t => { raw.topics[t] = (raw.topics[t] || 0) + dw; });
@@ -585,7 +589,10 @@ function rebuildProfile(sigs) {
   };
   try {
     localStorage.setItem('nf_profile', JSON.stringify({
-      sources: norm(raw.sources), lanes: norm(raw.lanes), topics: norm(raw.topics)
+      sources:    norm(raw.sources),
+      lanes:      norm(raw.lanes),
+      topics:     norm(raw.topics),
+      confidence: Math.min(1, totalW / 20),
     }));
   } catch(e) {}
 }
@@ -602,10 +609,12 @@ function applyRanking() {
     const laneW  = p.lanes[d.lane]   || 0;
     const topics = d.topics || [];
     const topicW = topics.length
-      ? topics.reduce((s, t) => s + (p.topics[t] || 0), 0) / topics.length
+      ? Math.max(...topics.map(t => p.topics[t] || 0))
       : 0;
     const personal = srcW * 0.3 + laneW * 0.3 + topicW * 0.4;
-    d.finalScore = d.score * 0.5 + personal * 10 * 0.5;
+    const c   = p.confidence ?? 1;
+    const aiW = 1 - c * 0.5;
+    d.finalScore = d.score * aiW + personal * 10 * (c * 0.5);
   });
 }
 
@@ -1182,6 +1191,7 @@ async function askClaude(d) {
     const { answer } = await resp.json();
     ansEl.className = 'r-ask-ans show';
     ansEl.textContent = answer;
+    captureSignal(d, 'read');
 
     // Save Q&A to notes to feed the algorithm
     const existing = notesMap[d.id]?.text || '';
