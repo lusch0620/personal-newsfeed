@@ -1,170 +1,170 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Morgan Stanley wins crypto trust charter approval while cannabis banking reform resurfaces; political headwinds on CFPB nominee and Fed independence.",
+    "lede": "5 stories spanning regulatory headwinds, regional M&A, a major antitrust win, and fintech infrastructure moves.",
     "bullets": [
       {
-        "text": "Morgan Stanley gets OCC conditional approval for digital-asset trust charter with $50M tier-1 capital requirement\u2014clearing a key regulatory hurdle for crypto services.",
-        "refId": "f1322e4b31ca",
+        "text": "Swedish court awards Klarna \u20ac2B in antitrust judgment against Google for preferential treatment of its own price comparison service over Prisjakt.",
+        "refId": "2952198c5c62",
         "source": "Banking Dive"
       },
       {
-        "text": "Cannabis banking reform reintroduced by Sen. Merkley following DEA's medical cannabis rescheduling, creating a regulatory opening for banks to enter the market.",
-        "refId": "0a280c45af95",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Warren grills CFPB nominee Brian Johnson (ex-Capital One) over potential conflict of interest regarding dropped Capital One lawsuit\u2014confirmation vote looming.",
+        "text": "Warren confronts CFPB nominee Brian Johnson (ex-Capital One) on potential conflict of interest regarding dropped lawsuit against his former employer ahead of confirmation vote.",
         "refId": "823cc8c4a305",
         "source": "Banking Dive"
       },
       {
-        "text": "Supreme Court rules 5-4 Trump cannot fire Fed Governor Lisa Cook, affirming Fed independence and blocking removal attempt.",
-        "refId": "5ae7281940d2",
+        "text": "140+ consortium members including BNY Mellon, Visa, and Coinbase launch low-cost stablecoin for payments infrastructure under Bridge CEO leadership.",
+        "refId": "45d417cc58eb",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "EagleBank pays $9.7M to resolve BSA/AML violations including admitted knowledge of customer fraud and weak compliance controls.",
+        "refId": "e7f148ac29f9",
         "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "RIA consolidation accelerates with EP Wealth's $900M deal; Vanguard outsources quant strategies to T. Rowe Price; regulatory tailwinds unlock retirement income advisory revenue; iCapital flags growth slowdown and AI regulatory risk.",
+    "lede": "Vanguard outsources to T. Rowe Price, RIA consolidation continues, and AI automation gains traction amid crypto outflows and M&A disputes.",
     "bullets": [
       {
-        "text": "EP Wealth acquires Opes Wealth Management for $900M, pairing the deal with a cash incentive program for non-shareholder employees\u2014signaling aggressive capital deployment and talent retention amid RIA M&A wave.",
-        "refId": "bfe284bc6a6a",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Vanguard taps T. Rowe Price as subadvisor on three active funds after internal quant strategies underperform, a rare outsourcing move despite resulting fee increases.",
+        "text": "Vanguard taps T. Rowe Price as subadvisor on three active funds after internal quant strategies underperformed\u2014a rare outsourcing move for the giant that signals quant headwinds despite higher fees.",
         "refId": "98ae2f935a7d",
         "source": "RIABiz"
       },
       {
-        "text": "Regulatory changes are enabling advisors to embed decumulation strategies into retirement accounts, opening a new advisory revenue stream in retirement income management.",
-        "refId": "37b0b234ca56",
+        "text": "Clearstead acquires $5.6B RIA team from myCIO Wealth Partners; mid-market consolidation continues as roll-up appetite remains strong.",
+        "refId": "d0ca19c0a9e1",
         "source": "Wealth Management"
       },
       {
-        "text": "iCapital signals slower growth ahead and flags AI as an emerging regulatory risk, forecasting S&P 500 returns of 0\u20135% in H2 2026\u2014well below prior consensus.",
-        "refId": "0994d20000ca",
+        "text": "Bitcoin ETFs logged $6.4B outflows in worst 30-day stretch since launch, while RIAs explore section 351 exchanges to convert SMAs into ETFs.",
+        "refId": "ed2a7fee51a3",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "FactSet invests in TIFIN.AI and rolls out agentic AI workflows on its Workstation to automate meeting prep and portfolio intelligence for wealth managers.",
+        "refId": "6be5e29b6b68",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "Climate risk reshaping insurance supply; pricing pressures offset by innovation and capital solutions expansion.",
+    "lede": "Reinsurance market flooded with $790bn capital driving pricing compression, while primary insurers face outsized Q2 losses and new players target underserved SME segment.",
     "bullets": [
       {
-        "text": "Allianz warns climate change is rendering entire asset classes uninsurable\u2014insurers withdrawing from high-risk geographies as extreme weather losses mount.",
-        "refId": "5d6ae6f910b6",
+        "text": "Record $790bn reinsurance capital at mid-year renewals enabled double-digit pricing cuts on property catastrophe coverage\u2014Kingstone locked in 15%+ cost reduction with expanded limits.",
+        "refId": "7d1d67415c0a",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Goldman Sachs pegs Q2'26 global insured catastrophe losses at $24bn, with primary insurers absorbing 65\u201370% while reinsurers shield downside.",
+        "refId": "a48e339e8264",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Fidelis Partnership launching Adroit Underwriting MGA to underwrite US SME casualty reinsurance, filling gap in mid-market risk coverage.",
+        "refId": "8d02b0db0050",
         "source": "Insurance Journal"
-      },
-      {
-        "text": "Kingstone cuts cat reinsurance costs 15%+ while doubling XoL limit to $500m for 2026/2027, signaling better market terms despite elevated nat cat exposure.",
-        "refId": "cd028b16a06a",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Aon expands institutional capital access by appointing new head of asset-backed finance & securitization\u2014pushing ILS and structured products as alternative risk transfer.",
-        "refId": "117a66804044",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Fitch flags reinsurers must innovate in microinsurance, parametric, and ILS to expand nat cat coverage affordably and sustainably.",
-        "refId": "774fe8a9f2c9",
-        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "Sovereigns flooding private credit while mainstream finance converges on digital rails\u2014but crypto litigation risk intensifies.",
+    "lede": "Sovereigns flood private credit while fintech innovates at the margins; mainstream payments players embrace stablecoins as crypto litigation looms.",
     "bullets": [
       {
-        "text": "Sovereign wealth funds are aggressively rotating from public equities/bonds into private credit, sustaining capital demand for specialty finance vehicles.",
+        "text": "Sovereign wealth funds rotating hard into private credit, signaling sustained capital demand for specialty finance assets.",
         "refId": "175eedb64fe8",
         "source": "Private Debt Investor"
       },
       {
-        "text": "Visa, Mastercard, US Bank, Google, and Coinbase backing Open USD stablecoin signals institutional-grade convergence on digital currency infrastructure.",
+        "text": "North American private credit hitting reputational and performance headwinds while Europe remains resilient\u2014two regions diverging on structure and regulation.",
+        "refId": "43656ac68f52",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "Visa, Mastercard, US Bank, Google, and Coinbase backing Open USD stablecoin launching this year\u2014mainstream convergence on digital currency infrastructure.",
         "refId": "d90dff3bc80c",
         "source": "Finextra"
       },
       {
-        "text": "1,700 UK investors suing Binance for \u00a3150M+ damages exposes regulatory and litigation exposure in crypto platforms despite mainstream adoption momentum.",
+        "text": "1,700 UK investors suing Binance for \u00a3150M+ damages, highlighting regulatory and litigation exposure in crypto platforms.",
         "refId": "66e261c91d7f",
-        "source": "Finextra"
-      },
-      {
-        "text": "Google Ventures' $30M Nebex round signals fintech is capturing margin at emerging asset-class intersections (space economy infrastructure).",
-        "refId": "6c47dcc643ff",
         "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "Mixed LP signals: major pension funds tightening PE discipline on underperformance, while some LPs selectively deploy into distressed software and complex opportunities.",
+    "lede": "PE fundraising momentum continues despite LP skepticism\u2014top firms crush targets while some pensions reassess allocations, and distressed software assets are drawing tactical bets.",
     "bullets": [
       {
-        "text": "Colorado PERA ($75bn) reconsidering PE allocation after underperforming benchmarks\u2014clearest sign yet of LP capital discipline tightening across the asset class.",
+        "text": "Colorado PERA ($75bn) questioning PE commitment after underperformance vs. benchmarks\u2014broadening signal that LP confidence in the asset class is cracking.",
         "refId": "302660575fe1",
         "source": "Buyouts Insider"
       },
       {
-        "text": "Arizona pension fund bucking the trend, temporarily increasing PE allocation to hunt distressed software assets facing valuation compression and debt walls from peak-multiple buys.",
+        "text": "Top 100 PE firms raised nearly 10% more capital YoY; KKR holds lead, Bain Capital vaults into top five\u2014momentum defies LP concerns.",
+        "refId": "7d767c15be35",
+        "source": "Buyouts Insider"
+      },
+      {
+        "text": "Arizona pension eyeing tactical PE boost to snag distressed software assets hit by valuation compression and debt walls from peak-multiple deals.",
         "refId": "8f290235bf18",
         "source": "Buyouts Insider"
       },
       {
-        "text": "BCI tripled 2025 PE outlays under new global PE head Jon Salon, signaling continued appetite for 'complex' opportunities despite broader LP skepticism.",
+        "text": "BCI tripled PE outlays in 2025 with fresh global PE lead signaling continued appetite for 'complex' opportunities\u2014contrasts sharply with pullback sentiment elsewhere.",
         "refId": "dba25e20f0b1",
         "source": "Buyouts Insider"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "Fed signals no rate guidance ahead, while PE eyes pension buyouts and wealth transfer opportunities\u2014but private credit shows cracks.",
+    "lede": "5 stories spanning PE expansion into pension buyouts, crypto regulatory upheaval, wealth transfer opportunities, private credit stress, and regulatory uncertainty from Supreme Court ruling.",
     "bullets": [
       {
-        "text": "Fed Chair Warsh explicitly rejected forward guidance, telling markets to price outcomes independently without central bank telegraphing of future rate moves.",
-        "refId": "4533363471c5",
-        "source": "MarketWatch"
-      },
-      {
-        "text": "KKR entering UK/European pension buyouts, betting on sponsor demand to offload longevity liabilities at attractive yields as generational risk shifts.",
+        "text": "KKR entering UK/European pension buyouts as PE firms target attractive yields from sponsors offloading longevity risk.",
         "refId": "62c9b5e97a9e",
         "source": "Financial Times Markets"
       },
       {
-        "text": "$84 trillion wealth transfer creates $60tn opportunity for asset managers, but historical 70% client attrition on generational handoffs poses retention challenge.",
+        "text": "MiCA compliance deadline forces majority of EU crypto firms to exit; only fraction secured required licences as new rules take effect.",
+        "refId": "a9d927754a9f",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "$84 trillion wealth transfer over 20 years creates $60 trillion AUM opportunity for asset managers, but generational handoffs historically see 70% client attrition.",
         "refId": "628d9e168bc3",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Medallia's post-SPAC equity wipeout signals broader private credit stress when venture-stage models hit growth reality\u2014questioning PE's deeper involvement in later-stage funding.",
+        "text": "Medallia's post-SPAC equity wipeout and debt distress exposes structural tensions in private credit's venture-into-growth-stage playbook.",
         "refId": "52ec0b4c9d62",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "ETF ecosystem surging past $23T while regulators scrutinize complex products; wealth transfer thesis threatened by healthcare costs; yen volatility signals Fed expectations.",
+    "lede": "ETF boom hits $23T globally while SEC scrutinizes complex products; yen weakness signals Fed rate hike bets; wealth transfer headwinds from longevity.",
     "bullets": [
       {
-        "text": "Global ETF assets hit record $23T in May with YTD inflows ($739B) already exceeding last year's pace\u2014structural shift into passive continues.",
+        "text": "Global ETF assets hit $23T in May with inflows exceeding $739B YTD\u2014industry momentum accelerating despite SEC's push to review leveraged, inverse, and derivative-linked structures for investor protection.",
         "refId": "c06925b65f8d",
         "source": "The Daily Upside"
       },
       {
-        "text": "SEC opening comment period on novel ETF structures (leveraged, inverse, derivatives-linked)\u2014regulatory pressure mounting on complexity as innovation outpaces guardrails.",
+        "text": "SEC opening comment period on novel ETF products signals regulatory tension between innovation and stability\u2014watch for constraints on complex strategies gaining traction with retail.",
         "refId": "6c5cd4d25dfb",
         "source": "The Daily Upside"
       },
       {
-        "text": "Healthcare-driven wealth depletion risk: longevity costs could materially erode the $84T intergenerational transfer thesis, reshaping estate and advisory strategies.",
-        "refId": "d2029e5a6007",
+        "text": "JPY hits 40-year low as Fed rate hike expectations take hold, upending yen's safe-haven bid and creating near-term currency headwinds for dollar-denominated asset managers.",
+        "refId": "334d20e1fd78",
         "source": "The Daily Upside"
       },
       {
-        "text": "JPY hits 40-year low on Fed rate-hike bets, signaling market conviction on tightening and destabilizing traditional safe-haven flows.",
-        "refId": "334d20e1fd78",
+        "text": "$84T intergenerational wealth transfer at risk\u2014rising healthcare costs and extended lifespans eating into boomer savings, potentially dampening near-term estate planning and advisory fee pipelines.",
+        "refId": "d2029e5a6007",
         "source": "The Daily Upside"
       }
     ]
@@ -174,84 +174,89 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories spanning prediction markets, AI infrastructure economics, and labor market impacts as enterprise AI adoption accelerates despite rising costs.",
     "bullets": [
       {
-        "text": "AI cheating on math econ at Brown",
-        "refId": "f1c8976fafc5",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Prediction markets paragraphs to ponder",
+        "text": "Risk Labs' decentralized prediction-market oracle has proven exploitable despite crypto-game-theory complexity, with dozens of bettors reporting losses from manipulation.",
         "refId": "7476c2c7442d",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "source": "Marginal Revolution"
       },
       {
-        "text": "The Token Budget Problem Nobody Is Talking About (Matan Grinberg, Co-Founder & CEO of Factory)",
+        "text": "Factory ($1.5B AI-native software company) is tackling the 'token budget problem'\u2014LLMs hitting context limits when processing large codebases, forcing developers to trade breadth for accuracy.",
         "refId": "12c5c48268da",
-        "source": "The Generalist (Mario Gabriele)"
+        "source": "The Generalist"
+      },
+      {
+        "text": "Enterprise AI spending accelerates despite 600x infrastructure cost declines in six years; paradox driven by surging compute demand and architectural inefficiency, not pricing pressure.",
+        "refId": "6b9cead4fb55",
+        "source": "The AI Corner"
+      },
+      {
+        "text": "Ramp data shows heavy AI-spending companies are hiring, not laying off\u2014directly contradicting the automation-kills-jobs narrative dominating tech discourse.",
+        "refId": "563a98495599",
+        "source": "Big Technology"
       }
     ]
   },
   "all": {
-    "lede": "Morgan Stanley clears digital asset trust hurdle; cannabis banking reform resurfaces; RIA consolidation accelerates as Vanguard makes rare outsourcing move.",
+    "lede": "Five stories spanning asset management strategy shifts, regulatory scrutiny of exotic ETFs, and mid-market RIA consolidation.",
     "bullets": [
       {
-        "text": "Morgan Stanley wins OCC conditional approval for digital-asset trust charter with $50M minimum tier-1 capital requirement\u2014a regulatory green light for crypto infrastructure play.",
-        "refId": "f1322e4b31ca",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Sen. Merkley reintroduces cannabis banking reform legislation following DEA's medical cannabis rescheduling, creating a regulatory opening for banks to serve the industry.",
-        "refId": "0a280c45af95",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "EP Wealth acquires Opes Wealth Management for $900M and launches cash-based incentive program, signaling aggressive capital deployment and talent wars in RIA consolidation.",
-        "refId": "bfe284bc6a6a",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Vanguard outsources three active funds to T. Rowe Price as subadvisor after internal quant strategies underperform\u2014a rare move for Vanguard despite willingness to raise fees.",
+        "text": "Vanguard outsources to T. Rowe Price as subadvisor on three active funds after internal quants underperformed\u2014rare move for the passive giant that will raise fees for clients.",
         "refId": "98ae2f935a7d",
         "source": "RIABiz"
+      },
+      {
+        "text": "Sovereign wealth funds are aggressively rotating from public equities and bonds into private credit, signaling sustained capital demand for specialty finance.",
+        "refId": "175eedb64fe8",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "SEC is seeking public comment on novel ETF structures (leveraged, inverse, derivative-linked) to weigh innovation against systemic risks and investor protection.",
+        "refId": "6c5cd4d25dfb",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Clearstead acquired $5.6B RIA team from myCIO Wealth Partners\u2014mid-market consolidation play following the hire of a new M&A head.",
+        "refId": "d0ca19c0a9e1",
+        "source": "Wealth Management"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7452.0,
+      "v": 7501.25,
       "base": 7440.43,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25981.434,
+      "v": 26124.553,
       "base": 25820.14,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52057.99,
+      "v": 52466.18,
       "base": 52182.74,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.487,
+      "v": 4.465,
       "base": 4.418,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.8,
+      "v": 16.36,
       "base": 16.45,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 180.8051,
+      "v": 184.4856,
       "base": 182.74,
       "bp": false
     }
