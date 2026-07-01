@@ -20,6 +20,7 @@ ROOT        = Path(__file__).parent.parent
 RAW_PATH    = ROOT / "data" / "raw_articles.json"
 OUTPUT_PATH = ROOT / "data" / "feeds.json"
 NOTES_PATH  = ROOT / "data" / "notes.md"
+DOCS_FEEDS_PATH = ROOT / "docs" / "data" / "feeds.json"  # last published feed (committed, survives across CI runs)
 
 # Only summarize articles with enough raw content or title length
 MIN_TITLE_LEN = 20
@@ -236,6 +237,32 @@ def summarize_all(client: anthropic.Anthropic, articles: list[dict], notes_ctx: 
     return out
 
 
+def load_previous_summaries() -> dict:
+    """Load summary_ai from the last published docs/data/feeds.json, keyed by article id.
+
+    data/raw_articles.json and data/feeds.json are both gitignored and regenerated
+    from scratch on every CI run, so INCREMENTAL has nothing to compare against in
+    production -- every article gets re-summarized on every run regardless of the
+    flag. docs/data/feeds.json IS committed and survives the checkout, so it's the
+    only place we can recover prior summaries from.
+    """
+    if not DOCS_FEEDS_PATH.exists():
+        return {}
+    try:
+        with open(DOCS_FEEDS_PATH) as f:
+            prev_articles = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+    summaries = {}
+    for a in prev_articles:
+        aid = a.get("id")
+        summary = a.get("summary_ai")
+        if aid and summary and summary.get("summary_long") and summary.get("talking_points") and summary.get("topics"):
+            summaries[aid] = summary
+    return summaries
+
+
 def load_notes_context() -> str:
     """Return notes.md content as a prompt suffix, or empty string if not found."""
     if not NOTES_PATH.exists():
@@ -261,6 +288,17 @@ def main():
 
     with open(RAW_PATH) as f:
         articles = json.load(f)
+
+    # Carry forward existing summaries so INCREMENTAL actually has something to
+    # skip against -- see load_previous_summaries() for why this is necessary.
+    previous_summaries = load_previous_summaries()
+    if previous_summaries:
+        carried = 0
+        for article in articles:
+            if article.get("summary_ai") is None and article["id"] in previous_summaries:
+                article["summary_ai"] = previous_summaries[article["id"]]
+                carried += 1
+        print(f"Carried forward {carried}/{len(articles)} summaries from docs/data/feeds.json")
 
     notes_ctx = load_notes_context()
     if notes_ctx:
