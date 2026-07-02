@@ -1,31 +1,5 @@
 [
   {
-    "id": "98ae2f935a7d",
-    "title": "Vanguard inks 'unthinkable' deal that makes rival T. Rowe Price a subadvisor on three funds after quants flame out, even though it'll raise fees for the human touch",
-    "url": "https://riabiz.com/a/2026/6/29/vanguard-inks-unthinkable-deal-that-makes-rival-t-rowe-price-a-subadvisor-on-three-funds-after-quants-flame-out-even-though-itll-raise-fees-for-the-human-touch",
-    "source": "RIABiz",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-06-30T16:53:11+00:00",
-    "summary_raw": "Vanguard was fed up with subpar returns on active funds and T. Rowe is tired of outflows and the resulting increase in the management fees is fairly minor",
-    "summary_ai": {
-      "digest": "Vanguard taps T. Rowe Price as subadvisor on three active funds after internal quant strategies underperformed; deal marks rare outsourcing move for Vanguard despite fee increases.",
-      "summary_long": "Vanguard, traditionally self-reliant on fund management, has engaged T. Rowe Price to serve as subadvisor on three active funds where Vanguard's quantitative strategies failed to deliver competitive returns. The partnership represents a strategic reversal for Vanguard\u2014historically resistant to outsourcing\u2014and reflects pressure on both firms: Vanguard needs better performance to stanch client dissatisfaction, while T. Rowe faces persistent outflows and rising fee pressure. Though the deal will modestly increase fees for end clients (moving from Vanguard's ultra-low-cost model to a hybrid), Vanguard is willing to absorb that trade-off to restore alpha. The move signals that even the largest, most-capable asset managers recognize limits to in-house expertise and may reshape how the industry thinks about outsourced subadvisory relationships.",
-      "talking_points": [
-        "Vanguard, the industry's lowest-cost operator, is outsourcing active management to T. Rowe Price\u2014a structural admission that internal quant models failed.",
-        "T. Rowe Price, bleeding assets to passive and ETF competition, gains mandate stability and fee support in exchange for delivering alpha on three funds.",
-        "This normalizes subadvisory partnerships at scale: if Vanguard can't build it all in-house, the boutique-to-bulge-bracket subadvisory lane just became a growth lever for distressed AM platforms."
-      ],
-      "topics": [
-        "Vanguard-subadvisor-strategy",
-        "active-management-underperformance",
-        "asset-manager-outsourcing",
-        "T. Rowe Price restructuring"
-      ],
-      "highlight": "Vanguard outsourcing active management to a rival after internal quants underperformed\u2014a deal structure that could spawn similar partnerships across the industry as scale no longer guarantees in-house excellence.",
-      "relevance": 8
-    }
-  },
-  {
     "id": "6c5cd4d25dfb",
     "title": "SEC Requests Public Comment on Some of Wall Street\u2019s Wildest ETFs",
     "url": "https://www.thedailyupside.com/etf/regulation-legislation/sec-requests-public-comment-on-some-of-wall-streets-wildest-etfs/",
@@ -104,54 +78,29 @@
     }
   },
   {
-    "id": "d0c059f177c3",
-    "title": "Commerce Bank in St. Louis to buy boutique firm",
-    "url": "https://www.bankingdive.com/news/commerce-bank-st-louis-to-buy-boutique-firm/824113/",
-    "source": "Banking Dive",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-06-30T16:12:00+00:00",
-    "summary_raw": "<p>Buying Nolan &amp; Associates would mark the $37.5 billion-asset bank&rsquo;s second deal in a year.</p>",
+    "id": "f7246068cdab",
+    "title": "Brian Armstrong Runs 1,200 AI Agents at Coinbase. Here Is the Operating Model He Just Handed Every Founder.",
+    "url": "https://www.the-ai-corner.com/p/brian-armstrong-coinbase-1200-ai-agents-operating-model-2026",
+    "source": "The AI Corner (Ruben Dominguez)",
+    "section": "Learn",
+    "date": "2026-07-02T17:51:15+00:00",
+    "summary_raw": "Coinbase runs 1,200 AI agents, legally gives investment advice, and is building the bank for the entire agentic economy.",
     "summary_ai": {
-      "digest": "Commerce Bank ($37.5B assets) is acquiring boutique firm Nolan & Associates, its second deal in a year.",
-      "summary_long": "Commerce Bancorp, a mid-sized regional bank based in St. Louis, is moving to acquire Nolan & Associates, a boutique advisory or wealth management shop. The deal marks the bank's second acquisition within 12 months, signaling continued inorganic growth strategy and likely an effort to build out advisory or specialty finance capabilities. The timing and frequency of Commerce's deal activity\u2014two deals in one year\u2014suggests either aggressive capacity deployment or a targeted build into a specific business line (wealth management, specialty lending, or fintech). Without deal size, valuation, or closing timeline, the article is a skeleton, but the cadence matters for assessing regional bank M&A momentum.",
+      "digest": "Coinbase has deployed 1,200 AI agents into production across compliance, customer service, and investment advisory\u2014operating under a legal framework that permits AI to issue regulated financial advice. Armstrong's model treats agents as autonomous business units with defined KPIs and oversight.",
+      "summary_long": "Coinbase's operating model treats AI agents as discrete operational entities rather than tools, each with clear accountability, performance metrics, and escalation paths. The company has built compliance infrastructure to allow agents to legally issue investment guidance\u2014a rare regulatory achievement. Armstrong frames this not as automation of existing functions but as a new organizational primitive: agents with bounded autonomy operating within defined decision trees and human checkpoints. The model separates agent *capability* (what it can do) from agent *authority* (what it's permitted to do), with real-time monitoring and rollback capacity. This is relevant to fintech and wealth platforms considering similar deployments, particularly those seeking to scale high-touch services (advisory, customer onboarding, compliance review) without proportional headcount.",
       "talking_points": [
-        "Commerce Bancorp is two deals deep in 12 months\u2014tracking the velocity and multiples of regional bank deals matters for cross-check against slowdown narratives.",
-        "Nolan & Associates is boutique-sized; if it's wealth/advisory, this is part of the RIA/advisory consolidation trend hitting regional banks hard.",
-        "At $37.5B assets, Commerce is well-positioned to deploy capital\u2014this could be a leading indicator of whether mid-market regional banks are still willing to spend or pulling back."
+        "Coinbase has embedded legal AI decision-making into its investment advisory function\u2014agents can recommend trades and strategies under a compliance-sanctioned framework, not just flag issues for humans.",
+        "The operating model isolates agent performance and failure modes by design: each agent has isolated KPIs, bounded scope, and automatic escalation triggers, making it easier to catch drift and bad actor patterns.",
+        "This is a blueprint for fintech platforms and wealth managers seeking to scale advisory and compliance workflows; the constraint isn't technology but regulatory clarity on AI authority in regulated advice."
       ],
       "topics": [
-        "regional-bank-M&A",
-        "boutique-acquisition",
-        "organic-growth"
+        "AI-agents-fintech",
+        "regulatory-fintech",
+        "wealth-advisory-automation",
+        "operational-model"
       ],
-      "highlight": "Commerce Bancorp's second acquisition in 12 months suggests sustained deal appetite among $30\u201350B regional banks despite macro headwinds.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "823cc8c4a305",
-    "title": "Warren grills Capital One CEO over CFPB nominee",
-    "url": "https://www.bankingdive.com/news/warren-cfpb-brian-johnson-capital-one-dropped-lawsuit-savings-accounts-fairbank-trump/824112/",
-    "source": "Banking Dive",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-06-30T16:12:41+00:00",
-    "summary_raw": "<figure><div><img src=\"https://imgproxy.divecdn.com/1xBC-7rMAzzkyC7Js6Q0Z1tt4t8fled61BIWpiCa_cs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMzkzNzAyLmpwZw==.webp\" /></div></figure><p>The Democratic senator wanted to know if Capital One executive-turned-CFPB nominee Brian Johnson had any role in the bureau&rsquo;s termination of a lawsuit against the bank.</p>",
-    "summary_ai": {
-      "digest": "Senator Warren questioned CFPB nominee Brian Johnson (ex-Capital One executive) on whether he influenced the bureau's decision to drop a lawsuit against Capital One, raising conflict-of-interest concerns ahead of his confirmation vote.",
-      "summary_long": "Brian Johnson, a Capital One veteran nominated to lead the CFPB, faced Senate scrutiny over potential conflicts of interest. Warren's line of questioning centered on the timing and circumstances of the CFPB's withdrawal of enforcement action against Capital One\u2014his former employer\u2014and whether Johnson had any involvement in that decision. The implication is that Johnson may have used inside knowledge or influence to benefit Capital One while still employed there or shortly after departure. This touches on revolving-door governance and regulatory capture risk. Johnson's confirmation outcome will signal how aggressively the incoming administration plans to enforce consumer protection rules.",
-      "talking_points": [
-        "CFPB nominee Brian Johnson faces conflict-of-interest challenge: Senator Warren questioning his role in the agency's decision to drop a lawsuit against his former employer, Capital One.",
-        "The timeline matters\u2014if Johnson influenced the lawsuit termination while at Capital One or shortly after, it undermines his credibility as CFPB director and suggests regulatory capture.",
-        "Confirmation outcome is a regulatory signal: a Johnson approval despite the conflict signals a weaker CFPB posture toward bank enforcement; rejection signals appetite for stricter consumer protection oversight."
-      ],
-      "topics": [
-        "CFPB-enforcement",
-        "regulatory-capture",
-        "Capital-One",
-        "confirmation-hearing"
-      ],
-      "highlight": "Warren's questioning directly challenges Johnson's ability to lead CFPB impartially given his ties to Capital One and the agency's sudden withdrawal of a lawsuit against the bank.",
-      "relevance": 7
+      "highlight": "Coinbase legally permits AI agents to issue investment advice under a compliance framework that defines agent authority separately from capability\u2014a regulatory milestone with direct application to wealth platforms and robo-advisors.",
+      "relevance": 8
     }
   },
   {
@@ -362,32 +311,6 @@
     }
   },
   {
-    "id": "4ffeaae02bf4",
-    "title": "Credit Agricole launches euro stablecoin",
-    "url": "https://www.finextra.com/newsarticle/48019/credit-agricole-launches-euro-stablecoin?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-01T08:30:00+00:00",
-    "summary_raw": "French bank Credit Agricole has launched a euro-denominated stablecoin and subscribed to a tokenised Amundi money market fund (MMF), in what the bank has described as a European first.",
-    "summary_ai": {
-      "digest": "Credit Agricole launched a euro stablecoin and subscribed to a tokenized Amundi money market fund, marking a European first in institutional stablecoin infrastructure.",
-      "summary_long": "Credit Agricole has entered the tokenized finance market by issuing a euro-denominated stablecoin and gaining exposure to a tokenized money market fund from its asset management affiliate Amundi. This move signals institutional acceptance of blockchain-based euro liquidity and opens a bridge between traditional banking and on-chain asset management. The stablecoin addresses a key friction point for European institutions: reliable, bank-issued digital currency for settlement and collateral. Amundi's tokenized MMF provides yield on-chain without leaving the traditional finance ecosystem. This is strategically significant because it demonstrates a systemically important European bank moving beyond pilot programs into production infrastructure.",
-      "talking_points": [
-        "Credit Agricole is issuing its own euro stablecoin\u2014a direct competitor play to Circle's USDC model but denominated in EUR, removing regulatory and counterparty risk for European customers.",
-        "The integration with Amundi's tokenized MMF creates a closed-loop institutional product: on-chain settlement paired with yield-bearing collateral, lowering barriers to adoption by other banks and asset managers.",
-        "This is a European first from a systemically important bank, which signals regulatory comfort in France/EU and could accelerate similar launches by BBVA, ING, and other regional players."
-      ],
-      "topics": [
-        "stablecoin-launch",
-        "tokenized-assets",
-        "euro-digital-currency",
-        "institutional-crypto"
-      ],
-      "highlight": "Credit Agricole's euro stablecoin + integration with Amundi's tokenized MMF creates a template for European bank-led on-chain settlement infrastructure.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "1f72cf421790",
     "title": "Secondaries investors grow more comfortable with fund financing in CVs",
     "url": "https://www.secondariesinvestor.com/secondaries-investors-grow-more-comfortable-with-fund-financing-in-cvs/",
@@ -487,32 +410,6 @@
         "european-regulatory-enforcement"
       ],
       "highlight": "$1.97B damages award to Klarna-owned PriceRunner could reshape the fintech's capital position and refinancing trajectory.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "f32686024e31",
-    "title": "SEC Mulls New ETF Rules as $16T Boom Disrupts Status Quo",
-    "url": "https://www.wealthmanagement.com/etfs/sec-mulls-new-etf-rules-as-16-trillion-boom-disrupts-status-quo",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-01T14:54:15+00:00",
-    "summary_raw": "The SEC is seeking comments on new rules regarding fund confidentiality and the circumstances under which the effectiveness of an ETF's registration can be suspended.",
-    "summary_ai": {
-      "digest": "SEC is soliciting comment on new ETF rules covering fund confidentiality and conditions for suspending registration effectiveness, signaling regulatory tightening as ETF assets reach $16T.",
-      "summary_long": "The SEC's move to formalize ETF governance rules reflects the asset class's explosive growth\u2014now $16T and reshaping retail and institutional portfolios. The two main proposals target (1) confidentiality protections for ETF sponsors and (2) clarity on when the SEC can suspend an ETF's registration, likely in response to operational complexity, leverage/inverse-product proliferation, and potential systemic risk concerns. This is a precursor to formal rulemaking and will shape how issuers structure offerings, custody arrangements, and disclosure. For FIG pros, this signals the SEC views ETF market structure as increasingly material to financial stability and is moving to assert control before the next stress event.",
-      "talking_points": [
-        "SEC opening comment period on ETF confidentiality and registration suspension rules\u2014expect formal guidance by year-end that will affect product design and competitive positioning.",
-        "Regulatory tightening on $16T asset class suggests SEC is concerned about leverage, transparency, or operational risk in structured ETF segment (autocallables, leveraged, inverse products).",
-        "New rules will likely increase compliance burden for smaller issuers; expect consolidation pressure and benefit to iShares/Vanguard/Invesco scale."
-      ],
-      "topics": [
-        "ETF regulation",
-        "SEC rulemaking",
-        "asset & wealth management",
-        "regulatory burden"
-      ],
-      "highlight": "SEC is moving to formalize registration suspension and confidentiality rules for ETFs\u2014a regulatory escalation that will reshape product compliance and likely reduce product proliferation in structured segments.",
       "relevance": 7
     }
   },
@@ -775,32 +672,6 @@
     }
   },
   {
-    "id": "f75d1a25b05c",
-    "title": "Florida Supreme Court Ruling Could Mean New Pressure to Settle High-Dollar Lawsuits",
-    "url": "https://www.insurancejournal.com/news/southeast/2026/07/02/876067.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-02T05:02:59+00:00",
-    "summary_raw": "A lawsuit brought by the former head of Marvel Entertainment made headlines around the country last November when it resulted in a $50 million jury verdict against Isaac Perlmutter&#8217;s wealthy Palm Beach neighbor and Federal Insurance Co. But it was &#8230;",
-    "summary_ai": {
-      "digest": "Florida Supreme Court ruling may force higher settlement rates in high-dollar civil suits by limiting defendants' ability to reduce jury verdicts through post-trial motions, pressuring insurers to reassess reserve and settlement strategy.",
-      "summary_long": "A Florida Supreme Court decision has narrowed the grounds on which defendants can challenge or reduce jury verdicts in civil cases, making it harder to overturn large awards post-trial. The ruling emerged from a $50 million verdict in a Palm Beach lawsuit involving Federal Insurance Co., a major commercial insurer. By restricting post-verdict motions, the court has effectively raised the cost of litigation defense and reduced defendants' leverage to negotiate down awards. This shifts settlement economics: insurers face higher expected payouts per case and may need to increase reserves or adjust pricing for Florida exposure. The implication is broad\u2014any insurer with significant Florida book-of-business (homeowners, commercial liability, E&O) faces margin pressure unless premium adequacy adjusts upward.",
-      "talking_points": [
-        "Florida Supreme Court narrowed post-trial appeal grounds, making it harder for defendants to overturn jury verdicts\u2014raising effective cost of litigation defense.",
-        "Insurers now face higher expected settlement values in high-dollar Florida cases, requiring reserve increases or premium repricing to maintain underwriting margins.",
-        "Any carrier with material Florida exposure (State Farm, Heritage, Federal, regional carriers) will need to reassess loss ratios and claims-settlement strategy in this state."
-      ],
-      "topics": [
-        "insurance-litigation",
-        "Florida-regulatory",
-        "claims-reserve-adequacy",
-        "insurer-pricing-pressure"
-      ],
-      "highlight": "Florida Supreme Court ruling restricts post-verdict motions, effectively raising settlement economics and forcing insurers to either increase reserves or reprice Florida business.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "905d9e3854c7",
     "title": "Yet another \u2018quant tremor\u2019 strikes systematic investors",
     "url": "https://www.ft.com/content/d569983b-c7dc-4783-b75d-d1e2d9f287ee",
@@ -822,32 +693,6 @@
         "factor-model-regime-shift"
       ],
       "highlight": "Second quant drawdown in months signals either structural model fragility or a durable regime shift that will force systematic investors to recalibrate\u2014either way, expect prime brokerage and credit pressure.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "878faf91988a",
-    "title": "BlueCrest Slams UK as Bad for Business After Top Court Tax Case Loss",
-    "url": "https://www.insurancejournal.com/news/international/2026/07/02/876105.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-02T09:55:03+00:00",
-    "summary_raw": "Michael Platt&#8217;s BlueCrest Capital Management said the UK is &#8220;no longer a serious contender&#8221; as a place to do business after the firm lost a \u00a3200 million ($265 million) UK Supreme Court ruling over how some of its senior traders &#8230;",
-    "summary_ai": {
-      "digest": "BlueCrest Capital Management lost a \u00a3200 million UK Supreme Court tax case on trader compensation, prompting founder Michael Platt to declare the UK 'no longer a serious contender' for financial services.",
-      "summary_long": "BlueCrest, a major UK-based hedge fund, lost a high-stakes Supreme Court ruling that required the firm to pay \u00a3200 million in back taxes and penalties related to how it classified compensation for senior traders. The case centered on whether certain payments to traders should be treated as dividends (taxed at lower rates) or employment income (subject to higher tax and NI contributions). The loss is emblematic of broader UK tax enforcement pressure on financial services firms and executive compensation structures. Platt's public rebuke signals potential talent or AUM flight to lower-tax jurisdictions and underscores the reputational and financial cost of regulatory friction for elite asset managers.",
-      "talking_points": [
-        "BlueCrest lost \u00a3200M in a UK Supreme Court tax ruling on trader compensation classification\u2014a major enforcement win for HMRC that may trigger similar audits across hedge funds and financial sponsors.",
-        "Founder Michael Platt publicly criticized the UK regulatory environment, risking AUM outflows or relocation to more tax-efficient hubs (Singapore, Cayman Islands, UAE).",
-        "The case tests how financial services firms structure deferred and equity-linked pay; a loss here may force reclassification of compensation across the industry, with cascading tax and NI liabilities."
-      ],
-      "topics": [
-        "hedge-fund-taxation",
-        "UK-financial-regulation",
-        "executive-compensation",
-        "HMRC-enforcement"
-      ],
-      "highlight": "\u00a3200M Supreme Court ruling may trigger similar tax reclassification audits across the UK hedge fund and PE industry, with knock-on effects on how all financial services firms structure trader and senior exec pay.",
       "relevance": 7
     }
   },
@@ -900,32 +745,6 @@
         "advisor recruitment"
       ],
       "highlight": "Osaic and LPL Financial both actively converting independent advisor teams to W-2 employees, reflecting a structural shift in advisor labor economics and advisor stickiness.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "9a36f37326b8",
-    "title": "Accelerant expands Lloyd\u2019s partnership with launch of ARX Consortium",
-    "url": "https://www.reinsurancene.ws/accelerant-expands-lloyds-partnership-with-launch-of-arx-consortium/",
-    "source": "Reinsurance News",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-02T11:00:48+00:00",
-    "summary_raw": "<p>Accelerant, a data-driven risk exchange platform for the specialty insurance market, has expanded its partnership with Lloyd&#8217;s of London through the launch of the ARX Consortium, reportedly backed by seven highly respected syndicates. Accelerant said the launch of the ARX Consortium enables the Accelerant Risk Exchange to support a diversified specialty risk portfolio by combining [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/accelerant-expands-lloyds-partnership-with-",
-    "summary_ai": {
-      "digest": "Accelerant launches ARX Consortium at Lloyd's of London with seven syndicates to expand its specialty insurance risk exchange platform and diversify underwriting capacity.",
-      "summary_long": "Accelerant, a data-driven risk exchange platform serving specialty insurance, has deepened its Lloyd's partnership by forming the ARX Consortium with seven established syndicates. The consortium model allows Accelerant to aggregate specialty risks across multiple underwriters on its platform, improving capital efficiency and risk distribution. This move signals confidence in Accelerant's underwriting tech and distribution capability\u2014both critical for a platform player competing in Lloyd's fragmented, relationship-heavy market. The syndicate backing suggests Accelerant is moving beyond pure software/data play into actual risk capital deployment, which materially changes its business model and economic footprint.",
-      "talking_points": [
-        "Accelerant is shifting from a pure platform play into a capital-backed risk aggregator\u2014seven Lloyd's syndicates are now underwriting through its marketplace.",
-        "ARX Consortium diversification pitch allows Accelerant to write specialty lines that single syndicates avoid, improving unit economics and stickiness with brokers.",
-        "This is a classic fintech-in-insurance playbook: platform + capital + data = network effect. Accelerant is now scoring all three."
-      ],
-      "topics": [
-        "Lloyd's insurance",
-        "specialty insurance platforms",
-        "insurance market structure",
-        "risk exchange technology"
-      ],
-      "highlight": "Seven Lloyd's syndicates backing the ARX Consortium signals Accelerant has moved from technology vendor to embedded capital provider\u2014a structural shift that materially improves its competitive moat and pricing power.",
       "relevance": 7
     }
   },
@@ -1292,33 +1111,6 @@
     }
   },
   {
-    "id": "129615f5c798",
-    "title": "Ondo Finance launches custodial tokenised securities in the US",
-    "url": "https://www.finextra.com/pressarticle/110333/ondo-finance-launches-custodial-tokenised-securities-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-02T15:01:00+00:00",
-    "summary_raw": "Ondo Finance today announced the first live solution of third-party tokenized U.S. securities operating entirely within the existing regulatory perimeter in the U.S., in partnership with Broadridge Financial Solutions Inc., (NYSE: BR) to provide full voting rights for tokenized equity holders.",
-    "summary_ai": {
-      "digest": "Ondo Finance launched tokenized US securities in partnership with Broadridge, operating within existing regulatory frameworks with full voting rights for token holders.",
-      "summary_long": "Ondo Finance, a fintech focused on tokenized financial products, announced the first live US tokenized securities solution that operates within the SEC's existing regulatory perimeter rather than seeking new exemptions. Broadridge, a major market infrastructure provider (NYSE: BR), provides custody and voting infrastructure. The product grants tokenized equity holders full voting rights, addressing a key friction point in prior tokenization attempts. This positions Ondo as a first-mover in regulated tokenized securities in the US, avoiding the regulatory uncertainty that has stalled competitors. The partnership with Broadridge\u2014a $16B+ market cap legacy player\u2014signals institutional-grade infrastructure backing, which strengthens credibility with enterprise clients and RIAs. Success here could unlock a new distribution channel for alternative asset platforms and custodians.",
-      "talking_points": [
-        "Ondo Finance + Broadridge launched the first US tokenized securities operating in the existing regulatory sandbox, not asking for new SEC exemptions\u2014lower regulatory risk than competitors.",
-        "Full voting rights for tokenized equity holders removes a structural barrier that killed prior tokenization plays; custody and proxy infrastructure now handles the plumbing.",
-        "Broadridge backing signals institutional adoption pathway; could become a template for RIA platforms and asset managers to tokenize holdings at scale."
-      ],
-      "topics": [
-        "tokenized securities",
-        "fintech regulation",
-        "digital assets infrastructure",
-        "specialty finance",
-        "custody and proxy voting"
-      ],
-      "highlight": "Ondo + Broadridge solved the voting-rights friction and stayed within existing SEC frameworks, de-risking the regulatory path for enterprise tokenization.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "4921e9f7390e",
     "title": "Paysera becomes direct Visa member",
     "url": "https://www.finextra.com/pressarticle/110334/paysera-becomes-direct-visa-member?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -1345,28 +1137,79 @@
     }
   },
   {
-    "id": "6b9cead4fb55",
-    "title": "The Real Reason AI Costs Keep Rising",
-    "url": "https://www.the-ai-corner.com/p/token-doomed-unit-of-sale-ai-pricing",
-    "source": "The AI Corner (Ruben Dominguez)",
-    "section": "Learn",
-    "date": "2026-06-30T16:03:48+00:00",
-    "summary_raw": "Tokens got 600x cheaper in six years, yet companies are blowing a year of AI budget in a single quarter.",
+    "id": "9f61052bd66e",
+    "title": "Cedents Find Competitive Market Conditions at Midyear Reinsurance Renewals: Brokers",
+    "url": "https://www.insurancejournal.com/news/international/2026/07/02/876137.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-02T15:16:32+00:00",
+    "summary_raw": "Record levels of reinsurance capital and strong reinsurer profits are driving increasing reinsurer risk appetites and softening prices during the midyear renewals, according to reinsurance brokers in their respective market reports. &#8220;In the traditional property market, abundant reinsurer capacity continues &#8230;",
     "summary_ai": {
-      "digest": "AI infrastructure costs have fallen 600x in six years, yet enterprise spending accelerates\u2014the paradox reflects rising compute demand and architectural inefficiency, not pricing.",
-      "summary_long": "The piece examines why falling AI token costs haven't translated to lower enterprise AI budgets. While inference and training costs have collapsed, companies are deploying larger models, running longer contexts, and accepting lower efficiency thresholds because the marginal benefit of accuracy or speed outweighs the cost per token. This mirrors historical patterns in computing: cheaper electricity didn't reduce power consumption; it enabled new use cases. The implication for fintech and asset management is that AI adoption will continue to accelerate spending, not commoditize it\u2014and that cost leadership in ML ops becomes a competitive moat.",
+      "digest": "Excess reinsurance capital and strong underwriting profits are pushing reinsurers to compete aggressively, softening midyear renewal prices and widening cedent options.",
+      "summary_long": "Record levels of reinsurance capital\u2014driven by strong recent profitability and incoming capital\u2014are giving reinsurers elevated risk appetite heading into midyear renewals. This supply-side pressure is translating to price softening and improved terms for cedents, who are finding themselves in a rare buyer's market. Brokers report rising competition among reinsurers for market share, particularly in traditional property lines where capacity is most abundant. The dynamic is a near-term headwind for reinsurer margins but a structural signal that the cycle has shifted: capital is no longer scarce, and pricing discipline is eroding. This has implications for insurance M&A (targets become less attractive on margin compression) and for specialty finance (reinsurance intermediaries may face revenue pressure if placement spreads narrow).",
       "talking_points": [
-        "Token costs fell 600x; enterprise AI budgets are expanding, not contracting\u2014the deflation is being consumed by scale, not margin.",
-        "Companies optimize for accuracy and latency, not unit cost\u2014when inference gets cheaper, they run bigger models and longer contexts, not the same workload cheaper.",
-        "This explains why fintech AI spending (compliance, underwriting, routing) will remain a growth line item, not a one-time capex that gets amortized down."
+        "Reinsurance capital at record levels; reinsurers are fighting for volume, not protecting margins\u2014a clear sign the hard market is over.",
+        "Cedents securing better terms and wider choice at midyear; this is a structural turn, not temporary, as long as capital keeps flowing in.",
+        "Price softening in property reinsurance will compress underwriting margins across the sector and likely trigger consolidation of smaller players seeking scale."
       ],
       "topics": [
-        "AI-infrastructure-economics",
-        "fintech-technology-spend",
-        "software-unit-economics"
+        "reinsurance-pricing-cycle",
+        "capital-deployment",
+        "insurance-m&a-trigger",
+        "underwriting-margin-pressure"
       ],
-      "highlight": "Cheaper compute doesn't reduce spending; it enables new workloads\u2014a pattern that should drive fintech and wealth-management AI budgets up, not down.",
-      "relevance": 6
+      "highlight": "Record reinsurance capital and strong profits are flipping the market dynamic\u2014cedents now have pricing leverage, signaling the hard market cycle has ended and margin compression will follow.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "0f74f20226e9",
+    "title": "Dive Deposits: The CFPB just redefined 2 weeks\u2019 notice",
+    "url": "https://www.bankingdive.com/news/cfpb-relocation-headquarters-2-weeks-vought-nteu-remote-work-job-cuts/824354/",
+    "source": "Banking Dive",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-02T15:21:40+00:00",
+    "summary_raw": "<figure><div><img src=\"https://imgproxy.divecdn.com/1vu-Jyi1UXqcV3ktfdfXnRonPY9HWpTNTe7nzBvtzEw/g:nowe:8:0/c:944:533/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI1NjA2OTExLmpwZw==.webp\" /></div></figure><p>The bureau gave employees until July 14 to accept a geographic reassignment. Declining the move or failing to respond in time &ldquo;will result in your separation from the CFPB,&rdquo; according to a Tuesday note to staff.</p>",
+    "summary_ai": {
+      "digest": "CFPB issued a 2-week ultimatum (by July 14) for employees to accept geographic reassignment or face separation. The move signals potential mass layoffs or restructuring at the regulator itself.",
+      "summary_long": "The Consumer Financial Protection Bureau gave staff until July 14 to accept reassignment to a different location, with non-acceptance or non-response triggering automatic separation. This appears to be a reduction-in-force wrapped in a relocation demand, possibly tied to budget constraints or reorganization under current leadership. The tight timeline and binary choice (accept, comply, or leave) suggests deliberate workforce compression. For FIG analysts, this signals potential regulatory paralysis or reduced enforcement bandwidth during a transition period, which could open windows for bank M&A, fintech actions, or policy relief.",
+      "talking_points": [
+        "CFPB is forcing out staff via forced geographic relocation with a 2-week deadline\u2014effectively a hidden RIF that may reduce regulatory scrutiny on banks and fintechs.",
+        "If significant compliance/enforcement staff are pushed out, expect slower regulatory review cycles for bank acquisitions, charter applications, and fintech compliance actions.",
+        "Timing matters: This disruption could coincide with a window for M&A announcements or regulatory filings that might otherwise face tighter CFPB review."
+      ],
+      "topics": [
+        "regulatory-enforcement",
+        "CFPB-restructuring",
+        "bank-M&A-catalyst"
+      ],
+      "highlight": "2-week deadline for geographic reassignment with automatic separation triggers potential CFPB enforcement paralysis\u2014a de facto hiring freeze that could ease regulatory path for bank deals.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "e17949a5c5c1",
+    "title": "The art of self-governance",
+    "url": "https://www.privateequityinternational.com/the-art-of-self-governance/",
+    "source": "Private Equity International",
+    "section": "PE & Deals",
+    "date": "2026-07-02T16:00:42+00:00",
+    "summary_raw": "There\u2019s reasons on all sides to settle on market practice when it comes to continuation vehicle guidance \u2013 lest regulators decide it for you.",
+    "summary_ai": {
+      "digest": "PE firms are adopting market-standard governance practices around continuation vehicles to avoid regulatory intervention that could impose stricter rules.",
+      "summary_long": "Continuation vehicles \u2014 structures that allow PE funds to extend holding periods or roll positions into new funds \u2014 have become a regulatory flashpoint. Rather than wait for the SEC or other bodies to mandate rules, the industry is coalescing around voluntary best practices in disclosure, valuation, and LP voting rights. The logic is defensive: self-governance now prevents heavier-handed regulation later. For firms managing large continuation vehicles or considering them as a capital-efficiency tool, this signals both an opportunity (market practice is still being defined) and a constraint (deviation from emerging norms will draw scrutiny).",
+      "talking_points": [
+        "PE industry moving to self-regulate continuation vehicle practices before regulators mandate stricter rules\u2014adoption of market standards is becoming table stakes.",
+        "Continuation vehicles remain a capital-efficient way to extend positions and defer GP carry, but governance opacity is now a regulatory liability.",
+        "Firms diverging from emerging best practices on LP consent, valuation, and fee transparency will face increased regulatory and LP pressure."
+      ],
+      "topics": [
+        "continuation-vehicles",
+        "PE-governance",
+        "regulatory-pre-emption"
+      ],
+      "highlight": "Self-governance of continuation vehicles is becoming a regulatory moat\u2014firms adopting market practice now avoid the risk of having rules imposed later.",
+      "relevance": 7
     }
   },
   {
@@ -1906,32 +1749,6 @@
     }
   },
   {
-    "id": "b941e2be20d7",
-    "title": "KNDS postpones IPO after investors balk at \u20ac12bn-plus valuation",
-    "url": "https://www.ft.com/content/5ed2a5a2-7c56-4961-83c9-fff48aa82194",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-01T20:49:05+00:00",
-    "summary_raw": "Franco-German tank maker says it will wait for \u2018more favourable\u2019 market conditions",
-    "summary_ai": {
-      "digest": "KNDS (Franco-German defense contractor) has postponed its planned IPO citing unfavorable market conditions. The delay signals investor appetite for large-cap industrial listings remains weak despite broader equity rally.",
-      "summary_long": "KNDS, the joint venture between Rheinmetall (Germany) and Nexter (France), had been preparing for a public listing as part of European rearmament spending tied to Ukraine and NATO expansion. The decision to pause reflects persistent frictions in capital markets for mid-to-large industrial IPOs, even as equities have recovered from 2024 lows. For FIG practitioners, this underscores that equity capital raise windows for non-tech, non-finance issuers remain constrained\u2014a headwind for M&A financing and exit strategies in industrial PE. The delay may also reflect refinancing risk if debt markets tighten or sponsor hurdle rates shift.",
-      "talking_points": [
-        "IPO market remains bifurcated: mega-cap tech and select growth stories price easily; mid-market industrial sponsors face window risk.",
-        "European defense consolidation thesis (NATO+Ukraine) is sound, but capital markets aren't yet pricing in the thesis at sponsor IRR targets.",
-        "Delayed industrial IPOs may force sponsors into secondary sales or debt refinancing\u2014watch for M&A as alternative exit."
-      ],
-      "topics": [
-        "IPO market",
-        "industrial M&A",
-        "capital markets",
-        "European defense spending"
-      ],
-      "highlight": "Large industrial IPOs remain frozen despite equity market strength\u2014signal that sponsor exit windows are narrowing and may push deals toward strategic M&A.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "d48bcf7aa174",
     "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
     "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
@@ -2135,57 +1952,6 @@
         "fintech-capex"
       ],
       "highlight": "If SaaS fears are fading, fintech M&A and PE deployment into software-enabled specialty finance should accelerate.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "2bbdb2fdad7b",
-    "title": "Travelers Builds Insurance-Specific LLM",
-    "url": "https://www.insurancejournal.com/news/national/2026/07/02/876053.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-02T05:17:52+00:00",
-    "summary_raw": "The Travelers Companies, Inc. announced this week that engineers and data scientists have developed TravelersLLM, a proprietary large language model tailored to its property/casualty business. According to a media statement released by the insurer, TravelersLLM was trained on millions of &#8230;",
-    "summary_ai": {
-      "digest": "Travelers built TravelersLLM, a proprietary LLM trained on millions of internal P&C insurance datasets, to improve underwriting, claims, and operations.",
-      "summary_long": "Travelers Companies has developed an in-house large language model tuned specifically to property/casualty insurance workflows rather than relying on generic foundation models. The model was trained on millions of internal documents and datasets spanning underwriting, claims, and operational processes. This reflects a broader trend of insurers investing in AI/ML infrastructure to automate high-touch workflows and reduce cycle time. For Travelers, the build-vs.-buy choice signals confidence in internal talent and suggests they view insurance-domain LLMs as a competitive moat. The move may pressure vendors selling off-the-shelf insurance AI and could spur similar builds at larger competitors like State Farm or Allstate.",
-      "talking_points": [
-        "Travelers built rather than bought\u2014training an LLM on proprietary insurance workflows creates a defensible operational edge vs. off-the-shelf AI competitors.",
-        "Insurance-domain LLMs are emerging as a capital-light efficiency lever; insurers training on claims and underwriting data can automate manual steps and reduce time-to-decision.",
-        "If Travelers sees a material ROI, expect Allstate, State Farm, and Hartford to follow with similar in-house builds, reshaping the competitive AI vendor landscape in P&C."
-      ],
-      "topics": [
-        "insurance-AI-moat",
-        "P&C-operational-efficiency",
-        "insurer-tech-investment"
-      ],
-      "highlight": "Travelers chose to build a proprietary LLM in-house rather than license a generic foundation model, signaling that insurance-domain AI is becoming a source of competitive advantage in underwriting and claims.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "82eb37db8601",
-    "title": "Tech and Finance Sectors Losing 28,000 Jobs Monthly Show AI Impact on Labor",
-    "url": "https://www.insurancejournal.com/news/national/2026/07/02/875989.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-02T05:36:52+00:00",
-    "summary_raw": "Whether artificial intelligence will cause mass workforce cuts over time remains up for debate, but it is starting to leave an imprint on US employment data. A decline in payrolls in the financial-activities and information sectors \u2014 where AI adoption &#8230;",
-    "summary_ai": {
-      "digest": "Financial-activities and information sectors are shedding 28,000 jobs monthly, with AI adoption cited as a contributing factor to the labor-market shift.",
-      "summary_long": "Recent US employment data shows sustained monthly declines of 28,000 jobs across financial services and tech/information sectors, a trend analysts attribute in part to accelerating AI adoption. The piece frames this as early evidence of AI's labor-displacement effect, though causality remains debated\u2014other factors (rising rates, tech layoffs, regulatory pressure) also weigh on hiring. For FIG specifically, this signals potential cost-cutting tailwinds for banks and asset managers deploying automation, but also rising operational-risk complexity and talent retention challenges as headcount shrinks. The macro read-through: if AI-driven attrition becomes structural, it could improve margins and ROE in back-office heavy businesses (wealth platforms, insurance processing, regional-bank ops), but may constrain revenue growth if client-facing teams shrink faster than demand.",
-      "talking_points": [
-        "Financial and tech sectors are down 28k jobs per month; AI adoption is now visible in aggregate labor data.",
-        "For RIAs, fintech platforms, and regional banks: automation upside on expenses, but talent scarcity risk for high-skilled roles (engineers, compliance, trading).",
-        "If this trend persists, expect cost-cutting narratives to dominate bank earnings calls and to boost ROIC in asset-light or back-office-intensive models."
-      ],
-      "topics": [
-        "AI labor displacement",
-        "fintech headcount trends",
-        "bank cost structure",
-        "regional bank operations"
-      ],
-      "highlight": "28,000 monthly job losses in financial-activities and information sectors attributed partly to AI adoption\u2014signals margin accretion and operational-risk rebalancing across FIG.",
       "relevance": 6
     }
   },
@@ -2447,57 +2213,6 @@
     }
   },
   {
-    "id": "85f5319e9d3b",
-    "title": "This fund manager bought Nvidia and SK Hynix and sold software before others. His simple message on AI: \u2018Follow the money.\u2019",
-    "url": "https://www.marketwatch.com/story/this-fund-manager-bought-nvidia-and-sk-hynix-and-sold-software-before-others-his-simple-message-on-ai-follow-the-money-c3d67bea?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T13:01:00+00:00",
-    "summary_raw": "Blue Whale Growth Fund manager exited software stocks before many others did.",
-    "summary_ai": {
-      "digest": "Blue Whale Growth Fund manager exited software positions ahead of the crowd and loaded up on semiconductor plays (Nvidia, SK Hynix), betting on the AI infrastructure thesis rather than software beneficiaries.",
-      "summary_long": "The fund manager's investment thesis centers on the idea that AI capex flows disproportionately to semiconductor and infrastructure providers rather than software companies, which face margin pressure and slower adoption. This positioning\u2014overweight semis, underweight software\u2014reflects a view that the early AI cycle enriches chip designers and foundries first, and that software valuations may not re-rate as quickly. The 'follow the money' framework suggests tracking where actual AI spending goes in corporate capex, not where sentiment goes. The manager's timing on software exits implies conviction that the sector's AI narrative has already priced in returns.",
-      "talking_points": [
-        "AI capex is flowing to semiconductor and infrastructure, not software\u2014the fund manager exited software ahead of many peers and doubled down on Nvidia and SK Hynix.",
-        "Software companies face margin compression and slower monetization of AI; the narrative has priced in returns that won't materialize as quickly as the market assumes.",
-        "'Follow the money' means tracking corporate capex allocation, not momentum or consensus positioning\u2014semis win the first innings of the AI cycle."
-      ],
-      "topics": [
-        "AI capex",
-        "semiconductor sector",
-        "software valuation",
-        "thematic positioning"
-      ],
-      "highlight": "Fund manager exited software and concentrated into Nvidia and SK Hynix on thesis that AI infrastructure spending outpaces software adoption\u2014positioning that reflects early-cycle capex flow, not longer-term software moat strength.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "20a126478771",
-    "title": "Tesla crushes delivery estimates as it\u2019s seen \u2018exiting the EV winter\u2019",
-    "url": "https://www.marketwatch.com/story/tesla-crushes-delivery-estimates-giving-its-stock-a-boost-16c198da?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T13:52:00+00:00",
-    "summary_raw": "The automaker shipped 480,126 EVs to consumers last quarter \u2014 much more than even bullish analysts projected.",
-    "summary_ai": {
-      "digest": "Tesla delivered 480,126 EVs in Q2 2026, significantly beating analyst expectations and signaling a broader recovery in EV demand.",
-      "summary_long": "Tesla's Q2 delivery beat reflects stronger-than-expected consumer demand and signals that the EV market may be exiting a period of softness. The outperformance suggests automakers have stabilized pricing and inventory after a downturn, reducing margin pressure in the sector. For FIG, this matters because it affects credit quality and capital deployment outlook for auto lenders, captive finance arms, and leasing platforms that Lucius covers in fintech and specialty finance. Strong EV adoption also influences valuations of battery and charging infrastructure fintech plays.",
-      "talking_points": [
-        "Tesla beat delivery expectations by a wide margin\u2014480k units vs. consensus\u2014which is a demand signal for the broader EV supply chain and auto lending exposure.",
-        "EV 'winter' narrative appears to be reversing, reducing near-term margin compression risk for captive finance and specialty auto lenders who price for demand cycles.",
-        "Auto credit quality and lease securitization performance could improve if volume normalizes and pricing stabilizes across the sector."
-      ],
-      "topics": [
-        "EV demand cycle",
-        "auto credit",
-        "specialty finance"
-      ],
-      "highlight": "480k delivery beat signals EV demand recovery, which de-risks credit quality and capital deployment for auto lending and leasing platforms.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "5885369199de",
     "title": "ICEYE expands wildfire intelligence capabilities to Canada, offering new tools for re/insurers",
     "url": "https://www.reinsurancene.ws/iceye-expands-wildfire-intelligence-capabilities-to-canada-offering-new-tools-for-re-insurers/",
@@ -2651,6 +2366,290 @@
         "fintech integration"
       ],
       "highlight": "Federally regulated crypto bank Anchorage integrates Lido staking to offer institutions compliant wstETH exposure without leaving the platform\u2014signals regulated finance's absorption of DeFi yield infrastructure.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "6787544f3472",
+    "title": "Big Tech\u2019s Carbon Emissions Spike With Runaway Growth of AI",
+    "url": "https://www.insurancejournal.com/news/national/2026/07/02/876142.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-02T15:16:59+00:00",
+    "summary_raw": "The greenhouse gas emissions of Amazon.com Inc. and Alphabet Inc.&#8217;s Google spiked in 2025, pointing to a growing problem for the hyperscalers: reconciling their climate goals with the massive amount of energy required to power AI, much of it still &#8230;",
+    "summary_ai": {
+      "digest": "Amazon and Google's 2025 GHG emissions spiked due to AI infrastructure demands, creating tension with net-zero commitments and potential regulatory/insurance cost exposure.",
+      "summary_long": "Big Tech's hyperscalers face a widening gap between climate pledges and AI energy consumption. Amazon and Google both saw material emissions increases in 2025, driven by data center buildouts for LLM training and inference. This creates three FIG angles: (1) insurance underwriting risk and potential premium escalation for D&O and environmental liability; (2) regulatory pressure\u2014either carbon tax/reporting regimes that hit capex budgets or forced divestment from coal/gas-heavy grids; (3) capital allocation tension, as board pressure to hit ESG targets may slow data center spending or force grid transition M&A. For banks and PE, this signals deal flow in renewable energy transition, grid modernization, and potential mark-downs in hyperscaler valuations if regulators intervene.",
+      "talking_points": [
+        "Amazon and Google emissions spiked in 2025\u2014creates D&O and environmental liability underwriting risk for insurers covering tech.",
+        "AI energy demand is now a material cost and regulatory wildcard; expect carbon pricing, grid constraints, or forced renewable M&A to reshape capex.",
+        "Potential play: renewable energy, grid modernization, and carbon-offset M&A as hyperscalers scramble to meet net-zero deadlines without scaling back AI."
+      ],
+      "topics": [
+        "hyperscaler-emissions",
+        "AI-energy-demand",
+        "ESG-regulatory-risk",
+        "insurance-underwriting"
+      ],
+      "highlight": "Amazon and Google emissions spikes in 2025 create D&O, environmental liability, and potential regulatory/carbon-tax exposure\u2014triggering insurance repricing and M&A in renewable energy and grid transition.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "88f64561baff",
+    "title": "OCC ends enforcement against Patriot Bank",
+    "url": "https://www.bankingdive.com/news/occ-ends-enforcement-against-patriot-bank/824356/",
+    "source": "Banking Dive",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-02T15:26:50+00:00",
+    "summary_raw": "<p>Expenses related to the agreement have totaled over $5 million. CEO Steven Sugarman said he now expects regulatory and FDIC fees to decrease.</p>",
+    "summary_ai": {
+      "digest": "OCC terminated enforcement action against Patriot Bank after the regional lender spent over $5M in compliance costs. CEO expects regulatory and FDIC fees to decline going forward.",
+      "summary_long": "Patriot Bank has successfully exited an OCC enforcement agreement, removing a regulatory overhang that had imposed significant operational and financial burden. The bank incurred over $5M in expenses tied to meeting the agreement's requirements\u2014likely remediation work, third-party audits, and legal fees. With the enforcement action closed, management expects tangible relief in ongoing regulatory assessment fees and FDIC insurance costs, which are often higher for banks under supervisory orders. This signals improved regulatory standing and could positively influence the bank's cost structure and capital allocation going forward. For a regional bank of Patriot's size, the removal of enforcement stigma may also ease access to correspondent banking and institutional relationships.",
+      "talking_points": [
+        "Patriot Bank clears OCC enforcement action, opening the door to lower FDIC insurance premiums and regulatory fees.",
+        "The bank absorbed $5M+ in compliance and remediation costs to achieve the exit\u2014a one-time drag now behind them.",
+        "Regulatory clearance could improve deposit stability and institutional partnerships, which often avoid banks under formal orders."
+      ],
+      "topics": [
+        "regional-bank-regulation",
+        "OCC-enforcement",
+        "FDIC-capital-costs"
+      ],
+      "highlight": "$5M+ in accumulated compliance costs now resolved; FDIC and regulatory fees expected to decline.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "b2290ba7826d",
+    "title": "US Declines to Extend North American Trade Deal",
+    "url": "https://www.insurancejournal.com/news/national/2026/07/02/876152.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-02T15:35:58+00:00",
+    "summary_raw": "The Trump administration on July 1 declined to extend the U.S.-Mexico-Canada Agreement, starting a decade-long clock to wind down the trade deal as it seeks changes to try to restore manufacturing jobs and reduce U.S. trade deficits with its North &#8230;",
+    "summary_ai": {
+      "digest": "Trump administration declined to extend USMCA on July 1, triggering a decade-long wind-down unless renegotiated. Trade policy shift could reshape cross-border financial services, insurance operations, and M&A flows in North America.",
+      "summary_long": "The Trump administration's decision not to extend the U.S.-Mexico-Canada Agreement sets a 10-year clock for the trade deal to expire unless renegotiated. The stated goal is to restore U.S. manufacturing and reduce trade deficits, signaling a shift toward protectionist trade posture. For financial services and insurance, USMCA dissolution carries material implications: it affects cross-border capital flows, reinsurance treaties, bancassurance partnerships, and M&A routing between the three countries. Regional banks and insurers with significant Mexican or Canadian exposure face potential cost increases and operational restructuring. The decade timeline creates a negotiation window but also uncertainty that could suppress near-term cross-border deal activity and capital deployment.",
+      "talking_points": [
+        "USMCA wind-down over 10 years creates regulatory and operational uncertainty for cross-border FIG players\u2014could suppress M&A and capital flows until renegotiation clarity emerges.",
+        "Insurers and regional banks with Mexico/Canada operations may face higher compliance costs and tariff exposure, pressuring margins and prompting domestic consolidation or exit strategies.",
+        "Long negotiation window could freeze cross-border FIG deal activity; watch for redomiciling or restructuring plays as firms de-risk USMCA exposure."
+      ],
+      "topics": [
+        "trade policy",
+        "cross-border M&A",
+        "regulatory uncertainty",
+        "regional bank operations"
+      ],
+      "highlight": "10-year USMCA wind-down creates regulatory and operational uncertainty likely to suppress cross-border FIG M&A and capital deployment in the near term.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "290661878f9e",
+    "title": "The art of self-governance",
+    "url": "https://www.secondariesinvestor.com/the-art-of-self-governance/",
+    "source": "Secondaries Investor",
+    "section": "PE & Deals",
+    "date": "2026-07-02T16:00:06+00:00",
+    "summary_raw": "There\u2019s reasons on all sides to settle on market practice when it comes to continuation vehicle guidance \u2013 lest regulators decide it for you.",
+    "summary_ai": {
+      "digest": "Secondaries sponsors are converging on market-practice guidance for continuation vehicles to preempt regulatory intervention; lack of standardization risks attracting SEC/state regulator scrutiny.",
+      "summary_long": "The secondaries market is moving toward consensus best practices on how GPs communicate continuation vehicle terms and timelines to LPs, driven partly by fear of regulatory prescriptiveness. Continuation vehicles\u2014structures allowing sponsors to extend fund life and consolidate assets rather than liquidate\u2014have grown as a capital deployment tool but lack clear disclosure norms. The article frames self-governance as a defensive posture: the market settles its own standards or faces the alternative of regulators imposing rules. This matters because inconsistent or opaque continuation guidance has drawn questions from state pension boards and SEC staff monitoring GP conduct. The trend is toward earlier, clearer LP notification and standardized valuation/fee structures.",
+      "talking_points": [
+        "Secondaries sponsors are self-regulating continuation vehicle disclosure to avoid SEC/state pension-board enforcement action.",
+        "Market-practice convergence on GP guidance timing and fee transparency is the industry's bet against regulatory prescriptiveness.",
+        "Continuation vehicles are now material enough to LP allocations that governance gaps trigger institutional investor pushback\u2014making standardization a competitive necessity, not just a compliance nicety."
+      ],
+      "topics": [
+        "continuation-vehicles",
+        "PE-governance",
+        "regulatory-risk",
+        "GP-LP-relations"
+      ],
+      "highlight": "Self-governance on continuation vehicle disclosure is emerging as a prophylactic against SEC rule-writing\u2014sponsors settling market practice now rather than waiting for regulators to impose it.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "3f490fc131aa",
+    "title": "Travelers launches proprietary LLM tailored to property casualty business",
+    "url": "https://www.reinsurancene.ws/travelers-launches-proprietary-llm-tailored-to-property-casualty-business/",
+    "source": "Reinsurance News",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-02T16:00:25+00:00",
+    "summary_raw": "<p>The Travelers Companies, Inc., a provider of property and casualty insurance for auto, home and business, has developed TravelersLLM, a proprietary large language model tailored to its property and casualty business. Trained on millions of company documents and built by Travelers engineers and data scientists, TravelersLLM builds on the company\u2019s domain expertise by enhancing underwriting [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/travelers-launches-proprietary-llm-tailor",
+    "summary_ai": {
+      "digest": "Travelers has built TravelersLLM, a proprietary LLM trained on millions of internal documents to enhance underwriting and claims decisions in property & casualty insurance.",
+      "summary_long": "Travelers Companies developed an in-house large language model purpose-built for its P&C business, trained on its own document corpus and engineered by internal teams. The model is designed to improve underwriting accuracy, claims processing efficiency, and risk assessment\u2014core value drivers in a commoditized insurance market. This is a defensive automation play: Travelers is protecting underwriting margins and claims ratios by verticalizing AI rather than relying on third-party tools that competitors can also access. The move signals confidence in Travelers' data moat and competitive positioning, but also reflects industry-wide pressure to automate labor-intensive functions as loss ratios compress.",
+      "talking_points": [
+        "Travelers built its own LLM rather than licensing\u2014a bet that proprietary data and domain expertise justify the engineering spend.",
+        "The model targets underwriting and claims, the two largest cost levers in P&C; automation here flows directly to combined-ratio improvement.",
+        "This is table-stakes defensibility: if Travelers doesn't in-source AI, competitors who do will steal underwriting share and claims velocity."
+      ],
+      "topics": [
+        "P&C insurance",
+        "AI/automation",
+        "underwriting",
+        "operational efficiency"
+      ],
+      "highlight": "Travelers is verticalizing AI to protect underwriting margins\u2014a signal that large insurers now view proprietary ML as a competitive moat, not a commodity service.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "14383eda1308",
+    "title": "Thursday assorted links",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-559.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-559",
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "section": "Learn",
+    "date": "2026-07-02T16:02:28+00:00",
+    "summary_raw": "<p>1. There is massive synaptic pruning between birth and adulthood. 2. Some major city populations from 1854. 3. From Samuel Hammond: &#8220;The AI boom is doubly upsetting to progressive economic commentators because it a) shows &#8220;financialization&#8221; was largely a macro story that eventually solved itself, and b) the boom is being driven by AI rather [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/thursday-assorted-links-559.html\">Thursday ",
+    "summary_ai": {
+      "digest": "Tyler Cowen's weekly link roundup touches on neuroscience, historical demography, and AI's role in reshaping narratives around financialization and productivity.",
+      "summary_long": "Cowen curates five disparate topics: synaptic pruning in brain development, 19th-century city sizes, Samuel Hammond's argument that AI disrupts progressive critiques of financialization by showing it was cyclical and now being displaced by productive investment, a note on housing supply, and a tech piece. The Hammond angle is the finance-adjacent thread: the claim that AI-driven growth and capital reallocation into productive assets (rather than financial engineering) undermines the 'financialization stalled the real economy' thesis. For a FIG analyst, the implicit macro story is about where capital is flowing and what that means for asset managers and alternative platforms.",
+      "talking_points": [
+        "Hammond argues AI boom proves financialization was a macro cycle, not a structural feature\u2014productivity gains are now coming from real tech, not financial engineering.",
+        "Cowen's curation signals a macro inflection: if capital is rotating from financial assets into productive deployment, that reshuffles portfolio theory and asset allocation strategies.",
+        "The piece is a thought-starter on whether fintech/alternative platforms optimized for a financialization era will need to adapt if capital flows reverse toward hardware, infrastructure, and productive tech."
+      ],
+      "topics": [
+        "macro-cycle",
+        "financialization",
+        "AI-productivity",
+        "capital-allocation"
+      ],
+      "highlight": "Hammond's argument that AI boom deflates the 'financialization strangled growth' narrative\u2014signals a potential rotation in where institutional capital deploys next.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "45839e159c2d",
+    "title": "FCA criticises investment firms for unintelligible disclosure documents",
+    "url": "https://www.ft.com/content/18ead4af-5dfc-4a49-83e0-2e69ee28023b",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T16:20:58+00:00",
+    "summary_raw": "UK financial watchdog also bans \u2018double-dipping\u2019 as it pushes to improve treatment of customers",
+    "summary_ai": {
+      "digest": "UK FCA fines investment firms for opaque disclosure documents and bans 'double-dipping' fee structures; part of broader push to improve retail customer treatment.",
+      "summary_long": "The Financial Conduct Authority has issued enforcement actions against investment firms for producing disclosure documents that are unintelligible to retail customers, citing violations of clarity and fairness standards. The regulator also banned the practice of 'double-dipping'\u2014charging customers multiple fees for the same service or outcome\u2014which it identified as a systematic consumer harm. These actions signal the FCA's intensified focus on conduct standards and fee transparency in the wealth management and advisory space, particularly as complexity in product offerings (structured products, multi-asset strategies) has grown. For UK-based advisors and platforms, this likely triggers document review, fee-structure audits, and potential remediation costs for historical customer charging.",
+      "talking_points": [
+        "FCA enforcement on disclosure clarity and double-dipping signals tighter conduct expectations for UK investment firms; expect increased audit burden on document production and fee schedules.",
+        "Ban on double-dipping directly affects wealth management and advisory business models, particularly those layering advisory fees on top of product embedded costs.",
+        "This is part of a broader FCA conduct pivot toward retail outcomes; likely precedes broader MiFID II / FCA rules changes on fee transparency."
+      ],
+      "topics": [
+        "UK regulatory enforcement",
+        "wealth management conduct",
+        "fee transparency",
+        "FCA conduct policy"
+      ],
+      "highlight": "FCA ban on 'double-dipping' fee structures will force UK advisory and wealth platforms to restructure fee models, creating compliance and P&L pressure.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "f8cdd50c0ee4",
+    "title": "Texas Petrochemical Plants May Not be Ready for Fiercer Storms",
+    "url": "https://www.insurancejournal.com/news/southcentral/2026/07/02/876158.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-02T16:30:37+00:00",
+    "summary_raw": "Nearly two decades had passed since the storm. For many, the memory of what had happened on Goat Island had largely vanished into the Gulf of Mexico. Instead, what residents remembered that year were the piles of boats and cars &#8230;",
+    "summary_ai": {
+      "digest": "Texas petrochemical plants lack adequate storm resilience despite two decades of post-hurricane reconstruction, creating potential insurance and regulatory exposure.",
+      "summary_long": "The article examines aging petrochemical infrastructure along the Texas Gulf Coast that may be underprotected against intensifying storm risk. Plants operating in hurricane-prone zones have not substantially upgraded resilience measures since major prior storm events, leaving facilities vulnerable to operational disruption, environmental liability, and supply-chain damage. This creates three-part exposure: (1) underpriced insurance that will face claims; (2) potential EPA/state environmental enforcement if plants discharge pollutants during storms; (3) reputational and stranded-asset risk for operators and their lenders. The backdrop is rising climate risk premiums across the sector and tightening insurer appetite for industrial environmental exposure.",
+      "talking_points": [
+        "Petrochemical plants in Texas have not materially upgraded storm defenses in 20 years, despite known hurricane risk and prior major events.",
+        "Underinsured or inadequately rated industrial environmental exposure creates tail risk for P&C insurers and potential EPA enforcement for operators.",
+        "Banks and PE backing energy/chemical infrastructure may face stranded-asset or covenant-breach scenarios if plants suffer storm damage and environmental liability spikes."
+      ],
+      "topics": [
+        "industrial-environmental-insurance",
+        "climate-risk-pricing",
+        "energy-infrastructure-resilience",
+        "regulatory-enforcement-tail-risk"
+      ],
+      "highlight": "Petrochemical plants lack adequate storm hardening, creating latent insurance and environmental liability exposure that may trigger regulator action and lender pressure if a major storm hits.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "f0200c5fdc16",
+    "title": "Apollo struggles to sell Hispanic grocer after US immigration raids hit sales",
+    "url": "https://www.ft.com/content/556a939d-b080-4fc4-a799-2807c465ea29",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T17:16:52+00:00",
+    "summary_raw": "Investors and analysts say customers\u2019 fear of Trump\u2019s deportation campaign weakened the private equity-owned chain",
+    "summary_ai": {
+      "digest": "Apollo Global Management's portfolio company, a Hispanic grocery chain, faces sharply depressed valuations and stalled sale process after US immigration enforcement spooked its customer base and suppressed foot traffic.",
+      "summary_long": "Apollo acquired a Hispanic-focused grocery operator and had been prepping it for sale, but aggressive immigration enforcement activity has triggered customer fear and reduced store visits, materially weakening the company's financial profile and deal appeal. The chain's customer concentration\u2014predominantly Hispanic\u2014creates a systemic demand risk that is difficult to hedge or quickly reverse. Buyers are now demanding significantly lower valuations or walking away entirely, trapping Apollo in the position of either taking a large markdown or holding longer while waiting for enforcement intensity to fade. This exemplifies how non-financial shocks (immigration policy, regulatory action) can crater private equity returns in sectors with concentrated demographic exposure.",
+      "talking_points": [
+        "Immigration enforcement policy is now a direct cash-flow risk in sectors with concentrated customer bases; Apollo's inability to exit a grocery chain after immigration raids shows the deal market pricing it in.",
+        "This is a cautionary tale for any PE thesis relying on stable consumer behavior in demographics-sensitive verticals\u2014political and regulatory risk can move faster than operational improvements.",
+        "Expect PE dry powder in Hispanic-focused retail, consumer finance, and specialty services to face increased scrutiny on concentration risk in 2026\u201327."
+      ],
+      "topics": [
+        "PE portfolio stress",
+        "consumer discretionary risk",
+        "demographic concentration risk",
+        "regulatory headwinds"
+      ],
+      "highlight": "Immigration enforcement has become a portfolio valuation swing factor for PE\u2014a non-operational shock Apollo cannot engineer its way out of.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "20a126478771",
+    "title": "Why Tesla\u2019s stock is sinking toward its worst day in a year despite blowout delivery numbers",
+    "url": "https://www.marketwatch.com/story/tesla-crushes-delivery-estimates-giving-its-stock-a-boost-16c198da?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T17:44:00+00:00",
+    "summary_raw": "The automaker shipped 480,126 EVs to consumers last quarter \u2014 much more than even bullish analysts projected.",
+    "summary_ai": {
+      "digest": "Tesla delivered 480,126 EVs in Q2 2026, significantly beating analyst expectations and signaling a broader recovery in EV demand.",
+      "summary_long": "Tesla's Q2 delivery beat reflects stronger-than-expected consumer demand and signals that the EV market may be exiting a period of softness. The outperformance suggests automakers have stabilized pricing and inventory after a downturn, reducing margin pressure in the sector. For FIG, this matters because it affects credit quality and capital deployment outlook for auto lenders, captive finance arms, and leasing platforms that Lucius covers in fintech and specialty finance. Strong EV adoption also influences valuations of battery and charging infrastructure fintech plays.",
+      "talking_points": [
+        "Tesla beat delivery expectations by a wide margin\u2014480k units vs. consensus\u2014which is a demand signal for the broader EV supply chain and auto lending exposure.",
+        "EV 'winter' narrative appears to be reversing, reducing near-term margin compression risk for captive finance and specialty auto lenders who price for demand cycles.",
+        "Auto credit quality and lease securitization performance could improve if volume normalizes and pricing stabilizes across the sector."
+      ],
+      "topics": [
+        "EV demand cycle",
+        "auto credit",
+        "specialty finance"
+      ],
+      "highlight": "480k delivery beat signals EV demand recovery, which de-risks credit quality and capital deployment for auto lending and leasing platforms.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "b2b11bf4843d",
+    "title": "Intesa Sanpaolo migrates core IT systems to Google Cloud infrastructure",
+    "url": "https://www.finextra.com/newsarticle/48033/intesa-sanpaolo-migrates-core-it-systems-to-google-cloud-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-02T18:01:00+00:00",
+    "summary_raw": "Italy's biggest bank, Intesa Sanpaolo, has completed the migration of its core IT systems to Google Cloud infrastructure.",
+    "summary_ai": {
+      "digest": "Intesa Sanpaolo completed migration of core IT systems to Google Cloud, marking a major banking infrastructure modernization by Italy's largest bank.",
+      "summary_long": "Intesa Sanpaolo, Italy's largest bank by assets, has finished migrating its core IT systems to Google Cloud infrastructure. This represents a significant operational and strategic shift\u2014moving mission-critical banking systems off legacy on-premises infrastructure to a cloud provider. The migration signals both the bank's capital discipline (cloud opex vs. capex) and confidence in Google's ability to handle regulatory-grade banking workloads. For regional and mid-cap banks, this is a proof point that cloud migration of core systems is now viable and competitive. It also reflects a broader trend of financial institutions outsourcing infrastructure to reduce tech spend and gain agility, which can free capital for M&A, buybacks, or dividend increases.",
+      "talking_points": [
+        "Intesa\u2014Italy's #1 bank\u2014has now completed full core IT migration to Google Cloud; this de-risks the cloud-as-infrastructure narrative for other European banks considering similar moves.",
+        "Cloud migration flips capex to opex and reduces tech overhead, potentially improving return on equity and freeing capital for shareholder returns or strategic deals.",
+        "Google's ability to host mission-critical banking systems on public cloud signals maturing vendor capabilities and raises the bar for competitors (AWS, Azure, Oracle) in financial services."
+      ],
+      "topics": [
+        "bank infrastructure modernization",
+        "cloud migration",
+        "operational efficiency",
+        "tech outsourcing"
+      ],
+      "highlight": "Italy's largest bank completes core IT migration to Google Cloud\u2014a material infrastructure transition that de-risks cloud adoption for other European banks and frees capital.",
       "relevance": 6
     }
   },
@@ -3035,56 +3034,6 @@
     }
   },
   {
-    "id": "d56136cd8754",
-    "title": "Cinven\u2019s Vitamin Well to merge with Waterland\u2019s EMPWR; Apheon in talks to acquire orthopedic bone cement business; KKR to exit ship lessor Ocean Yield",
-    "url": "https://www.pehub.com/cinvens-vitamin-well-to-merge-with-waterlands-empwr-apheon-in-talks-to-acquire-orthopedic-bone-cement-business-kkr-to-exit-ship-lessor-ocean-yield/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-02T09:05:15+00:00",
-    "summary_raw": "<p>Few sectors have drawn more attention this year than shipping, after the conflict between the US and Iran led to the closing of the Strait of Hormuz.</p>\n<p>The post <a href=\"https://www.pehub.com/cinvens-vitamin-well-to-merge-with-waterlands-empwr-apheon-in-talks-to-acquire-orthopedic-bone-cement-business-kkr-to-exit-ship-lessor-ocean-yield/\">Cinven\u2019s Vitamin Well to merge with Waterland\u2019s EMPWR; Apheon in talks to acquire orthopedic bone cement business; KKR to exit ship lessor Ocean Yield<",
-    "summary_ai": {
-      "digest": "KKR exiting ship lessor Ocean Yield; Cinven's Vitamin Well merging with Waterland's EMPWR; Apheon acquiring orthopedic bone cement business. No financial terms or timing disclosed in excerpt.",
-      "summary_long": "KKR is divesting Ocean Yield, a shipping-focused asset lessor, amid heightened geopolitical tension in maritime routes following US-Iran tensions and Strait of Hormuz closure. The sale signals PE reassessment of shipping-sector exposure and liquidity pressure or portfolio rebalancing. Separately, Cinven and Waterland are combining portfolio companies (Vitamin Well and EMPWR), a common mid-market PE consolidation play. Apheon's orthopedic bone cement acquisition targets healthcare specialty manufacturing, outside core FIG coverage but indicative of PE appetite for healthcare infrastructure. No headline deal sizes or buyer identity for Ocean Yield disclosed in excerpt.",
-      "talking_points": [
-        "KKR dumping Ocean Yield suggests PE is rotating out of shipping after Strait of Hormuz closure and geopolitical cost spike\u2014watch for other maritime/logistics exits.",
-        "Cinven-Waterland merger of portfolio companies is garden-variety add-on strategy; signals mid-market consolidation tightness.",
-        "Orthopedic bone cement play hints at PE healthcare-infrastructure focus, but outside FIG remit."
-      ],
-      "topics": [
-        "PE exit timing",
-        "shipping sector risk"
-      ],
-      "highlight": "KKR exiting Ocean Yield amid Strait of Hormuz closure and US-Iran tensions\u2014signals PE de-risking from geopolitical freight cost exposure.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "7491f61c73ab",
-    "title": "Iran\u2019s Floating Oil Hoard Swells as Major Buyers Stay Away",
-    "url": "https://www.insurancejournal.com/news/international/2026/07/02/876095.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-02T09:18:07+00:00",
-    "summary_raw": "A hoard of Iranian oil is building up at sea, as the Islamic Republic struggles to find buyers before the expiry of a 60-day window granted by Washington. More than 20 million barrels of Iranian crude have been idling in &#8230;",
-    "summary_ai": {
-      "digest": "Over 20 million barrels of Iranian crude sit idle in tankers at sea as the 60-day U.S. waiver window closes; sanctions pressure is choking off traditional buyers and forcing Tehran to accept steep discounts or sea-storage gridlock.",
-      "summary_long": "Iran has accumulated a floating inventory of crude oil exceeding 20 million barrels anchored offshore, unable to move product as major buyers\u2014particularly in Asia and Europe\u2014avoid transactions ahead of the expiration of Washington's temporary sanctions relief window. The inventory buildup reflects Iran's constrained access to global markets and financing channels; even at discounted prices, counterparties face reputational and regulatory risk. This creates a potential liquidity crunch for Iran's oil revenues and may signal tightening energy-market credit conditions. For FIG players, the situation underscores secondary effects of sanctions enforcement: reduced trade finance flows, elevated counterparty risk on energy transactions, and potential distress in commodity-linked lending books.",
-      "talking_points": [
-        "20M+ barrels of Iranian crude floating offshore signals near-term liquidity stress and potential forced-price capitulation once the waiver expires.",
-        "Major buyers staying away despite discounts indicates sanctions enforcement is raising counterparty risk above the price incentive\u2014a headwind for trade finance desks.",
-        "Energy and commodity lenders should audit exposure to Iran-linked transactions and clients reliant on those supply chains."
-      ],
-      "topics": [
-        "sanctions-compliance",
-        "energy-trade-finance",
-        "commodity-liquidity",
-        "counterparty-risk"
-      ],
-      "highlight": "The 60-day waiver expiry creates a hard deadline for Iran to liquidate inventory, likely forcing price concessions and creating stress in trade financing tied to the transaction.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "719e8751a452",
     "title": "Mauritius issues five year fintech plan",
     "url": "https://www.finextra.com/newsarticle/48027/mauritius-issues-five-year-fintech-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -3159,31 +3108,6 @@
     }
   },
   {
-    "id": "7c5187475380",
-    "title": "Opening a \u2018Trump account\u2019 for your children? Here is the risk you need to reckon with first.",
-    "url": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T13:05:00+00:00",
-    "summary_raw": "The new accounts ban bonds and international stocks, forcing parents to bet their children\u2019s financial future entirely on U.S. equities.",
-    "summary_ai": {
-      "digest": "Trump-branded investment accounts for minors exclude bonds and international stocks, concentrating child portfolios entirely in U.S. equities. The accounts have gained traction despite significant concentration risk.",
-      "summary_long": "A new retail investment product branded around the Trump name restricts custodial accounts to U.S. equities only, eliminating traditional diversification tools like bonds and international exposure. The restriction forces parents into a concentrated bet on domestic stock performance as a strategy for long-term child savings. This runs counter to standard financial advice on custodial accounts (UTMA/UGMA), which typically advocate broad diversification to manage idiosyncratic risk over multi-decade horizons. The article flags the behavioral risk: retail investors may be attracted to the Trump brand or the simplicity of a single-asset-class pitch, conflating branding with sound portfolio construction. For wealth managers and custodial platform operators, this signals demand for branded, simplified investment vehicles\u2014but also highlights regulatory and fiduciary scrutiny risk if outcomes diverge from market-cap-weighted benchmarks.",
-      "talking_points": [
-        "Trump custodial accounts exclude bonds and international stocks\u2014100% U.S. equity concentration in what should be a diversified multi-decade savings vehicle.",
-        "Retail behavioral trend: parents attracted to branding and simplicity may accept concentration risk they wouldn't if presented as a deliberate portfolio choice.",
-        "Wealth platforms and custodial operators now have a case study in how branded product simplification can drive adoption but also invite regulatory and fiduciary scrutiny."
-      ],
-      "topics": [
-        "custodial-accounts",
-        "retail-investor-behavior",
-        "product-design-risk"
-      ],
-      "highlight": "U.S.-equities-only mandate eliminates the diversification guardrail that makes custodial accounts suitable for parents seeking wealth transfer vehicles.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "eda60c9195af",
     "title": "IK Partners to open Madrid office",
     "url": "https://www.pehub.com/ik-partners-to-open-madrid-office/",
@@ -3204,31 +3128,6 @@
         "financial services sourcing"
       ],
       "highlight": "IK Partners hiring Gonzalo Fernandez-Albi\u00f1ana as partner to lead Madrid office\u2014indicates serious regional capability build, but FIG relevance unclear without background on his sector focus.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "a2bb1db5aa1b",
-    "title": "Why a founder at age 50 is twice as likely to find success as one at age 30",
-    "url": "https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T14:47:00+00:00",
-    "summary_raw": "Older workers are fighting ageism by starting their own businesses \u2014 and they\u2019re outperforming younger entrepreneurs",
-    "summary_ai": {
-      "digest": "Founders aged 50+ have twice the success rate of 30-year-old founders; older entrepreneurs are launching businesses at record rates and outperforming on revenue and profitability metrics.",
-      "summary_long": "Research cited in the piece shows that founders in their 50s achieve higher success rates than younger counterparts, driven by accumulated domain expertise, capital access, and professional networks. The trend reflects both push (age discrimination in traditional employment) and pull (venture capital increasingly funding experienced founders). For financial services specifically, this validates the pattern of successful fintech founders and regional bank leaders coming from established careers in banking, lending, or wealth management rather than pure tech backgrounds. The data suggests that domain knowledge and access to institutional relationships matter more than raw tech fluency.",
-      "talking_points": [
-        "Founders aged 50+ have 2x the success rate of 30-year-old founders; VC is funding experienced entrepreneurs at record rates.",
-        "Domain expertise and access to capital networks \u2014 not technical chops alone \u2014 drive founding success, especially in regulated industries like fintech and specialty finance.",
-        "Older-founder trend validates the fintech and regional bank playbook: hire experienced bankers and lenders, not just engineers."
-      ],
-      "topics": [
-        "founder-age",
-        "entrepreneurship",
-        "domain-expertise"
-      ],
-      "highlight": "Founders aged 50+ have twice the success rate of younger founders; VC allocation is shifting toward experienced entrepreneurs over age-25 technical talent.",
       "relevance": 5
     }
   },
@@ -3281,6 +3180,155 @@
         "grid-resilience"
       ],
       "highlight": "142.7M people affected; power-grid strain and price spike create near-term P&C claims exposure and reinforce climate-risk capital allocation thesis.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "b48a1052102b",
+    "title": "Swiss Re CorSo appoints new Head of Commercial Growth Initiatives for Alternative Risk Transfer",
+    "url": "https://www.reinsurancene.ws/swiss-re-corso-appoints-new-head-of-commercial-growth-initiatives-for-alternative-risk-transfer/",
+    "source": "Reinsurance News",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-02T15:30:00+00:00",
+    "summary_raw": "<p>Swiss Re Corporate Solutions, the commercial insurance arm of Swiss Re, has appointed Yann Krattiger as Head of Commercial Growth Initiatives for Alternative Risk Transfer (ART). The company said Krattiger has helped shape its Alternative Risk Transfer offering over a number of years, contributing extensive expertise and a collaborative approach to addressing complex risk challenges. [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/swiss-re-corso-appoints-new-head-of-commercial",
+    "summary_ai": {
+      "digest": "Swiss Re Corporate Solutions promotes Yann Krattiger to head its Alternative Risk Transfer commercial growth unit, signaling strategic focus on ART product expansion within the reinsurance group.",
+      "summary_long": "Swiss Re CorSo, the commercial insurance division of the Swiss Re Group, has elevated Yann Krattiger to lead its Alternative Risk Transfer (ART) commercial growth initiatives. Krattiger has been embedded in the ART strategy for several years and brings established expertise in structuring non-traditional risk solutions. The appointment reflects Swiss Re's continued emphasis on ART as a growth vector within commercial insurance\u2014a category that sits between traditional reinsurance and capital markets solutions, and increasingly attracts institutional capital seeking uncorrelated returns. ART includes structures like captives, parametric insurance, and hybrid risk transfer products. This move suggests Swiss Re is doubling down on ART's market share expansion and internal capability-building.",
+      "talking_points": [
+        "Swiss Re elevates ART to dedicated commercial growth function under Krattiger\u2014signals management confidence in ART as a high-margin, high-growth segment within commercial insurance.",
+        "ART offerings bridge insurance and capital markets, positioning Swiss Re to capture flows from institutions seeking alternatives to traditional reinsurance amid crowded, commoditizing markets.",
+        "Leadership continuity (Krattiger's multi-year tenure) reduces execution risk on product innovation and client relationship deepening."
+      ],
+      "topics": [
+        "alternative risk transfer",
+        "reinsurance strategy",
+        "insurance growth initiatives"
+      ],
+      "highlight": "Swiss Re CorSo dedicates senior commercial leadership to ART expansion, indicating intentional product-line and revenue diversification away from commoditized traditional reinsurance.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "caf9d39be700",
+    "title": "People Moves: Alliant Hires Sorensen as EVP in Mergers & Acquisitions",
+    "url": "https://www.insurancejournal.com/news/midwest/2026/07/02/876155.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-02T16:27:26+00:00",
+    "summary_raw": "Alliant Insurance Services has hired Justin Sorensen, ARM, as executive vice president within its mergers and acquisitions (M&#38;A) vertical. Based in Chicago, Sorensen will deliver strategic risk and insurance solutions to a diverse, nationwide client base, drawing on his cross-disciplinary &#8230;",
+    "summary_ai": {
+      "digest": "Alliant Insurance Services hired Justin Sorensen as EVP of its M&A vertical, based in Chicago, to advise on risk and insurance solutions for deal-involved clients.",
+      "summary_long": "Alliant, a leading insurance broker, has expanded its dedicated M&A advisory practice by promoting or hiring Sorensen into a newly elevated role. The M&A vertical serves as a strategic advisory unit helping clients navigate insurance and risk issues during acquisitions, divestitures, and corporate transactions. Sorensen brings cross-disciplinary expertise\u2014likely spanning underwriting, risk assessment, and deal structuring. This signals Alliant's confidence in the M&A insurance advisory market, where brokers capture fees by embedding insurance expertise into deal processes. The move is typical of consolidation-era positioning: as FIG dealflow remains active, insurance brokers are investing in specialized advisory units to capture higher-margin advisory revenue alongside traditional insurance placements.",
+      "talking_points": [
+        "Alliant is staffing up its M&A vertical\u2014a leading insurance broker is betting on sustained deal velocity and the fee upside from advisory-embedded insurance.",
+        "Sorensen's ARM credential and cross-disciplinary background suggest Alliant is deepening technical risk expertise, not just relationship coverage.",
+        "This is a marker of insurance broker competition for deal advisory share; expect similar hires at Willis Towers Watson, Marsh, and Aon if deal volumes hold."
+      ],
+      "topics": [
+        "insurance broker strategy",
+        "M&A advisory",
+        "insurance talent",
+        "deal advisory fees"
+      ],
+      "highlight": "Alliant's promotion of an M&A-focused EVP signals the broker is capturing a larger share of deal-embedded insurance advisory revenue as regional bank and specialty finance M&A remains active.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "80d47ca18a04",
+    "title": "Getting Our Bearings Strait",
+    "url": "https://www.commoditycontext.com/p/getting-our-bearings-strait",
+    "source": "Commodity Context",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T16:27:30+00:00",
+    "summary_raw": "Assessing the pace and sustainability of the faster-than-expected post-MOU recovery in oil flows&#8212;both ways&#8212;through the Strait of Hormuz and the still-lagging pace of fresh Gulf loadings.",
+    "summary_ai": {
+      "digest": "Oil flows through Strait of Hormuz have recovered faster than expected post-MOU, but fresh Gulf loadings remain sluggish, creating a supply misalignment.",
+      "summary_long": "The Strait of Hormuz\u2014chokepoint for ~21% of global oil trade\u2014saw a quicker-than-anticipated reopening of bidirectional flows following a Memorandum of Understanding (likely geopolitical de-escalation). However, the pace of new crude loadings from Gulf producers has not kept up with the restoration of transit capacity, suggesting either inventory management, demand softness, or structural production constraints. This supply-demand mismatch affects crude pricing, refinery margins, and energy-sector credit conditions\u2014all material to oil-sensitive bank portfolios and energy-specialty-finance lending.",
+      "talking_points": [
+        "Strait of Hormuz recovery outpaced fresh Gulf loadings, creating a supply overhang or demand signal\u2014watch for crude price volatility.",
+        "Lagging loadings despite restored transit suggest either deliberate inventory drawdown, weak global demand, or producer constraints\u2014matters for energy lending stress.",
+        "Sustainability of this pace unclear; if loading acceleration doesn't follow, watch for crude weakness that pressures energy credits and commodity-linked derivatives books."
+      ],
+      "topics": [
+        "oil-supply-geopolitics",
+        "commodity-credit-signal",
+        "energy-lending-stress"
+      ],
+      "highlight": "Strait flows recovered faster than loadings, signaling potential supply overhang or demand weakness\u2014a leading indicator for energy-sector credit and commodity derivatives exposure.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "1c791159be70",
+    "title": "AM Best Revises Outlook to Positive for Louisiana Workers\u2019 Compensation Corporation",
+    "url": "https://www.insurancejournal.com/news/southcentral/2026/07/02/876166.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-02T16:49:47+00:00",
+    "summary_raw": "AM Best has revised the outlooks to positive from stable and affirmed the Financial Strength Rating (FSR) of A (Excellent) and the Long-Term Issuer Credit Rating (Long-Term ICR) of &#8220;a+&#8221; (Excellent) of Louisiana Workers&#8217; Compensation Corporation (LWCC), based in Baton &#8230;",
+    "summary_ai": {
+      "digest": "AM Best upgraded Louisiana Workers' Compensation Corporation's outlook to positive from stable, affirming A (Excellent) FSR and a+ (Excellent) Long-Term ICR.",
+      "summary_long": "AM Best's positive outlook revision signals improved financial trajectory for LWCC, a state-owned workers' comp carrier. The affirmation of both its Financial Strength Rating and Issuer Credit Rating\u2014at the highest tiers\u2014reflects stability in the carrier's underwriting and capital position. State-run insurers like LWCC are typically countercyclical players in workers' comp markets; a positive outlook suggests improving loss ratios, premium growth, or capital adequacy relative to reserve requirements. This is relevant to regional insurance consolidation dynamics: stronger state carriers reduce pressure on private regional competitors and can influence pricing and M&A appetite in the workers' comp sector.",
+      "talking_points": [
+        "LWCC's positive outlook from AM Best signals improving underwriting momentum in workers' comp, which may reduce M&A urgency for state carriers.",
+        "Affirmation at A/a+ levels demonstrates capital strength\u2014relevant if assessing state-backed carriers as acquisition targets or strategic anchors in specialty insurance deals."
+      ],
+      "topics": [
+        "workers-comp-insurance",
+        "state-carrier-capital",
+        "insurance-ratings"
+      ],
+      "highlight": "Positive outlook revision on a state-owned workers' comp carrier signals sector health but limited immediate deal implication unless tied to broader regional consolidation pressure.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "c0ea351021ef",
+    "title": "Infinite and Sardine launch two-way integration",
+    "url": "https://www.finextra.com/pressarticle/110337/infinite-and-sardine-launch-two-way-integration?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-02T17:51:00+00:00",
+    "summary_raw": "Infinite, the AI-native compliance and payments platform built for the stablecoin economy, and Sardine, the fraud, risk, and payments platform, today announced a two-way integration that combines Sardine's real-time fraud and risk intelligence with Infinite's AI-powered compliance platform and account infrastructure.",
+    "summary_ai": {
+      "digest": "Infinite and Sardine announced a two-way integration pairing Infinite's stablecoin compliance and account infrastructure with Sardine's fraud and risk intelligence.",
+      "summary_long": "Infinite, an AI-native compliance and payments platform focused on stablecoin rails, has integrated with Sardine, a fraud and risk platform, to combine real-time risk detection with Infinite's on-chain compliance tooling and account infrastructure. The integration allows customers to leverage Sardine's behavioral and transaction monitoring alongside Infinite's stablecoin settlement and regulatory reporting. Neither company disclosed financial terms, customer wins, or timelines for production rollout. This is a vertical-integration play in the crypto/stablecoin fintech stack\u2014similar to how traditional payment processors bundle fraud and compliance\u2014and signals that stablecoin platforms are maturing past raw settlement into enterprise-grade risk and regulatory control. The move reflects growing institutional appetite for stablecoin rails and suggests both companies see embedded compliance and fraud prevention as table stakes for institutional adoption.",
+      "talking_points": [
+        "Infinite and Sardine are bundling compliance and fraud detection into a stablecoin account infrastructure play\u2014effectively building an enterprise stack for digital currency settlement.",
+        "This is a vertical integration in the crypto fintech layer; similar strategic pairing to traditional ACH/wire bundles with AML and sanctions screening.",
+        "No deal size, terms, or customer announcements\u2014this reads as a go-to-market partnership rather than an M&A or financing event."
+      ],
+      "topics": [
+        "stablecoin-fintech",
+        "compliance-tech-integration",
+        "fraud-risk-platforms"
+      ],
+      "highlight": "Two-way integration between a stablecoin compliance platform and a fraud-risk engine signals institutional stablecoin adoption is moving past raw settlement into embedded regulatory control.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "b198b63a6bb0",
+    "title": "Oil prices are now back to prewar levels, but the market is not. Here\u2019s what could happen next.",
+    "url": "https://www.marketwatch.com/story/oil-prices-are-now-back-to-prewar-levels-but-the-market-is-not-heres-what-could-happen-next-c2883aa7?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T18:17:00+00:00",
+    "summary_raw": "Oil prices have finally fallen back to pre-Iran war levels \u2014 but the crude market is far from seeing a normalization of shipping, oil supplies and demand that such a big retreat implies.",
+    "summary_ai": {
+      "digest": "Brent crude has retreated to pre-conflict levels, but shipping disruptions, supply constraints, and demand shifts mean the market structure hasn't normalized despite the price reset.",
+      "summary_long": "Oil prices have fallen back toward pre-Iran conflict levels, but the underlying market structure\u2014shipping costs, supply chain fragmentation, and altered demand patterns\u2014remains elevated and fragmented. The article examines why a return to pre-war prices does not signal a return to pre-war market conditions. This matters for FIG because elevated energy-sector lending spreads, refinancing risk in oil & gas portfolios, and commodity-linked derivative flows may persist even as headline WTI/Brent appear to normalize. The disconnect between price and structure creates basis-trade and hedging opportunities, but also tail risk for banks with unhedged E&P exposure.",
+      "talking_points": [
+        "Oil prices are back to pre-conflict levels, but shipping and supply fragmentation mean lending and hedging demand in energy stays elevated.",
+        "The mismatch between price normalization and structural dislocation creates basis trades and derivative positioning risk for banks."
+      ],
+      "topics": [
+        "crude-oil-markets",
+        "energy-sector-credit",
+        "supply-chain-dislocation"
+      ],
+      "highlight": "Price normalization does not equal structural normalization\u2014watch for persistent energy-sector financing premiums even as headline crude stabilizes.",
       "relevance": 5
     }
   },
@@ -3456,32 +3504,6 @@
     }
   },
   {
-    "id": "cef0d8d79c78",
-    "title": "Trump made up to $1.4bn in stock purchases in 2025",
-    "url": "https://www.ft.com/content/9067f454-a2f3-43da-bb0e-7f3015ce3bf5",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-01T21:26:05+00:00",
-    "summary_raw": "FT analysis shows US president declared more than 22,000 share transactions last year",
-    "summary_ai": {
-      "digest": "Trump disclosed ~22,000 stock transactions worth $1.4B in 2025, based on FT analysis of filing data. The volume and scale raise questions about conflict-of-interest disclosure practices and whether sitting presidents should maintain active trading accounts.",
-      "summary_long": "The Financial Times analyzed Trump's publicly filed transaction disclosures and found he executed over 22,000 individual stock purchases during 2025, totaling up to $1.4 billion. The filings show a high-frequency trading pattern across multiple asset classes and sectors, which is unusual for a sitting president and raises governance questions about conflicts of interest, insider information access, and the adequacy of current disclosure regimes. The analysis does not establish whether trades were executed on his direct instruction or through advisors, but the sheer volume suggests either active management or a discretionary arrangement with significant turnover. This feeds into a broader debate about presidential financial transparency and whether existing ethics rules adequately constrain trading by sitting executives with material non-public information access.",
-      "talking_points": [
-        "22,000+ transactions in one year is institutional-scale volume for an individual account\u2014suggests either active day-trading or a delegated account with very high churn.",
-        "No sitting president in modern history has maintained this level of public market exposure; raises baseline questions about conflict-of-interest policy adequacy regardless of legality.",
-        "If even a small fraction of these trades captured information asymmetries (Fed policy signals, sector-specific regulatory intent, etc.), the filings themselves become evidence of a structural governance gap."
-      ],
-      "topics": [
-        "presidential-trading",
-        "disclosure-rules",
-        "conflict-of-interest",
-        "market-structure"
-      ],
-      "highlight": "22,000 transactions in a single year is an order of magnitude higher than typical institutional traders and suggests either undisclosed discretionary management or a governance gap in presidential trading rules.",
-      "relevance": 4
-    }
-  },
-  {
     "id": "56b3eae8b64e",
     "title": "OCBC adds AI-powered financial advisor avatars to app",
     "url": "https://www.finextra.com/newsarticle/48025/ocbc-adds-ai-powered-financial-advisor-avatars-to-app?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -3531,31 +3553,6 @@
     }
   },
   {
-    "id": "393ab7069bd3",
-    "title": "Former Auto-Owners Claims Manager in NC Charged With Fraud in His Own Claim",
-    "url": "https://www.insurancejournal.com/news/southeast/2026/07/02/876052.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-02T05:02:10+00:00",
-    "summary_raw": "A longtime claims manager for Auto-Owners Insurance Co. has been charged with defrauding the company of more than $43,000. Ian V. Eisnaugle, 41, of Hendersonville, North Carolina, was charged with insurance fraud and forgery in June after he reportedly submitted &#8230;",
-    "summary_ai": {
-      "digest": "Auto-Owners Insurance claims manager charged with $43K fraud and forgery; internal control failure at regional insurer.",
-      "summary_long": "Ian Eisnaugle, a 41-year-old claims manager at Auto-Owners Insurance in North Carolina, was charged in June with insurance fraud and forgery after submitting fraudulent claims totaling over $43,000. The case reveals a breakdown in claims-processing controls\u2014a single employee was able to route personal claims through company systems without detection. Auto-Owners is a regional mutual insurer with significant Midwest and Southeast exposure; this incident, while modest in dollar terms, signals either lax internal audit or a control gap that regulators or M&A due diligence teams would flag. The charges suggest the company's claims-management infrastructure may not have sufficient segregation of duties or automated exceptions flagging.",
-      "talking_points": [
-        "Regional insurer control failure: internal employee able to submit $43K in fraudulent claims without detection.",
-        "Raises questions about Auto-Owners' claims audit infrastructure ahead of any strategic review or acquisition.",
-        "Single-incident fraud at mutual insurers can trigger regulatory inquiry and expose broader compliance gaps."
-      ],
-      "topics": [
-        "insurance-fraud",
-        "internal-controls",
-        "regional-insurer-risk"
-      ],
-      "highlight": "Claims manager at Auto-Owners Insurance embedded in the system long enough to submit $43K in undetected fraudulent claims\u2014a red flag for internal audit adequacy in M&A diligence.",
-      "relevance": 4
-    }
-  },
-  {
     "id": "aefdb11028f8",
     "title": "Chinese energy group\u2019s shares triple in Asia\u2019s biggest IPO this year",
     "url": "https://www.ft.com/content/a5ebd692-f63c-437f-a561-b45ceb178a3f",
@@ -3578,80 +3575,6 @@
         "energy transition financing"
       ],
       "highlight": "$3.6bn raise with shares tripling on debut, but driven by retail oversubscription rather than institutional conviction\u2014signals momentum trading risk in secondary market.",
-      "relevance": 4
-    }
-  },
-  {
-    "id": "f2bbfa723d0f",
-    "title": "People Moves: Miller Appoints Plant Head of North American Property",
-    "url": "https://www.insurancejournal.com/news/national/2026/07/02/876048.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-02T05:31:22+00:00",
-    "summary_raw": "Miller, an independent specialist (re)insurance broker headquartered in London, appointed Kim Plant as head of North American property. Plant joins Miller from Amwins, where he served as a director in its North American property division from 2020, where he formed &#8230;",
-    "summary_ai": {
-      "digest": "Kim Plant appointed head of North American property at Miller, an independent (re)insurance broker. Plant joins from Amwins, where he directed the North American property division since 2020.",
-      "summary_long": "Miller, a London-headquartered specialist insurance and reinsurance broker, has hired Kim Plant to lead its North American property business. Plant brings direct experience from Amwins, a major insurance distributor, where he spent over five years building out property underwriting and distribution capabilities. The move signals Miller's intent to expand or consolidate its North American property platform, likely to compete with larger global brokers and capture more intermediary flow in a competitive market. Senior hires into regional or divisional head roles typically precede either a build-out phase (hiring, M&A of smaller books) or a repositioning to higher-margin segments.",
-      "talking_points": [
-        "Miller poaching a director from Amwins' property division suggests it is building scale or reshuffling its NA property offering.",
-        "Plant's track record at Amwins\u2014a platform with significant distribution reach\u2014may indicate Miller is targeting broker consolidation or book acquisitions in the NA market."
-      ],
-      "topics": [
-        "insurance-broker-leadership",
-        "NA-property-distribution",
-        "talent-movement"
-      ],
-      "highlight": "Senior property executive move from major distributor (Amwins) to specialist broker (Miller) may signal M&A or platform build in NA property.",
-      "relevance": 4
-    }
-  },
-  {
-    "id": "4cf92e63ca2e",
-    "title": "RGreen Invest backs Geogreen with \u20ac52.4m investment",
-    "url": "https://www.pehub.com/rgreen-invest-backs-geogreen-with-e52-4m-investment/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-02T09:28:28+00:00",
-    "summary_raw": "<p>Geogreen is the holding company of Pierre Brossollet, founder and chief executive officer of Arverne.</p>\n<p>The post <a href=\"https://www.pehub.com/rgreen-invest-backs-geogreen-with-e52-4m-investment/\">RGreen Invest backs Geogreen with \u20ac52.4m investment</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
-    "summary_ai": {
-      "digest": "RGreen Invest deployed \u20ac52.4m into Geogreen, the holding company of Arverne founder Pierre Brossollet, in a renewable energy infrastructure play.",
-      "summary_long": "RGreen Invest, a PE firm focused on green infrastructure, has backed Geogreen with a \u20ac52.4m investment. Geogreen serves as the holding vehicle for Pierre Brossollet, who founded and leads Arverne, suggesting a continuation or expansion of existing renewable energy operations under new capital. The deal reflects ongoing PE appetite for climate-focused infrastructure assets, though the excerpt provides minimal detail on deployment strategy, fund size, or Arverne's current scale and returns.",
-      "talking_points": [
-        "\u20ac52.4m deployed into renewables holding company\u2014mid-market ticket size typical of specialized green PE.",
-        "Founder-led structure (Brossollet retained as CEO) signals operator continuity and alignment with management.",
-        "RGreen Invest backing suggests thematic confidence in energy transition infrastructure despite broader macro uncertainty."
-      ],
-      "topics": [
-        "renewable energy PE",
-        "green infrastructure",
-        "founder-led platforms"
-      ],
-      "highlight": "RGreen Invest deployed \u20ac52.4m into Geogreen, a renewable energy holding company led by Arverne founder Pierre Brossollet.",
-      "relevance": 4
-    }
-  },
-  {
-    "id": "3b5fc9e37d5f",
-    "title": "Everest makes key leadership changes within Global Wholesale & Specialty",
-    "url": "https://www.reinsurancene.ws/everest-makes-key-leadership-changes-within-global-wholesale-specialty/",
-    "source": "Reinsurance News",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-02T10:30:04+00:00",
-    "summary_raw": "<p>Everest Group, Ltd., a global specialty reinsurance and insurance leader, has appointed Stephen Buonpane as Global Head of Construction, Global Wholesale &#38; Specialty (GWS), and promoted Danielle Stewart to President, Everest Evolution&#x2122;, both effective October 1. In this newly created role, Buonpane will reportedly lead Everest\u2019s global construction business, driving underwriting strategy, market alignment and [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/everest-m",
-    "summary_ai": {
-      "digest": "Everest Group appoints Stephen Buonpane as Global Head of Construction within Global Wholesale & Specialty and promotes Danielle Stewart to President of Everest Evolution, both effective October 1.",
-      "summary_long": "Everest is executing internal reorganization at the leadership level within its Global Wholesale & Specialty division. Buonpane assumes a newly created role overseeing the global construction business with a stated mandate to drive underwriting strategy\u2014a signal that Everest is consolidating and prioritizing this segment. Stewart's elevation to lead Everest Evolution (the group's digital/innovation platform) reflects a broader push toward modernization. These moves suggest Everest is repositioning underwriting discipline and technology capability as competitive levers, likely in response to construction line losses or market share concerns. No M&A or capital event is announced, making this primarily a strategic/operational signal rather than a deal catalyst.",
-      "talking_points": [
-        "Everest created a new Global Head of Construction role, signaling increased strategic focus on a line segment historically volatile in specialty insurance.",
-        "Promoting an internal executive to lead Everest Evolution indicates the group is betting on digital and alternative distribution to compete with fintech insurgents in specialty.",
-        "Leadership reshuffles in insurance are often precursors to portfolio rationalization or underwriting tightening\u2014watch for earnings or guidance changes within construction and specialty lines."
-      ],
-      "topics": [
-        "insurance-leadership",
-        "specialty-insurance",
-        "underwriting-strategy"
-      ],
-      "highlight": null,
       "relevance": 4
     }
   },
@@ -3706,76 +3629,52 @@
     }
   },
   {
-    "id": "f37117d234b6",
-    "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
-    "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T13:14:00+00:00",
-    "summary_raw": "CEO Jensen Huang has called humanoid robots a \u201cmultitrillion-dollar economic opportunity.\u201d",
+    "id": "3d4d86a012c7",
+    "title": "Parthenon backs patient support solutions provider Momentum Life Sciences",
+    "url": "https://www.pehub.com/parthenon-backs-patient-support-solutions-provider-momentum-life-sciences/",
+    "source": "PE Hub",
+    "section": "PE & Deals",
+    "date": "2026-07-02T15:24:21+00:00",
+    "summary_raw": "<p>Following the investment, Momentum\u2019s existing leadership team will continue as significant shareholders in the company.</p>\n<p>The post <a href=\"https://www.pehub.com/parthenon-backs-patient-support-solutions-provider-momentum-life-sciences/\">Parthenon backs patient support solutions provider Momentum Life Sciences</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
     "summary_ai": {
-      "digest": "Nvidia CEO Jensen Huang frames humanoid robotics as a multitrillion-dollar opportunity; MarketWatch frames this as an investable trade thesis.",
-      "summary_long": "The piece centers on Nvidia's positioning in the robotics sector, with Huang's public commentary serving as the anchoring statement. MarketWatch then extracts implications for investors\u2014likely touching on Nvidia's competitive moat in AI chips, the path-to-deployment timeline for humanoid robots, and which companies (chipmakers, robot makers, software platforms, or infrastructure plays) stand to capture value. The 'hidden way to trade it' language suggests the piece offers a non-obvious entry point beyond simply buying Nvidia stock itself.",
+      "digest": "Parthenon invests in Momentum Life Sciences, a patient support solutions provider; existing leadership retains significant equity.",
+      "summary_long": "Parthenon, a healthcare-focused PE firm, has backed Momentum Life Sciences, which provides patient support and adherence solutions to pharmaceutical and biotech companies. The deal preserves founder/management upside by keeping the existing leadership team as substantial shareholders post-close. Patient support is a recurring-revenue, high-margin business embedded in pharma workflows\u2014attractive for PE roll-up strategies. No deal size disclosed. This sits in specialty finance/healthcare services, not core FIG, but signals PE appetite for non-bank financial services with embedded B2B relationships.",
       "talking_points": [
-        "Nvidia is explicitly marketing humanoid robotics as a multitrillion-dollar TAM to investors and customers.",
-        "The trade thesis likely hinges on exposure to enablers (Nvidia chips, training data, software stacks) rather than robot hardware makers themselves, which face adoption and profitability uncertainty.",
-        "Timing and path-to-cash matter here\u2014robots are a real opportunity, but the 'multitrillion' framing is venture-scale hype and may not translate to near-term FIG deal flow or credit-market signals."
+        "Parthenon backing patient support solutions\u2014recurring revenue model attractive to PE despite non-bank classification.",
+        "Management rollover equity structure typical for mid-market healthcare services deals where founder relationships with pharma are the asset."
       ],
       "topics": [
-        "AI infrastructure",
-        "Nvidia",
-        "emerging technology markets"
+        "healthcare-PE",
+        "specialty-finance",
+        "recurring-revenue-models"
       ],
-      "highlight": "Nvidia is actively marketing robotics-as-a-trillion-dollar-TAM to drive chip demand, but the real investable edge is in infrastructure plays, not hardware.",
+      "highlight": "Deal structure: management equity retention; no disclosed size limits deal-flow impact.",
       "relevance": 4
     }
   },
   {
-    "id": "23d9a62a9299",
-    "title": "Tuesday assorted links",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-575",
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "section": "Learn",
-    "date": "2026-06-30T16:14:14+00:00",
-    "summary_raw": "<p>1. Korinek, Autor, and Gimbel on AI and jobs (WSJ). 2. New economics job at OpenAI. 3. State capacity as an organizational problem. 4. Alex Ross is stepping down as music critic for The New Yorker. 5. More on the depolarizing effects of current AI. 6. The end of landlines in Finland is pending.</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/06/tuesday-assorted-links-575.html\">Tuesday assorted links</a> appeared first on <a href=\"https://marginalrevolution.com\"",
+    "id": "87be1b2927d3",
+    "title": "If you lost money on Trump crypto ventures, don\u2019t whine",
+    "url": "https://www.marketwatch.com/story/if-you-lost-money-on-trump-crypto-ventures-dont-whine-1839a774?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T15:52:00+00:00",
+    "summary_raw": "It should be no surprise the president made $1 billion on cryptocurrency deals that handed losses to so many who invested.",
     "summary_ai": {
-      "digest": "Tyler Cowen's curated link roundup spans AI labor displacement, OpenAI hiring, state capacity, media transitions, and infrastructure phase-outs\u2014no single narrative, signaling pattern-spotting rather than developed argument.",
-      "summary_long": "This is Cowen's typical Tuesday assorted-links post: a loose collection of six items touching on AI/labor (Korinek-Autor-Gimbel WSJ piece on job risk), OpenAI's economics hiring, organizational theory around state capacity, Alex Ross leaving The New Yorker music desk, AI's depolarizing effects, and Finland's landline sunset. Each link is tagged with minimal commentary\u2014just a headline and URL. The value is in Cowen's curation and implicit judgment about what's worth noticing this week, not in argument depth or FIG relevance.",
+      "digest": "Trump made $1 billion on crypto ventures while investors lost money; MarketWatch argues this is unsurprising and investors should accept the downside risk.",
+      "summary_long": "The article argues that Trump's $1 billion profit on cryptocurrency deals\u2014while many retail investors took losses\u2014is a predictable outcome of how crypto markets work. The piece takes a 'buyer beware' stance: investors who entered these deals knew the risk profile and should not complain about losses. The author frames this as a lesson in asymmetric information and risk tolerance rather than fraud or manipulation. The implicit argument is that crypto remains a high-risk, speculative asset class where winners and losers are determined by timing, sophistication, and access\u2014not fair dealing.",
       "talking_points": [
-        "Cowen is flagging AI labor displacement as a live debate\u2014Korinek, Autor, and Gimbel piece suggests serious economists are not dismissing the risk.",
-        "OpenAI is hiring economists, suggesting AI firms are building internal policy and labor-strategy capacity rather than outsourcing those questions."
+        "Trump realized $1B on crypto deals while many retail participants lost money\u2014a reminder that crypto remains a high-risk, speculative asset where informational asymmetry favors insiders.",
+        "The piece reflects a broader crypto-market reality: early-mover and insider advantage is priced into these deals, not a bug.",
+        "This could become a talking point on crypto regulation and retail-investor protection if scrutinized by lawmakers or regulators."
       ],
       "topics": [
-        "AI-labor-policy",
-        "organizational-capacity"
+        "crypto-regulation",
+        "retail-investor-protection",
+        "Trump-crypto"
       ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
-    "id": "de615ffdafee",
-    "title": "Global Investor 150: The 2026 top 10",
-    "url": "https://www.privateequityinternational.com/global-investor-150-the-2026-top-10/",
-    "source": "Private Equity International",
-    "section": "PE & Deals",
-    "date": "2026-07-01T01:00:48+00:00",
-    "summary_raw": "Between them, the 10 largest investors on this year\u2019s Global Investor 150 ranking have $1.1trn allocated to private equity, with an average allocation of 21%.",
-    "summary_ai": {
-      "digest": "Top 10 PE investors globally hold $1.1T in PE allocation at 21% average exposure. No new deal or regulatory catalyst identified.",
-      "summary_long": "Private Equity International's annual Global Investor 150 ranking lists the world's largest institutional allocators to PE. The top 10 collectively manage $1.1T earmarked for private equity, representing a 21% average allocation of their total capital. This snapshot reflects the scale and concentration of dry powder among mega-LPs\u2014primarily sovereign wealth funds, pension systems, and large endowments. The ranking itself is an LP-side census rather than a deal announcement or market-moving event. Useful as a benchmark of LP appetite and capital velocity, but no specific transaction, fund close, or policy trigger is evident from the excerpt.",
-      "talking_points": [
-        "Top 10 global PE LPs have $1.1T deployed or committed to private equity\u2014reflects sustained mega-fund demand and dry powder concentration.",
-        "21% average allocation is a standard institutional target; implies continued fund-raising tailwinds for Tier-1 sponsors.",
-        "No deal or regulatory angle\u2014this is LP appetite reconnaissance, not a catalyst."
-      ],
-      "topics": [
-        "PE fundraising",
-        "LP allocation",
-        "institutional capital"
-      ],
-      "highlight": null,
-      "relevance": 3
+      "highlight": "Trump's $1B crypto gain on deals that generated losses for retail investors illustrates the persistent insider-advantage dynamics in unregulated crypto markets.",
+      "relevance": 4
     }
   },
   {
@@ -3993,55 +3892,6 @@
     }
   },
   {
-    "id": "01959d14e0b3",
-    "title": "Main Capital-backed UnameIT picks up Denmark\u2019s Auto IT",
-    "url": "https://www.pehub.com/main-capital-backed-unameit-picks-up-denmarks-auto-it/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-02T08:32:00+00:00",
-    "summary_raw": "<p>Auto IT is a software provider for Danish car dealerships, importers and other automotive retail stakeholders.</p>\n<p>The post <a href=\"https://www.pehub.com/main-capital-backed-unameit-picks-up-denmarks-auto-it/\">Main Capital-backed UnameIT picks up Denmark&#8217;s Auto IT</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
-    "summary_ai": {
-      "digest": "Main Capital-backed UnameIT acquired Denmark's Auto IT, a software provider to automotive retailers. No deal size disclosed.",
-      "summary_long": "UnameIT, a portfolio company of Main Capital (a mid-market PE firm), has acquired Auto IT, a Danish software vendor serving car dealerships, importers, and automotive retail operators. The deal represents a bolt-on acquisition typical of PE platform-building in vertical software. No purchase price or financing structure was disclosed in the excerpt. This signals Main Capital's continued deployment into European software consolidation plays, likely bundling Auto IT into a broader auto-retail or dealership-tech platform.",
-      "talking_points": [
-        "Main Capital is actively deploying into vertical software; Auto IT bolt-on suggests a platform-building thesis in automotive retail tech.",
-        "No deal size or terms disclosed\u2014typical for mid-market PE coverage, limiting deal-flow intelligence from this source."
-      ],
-      "topics": [
-        "PE-software-bolt-on",
-        "automotive-retail-tech",
-        "Main-Capital-deployment"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
-    "id": "e4a496b263a7",
-    "title": "Meritus Gas Partners\u2019 subsidiary Buckeye Welding Supply snaps up helium solutions firm HICO",
-    "url": "https://www.pehub.com/meritus-gas-partners-subsidiary-buckeye-welding-supply-snaps-up-helium-solutions-firm-hico/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-02T11:17:52+00:00",
-    "summary_raw": "<p>Meritus Gas Partners is a portfolio company of AEA Enterprise.</p>\n<p>The post <a href=\"https://www.pehub.com/meritus-gas-partners-subsidiary-buckeye-welding-supply-snaps-up-helium-solutions-firm-hico/\">Meritus Gas Partners&#8217; subsidiary Buckeye Welding Supply snaps up helium solutions firm HICO</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
-    "summary_ai": {
-      "digest": "Meritus Gas Partners (AEA Enterprise portfolio company) acquired HICO, a helium solutions firm, through subsidiary Buckeye Welding Supply. No deal size or terms disclosed.",
-      "summary_long": "Meritus Gas Partners, a portfolio company of mid-market PE firm AEA Enterprise, has acquired HICO via its Buckeye Welding Supply subsidiary. The deal represents a bolt-on acquisition in the specialty gases and welding supplies space. HICO appears to be a helium-focused solutions provider, suggesting Meritus is consolidating ancillary services within its industrial gases footprint. The transaction signals continued PE appetite for add-on M&A in mature, fragmented industrial verticals. Without announced deal size or financing details, the strategic intent is clear \u2014 expand service capabilities and customer stickiness within the existing platform.",
-      "talking_points": [
-        "AEA Enterprise portfolio company Meritus executed a bolt-on in specialty gases by acquiring HICO through Buckeye Welding subsidiary.",
-        "Deal reflects PE's playbook of consolidating fragmented industrial niches; no disclosed size limits deal-flow read-through.",
-        "Helium solutions acquisition may signal margin expansion or cross-sell opportunity within Meritus's customer base."
-      ],
-      "topics": [
-        "PE add-on acquisition",
-        "specialty gases",
-        "industrial consolidation"
-      ],
-      "highlight": "AEA Enterprise (mid-market PE) driving add-on consolidation in specialty industrial gases via Meritus platform\u2014typical bolt-on playbook with limited deal visibility.",
-      "relevance": 3
-    }
-  },
-  {
     "id": "c97820db9813",
     "title": "Bishop appointed as Partner Re\u2019s CUO, Global Cat",
     "url": "https://www.reinsurancene.ws/bishop-appointed-as-partner-res-cuo-global-cat/",
@@ -4109,6 +3959,76 @@
         "PE acquisitions",
         "life-sciences data",
         "platform consolidation"
+      ],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "b7e0b6f3f1ec",
+    "title": "Independence, Uncertainty and Markets: Lessons From 250 Years",
+    "url": "https://www.wealthmanagement.com/investing-strategies/independence-uncertainty-and-markets-lessons-from-250-years",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-02T14:44:29+00:00",
+    "summary_raw": "Those grounded in\u00a0sound\u00a0principles are\u00a0best positioned to prosper.",
+    "summary_ai": {
+      "digest": "Historical essay on how sound principles enable prosperity through market cycles; no specific deal, regulatory action, or capital event cited.",
+      "summary_long": "The article frames market resilience through a 250-year historical lens, arguing that institutions and investors anchored in principled frameworks weather uncertainty better than those chasing trends. It draws parallels between independence of thought and market performance, suggesting that conviction in a thesis\u2014rather than reactive positioning\u2014drives long-term returns. The piece appears aimed at wealth managers and advisors seeking to differentiate their value proposition. No M&A, capital raise, regulatory action, or fintech strategic move is discussed. The argument is philosophical rather than catalytic.",
+      "talking_points": [
+        "Evergreen positioning frame for client conversations during volatility\u2014'principles outperform reactivity'\u2014but carries no actionable deal or market signal.",
+        "Wealth management marketing angle, not a business driver; useful for narrative but absent of competitive intelligence or sector momentum."
+      ],
+      "topics": [
+        "wealth-management-positioning",
+        "investment-philosophy"
+      ],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "94ed00f39fe4",
+    "title": "How you as an investor can get ahead of the next AI investment wave",
+    "url": "https://www.marketwatch.com/story/how-you-as-an-investor-can-get-ahead-of-the-next-ai-investment-wave-ffc6512a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T14:53:00+00:00",
+    "summary_raw": "Also in Weekend Reads: Eldercare and family relationships, stock-market prospects for the second half of 2026, and how to set your summer streaming budget.",
+    "summary_ai": {
+      "digest": "MarketWatch weekend column on positioning for AI investment trends, grouped with unrelated lifestyle and market commentary pieces.",
+      "summary_long": "This is a Markets & Macro roundup piece that bundles AI investing strategy with eldercare advice and streaming budgets\u2014a classic weekend-read miscellany. The AI angle appears to be a tactical positioning piece for retail investors, likely covering emerging AI sub-themes or overlooked sectors. Without seeing the full piece, the structure suggests it's aimed at broad wealth management audiences rather than institutional or sector-specific insight. For a FIG analyst focused on fintech, digital assets, and specialty finance, the signal depends entirely on whether the piece surfaces a regulatory, capital-markets, or deal-flow implication specific to financial services AI.",
+      "talking_points": [
+        "Need to read the full piece to extract the specific AI investment thesis\u2014headline alone is too generic for a pitch or client note.",
+        "Weekend reads format suggests retail positioning, not institutional alpha or a sector trade catalyst."
+      ],
+      "topics": [
+        "AI-investing",
+        "markets-commentary"
+      ],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "cf6494d5db3d",
+    "title": "GTCR-backed Experity acquires Exdion Healthcare",
+    "url": "https://www.pehub.com/gtcr-backed-experity-acquires-exdion-healthcare/",
+    "source": "PE Hub",
+    "section": "PE & Deals",
+    "date": "2026-07-02T15:34:48+00:00",
+    "summary_raw": "<p>Based in Machesney Park, Illinois, Experity is an on-demand healthcare technology platform</p>\n<p>The post <a href=\"https://www.pehub.com/gtcr-backed-experity-acquires-exdion-healthcare/\">GTCR-backed Experity acquires Exdion Healthcare</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
+    "summary_ai": {
+      "digest": "GTCR portfolio company Experity acquired Exdion Healthcare; deal size and terms not disclosed in excerpt.",
+      "summary_long": "Experity, a GTCR-backed on-demand healthcare technology platform based in Illinois, has acquired Exdion Healthcare. The excerpt provides minimal detail on deal structure, valuation, or strategic rationale. Without full source access, the scope of Exdion's business, combined revenue run-rate, or post-close integration plan cannot be assessed. This appears to be a bolt-on acquisition within GTCR's healthcare tech thesis, but lacks the specificity needed to evaluate impact on Experity's platform or GTCR's deployment pace.",
+      "talking_points": [
+        "GTCR adding to Experity platform via Exdion bolt-on, but deal size and targets undisclosed \u2014 need full release to assess deployment.",
+        "On-demand healthcare tech remains an active M&A lane for lower-middle-market PE, though excerpt is too thin to read deal momentum."
+      ],
+      "topics": [
+        "healthcare tech M&A",
+        "lower-middle-market PE",
+        "GTCR portfolio"
       ],
       "highlight": null,
       "relevance": 3
@@ -4233,29 +4153,6 @@
     }
   },
   {
-    "id": "a4c8806ea9eb",
-    "title": "Trump May Ask Supreme Court to Reconsider Carroll Appeal Denial",
-    "url": "https://www.insurancejournal.com/news/east/2026/07/02/875964.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-02T05:00:59+00:00",
-    "summary_raw": "President Donald Trump may ask the US Supreme Court to reconsider its decision to turn away his appeal of a $5 million verdict against him in E. Jean Carroll&#8217;s sexual-abuse lawsuit, her lawyer said in a court filing asking for &#8230;",
-    "summary_ai": {
-      "digest": "Trump may petition Supreme Court to reconsider denial of his appeal in E. Jean Carroll case; $5M verdict stands unless overturned.",
-      "summary_long": "The Supreme Court declined Trump's appeal of a $5 million defamation verdict from E. Jean Carroll's sexual-abuse lawsuit. Trump's legal team is now considering a petition for reconsideration\u2014a rarely granted motion that would ask the Court to revisit its earlier decision. Carroll's lawyer flagged this possibility in a recent court filing. The outcome has no direct financial-services or insurance-sector implication beyond the underlying liability exposure and any insurance coverage questions that may exist around the verdict itself.",
-      "talking_points": [
-        "SCOTUS declined appeal; $5M defamation verdict likely final unless reconsideration granted\u2014extremely rare motion.",
-        "No disclosed insurance coverage or FIG angle; purely legal/political story with tangential interest to insurance underwriting or litigation risk."
-      ],
-      "topics": [
-        "litigation-risk",
-        "contingent-liability"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
     "id": "379fa27b6cd4",
     "title": "Is Alexander Calder the great American artist?",
     "url": "https://marginalrevolution.com/marginalrevolution/2026/07/is-alexander-calder-the-great-american-artist.html?utm_source=rss&utm_medium=rss&utm_campaign=is-alexander-calder-the-great-american-artist",
@@ -4348,20 +4245,23 @@
     }
   },
   {
-    "id": "94ed00f39fe4",
-    "title": "How you as an investor can get ahead of the next AI investment wave",
-    "url": "https://www.marketwatch.com/story/how-you-as-an-investor-can-get-ahead-of-the-next-ai-investment-wave-ffc6512a?mod=mw_rss_topstories",
+    "id": "af9c0f180260",
+    "title": "My doctor friend objected to his hospital\u2019s fundraising tactics. Did management go too far?",
+    "url": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-02T14:53:00+00:00",
-    "summary_raw": "Also in Weekend Reads: Eldercare and family relationships, stock-market prospects for the second half of 2026, and how to set your summer streaming budget.",
+    "date": "2026-07-02T15:00:00+00:00",
+    "summary_raw": "\u201cThis shocking program was exploiting doctors and the trust inherent in their relationships with patients.\u201d",
     "summary_ai": {
-      "digest": "MarketWatch weekend roundup covering AI investment positioning, eldercare trends, H2 2026 market outlook, and consumer spending \u2014 no new data or actionable market signal.",
-      "summary_long": "This is a weekend digest aggregating lifestyle and market commentary. The AI piece appears to be part of a broader feature mix that includes family caregiving, equity-market commentary for the second half of 2026, and entertainment budgeting. No specific thesis, valuation framework, or market-timing catalyst is indicated in the excerpt. The piece reads as consumer-facing editorial rather than institutional or FIG-specific analysis.",
-      "talking_points": null,
+      "digest": "A physician at a major hospital system questioned management's aggressive patient fundraising tactics that leveraged doctor\u2013patient trust relationships.",
+      "summary_long": "The article profiles a doctor who raised concerns about his hospital's fundraising program that appeared to ask physicians to solicit donations from patients during clinical encounters. The doctor characterized this as exploitative of the inherent trust in physician\u2013patient relationships and potentially unethical. The piece uses this anecdote to examine broader tensions between hospital financial pressures and clinical integrity, but does not name specific institutions, quantify the practice, or provide regulatory or governance response.",
+      "talking_points": [
+        "Hospital fundraising programs that blur clinical and development roles risk eroding patient trust and may trigger physician\u2013compliance friction.",
+        "No regulatory action or industry-wide pushback is documented; this remains a isolated case study, not a sector trend."
+      ],
       "topics": [
-        "market-commentary",
-        "ai-investing"
+        "hospital-governance",
+        "nonprofit-finance"
       ],
       "highlight": null,
       "relevance": 2
@@ -4383,6 +4283,99 @@
       ],
       "topics": [
         "wealth-management-culture"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "262f3590287d",
+    "title": "Palantir\u2019s stock bounces back as analyst cheers company\u2019s unique AI advantage",
+    "url": "https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T15:15:00+00:00",
+    "summary_raw": "The software company\u2019s shares have gotten off to a strong start this month following a weak run in June.",
+    "summary_ai": {
+      "digest": "Palantir shares rebounded in early July after June weakness; analyst cites AI competitive moat as driver.",
+      "summary_long": "Palantir Technologies has seen its stock price recover after underperforming in June. An analyst has publicly attributed the rebound to the company's differentiated position in AI, particularly in data integration and analysis capabilities that serve enterprise and government clients. The piece positions Palantir as having a structural advantage in AI deployment relative to competitors. For a FIG analyst, the relevance is limited\u2014Palantir is software/defense tech, not a financial services company, and the story is stock-price movement + analyst opinion rather than business fundamentals or deal context.",
+      "talking_points": [
+        "Stock rebound is being justified on AI competitive moat, not on earnings or deal activity.",
+        "Palantir's strength in data integration may appeal to banks rebuilding legacy infrastructure, but the company operates outside traditional FIG coverage."
+      ],
+      "topics": [
+        "palantir",
+        "software-stocks",
+        "ai-competitive-advantage"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "010304553405",
+    "title": "America at 250: What the Original Colonies Tell Us About Modern CMBS",
+    "url": "https://www.trepp.com/trepptalk/america-at-250",
+    "source": "Trepp Talk",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-02T15:30:01+00:00",
+    "summary_raw": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://www.trepp.com/trepptalk/america-at-250\" title=\"\"> <img alt=\"America at 250: What the Original Colonies Tell Us About Modern CMBS\" class=\"hs-featured-image\" src=\"https://www.trepp.com/hubfs/Flags%20Parade%20Times%20Square%2c%20New%20York%20(min).jpg\" style=\"width: auto !important; float: left; margin: 0 15px 15px 0;\" /> </a> \n</div> \n<p style=\"font-weight: bold; line-height: 2;\"><span style=\"color: #000000; ",
+    "summary_ai": {
+      "digest": "Trepp publishes historical analogy piece connecting colonial America to modern commercial mortgage-backed securities; no deal, regulatory, or capital news disclosed in excerpt.",
+      "summary_long": "The article appears to use America's 250th anniversary as a framing device to draw parallels between colonial-era financial structures and contemporary CMBS. Without access to the full text, the excerpt provides only a title and header image, suggesting a long-form thematic or educational piece rather than breaking news or market-moving analysis. Trepp is a CMBS and commercial real estate data provider, so the piece likely aims to contextualize CMBS trends within a historical narrative. No specific deals, spreads, default rates, or regulatory actions are signaled in the available material.",
+      "talking_points": [
+        null
+      ],
+      "topics": [
+        "CMBS",
+        "commercial real estate",
+        "historical analysis"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "ac0a3c5c3ea1",
+    "title": "JFLCO-backed Wrist Group acquires maritime logistics services provider MSA",
+    "url": "https://www.pehub.com/jflco-backed-wrist-group-acquires-maritime-logistics-services-provider-msa/",
+    "source": "PE Hub",
+    "section": "PE & Deals",
+    "date": "2026-07-02T16:54:41+00:00",
+    "summary_raw": "<p>Wrist Group is a Danish marine supply provider and logistics for the maritime industry.</p>\n<p>The post <a href=\"https://www.pehub.com/jflco-backed-wrist-group-acquires-maritime-logistics-services-provider-msa/\">JFLCO-backed Wrist Group acquires maritime logistics services provider MSA</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
+    "summary_ai": {
+      "digest": "JFLCO-backed Wrist Group acquires maritime logistics provider MSA. No deal size, terms, or strategic rationale disclosed.",
+      "summary_long": "Wrist Group, a Danish marine supply and logistics company backed by JFLCO (a PE investor), has acquired MSA, a maritime logistics services provider. The announcement provides minimal detail: no purchase price, deal structure, financing terms, or stated synergies. This appears to be a bolt-on or add-on acquisition within the maritime/logistics sector, likely part of JFLCO's portfolio construction or Wrist Group's organic roll-up strategy. Without size, leverage, or exit signals, the deal has limited relevance to FIG M&A or capital markets trends.",
+      "talking_points": [
+        "Wrist Group (JFLCO-backed) acquires MSA\u2014typical mid-market maritime add-on with no disclosed terms or size.",
+        "Sparse announcement limits deal-flow intel: no pricing, capital structure, or synergy narrative visible."
+      ],
+      "topics": [
+        "maritime-logistics",
+        "pe-add-on",
+        "roll-up"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "aa375f370f85",
+    "title": "Ex-Michigan Police Lieutenant Pleads Guilty to Falsifying Salvage Vehicle Inspections",
+    "url": "https://www.insurancejournal.com/news/midwest/2026/07/02/876172.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-02T16:55:17+00:00",
+    "summary_raw": "A former Lincoln Township, Michigan Police Department Detective Lieutenant has pled no contest to falsifying salvage vehicle inspections, announced Michigan Attorney General Dana Nessel. Johnathan Chase, 54, of Stevensville, pled to one count of Misconduct in Office and one count &#8230;",
+    "summary_ai": {
+      "digest": "Michigan police lieutenant pleaded no contest to falsifying salvage vehicle inspections. Isolated criminal case with no systemic insurance or regulatory read-through.",
+      "summary_long": "A former Lincoln Township police detective pleaded no contest to misconduct in office and falsifying salvage vehicle inspections. The case appears to involve individual fraud rather than institutional failure or a broader scheme. No indication of impact on insurance underwriting, claims, or regulatory policy. This is a local law enforcement criminal matter with no clear implications for insurance operations, pricing, or capital.",
+      "talking_points": [
+        "Individual criminal case; no systemic insurance fraud or underwriting weakness signaled.",
+        "No deal, capital, or regulatory trigger for the insurance sector."
+      ],
+      "topics": [
+        "insurance-fraud-criminal"
       ],
       "highlight": null,
       "relevance": 2
@@ -4533,21 +4526,48 @@
     "summary_raw": "Make sense of the latest business and policy headlines with our daily newsletter.",
     "summary_ai": {
       "digest": "Newsletter signup prompt for DealBook, NYT's daily business and policy briefing.",
-      "summary_long": "This is a promotional item for The New York Times' DealBook newsletter, which aggregates business headlines, policy developments, and market moves. No substantive content is provided\u2014only a sign-up call-to-action. It does not contain data, analysis, or news relevant to financial institutions, deals, rates, or career intelligence.",
-      "talking_points": [],
-      "topics": [],
+      "summary_long": "This is a promotional page inviting subscription to DealBook, the New York Times' established daily newsletter covering business, markets, policy, and deal news. The excerpt provides no substantive content\u2014only a signup call-to-action. There is no analytical or data-driven information to assess, no market signal, no deal announcement, and no insight into the FIG or macro environment.",
+      "talking_points": [
+        "Not applicable; this is a signup page without editorial content."
+      ],
+      "topics": [
+        "newsletter-signup"
+      ],
       "highlight": null,
       "relevance": 1
     }
   },
   {
-    "id": "60691efd2825",
-    "title": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
-    "url": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T13:00:00+00:00",
-    "summary_raw": "\u201cI\u2019m torn between these two options.\u201d",
+    "id": "20cf70139749",
+    "title": "Platinum Equity to invest in retailer Grand Appliance",
+    "url": "https://www.pehub.com/platinum-equity-to-invest-in-retailer-grand-appliance/",
+    "source": "PE Hub",
+    "section": "PE & Deals",
+    "date": "2026-07-02T15:38:29+00:00",
+    "summary_raw": "<p>The company operates 31 retail locations and five distribution centers across Wisconsin, Illinois, Indiana and Iowa.</p>\n<p>The post <a href=\"https://www.pehub.com/platinum-equity-to-invest-in-retailer-grand-appliance/\">Platinum Equity to invest in retailer Grand Appliance</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
+    "summary_ai": {
+      "digest": "Platinum Equity is investing in Grand Appliance, a 31-location retailer across the Midwest with five distribution centers.",
+      "summary_long": "Platinum Equity, a sector-agnostic PE firm, has announced an investment in Grand Appliance, a regional appliance retailer operating 31 stores and five distribution centers across Wisconsin, Illinois, Indiana, and Iowa. The excerpt provides minimal detail on deal size, structure, or investment thesis. This is a lower-middle-market consumer retail deal with no apparent financial services angle, regulatory catalyst, or capital markets signal relevant to FIG.",
+      "talking_points": [
+        "Platinum Equity backing a fragmented Midwest appliance retail footprint\u2014typical add-on consolidation play.",
+        "No deal size or financing structure disclosed; unable to assess capital deployment or leverage assumptions."
+      ],
+      "topics": [
+        "PE deal",
+        "retail"
+      ],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "9268eacb14b3",
+    "title": "SOITEC FY27 Thirst Quarter Revenue Conference Call",
+    "url": "https://www.globenewswire.com/news-release/2026/07/02/3321474/0/en/SOITEC-FY27-Thirst-Quarter-Revenue-Conference-Call.html",
+    "source": "GlobeNewswire \u2014 Banking (press releases)",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-02T16:02:00+00:00",
+    "summary_raw": "<p align=\"center\"><b>SOITEC FY27 First Quarter Revenue </b><br /><b>Conference Call</b></p>",
     "summary_ai": {
       "digest": null,
       "summary_long": null,
@@ -4558,33 +4578,71 @@
     }
   },
   {
-    "id": "3614c00b8556",
-    "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
-    "url": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T14:34:00+00:00",
-    "summary_raw": "\u201cPart of me would prefer to leave more to those for whom the money could make a meaningful difference.\u201d",
+    "id": "63401270cd96",
+    "title": "Oklahoma-Based Homebuilder Sued for Pregnancy Discrimination",
+    "url": "https://www.insurancejournal.com/news/southcentral/2026/07/02/876162.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-02T16:36:32+00:00",
+    "summary_raw": "H.C. Employees, LLC doing business as Home Creations, a homebuilder operating in Oklahoma and Texas, violated federal law when it fired an employee because of her pregnancy, the U.S. Equal Employment Opportunity Commission (EEOC) charged in a lawsuit announced today. &#8230;",
     "summary_ai": {
-      "digest": "Estate-planning advice column on unequal bequests to nieces/nephews; no financial data, regulatory change, or market signal.",
-      "summary_long": "A MarketWatch advice column addresses a reader's concern about leaving unequal amounts to relatives based on perceived need or life stage. The framing is emotional and interpersonal\u2014which nieces/nephews 'deserve' more based on circumstance\u2014rather than strategic or market-informed. No data on wealth transfer trends, tax law, trust structures, or asset allocation are provided. This is personal finance advice, not market intelligence or deal context.",
-      "talking_points": [],
+      "digest": "EEOC sued Oklahoma homebuilder Home Creations for pregnancy discrimination, alleging illegal termination under federal law.",
+      "summary_long": "The U.S. Equal Employment Opportunity Commission filed a lawsuit against H.C. Employees, LLC (doing business as Home Creations), an Oklahoma and Texas homebuilder, alleging it violated federal employment law by firing an employee due to pregnancy. The case represents enforcement action under Title VII of the Civil Rights Act and related statutes protecting pregnant workers. While the lawsuit names a regional homebuilder rather than a financial institution, it signals broader EEOC enforcement intensity in the post-pandemic cycle. No settlement amount or remedies are disclosed in the announcement, but precedent suggests exposure to back pay, compensatory damages, and injunctive relief. The case has no direct bearing on FIG M&A, capital raises, or fintech strategy.",
+      "talking_points": [
+        "Homebuilder litigation doesn't move FIG deal flow or capital markets.",
+        "This is an HR/employment law matter, not a financial services regulatory or M&A trigger.",
+        "EEOC enforcement intensity is worth monitoring for labor cost and litigation-reserve implications at PE-owned contractors, but not a sector-level capital event."
+      ],
       "topics": [
-        "estate-planning",
-        "personal-finance"
+        "employment-law",
+        "regulatory-enforcement"
       ],
       "highlight": null,
       "relevance": 1
     }
   },
   {
-    "id": "af9c0f180260",
-    "title": "My doctor friend objected to his hospital\u2019s fundraising tactics. Did management go too far?",
-    "url": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
+    "id": "3614c00b8556",
+    "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
+    "url": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-02T15:00:00+00:00",
-    "summary_raw": "\u201cThis shocking program was exploiting doctors and the trust inherent in their relationships with patients.\u201d",
+    "date": "2026-07-02T17:30:00+00:00",
+    "summary_raw": "\u201cPart of me would prefer to leave more to those for whom the money could make a meaningful difference.\u201d",
+    "summary_ai": {
+      "digest": null,
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "a4ec82660e47",
+    "title": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+    "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T17:43:00+00:00",
+    "summary_raw": "\u201cShe thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.\u201d",
+    "summary_ai": {
+      "digest": null,
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "6841451c6134",
+    "title": "Concerts are increasingly for superfans and the rich, analysts say",
+    "url": "https://www.marketwatch.com/story/concerts-are-increasingly-for-superfans-and-the-rich-analysts-say-867b0284?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T18:18:00+00:00",
+    "summary_raw": "Some arenas are devoting nearly a third of their space to premium seats and services.",
     "summary_ai": {
       "digest": null,
       "summary_long": null,
