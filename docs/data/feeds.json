@@ -1111,32 +1111,6 @@
     }
   },
   {
-    "id": "4921e9f7390e",
-    "title": "Paysera becomes direct Visa member",
-    "url": "https://www.finextra.com/pressarticle/110334/paysera-becomes-direct-visa-member?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-02T15:03:00+00:00",
-    "summary_raw": "Paysera LT, UAB has obtained the status of a direct Visa member (Issuing Principal Member) \u2013 one of the highest statuses in the payments industry.",
-    "summary_ai": {
-      "digest": "Paysera LT obtained direct Visa member (Issuing Principal Member) status, eliminating intermediaries in card issuance and reducing operating costs.",
-      "summary_long": "Paysera, a fintech payments platform, has achieved direct membership with Visa as an Issuing Principal Member\u2014a tier that allows it to issue cards directly without relying on sponsoring banks. This status removes intermediaries in the card-issuance chain, reduces compliance burden and operational friction, and likely improves unit economics by cutting sponsorship fees and settlement costs. The move signals Paysera's scale and compliance maturity; it also positions the firm to compete more aggressively in embedded payments and white-label card programs. For regional and specialty fintech platforms, this is a competitive signal: direct membership becomes table stakes for growth at scale.",
-      "talking_points": [
-        "Paysera became a Visa Issuing Principal Member\u2014cutting out sponsoring bank intermediaries entirely.",
-        "Direct membership reduces card-issuance costs, compliance overhead, and settlement friction\u2014material margin improvement at scale.",
-        "This is a validation milestone: only mature, well-capitalized fintechs obtain direct status, and it enables aggressive white-label and embedded-card strategies that threaten regional bank card portfolios."
-      ],
-      "topics": [
-        "fintech-payments",
-        "card-issuance",
-        "Visa-membership",
-        "specialty-finance"
-      ],
-      "highlight": "Paysera eliminated the sponsoring bank layer by obtaining direct Visa Issuing Principal Member status\u2014a structural cost and competitive advantage that scales.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "9f61052bd66e",
     "title": "Cedents Find Competitive Market Conditions at Midyear Reinsurance Renewals: Brokers",
     "url": "https://www.insurancejournal.com/news/international/2026/07/02/876137.htm",
@@ -1213,54 +1187,55 @@
     }
   },
   {
-    "id": "17862c3d797e",
-    "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
-    "url": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-06-30T18:27:17+00:00",
-    "summary_raw": "\"We've got inflation that's too high, and it's been too high for the past five years,\" Beth Hammack told CNBC's Sara Eisen.",
+    "id": "649d69d8b653",
+    "title": "The dollar\u2019s strength is quietly risking another yen \u2018carry trade\u2019 blowup",
+    "url": "https://www.marketwatch.com/story/the-dollars-strength-is-quietly-risking-another-yen-carry-trade-blowup-9d42e159?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T18:37:00+00:00",
+    "summary_raw": "There\u2019s a lot riding in markets on the current yen-dollar balance.",
     "summary_ai": {
-      "digest": "Cleveland Fed President Beth Hammack warns that AI adoption could stoke inflation, potentially necessitating further rate hikes despite five years of elevated price pressures.",
-      "summary_long": "Hammack's remarks signal internal Fed concern that AI productivity gains\u2014typically deflationary\u2014may be offset by energy demand, wage pressures, or pricing power in concentrated sectors. Her framing of a five-year inflation overshoot suggests the Fed is not yet confident in its disinflation trajectory, even as markets price in rate cuts. This matters for FIG because sustained-rate-hold messaging shrinks the NIM compression relief banks have been anticipating and prolongs refinancing headwinds for borrowers. It also suggests the Fed is unlikely to pivot aggressively if Q3 inflation data disappoints, keeping regional bank deposit costs elevated and NIM pressure persistent.",
+      "digest": "USD strength is widening the yen carry-trade spread again, recreating conditions similar to August 2024's flash crash; market positioning in FX and leveraged strategies could amplify any yen spike.",
+      "summary_long": "The article flags that dollar strength is pushing the USD/JPY pair higher, expanding the carry-trade differential that makes borrowing yen cheap and investing in higher-yielding USD assets profitable. This mirrors the setup before August 2024's sudden yen appreciation triggered a global selloff as carry traders unwound positions simultaneously. The concern is that positioning in derivatives, ETFs, and leveraged strategies has rebuilt to levels that could accelerate any reversal if the BoJ tightens, Fed pauses, or risk sentiment shifts. The piece doesn't name specific triggering events but warns that thin liquidity in key markets could amplify volatility if forced deleveraging begins.",
       "talking_points": [
-        "Cleveland Fed president explicitly links AI adoption to inflation risk, not deflation\u2014contradicts the consensus case for AI-driven rate cuts.",
-        "Five-year inflation overshoot language suggests the Fed sees structural pricing power, not transitory factors\u2014more hawkish than recent Powell commentary.",
-        "If AI-inflation thesis gains traction internally, regional banks' NIM recovery timeline extends; deposit wars don't ease soon."
+        "USD/JPY carry spread has re-widened to 2024 levels \u2014 the exact setup that preceded the August flash crash.",
+        "Leveraged positioning in derivatives and ETFs has rebuilt; a sudden yen spike could trigger cascading unwinds across correlated assets.",
+        "BoJ tightening or Fed pivot would be the most likely catalyst; watch yen volatility and cross-currency basis for early warning signs."
       ],
       "topics": [
-        "Fed policy",
-        "inflation outlook",
-        "NIM pressure",
-        "rate path"
+        "carry-trade-risk",
+        "JPY-USD-FX",
+        "leverage-unwind",
+        "market-liquidity"
       ],
-      "highlight": "Hammack's framing of AI as an inflation *risk* rather than a deflationary force directly contradicts market expectations for rate cuts and extends the duration of elevated funding costs for regional banks.",
-      "relevance": 6
+      "highlight": "Carry-trade positioning has reset to pre-August 2024 levels\u2014watch yen volatility and cross-currency basis spreads as early signals of forced deleveraging.",
+      "relevance": 7
     }
   },
   {
-    "id": "563a98495599",
-    "title": "Heavy AI Adoption Linked To More Hiring, Not Layoffs, New Data Shows",
-    "url": "https://www.bigtechnology.com/p/heavy-ai-adoption-linked-to-more",
-    "source": "Big Technology (Alex Kantrowitz)",
-    "section": "Learn",
-    "date": "2026-06-30T19:38:01+00:00",
-    "summary_raw": "A new Ramp study shows that the companies spending the most on AI are actually hiring more and not cutting the workforce.",
+    "id": "be693ff73d6c",
+    "title": "Why June\u2019s jobs and inflation data are bullish for bonds",
+    "url": "https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T19:01:00+00:00",
+    "summary_raw": "The new jobs report is worse than many people realize.",
     "summary_ai": {
-      "digest": "Ramp data shows heavy AI-spending companies are hiring, not laying off; contradicts the automation-kills-jobs narrative that has dominated tech discourse.",
-      "summary_long": "A Ramp study of companies with high AI spending finds net hiring growth rather than workforce reduction. The counterintuitive result challenges the widespread assumption that AI adoption drives immediate headcount cuts. The implied read: companies deploying AI are growing revenue or expanding capacity faster than they're automating roles away. This matters for thinking about AI's actual labor market impact\u2014not a binary replacement story but a productivity multiplier that can support headcount growth in growing firms. The finding is especially relevant to financial services, where AI adoption in trading, ops, and compliance is accelerating but hasn't yet triggered mass layoffs.",
+      "digest": "June jobs report shows softer labor market than headline suggests; softer labor data combined with easing inflation creates room for Fed rate cuts, supporting bond valuations.",
+      "summary_long": "The article argues that June's employment data, while headline-positive, masks underlying weakness in job creation and hours worked. Combined with moderating inflation prints, this suggests the Fed may have more flexibility to cut rates than markets are currently pricing. For bond traders and those managing FIG funding costs, a softer labor market reduces stagflation risk and could extend favorable financing conditions into H2. The implication: bond yields have room to compress if the Fed shifts to an easing bias sooner than consensus expects, which would benefit banks' net interest margin compression but improve their securities portfolio values and refinancing optionality.",
       "talking_points": [
-        "Ramp study: companies with highest AI spend are hiring more, not cutting; flips the automation-kills-jobs narrative.",
-        "Implication: AI is a productivity multiplier in growth companies, not a simple headcount replacement tool.",
-        "For FIG: compliance automation, trading algorithms, and ops efficiency tools can coexist with headcount growth if revenue growth is strong\u2014changes the M&A labor-arbitrage calculus."
+        "June jobs miss is bigger than headline\u2014look at hours worked and labor force participation for the real slack signal.",
+        "Inflation moderating + weak jobs = Fed pivot risk is now real; bonds pricing in cuts sooner than 3\u20136 months ago.",
+        "For regional banks especially, falling rates crimp NIM but unlock higher deposit betas and improve mark-to-market on bond portfolios held for liquidity."
       ],
       "topics": [
-        "AI-adoption-labor-market",
-        "business-productivity",
-        "tech-workforce-trends"
+        "Fed rate path",
+        "labor market",
+        "bond yields",
+        "financial-sector funding"
       ],
-      "highlight": "High-AI-spending companies are net hiring\u2014suggests AI amplifies revenue growth more than it substitutes labor, which reframes how to think about automation ROI in financial services M&A.",
-      "relevance": 6
+      "highlight": "Softer jobs data + moderating inflation combo signals potential Fed pivot sooner than consensus, reshaping regional bank NIM and securities valuations.",
+      "relevance": 7
     }
   },
   {
@@ -2654,6 +2629,109 @@
     }
   },
   {
+    "id": "e100ad47dcb8",
+    "title": "When a DST Actually Fits an RIA's Client",
+    "url": "https://www.wealthmanagement.com/real-estate/when-a-dst-actually-fits-an-ria-s-client",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-02T19:23:00+00:00",
+    "summary_raw": "DSTs are right for a specific kind of client and wrong for plenty of others.",
+    "summary_ai": {
+      "digest": "DSTs (Delegated Service Trustees) suit clients with specific needs\u2014likely those holding alternative assets or requiring specialized administration\u2014but are misaligned for most RIA book builds.",
+      "summary_long": "DSTs are third-party custodians/trustees that handle account administration, reporting, and compliance on behalf of RIAs and their clients. The article clarifies that DSTs are not a universal fit: they excel when clients hold illiquid or complex assets (private equity, real estate, cryptocurrency) where standard brokers lack expertise, or when RIAs want to outsource regulatory burden and reduce operational cost. Conversely, DSTs destroy economics for vanilla equity/bond portfolios and can complicate client communication. The framing suggests consolidation pressure: RIAs cherry-picking DSTs for niche clients signals a fragmented ecosystem where scale and specialization matter more than commodity custody.",
+      "talking_points": [
+        "DSTs are viable for <20% of RIA client bases\u2014those holding alts, real estate, or crypto\u2014making them a specialization play, not a mass-market solution.",
+        "Using a DST for traditional securities clients costs more and adds friction; RIAs need clear client segmentation to justify the overhead.",
+        "DST adoption is a leading indicator of RIA M&A attractiveness: shops with clean alt-asset books + existing DST relationships become acquisition targets for platforms seeking high-net-worth diversification."
+      ],
+      "topics": [
+        "RIA custody strategy",
+        "alternative asset administration",
+        "DST business model"
+      ],
+      "highlight": "DSTs are right for <20% of client types (illiquid/complex assets) and wrong for most\u2014RIAs must segment ruthlessly or destroy economics.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "92638a28735e",
+    "title": "BCI seeks \u2018good returns\u2019 from newly launched capital solutions strategy",
+    "url": "https://www.buyoutsinsider.com/bci-seeks-good-returns-from-newly-launched-capital-solutions-strategy/",
+    "source": "Buyouts Insider",
+    "section": "PE & Deals",
+    "date": "2026-07-02T20:04:06+00:00",
+    "summary_raw": "While more LPs are participating directly in CVs and secondaries transactions, such investors remain 'the exception, not the norm' in the market, according to BCI\u2019s global head of PE.",
+    "summary_ai": {
+      "digest": "BCI launched a capital solutions strategy targeting direct LP participation in continuation vehicles and secondaries. The firm positions this as an emerging LP trend, though most investors still outsource these transactions.",
+      "summary_long": "BCI, a pension-backed PE investor, has formalized a capital solutions unit to manage continuation vehicles (CCs) and secondary transactions. The strategy reflects a broader shift where sophisticated LPs increasingly deploy capital directly into these deals rather than relying solely on GPs. However, BCI's global PE head notes that direct LP participation remains limited\u2014most institutional investors still lack the operational bandwidth or expertise to source and execute these deals independently. This positions BCI as an early mover in a market where secondaries and CCs are growing faster than traditional PE exits. The unit targets 'good returns' by capturing management fees and carry on transactions that would otherwise flow to specialist secondaries firms.",
+      "talking_points": [
+        "BCI launching dedicated capital solutions unit signals LP appetite to internalize secondary and CC sourcing\u2014a function traditionally owned by GP-led firms and Coller/Lexington-type specialists.",
+        "Direct LP participation in CCs and secondaries remains 'the exception, not the norm'\u2014meaning most institutional capital still flows through GPs, leaving room for BCI to capture deal-flow friction.",
+        "This is a quasi-alternate asset strategy play for a large pension: lower fundraising friction, direct economics, and access to deal-flow other LPs can't source."
+      ],
+      "topics": [
+        "PE capital solutions",
+        "continuation vehicles",
+        "LP direct investment",
+        "secondaries market",
+        "PE deal-flow"
+      ],
+      "highlight": "BCI formalizing a capital solutions unit to compete for secondaries and CC transactions signals a shift in how large LPs are capturing economics traditionally reserved for specialist GPs and secondaries firms.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "e323eb460803",
+    "title": "Stop screeching about immigration, and get smart about it",
+    "url": "https://www.noahpinion.blog/p/stop-screeching-about-immigration",
+    "source": "Noahpinion (Noah Smith)",
+    "section": "Learn",
+    "date": "2026-07-02T20:05:15+00:00",
+    "summary_raw": "The culture war is making it impossible for us to deal with declining population.",
+    "summary_ai": {
+      "digest": "Noah Smith argues that polarized immigration debate obscures economic reality: developed economies face demographic decline and need skilled migration to sustain growth and tax bases.",
+      "summary_long": "Smith contends that both restrictionist and open-borders camps are locked in unproductive rhetoric that prevents pragmatic policy. The actual issue is demographic: birth rates in developed economies have fallen below replacement, threatening labor supply, tax revenue, and entitlement solvency. He frames immigration not as a cultural question but as an economic necessity tied to labor force participation, aging populations, and fiscal sustainability. The piece advocates for evidence-based discussion of skill-matching, sector needs, and fiscal impact rather than ideological posturing. For financial services specifically, this directly affects bank profitability (labor scarcity, consumer base growth), PE deployment (demographic headwinds in developed markets), and regulatory burden (compliance costs rise as population ages without tax-base growth).",
+      "talking_points": [
+        "Demographic decline, not culture war, is the real immigration issue\u2014developed markets need skilled migration to sustain labor supply and tax bases.",
+        "Banks and PE face direct economic exposure: shrinking working-age population \u2192 lower loan origination, compressed return on deployed capital, and higher compliance costs per taxpayer.",
+        "This reframes FIG consolidation thesis: M&A in mature markets becomes defensive (to scale expenses), not growth-driven, unless immigration policy shifts to boost addressable market."
+      ],
+      "topics": [
+        "demographics",
+        "labor-economics",
+        "policy-framework"
+      ],
+      "highlight": "Developed economies below replacement birth rate need immigration to sustain tax revenue and entitlement systems\u2014a fiscal, not cultural, argument that directly affects bank loan growth and PE fund returns.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "fb35541b4e8b",
+    "title": "Square adds ChatGPT and Claude integrations",
+    "url": "https://www.finextra.com/pressarticle/110338/square-adds-chatgpt-and-claude-integrations?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-02T21:05:00+00:00",
+    "summary_raw": "Square today announced a new ChatGPT app and Claude plugin, helping sellers get discovered and transact at the exact moment customers are making purchasing decisions through AI-powered conversations.",
+    "summary_ai": {
+      "digest": "Square integrates ChatGPT and Claude into its seller platform to enable AI-driven transaction discovery and checkout within conversational interfaces.",
+      "summary_long": "Square announced native integrations with OpenAI's ChatGPT and Anthropic's Claude, embedding its payment infrastructure into AI chatbot conversations. The play is to capture transaction intent at the moment of decision\u2014sellers can be discovered and customers can complete purchases without leaving the chat. This extends Square's specialty-finance thesis (embedded payments, point-of-sale, omnichannel monetization) into the AI-native commerce layer. No capital terms, valuation, or M&A announced, but signals Square's strategic pivot toward conversational commerce and AI-powered monetization of merchant networks.",
+      "talking_points": [
+        "Square is threading its payment rails into LLM-native commerce\u2014capturing GPT/Claude users as a distribution channel for its seller base.",
+        "This is embedded fintech play: payments disappear into the UX moment, not a separate checkout experience.",
+        "Tests whether AI-driven discovery (sellers promoted in chat context) can move transaction volume and merchant wallet share without incremental seller acquisition cost."
+      ],
+      "topics": [
+        "embedded payments",
+        "fintech integration",
+        "AI commerce",
+        "specialty finance"
+      ],
+      "highlight": "Square monetizes conversational AI by embedding seller discovery and payment settlement directly into ChatGPT/Claude\u2014a distribution and revenue angle that doesn't require Square to build the LLM.",
+      "relevance": 6
+    }
+  },
+  {
     "id": "715aeab90bb2",
     "title": "Barings on the key drivers boosting infra debt growth",
     "url": "https://www.privatedebtinvestor.com/barings-on-the-key-drivers-boosting-infra-debt-growth/",
@@ -2778,57 +2856,6 @@
         "venture volatility"
       ],
       "highlight": "The reprieve is conditional and narrow\u2014Anthropic's fundamental regulatory uncertainty persists, making long-term AI vendor partnerships riskier for FIG deployers.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "282c706a7eb0",
-    "title": "IRS: Contributions to Trump Accounts Within Safe Harbor Don\u2019t Require Gift Tax Returns",
-    "url": "https://www.wealthmanagement.com/high-net-worth/irs-contributions-to-trump-accounts-within-safe-harbor-don-t-require-gift-tax-returns",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-01T15:04:33+00:00",
-    "summary_raw": "A New Revenue Procedure provides disparate treatment for taxpayers.",
-    "summary_ai": {
-      "digest": "IRS issued a new Revenue Procedure clarifying that contributions to Trump-branded accounts meeting safe-harbor criteria do not trigger gift tax filing requirements, creating differential treatment for certain account structures.",
-      "summary_long": "The IRS has released guidance (via Revenue Procedure) establishing a safe harbor for contributions to Trump-branded or Trump-affiliated accounts. Contributions meeting specified criteria avoid the filing burden and compliance risk of gift tax returns. This creates a compliance advantage for accounts structured within the safe harbor versus those outside it, likely affecting custodian positioning and account setup practices. The disparate treatment signals potential regulatory attention to account structuring and suggests the IRS is drawing formal lines around permissible account design. For wealth managers and custodians, this clarifies filing obligations but also flags which account types may face heightened scrutiny if they fall outside the safe harbor.",
-      "talking_points": [
-        "New IRS safe harbor exempts certain Trump-account contributions from gift tax return filing\u2014a compliance win for compliant account structures.",
-        "Disparate treatment between safe-harbor and non-safe-harbor accounts creates a structural incentive; custodians will likely migrate clients into compliant wrappers.",
-        "This is targeted account-structure guidance, not a blanket tax exemption\u2014the IRS is drawing bright lines, which suggests enforcement risk for accounts outside the safe harbor."
-      ],
-      "topics": [
-        "IRS guidance",
-        "wealth management compliance",
-        "account structuring",
-        "gift tax"
-      ],
-      "highlight": "Safe-harbor structure eliminates gift tax filing requirement for compliant Trump-account contributions, creating a competitive advantage for custodians who adopt the framework.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "7c179228649f",
-    "title": "\u2018Taylor Swift Tax\u2019 Stirs Bad Blood With Rhode Island Homeowners",
-    "url": "https://www.wealthmanagement.com/high-net-worth/-taylor-swift-tax-stirs-bad-blood-with-rhode-island-homeowners",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-01T15:06:15+00:00",
-    "summary_raw": "Under an annual property tax measure that takes effect Wednesday, the state will collect $5 for every $1,000 that a vacation home\u2019s value is assessed over $1 million.",
-    "summary_ai": {
-      "digest": "Rhode Island enacts $5 per $1,000 annual tax on vacation homes valued over $1M, effective immediately. Policy targets high-value second-home owners and signals state-level wealth taxation trend.",
-      "summary_long": "Rhode Island's new vacation property tax imposes a 0.5% annual levy on assessed value above the $1M threshold\u2014a direct wealth tax on non-primary residences. The measure, colloquially dubbed the 'Taylor Swift Tax,' is designed to fund affordable housing and education. This represents an escalating state-level approach to taxing wealth concentration, particularly among high-net-worth individuals with multiple properties. For wealth management and tax planning, the development signals rising state willingness to tax alternative assets and vacation real estate, a category traditionally lightly taxed. The policy may reshape demand for second homes in high-tax states and create arbitrage opportunities for advisors repositioning client real estate.",
-      "talking_points": [
-        "Rhode Island's 0.5% annual tax on vacation homes over $1M is a direct state wealth tax\u2014expect copycat legislation in other blue states and increased advisory demand for tax-efficient property structuring.",
-        "This targets the vacation-home segment specifically, suggesting state revenue pressures and a shift toward taxing illiquid wealth that wasn't historically taxed annually.",
-        "Wealth managers should anticipate client repositioning: either liquidating RI properties, holding in family trusts, or relocating residency\u2014all advisory workflow drivers."
-      ],
-      "topics": [
-        "state-wealth-taxation",
-        "high-net-worth-planning",
-        "real-estate-tax-policy"
-      ],
-      "highlight": "0.5% annual levy on vacation homes over $1M signals state-level wealth tax trend that could reshape second-home demand and create tax-advisory workflow opportunities.",
       "relevance": 5
     }
   },
@@ -3132,33 +3159,6 @@
     }
   },
   {
-    "id": "7ffec6d1fba5",
-    "title": "Where can I invest my kid\u2019s \u2018Trump account\u2019 money? The Treasury Department just answered that question.",
-    "url": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T14:50:00+00:00",
-    "summary_raw": "The money in \u201cTrump accounts\u201d has to be invested in low-cost index funds \u2014 and now parents and investors are learning which funds they can actually use.",
-    "summary_ai": {
-      "digest": "Treasury Department clarified that 529 plan money earmarked for education (colloquially 'Trump accounts') must be invested in low-cost index funds; implementation details on eligible fund universe just rolled out.",
-      "summary_long": "Last year's tax law expansion allowed 529 education savings plans to roll up to $35k per beneficiary into Roth IRAs tax-free, creating a new savings vehicle parents dubbed 'Trump accounts.' The Treasury has now specified which low-cost index funds qualify for these rollovers, creating clarity on the investable universe. This is a compliance/regulatory clarification that affects the asset allocation behavior of millions of households but does not shift the underlying opportunity. The ruling removes optionality and funnels flows into a defined set of passive vehicles, which has implications for index fund adoption and active manager displacement in the mass-market retirement segment.",
-      "talking_points": [
-        "Treasury just defined the eligible fund universe for 529-to-Roth conversions\u2014parents now know which low-cost index funds they can actually use for 'Trump account' rollovers.",
-        "This regulatory clarification will accelerate passive flows into the defined fund set and likely cannibalize active management in the retail education-savings segment.",
-        "The ruling removes ambiguity but also locks in a one-way bet on index proliferation in the retail IRA space\u2014good news for custodians and cheap-beta platforms, less so for active boutiques."
-      ],
-      "topics": [
-        "529 education savings",
-        "regulatory clarity",
-        "Roth IRA conversion",
-        "passive index funds",
-        "retail investor flows"
-      ],
-      "highlight": "Treasury clarified which index funds qualify for 529-to-Roth rollovers, eliminating investor and advisor confusion and accelerating passive fund adoption in the mass-market retirement segment.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "1e98825ff560",
     "title": "New York City, Northeast Swelter in Hottest Day of the Year",
     "url": "https://www.insurancejournal.com/news/east/2026/07/02/876132.htm",
@@ -3333,28 +3333,52 @@
     }
   },
   {
-    "id": "ae9dc5560013",
-    "title": "Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public",
-    "url": "https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html",
-    "source": "Dealbook (NYT)",
-    "section": "Markets & Macro",
-    "date": "2026-06-30T18:43:00+00:00",
-    "summary_raw": "Bending Spoons, an Italian company that buys aging internet companies, is going public this week at a potential value of $19 billion.",
+    "id": "955d259d3521",
+    "title": "Noah Smith on negative emotional contagion",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/noah-smith-on-negative-emotional-contagion.html?utm_source=rss&utm_medium=rss&utm_campaign=noah-smith-on-negative-emotional-contagion",
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "section": "Learn",
+    "date": "2026-07-02T18:50:23+00:00",
+    "summary_raw": "<p>Every movement in 2020s America is defined not by what they want, but by who they hate. Rightists: Immigrants Leftists: Israel Intellectual liberals: Rich techbros Here is the link, in the last six months or so I have noticed all these trends getting worse.\u00a0 Praise goes to all those who avoid negative emotional contagion, you [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/noah-smith-on-negative-emotional-contagion.html\">Noah Smith on negative emot",
     "summary_ai": {
-      "digest": "Bending Spoons, Italian acquirer of legacy internet brands (AOL, Huffington Post, TechCrunch), is IPO'ing this week at a $19B valuation.",
-      "summary_long": "Bending Spoons has built a roll-up strategy around distressed or mature digital properties\u2014acquiring AOL from Verizon, Huffington Post from BuzzFeed, and TechCrunch from Yahoo among others. The company's model is to strip costs, consolidate ad tech, and extract cash from aging but still-profitable content and services franchises. An IPO at $19B values the strategy as a mature platform play rather than a high-growth tech bet, signaling institutional comfort with the buy-and-optimize thesis for non-core digital assets. The timing and valuation matter for understanding how strategic buyers and PE are pricing legacy-media-meets-SaaS deals in 2026.",
+      "digest": "Noah Smith argues that 2020s political movements are defined by opposition rather than positive vision\u2014rightists against immigrants, leftists against Israel, liberals against tech billionaires\u2014with negative emotional contagion accelerating across all sides.",
+      "summary_long": "Smith observes that contemporary American movements lack coherent affirmative agendas and instead cohere around shared enemies. This framing\u2014organizing by opposition rather than aspiration\u2014enables easier coalition-building but breeds resentment-driven politics. The post flags a worrying trend: negative emotional contagion is spreading, meaning each side's rage compounds the other's, creating a feedback loop of grievance. The mechanism is psychological and social, not economic or policy-driven, yet it shapes how elites and institutions respond.",
       "talking_points": [
-        "Bending Spoons IPO at $19B validates the roll-up playbook for legacy internet brands\u2014suggests a market for consolidating 'zombie' digital assets.",
-        "AOL, HuffPo, TechCrunch, and similar properties are now under one owner; speaks to the optionality in distressed digital M&A for a buyer with cost discipline.",
-        "Could signal appetite for more legacy-tech M&A at scale\u2014relevant if you're tracking fintech acqui-hires or digital-first consolidation trends."
+        "Political movements now organize around 'who we hate' rather than shared positive vision\u2014that's a structural shift worth understanding when thinking about policy stability and regulatory risk.",
+        "Negative emotional contagion accelerates when incentives reward outrage; if that dynamic is real, expect more political volatility and regulatory whiplash affecting FIG (fintech backlash, wealth tax rhetoric, crypto demonization)."
       ],
       "topics": [
-        "digital-asset-M&A",
-        "legacy-tech-consolidation",
-        "IPO-valuation"
+        "political-economy",
+        "social-dynamics",
+        "incentive-structures"
       ],
-      "highlight": "$19B IPO valuation for a roll-up of distressed internet properties (AOL, HuffPo, TechCrunch) suggests institutional appetite for legacy-digital consolidation plays.",
-      "relevance": 4
+      "highlight": "Movements defined by opposition rather than vision are inherently unstable and prone to policy reversals\u2014relevant to anyone modeling regulatory and political risk in financial services.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "4c65701eb0e4",
+    "title": "SpaceX panic sends Verizon and AT&T shares toward their worst week in years",
+    "url": "https://www.marketwatch.com/story/spacex-panic-sends-verizon-and-at-t-shares-toward-their-worst-week-in-years-ba5879a8?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T20:05:00+00:00",
+    "summary_raw": "The two telecom companies\u2019 stocks are having a terrible week as the threat of Starlink looms.",
+    "summary_ai": {
+      "digest": "Verizon and AT&T shares are down sharply this week on renewed Starlink competition fears; no new regulatory or capital event disclosed.",
+      "summary_long": "SpaceX's Starlink satellite internet service has spooked telecom investors, driving VZ and T shares toward their worst week in years. The threat is structural\u2014Starlink offers broadband to rural and underserved areas at lower cost than traditional carriers' capex-heavy buildouts, potentially eroding both customer acquisition and pricing power. This is not a new risk, but sentiment appears to have shifted, possibly on evidence of faster Starlink uptake or management commentary. No earnings, M&A, or regulatory catalyst is mentioned, making this a sentiment/valuation repricing rather than a fundamental event.",
+      "talking_points": [
+        "Starlink competitive pressure is now moving telecom equities in real time; worth monitoring whether this forces pricing, capex, or M&A strategy changes at the majors.",
+        "If VZ/AT&T lose high-margin broadband customers to satellite, their dividend sustainability and CapEx returns come under pressure\u2014banks may tighten lending or demand higher rates.",
+        "Watch for regional/rural telecom M&A or strategic reviews; consolidation may accelerate if Starlink erodes competitive moats."
+      ],
+      "topics": [
+        "telecom-competition",
+        "starlink-disintermediation",
+        "broadband-market-share"
+      ],
+      "highlight": "Verizon and AT&T shares at worst week in years; no disclosed catalyst beyond competitive positioning\u2014suggests rerating rather than news-driven move.",
+      "relevance": 5
     }
   },
   {
@@ -3528,31 +3552,6 @@
     }
   },
   {
-    "id": "d83af9245c97",
-    "title": "\u2018China\u2019s Instagram\u2019 targets male users as RedNote readies for IPO",
-    "url": "https://www.ft.com/content/bed4b1c8-6345-4a89-b356-4479783a9157",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T01:53:23+00:00",
-    "summary_raw": "Social media platform Xiaohongshu accelerates plans for Hong Kong listing",
-    "summary_ai": {
-      "digest": "Xiaohongshu, China's Instagram competitor with 300M+ users, is accelerating IPO plans for a Hong Kong listing as it pivots marketing toward male users to diversify revenue beyond its female-dominant base.",
-      "summary_long": "Xiaohongshu (RedNote) has built a dominant position in Chinese social commerce, but faces pressure to broaden its audience and monetization. The platform is known for its female-skewed user base and lifestyle/beauty content, which constrains advertiser diversity and limits growth. By targeting male users\u2014traditionally harder to engage on lifestyle platforms\u2014and pushing for a Hong Kong IPO, the company is signaling confidence in its ability to scale advertising and e-commerce GMV. The timing matters: Hong Kong listings of Chinese tech firms have reopened, and social-commerce platforms with proven monetization (Douyin, Kuaishou) command premium valuations. For Xiaohongshu, an IPO would unlock capital for product expansion and international ambitions.",
-      "talking_points": [
-        "Xiaohongshu is rebalancing its user mix away from female-dominant lifestyle toward male users to unlock new advertiser categories and reduce customer concentration risk.",
-        "Hong Kong IPO accelerates as Chinese tech-listing windows reopen; comparable social-commerce platforms (Douyin, Kuaishou) justify multi-billion-dollar valuations based on ad load and GMV.",
-        "Male audience expansion is a capital-efficiency play: same platform, new monetization angle, without building a second product."
-      ],
-      "topics": [
-        "Chinese tech IPO",
-        "social commerce",
-        "audience diversification"
-      ],
-      "highlight": "Xiaohongshu's pivot to male users is a valuation lever ahead of IPO\u2014broadens advertiser TAM and justifies premium multiple by reducing revenue concentration.",
-      "relevance": 4
-    }
-  },
-  {
     "id": "aefdb11028f8",
     "title": "Chinese energy group\u2019s shares triple in Asia\u2019s biggest IPO this year",
     "url": "https://www.ft.com/content/a5ebd692-f63c-437f-a561-b45ceb178a3f",
@@ -3653,27 +3652,126 @@
     }
   },
   {
-    "id": "87be1b2927d3",
-    "title": "If you lost money on Trump crypto ventures, don\u2019t whine",
-    "url": "https://www.marketwatch.com/story/if-you-lost-money-on-trump-crypto-ventures-dont-whine-1839a774?mod=mw_rss_topstories",
+    "id": "6841451c6134",
+    "title": "Concerts are increasingly for superfans and the rich, analysts say",
+    "url": "https://www.marketwatch.com/story/concerts-are-increasingly-for-superfans-and-the-rich-analysts-say-867b0284?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-02T15:52:00+00:00",
-    "summary_raw": "It should be no surprise the president made $1 billion on cryptocurrency deals that handed losses to so many who invested.",
+    "date": "2026-07-02T18:18:00+00:00",
+    "summary_raw": "Some arenas are devoting nearly a third of their space to premium seats and services.",
     "summary_ai": {
-      "digest": "Trump made $1 billion on crypto ventures while investors lost money; MarketWatch argues this is unsurprising and investors should accept the downside risk.",
-      "summary_long": "The article argues that Trump's $1 billion profit on cryptocurrency deals\u2014while many retail investors took losses\u2014is a predictable outcome of how crypto markets work. The piece takes a 'buyer beware' stance: investors who entered these deals knew the risk profile and should not complain about losses. The author frames this as a lesson in asymmetric information and risk tolerance rather than fraud or manipulation. The implicit argument is that crypto remains a high-risk, speculative asset class where winners and losers are determined by timing, sophistication, and access\u2014not fair dealing.",
+      "digest": "Arena operators are expanding premium seating to nearly one-third of capacity, pricing out mid-tier consumers as live entertainment becomes bifurcated between superfans and wealthy attendees.",
+      "summary_long": "Concert venues and sports arenas are deliberately shifting their seat mix toward premium, high-margin offerings\u2014luxury boxes, club seats, and exclusive experiences\u2014which now represent up to 30% of available capacity at some venues. This structural shift reflects both demand from high-income consumers and economics: premium seats generate 3\u20135x the revenue per seat of general admission, and operators are optimizing for total revenue rather than attendance volume. The trend has implications for live-entertainment company valuations (higher per-capita spending but lower overall attendance), consumer discretionary spending patterns, and the viability of mid-tier ticketing platforms. It also signals confidence among venue operators in sustained wealth concentration and willingness to cede casual concertgoers to secondary markets.",
       "talking_points": [
-        "Trump realized $1B on crypto deals while many retail participants lost money\u2014a reminder that crypto remains a high-risk, speculative asset where informational asymmetry favors insiders.",
-        "The piece reflects a broader crypto-market reality: early-mover and insider advantage is priced into these deals, not a bug.",
-        "This could become a talking point on crypto regulation and retail-investor protection if scrutinized by lawmakers or regulators."
+        "Arena operators are rationing standard seating and repricing the middle market out\u2014premium seats now ~30% of capacity, driving revenue per attendee up but total attendance down.",
+        "This mirrors luxury-goods bifurcation: high-income consumers fund venues through premium pricing; casual fans migrate to resale markets or skip shows entirely.",
+        "For FIG/PE, watch live-entertainment SPACs, ticketing platforms, and venue REIT valuations\u2014the model is shifting from volume to yield, which changes both valuation multiples and refinancing risk."
       ],
       "topics": [
-        "crypto-regulation",
-        "retail-investor-protection",
-        "Trump-crypto"
+        "consumer-discretionary-bifurcation",
+        "venue-economics",
+        "live-entertainment-valuations"
       ],
-      "highlight": "Trump's $1B crypto gain on deals that generated losses for retail investors illustrates the persistent insider-advantage dynamics in unregulated crypto markets.",
+      "highlight": "Premium seating now represents ~30% of arena capacity\u2014a structural repricing that favors wealth-concentrated attendees and reshapes the financial profile of live-entertainment companies.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "ba7e9aa5f431",
+    "title": "WealthStack Roundup: Orion Achieves ISO 42001 AI Certification",
+    "url": "https://www.wealthmanagement.com/artificial-intelligence/orion-achieves-iso-42001-ai-certification",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-02T18:45:21+00:00",
+    "summary_raw": "The advisor technology firm joins a small group of firms globally with the AI management system standard, including Nitrogen.",
+    "summary_ai": {
+      "digest": "Orion gained ISO 42001 AI certification for its advisor technology platform, joining a small global cohort including Nitrogen. This is a standards milestone, not a deal or capital event.",
+      "summary_long": "Orion, a leading advisor-facing technology vendor, has achieved ISO 42001 certification\u2014an emerging international standard for AI management systems covering governance, risk, and responsible deployment. The certification signals Orion's commitment to standardized AI controls as wealth management firms face increasing regulatory scrutiny around algorithmic decision-making and data handling. The standard is still rare; only a handful of global firms hold it, including Nitrogen. For RIAs and their technology partners, this may become table-stakes compliance proof in due diligence as regulators (SEC, state SROs) tighten AI governance frameworks. Orion's move positions it ahead of competitors on a regulatory and reputation front.",
+      "talking_points": [
+        "Orion is now ISO 42001 certified\u2014one of very few advisor tech vendors with this AI governance standard.",
+        "As SEC and state regulators sharpen AI oversight rules, third-party certifications may become a deal-breaker in RIA platform selection.",
+        "No material deal or capital event here, but signals competitive positioning in a consolidating RIA tech stack."
+      ],
+      "topics": [
+        "RIA technology",
+        "AI governance",
+        "compliance standards"
+      ],
+      "highlight": null,
+      "relevance": 4
+    }
+  },
+  {
+    "id": "1207542d9c6c",
+    "title": "Sandwich chain Jersey Mike\u2019s files for IPO as Blackstone eyes windfall",
+    "url": "https://www.ft.com/content/e6a97eaf-b19f-4016-827b-ae069f0ce08a",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T18:54:06+00:00",
+    "summary_raw": "Private equity group targets valuation of up to $12bn for purveyor of cheesesteaks and cold-cut heroes",
+    "summary_ai": {
+      "digest": "Jersey Mike's, backed by Blackstone, files for IPO targeting a $12bn valuation. The deal marks a liquidity event for PE capital deployed into QSR.",
+      "summary_long": "Blackstone is taking Jersey Mike's public, seeking a valuation near $12bn\u2014a substantial exit from what was likely a lower entry point. The chain operates in the crowded fast-casual sandwich segment but has demonstrated unit-level growth and franchisee economics that attracted PE capital. An IPO at this valuation would require the market to price in sustained margin expansion or aggressive unit growth; a successful float would validate Blackstone's thesis on regional QSR consolidation and franchisee scalability. The deal is noteworthy not for the brand itself but as a test of PE's ability to extract returns from sub-scale restaurant operators in a rising-rate environment where consumer discretionary spending remains under pressure.",
+      "talking_points": [
+        "Blackstone targeting $12bn Jersey Mike's IPO\u2014tests whether PE can exit regional QSR at scale in a consumer-cautious environment.",
+        "Fast-casual sandwich is fragmented; success here could signal appetite for franchise consolidation plays in lower-scale verticals."
+      ],
+      "topics": [
+        "PE exit",
+        "QSR IPO",
+        "Blackstone portfolio"
+      ],
+      "highlight": "$12bn valuation target on a regional sandwich chain suggests PE confidence in franchisee-model scalability\u2014or aggressive pricing into a cautious IPO market.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "d98e7ffcf11f",
+    "title": "Healthcare group owned by Ardian has its bank accounts seized",
+    "url": "https://www.ft.com/content/6673250d-3bef-4429-b092-418ab01ccb1f",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T19:03:54+00:00",
+    "summary_raw": "Creditors told of investigation into Sant\u00e9 Cie and subsidiaries over dealings with healthcare professionals",
+    "summary_ai": {
+      "digest": "Ardian-backed Sant\u00e9 Cie's bank accounts seized; creditor probe underway into dealings with healthcare professionals. No deal size or M&A signal yet.",
+      "summary_long": "French private-equity-backed healthcare operator Sant\u00e9 Cie has had its bank accounts frozen as part of a creditor investigation into its transactions with healthcare professionals. Ardian, a large mid-market PE firm, owns the portfolio company. The seizure suggests potential financial distress, contractual disputes, or regulatory scrutiny around how the platform structures payments or relationships with its provider network\u2014a common liability in healthcare rollups. The investigation's scope (subsidiary involvement) and timing relative to Ardian's broader portfolio health remain unclear. If Sant\u00e9 Cie is a significant hold or is in distress, this could signal broader challenges in Ardian's healthcare platform plays or PE healthcare consolidation more generally.",
+      "summary_long_alt": "French private-equity-backed healthcare operator Sant\u00e9 Cie has had its bank accounts frozen as part of a creditor investigation into its transactions with healthcare professionals. Ardian, a large mid-market PE firm, owns the portfolio company. The seizure suggests potential financial distress or regulatory scrutiny around how the platform structures payments or relationships with its healthcare provider network\u2014a common liability in healthcare rollups. Without clarity on investigation scope, Sant\u00e9 Cie's size relative to Ardian's portfolio, or timeline to resolution, it's too early to call distress, but it flags operational/reputational risk in PE healthcare consolidation models.",
+      "talking_points": [
+        "Bank account seizure at Ardian-backed Sant\u00e9 Cie; creditor investigation into healthcare professional dealings.",
+        "Typical liability in healthcare platform consolidation: how you structure provider payments and network relationships can trigger regulatory or contractual pushback.",
+        "Watch for clarity on investigation scope and whether Sant\u00e9 Cie is material to Ardian's portfolio or sector-wide healthcare PE appetite."
+      ],
+      "topics": [
+        "PE healthcare consolidation",
+        "portfolio company stress",
+        "regulatory risk in provider networks"
+      ],
+      "highlight": "Bank seizure at a PE-backed healthcare operator signals potential structural risk in how these platforms monetize provider relationships\u2014relevant context if you're tracking PE healthcare deployment or distressed asset opportunities.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "c906dac9744b",
+    "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades",
+    "url": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T19:25:00+00:00",
+    "summary_raw": "Hybrids aren\u2019t a bridge to EVs anymore \u2014 instead, they\u2019re winning on function and price.",
+    "summary_ai": {
+      "digest": "Hybrid vehicle sales are accelerating as consumer preference shifts away from pure EVs, driven by lower total cost of ownership and practical range/charging concerns.",
+      "summary_long": "U.S. hybrid sales are outpacing EV growth as consumers reassess total-cost-of-ownership economics and infrastructure constraints. The shift reflects a permanent market segmentation rather than a temporary transition phase. For FIG, this has secondary implications: it affects auto finance product mix, dealer inventory financing, and captive finance competitive positioning. Lucius should note this as context for specialty finance conversations (auto lending, dealer capital, buy-here-pay-here platforms) but the piece itself lacks direct deal or credit-market signal.",
+      "talking_points": [
+        "Hybrid adoption signals a durable consumer preference split, not EV-skepticism\u2014this reshapes dealer finance and captive-lending strategies across the auto supply chain.",
+        "Total-cost-of-ownership math now favors hybrids for mid-market buyers; expect higher average loan balances and different repayment risk profiles in specialty finance portfolios."
+      ],
+      "topics": [
+        "auto-finance",
+        "consumer-credit-mix",
+        "specialty-finance"
+      ],
+      "highlight": null,
       "relevance": 4
     }
   },
@@ -3988,29 +4086,6 @@
     }
   },
   {
-    "id": "94ed00f39fe4",
-    "title": "How you as an investor can get ahead of the next AI investment wave",
-    "url": "https://www.marketwatch.com/story/how-you-as-an-investor-can-get-ahead-of-the-next-ai-investment-wave-ffc6512a?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T14:53:00+00:00",
-    "summary_raw": "Also in Weekend Reads: Eldercare and family relationships, stock-market prospects for the second half of 2026, and how to set your summer streaming budget.",
-    "summary_ai": {
-      "digest": "MarketWatch weekend column on positioning for AI investment trends, grouped with unrelated lifestyle and market commentary pieces.",
-      "summary_long": "This is a Markets & Macro roundup piece that bundles AI investing strategy with eldercare advice and streaming budgets\u2014a classic weekend-read miscellany. The AI angle appears to be a tactical positioning piece for retail investors, likely covering emerging AI sub-themes or overlooked sectors. Without seeing the full piece, the structure suggests it's aimed at broad wealth management audiences rather than institutional or sector-specific insight. For a FIG analyst focused on fintech, digital assets, and specialty finance, the signal depends entirely on whether the piece surfaces a regulatory, capital-markets, or deal-flow implication specific to financial services AI.",
-      "talking_points": [
-        "Need to read the full piece to extract the specific AI investment thesis\u2014headline alone is too generic for a pitch or client note.",
-        "Weekend reads format suggests retail positioning, not institutional alpha or a sector trade catalyst."
-      ],
-      "topics": [
-        "AI-investing",
-        "markets-commentary"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
     "id": "cf6494d5db3d",
     "title": "GTCR-backed Experity acquires Exdion Healthcare",
     "url": "https://www.pehub.com/gtcr-backed-experity-acquires-exdion-healthcare/",
@@ -4029,6 +4104,81 @@
         "healthcare tech M&A",
         "lower-middle-market PE",
         "GTCR portfolio"
+      ],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "2dcc5815bb0e",
+    "title": "The United States\u2019 OpenAI Equity Stake, Meta The Neocloud, Karp\u2019s Attack",
+    "url": "https://www.bigtechnology.com/p/the-united-states-openai-equity-stake",
+    "source": "Big Technology (Alex Kantrowitz)",
+    "section": "Learn",
+    "date": "2026-07-02T18:53:12+00:00",
+    "summary_raw": "Ahead of the holiday weekend, here&#8217;s what&#8217;s happening and what to look out for.",
+    "summary_ai": {
+      "digest": "Alex Kantrowitz's newsletter covers U.S. government consideration of an OpenAI equity stake, Meta's infrastructure ambitions, and Palantir CEO Karp's public criticism\u2014three disconnected tech/policy stories.",
+      "summary_long": "The piece is a roundup of three concurrent tech developments: potential U.S. government equity participation in OpenAI (motivated by national security and AI governance concerns), Meta's expansion into cloud infrastructure and compute provisioning (\"Neocloud\"), and Palantir CEO Alex Karp's recent critical statements about tech leadership and strategy. Kantrowitz presents each as a trend worth monitoring but does not synthesize them into a coherent thesis or offer novel analysis of their business or strategic implications. The tone is observational rather than argumentative.",
+      "talking_points": [
+        "U.S. government exploring direct equity stake in OpenAI as alternative to regulation\u2014signals policy uncertainty around AI governance and potential conflicts between national security and private capital.",
+        "Meta pivoting to become infrastructure provider for AI compute, moving beyond pure applications\u2014shifts competitive focus and raises questions about margin and capital intensity.",
+        "Karp's public attacks on tech leadership suggest fracture in founder/CEO cohesion or messaging during uncertain market cycle."
+      ],
+      "topics": [
+        "AI governance",
+        "Meta strategy",
+        "Big Tech leadership"
+      ],
+      "highlight": "U.S. equity stake in OpenAI would align government incentives with AI safety/capability control but blur lines between public oversight and private shareholder governance.",
+      "relevance": 3
+    }
+  },
+  {
+    "id": "247e7a7e1345",
+    "title": "Trump\u2019s real-estate licensing income in foreign countries nearly doubled \u2014 and now features Qatar and Romania",
+    "url": "https://www.marketwatch.com/story/trumps-real-estate-licensing-income-in-foreign-countries-nearly-doubled-and-now-features-qatar-and-romania-ebe3d73d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T19:25:00+00:00",
+    "summary_raw": "One ethics watchdog has \u201cgrave concerns about the president doing business in foreign countries.\u201d",
+    "summary_ai": {
+      "digest": "Trump's foreign real-estate licensing income nearly doubled year-over-year, with new deals in Qatar and Romania; ethics watchdog raises conflict concerns.",
+      "summary_long": "Trump's international licensing deals\u2014where his name and brand are leased to developers\u2014generated significantly higher revenue in the most recent reporting period, expanding into new jurisdictions including Qatar and Romania. These are passive income streams from foreign parties paying for use of the Trump brand on projects. An ethics monitor flagged potential conflicts of interest given the president's position and discretionary authority over foreign policy and trade. The income doesn't involve Trump directly operating businesses abroad (which would be more obviously problematic), but rather selling brand rights, a common practice among high-net-worth individuals. However, foreign governments or entities with business interests before U.S. regulators paying for brand association creates an optics and substance question.",
+      "talking_points": [
+        "Trump licensing income from foreign countries nearly doubled; now includes Qatar and Romania exposure.",
+        "These are passive brand-licensing deals, not active business operations\u2014but ethics groups worry about foreign entities paying for Trump branding while having policy interests before U.S. government.",
+        "Structure is common in real estate but carries heightened scrutiny when the licensor is in office with discretionary authority over trade, sanctions, and foreign relations."
+      ],
+      "topics": [
+        "presidential-conflicts-of-interest",
+        "foreign-capital",
+        "brand-licensing"
+      ],
+      "highlight": "Qatar and Romania are new jurisdictions for Trump licensing revenue\u2014both have active interests in U.S. policy (Middle East relations, NATO/Russia).",
+      "relevance": 3
+    }
+  },
+  {
+    "id": "f0fad51ff980",
+    "title": "James Mirrlees auction markets in everything",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/james-mirrlees-auction-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=james-mirrlees-auction-markets-in-everything",
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "section": "Learn",
+    "date": "2026-07-02T19:36:50+00:00",
+    "summary_raw": "<p>To mark what would have been Jim Mirrlees\u2019 90th\u00a0birthday on 4 July, Nuffield College (Oxford University)\u00a0 is auctioning off some signed books from Jim\u2019s personal collection and other special items of Jim\u2019s generously donated by the Mirrlees family and the artist Yu Ji. The proceeds will support a fund for scholarships in Jim&#8217; s memory. [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/james-mirrlees-auction-markets-in-everything.html\">James Mir",
+    "summary_ai": {
+      "digest": "Tyler Cowen notes an Oxford auction of James Mirrlees' signed books and personal items to fund scholarships in the Nobel laureate's name, timed for what would have been his 90th birthday.",
+      "summary_long": "Nuffield College is auctioning memorabilia from the personal collection of James Mirrlees, the economist who won the Nobel Prize for work on information asymmetry and incentive design. The auction includes signed books and items donated by the Mirrlees family and artist Yu Ji. Proceeds support a scholarship fund in Mirrlees' memory. Cowen frames this as an example of 'auction markets in everything'\u2014using market mechanisms to allocate goods and capital, even in academic and memorial contexts. The piece is a light institutional anecdote wrapped in a broader observation about market design's ubiquity.",
+      "talking_points": [
+        "Mirrlees' incentive-design framework underpins modern contract theory, principal-agent problems, and information economics\u2014foundational to fintech and financial-services risk modeling.",
+        "Using auctions to fund scholarships rather than direct giving is itself a market-design choice that Cowen highlights as emblematic of how economists think about allocation.",
+        "If interested in the economics of incentives and asymmetric information, Mirrlees' work is canonical\u2014worth a refresher for any analyst covering fintech, lending, or asset management."
+      ],
+      "topics": [
+        "economics-of-information",
+        "market-design",
+        "academic-scholarship"
       ],
       "highlight": null,
       "relevance": 3
@@ -4075,31 +4225,6 @@
         "market-movers"
       ],
       "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
-    "id": "da1a622c1edd",
-    "title": "Argentina angered by prospect of oil boom in Falklands",
-    "url": "https://www.ft.com/content/ce25f41d-49e2-42e3-956e-dab0de9301e4",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T04:00:04+00:00",
-    "summary_raw": "Islands\u2019 first commercial production in 2028 would transform tiny fishing-dependent economy",
-    "summary_ai": {
-      "digest": "Falkland Islands will begin commercial oil production in 2028, transforming a fishing-dependent economy; Argentina's territorial claim creates political friction but unlikely to derail the project.",
-      "summary_long": "The Falkland Islands are on track to launch their first commercial oil production in 2028, a shift that would fundamentally reshape the territory's economy away from fishing and agriculture. The project hinges on a single operator and stable commodity prices, but represents a meaningful new revenue stream for a population of ~3,500. Argentina maintains its long-standing territorial claim over the islands, creating diplomatic tension but limited practical obstruction to development. For investors and analysts covering UK-dependent territories or energy-linked emerging economies, this marks a notable inflection in a micro-economy's fiscal capacity and debt profile.",
-      "talking_points": [
-        "Falklands oil production starting 2028 adds a quasi-sovereign revenue stream to a \u00a3300M+ GDP micro-economy; fiscal profile shifts from subsidy-dependent to energy-exporting.",
-        "Single-operator dependency and commodity price sensitivity create concentration risk; commodity downturn could delay or undermine project economics.",
-        "Argentine political friction is noise; no credible military or economic lever exists to block production, making geopolitical risk lower than headline suggests."
-      ],
-      "topics": [
-        "emerging-markets-energy",
-        "micro-sovereign-economics",
-        "commodity-price-sensitivity"
-      ],
-      "highlight": "2028 production start transforms a \u00a3300M+ fishing economy into an energy-exporter; fiscal implications material but operator and commodity risk remain unquantified.",
       "relevance": 2
     }
   },
@@ -4245,29 +4370,6 @@
     }
   },
   {
-    "id": "af9c0f180260",
-    "title": "My doctor friend objected to his hospital\u2019s fundraising tactics. Did management go too far?",
-    "url": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T15:00:00+00:00",
-    "summary_raw": "\u201cThis shocking program was exploiting doctors and the trust inherent in their relationships with patients.\u201d",
-    "summary_ai": {
-      "digest": "A physician at a major hospital system questioned management's aggressive patient fundraising tactics that leveraged doctor\u2013patient trust relationships.",
-      "summary_long": "The article profiles a doctor who raised concerns about his hospital's fundraising program that appeared to ask physicians to solicit donations from patients during clinical encounters. The doctor characterized this as exploitative of the inherent trust in physician\u2013patient relationships and potentially unethical. The piece uses this anecdote to examine broader tensions between hospital financial pressures and clinical integrity, but does not name specific institutions, quantify the practice, or provide regulatory or governance response.",
-      "talking_points": [
-        "Hospital fundraising programs that blur clinical and development roles risk eroding patient trust and may trigger physician\u2013compliance friction.",
-        "No regulatory action or industry-wide pushback is documented; this remains a isolated case study, not a sector trend."
-      ],
-      "topics": [
-        "hospital-governance",
-        "nonprofit-finance"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
     "id": "32d496c624f3",
     "title": "A Modern Bill of Rights for Financial Advisors",
     "url": "https://www.wealthmanagement.com/professional-development/a-modern-bill-of-rights-for-financial-advisors",
@@ -4283,30 +4385,6 @@
       ],
       "topics": [
         "wealth-management-culture"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
-    "id": "262f3590287d",
-    "title": "Palantir\u2019s stock bounces back as analyst cheers company\u2019s unique AI advantage",
-    "url": "https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T15:15:00+00:00",
-    "summary_raw": "The software company\u2019s shares have gotten off to a strong start this month following a weak run in June.",
-    "summary_ai": {
-      "digest": "Palantir shares rebounded in early July after June weakness; analyst cites AI competitive moat as driver.",
-      "summary_long": "Palantir Technologies has seen its stock price recover after underperforming in June. An analyst has publicly attributed the rebound to the company's differentiated position in AI, particularly in data integration and analysis capabilities that serve enterprise and government clients. The piece positions Palantir as having a structural advantage in AI deployment relative to competitors. For a FIG analyst, the relevance is limited\u2014Palantir is software/defense tech, not a financial services company, and the story is stock-price movement + analyst opinion rather than business fundamentals or deal context.",
-      "talking_points": [
-        "Stock rebound is being justified on AI competitive moat, not on earnings or deal activity.",
-        "Palantir's strength in data integration may appeal to banks rebuilding legacy infrastructure, but the company operates outside traditional FIG coverage."
-      ],
-      "topics": [
-        "palantir",
-        "software-stocks",
-        "ai-competitive-advantage"
       ],
       "highlight": null,
       "relevance": 2
@@ -4376,6 +4454,52 @@
       ],
       "topics": [
         "insurance-fraud-criminal"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "af9c0f180260",
+    "title": "My doctor friend objected to his hospital\u2019s fundraising tactics. Did management go too far?",
+    "url": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T19:00:00+00:00",
+    "summary_raw": "\u201cThis shocking program was exploiting doctors and the trust inherent in their relationships with patients.\u201d",
+    "summary_ai": {
+      "digest": "A physician at a major hospital system questioned management's aggressive patient fundraising tactics that leveraged doctor\u2013patient trust relationships.",
+      "summary_long": "The article profiles a doctor who raised concerns about his hospital's fundraising program that appeared to ask physicians to solicit donations from patients during clinical encounters. The doctor characterized this as exploitative of the inherent trust in physician\u2013patient relationships and potentially unethical. The piece uses this anecdote to examine broader tensions between hospital financial pressures and clinical integrity, but does not name specific institutions, quantify the practice, or provide regulatory or governance response.",
+      "talking_points": [
+        "Hospital fundraising programs that blur clinical and development roles risk eroding patient trust and may trigger physician\u2013compliance friction.",
+        "No regulatory action or industry-wide pushback is documented; this remains a isolated case study, not a sector trend."
+      ],
+      "topics": [
+        "hospital-governance",
+        "nonprofit-finance"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "67e5c3fc0fd7",
+    "title": "This Adobe analyst is going against the grain by telling investors to buy the stock",
+    "url": "https://www.marketwatch.com/story/this-adobe-analyst-is-going-against-the-grain-by-telling-investors-to-buy-the-stock-8dadc0a5?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-02T19:07:00+00:00",
+    "summary_raw": "Adobe\u2019s stock is rallying after a contrarian upgrade at HSBC.",
+    "summary_ai": {
+      "digest": "HSBC analyst upgraded Adobe to buy, bucking broader skepticism on the stock. The upgrade signals a potential inflection point in market sentiment around the software giant.",
+      "summary_long": "An HSBC analyst published a contrarian buy rating on Adobe while consensus remains cautious, driving a rally in the stock. The upgrade appears to reflect conviction that the market has overpriced downside risks\u2014likely around AI disruption, subscription fatigue, or margin pressure. For a FIG analyst, the signal matters less than the setup: this is a single-name sentiment flip, not a macro repricing of rates, credit conditions, or the financial-services sector. The article itself is light on specifics about what triggered the upgrade or the analyst's thesis.",
+      "talking_points": [
+        "One contrarian call drove a measurable stock move\u2014watch whether it attracts institutional rebalancing or remains isolated.",
+        "No macro read-through to bank lending, asset manager positioning, or fintech/software stack economics that would affect FIG coverage."
+      ],
+      "topics": [
+        "single-stock-sentiment",
+        "equity-call"
       ],
       "highlight": null,
       "relevance": 2
@@ -4569,10 +4693,12 @@
     "date": "2026-07-02T16:02:00+00:00",
     "summary_raw": "<p align=\"center\"><b>SOITEC FY27 First Quarter Revenue </b><br /><b>Conference Call</b></p>",
     "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
+      "digest": "Null. This is a press-release boilerplate announcement of a earnings call with no financial data, deal activity, regulatory action, or capital event disclosed.",
+      "summary_long": "SOITEC appears to be a financial services or banking entity announcing a first-quarter FY27 earnings call. The excerpt provided contains only the title and heading structure\u2014no actual revenue figures, deal announcements, regulatory developments, capital raises, M&A activity, or management changes. Without the substantive content of the earnings release or call details, there is no actionable intelligence.",
+      "talking_points": [
+        "No deal, capital, or regulatory detail available from the excerpt provided."
+      ],
+      "topics": [],
       "highlight": null,
       "relevance": 1
     }
@@ -4597,57 +4723,6 @@
         "employment-law",
         "regulatory-enforcement"
       ],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "3614c00b8556",
-    "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
-    "url": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T17:30:00+00:00",
-    "summary_raw": "\u201cPart of me would prefer to leave more to those for whom the money could make a meaningful difference.\u201d",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "a4ec82660e47",
-    "title": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
-    "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T17:43:00+00:00",
-    "summary_raw": "\u201cShe thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.\u201d",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "6841451c6134",
-    "title": "Concerts are increasingly for superfans and the rich, analysts say",
-    "url": "https://www.marketwatch.com/story/concerts-are-increasingly-for-superfans-and-the-rich-analysts-say-867b0284?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-02T18:18:00+00:00",
-    "summary_raw": "Some arenas are devoting nearly a third of their space to premium seats and services.",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
       "highlight": null,
       "relevance": 1
     }
