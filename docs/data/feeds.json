@@ -183,32 +183,6 @@
     }
   },
   {
-    "id": "6c47dcc643ff",
-    "title": "Google leads $30m round for space fintech Nebex",
-    "url": "https://www.finextra.com/newsarticle/48015/google-leads-30m-round-for-space-fintech-nebex?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-06-30T14:57:00+00:00",
-    "summary_raw": "Google Ventures has led a $30 million seed round for Nebex, a market infrastructure platform for the \"global space economy\".",
-    "summary_ai": {
-      "digest": "Google Ventures led a $30M seed round for Nebex, a market infrastructure platform for space economy transactions. Positions fintech at the intersection of emerging hard-asset class and digital finance.",
-      "summary_long": "Nebex is building market infrastructure (trading, settlement, clearing) for space-related assets and services\u2014satellites, launch capacity, orbital slots, and related derivatives. Google Ventures' lead signals institutional appetite for fintech serving emerging, high-capex verticals. Space economy infrastructure has regulatory arbitrage potential: largely unregulated today, but Nebex's clearing/settlement function will eventually need SEC or CFTC guardrails. For specialty finance, this is a proof point that venture capital will fund financial plumbing in any asset class with sufficient future scale, even if current volumes are tiny.",
-      "talking_points": [
-        "Google Ventures backing market infrastructure (not just apps) for space assets\u2014signals confidence in space economy scale and fintech's role as essential utility.",
-        "Nebex handles trading, settlement, and clearing for an asset class with almost no regulated market today\u2014regulatory capture/first-mover advantage opportunity.",
-        "Parallel to early fintech in crypto, FX, or commodities: build the pipe first, regulations follow; Nebex could become the 'CME of space' if space economy grows as forecasted."
-      ],
-      "topics": [
-        "fintech-infrastructure",
-        "specialty-finance",
-        "emerging-assets",
-        "venture-capital"
-      ],
-      "highlight": "Google Ventures leads $30M seed into market infrastructure (trading/settlement/clearing) for space economy\u2014fintech as essential utility play in hard-asset verticals.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "d0c059f177c3",
     "title": "Commerce Bank in St. Louis to buy boutique firm",
     "url": "https://www.bankingdive.com/news/commerce-bank-st-louis-to-buy-boutique-firm/824113/",
@@ -1059,6 +1033,32 @@
     }
   },
   {
+    "id": "b919fe2c9267",
+    "title": "SoFi buys AI-based investing startup Composer",
+    "url": "https://www.finextra.com/newsarticle/48026/sofi-buys-ai-based-investing-startup-composer?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-02T00:01:00+00:00",
+    "summary_raw": "US fintech SoFi has acquired Composer, a Toronto-based AI-powered retail investing startup. Financial terms were not disclosed.",
+    "summary_ai": {
+      "digest": "SoFi acquired Composer, a Toronto-based AI investing startup, for undisclosed terms. The deal expands SoFi's retail investing capabilities with algorithmic portfolio construction.",
+      "summary_long": "SoFi, the fintech platform for banking, investing, and lending, has acquired Composer to integrate AI-driven investment strategy tools into its retail offering. Composer builds algorithms that automate portfolio construction and rebalancing for individual investors\u2014a capability that fits SoFi's push to deepen engagement across its user base. The acquisition signals SoFi's intent to compete with robo-advisors and algorithmic wealth platforms without building the tech in-house. No financial terms were disclosed, limiting visibility into valuation or earnout structure. This follows SoFi's prior M&A (e.g., Galileo, Golden Pacific) to fill product gaps and cross-sell into its existing retail and institutional customer base.",
+      "talking_points": [
+        "SoFi is bolting algorithmic investing onto its retail platform to reduce churn and increase wallet share\u2014cheaper than building from scratch or licensing from Betterment/Wealthfront.",
+        "Composer's Toronto base suggests SoFi is also eyeing Canadian retail expansion; regulatory arbitrage between US and Canada may lower compliance cost for algorithmic products.",
+        "Undisclosed terms; watch for earnout clues in next earnings call or 8-K filing, especially around product roadmap acceleration and user migration timelines."
+      ],
+      "topics": [
+        "fintech M&A",
+        "retail investing platforms",
+        "algorithmic wealth management",
+        "SoFi strategy"
+      ],
+      "highlight": "SoFi acquires Composer to in-source AI-driven portfolio construction and reduce customer acquisition cost through cross-sell.",
+      "relevance": 7
+    }
+  },
+  {
     "id": "334d20e1fd78",
     "title": "Japanese Yen Hits 40-Year Low as Market Bets on Fed Rate Hike",
     "url": "https://www.thedailyupside.com/investments/bonds/japanese-yen-hits-40-year-low-as-expectations-for-fed-to-raise-interest-rates-grow/",
@@ -1243,32 +1243,6 @@
     }
   },
   {
-    "id": "172ddd16599a",
-    "title": "EY fires staffers accused of accessing Australian PMs bank account",
-    "url": "https://www.finextra.com/newsarticle/48013/ey-fires-staffers-accused-of-accessing-australian-pms-bank-account?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-06-30T14:12:00+00:00",
-    "summary_raw": "A pair of EY employees on assignment at Commonwealth Bank of Australia have been fired, with one facing criminal charges after allegedly accessing the bank account details of Prime Minster Anthony Albanese.",
-    "summary_ai": {
-      "digest": "EY terminated two employees assigned to Commonwealth Bank of Australia; one faces criminal charges for allegedly accessing PM Anthony Albanese's bank account details.",
-      "summary_long": "Two EY staffers working on-site at CBA were dismissed following an alleged breach in which one employee accessed the personal banking information of Australia's Prime Minister. The employee now faces criminal prosecution. The incident highlights third-party access risks at major financial institutions and the compliance/operational exposure when external consultants are embedded in sensitive banking environments. For CBA, this triggers reputational damage and potential regulatory scrutiny around vendor management, access controls, and employee vetting\u2014issues that regulators globally are tightening. The breach also raises questions about EY's own background-check and monitoring protocols for staff deployed into banking operations.",
-      "talking_points": [
-        "CBA vendor-management failure: EY employees had direct access to customer account details without sufficient controls or monitoring.",
-        "Criminal exposure: one staffer now faces charges, creating both liability and precedent for banks' third-party risk governance.",
-        "Regulatory read-through: Australian regulators (ASIC/APRA) will likely review CBA's third-party access policies; similar audit findings at other major banks could trigger enforcement."
-      ],
-      "topics": [
-        "third-party risk management",
-        "bank compliance",
-        "vendor governance",
-        "data-breach liability"
-      ],
-      "highlight": "Criminal charges against EY employee sets precedent for personal accountability in banking data breaches and will sharpen regulator focus on CBA's access-control framework.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "7a842ee4482e",
     "title": "From \u2018status quo\u2019 to \u2018remain in place\u2019: ILPA updates CV guidance for an evolving market",
     "url": "https://www.privateequityinternational.com/from-status-quo-to-remain-in-place-ilpa-updates-cv-guidance-for-an-evolving-market/",
@@ -1391,31 +1365,6 @@
         "incentives-and-behavior"
       ],
       "highlight": "Differentiation through negativity is a status game baked into bounded online communities\u2014useful frame for understanding fintech platforms, Discord communities, and internal company culture.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "d48bcf7aa174",
-    "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
-    "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-06-30T23:27:41+00:00",
-    "summary_raw": "Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.",
-    "summary_ai": {
-      "digest": "Chinese state-linked cyberattacks are broadening beyond tech targets to financial institutions, coinciding with U.S.\u2013China AI competition escalation.",
-      "summary_long": "Cybersecurity analysts are flagging a trend of increased cyberattacks originating from China-based actors that extend well beyond technology companies into banking and financial services. The attacks are framed as part of broader geopolitical competition over AI capabilities and industrial secrets. For FIG institutions, this creates operational risk, potential regulatory scrutiny over cybersecurity controls, and possible compliance exposure\u2014particularly for banks engaged in cross-border transactions or serving institutional clients with sensitive IP. No specific bank breaches or regulatory actions are named in the excerpt, limiting immediate deal or capital implications.",
-      "talking_points": [
-        "Chinese cyberattacks are diversifying away from pure tech targets into financial services, raising operational and compliance risk for regional and mid-market banks.",
-        "This trend sits at the intersection of geopolitics, AI competition, and financial-sector resilience\u2014expect regulators to tighten cybersecurity guidance and stress testing.",
-        "Fintech and digital asset platforms managing institutional flows or cross-border payments face heightened scrutiny; cyber insurance and third-party risk management could become M&A selection criteria for PE buyers."
-      ],
-      "topics": [
-        "cybersecurity-risk",
-        "regulatory-compliance",
-        "geopolitical-risk"
-      ],
-      "highlight": "Chinese cyberattacks are targeting financial institutions, not just tech, signaling regulatory pressure and risk-management cost inflation across FIG.",
       "relevance": 6
     }
   },
@@ -2527,6 +2476,31 @@
     }
   },
   {
+    "id": "d48bcf7aa174",
+    "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
+    "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
+    "source": "CNBC Finance",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-01T22:55:00+00:00",
+    "summary_raw": "Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.",
+    "summary_ai": {
+      "digest": "Chinese state-linked cyberattacks are broadening beyond tech targets to financial institutions, coinciding with U.S.\u2013China AI competition escalation.",
+      "summary_long": "Cybersecurity analysts are flagging a trend of increased cyberattacks originating from China-based actors that extend well beyond technology companies into banking and financial services. The attacks are framed as part of broader geopolitical competition over AI capabilities and industrial secrets. For FIG institutions, this creates operational risk, potential regulatory scrutiny over cybersecurity controls, and possible compliance exposure\u2014particularly for banks engaged in cross-border transactions or serving institutional clients with sensitive IP. No specific bank breaches or regulatory actions are named in the excerpt, limiting immediate deal or capital implications.",
+      "talking_points": [
+        "Chinese cyberattacks are diversifying away from pure tech targets into financial services, raising operational and compliance risk for regional and mid-market banks.",
+        "This trend sits at the intersection of geopolitics, AI competition, and financial-sector resilience\u2014expect regulators to tighten cybersecurity guidance and stress testing.",
+        "Fintech and digital asset platforms managing institutional flows or cross-border payments face heightened scrutiny; cyber insurance and third-party risk management could become M&A selection criteria for PE buyers."
+      ],
+      "topics": [
+        "cybersecurity-risk",
+        "regulatory-compliance",
+        "geopolitical-risk"
+      ],
+      "highlight": "Chinese cyberattacks are targeting financial institutions, not just tech, signaling regulatory pressure and risk-management cost inflation across FIG.",
+      "relevance": 6
+    }
+  },
+  {
     "id": "0b6c44551054",
     "title": "Comcast Calls It Splits With NBCUniversal",
     "url": "https://www.thedailyupside.com/industries/media-entertainment/comcast-calls-it-splits-with-nbcuniversal/",
@@ -3432,31 +3406,6 @@
     }
   },
   {
-    "id": "61c67f5ecf32",
-    "title": "Is Meta \u2018giving up\u2019 on cutting-edge AI? Wall Street is divided over potential cloud pivot.",
-    "url": "https://www.marketwatch.com/story/is-meta-giving-up-on-cutting-edge-ai-wall-street-is-divided-over-potential-cloud-pivot-7c5ffc5d?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-01T20:49:00+00:00",
-    "summary_raw": "Meta shares popped on reports of a new cloud-computing venture, but some analysts wonder if that would signal disappointing uptake of internal AI offerings.",
-    "summary_ai": {
-      "digest": "Meta is exploring a cloud-computing business; Wall Street split on whether this signals weakness in its internal AI strategy or a smart diversification into infrastructure.",
-      "summary_long": "Meta has drawn analyst attention for a potential pivot toward offering cloud-computing services, with some viewing it as a strategic expansion into infrastructure and others interpreting it as a retreat from cutting-edge AI development. The stock initially rallied on the news, suggesting market optimism around new revenue streams. However, the debate hinges on whether Meta's internal AI investments (particularly generative models) are underperforming relative to expectations, forcing the company to monetize compute capacity externally rather than deploying it all in-house. For investors tracking Meta's capital intensity and ROI on massive compute spend, the move carries implications for long-term profitability and competitive positioning against OpenAI and Google. The ambiguity reflects broader uncertainty about AI's near-term value capture and whether hyperscalers will become utility providers or concentrate on proprietary models.",
-      "talking_points": [
-        "Meta may be pivoting to cloud services because internal AI projects aren't justifying the capital spend\u2014or it's smartly selling excess capacity to monetize sunk costs.",
-        "Wall Street's divided reaction signals genuine uncertainty about whether AI's value is in models or in the infrastructure that runs them.",
-        "If Meta's cloud play gains traction, it could reshape how hyperscalers allocate capex\u2014moving from pure model development to infrastructure-as-a-service."
-      ],
-      "topics": [
-        "hyperscaler-capex",
-        "AI-business-model",
-        "cloud-infrastructure"
-      ],
-      "highlight": "The split among analysts reflects a deeper uncertainty: is this Meta admitting AI ROI is harder than expected, or recognizing infrastructure as the real moat?",
-      "relevance": 4
-    }
-  },
-  {
     "id": "e4edecffe07b",
     "title": "RedBird spinout Maple Park closes in on target for inaugural fund",
     "url": "https://www.buyoutsinsider.com/redbird-spinout-maple-park-closes-in-on-target-for-inaugural-fund/",
@@ -3529,6 +3478,79 @@
         "contract-visibility"
       ],
       "highlight": "SanDisk's shift to contract-based revenue could anchor stability in an otherwise volatile sector \u2014 worth tracking if Lucius sees specialty finance or equipment-lease exposure to semicap suppliers.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "f37117d234b6",
+    "title": "Nvidia is betting on a trillion-dollar robotics boom. Here is the hidden way to trade it.",
+    "url": "https://www.marketwatch.com/story/nvidia-is-betting-on-a-trillion-dollar-robotics-boom-here-is-the-hidden-way-to-trade-it-c5b10c4e?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-01T23:11:00+00:00",
+    "summary_raw": "CEO Jensen Huang has called humanoid robots a \u201cmultitrillion-dollar economic opportunity.\u201d",
+    "summary_ai": {
+      "digest": "Nvidia CEO Jensen Huang frames humanoid robotics as a multitrillion-dollar opportunity; MarketWatch explores positioning strategies around the theme.",
+      "summary_long": "Huang's recent comments on robotics opportunity have reignited investor interest in automation and AI-driven hardware. The piece appears to offer tactical angles on how to trade the thesis without direct exposure to robot manufacturers. However, the excerpt provided is thin and the actual trade mechanism or hidden angle is not evident from the summary alone. For a financial analyst, the relevance hinges on whether this surfaces emerging demand for semiconductors, edge compute, or financing needs among robotics startups\u2014none of which are made explicit here.",
+      "talking_points": [
+        "Nvidia positioning robotics as multitrillion-dollar TAM; watch for guidance lift tied to AI chip demand from robot makers.",
+        "If the piece identifies captive financing or SPAC-stage robotics companies, that's a fintech/specialty-finance angle worth tracking."
+      ],
+      "topics": [
+        "nvidia-robotics-thesis",
+        "ai-chip-demand",
+        "emerging-manufacturer-finance"
+      ],
+      "highlight": null,
+      "relevance": 4
+    }
+  },
+  {
+    "id": "7c5187475380",
+    "title": "Opening a \u2018Trump account\u2019 for your children? Here is the risk you need to reckon with first.",
+    "url": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-01T23:48:00+00:00",
+    "summary_raw": "The new accounts ban bonds and international stocks, forcing parents to bet their children\u2019s financial future entirely on U.S. equities.",
+    "summary_ai": {
+      "digest": "New 'Trump accounts' for minors ban bonds and international stocks, concentrating child portfolios entirely in U.S. equities. Product design forces a concentrated bet with no diversification.",
+      "summary_long": "A new investment account product marketed to parents as a way to invest for children restricts holdings to U.S. equities only, explicitly prohibiting bonds and foreign stocks. The restriction creates a single-asset-class concentration that violates basic portfolio theory and leaves families exposed to U.S. equity downturns with no hedges or diversification. The accounts appear to be a political/marketing vehicle rather than a sound financial product. For wealth managers and RIAs, this signals either a market gap (client demand for concentrated bets) or a warning sign about retail product proliferation. The feature set raises questions about suitability and fiduciary duty if advisors are steering clients into these vehicles.",
+      "talking_points": [
+        "Concentrated U.S.-equities-only structure eliminates diversification \u2014 this is a product feature masquerading as a feature, not a bug.",
+        "Raises fiduciary red flags for any RIA or wealth manager recommending these to clients, especially for long-term child accounts where volatility drag matters.",
+        "Market signal: Either retail demand for political/branded investment vehicles is real, or this is product bloat that will underperform and create compliance/reputational risk for distributors."
+      ],
+      "topics": [
+        "retail-wealth-products",
+        "fiduciary-risk",
+        "concentration-risk"
+      ],
+      "highlight": "Bonds and international stocks explicitly banned \u2014 not an oversight, a design choice that concentrates all downside in a single asset class.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "56b3eae8b64e",
+    "title": "OCBC adds AI-powered financial advisor avatars to app",
+    "url": "https://www.finextra.com/newsarticle/48025/ocbc-adds-ai-powered-financial-advisor-avatars-to-app?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-02T00:01:00+00:00",
+    "summary_raw": "OCBC has revamped its mobile app with two AI-powered avatars that deliver \"hyper-personalised\" wealth management services in real-time 24 hours a day.",
+    "summary_ai": {
+      "digest": "OCBC deployed AI avatars in its mobile app offering 24/7 wealth advisory; no deal, capital raise, or regulatory action disclosed\u2014a product feature launch.",
+      "summary_long": "OCBC has integrated AI-powered avatars into its mobile banking app to deliver personalized wealth management advice in real time, available around the clock. The avatars are marketed as 'hyper-personalized' advisory tools, suggesting a shift toward automated, scalable wealth services. This is a competitive product move in digital banking and robo-advisory, but carries no M&A, financing, regulatory trigger, or capital deployment signal. It reflects the ongoing arms race among regional banks to automate advisory and improve customer retention through digital engagement.",
+      "talking_points": [
+        "OCBC is automating wealth advisory via mobile app avatars\u2014a defensive move to compete with fintech and digital-native players.",
+        "The 24/7, real-time model reduces reliance on human advisors and should improve unit economics, but doesn't signal M&A or capital events."
+      ],
+      "topics": [
+        "digital-banking",
+        "wealth-management-tech",
+        "robo-advisory"
+      ],
+      "highlight": null,
       "relevance": 4
     }
   },
@@ -3930,31 +3952,6 @@
     }
   },
   {
-    "id": "5908524567bd",
-    "title": "This unheralded sector may be the one sure thing for bulls in July",
-    "url": "https://www.marketwatch.com/story/this-unheralded-sector-may-be-the-one-sure-thing-for-bulls-in-july-e620a01b?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-01T21:08:00+00:00",
-    "summary_raw": "The Nasdaq-100 is known for almost always rising in July, but REITs have done even better, as they remain undefeated since 2008.",
-    "summary_ai": {
-      "digest": "REITs have posted positive returns every July since 2008, outperforming the Nasdaq-100's seasonal July strength.",
-      "summary_long": "The article flags a 16-year seasonality pattern: Real Estate Investment Trusts have never closed a July in negative territory since 2008, making them a statistically reliable performer in that month. The Nasdaq-100 also shows July strength but with a weaker track record. The piece uses this historical pattern as a potential trading signal for investors rotating into real estate exposure ahead of summer. No explanation of *why* this seasonality exists\u2014whether it's rebalancing, fund inflows, or earnings calendars\u2014is provided, leaving the causal mechanism opaque.",
-      "talking_points": [
-        "REITs undefeated in July for 16 consecutive years\u2014no negative closes since 2008.",
-        "Pattern outperforms even the Nasdaq-100's well-known seasonal July rally.",
-        "Seasonal trade setup for Q3 positioning, though causation behind the anomaly is unexplained."
-      ],
-      "topics": [
-        "REIT seasonality",
-        "market patterns",
-        "July equity rotation"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
     "id": "02d9f60a822e",
     "title": "ServiceNow and Salesforce shares now look like buys, as \u2018Armageddon\u2019 fears are too extreme, analyst says",
     "url": "https://www.marketwatch.com/story/servicenow-and-salesforce-shares-now-look-like-buys-as-armageddon-fears-are-too-extreme-analyst-says-3c3d8887?mod=mw_rss_topstories",
@@ -4094,6 +4091,25 @@
         "defense-industrial-equities",
         "earnings-beat"
       ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "d0aa076884e8",
+    "title": "Fables of the Reconstruction/Reconstruction of the Fables",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/reconstruction-of-the-fables.html?utm_source=rss&utm_medium=rss&utm_campaign=reconstruction-of-the-fables",
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "section": "Learn",
+    "date": "2026-07-01T05:02:24+00:00",
+    "summary_raw": "<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/reconstruction-of-the-fables.html\">Fables of the Reconstruction/Reconstruction of the Fables</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "summary_ai": {
+      "digest": "Tyler Cowen reflects on narratives and their reconstruction\u2014no explicit financial or business angle in excerpt.",
+      "summary_long": "This appears to be a philosophical or literary piece from Cowen exploring how stories and fables are interpreted and reinterpreted over time. Without access to the full text, the excerpt alone does not reveal a business, economics, or finance argument. Cowen is a trusted voice on strategy and incentives, but this piece does not connect to FIG, fintech, capital markets, or career intelligence in any obvious way.",
+      "talking_points": [
+        "Need full text to extract actionable insight\u2014excerpt only shows title and metadata."
+      ],
+      "topics": [],
       "highlight": null,
       "relevance": 2
     }
@@ -4399,11 +4415,11 @@
     "date": "2026-07-01T12:11:31+00:00",
     "summary_raw": "Make sense of the latest business and policy headlines with our daily newsletter.",
     "summary_ai": {
-      "digest": "Newsletter signup page for DealBook, the NYT's daily business and policy briefing.",
-      "summary_long": "This is a landing page promoting DealBook, the New York Times' established daily newsletter covering business, markets, policy, and corporate news. It offers no substantive content\u2014just a signup call-to-action and boilerplate about newsletter scope. For someone already in a finance feed, this is a distribution prompt, not editorial value.",
+      "digest": "Newsletter signup page for DealBook, the New York Times' daily business and policy briefing.",
+      "summary_long": "This is a landing page promoting subscription to DealBook, NYT's established newsletter covering business, finance, and policy news. It offers daily digests of headlines and analysis aimed at executives, investors, and finance professionals. The page itself contains no news, data, or analysis\u2014it is purely a subscription prompt.",
       "talking_points": [],
       "topics": [
-        "newsletter-promotion"
+        "newsletter-signup"
       ],
       "highlight": null,
       "relevance": 1
@@ -4592,23 +4608,6 @@
     }
   },
   {
-    "id": "60691efd2825",
-    "title": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
-    "url": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-01T19:52:00+00:00",
-    "summary_raw": "\u201cI\u2019m torn between these two options.\u201d",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
     "id": "9f5553f8fb67",
     "title": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
     "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
@@ -4617,7 +4616,7 @@
     "date": "2026-07-01T21:26:00+00:00",
     "summary_raw": "Why it\u2019s a good month to save on streaming, despite the return of \u2018Enola Holmes\u2019 to Netflix and \u2018Silo\u2019 to Apple",
     "summary_ai": {
-      "digest": null,
+      "digest": "Null \u2014 entertainment streaming calendar has no relevance to FIG, PE, capital markets, or financial services.",
       "summary_long": null,
       "talking_points": null,
       "topics": null,
@@ -4649,20 +4648,20 @@
     }
   },
   {
-    "id": "d0aa076884e8",
-    "title": "Fables of the Reconstruction/Reconstruction of the Fables",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/reconstruction-of-the-fables.html?utm_source=rss&utm_medium=rss&utm_campaign=reconstruction-of-the-fables",
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "section": "Learn",
-    "date": "2026-07-01T05:02:24+00:00",
-    "summary_raw": "<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/reconstruction-of-the-fables.html\">Fables of the Reconstruction/Reconstruction of the Fables</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "id": "a4ec82660e47",
+    "title": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+    "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-01T23:01:00+00:00",
+    "summary_raw": "\u201cShe thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.\u201d",
     "summary_ai": {
-      "digest": "No substantive excerpt provided; appears to be a post title/metadata only without content to evaluate.",
-      "summary_long": "The feed item contains only a post title and source attribution with no article body, excerpt, or argument to assess. This prevents meaningful evaluation against the Learn lane rubric, which requires evidence of original thinking, business strategy insight, or durable analytical frames. Without the actual content, no talking points, takeaways, or applicability to Lucius's coverage or career can be determined.",
-      "talking_points": [],
-      "topics": [],
+      "digest": null,
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
       "highlight": null,
-      "relevance": 0
+      "relevance": 1
     }
   }
 ]
