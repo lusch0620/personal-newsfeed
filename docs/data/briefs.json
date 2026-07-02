@@ -1,169 +1,159 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "European antitrust win for Klarna, stablecoin consortium launches with major banks, and regulatory scrutiny intensifies on compliance and internal CFPB upheaval.",
+    "lede": "Four stories spanning antitrust wins, stablecoin infrastructure, and regulatory enforcement\u2014plus internal CFPB turmoil.",
     "bullets": [
       {
-        "text": "Klarna wins \u20ac2B judgment against Google in Swedish court for antitrust violations in price comparison services\u2014a significant precedent for tech platform favoritism in fintech.",
+        "text": "Klarna bags \u20ac2B from Swedish court in Google antitrust ruling over preferential treatment of Google's own price comparison service versus Prisjakt.",
         "refId": "2952198c5c62",
         "source": "Banking Dive"
       },
       {
-        "text": "140+ member consortium (BNY Mellon, Visa, Coinbase) launches low-cost stablecoin for payments infrastructure, signaling mainstream banking embrace of blockchain-based settlement.",
+        "text": "140+ financial institutions and fintechs\u2014BNY Mellon, Visa, Coinbase among them\u2014launched a consortium-backed low-cost stablecoin for payments infrastructure.",
         "refId": "45d417cc58eb",
         "source": "Banking Dive"
       },
       {
-        "text": "EagleBank pays $9.7M for BSA/AML violations including admitted knowledge of customer fraud and weak controls\u2014another compliance failure in the enforcement pipeline.",
+        "text": "EagleBank settles $9.7M BSA/AML violations with admitted knowledge of customer fraud and lax controls; Small Business Bank hit with new Fed enforcement action while BNP Paribas entities get four terminated.",
         "refId": "e7f148ac29f9",
         "source": "Banking Dive"
       },
       {
-        "text": "Fed issues new enforcement action against Small Business Bank while closing four against BNP Paribas entities, while CFPB simultaneously issues July 14 geographic reassignment ultimatum\u2014mixed signals on regulatory priorities.",
-        "refId": "c8afd4957fc8",
-        "source": "Federal Reserve Press Releases"
+        "text": "CFPB issues July 14 ultimatum for geographic reassignment\u2014potential signal of mass layoffs or major restructuring at the regulator.",
+        "refId": "0f74f20226e9",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "Hightower's president exits amid Goldman-led sale process, while Focus Financial consolidates three RIAs into a $10B platform and tech ops emerge as the key competitive lever.",
+    "lede": "Five stories spanning fraud enforcement, RIA consolidation, redemption mechanics, and competitive differentiation in wealth management.",
     "bullets": [
       {
-        "text": "Roberto Stewart departs as Hightower president during Goldman Sachs-led sale amid investor pressure over delayed founder capital payouts; firm says replacement 'near-future'.",
-        "refId": "79158426874e",
-        "source": "RIABiz"
-      },
-      {
-        "text": "Three Focus Financial\u2013affiliated RIAs (Coastal Bridge, Waddell & Associates, One Charles) merged into $10B AUM platform with 72 professionals across eight offices.",
-        "refId": "b7e3fb81cbfb",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "DOJ seized $19.5M in pump-and-dump scheme proceeds using compromised advisor credentials\u2014compliance risk resurfaced.",
+        "text": "DOJ seized $19.5M from pump-and-dump schemes that exploited compromised advisor credentials to manipulate shares\u2014credential theft remains a compliance flashpoint.",
         "refId": "f73a7a2e042e",
         "source": "Wealth Management"
       },
       {
-        "text": "Wealth managers increasingly winning wallet share on operational tech (workflow automation, data management, scalability) rather than investment returns.",
+        "text": "Three Focus Financial affiliates (Coastal Bridge, Waddell & Associates, One Charles) merged into a $10B platform, adding 72 advisors\u2014consolidation continues at scale.",
+        "refId": "b7e3fb81cbfb",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Tech stack differentiation is now outpacing investment performance in advisor retention and wallet share; workflow automation and data management are the real competitive moat.",
         "refId": "584fb7fe2de7",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Osaic and LPL Financial competing aggressively for advisor teams via W-2 employment models as RIA consolidation reshapes the talent market.",
+        "refId": "745f86384562",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "Insurance M&A activity mixed with structural shifts: QBE consolidates India platform, Malibu enters US annuities, while Bayer isolates Roundup liability ahead of potential breakup.",
+    "lede": "M&A activity across insurance and reinsurance; QBE consolidates India, Malibu Life enters US annuities, while Florida reinsurance market softens.",
     "bullets": [
       {
-        "text": "QBE completes full takeover of Raheja QBE from Prism Johnson after 18 years in JV\u2014consolidating its regional general insurance footprint in India following IRDAI approval.",
+        "text": "QBE acquires full control of Raheja QBE from Prism Johnson after 18 years, consolidating its Indian general insurance platform post-IRDAI approval.",
         "refId": "dd2b090be7c5",
         "source": "Reinsurance News"
       },
       {
-        "text": "Malibu Life (LSE) acquires TruSpire to launch US retail annuity platform, rebranding as Malibu Life USA\u2014expanding distribution into higher-margin origination business.",
+        "text": "Malibu Life completes TruSpire acquisition, establishing US retail annuity origination platform via rebranded Malibu Life USA.",
         "refId": "48344cf71476",
         "source": "Reinsurance News"
       },
       {
-        "text": "Bayer isolates Roundup liabilities into standalone US unit after court win, signaling prep for breakup or asset sale to resolve litigation exposure.",
+        "text": "Bayer isolates Roundup liability into separate US unit following court victory, signaling potential breakup or asset sale to resolve litigation exposure.",
         "refId": "bc0a7f629151",
         "source": "Insurance Journal"
       },
       {
-        "text": "Florida insurers added $5\u20137bn reinsurance capacity at mid-year renewals on strong underwriting; ample supply signals softening market for reinsurers.",
+        "text": "Florida insurers add $5\u20137bn reinsurance capacity at mid-year renewals on strong balance sheets; ample supply indicates softening market for reinsurers.",
         "refId": "9e1fef9c322e",
         "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "Sovereigns flooding private credit with capital while infra debt hits $186bn fundraising; structural LP-GP mismatches emerging on liquidity.",
+    "lede": "Sovereigns flooding private credit while infra debt hits $186bn raised; BoE signals bespoke AI regulation coming.",
     "bullets": [
       {
-        "text": "Sovereign wealth funds are rotating hard into private credit from public equities/bonds, signaling durable capital demand for specialty finance despite macro uncertainty.",
+        "text": "Sovereign wealth funds pivoting from public equities/bonds into private credit\u2014sustained capital tailwind for specialty finance allocations.",
         "refId": "175eedb64fe8",
         "source": "Private Debt Investor"
       },
       {
-        "text": "Infrastructure debt funds raised $186bn in 2026 as sticky rates and monopoly-like cashflows attract yield-hungry LPs\u2014outpacing broader private debt fundraising.",
+        "text": "$186bn raised by top infra debt funds in 2026 as sticky rates and monopoly-like cashflows drive LP demand; energy transition lending accelerating.",
         "refId": "d9472d35cf9b",
         "source": "Private Debt Investor"
       },
       {
-        "text": "Continuation vehicles proliferating as GP liquidity tool, but LPs overwhelmingly prefer cash exits\u2014potential structural misalignment brewing between sponsors and limited partners.",
+        "text": "LP preference for cash exits over continuation vehicles in private credit suggests growing GP/LP misalignment on liquidity solutions.",
         "refId": "36558cada57e",
         "source": "Private Debt Investor"
+      },
+      {
+        "text": "Bank of England pushing bespoke AI regulation framework as agentic AI deployment spreads across financial services.",
+        "refId": "aa564b85e922",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "PE fundraising surges with KKR leading the pack, while regulatory scrutiny on fees intensifies and secondaries investors embrace leverage via fund financing.",
+    "lede": "PE fundraising hits record highs led by KKR and Bain, while secondaries investors embrace leverage and firms preempt regulatory scrutiny with self-governance.",
     "bullets": [
       {
-        "text": "KKR retains Buyouts 100 top spot as top 100 North American PE firms raised ~10% more capital YoY; Bain Capital jumps into top five.",
+        "text": "KKR leads Buyouts 100 fundraising list; top 100 PE firms raised nearly 10% more capital YoY with Bain Capital jumping into top five.",
         "refId": "7d767c15be35",
         "source": "Buyouts Insider"
       },
       {
-        "text": "SEC and LP scrutiny converging on private fund fee structures\u2014regulatory pressure mounting as SBA analyzes PE performance impact.",
-        "refId": "7c49330c2504",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "Secondaries investors now routinely requesting fund financing in continuation vehicles to boost returns, signaling a structural shift toward leverage in the space.",
+        "text": "Secondaries investors increasingly demand fund financing for continuation vehicles to juice returns\u2014a structural shift toward leverage in the CV market.",
         "refId": "1f72cf421790",
         "source": "Secondaries Investor"
       },
       {
-        "text": "PE firms adopting market-standard governance practices on CVs preemptively to avoid stricter regulatory intervention.",
+        "text": "PE firms adopting market-standard CV governance practices preemptively to avoid stricter SEC/regulatory intervention on fee structures and performance standards.",
         "refId": "e17949a5c5c1",
         "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "Quant funds hit by factor whipsaws, private credit faces $22bn outflows, and labor strength threatens the rate-cut narrative.",
+    "lede": "Quant strategies getting torched by market rotations, private credit facing LP exodus, and labor strength keeping rate hike pressure alive\u2014Thursday's jobs report is key.",
     "bullets": [
       {
-        "text": "Systematic hedge funds taking losses as 'garbage rallies' in low-quality stocks break historical volatility models\u2014a sign factor positioning is crowded and fragile.",
+        "text": "Quant hedge funds hit by 'garbage rally' as systematic models stumble on factor rotations away from historical momentum/volatility patterns.",
         "refId": "905d9e3854c7",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Blue Owl pulled $4.7bn in Q2 redemptions; private credit universe bleeding $22bn as LPs question illiquidity premiums in higher-rate environment.",
+        "text": "Blue Owl absorbed $4.7bn redemptions in Q2; private credit fund outflows hit $22bn as LPs lose faith in illiquidity premiums amid rate uncertainty.",
         "refId": "47ac1bf18076",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Thursday's jobs report looms large: strong labor data keeps Fed rate-hike risk alive, pressuring financial institutions betting on lower-for-longer rates.",
+        "text": "Thursday's jobs report looms large\u2014strong labor data keeps Fed rate hike scenario alive, pressuring institutions positioned for lower-for-longer rates.",
         "refId": "7facbb086483",
         "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Mega-cap tech underperformance year-to-date despite H1 leadership suggests the concentration trade is finally rotating\u2014broad indices holding up signals money moving beyond the Mag 7.",
-        "refId": "831b466dccda",
-        "source": "TKer"
       }
     ]
   },
   "Newsletters": {
-    "lede": "ETF assets hit $23T globally amid leveraged product frenzy, but the SEC is now seeking public comment on complex structures as advisors remain cautious on suitability.",
+    "lede": "ETF industry hits inflection point: $23T in assets, leveraged products surging, but SEC and advisors pumping the brakes on risk.",
     "bullets": [
       {
-        "text": "Leveraged ETFs are experiencing record inflows as retail and institutional investors chase amplified returns in a rallying market, though RIA adoption remains cautious due to decay risk concerns.",
-        "refId": "bbe5520fdb58",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Global ETF assets reached $23T in May 2026 with inflows exceeding last year's record pace of $739B YTD, signaling continued industry momentum.",
-        "refId": "c06925b65f8d",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "SEC is actively soliciting public comment on novel ETF structures including leveraged, inverse, and derivative-linked products to balance innovation against investor protection and market stability risks.",
+        "text": "SEC opening comment period on complex ETF structures (leveraged, inverse, derivatives-linked) as $23T global industry grapples with innovation vs. stability tradeoff.",
         "refId": "6c5cd4d25dfb",
         "source": "The Daily Upside"
       },
       {
-        "text": "New Fed Chair Kevin Warsh is avoiding forward guidance on rates while emphasizing central bank independence, leaving markets to interpret policy direction from data alone.",
+        "text": "Leveraged ETFs seeing record inflows despite advisor hesitation\u2014retail chasing returns in rallying market while RIAs cite decay risk and suitability red flags.",
+        "refId": "bbe5520fdb58",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "New Fed Chair Warsh eschewing rate guidance and doubling down on central bank independence, forcing markets to rely on economic data alone for policy signals.",
         "refId": "9cd4b546429d",
         "source": "The Daily Upside"
       }
@@ -174,47 +164,47 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Coinbase scales AI agents at scale, housing policy lessons from Norway emerge, and immigration debate needs economic grounding.",
+    "lede": "Coinbase's AI-at-scale model, housing market deregulation insights, and immigration's role in demographic sustainability dominate today's reads.",
     "bullets": [
       {
-        "text": "Coinbase has 1,200 AI agents live in production issuing regulated financial advice\u2014Armstrong's model treats them as autonomous business units with KPIs, setting a template for regulated AI deployment.",
+        "text": "Coinbase has 1,200 AI agents live in production (compliance, advisory, customer service) operating under a legal framework permitting regulated financial advice\u2014Armstrong's model treats them as autonomous business units with KPIs.",
         "refId": "f7246068cdab",
         "source": "The AI Corner"
       },
       {
-        "text": "Norway's 1982 rent control abolition offers empirical housing market data via 38 years of Oslo classifieds, showing deregulation's real-world effects on supply and pricing dynamics.",
+        "text": "Norway's 1982 rent control abolition\u2014tracked via Oslo classifieds through 2008\u2014provides a natural experiment on housing deregulation; Cowen uses it to dissect market dynamics before and after.",
         "refId": "b3757294d2ad",
         "source": "Marginal Revolution"
       },
       {
-        "text": "Developed economies face demographic decline requiring skilled migration\u2014Smith pushes past polarization to focus on the economic necessity of immigration for growth and fiscal sustainability.",
+        "text": "Developed economies face demographic decline and need skilled migration to sustain growth and tax bases; Smith cuts through polarized rhetoric to focus on economic necessity.",
         "refId": "e323eb460803",
         "source": "Noahpinion"
       }
     ]
   },
   "all": {
-    "lede": "SEC tightens ETF scrutiny, sovereigns flood private credit, and AI agents breach regulated advisory\u2014a day of regulatory pressure meeting capital reallocation.",
+    "lede": "SEC tightens ETF oversight, sovereigns flood private credit, and fintech innovation accelerates amid regulatory clarity.",
     "bullets": [
       {
-        "text": "SEC opens comment period on exotic ETF structures (leveraged, inverse, derivatives-linked) as it weighs innovation vs. investor protection risks.",
+        "text": "SEC opens public comment on novel ETF structures (leveraged, inverse, derivative-linked) to weigh innovation against systemic risks\u2014watches for complex products that could destabilize markets.",
         "refId": "6c5cd4d25dfb",
         "source": "The Daily Upside"
       },
       {
-        "text": "Sovereign wealth funds are rotating out of public equities/bonds into private credit\u2014a structural shift signaling sustained capital demand for specialty finance.",
+        "text": "Sovereign wealth funds are aggressively reallocating from public equities/bonds into private credit, signaling durable capital tailwinds for specialty finance players.",
         "refId": "175eedb64fe8",
         "source": "Private Debt Investor"
       },
       {
-        "text": "Coinbase has 1,200 AI agents live in production issuing regulated financial advice under a new legal framework\u2014a governance model Armstrong is now sharing across founders.",
+        "text": "Coinbase running 1,200 AI agents in production across compliance and regulated advice under legal framework\u2014Armstrong's playbook treats agents as autonomous P&L units, raising governance questions for the industry.",
         "refId": "f7246068cdab",
         "source": "The AI Corner"
       },
       {
-        "text": "Hightower president Roberto Stewart exits during Goldman-led sale process amid investor pressure on founder capital payouts.",
-        "refId": "79158426874e",
-        "source": "RIABiz"
+        "text": "Swedish court awards Klarna \u20ac2B in antitrust victory against Google over price comparison preferencing, opening door for similar challenges to Big Tech gatekeeping in fintech.",
+        "refId": "2952198c5c62",
+        "source": "Banking Dive"
       }
     ]
   },
