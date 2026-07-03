@@ -1,31 +1,5 @@
 [
   {
-    "id": "2952198c5c62",
-    "title": "Klarna wins $2B Google antitrust case",
-    "url": "https://www.bankingdive.com/news/google-loses-2b-klarna-antitrust-case-online-shopping-consumer-spending-tech/824235/",
-    "source": "Banking Dive",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-01T14:47:54+00:00",
-    "summary_raw": "<figure><div><img src=\"https://imgproxy.divecdn.com/oJJRGJ8I24lnNSoZ9RfRv4pBHj8Zc4OvE92AK-rBmh0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk5MDk0MjIyLmpwZw==.webp\" /></div></figure><p>A Swedish court ruled Wednesday that the tech giant had violated antitrust laws in price comparison, harming a Klarna-owned European competitor.</p>",
-    "summary_ai": {
-      "digest": "Swedish court ruled Google violated antitrust law in price comparison, awarding Klarna a \u20ac2B judgment. The case centered on Google's preferential treatment of its own comparison service over Klarna-owned Prisjakt.",
-      "summary_long": "A Swedish court found Google liable for abusing its dominant market position by favoring its own price comparison tool and demoting competitors like Prisjakt (acquired by Klarna in 2017). The \u20ac2B award represents a significant regulatory win for fintech and a precedent in European antitrust enforcement against big tech. For Klarna, the judgment validates its European strategy and provides a capital infusion at a time when the BNPL operator is navigating IPO timing and profitability thresholds. The ruling also signals tightening antitrust scrutiny of tech platforms' self-preferencing in financial services and comparison verticals\u2014relevant to digital asset platforms and fintech distribution.",
-      "talking_points": [
-        "Klarna just won \u20ac2B from Google on antitrust grounds\u2014validates the fintech's European moat and adds a material capital buffer ahead of any IPO.",
-        "This is the second major antitrust win for Klarna in Europe; signals sustained regulatory pressure on big tech's self-preferencing in financial services.",
-        "The Prisjakt acquisition (2017) is now a licensed asset\u2014Google's forced deprioritization of a Klarna property created the legal claim, making M&A of regulated/comparable assets a hedge against platform risk."
-      ],
-      "topics": [
-        "fintech-regulation",
-        "antitrust-enforcement",
-        "Klarna-capital",
-        "big-tech-competition"
-      ],
-      "highlight": "\u20ac2B judgment gives Klarna a tangible capital injection and European regulatory precedent against big tech self-preferencing\u2014material for IPO timing and profitability narrative.",
-      "relevance": 8
-    }
-  },
-  {
     "id": "f7246068cdab",
     "title": "Brian Armstrong Runs 1,200 AI Agents at Coinbase. Here Is the Operating Model He Just Handed Every Founder.",
     "url": "https://www.the-ai-corner.com/p/brian-armstrong-coinbase-1200-ai-agents-operating-model-2026",
@@ -57,7 +31,7 @@
     "url": "https://riabiz.com/a/2026/7/3/vestmark-strikes-standalone-ria-black-gold-as-tamp-aum-leaps-past-50-billion-a-five-fold-increase-after-critical-upgrade-triggers-t-rowe-price-blackrock-capital-group-and-vaneck-referral-gusher",
     "source": "RIABiz",
     "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-03T11:05:07+00:00",
+    "date": "2026-07-03T14:53:13+00:00",
     "summary_raw": "The Wakefield, Mass., firm has already received $2 trillion of love as an institutional, private-label product, but ability to deliver UMAs to retail clients with legit tax management woke up the market.",
     "summary_ai": {
       "digest": "Vestmark's TAMP platform crossed $50B AUM (5x growth) after launching retail UMA product with tax management; major referrals from T. Rowe Price, BlackRock, Capital Group, VanEck signal demand for standalone RIA tech.",
@@ -75,32 +49,6 @@
       ],
       "highlight": "Five major asset managers now funneling retail client referrals into Vestmark's platform\u2014a sign that TAMPs are becoming the preferred infrastructure layer for RIA distribution.",
       "relevance": 8
-    }
-  },
-  {
-    "id": "45d417cc58eb",
-    "title": "Banks, card networks, fintechs partner on \u2018low-cost\u2019 stablecoin",
-    "url": "https://www.bankingdive.com/news/stablecoin-open-standard-bridge-abrams-bny-stripe-mastercard-visa-coinbase-adyen/824200/",
-    "source": "Banking Dive",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-01T13:28:27+00:00",
-    "summary_raw": "<figure><div><img src=\"https://imgproxy.divecdn.com/R1c7DozIXhlIp2W5pJU_QrDNsbTwcIaFIqKq0I7suu8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MjA1NDkwNTAuanBn.webp\" /></div></figure><p>More than 140 businesses, including BNY, Visa and Coinbase, lent their backing to a digital asset launched Tuesday by Open Standard, a consortium led by Bridge CEO Zach Abrams.</p>",
-    "summary_ai": {
-      "digest": "Open Standard consortium\u2014140+ members including BNY Mellon, Visa, and Coinbase\u2014launched a low-cost stablecoin Tuesday. Led by Bridge CEO Zach Abrams, the initiative targets payments infrastructure.",
-      "summary_long": "A coalition of banks, card networks, and fintechs announced a stablecoin project under the Open Standard umbrella, signaling industry-wide effort to establish a regulated, interoperable digital payments rail. BNY Mellon and Visa's participation suggests both custody and settlement layers are being designed in. The membership breadth\u2014140+ firms\u2014indicates an attempt to bypass fragmented crypto infrastructure and compete with existing stablecoins (USDC, USDT) by anchoring trust to traditional banking and payment networks. Coinbase's involvement suggests on/off-ramp integration. The 'low-cost' framing points to fee arbitrage vs. existing rails and suggests a play for high-volume, low-margin payment flows (remittances, B2B settlements, card funding).",
-      "talking_points": [
-        "140-firm consortium with BNY, Visa, Coinbase signals banking+fintech detente on stablecoin rails\u2014custody and settlement design are now collaborative, not siloed.",
-        "BNY's participation is the custody signal; Visa's is the settlement/payment signal. Together they de-risk regulatory uncertainty around rails.",
-        "Low-cost positioning targets payment volumes (remittances, payroll, B2B) where margin compression is already occurring\u2014this could pull fee volume from traditional ACH/wire if adoption scales."
-      ],
-      "topics": [
-        "stablecoin infrastructure",
-        "digital payments rails",
-        "bank-fintech partnerships",
-        "cryptocurrency custody"
-      ],
-      "highlight": "BNY Mellon and Visa participation legitimizes stablecoin settlement for institutional use; Open Standard's 140-firm backing suggests this is not a niche crypto play but a potential competitor to ACH for domestic payments.",
-      "relevance": 7
     }
   },
   {
@@ -151,31 +99,6 @@
         "bank-LLR-reserves"
       ],
       "highlight": "20 bps delinquency improvement in a single month suggests CRE credit cycle may be accelerating faster than consensus expected\u2014material for bank earnings and capital planning.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "f73a7a2e042e",
-    "title": "Compromised Advisor Credentials Used in Pump-and-Dump Schemes",
-    "url": "https://www.wealthmanagement.com/regulation-compliance/doj-seizes-195m-from-cyber-pump-and-dump-schemes",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-01T17:02:36+00:00",
-    "summary_raw": "The Department of Justice used civil forfeiture to seize about $19.5 million in proceeds from the pair of alleged market manipulation schemes that caused share prices to skyrocket.",
-    "summary_ai": {
-      "digest": "DOJ seized $19.5M in proceeds from pump-and-dump schemes using compromised advisor credentials to manipulate share prices.",
-      "summary_long": "Two individuals allegedly used stolen or compromised financial advisor credentials to execute coordinated pump-and-dump schemes, artificially inflating share prices before selling. The DOJ pursued civil forfeiture of $19.5 million in proceeds rather than waiting for criminal conviction, a faster enforcement mechanism. The use of legitimate advisor identities to mask manipulation suggests a gap in credential-verification systems and KYC/AML controls at broker-dealers and platforms. This case signals regulatory focus on advisor-impersonation fraud and will likely pressure wealth-management platforms to tighten identity verification and suspicious trading monitoring.",
-      "talking_points": [
-        "DOJ deployed civil forfeiture to seize $19.5M from pump-and-dump actors\u2014faster than criminal prosecution and a template for follow-on enforcement.",
-        "Compromised advisor credentials were the attack vector, exposing a weakness in broker-dealer KYC and credential-verification infrastructure.",
-        "Expect increased compliance scrutiny on credential-gating, multi-factor authentication, and suspicious trading alerts at RIAs, platforms, and wealth managers."
-      ],
-      "topics": [
-        "compliance-enforcement",
-        "advisor-fraud",
-        "wealth-management-risk"
-      ],
-      "highlight": "DOJ civil forfeiture of $19.5M from pump-and-dump schemes using stolen advisor credentials; regulatory signal on credential-verification gaps.",
       "relevance": 7
     }
   },
@@ -799,6 +722,32 @@
     }
   },
   {
+    "id": "39bf219e4c0d",
+    "title": "Sidecar formation continued to increase in 2025 with total reserves exceeding $90bn: AM Best",
+    "url": "https://www.reinsurancene.ws/sidecar-formation-continued-to-increase-in-2025-with-total-reserves-exceeding-90bn-am-best/",
+    "source": "Reinsurance News",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-03T13:00:40+00:00",
+    "summary_raw": "<p>The formation of sidecars experienced a significant increase in 2025, driven by strong annuity sales in the United States, according to a new report by credit rating agency AM Best. During this period, total reserves ceded to these entities rose to over $90 billion, a sharp increase from the $55 billion recorded in 2023. Sidecars [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/sidecar-formation-continued-to-increase-in-2025-with-total-reserves-exceeding-90bn-am-best/\">Sidecar ",
+    "summary_ai": {
+      "digest": "Sidecar formation surged in 2025 with total reserves exceeding $90bn, up 64% from $55bn in 2023, driven by strong US annuity sales.",
+      "summary_long": "Sidecars\u2014special-purpose reinsurance vehicles that allow insurers and capital providers to co-invest in specific risks\u2014accelerated sharply in 2025. Total reserves ceded to these entities crossed $90bn, a dramatic jump from $55bn two years prior, propelled largely by elevated annuity underwriting and demand from third-party capital seeking yield in a competitive insurance environment. This trend signals both the insurance industry's appetite to offload longevity and mortality risk onto specialized vehicles and the capital markets' willingness to fund niche insurance exposures. The scale and velocity suggest sidecars are now a structural feature of the reinsurance market, not a cyclical tool.",
+      "talking_points": [
+        "Sidecar reserves grew 64% in two years to $90bn+, signaling a structural shift in how insurers deploy capital and manage tail risks.",
+        "Annuity sales spike is the primary driver\u2014insurers are using sidecars to securitize longevity risk and free up capital for growth.",
+        "This is a capital-deployment and risk-transfer play; PE and alternative capital are likely funding these vehicles to get yield-on-yield exposure."
+      ],
+      "topics": [
+        "insurance-capital-allocation",
+        "sidecar-growth",
+        "annuity-risk-transfer",
+        "alternative-capital-deployment"
+      ],
+      "highlight": "$90bn in sidecar reserves ceded in 2025, a 64% increase in two years, driven by US annuity sales and third-party capital seeking insurance-linked yields.",
+      "relevance": 7
+    }
+  },
+  {
     "id": "7a0488d53609",
     "title": "Monetary Authority of Singapore and banks team on safeguards for AI agents",
     "url": "https://www.finextra.com/pressarticle/110344/monetary-authority-of-singapore-and-banks-team-on-safeguards-for-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -822,57 +771,6 @@
       ],
       "highlight": "MAS white paper on AI agent safeguards represents the first coordinated regulatory template\u2014expect adoption across UK, EU, and US regulators within 18 months, creating compliance cost barriers for smaller fintech competitors.",
       "relevance": 7
-    }
-  },
-  {
-    "id": "fd3fafaa2cf6",
-    "title": "Investor Intentions: MWRA issue RFP for private equity buyout mandate",
-    "url": "https://www.privateequityinternational.com/investor-intentions-mwra-issue-rfp-for-private-equity-buyout-mandate/",
-    "source": "Private Equity International",
-    "section": "PE & Deals",
-    "date": "2026-07-01T13:53:42+00:00",
-    "summary_raw": "The public pension fund plans on committing up to $20bn for this mandate.",
-    "summary_ai": {
-      "digest": "MWRA (Massachusetts Water Resources Authority) issued RFP for PE buyout mandate with up to $20bn commitment capacity \u2014 a significant capital deployment signal for mid-market and large-cap PE.",
-      "summary_long": "The Massachusetts Water Resources Authority, a major public pension allocator, has launched a request for proposal (RFP) to select PE partners for a dedicated buyout mandate. The fund is signaling willingness to commit up to $20bn across this strategy, representing a material reallocation within their PE sleeve or new dry powder capacity. This type of large, dedicated mandate typically attracts established mid-market and lower-mid-market GPs; the RFP process will likely narrow to 2\u20134 final managers. For FIG-focused PE funds, this is a signal of continued institutional LP appetite for structured, large-check deployments \u2014 and a barometer of whether public pensions are still confident enough to scale commitments in the current rate and credit environment.",
-      "talking_points": [
-        "$20bn RFP mandate from MWRA signals sustained institutional appetite for PE buyout exposure.",
-        "Public pension scale on this mandate will likely attract only established or mega-cap GPs, but mid-market performers may co-invest or anchor it.",
-        "Timing of RFP in mid-2026 reads as continued confidence in exit markets and refinance availability."
-      ],
-      "topics": [
-        "PE capital deployment",
-        "LP allocation",
-        "public pension",
-        "buyout mandate"
-      ],
-      "highlight": "MWRA committing up to $20bn to buyout mandate \u2014 a scale signal of institutional PE appetite and exit-market confidence.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "831b466dccda",
-    "title": "The first half of 2026 confirmed a valuable stock market lesson \ud83e\udd14",
-    "url": "https://www.tker.co/p/stock-market-up-magnificent-7-lag-first-half-2026",
-    "source": "TKer (Sam Ro)",
-    "section": "Markets & Macro",
-    "date": "2026-07-01T14:55:43+00:00",
-    "summary_raw": "Leaders will lag and the stock market will still go up &#127385;",
-    "summary_ai": {
-      "digest": "Market leaders from H1 2026 (likely mega-cap tech) have underperformed year-to-date, yet broad indices still posted gains\u2014a rotation signal that challenges concentration-dependent performance narratives.",
-      "summary_long": "The piece examines H1 2026 market action to illustrate a recurring lesson: the stocks and sectors leading a bull run often lag in subsequent periods, yet the overall market continues to advance. This reflects a healthy broadening of returns beyond a narrow leadership cohort. For a FIG analyst, this matters because it signals shifts in which companies (and which financing strategies) will drive deal flow and capital allocation. When mega-cap tech leadership breaks down but equities stay strong, regional banks, alternative asset managers, and fintech platforms may see renewed relative attractiveness and M&A interest.",
-      "talking_points": [
-        "Narrow leadership breaking down doesn't signal a market top\u2014it's typically a sign of healthy breadth and rotation into new sectors.",
-        "H1 2026 showed mega-cap tech lagging while broad indices advanced, suggesting next-phase winners may be smaller-cap or out-of-favor names.",
-        "For FIG positioning: rotation away from mega-cap tech concentration may unlock deal activity and financing demand in banks, specialty finance, and wealth platforms seeking growth capital."
-      ],
-      "topics": [
-        "equity-market-rotation",
-        "sector-leadership-shift",
-        "market-breadth"
-      ],
-      "highlight": "Leaders lagging while the broader market rises is a feature of healthy bull markets, not a red flag\u2014and suggests deal flow may shift toward non-tech sectors.",
-      "relevance": 6
     }
   },
   {
@@ -1446,7 +1344,7 @@
     "source": "Banking Dive",
     "section": "FIG \u2014 Banks",
     "date": "2026-07-02T15:26:50+00:00",
-    "summary_raw": "<p>Expenses related to the agreement have totaled over $5 million. CEO Steven Sugarman said he now expects regulatory and FDIC fees to decrease.</p>",
+    "summary_raw": "<p>Expenses related to the agreement have totaled over $5 million. CEO Steven Sugarman said he expects the bank&rsquo;s new regulatory status to cut down on regulatory and FDIC fees.</p>",
     "summary_ai": {
       "digest": "OCC terminated enforcement action against Patriot Bank after the regional lender spent over $5M in compliance costs. CEO expects regulatory and FDIC fees to decline going forward.",
       "summary_long": "Patriot Bank has successfully exited an OCC enforcement agreement, removing a regulatory overhang that had imposed significant operational and financial burden. The bank incurred over $5M in expenses tied to meeting the agreement's requirements\u2014likely remediation work, third-party audits, and legal fees. With the enforcement action closed, management expects tangible relief in ongoing regulatory assessment fees and FDIC insurance costs, which are often higher for banks under supervisory orders. This signals improved regulatory standing and could positively influence the bank's cost structure and capital allocation going forward. For a regional bank of Patriot's size, the removal of enforcement stigma may also ease access to correspondent banking and institutional relationships.",
@@ -1880,31 +1778,6 @@
     }
   },
   {
-    "id": "d8ec9a77721a",
-    "title": "Suncorp lifts main cat reinsurance cover for FY27",
-    "url": "https://www.reinsurancene.ws/suncorp-lifts-main-cat-reinsurance-cover-for-fy27/",
-    "source": "Reinsurance News",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-03T08:00:33+00:00",
-    "summary_raw": "<p>Australian insurer Suncorp has completed its core 2027 reinsurance renewal, securing catastrophe cover for losses between $500 million and $6.4 billion, alongside its previously announced 5-year aggregate reinsurance arrangement, which provides $800 million of protection annually, and up to $2.4 billion in total over the period. Despite continued catastrophe reinsurance softening, Suncorp expects its total [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/suncorp-lifts-main-cat-",
-    "summary_ai": {
-      "digest": "Suncorp completed FY27 cat reinsurance renewal with $500M\u2013$6.4B core cover plus existing $800M annual aggregate arrangement. Market softening creates favorable pricing environment for Australian insurer.",
-      "summary_long": "Suncorp, a major Australian P&C insurer, has finalized its catastrophe reinsurance program for fiscal 2027, securing $5.9B in layered coverage ($500M\u2013$6.4B tranche plus $800M annual aggregate, up to $2.4B over 5 years). The renewal locks in protection against large and aggregate losses in an environment where cat reinsurance capacity remains ample and pricing favorable for cedents. This signals Suncorp's confidence in underwriting profitability despite elevated nat-cat exposure in Australia and reflects the structural shift in reinsurance supply post-2023 cycle. For regional insurers, improved cat reinsurance terms reduce balance-sheet volatility and capital strain, a key variable for equity investors and debt ratings.",
-      "talking_points": [
-        "Suncorp secured $5.9B in cat reinsurance for FY27 in a softer market\u2014core layer $500M\u2013$6.4B plus $800M annual aggregate.",
-        "Pricing concessions in cat reinsurance reflect sustained excess capacity from capital markets and reinsurers post-cycle, benefiting large cedents like Suncorp.",
-        "Multi-year aggregate deal ($2.4B total over 5 years) locks in terms and reduces annual renewal risk for an insurer facing elevated Australian nat-cat tail."
-      ],
-      "topics": [
-        "cat-reinsurance-pricing",
-        "australian-p-c-insurance",
-        "reinsurance-capacity"
-      ],
-      "highlight": "$5.9B in layered cat cover for FY27 in a softening reinsurance market\u2014favorable pricing environment for cedents with nat-cat exposure.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "452a82932350",
     "title": "Evercore adds secondaries talent in Asia from HarbourVest",
     "url": "https://www.secondariesinvestor.com/evercore-adds-secondaries-talent-in-asia-from-harbourvest/",
@@ -2113,55 +1986,54 @@
     }
   },
   {
-    "id": "c35143574b82",
-    "title": "Michael Burry says he's shorting Caterpillar for the first time after it nearly doubled in the AI-driven rally of 2026",
-    "url": "https://www.cnbc.com/2026/06/30/burry-shorts-caterpillar-after-it-nearly-doubled-in-ai-rally-of-2026.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-01T14:13:44+00:00",
-    "summary_raw": "\"Caterpillar jumped out at me,\" Burry said. \"I have never shorted Caterpillar. It has always done great for me on the long side in the past.\"",
+    "id": "7459a9cea5f5",
+    "title": "A looming AI disappointment and rising yields. Why one research firm is hitting the brakes on U.S. stocks.",
+    "url": "https://www.marketwatch.com/story/a-looming-ai-disappointment-and-rising-yields-why-one-research-firm-is-hitting-the-brakes-on-u-s-stocks-4bfaa67b?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-03T14:17:00+00:00",
+    "summary_raw": "In a market dominated by tech stocks, a big test is facing investors in the next 12 months, warns MacroResearchBoard",
     "summary_ai": {
-      "digest": "Michael Burry initiates first-ever short position in Caterpillar after stock nearly doubled during 2026 AI rally, citing valuation concerns.",
-      "summary_long": "Burry, known for his contrarian bets and the 2008 housing crisis short, is taking a bearish stance on Caterpillar despite a history of profitable long positions in the stock. The company's near-doubling in 2026 appears driven by broad AI-market enthusiasm rather than fundamental business improvement in heavy equipment manufacturing. Burry's short signals conviction that current valuations have detached from underlying earnings power. For FIG professionals tracking credit cycles and industrial loan exposure, this represents a macro signal: if a prominent value investor is shorting a bellwether industrial, it may portend caution in credit demand from machinery/construction end-markets that banks lend into.",
+      "digest": "MacroResearchBoard warns AI disappointment and rising yields pose downside risk to U.S. equities over the next 12 months, with tech stocks particularly vulnerable.",
+      "summary_long": "The piece outlines a thesis that AI monetization has lagged expectations, while simultaneously yields are rising in a way that pressures valuation multiples\u2014a dual headwind for a market dominated by mega-cap tech. The argument is that investors have front-loaded AI upside into current prices without seeing commensurate earnings accretion, while higher rates make those growth stories worth less in present-value terms. This matters for FIG because equity volatility, risk-off sentiment, and duration pressure all compress deal activity, credit spreads, and M&A appetite. The frame is macro caution, not a specific catalyst.",
       "talking_points": [
-        "Burry's first-ever CAT short after decades of long success suggests he sees unsustainable valuation, not temporary weakness.",
-        "AI-driven rally in industrials may be pricing in demand that won't materialize, affecting credit demand for capex-heavy sectors banks finance.",
-        "Regional banks with construction, equipment-leasing, or industrial-lending books should watch for deteriorating credit trends if this thesis plays out."
+        "AI revenue inflection has been slower than priced in; valuations assume earnings growth that hasn't materialized yet.",
+        "Rising yields compress the terminal value of growth stocks\u2014a double hit for tech-heavy portfolios.",
+        "If this thesis plays out, expect lower equity volatility, tighter credit spreads, and reduced M&A appetite across FIG\u2014the opposite environment for deal-making."
       ],
       "topics": [
-        "industrial-credit-cycle",
-        "valuation-signal",
-        "macro-bearish",
-        "credit-risk"
+        "tech-valuation-risk",
+        "AI-monetization",
+        "equity-yields-spread"
       ],
-      "highlight": "Burry's first short ever in a stock he profited on long-term signals deep skepticism about AI-rally fundamentals in industrials\u2014a cautionary signal for bank lenders to equipment/construction sectors.",
-      "relevance": 5
+      "highlight": "Dual headwind: AI upside already priced in but earnings lagging, while rising rates reduce what future growth is worth today.",
+      "relevance": 6
     }
   },
   {
-    "id": "1e7946a8b723",
-    "title": "Anthropic Won a Reprieve From the Trump Administration. Is It Enough?",
-    "url": "https://www.nytimes.com/2026/07/01/business/dealbook/anthropic-fable-mythos-trump.html",
-    "source": "Dealbook (NYT)",
-    "section": "Markets & Macro",
-    "date": "2026-07-01T14:50:39+00:00",
-    "summary_raw": "The company can restore access to its most powerful A.I. models. But Silicon Valley remains worried about the Trump administration\u2019s heavier hand on regulation.",
+    "id": "253d8c518e0a",
+    "title": "FCDO commits additional \u00a33m to Natural Disaster Fund Technical Assistance Facility",
+    "url": "https://www.reinsurancene.ws/fcdo-commits-additional-3m-to-natural-disaster-fund-technical-assistance-facility/",
+    "source": "Reinsurance News",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-03T15:00:01+00:00",
+    "summary_raw": "<p>The Foreign, Commonwealth and Development Office (FCDO), which leads the UK\u2019s diplomatic, development and consular work globally, has committed an additional \u00a33 million to the Technical Assistance Facility (NDF TA Facility), operated by the Natural Disaster Fund (NDF), a blended risk transfer vehicle designed to mitigate climate-related challenges and build resilience for low-and-middle-income countries. The [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/fcdo-commits-addition",
     "summary_ai": {
-      "digest": "Anthropic regained access to export its flagship AI models after Trump administration intervention, but Silicon Valley faces uncertainty over broader AI regulation and geopolitical chip controls.",
-      "summary_long": "Anthropic, a leading AI safety company, had been restricted from exporting its most capable models under national security review. A recent reprieve allows the company to restore commercial access, a significant win for the startup's business model and valuation. However, the reprieve is narrow and conditional\u2014it does not resolve the Trump administration's stated intent to tighten AI regulation, particularly around training data, model capability thresholds, and semiconductor export controls to China. For financial services players, this signals continued regulatory volatility around AI infrastructure investment and the competitive positioning of U.S. AI vendors versus international alternatives.",
+      "digest": "UK Foreign Office commits additional \u00a33m to Natural Disaster Fund Technical Assistance Facility, a blended-finance risk transfer vehicle for climate resilience in low- and middle-income countries.",
+      "summary_long": "The FCDO is increasing its backing of the NDF TA Facility, which provides technical assistance and risk transfer capacity to help developing economies build climate resilience and disaster preparedness. This is a blended-finance structure\u2014mixing public capital with commercial risk transfer\u2014designed to unlock private capital for climate adaptation in emerging markets. The facility bridges the gap between concessional development funding and commercial insurance/reinsurance, reducing basis risk for private participants. For specialty-finance and impact-focused investors, this signals continued government appetite to co-invest alongside insurance and reinsurance players in climate risk mitigation.",
       "talking_points": [
-        "Anthropic's export restrictions have been lifted, but this is a tactical win within a broader tightening regulatory framework.",
-        "Trump administration remains committed to heavier AI governance\u2014expect continued uncertainty around training data, chip access, and capability controls.",
-        "FIG investors should monitor whether AI vendor concentration risk (Anthropic, OpenAI, others) drives hedge or hedging decisions in fintech and data platform deals."
+        "UK FCDO adding \u00a33m to NDF TA Facility\u2014a blended-finance climate risk vehicle targeting low- and middle-income countries.",
+        "Structure combines public concessional capital with commercial risk transfer, designed to attract private reinsurers and insurers into climate adaptation.",
+        "Signals ongoing government and multilateral appetite to backstop climate resilience instruments, reducing private-sector basis risk."
       ],
       "topics": [
-        "AI regulation",
-        "geopolitical risk",
-        "fintech infrastructure",
-        "venture volatility"
+        "climate-risk-transfer",
+        "blended-finance",
+        "reinsurance-capital",
+        "emerging-markets-insurance"
       ],
-      "highlight": "The reprieve is conditional and narrow\u2014Anthropic's fundamental regulatory uncertainty persists, making long-term AI vendor partnerships riskier for FIG deployers.",
-      "relevance": 5
+      "highlight": "FCDO capital injection into NDF TA Facility demonstrates sustained public-sector commitment to de-risking climate insurance for emerging markets, creating deal flow for specialty-finance and reinsurance firms.",
+      "relevance": 6
     }
   },
   {
@@ -2541,32 +2413,6 @@
     }
   },
   {
-    "id": "c4bc41dcb93f",
-    "title": "Brent to slide as low as $60 a barrel by Christmas, forecasts Citi",
-    "url": "https://www.ft.com/content/30f0195c-6283-4a70-aab0-929b026c9b70",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-03T07:03:31+00:00",
-    "summary_raw": "Both US and Iran have good reason to maintain ceasefire, bank\u2019s analysts say",
-    "summary_ai": {
-      "digest": "Citigroup forecasts Brent crude falling to $60/barrel by year-end on expectations of US-Iran ceasefire holding and sustained supply growth outpacing demand.",
-      "summary_long": "Citi's commodities team projects a 20%+ decline in Brent from current levels, anchored to a geopolitical call: both the US and Iran have structural incentives to maintain a ceasefire (sanctions relief for Iran, regional stability for the US). The forecast assumes no major supply disruption and reflects their view that global crude inventories will build as production outpaces consumption growth into Q4. This contrasts with near-term risk-off sentiment in energy markets and suggests the bank sees tail risk of Middle East escalation as priced in or overstated.",
-      "talking_points": [
-        "Citi sees Brent at $60 by Christmas\u2014a 20%+ drop\u2014betting the ceasefire holds and supply exceeds demand.",
-        "The call hinges on geopolitical stability, not just macro: both US and Iran have incentives to avoid renewed escalation.",
-        "A major test for any FIG team covering energy lending or commodity finance: if Citi is right, energy credit spreads may widen and refinancing risk rises for levered E&P."
-      ],
-      "topics": [
-        "oil-markets",
-        "geopolitical-risk",
-        "commodity-pricing",
-        "credit-cycle"
-      ],
-      "highlight": "If accurate, a $60 Brent floor would mark a significant repricing of geopolitical risk and test energy-sector debt servicing capacity.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "34051c6cbe4f",
     "title": "\u2018Significant\u2019 momentum in European digital infra, says Sandbrook; Main Capital, Volpi Capital in software deals",
     "url": "https://www.pehub.com/significant-momentum-in-european-digital-infra-says-sandbrook-main-capital-volpi-capital-in-software-deals/",
@@ -2717,6 +2563,32 @@
         "distribution-innovation"
       ],
       "highlight": "Voice-first interface eliminates infrastructure investment for banks, making merchant-banking services deployable at counter in markets with low digital literacy.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "c4bc41dcb93f",
+    "title": "Brent could fall to $60 a barrel by Christmas, forecasts Citi",
+    "url": "https://www.ft.com/content/30f0195c-6283-4a70-aab0-929b026c9b70",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-03T14:04:48+00:00",
+    "summary_raw": "Bearish forecast comes as Wall Street analysts predict oil market will return to surplus",
+    "summary_ai": {
+      "digest": "Citigroup forecasts Brent crude falling to $60/barrel by year-end on expectations of US-Iran ceasefire holding and sustained supply growth outpacing demand.",
+      "summary_long": "Citi's commodities team projects a 20%+ decline in Brent from current levels, anchored to a geopolitical call: both the US and Iran have structural incentives to maintain a ceasefire (sanctions relief for Iran, regional stability for the US). The forecast assumes no major supply disruption and reflects their view that global crude inventories will build as production outpaces consumption growth into Q4. This contrasts with near-term risk-off sentiment in energy markets and suggests the bank sees tail risk of Middle East escalation as priced in or overstated.",
+      "talking_points": [
+        "Citi sees Brent at $60 by Christmas\u2014a 20%+ drop\u2014betting the ceasefire holds and supply exceeds demand.",
+        "The call hinges on geopolitical stability, not just macro: both US and Iran have incentives to avoid renewed escalation.",
+        "A major test for any FIG team covering energy lending or commodity finance: if Citi is right, energy credit spreads may widen and refinancing risk rises for levered E&P."
+      ],
+      "topics": [
+        "oil-markets",
+        "geopolitical-risk",
+        "commodity-pricing",
+        "credit-cycle"
+      ],
+      "highlight": "If accurate, a $60 Brent floor would mark a significant repricing of geopolitical risk and test energy-sector debt servicing capacity.",
       "relevance": 5
     }
   },
@@ -3279,55 +3151,6 @@
     }
   },
   {
-    "id": "300414f1e2a0",
-    "title": "DUAL Europe appoints Frank Masteling as Managing Director of DUAL Benelux",
-    "url": "https://www.reinsurancene.ws/dual-europe-appoints-frank-masteling-as-managing-director-of-dual-benelux/",
-    "source": "Reinsurance News",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-03T08:30:02+00:00",
-    "summary_raw": "<p>DUAL Europe, the European arm of international underwriting agency DUAL Group, has appointed Frank Masteling as Managing Director of DUAL Benelux. In addition to his new responsibilities, Masteling will continue in his existing role as Head of European Trade Credit, reflecting DUAL Europe&#8217;s continued investment in leadership and its long-term commitment to the Benelux market. [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/dual-europe-appoints-frank-masteling-as-managing",
-    "summary_ai": {
-      "digest": "DUAL Europe promotes Frank Masteling to Managing Director of DUAL Benelux while retaining his European Trade Credit leadership role.",
-      "summary_long": "DUAL Europe, the European subsidiary of the international underwriting agency DUAL Group, has elevated Frank Masteling to lead its Benelux operations. Masteling retains his existing position as Head of European Trade Credit, signaling DUAL's dual commitment to regional expansion and specialty underwriting. The move reflects organizational confidence in Masteling and suggests DUAL is investing in Benelux market penetration, likely ahead of anticipated growth or M&A activity in the region. Trade credit underwriting remains a specialty-finance niche with consolidation potential, particularly as digital platforms and fintech disrupt traditional brokers.",
-      "talking_points": [
-        "DUAL Europe is doubling down on Benelux as a growth market, combining regional leadership with specialty-line expertise.",
-        "Masteling's dual mandate suggests DUAL is building trade credit capability regionally\u2014a sticky, recurring-revenue line that attracts consolidators.",
-        "Watch for DUAL Group itself as an M&A candidate or acquirer; specialty underwriters with geographic beachheads often become acquisition targets for larger brokers or insurers."
-      ],
-      "topics": [
-        "specialty-insurance-underwriting",
-        "european-regional-expansion",
-        "trade-credit"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
-    "id": "e21e9b286b58",
-    "title": "Malaysian Re\u2019s CAB launches enhanced cloud-base platform",
-    "url": "https://www.reinsurancene.ws/malaysian-res-cab-launches-enhanced-cloud-base-platform/",
-    "source": "Reinsurance News",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-03T09:00:34+00:00",
-    "summary_raw": "<p>The Central Administration Bureau (CAB), established and managed by Malaysian Reinsurance Berhad (Malaysian Re), has officially launched CAB 2.0, marking the transition of its Central Administration Bureau Facultative (CABFAC) system from a legacy platform to a modern cloud-based system. According to Malaysian Re, the enhanced cloud-based version of its CABFAC system is designed to improve [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/malaysian-res-cab-launches-enhanced-clou",
-    "summary_ai": {
-      "digest": "Malaysian Re's Central Administration Bureau launched CAB 2.0, migrating its facultative reinsurance platform from legacy to cloud infrastructure.",
-      "summary_long": "Malaysian Reinsurance Berhad's CAB unit has completed a technology migration of its CABFAC (facultative reinsurance) system to a modern cloud-based architecture. The upgrade is positioned as improving operational efficiency and platform capabilities for reinsurance brokers and market participants who rely on CAB for facultative placement administration. This is a platform modernization play within the reinsurance sector, not a structural M&A, capital raise, or regulatory action. The move reflects industry-wide pressure to digitize legacy insurance infrastructure, but without visibility into competitive impact, cost savings, or market share implications, it reads as an internal operational improvement rather than a catalyst for deal flow or consolidation.",
-      "talking_points": [
-        "Malaysian Re's CAB unit migrated its facultative reinsurance system to cloud, signaling tech refresh in a sector with significant legacy-infrastructure drag.",
-        "Platform modernization in reinsurance administration is table-stakes, but execution and adoption adoption rates among brokers will determine whether this shifts pricing power or market positioning."
-      ],
-      "topics": [
-        "reinsurance-infrastructure",
-        "digital-transformation",
-        "insurance-ops"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
     "id": "a6ae210961b9",
     "title": "Treatment Resistant",
     "url": "https://newsletter.doomberg.com/p/treatment-resistant",
@@ -3418,31 +3241,6 @@
     }
   },
   {
-    "id": "a8ce598ea7b9",
-    "title": "Booze-free beer is no longer a punchline \u2014 and big brewers see a billion-dollar opportunity",
-    "url": "https://www.marketwatch.com/story/booze-free-beer-is-no-longer-a-punchline-and-big-brewers-see-a-billion-dollar-opportunity-407c8771?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-03T11:00:00+00:00",
-    "summary_raw": "Nonalcoholic beer is catching on even with people who also buy alcohol, as Americans look to moderate their drinking.",
-    "summary_ai": {
-      "digest": "Non-alcoholic beer is shifting from niche to mainstream, with major brewers investing heavily as the category targets moderate drinkers and a potential $1B+ market.",
-      "summary_long": "Non-alcoholic beer (NAB) has moved beyond the abstainer demographic to capture health-conscious consumers who still drink alcohol but want variety. Big brewers like Anheuser-Busch, Molson Coors, and Heineken are expanding portfolios and distribution, signaling confidence in structural demand. The segment benefits from broader trends in wellness, reduced alcohol consumption among younger cohorts, and premiumization within the category itself. Growth rates are outpacing traditional beer, and major brewers are treating NAB as a core growth engine rather than a defensive hedge. The market opportunity is being sized in the $1B+ range, making it material for beverage sector capital allocation.",
-      "talking_points": [
-        "NAB is no longer defensive\u2014it's an offense play, with big brewers treating it as a growth category comparable to hard seltzers.",
-        "The TAM has shifted: NAB is now bought by moderate drinkers, not just abstainers, which materially widens addressable demand.",
-        "If wellness and moderation trends hold, NAB could cannibalize 5\u201310% of traditional beer over a decade\u2014worth modeling in beverage equity work."
-      ],
-      "topics": [
-        "consumer-beverage-shift",
-        "premiumization-trend",
-        "wellness-macro-tailwind"
-      ],
-      "highlight": "Major brewers are investing in NAB as a core growth vector, not a defensive play\u2014NAB growth rates exceed traditional beer category.",
-      "relevance": 3
-    }
-  },
-  {
     "id": "fa1922281f09",
     "title": "PwC Bermuda promotes Damian Sealy to Partner",
     "url": "https://www.reinsurancene.ws/pwc-bermuda-promotes-damian-sealy-to-partner/",
@@ -3515,6 +3313,76 @@
         "long-term program management"
       ],
       "highlight": "The screwworm factory in Panama was the operational linchpin; when funding and attention drifted, so did the border's integrity\u2014a model for how eradication systems fail not from biology but from organizational neglect.",
+      "relevance": 3
+    }
+  },
+  {
+    "id": "077bc40bba63",
+    "title": "Hamilton Select names Mike Mulray as President and Daniel Tague as CUO",
+    "url": "https://www.reinsurancene.ws/hamilton-select-names-mike-mulray-as-president-and-daniel-tague-as-cuo/",
+    "source": "Reinsurance News",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-03T13:30:49+00:00",
+    "summary_raw": "<p>Hamilton Insurance Group, Ltd., a Bermuda-headquartered specialty insurance and reinsurance company, has announced the appointments of Mike Mulray as President of Hamilton Select and Daniel Tague as Chief Underwriting Officer of Hamilton Select. Hamilton Select is Hamilton&#8217;s primary carrier for domestically placed US excess and surplus lines business. The leadership appointments support the continued expansion [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/hamilton-sele",
+    "summary_ai": {
+      "digest": "Hamilton Insurance Group names Mike Mulray President and Daniel Tague Chief Underwriting Officer of Hamilton Select, its US excess and surplus lines carrier.",
+      "summary_long": "Hamilton Insurance Group, a Bermuda-based specialty insurer and reinsurer, has promoted two executives to lead Hamilton Select, the subsidiary handling domestic US excess and surplus (E&S) lines placement. Mulray takes the presidency while Tague assumes the chief underwriting role. The appointments suggest Hamilton is investing in operational depth and underwriting discipline within its E&S platform, likely to drive premium growth and risk management in a high-margin segment. E&S lines have been a competitive battleground as traditional carriers retreat from complex risks, creating capacity and pricing opportunity for specialists.",
+      "talking_points": [
+        "Hamilton Select is doubling down on US E&S lines with dedicated president and CUO, signaling confidence in the segment's profitability and growth runway.",
+        "CUO hire (Tague) implies underwriting discipline focus \u2014 typical signal that Hamilton is tightening risk selection after a period of rapid growth or market share gain."
+      ],
+      "topics": [
+        "insurance-leadership",
+        "excess-surplus-lines",
+        "specialty-insurance"
+      ],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "8cca817fc4e1",
+    "title": "U.S. stocks have delivered 8.7% a year since independence was declared in 1776",
+    "url": "https://www.marketwatch.com/story/u-s-stocks-have-delivered-8-7-a-year-since-independence-was-declared-in-1776-7513ae04?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-03T13:52:00+00:00",
+    "summary_raw": "What 250 years of independence have meant for America\u2019s investors.",
+    "summary_ai": {
+      "digest": "U.S. stocks have returned 8.7% annually since 1776, a long-run benchmark often cited to justify equity allocations.",
+      "summary_long": "MarketWatch recycles a familiar historical return figure\u20148.7% annualized for equities over 250 years\u2014likely using standard datasets (Ibbotson, Shiller CAPE, or Siegel) that dominate financial-adviser talking points. The piece serves as a holiday-calendar evergreen: celebrate American capitalism, remind clients why they own stocks. There is no new data, cycle positioning, or signal about current valuations or deal financing costs. It is pure sentiment and back-patting.",
+      "talking_points": [
+        "Useful rule-of-thumb for client conversations, but carries survivorship bias and understates volatility and reinvestment assumptions."
+      ],
+      "topics": [
+        "historical-returns",
+        "equity-market-context"
+      ],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "2d9454bfac4d",
+    "title": "Clear Group strengthens leadership team with two senior executive appointments",
+    "url": "https://www.reinsurancene.ws/clear-group-strengthens-leadership-team-with-two-senior-executive-appointments/",
+    "source": "Reinsurance News",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-03T14:00:57+00:00",
+    "summary_raw": "<p>Clear Group, an independent insurance and employee benefits group with operations across the UK and Ireland, has announced two senior executive appointments as the company continues to expand its leadership team in support of its long-term growth plans. The company has appointed Phil Williams as Group Chief Commercial Officer (CCO) and Matthew Alcott as UK [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/clear-group-strengthens-leadership-team-with-two-senior-executive-appointm",
+    "summary_ai": {
+      "digest": "Clear Group appoints Phil Williams as Group CCO and Matthew Alcott as UK managing director to support expansion.",
+      "summary_long": "Clear Group, an independent insurance and employee benefits operator in the UK and Ireland, has announced two senior leadership hires: Phil Williams to Group Chief Commercial Officer and Matthew Alcott to an unspecified UK role. The moves are framed as part of the company's long-term growth strategy. No financial metrics, valuation, acquisition context, or regulatory trigger is provided in the excerpt. This reads as routine internal promotion or external hire to bolster commercial and operational capacity ahead of anticipated growth or a potential M&A event.",
+      "talking_points": [
+        "Clear Group is actively building out senior commercial leadership, suggesting either organic growth acceleration or preparation for a transaction.",
+        "Two simultaneous C-suite hires (commercial + regional leadership) indicate a broader organizational restructuring rather than a single-function upgrade."
+      ],
+      "topics": [
+        "insurance-leadership",
+        "UK-insurance",
+        "organizational-expansion"
+      ],
+      "highlight": null,
       "relevance": 3
     }
   },
@@ -3772,72 +3640,25 @@
     }
   },
   {
-    "id": "af9c0f180260",
-    "title": "My doctor friend objected to his hospital\u2019s fundraising tactics. Did management go too far?",
-    "url": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
+    "id": "7cafc59d05d2",
+    "title": "Am I better off claiming Social Security early and investing the money, or delaying until age 70?",
+    "url": "https://www.marketwatch.com/story/am-i-better-off-claiming-social-security-early-and-investing-the-money-or-delaying-until-age-70-95f856d9?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-02T23:00:00+00:00",
-    "summary_raw": "\u201cThis shocking program was exploiting doctors and the trust inherent in their relationships with patients.\u201d",
+    "date": "2026-07-03T12:00:00+00:00",
+    "summary_raw": "\u201cI have a monthly pension worth $11,000 and Social Security income of $4,000.\u201d",
     "summary_ai": {
-      "digest": "A hospital's aggressive fundraising program pressured employed physicians to solicit donations from patients, raising ethical and legal concerns about exploitation of doctor-patient relationships.",
-      "summary_long": "A physician at a large hospital system questioned management's fundraising initiative that required or incentivized doctors to solicit charitable contributions directly from their patient panels. The program blurred lines between clinical care and fundraising, creating potential conflicts of interest and regulatory risk. The doctor's objection highlights tension between nonprofit hospital financial pressures and fiduciary duties to patients. The article frames this as a broader trend in healthcare finance as margins compress.",
+      "digest": "Financial planner walks through the math on claiming Social Security at 62 vs. 70 using a reader's real scenario: $11k pension + $4k SS, comparing lump-sum invest strategies against delayed claiming.",
+      "summary_long": "A MarketWatch personal-finance column addresses a common retirement decision: whether to take Social Security at the earliest eligibility age (62) and invest the difference, or delay until 70 for a larger monthly benefit. Using a specific reader's pension ($11k/month) and Social Security income ($4k/month), the piece models breakeven ages and investment returns needed to justify early claiming. The analysis touches on longevity risk, investment discipline, and tax efficiency\u2014but remains a one-off case study without sector-wide or market-signal implications.",
+      "summary_long_alt": "Standard personal-finance Q&A on Social Security claiming strategy. No data on broader retirement savings trends, no market or policy development, no FIG coverage implications.",
       "talking_points": [
-        "Hospital fundraising tied to physician compensation or employment incentives creates compliance risk under anti-kickback and self-referral statutes.",
-        "Patient trust in clinical judgment can be undermined if fundraising becomes part of the doctor-patient transaction."
+        "This is a consumer-retail personal-finance question, not a financial services or markets signal.",
+        "Relevant only if covering IRA platforms, retirement planning software, or robo-advisor strategy\u2014and only if the piece contained trend data or product benchmarking, which it doesn't."
       ],
       "topics": [
-        "healthcare-finance",
-        "nonprofit-governance",
-        "regulatory-risk"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
-    "id": "62982c69bab3",
-    "title": "Is the stock market open today? Here\u2019s how Fourth of July weekend affects trading hours.",
-    "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-friday-or-will-it-close-early-for-the-fourth-of-july-b9885f36?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-03T04:09:00+00:00",
-    "summary_raw": "Since Independence Day falls on Saturday this year, here\u2019s what to know about markets, mail delivery and more.",
-    "summary_ai": {
-      "digest": "July 4 falls on Saturday in 2026; US equity and bond markets will be closed Friday July 3 for the holiday, with normal hours resuming Monday July 7.",
-      "summary_long": "US financial markets observe Independence Day as a statutory holiday. When July 4 lands on a weekend, the observed holiday shifts: this year the market closure applies to Friday July 3. Equity markets (NYSE, Nasdaq), bond markets (SIFMA), and futures exchanges will all be closed Friday; crypto and international markets may operate on different calendars. This affects settlement cycles, trade execution windows, and liquidity conditions heading into the holiday weekend. Normal trading resumes Monday.",
-      "talking_points": [
-        "Markets are closed Friday July 3 for the observed Independence Day holiday; plan executions accordingly.",
-        "Reduced liquidity Thursday ahead of the long weekend may affect bid-ask spreads on larger positions."
-      ],
-      "topics": [
-        "market-calendar",
-        "holiday-closure",
-        "trading-logistics"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
-    "id": "6346acf28d44",
-    "title": "Swiss Re appoints Laura Perry as Head of Regional & Large Clients for UK and Ireland",
-    "url": "https://www.reinsurancene.ws/swiss-re-appoints-laura-perry-as-head-of-regional-large-clients-for-uk-and-ireland/",
-    "source": "Reinsurance News",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-03T09:30:34+00:00",
-    "summary_raw": "<p>Swiss Re, a global provider of reinsurance, insurance and risk transfer solutions, has announced the appointment of Laura Perry as Head of Regional &#38; Large Clients for the UK and Ireland, with a focus on Property. The company highlighted Perry&#8217;s strong relationships with clients and brokers, together with her extensive underwriting expertise, as key strengths [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/swiss-re-appoints-laura-perry-as-head-of-regional-large-clien",
-    "summary_ai": {
-      "digest": "Swiss Re names Laura Perry as Head of Regional & Large Clients for UK and Ireland, focusing on Property underwriting.",
-      "summary_long": "Swiss Re has appointed Perry to lead its regional and large-client business in the UK and Ireland property segment. The move signals Swiss Re's emphasis on deepening broker and client relationships in a core European market and doubling down on underwriting expertise in property lines. Perry's background in underwriting and client management suggests Swiss Re is prioritizing organic growth and retention in a competitive regional market rather than pursuing transformational M&A. This is a routine leadership appointment with no capital, deal, or regulatory catalyst.",
-      "talking_points": [
-        "Regional talent move at a major reinsurer; reflects focus on broker relationship management in UK/Ireland property market.",
-        "No M&A, capital raise, or regulatory implication\u2014pure operational/leadership reshuffle."
-      ],
-      "topics": [
-        "reinsurance-talent",
-        "swiss-re",
-        "uk-ireland-market"
+        "personal-finance",
+        "social-security",
+        "retirement-planning"
       ],
       "highlight": null,
       "relevance": 2
@@ -3865,6 +3686,49 @@
         "payroll-tax-treatment"
       ],
       "highlight": "Early claimers face a permanent 25\u201330% benefit reduction plus earnings-test clawbacks, making the math worse than many realize \u2014 but payroll taxes on wages are not the primary inefficiency here.",
+      "relevance": 2
+    }
+  },
+  {
+    "id": "dee33d9eb5fd",
+    "title": "Your 2026 CRE Summer Reading List: Trepp's Top 5 Beach Reads",
+    "url": "https://www.trepp.com/trepptalk/2026-cre-summer-reading-list",
+    "source": "Trepp Talk",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-03T14:30:01+00:00",
+    "summary_raw": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://www.trepp.com/trepptalk/2026-cre-summer-reading-list\" title=\"\"> <img alt=\"Your 2026 CRE Summer Reading List: Trepp's Top 5 Beach Reads\" class=\"hs-featured-image\" src=\"https://www.trepp.com/hubfs/Book%20sea%20ocean%20beach%20reading%20blog%20%28Min%29.jpg\" style=\"width: auto !important; float: left; margin: 0 15px 15px 0;\" /> </a> \n</div> \n<p style=\"line-height: 1.75;\"><span style=\"font-size: 14px; color: #0",
+    "summary_ai": {
+      "digest": "Trepp's listicle of five CRE reading recommendations for summer 2026; no deal, regulatory, or capital news.",
+      "summary_long": "This is a content marketing piece\u2014a curated list of books on commercial real estate topics, aimed at keeping CRE professionals engaged during the summer months. It does not contain earnings, M&A, regulatory enforcement, fundraising, or any market signal relevant to deal flow, financing conditions, or sector consolidation. The piece is evergreen promotional material without actionable intelligence.",
+      "talking_points": [],
+      "topics": [
+        "CRE-reading-list",
+        "content-marketing"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "90fcf2c99b2f",
+    "title": "Zephyr's PSN: Inside SMAs - An Exclusive Look Into Stansberry Asset Management",
+    "url": "https://www.wealthmanagement.com/investment-news/zephyr-s-psn-inside-smas-an-exclusive-look-into-stansberry-asset-management",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-03T14:35:00+00:00",
+    "summary_raw": "Stansberry Asset Management's Mario Valente discusses the firm\u2019s All-Weather and Tactical Select strategies.",
+    "summary_ai": {
+      "digest": "Stansberry Asset Management executive discusses two investment strategies (All-Weather and Tactical Select) in a product-focused interview; no deal, capital raise, or regulatory development disclosed.",
+      "summary_long": "Mario Valente of Stansberry Asset Management walks through the firm's All-Weather and Tactical Select strategies in what appears to be a sponsored or editorial interview. The piece focuses on investment philosophy and product positioning rather than business developments. No information on assets under management, client flows, competitive positioning, or strategic inflection points. This is a vendor-narrative piece designed to introduce or re-position the strategies to an advisory audience.",
+      "talking_points": [
+        "No actionable business or deal intelligence.",
+        "Product feature content \u2014 useful only if tracking Stansberry as a potential acquisition or partnership target."
+      ],
+      "topics": [
+        "asset-management-strategy",
+        "SMA-platforms"
+      ],
+      "highlight": null,
       "relevance": 2
     }
   },
@@ -4033,12 +3897,10 @@
     "date": "2026-07-03T06:00:00+00:00",
     "summary_raw": "<p>PR N\u00b0 C3399C</p>",
     "summary_ai": {
-      "digest": "STMicroelectronics scheduled Q2 2026 earnings release and call; no deal, capital raise, or regulatory action disclosed.",
-      "summary_long": "STMicroelectronics issued a press release announcing the date and time for its second-quarter 2026 earnings announcement and investor conference call. The release contains only logistical information: when results will be published and when the call will occur. There is no substantive financial data, M&A activity, capital deployment, regulatory filing, or strategic announcement embedded in the notice. This is a calendar item, not a material corporate action.",
+      "digest": null,
+      "summary_long": null,
       "talking_points": [],
-      "topics": [
-        "earnings-calendar"
-      ],
+      "topics": [],
       "highlight": null,
       "relevance": 1
     }
@@ -4052,47 +3914,12 @@
     "date": "2026-07-03T06:00:00+00:00",
     "summary_raw": "<p>PR N\u00b0 C3399C</p>",
     "summary_ai": {
-      "digest": "STMicroelectronics announced Q2 2026 earnings date and conference call timing; no financial results or guidance disclosed.",
-      "summary_long": "STMicroelectronics issued a press release scheduling its Q2 2026 financial results announcement and investor conference call. The release contains only logistical details\u2014publication date and call dial-in information\u2014with no actual results, forward guidance, earnings surprises, or strategic announcements. This is a calendar notice, not a substantive earnings event or capital-markets disclosure.",
+      "digest": "STMicroelectronics announced Q2 2026 earnings call schedule; no deal, regulatory, or capital event disclosed.",
+      "summary_long": "This is a press release announcing the date and time of STMicroelectronics' Q2 2026 earnings call and financial results publication. The company provided logistical details for investor access. No M&A activity, capital raise, regulatory action, or strategic announcement is mentioned. The piece is purely administrative calendar-setting with no deal flow or FIG-specific catalysts.",
       "talking_points": [],
       "topics": [
-        "earnings-calendar",
-        "investor-relations"
+        "earnings-calendar"
       ],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "60691efd2825",
-    "title": "\u2018I don\u2019t think I\u2019ll make it to 80\u2019: I\u2019m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
-    "url": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-03T11:01:00+00:00",
-    "summary_raw": "\u201cI\u2019m torn between these two options.\u201d",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "7cafc59d05d2",
-    "title": "Am I better off claiming Social Security early and investing the money, or delaying until age 70?",
-    "url": "https://www.marketwatch.com/story/am-i-better-off-claiming-social-security-early-and-investing-the-money-or-delaying-until-age-70-95f856d9?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-03T12:00:00+00:00",
-    "summary_raw": "\u201cI have a monthly pension worth $11,000 and Social Security income of $4,000.\u201d",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
       "highlight": null,
       "relevance": 1
     }
@@ -4105,6 +3932,43 @@
     "section": "Markets & Macro",
     "date": "2026-07-03T12:01:00+00:00",
     "summary_raw": "\u201cPart of me would prefer to leave more to those for whom the money could make a meaningful difference.\u201d",
+    "summary_ai": {
+      "digest": "A childless person weighs unequal bequests to nieces and nephews based on financial need rather than equal treatment.",
+      "summary_long": "A MarketWatch advice column explores the ethics and family dynamics of leaving unequal inheritances to different nieces and nephews. The letter-writer has no children and is considering directing more wealth to relatives who are less financially secure, reasoning that the money would have greater impact. The column discusses tension between equal treatment (traditional fairness) and proportional need (utilitarian logic), and flags risk of family resentment or conflict if the reasoning isn't transparent. No clear resolution is offered, but the framing highlights how estate planning intersects with family psychology and values.",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "3e09f9fb0bb9",
+    "title": "Don't throw away your shot to speak to an AI Alexander Hamilton at Boston's new finance museum",
+    "url": "https://www.cnbc.com/2026/07/03/the-museum-of-american-finance-opens-its-doors-in-boston.html",
+    "source": "CNBC Finance",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-03T13:16:09+00:00",
+    "summary_raw": "Nearly a decade after leaving its former home, the Museum of American Finance is opening its new doors to the public.",
+    "summary_ai": {
+      "digest": "Museum of American Finance reopening in Boston after nearly a decade; no deal, regulatory, or capital angle identified.",
+      "summary_long": "The Museum of American Finance is relocating and reopening to the public in Boston. The piece focuses on visitor experience elements, including an AI Alexander Hamilton interactive exhibit. No information provided on funding, sponsorship, institutional partnerships, or any financial-services industry development. This is a soft-news feature about a museum reopening, not a FIG story.",
+      "talking_points": [],
+      "topics": [
+        "museum",
+        "finance-history"
+      ],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "a4ec82660e47",
+    "title": "\u2018We were stunned\u2019: My daughter, 39, said her mother-in-law gives her more money than we do. Do I call her out?",
+    "url": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-03T14:15:00+00:00",
+    "summary_raw": "\u201cShe thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.\u201d",
     "summary_ai": {
       "digest": null,
       "summary_long": null,
@@ -4132,6 +3996,23 @@
         "fed-rate-path",
         "rates-volatility"
       ],
+      "highlight": null,
+      "relevance": 0
+    }
+  },
+  {
+    "id": "9a34cda3b861",
+    "title": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+    "url": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-03T13:15:00+00:00",
+    "summary_raw": "\u201cHe lived rent-free, helping her with health-related issues and other tasks.\u201d",
+    "summary_ai": {
+      "digest": null,
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
       "highlight": null,
       "relevance": 0
     }
