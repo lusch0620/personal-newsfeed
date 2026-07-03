@@ -671,31 +671,6 @@
     }
   },
   {
-    "id": "d48bcf7aa174",
-    "title": "China-linked actors target more than technology as AI competition with U.S. intensifies",
-    "url": "https://www.cnbc.com/2026/07/01/china-ai-cyberattacks-startups-insider-risks-espionage.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-01T22:55:00+00:00",
-    "summary_raw": "Cyberattacks from China-based entities are on the rise and not just targeting specific tech, analysts warn, as the U.S. AI race intensifies.",
-    "summary_ai": {
-      "digest": "Chinese state-linked cyberattacks are broadening beyond tech targets to financial institutions, coinciding with U.S.\u2013China AI competition escalation.",
-      "summary_long": "Cybersecurity analysts are flagging a trend of increased cyberattacks originating from China-based actors that extend well beyond technology companies into banking and financial services. The attacks are framed as part of broader geopolitical competition over AI capabilities and industrial secrets. For FIG institutions, this creates operational risk, potential regulatory scrutiny over cybersecurity controls, and possible compliance exposure\u2014particularly for banks engaged in cross-border transactions or serving institutional clients with sensitive IP. No specific bank breaches or regulatory actions are named in the excerpt, limiting immediate deal or capital implications.",
-      "talking_points": [
-        "Chinese cyberattacks are diversifying away from pure tech targets into financial services, raising operational and compliance risk for regional and mid-market banks.",
-        "This trend sits at the intersection of geopolitics, AI competition, and financial-sector resilience\u2014expect regulators to tighten cybersecurity guidance and stress testing.",
-        "Fintech and digital asset platforms managing institutional flows or cross-border payments face heightened scrutiny; cyber insurance and third-party risk management could become M&A selection criteria for PE buyers."
-      ],
-      "topics": [
-        "cybersecurity-risk",
-        "regulatory-compliance",
-        "geopolitical-risk"
-      ],
-      "highlight": "Chinese cyberattacks are targeting financial institutions, not just tech, signaling regulatory pressure and risk-management cost inflation across FIG.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "2a0128d1186d",
     "title": "Market conditions: GSA challenges negative sentiment",
     "url": "https://www.privatedebtinvestor.com/market-conditions-gsa-challenges-negative-sentiment/",
@@ -1062,7 +1037,7 @@
     "source": "Banking Dive",
     "section": "FIG \u2014 Banks",
     "date": "2026-07-02T15:26:50+00:00",
-    "summary_raw": "<p>Expenses related to the agreement have totaled over $5 million. CEO Steven Sugarman said he expects the bank&rsquo;s new regulatory status to cut down on regulatory and FDIC fees.</p>",
+    "summary_raw": "<p>Expenses related to the agreement have totaled over $5 million. CEO Steven Sugarman said he now expects regulatory and FDIC fees to decrease.</p>",
     "summary_ai": {
       "digest": "OCC terminated enforcement action against Patriot Bank after the regional lender spent over $5M in compliance costs. CEO expects regulatory and FDIC fees to decline going forward.",
       "summary_long": "Patriot Bank has successfully exited an OCC enforcement agreement, removing a regulatory overhang that had imposed significant operational and financial burden. The bank incurred over $5M in expenses tied to meeting the agreement's requirements\u2014likely remediation work, third-party audits, and legal fees. With the enforcement action closed, management expects tangible relief in ongoing regulatory assessment fees and FDIC insurance costs, which are often higher for banks under supervisory orders. This signals improved regulatory standing and could positively influence the bank's cost structure and capital allocation going forward. For a regional bank of Patriot's size, the removal of enforcement stigma may also ease access to correspondent banking and institutional relationships.",
@@ -2292,7 +2267,7 @@
     "source": "Financial Times Markets",
     "section": "Markets & Macro",
     "date": "2026-07-03T14:04:48+00:00",
-    "summary_raw": "Bearish forecast comes as Wall Street analysts predict oil market will return to surplus",
+    "summary_raw": "Bearish outlook comes as Wall Street analysts predict oil market will return to surplus",
     "summary_ai": {
       "digest": "Citigroup forecasts Brent crude falling to $60/barrel by year-end on expectations of US-Iran ceasefire holding and sustained supply growth outpacing demand.",
       "summary_long": "Citi's commodities team projects a 20%+ decline in Brent from current levels, anchored to a geopolitical call: both the US and Iran have structural incentives to maintain a ceasefire (sanctions relief for Iran, regional stability for the US). The forecast assumes no major supply disruption and reflects their view that global crude inventories will build as production outpaces consumption growth into Q4. This contrasts with near-term risk-off sentiment in energy markets and suggests the bank sees tail risk of Middle East escalation as priced in or overstated.",

@@ -1,101 +1,101 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Mixed regulatory signals on bank compliance; CFPB signals internal restructuring; Chinese cyber threats broaden to financials; SpaceX IPO model emerging as template for mega-caps.",
+    "lede": "Mixed regulatory signals on bank compliance, CFPB signals internal restructuring, and SpaceX IPO model emerging as template for mega-cap offerings.",
     "bullets": [
       {
-        "text": "Fed issued new enforcement action against Small Business Bank while terminating four existing actions (BNP Paribas entities, Community Bankshares), signaling uneven regulatory momentum on compliance.",
+        "text": "Fed issued new enforcement action against Small Business Bank while terminating four existing actions (BNP Paribas entities, Community Bankshares), signaling uneven regulatory momentum.",
         "refId": "c8afd4957fc8",
         "source": "Federal Reserve Press Releases"
       },
       {
-        "text": "CFPB gave employees until July 14 to accept geographic reassignment or face separation\u2014potential signal of mass restructuring at the regulator itself.",
+        "text": "OCC lifted enforcement against Patriot Bank after $5M+ compliance spend; CEO expects regulatory/FDIC fees to decline as banks clear enforcement hurdles.",
+        "refId": "88f64561baff",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "CFPB issued July 14 ultimatum for employee geographic reassignment, signaling potential mass layoffs or structural reorganization at the regulator itself.",
         "refId": "0f74f20226e9",
         "source": "Banking Dive"
       },
       {
-        "text": "Chinese state-linked cyberattacks expanding beyond tech to target financial institutions as U.S.\u2013China AI competition intensifies; growing vulnerability for FIG sector.",
-        "refId": "d48bcf7aa174",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "SpaceX IPO model (minimal disclosure, founder control, retail access) may become template for upcoming mega-cap offerings\u2014reshaping underwriting and wealth management distribution.",
+        "text": "SpaceX IPO model\u2014minimal disclosure, founder control, retail access\u2014emerging as blueprint for mega-cap offerings; reshapes underwriting and wealth management distribution.",
         "refId": "e8a9617b2a9b",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "5 stories in this lane today.",
+    "lede": "Vestmark's TAMP platform hits $50B AUM on retail UMA launch while RIA M&A accelerates with Wealth Enhancement's $1.3B Shufro Rose deal and consolidation dynamics reshape advisor recruitment.",
     "bullets": [
       {
-        "text": "Vestmark strikes 'standalone-RIA' black gold as (TAMP) AUM leaps past $50-billion -- a five-fold increase -- after critical upgrade triggers T. Rowe Price, BlackRock, Capital Group, and VanEck referral gusher",
+        "text": "Vestmark's TAMP platform crosses $50B AUM (5x growth) after launching tax-managed UMA product; major referrals from T. Rowe Price, BlackRock, Capital Group, VanEck signal institutional appetite for standalone RIA tech.",
         "refId": "9f153ce7b5da",
         "source": "RIABiz"
       },
       {
-        "text": "Deals &amp; Moves: Savant Wealth Plants Flag In Maine, Cerity Expands to Oregon",
-        "refId": "745f86384562",
+        "text": "Wealth Enhancement acquires two teams from Shufro Rose, adding $1.3B AUM and reaching $158B total\u2014part of broader RIA consolidation wave as W-2 employment models compete for talent against independents.",
+        "refId": "928c19b757d3",
         "source": "Wealth Management"
       },
       {
-        "text": "Acorns' new ploy \u2013 a kiddie advisory board \u2013 draws analyst scoffs and plaudits, as Trump accounts touch off rush to siphon rollovers from Trump-favored Robinhood \u2013 and Schwab, Fidelity and Vanguard crowd into micro-investing niche",
+        "text": "Fidelity, Schwab, Vanguard pile into micro-investing amid Trump-branded IRA rollover surge away from Robinhood; Acorns launches youth advisory board as differentiation play in crowded niche.",
         "refId": "1763b282d72c",
         "source": "RIABiz"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 insurance stories spanning litigation restructuring, market softening, capital deployment, and emerging ESG risks.",
+    "lede": "Five stories spanning litigation restructuring, regulatory reform, soft reinsurance markets, sidecars hitting $90bn, and tech giants facing emissions-linked insurance risk.",
     "bullets": [
       {
-        "text": "Bayer isolates Roundup liabilities into separate U.S. unit after court win\u2014classic pre-breakup/asset-sale positioning to ring-fence litigation exposure.",
+        "text": "Bayer isolated Roundup liabilities into separate U.S. unit following court win on state lawsuits\u2014signals potential breakup or asset sale to manage litigation exposure.",
         "refId": "bc0a7f629151",
         "source": "Insurance Journal"
       },
       {
-        "text": "Excess reinsurance capital and strong underwriting profits are softening midyear renewal prices, widening cedent optionality in a competitive market.",
+        "text": "Excess reinsurance capital and strong underwriting profits are softening midyear renewal prices and expanding cedent options across excess lines.",
         "refId": "9f61052bd66e",
         "source": "Insurance Journal"
       },
       {
-        "text": "Sidecar reserves jumped 64% to $90bn+ in 2025 on back of booming U.S. annuity sales\u2014capital continues chasing yield in alternatives.",
+        "text": "Sidecars exploded to $90bn in reserves (2025), up 64% from $55bn in 2023, fueled by U.S. annuity demand\u2014structural capital shift accelerating.",
         "refId": "39bf219e4c0d",
         "source": "Reinsurance News"
       },
       {
-        "text": "Big Tech's 2025 GHG emissions spiked due to AI infrastructure; creates tension with net-zero pledges and potential regulatory/insurance cost pressure.",
+        "text": "Amazon and Google's 2025 GHG emissions spiked on AI infrastructure, creating regulatory and insurance cost exposure tensions against net-zero pledges.",
         "refId": "6787544f3472",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "BDC capital flows reverse course while major financial infrastructure\u2014from Swift rails to stablecoins to Visa's AI commerce\u2014gets upgraded.",
+    "lede": "Specialty finance faces investor headwinds on BDCs while payments and digital asset infrastructure accelerate across traditional and crypto rails.",
     "bullets": [
       {
-        "text": "Non-listed BDC intermediary channel under pressure: investor capital flowing out despite manager reassurances of stable relationships, signaling structural shift in the space.",
+        "text": "Non-listed BDC outflows accelerate despite manager reassurances on intermediary relationships\u2014signaling structural channel weakness for specialty lenders.",
         "refId": "454dd518dbd1",
         "source": "Private Debt Investor"
       },
       {
-        "text": "MEAG illiquid assets head Thomas Bayerl departing this month; Apollo BDC simultaneously taps $750m unsecured notes\u2014capital raise amid leadership transition.",
+        "text": "Apollo BDC taps $750m unsecured notes as MEAG loses its illiquid assets chief, pointing to capital market pressure and leadership churn in the space.",
         "refId": "f843f16b7139",
         "source": "Private Debt Investor"
       },
       {
-        "text": "UK banking quad (Barclays, HSBC, Lloyds, NatWest) live on Swift consumer payments framework\u2014major infrastructure play as UK banks move ahead of global peers on cross-border rails.",
+        "text": "Four major UK banks (Barclays, HSBC, Lloyds, NatWest) now live on Swift's consumer cross-border framework, reshaping traditional correspondent banking rails.",
         "refId": "e3c1fe943cd4",
         "source": "Finextra"
       },
       {
-        "text": "Standard Chartered + Circle: institutional clients now get direct USDC minting/redemption access, expanding stablecoin plumbing for digital asset trading desks.",
+        "text": "Standard Chartered and Circle expand institutional stablecoin access with direct USDC minting/redemption, while Visa launches threat intelligence and agentic transaction capabilities to deepen fintech footprint.",
         "refId": "f854809a2f74",
         "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "4 stories spanning governance self-policing, AI disruption in SaaS, secondaries consolidation, and a mid-market auto services auction.",
+    "lede": "PE governance tightening, AI threatening SaaS returns, and mid-market consolidation pressuring valuations as LPs recalibrate allocations.",
     "bullets": [
       {
         "text": "PE firms preemptively adopting market-standard governance on continuation vehicles to head off regulatory crackdowns that could impose stricter rules.",
@@ -103,67 +103,67 @@
         "source": "Private Equity International"
       },
       {
-        "text": "AI commoditization is structurally pressuring SaaS valuations and exit outcomes; PE investors racing to find managers with AI-resilient playbooks before deal quality deteriorates.",
+        "text": "SaaS multiples under structural pressure as AI commoditizes software; PE investors racing to find managers with AI-resilient playbooks before deal quality deteriorates.",
         "refId": "a4e2b1e3896b",
         "source": "Private Equity International"
       },
       {
-        "text": "BCI launching capital solutions strategy to capture LP demand for direct secondaries and continuation vehicles as fewer LPs can handle these deals in-house.",
+        "text": "BCI launching capital solutions strategy to capture LP demand for secondaries and continuation vehicles as fewer LPs have in-house deal sourcing capabilities.",
         "refId": "3f8ba0fd0fb2",
         "source": "Secondaries Investor"
       },
       {
-        "text": "Garnett Station pushing Goodturn (auto services) to market at 13x\u201315x EBITDA; major Japanese LP shifting allocations signals broader mid-market consolidation pressure.",
-        "refId": "0092ebb4a727",
-        "source": "PE Hub"
+        "text": "Major Japanese LP shifting allocation strategy signals consolidation pressure on mid-market PE; Garnett Station's Goodturn auction at 13x\u201315x EBITDA reflects current valuation environment.",
+        "refId": "5699fbf658f2",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "Labor market strength threatens rate assumptions across finance, while regulatory scrutiny tightens on structured debt and neobank viability; M&A headwinds emerge as investor skepticism rises.",
+    "lede": "5 stories spanning labor market jitters that could force Fed action, regulatory crackdowns on opaque debt structures, fintech unit economics under pressure, and stretched equity valuations amid surging earnings forecasts.",
     "bullets": [
       {
-        "text": "Thursday's jobs report could force Fed rate hikes, pressuring institutions betting on lower-for-longer rates and reshaping deal economics.",
+        "text": "Thursday's jobs report is the critical Fed tell\u2014strong labor data could force rate hike contemplation, pressuring financial institutions betting on lower-for-longer rates.",
         "refId": "7facbb086483",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "IMF crackdown on total return swaps in Nigeria signals broader regulatory blitz against opaque sovereign financing structures.",
+        "text": "IMF is targeting total return swaps in Nigeria as opaque sovereign debt; signals broader regulatory tightening on structured financing that could ripple across emerging markets.",
         "refId": "cfb7fc55fabb",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Atom Bank's stalled sale exposes unit economics crisis for UK neobanks; Revolut and Monzo face similar regulatory and competitive headwinds.",
+        "text": "Atom Bank's stalled exit exposes UK neobank vulnerability\u2014Revolut and Monzo face similar unit economics and regulatory headwinds competing against incumbents and payments specialists.",
         "refId": "b86e48ecdcbf",
         "source": "Financial Times Markets"
       },
       {
-        "text": "S&P 500 earnings forecasts surging at 2020-pandemic pace while major investors block KKR/Bridgepoint's \u00a35.7bn DCC bid\u2014growth optimism clashing with valuation skepticism.",
+        "text": "S&P 500 earnings forecasts rising at fastest pace since 2020, but major shareholders (Ninety One, Aviva, Fidelity) are already pushing back on valuations\u2014KKR/Bridgepoint's \u00a35.7bn DCC bid shows friction is real.",
         "refId": "48d824a4e069",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Leveraged ETF flows hit records as Fed stays data-dependent; SaaS pessimism fades and earnings reporting faces potential overhaul.",
+    "lede": "Five stories spanning leveraged ETF inflows, Fed policy ambiguity, SaaS recovery signals, and structural market tailwinds\u2014with an SEC earnings reporting overhaul in the mix.",
     "bullets": [
       {
-        "text": "Leveraged ETF inflows surge to record levels as retail and institutional money chase amplified returns in the rally\u2014key risk monitor for volatility regimes.",
+        "text": "Leveraged ETFs hitting record inflows as retail and institutional money chase amplified returns in rallying market\u2014watch for volatility implications.",
         "refId": "bbe5520fdb58",
         "source": "The Daily Upside"
       },
       {
-        "text": "New Fed Chair Warsh abandoning forward guidance, pivoting to data-dependent messaging and hammering Fed independence\u2014markets left parsing signals from economic data only.",
+        "text": "New Fed Chair Warsh dodging rate guidance while emphasizing independence; market now data-dependent with no forward signposts.",
         "refId": "9cd4b546429d",
         "source": "The Daily Upside"
       },
       {
-        "text": "Guggenheim analyst dismisses SaaS peak pessimism as overdone, signaling narrative reset away from sector doom\u2014potential rerating catalyst for software names.",
+        "text": "Guggenheim dismisses SaaS doom narratives as peak pessimism\u2014potential catalyst for software sector rotation.",
         "refId": "57659708636a",
         "source": "The Daily Upside"
       },
       {
-        "text": "SEC proposes semi-annual vs. quarterly earnings reporting; adoption expected to be selective, not universal\u2014creates tiering in disclosure cadence.",
+        "text": "SEC proposing semi-annual earnings reporting; adoption likely selective, not universal, creating potential disclosure arbitrage.",
         "refId": "fd16c4bde4fb",
         "source": "The Daily Upside"
       }
@@ -174,50 +174,50 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "AI deployment at scale, housing deregulation lessons, and demographic challenges dominating economic discourse this week.",
+    "lede": "Five stories spanning AI deployment at scale, housing market deregulation, and economic underperformance in developed economies.",
     "bullets": [
       {
-        "text": "Coinbase has 1,200 AI agents in production handling compliance, customer service, and regulated financial advice\u2014Armstrong's model treats them as autonomous business units with KPIs, signaling how financial services will operationalize AI at scale.",
+        "text": "Coinbase has 1,200 AI agents in production handling compliance, customer service, and regulated financial advice\u2014Armstrong's model treats them as autonomous business units with KPIs, a playbook for founders building at scale.",
         "refId": "f7246068cdab",
         "source": "The AI Corner"
       },
       {
-        "text": "Norway's 1982 rent control abolition, tracked via Oslo classifieds 1970\u20132008, offers rare natural experiment on housing deregulation\u2014Cowen mines the data for market dynamics lessons.",
+        "text": "Norway's 1982 abolition of rent control, tracked via Oslo classifieds through 2008, provides rare natural experiment on housing deregulation\u2014Cowen examines the before/after dynamics.",
         "refId": "b3757294d2ad",
         "source": "Marginal Revolution"
       },
       {
-        "text": "Britain's income now matches Mississippi's per capita\u2014not a GDP accounting illusion but structural underinvestment in infrastructure and public services, per Atlantic analysis.",
+        "text": "Britain's per-capita income has fallen to Mississippi levels due to underinvestment in infrastructure and services, not statistical illusions\u2014a structural productivity and competitiveness problem.",
         "refId": "b3a8058db318",
         "source": "Marginal Revolution"
       },
       {
-        "text": "Developed economies face demographic decline; skilled immigration isn't ideological\u2014it's fiscal necessity to sustain growth and tax bases, Smith argues against polarized rhetoric.",
+        "text": "Developed economies face demographic decline requiring skilled migration; Noah Smith argues the polarized immigration debate obscures this economic necessity for growth and tax sustainability.",
         "refId": "e323eb460803",
         "source": "Noahpinion"
       }
     ]
   },
   "all": {
-    "lede": "AI agents go live in regulated finance, TAMPs hit inflection point, and retail chases leverage as advisor consolidation accelerates.",
+    "lede": "Tech momentum in fintech and wealth platforms; investor appetite for leverage and distributed models; structural shifts in alternative credit intermediation.",
     "bullets": [
       {
-        "text": "Coinbase deployed 1,200 AI agents into production across compliance and advisory under legal framework permitting automated financial advice\u2014Armstrong's model treats agents as autonomous business units with KPIs.",
+        "text": "Coinbase has 1,200 AI agents live in production handling compliance, customer service, and regulated investment advice\u2014Armstrong's playbook treats them as autonomous P&L units with KPI oversight.",
         "refId": "f7246068cdab",
         "source": "The AI Corner"
       },
       {
-        "text": "Vestmark's TAMP platform crossed $50B AUM (5x growth) after retail UMA launch; T. Rowe Price, BlackRock, Capital Group, VanEck referrals signal standalone RIA tech demand hitting critical mass.",
+        "text": "Vestmark's TAMP platform hit $50B AUM (5x growth) after launching retail UMA with tax management; T. Rowe Price, BlackRock, Capital Group, VanEck referrals signal strong demand for standalone RIA infrastructure.",
         "refId": "9f153ce7b5da",
         "source": "RIABiz"
       },
       {
-        "text": "Leveraged ETFs posting record inflows as retail and institutions pile into amplified equity returns amid rally\u2014structural shift in retail risk appetite.",
+        "text": "Leveraged ETF inflows hit record levels as retail and institutional capital chases amplified returns in rally, despite tail-risk implications.",
         "refId": "bbe5520fdb58",
         "source": "The Daily Upside"
       },
       {
-        "text": "Non-listed BDC outflows accelerating despite manager reassurances on intermediary stability; advisor consolidation continues with Osaic/LPL recruiting teams into W-2 channels.",
+        "text": "Non-listed BDC redemptions accelerating despite manager claims intermediary relationships stable\u2014signals structural shift in alternative credit distribution.",
         "refId": "454dd518dbd1",
         "source": "Private Debt Investor"
       }
