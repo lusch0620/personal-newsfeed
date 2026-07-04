@@ -284,106 +284,29 @@
     }
   },
   {
-    "id": "e100ad47dcb8",
-    "title": "When a DST Actually Fits an RIA's Client",
-    "url": "https://www.wealthmanagement.com/real-estate/when-a-dst-actually-fits-an-ria-s-client",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-02T19:23:00+00:00",
-    "summary_raw": "DSTs are right for a specific kind of client and wrong for plenty of others.",
+    "id": "be693ff73d6c",
+    "title": "Why June\u2019s jobs and inflation data are bullish for bonds",
+    "url": "https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-04T18:37:00+00:00",
+    "summary_raw": "The new jobs report is worse than many people realize.",
     "summary_ai": {
-      "digest": "DSTs (Delegated Service Trustees) suit clients with specific needs\u2014likely those holding alternative assets or requiring specialized administration\u2014but are misaligned for most RIA book builds.",
-      "summary_long": "DSTs are third-party custodians/trustees that handle account administration, reporting, and compliance on behalf of RIAs and their clients. The article clarifies that DSTs are not a universal fit: they excel when clients hold illiquid or complex assets (private equity, real estate, cryptocurrency) where standard brokers lack expertise, or when RIAs want to outsource regulatory burden and reduce operational cost. Conversely, DSTs destroy economics for vanilla equity/bond portfolios and can complicate client communication. The framing suggests consolidation pressure: RIAs cherry-picking DSTs for niche clients signals a fragmented ecosystem where scale and specialization matter more than commodity custody.",
+      "digest": "June jobs report showed softer labor market momentum (217k nonfarm payrolls, down from May's revised 272k), signaling lower inflation pressure and potential Fed rate-cut catalyst for bond investors.",
+      "summary_long": "The jobs report underperformed headline expectations, with May payrolls revised downward and June unemployment ticking up. Weaker labor data historically correlates with disinflation and reduced Fed hawkishness, creating a tailwind for longer-duration bonds as rate-cut odds rise. The piece argues this softening, combined with earlier inflation data, reduces the urgency for the Fed to hold rates higher for longer. For a rates-sensitive FIG analyst, this frames the near-term financing environment: looser credit conditions, lower hedging costs, and improved deal flow prospects as the terminal rate outlook shifts lower.",
       "talking_points": [
-        "DSTs are viable for <20% of RIA client bases\u2014those holding alts, real estate, or crypto\u2014making them a specialization play, not a mass-market solution.",
-        "Using a DST for traditional securities clients costs more and adds friction; RIAs need clear client segmentation to justify the overhead.",
-        "DST adoption is a leading indicator of RIA M&A attractiveness: shops with clean alt-asset books + existing DST relationships become acquisition targets for platforms seeking high-net-worth diversification."
+        "June payrolls missed and May revision was material downward \u2014 this is the softest labor data in months and signals the Fed has room to cut without fighting inflation.",
+        "Weaker jobs data paired with recent CPI reads gives bond investors the narrative for a Fed pivot; mortgage rates and deal financing costs should improve accordingly.",
+        "For FIG deal flow: softer labor market = lower rates = better financing environment for bank M&A, RIA rollups, and fintech funding rounds."
       ],
       "topics": [
-        "RIA custody strategy",
-        "alternative asset administration",
-        "DST business model"
+        "Fed rate path",
+        "labor market",
+        "bond market",
+        "financing conditions"
       ],
-      "highlight": "DSTs are right for <20% of client types (illiquid/complex assets) and wrong for most\u2014RIAs must segment ruthlessly or destroy economics.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "92638a28735e",
-    "title": "BCI seeks \u2018good returns\u2019 from newly launched capital solutions strategy",
-    "url": "https://www.buyoutsinsider.com/bci-seeks-good-returns-from-newly-launched-capital-solutions-strategy/",
-    "source": "Buyouts Insider",
-    "section": "PE & Deals",
-    "date": "2026-07-02T20:04:06+00:00",
-    "summary_raw": "While more LPs are participating directly in CVs and secondaries transactions, such investors remain 'the exception, not the norm' in the market, according to BCI\u2019s global head of PE.",
-    "summary_ai": {
-      "digest": "BCI launched a capital solutions strategy targeting direct LP participation in continuation vehicles and secondaries. The firm positions this as an emerging LP trend, though most investors still outsource these transactions.",
-      "summary_long": "BCI, a pension-backed PE investor, has formalized a capital solutions unit to manage continuation vehicles (CCs) and secondary transactions. The strategy reflects a broader shift where sophisticated LPs increasingly deploy capital directly into these deals rather than relying solely on GPs. However, BCI's global PE head notes that direct LP participation remains limited\u2014most institutional investors still lack the operational bandwidth or expertise to source and execute these deals independently. This positions BCI as an early mover in a market where secondaries and CCs are growing faster than traditional PE exits. The unit targets 'good returns' by capturing management fees and carry on transactions that would otherwise flow to specialist secondaries firms.",
-      "talking_points": [
-        "BCI launching dedicated capital solutions unit signals LP appetite to internalize secondary and CC sourcing\u2014a function traditionally owned by GP-led firms and Coller/Lexington-type specialists.",
-        "Direct LP participation in CCs and secondaries remains 'the exception, not the norm'\u2014meaning most institutional capital still flows through GPs, leaving room for BCI to capture deal-flow friction.",
-        "This is a quasi-alternate asset strategy play for a large pension: lower fundraising friction, direct economics, and access to deal-flow other LPs can't source."
-      ],
-      "topics": [
-        "PE capital solutions",
-        "continuation vehicles",
-        "LP direct investment",
-        "secondaries market",
-        "PE deal-flow"
-      ],
-      "highlight": "BCI formalizing a capital solutions unit to compete for secondaries and CC transactions signals a shift in how large LPs are capturing economics traditionally reserved for specialist GPs and secondaries firms.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "e323eb460803",
-    "title": "Stop screeching about immigration, and get smart about it",
-    "url": "https://www.noahpinion.blog/p/stop-screeching-about-immigration",
-    "source": "Noahpinion (Noah Smith)",
-    "section": "Learn",
-    "date": "2026-07-02T20:05:15+00:00",
-    "summary_raw": "The culture war is making it impossible for us to deal with declining population.",
-    "summary_ai": {
-      "digest": "Noah Smith argues that polarized immigration debate obscures economic reality: developed economies face demographic decline and need skilled migration to sustain growth and tax bases.",
-      "summary_long": "Smith contends that both restrictionist and open-borders camps are locked in unproductive rhetoric that prevents pragmatic policy. The actual issue is demographic: birth rates in developed economies have fallen below replacement, threatening labor supply, tax revenue, and entitlement solvency. He frames immigration not as a cultural question but as an economic necessity tied to labor force participation, aging populations, and fiscal sustainability. The piece advocates for evidence-based discussion of skill-matching, sector needs, and fiscal impact rather than ideological posturing. For financial services specifically, this directly affects bank profitability (labor scarcity, consumer base growth), PE deployment (demographic headwinds in developed markets), and regulatory burden (compliance costs rise as population ages without tax-base growth).",
-      "talking_points": [
-        "Demographic decline, not culture war, is the real immigration issue\u2014developed markets need skilled migration to sustain labor supply and tax bases.",
-        "Banks and PE face direct economic exposure: shrinking working-age population \u2192 lower loan origination, compressed return on deployed capital, and higher compliance costs per taxpayer.",
-        "This reframes FIG consolidation thesis: M&A in mature markets becomes defensive (to scale expenses), not growth-driven, unless immigration policy shifts to boost addressable market."
-      ],
-      "topics": [
-        "demographics",
-        "labor-economics",
-        "policy-framework"
-      ],
-      "highlight": "Developed economies below replacement birth rate need immigration to sustain tax revenue and entitlement systems\u2014a fiscal, not cultural, argument that directly affects bank loan growth and PE fund returns.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "10bd5c1eee2c",
-    "title": "Edelman Financial Engines To Appeal Decision in Mariner Lawsuit",
-    "url": "https://www.wealthmanagement.com/ria-news/edelman-financial-engines-appeals-mariner-lawsuit",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-02T20:28:57+00:00",
-    "summary_raw": "The wealth management firm is taking its case to a federal appeals court after a judge ruled that Edelman hadn't established its trade-secrets case against Mariner.",
-    "summary_ai": {
-      "digest": "Edelman Financial Engines appealing a federal court ruling that rejected its trade-secrets claim against rival Mariner Holdings. The initial judgment found Edelman failed to establish that Mariner misappropriated proprietary information.",
-      "summary_long": "Edelman Financial Engines, a major wealth management consolidator, lost its trade-secrets lawsuit against Mariner Holdings at the district court level and is now escalating to federal appeals court. The judge determined Edelman did not sufficiently prove that Mariner had accessed, stolen, or misused confidential processes or data\u2014a high bar in IP litigation. This dispute likely stems from talent poaching or competitive hiring involving advisors or executives who moved between the two firms. The appeal extends legal uncertainty and diverts management attention; a loss on appeal could set precedent limiting Edelman's ability to restrict former employees or executives from joining competitors or starting rival firms. Success on appeal could strengthen Edelman's hand in retaining key talent and enforcing non-competes in an industry where advisor mobility is endemic.",
-      "talking_points": [
-        "Edelman lost the first round on trade-secrets claims\u2014judge said they didn't prove Mariner actually misappropriated confidential information.",
-        "Appeal to federal court extends the litigation and keeps uncertainty alive on whether non-competes and IP protections stick in wealth management.",
-        "Outcome will signal how hard it is for consolidators to lock in talent and proprietary strategies when advisors move between firms."
-      ],
-      "topics": [
-        "wealth-management-litigation",
-        "advisor-mobility",
-        "IP-trade-secrets",
-        "RIA-consolidation"
-      ],
-      "highlight": "Federal judge rejected Edelman's trade-secrets case at district level; appeal will test enforceability of non-competes and talent-retention strategies in wealth management M&A.",
-      "relevance": 6
+      "highlight": "June payrolls of 217k and May revision down to 272k suggest the Fed now has political and economic cover to begin cutting rates, improving the financing backdrop for mid-market FIG deals.",
+      "relevance": 7
     }
   },
   {
@@ -983,27 +906,29 @@
     }
   },
   {
-    "id": "955d259d3521",
-    "title": "Noah Smith on negative emotional contagion",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/noah-smith-on-negative-emotional-contagion.html?utm_source=rss&utm_medium=rss&utm_campaign=noah-smith-on-negative-emotional-contagion",
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "section": "Learn",
-    "date": "2026-07-02T18:50:23+00:00",
-    "summary_raw": "<p>Every movement in 2020s America is defined not by what they want, but by who they hate. Rightists: Immigrants Leftists: Israel Intellectual liberals: Rich techbros Here is the link, in the last six months or so I have noticed all these trends getting worse.\u00a0 Praise goes to all those who avoid negative emotional contagion, you [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/noah-smith-on-negative-emotional-contagion.html\">Noah Smith on negative emot",
+    "id": "d218d1d18c56",
+    "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule \u2014 just in time for hail and hurricane season",
+    "url": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-04T18:19:00+00:00",
+    "summary_raw": "Those who find extensive damage to their roofs might be stuck between two options: File an insurance claim, which could trigger a premium increase, or cough up the cash for the necessary repairs or replacement.",
     "summary_ai": {
-      "digest": "Noah Smith argues that 2020s political movements are defined by opposition rather than positive vision\u2014rightists against immigrants, leftists against Israel, liberals against tech billionaires\u2014with negative emotional contagion accelerating across all sides.",
-      "summary_long": "Smith observes that contemporary American movements lack coherent affirmative agendas and instead cohere around shared enemies. This framing\u2014organizing by opposition rather than aspiration\u2014enables easier coalition-building but breeds resentment-driven politics. The post flags a worrying trend: negative emotional contagion is spreading, meaning each side's rage compounds the other's, creating a feedback loop of grievance. The mechanism is psychological and social, not economic or policy-driven, yet it shapes how elites and institutions respond.",
+      "digest": "New federal rule allows insurers to shift roof-replacement costs to homeowners through higher deductibles and limited coverage, forcing consumers to choose between filing claims (risking premium hikes) or self-insuring repairs ahead of peak storm season.",
+      "summary_long": "A recent federal regulation has enabled property insurers to restructure homeowners policies by increasing deductibles on roof claims and narrowing replacement coverage, effectively transferring replacement-cost risk from insurers to policyholders. The timing is problematic: this shift coincides with peak hail and hurricane season, when roof damage claims spike. Homeowners now face a bind\u2014claim a roof replacement and absorb future premium increases, or avoid the claim and pay out-of-pocket. This reflects insurers' effort to manage elevated claims frequency and severity in climate-exposed regions, but it also signals deteriorating underwriting economics in the homeowners segment and potential regulatory pushback if consumer complaints mount.",
       "talking_points": [
-        "Political movements now organize around 'who we hate' rather than shared positive vision\u2014that's a structural shift worth understanding when thinking about policy stability and regulatory risk.",
-        "Negative emotional contagion accelerates when incentives reward outrage; if that dynamic is real, expect more political volatility and regulatory whiplash affecting FIG (fintech backlash, wealth tax rhetoric, crypto demonization)."
+        "Insurers are offloading roof-replacement risk to consumers via higher deductibles and narrower coverage, not through price alone\u2014a structural shift in the policy contract.",
+        "The rule change lands during peak storm season, forcing homeowners into uninsurable self-insurance or premium-inflation trades, which could trigger political and regulatory backlash.",
+        "This signals severe underwriting strain in homeowners insurance; if the business is this stressed, watch for continued flight from high-risk geographies and potential M&A or capital raises among regional carriers."
       ],
       "topics": [
-        "political-economy",
-        "social-dynamics",
-        "incentive-structures"
+        "homeowners-insurance-underwriting",
+        "insurance-policy-restructuring",
+        "climate-risk-pricing",
+        "regulatory-consumer-friction"
       ],
-      "highlight": "Movements defined by opposition rather than vision are inherently unstable and prone to policy reversals\u2014relevant to anyone modeling regulatory and political risk in financial services.",
-      "relevance": 5
+      "highlight": "Homeowners can now avoid filing claims to dodge premium increases, but that means self-insuring catastrophic roof damage\u2014a sign insurers are ceding the worst-case scenarios rather than pricing them.",
+      "relevance": 6
     }
   },
   {
@@ -1291,31 +1216,6 @@
     }
   },
   {
-    "id": "13ef53a4cf77",
-    "title": "When it comes to beating the stock market, no news really is good news",
-    "url": "https://www.marketwatch.com/story/when-it-comes-to-beating-the-stock-market-no-news-really-is-good-news-43328bf0?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-04T13:10:00+00:00",
-    "summary_raw": "A new study has found a flaw in how people interpret the very headlines they are seeing.",
-    "summary_ai": {
-      "digest": "Study finds investors overreact to news headlines and underweight the absence of news; suggests market-beating strategy may lie in ignoring noise rather than chasing signals.",
-      "summary_long": "Research examines how retail and institutional investors process financial news, finding systematic bias toward reacting to headline noise rather than fundamental quiet periods. The study suggests that news\u2014especially negative surprises\u2014triggers disproportionate portfolio moves, while periods of no news often coincide with steady performance. The implication for active managers and traders is that disciplined indifference to noise may outperform reactive positioning. This touches on behavioral finance and market microstructure, with potential read-throughs for how FIG clients allocate and how wealth platforms might frame market communication.",
-      "talking_points": [
-        "News-chasing investors systematically underperform because they overweight headline risk and underweight the statistical baseline of no-news periods.",
-        "Institutional asset managers may gain alpha by suppressing reactive trades during noise events and holding through information droughts.",
-        "This has implications for fintech/robo-advisor positioning\u2014if clients are biased toward reaction, design and education can exploit that bias or correct it."
-      ],
-      "topics": [
-        "behavioral-finance",
-        "market-noise",
-        "investor-behavior"
-      ],
-      "highlight": "Study identifies that periods of absence of news correlate with outperformance, suggesting the flaw is in *reaction* rather than strategy.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "2367e7917e1e",
     "title": "Saturday assorted links",
     "url": "https://marginalrevolution.com/marginalrevolution/2026/07/saturday-assorted-links-568.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-568",
@@ -1339,52 +1239,28 @@
     }
   },
   {
-    "id": "ba7e9aa5f431",
-    "title": "WealthStack Roundup: Orion Achieves ISO 42001 AI Certification",
-    "url": "https://www.wealthmanagement.com/artificial-intelligence/orion-achieves-iso-42001-ai-certification",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-02T18:45:21+00:00",
-    "summary_raw": "The advisor technology firm joins a small group of firms globally with the AI management system standard, including Nitrogen.",
+    "id": "3dafb38abe16",
+    "title": "Why we love this country",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/why-we-love-this-country.html?utm_source=rss&utm_medium=rss&utm_campaign=why-we-love-this-country",
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "section": "Learn",
+    "date": "2026-07-04T18:37:14+00:00",
+    "summary_raw": "<p>A Free Press feature for the 250th, here is my entry: Tyler Cowen can\u2019t decide, so he picks about 20 things instead. My favorite thing about America is that I do not have a single favorite thing. We have the NBA (with a Toronto team too), the world\u2019s best AI models, Alexander Calder sculptures, a [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/why-we-love-this-country.html\">Why we love this country</a> appeared first on <a href=\"https://marginalrev",
     "summary_ai": {
-      "digest": "Orion gained ISO 42001 AI certification for its advisor technology platform, joining a small global cohort including Nitrogen. This is a standards milestone, not a deal or capital event.",
-      "summary_long": "Orion, a leading advisor-facing technology vendor, has achieved ISO 42001 certification\u2014an emerging international standard for AI management systems covering governance, risk, and responsible deployment. The certification signals Orion's commitment to standardized AI controls as wealth management firms face increasing regulatory scrutiny around algorithmic decision-making and data handling. The standard is still rare; only a handful of global firms hold it, including Nitrogen. For RIAs and their technology partners, this may become table-stakes compliance proof in due diligence as regulators (SEC, state SROs) tighten AI governance frameworks. Orion's move positions it ahead of competitors on a regulatory and reputation front.",
+      "digest": "Tyler Cowen's July 4 essay lists ~20 things he loves about America\u2014NBA, AI leadership, art, diversity of thought\u2014without ranking them, celebrating plurality over hierarchy.",
+      "summary_long": "Cowen uses America's 250th birthday as a hook to defend the country not through a single narrative but through deliberate multiplicity: sports, technology, culture, institutions, and tolerance for disagreement. The piece implicitly argues that America's strength lies in its refusal to collapse everything into one metric or ideology. He touches on institutions (courts, federalism), culture (music, visual arts), and the basic fact that you can hold many contradictory views and still belong. It's a philosophical stance dressed as a list\u2014arguing that diversity of affection is itself a form of patriotism and a sign of a healthy society.",
       "talking_points": [
-        "Orion is now ISO 42001 certified\u2014one of very few advisor tech vendors with this AI governance standard.",
-        "As SEC and state regulators sharpen AI oversight rules, third-party certifications may become a deal-breaker in RIA platform selection.",
-        "No material deal or capital event here, but signals competitive positioning in a consolidating RIA tech stack."
+        "America's competitive advantage isn't a single thing\u2014it's the ability to simultaneously excel at AI, art, sports, and tolerance for dissent without forcing a unified narrative.",
+        "A country strong enough to let you love multiple contradictory things (capitalism and social safety nets, tradition and disruption) without purging you is itself the achievement.",
+        "Cowen's refusal to rank is the point: he's modeling intellectual humility and pluralism as a business and cultural operating system, not a bug."
       ],
       "topics": [
-        "RIA technology",
-        "AI governance",
-        "compliance standards"
+        "american-institutions",
+        "pluralism-vs-ideology",
+        "competitive-advantage"
       ],
-      "highlight": null,
-      "relevance": 4
-    }
-  },
-  {
-    "id": "0bfb1315c099",
-    "title": "Citadel's hedge funds post broad first-half gains, top performing strategy sidesteps quant selloff",
-    "url": "https://www.cnbc.com/2026/07/02/citadels-hedge-funds-post-broad-first-half-gains.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-02T21:11:03+00:00",
-    "summary_raw": "The hedge fund firm's tactical trading fund, which combines discretionary equity investing with quantitative strategies, climbed 14.3% through the end of June.",
-    "summary_ai": {
-      "digest": "Citadel's hedge funds gained broadly in H1 2026, with its tactical trading fund up 14.3% YTD, outperforming amid quant strategy volatility.",
-      "summary_long": "Citadel's multi-strategy hedge funds delivered solid first-half returns, with the firm's flagship tactical trading strategy combining discretionary equity and quantitative approaches gaining 14.3% through June. The result signals resilience in a period of quant volatility and market dislocation. This is primarily a performance datapoint rather than a capital-raising or M&A catalyst, but it reinforces Citadel's competitive position in the high-skill trading space and may influence institutional LP allocations to multi-strategy versus pure-quant vehicles.",
-      "talking_points": [
-        "Citadel's tactical fund up 14.3% H1 2026 while pure-quant strategies faced headwinds\u2014suggests hybrid discretionary/systematic approaches are de-risking.",
-        "Broad gains across the firm's portfolio indicate strong execution during market dislocations that have challenged single-strategy funds."
-      ],
-      "topics": [
-        "hedge-fund-performance",
-        "multi-strategy-trading",
-        "quant-volatility"
-      ],
-      "highlight": null,
-      "relevance": 4
+      "highlight": "America's strength is that you don't have to pick one favorite thing\u2014you can hold many without being forced to choose.",
+      "relevance": 5
     }
   },
   {
@@ -1435,56 +1311,6 @@
       ],
       "highlight": "Former Aviva Group CEO joining RGA board\u2014watch for follow-on strategic announcements or management moves that would confirm whether this is transformational or defensive positioning.",
       "relevance": 4
-    }
-  },
-  {
-    "id": "2dcc5815bb0e",
-    "title": "The United States\u2019 OpenAI Equity Stake, Meta The Neocloud, Karp\u2019s Attack",
-    "url": "https://www.bigtechnology.com/p/the-united-states-openai-equity-stake",
-    "source": "Big Technology (Alex Kantrowitz)",
-    "section": "Learn",
-    "date": "2026-07-02T18:53:12+00:00",
-    "summary_raw": "Ahead of the holiday weekend, here&#8217;s what&#8217;s happening and what to look out for.",
-    "summary_ai": {
-      "digest": "Alex Kantrowitz's newsletter covers U.S. government consideration of an OpenAI equity stake, Meta's infrastructure ambitions, and Palantir CEO Karp's public criticism\u2014three disconnected tech/policy stories.",
-      "summary_long": "The piece is a roundup of three concurrent tech developments: potential U.S. government equity participation in OpenAI (motivated by national security and AI governance concerns), Meta's expansion into cloud infrastructure and compute provisioning (\"Neocloud\"), and Palantir CEO Alex Karp's recent critical statements about tech leadership and strategy. Kantrowitz presents each as a trend worth monitoring but does not synthesize them into a coherent thesis or offer novel analysis of their business or strategic implications. The tone is observational rather than argumentative.",
-      "talking_points": [
-        "U.S. government exploring direct equity stake in OpenAI as alternative to regulation\u2014signals policy uncertainty around AI governance and potential conflicts between national security and private capital.",
-        "Meta pivoting to become infrastructure provider for AI compute, moving beyond pure applications\u2014shifts competitive focus and raises questions about margin and capital intensity.",
-        "Karp's public attacks on tech leadership suggest fracture in founder/CEO cohesion or messaging during uncertain market cycle."
-      ],
-      "topics": [
-        "AI governance",
-        "Meta strategy",
-        "Big Tech leadership"
-      ],
-      "highlight": "U.S. equity stake in OpenAI would align government incentives with AI safety/capability control but blur lines between public oversight and private shareholder governance.",
-      "relevance": 3
-    }
-  },
-  {
-    "id": "f0fad51ff980",
-    "title": "James Mirrlees auction markets in everything",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/james-mirrlees-auction-markets-in-everything.html?utm_source=rss&utm_medium=rss&utm_campaign=james-mirrlees-auction-markets-in-everything",
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "section": "Learn",
-    "date": "2026-07-02T19:36:50+00:00",
-    "summary_raw": "<p>To mark what would have been Jim Mirrlees\u2019 90th\u00a0birthday on 4 July, Nuffield College (Oxford University)\u00a0 is auctioning off some signed books from Jim\u2019s personal collection and other special items of Jim\u2019s generously donated by the Mirrlees family and the artist Yu Ji. The proceeds will support a fund for scholarships in Jim&#8217; s memory. [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/james-mirrlees-auction-markets-in-everything.html\">James Mir",
-    "summary_ai": {
-      "digest": "Tyler Cowen notes an Oxford auction of James Mirrlees' signed books and personal items to fund scholarships in the Nobel laureate's name, timed for what would have been his 90th birthday.",
-      "summary_long": "Nuffield College is auctioning memorabilia from the personal collection of James Mirrlees, the economist who won the Nobel Prize for work on information asymmetry and incentive design. The auction includes signed books and items donated by the Mirrlees family and artist Yu Ji. Proceeds support a scholarship fund in Mirrlees' memory. Cowen frames this as an example of 'auction markets in everything'\u2014using market mechanisms to allocate goods and capital, even in academic and memorial contexts. The piece is a light institutional anecdote wrapped in a broader observation about market design's ubiquity.",
-      "talking_points": [
-        "Mirrlees' incentive-design framework underpins modern contract theory, principal-agent problems, and information economics\u2014foundational to fintech and financial-services risk modeling.",
-        "Using auctions to fund scholarships rather than direct giving is itself a market-design choice that Cowen highlights as emblematic of how economists think about allocation.",
-        "If interested in the economics of incentives and asymmetric information, Mirrlees' work is canonical\u2014worth a refresher for any analyst covering fintech, lending, or asset management."
-      ],
-      "topics": [
-        "economics-of-information",
-        "market-design",
-        "academic-scholarship"
-      ],
-      "highlight": null,
-      "relevance": 3
     }
   },
   {
@@ -1836,25 +1662,28 @@
     }
   },
   {
-    "id": "6747bd271d68",
-    "title": "America Turns 250, and the Risk Meter Is Still Working",
-    "url": "https://www.insurancejournal.com/blogs/academy-journal/2026/07/02/876192.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-02T20:18:32+00:00",
-    "summary_raw": "This weekend, America turns 250 years old and that means that everyone will be celebrating in the most American of ways. We are all for the traditional celebrations, but let&#8217;s face it, it&#8217;s hard to turn the internal risk meter &#8230;",
+    "id": "a2bb1db5aa1b",
+    "title": "Why a founder at age 50 is twice as likely to find success as one at age 30",
+    "url": "https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-04T18:56:00+00:00",
+    "summary_raw": "Older workers are fighting ageism by starting their own businesses \u2014 and they\u2019re outperforming younger entrepreneurs",
     "summary_ai": {
-      "digest": "Opinion piece on risk management and insurance during America's 250th anniversary; no deal, regulatory, or capital announcement.",
-      "summary_long": "The article uses the July 4th milestone as a framing device to discuss risk assessment and insurance in American life. It appears to pivot between celebratory commentary and a reflexive note on how risk professionals remain analytically engaged even during holidays. No specific insurance sector trends, M&A activity, regulatory actions, capital raises, or underwriting shifts are presented. The piece reads as editorial/cultural commentary rather than sector news.",
+      "digest": "Founders aged 50+ have twice the success rate of those at 30, driven by capital access, networks, and domain expertise rather than raw energy.",
+      "summary_long": "Research on startup founder age shows a strong correlation between maturity and success rates, with 50+ founders outperforming younger cohorts significantly. The article attributes this to accumulated capital, professional networks, industry knowledge, and credibility with investors\u2014factors that compound over a career. For older workers facing ageism in corporate roles, entrepreneurship becomes a viable exit and often a more viable one than for first-time founders in their 30s. The implication is that age-based hiring discrimination may paradoxically push experienced talent into ventures with better odds than they'd have climbing a corporate ladder.",
       "talking_points": [
-        "No actionable deal or regulatory signal for FIG coverage.",
-        "No capital, underwriting, or consolidation angle identified."
+        "Founders over 50 have 2x success rate of 30-year-olds; driven by capital, networks, and domain expertise, not youth or energy.",
+        "Older entrepreneurs often have access to 10+ years of professional relationships and industry-specific credibility younger founders lack.",
+        "Corporate ageism is inadvertently creating a pipeline of well-capitalized, experienced founders with higher probability of exit\u2014good for venture returns, bad signal for institutional hiring."
       ],
       "topics": [
-        "opinion"
+        "founder-age",
+        "entrepreneurship-trends",
+        "talent-retention"
       ],
-      "highlight": null,
-      "relevance": 2
+      "highlight": "50+ founders have 2x the success rate of 30-year-olds, flipping the narrative that youth is a startup advantage.",
+      "relevance": 3
     }
   },
   {
@@ -1903,31 +1732,6 @@
     }
   },
   {
-    "id": "ef955b4a135d",
-    "title": "Record beef imports are flooding the U.S. \u2014 so why is your Fourth of July BBQ so expensive?",
-    "url": "https://www.marketwatch.com/story/your-fourth-of-july-hamburger-meat-was-likely-imported-and-youre-right-to-have-a-beef-with-that-c25d7c31?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-03T19:34:00+00:00",
-    "summary_raw": "Beef prices are sizzling and Washington\u2019s recipe for high costs \u2014 import more meat \u2014 only grills your wallet.",
-    "summary_ai": {
-      "digest": "U.S. beef imports hit record levels, yet retail prices remain elevated despite increased supply flooding the market.",
-      "summary_long": "The U.S. is importing record quantities of beef to address domestic supply constraints, but consumer prices at the retail level have not declined proportionally. The article examines the disconnect between wholesale commodity prices (which have fallen) and what consumers pay at grocery stores and restaurants. Washington's policy response\u2014increasing imports\u2014has failed to translate into lower Fourth of July BBQ costs for households. The dynamic reflects supply-chain friction, retailer margin expansion, and the lag between wholesale and retail price adjustment.",
-      "talking_points": [
-        "Record beef imports are not trickling down to lower consumer prices\u2014a classic wholesale-to-retail disconnect.",
-        "Retail margins on beef have expanded even as commodity costs have fallen, suggesting retailer pricing power.",
-        "Policy response (import surge) has not solved the consumer inflation problem, raising questions about effectiveness of supply-side interventions."
-      ],
-      "topics": [
-        "commodity-inflation",
-        "consumer-pricing",
-        "supply-chain-friction"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
     "id": "eb2233521f0f",
     "title": "The most profitable crypto investors and firms",
     "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-most-profitable-crypto-investors-and-firms.html?utm_source=rss&utm_medium=rss&utm_campaign=the-most-profitable-crypto-investors-and-firms",
@@ -1950,51 +1754,27 @@
     }
   },
   {
-    "id": "996290ee14d1",
-    "title": "\u2018I claimed Social Security at 62\u2019: At 76, I\u2019m working at Walmart. Why do I still owe payroll taxes?",
-    "url": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
+    "id": "0412225d86ee",
+    "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
+    "url": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-04T17:08:00+00:00",
-    "summary_raw": "\u201cIt seems like half of the workforce at our local Walmart is over 65.\u201d",
+    "date": "2026-07-04T21:40:00+00:00",
+    "summary_raw": "While some collectors may plan to hoard their physical media, one Columbus gamer decided to liquidate his collection",
     "summary_ai": {
-      "digest": "A 76-year-old who claimed Social Security at 62 is working at Walmart and questioning why he still pays payroll taxes on wages while receiving benefits. The anecdote opens a broader question about Social Security's earnings test and tax treatment for older workers.",
-      "summary_long": "The article uses one retiree's frustration as a lens into Social Security policy: those who claim before full retirement age face an earnings test (benefits reduced $1 for every $2 earned above a threshold), and all wage income remains subject to payroll taxes regardless of benefit status. The piece hints at a demographic shift \u2014 older workers filling low-wage retail jobs \u2014 but doesn't quantify the trend or explore its labor-market implications. The tax question is legitimate (wages are taxed; some benefits are then taxed again if income exceeds thresholds) but the article reads more as personal-finance advice than systemic analysis.",
+      "digest": "A GameStop customer traded $1,000 in physical game discs days after Sony announced the PS6 will be disc-free, signaling potential acceleration in used-media liquidation.",
+      "summary_long": "Sony's announcement that the PlayStation 6 will ship without a disc drive has triggered immediate consumer behavior\u2014at least one high-profile case of a gamer liquidating $1,000 in physical media at GameStop. The move captures a broader tension: collectors may hoard nostalgia, but rational sellers are front-running obsolescence. This creates a near-term liquidity event for GameStop's used-goods business (a minor positive) but signals long-term structural decline in the physical media moat that has historically underpinned the retailer's model. The timing\u2014immediate action post-announcement\u2014suggests price discovery risk if disc values compress faster than expected.",
       "talking_points": [
-        "Social Security earnings test still applies to early claimers: $1 benefit reduction per $2 earned above ~$23k annually until full retirement age.",
-        "Payroll taxes are withheld on all wages regardless of benefit status; combined with potential taxation of 50\u201385% of benefits, total tax burden is real.",
-        "Anecdotal observation of aging workforce in retail raises questions about labor participation, but article provides no labor-force data or wage/hours context."
+        "Sony's disc-free PS6 announcement is triggering immediate liquidation of used physical media, not hoarding\u2014one gamer dumped $1,000 in discs at GameStop within days.",
+        "This creates a near-term inventory influx for GameStop but underscores the medium-term secular decline in physical game media as a margin driver.",
+        "If disc-value compression accelerates, it pressures GameStop's used-goods economics and forces the company to compete harder on digital or alternative revenue streams."
       ],
       "topics": [
-        "social-security-policy",
-        "senior-workforce",
-        "payroll-tax-treatment"
+        "retail-media-transition",
+        "GameStop-business-model",
+        "consumer-liquidation"
       ],
-      "highlight": "Early claimers face a permanent 25\u201330% benefit reduction plus earnings-test clawbacks, making the math worse than many realize \u2014 but payroll taxes on wages are not the primary inefficiency here.",
-      "relevance": 2
-    }
-  },
-  {
-    "id": "0b4022706b3d",
-    "title": "Your aging parent has a new romance. Here\u2019s how to protect your inheritance \u2014 without looking greedy.",
-    "url": "https://www.marketwatch.com/story/your-aging-parent-has-a-new-romance-heres-how-to-protect-your-inheritance-without-looking-greedy-cbc219ab?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-04T17:22:00+00:00",
-    "summary_raw": "Before your single mom or dad remarries, talk with them about estate-planning issues.",
-    "summary_ai": {
-      "digest": "MarketWatch offers estate-planning advice for adult children concerned about inheritance when a parent enters a new relationship.",
-      "summary_long": "The article addresses a common family scenario: an aging parent begins dating or remarrying, and adult children worry about the implications for their inheritance and their parent's financial security. It advocates for early, non-accusatory conversations about estate planning, including wills, trusts, power of attorney, and healthcare directives. The piece frames these discussions as protective both for the parent (clarity on their wishes) and the children (avoiding post-mortem family conflict). Standard recommendations include consulting an estate attorney, documenting the parent's intent, and considering tools like prenuptial agreements or revocable living trusts.",
-      "talking_points": [
-        "Estate planning conversations with aging parents are easier before a new relationship hardens than after remarriage creates competing interests.",
-        "Revocable living trusts and clear documentation of wishes reduce post-mortem dispute risk and probate complexity.",
-        "Adult children should frame these talks around protecting the parent's autonomy and wishes, not securing their own inheritance claim."
-      ],
-      "topics": [
-        "estate-planning",
-        "family-wealth-transfer"
-      ],
-      "highlight": null,
+      "highlight": "$1,000 liquidation within days of Sony's disc-free PS6 announcement\u2014shows rational sellers front-running obsolescence, not collectors hoarding.",
       "relevance": 2
     }
   },
@@ -2106,45 +1886,6 @@
     }
   },
   {
-    "id": "9f5553f8fb67",
-    "title": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
-    "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-03T20:00:00+00:00",
-    "summary_raw": "Why it\u2019s a good month to save on streaming, despite the return of \u2018Enola Holmes\u2019 to Netflix and \u2018Silo\u2019 to Apple",
-    "summary_ai": {
-      "digest": "Entertainment streaming services announce July 2026 content lineups across Netflix, Hulu, HBO Max, and others.",
-      "summary_long": "MarketWatch publishes a consumer guide to streaming content launches in July 2026, highlighting releases like 'Enola Holmes' on Netflix and 'Silo' on Apple TV+. The piece frames July as a relatively light month for new content, positioning it as an opportunity for consumers to cut streaming subscriptions or pause memberships. No financial data, subscriber impact analysis, or media-company earnings implications are provided. This is a pure consumer entertainment calendar, not a business or market analysis.",
-      "talking_points": null,
-      "topics": null,
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "1f45d5f57469",
-    "title": "What\u2019s a \u2018soft\u2019 off day? How to take one without getting in trouble at work.",
-    "url": "https://www.marketwatch.com/story/whats-a-soft-off-day-how-to-take-one-without-getting-in-trouble-at-work-10706631?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-04T16:27:00+00:00",
-    "summary_raw": "Plus: Why you should consider taking a \u201clife admin\u201d day.",
-    "summary_ai": {
-      "digest": "MarketWatch explainer on taking unofficial time off without signaling disengagement to managers; frames it as 'life admin' rather than mental health or vacation.",
-      "summary_long": "The article advises on how to take unscheduled personal time\u2014doctor appointments, errands, family matters\u2014while maintaining the appearance of productivity and commitment. It suggests framing absences as isolated 'life admin' needs rather than systematic burnout or disengagement, and offers tactics like staying loosely available and catching up asynchronously. The implicit premise is that workplaces still penalize transparency about personal needs, so employees must manage optics. No original data or reporting; mostly soft workplace advice.",
-      "talking_points": [
-        "Null."
-      ],
-      "topics": [
-        "workplace-culture",
-        "burnout-management"
-      ],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
     "id": "3614c00b8556",
     "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
     "url": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
@@ -2153,13 +1894,10 @@
     "date": "2026-07-04T17:30:00+00:00",
     "summary_raw": "\u201cPart of me would prefer to leave more to those for whom the money could make a meaningful difference.\u201d",
     "summary_ai": {
-      "digest": "Personal-finance advice column on estate-planning inequality among nieces and nephews. No market signal, no FIG angle.",
-      "summary_long": "A reader with no children asks whether leaving unequal inheritances to nieces and nephews\u2014weighted toward those with greater financial need\u2014will spark family conflict. The columnist advises transparent communication, notes that unequal distributions are legally permissible, and suggests the reader's intent (helping those most in need) is defensible. The piece touches on estate psychology and family dynamics but contains no data, no regulatory implication, and no read-through to markets, credit conditions, or financial-services deal flow.",
-      "talking_points": [],
-      "topics": [
-        "estate-planning",
-        "personal-finance"
-      ],
+      "digest": null,
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
       "highlight": null,
       "relevance": 1
     }
@@ -2172,6 +1910,40 @@
     "section": "Markets & Macro",
     "date": "2026-07-04T17:57:00+00:00",
     "summary_raw": "Country singer Jelly Roll\u2019s ex-wife, Bunnie Xo, has revealed that she will take full ownership of the former couple\u2019s Tennessee compound as part of their divorce settlement.",
+    "summary_ai": {
+      "digest": null,
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "9f5553f8fb67",
+    "title": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
+    "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-04T19:01:00+00:00",
+    "summary_raw": "Why it\u2019s a good month to save on streaming, despite the return of \u2018Enola Holmes\u2019 to Netflix and \u2018Silo\u2019 to Apple",
+    "summary_ai": {
+      "digest": null,
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "9a34cda3b861",
+    "title": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+    "url": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-04T20:56:00+00:00",
+    "summary_raw": "\u201cHe lived rent-free, helping her with health-related issues and other tasks.\u201d",
     "summary_ai": {
       "digest": null,
       "summary_long": null,
