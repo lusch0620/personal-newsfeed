@@ -1,154 +1,139 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Mixed regulatory signals on bank compliance, CFPB restructuring moves, and strong hedge fund performance amid market volatility.",
+    "lede": "Prediction markets hit record volumes on World Cup betting; Citadel's hedge funds post solid H1 gains; mostly corporate calendar items.",
     "bullets": [
       {
-        "text": "Fed terminates enforcement actions with BNP Paribas entities and Community Bankshares while issuing new action against Small Business Bank\u2014mixed signals on compliance progress.",
-        "refId": "c8afd4957fc8",
-        "source": "Federal Reserve Press Releases"
+        "text": "Prediction market platforms Kalshi, Polymarket, and Rothera all hit record trading volumes in June, with Rothera alone moving $2B on World Cup betting.",
+        "refId": "fe4768266a32",
+        "source": "CNBC Finance"
       },
       {
-        "text": "OCC ends Patriot Bank enforcement after $5M+ compliance spend; regional bank expects lower regulatory and FDIC fees going forward.",
-        "refId": "88f64561baff",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "CFPB gives employees 2-week ultimatum (July 14) to accept geographic reassignment or face separation\u2014signals potential restructuring at the regulator.",
-        "refId": "0f74f20226e9",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Citadel's tactical trading fund up 14.3% YTD, outperforming as quant strategies face broader headwinds.",
+        "text": "Citadel's hedge funds gained broadly in H1 2026, with tactical trading strategy up 14.3% YTD, outperforming amid broader quant volatility.",
         "refId": "0bfb1315c099",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "Vestmark's TAMP platform hits $50B AUM milestone after UMA launch; legal and tech standards dominate the rest.",
+    "lede": "Vestmark hits $50B AUM inflection point on retail UMA demand; litigation and tech certifications round out the week.",
     "bullets": [
       {
-        "text": "Vestmark crosses $50B AUM (5x growth) after launching retail UMA with tax management; T. Rowe Price, BlackRock, Capital Group, VanEck all sending referrals signals RIA demand for standalone tech.",
+        "text": "Vestmark's TAMP platform crossed $50B AUM (5x growth) after launching retail UMA with tax management; T. Rowe Price, BlackRock, Capital Group, VanEck now referring clients\u2014clear signal standalone RIA tech is in demand.",
         "refId": "9f153ce7b5da",
         "source": "RIABiz"
       },
       {
-        "text": "Edelman Financial Engines appealing federal court ruling that rejected its trade-secrets claim against Mariner Holdings\u2014court found no misappropriation established.",
+        "text": "Edelman Financial Engines appealing federal court rejection of its trade-secrets claim against Mariner Holdings; judge found no evidence of misappropriation.",
         "refId": "10bd5c1eee2c",
         "source": "Wealth Management"
       },
       {
-        "text": "Orion gains ISO 42001 AI certification for advisor platform, joining rare global cohort\u2014standards play, not a capital event.",
+        "text": "Orion earned ISO 42001 AI certification for its advisor platform, joining Nitrogen in a small global cohort\u2014standards validation for wealth tech infrastructure.",
         "refId": "ba7e9aa5f431",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "Soft reinsurance market meets sidecar boom, while Big Tech's AI emissions and trade policy shifts create new risk exposures.",
+    "lede": "Sidecar capital floods the market as reinsurance pricing faces structural headwinds; tech adoption accelerates across underwriting.",
     "bullets": [
       {
-        "text": "Excess reinsurance capital driving aggressive price competition at midyear renewals, widening cedent options and softening rates across excess lines.",
-        "refId": "9f61052bd66e",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Sidecar reserves hit $90bn in 2025 (up 64% from 2023), fueled by strong US annuity sales\u2014expect continued capital influx competing with traditional reinsurers.",
+        "text": "Sidecar reserves jumped 64% to $90bn+ in 2025, driven by strong US annuity sales\u2014a structural shift adding capacity to an already oversupplied market.",
         "refId": "39bf219e4c0d",
         "source": "Reinsurance News"
       },
       {
-        "text": "Amazon and Google's AI infrastructure emissions spiked in 2025, creating regulatory and insurance cost exposure risks that may challenge net-zero commitments.",
-        "refId": "6787544f3472",
-        "source": "Insurance Journal"
+        "text": "JP Morgan sees no pricing floor through 2026\u201327 despite Q2 gains; lighter hurricane seasons and oversupply mean sustained margin compression ahead.",
+        "refId": "8d540fe16160",
+        "source": "Reinsurance News"
       },
       {
-        "text": "USMCA wind-down without renegotiation could reshape cross-border insurance operations and M&A flows in North America\u2014worth monitoring for client impact.",
-        "refId": "b2290ba7826d",
-        "source": "Insurance Journal"
+        "text": "Reinsurers are customizing coverage and expanding flexible structures at US property renewals, signaling they're competing aggressively for business.",
+        "refId": "d7937ad42711",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "40% of insurers now deploy AI in underwriting as competitive pressure forces automation\u2014a critical efficiency lever in a margin-squeezed environment.",
+        "refId": "22b3dead314a",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "4 stories spanning crypto infrastructure expansion, AI/threat intelligence platforms, direct lending fundraising, and emerging regulatory frameworks around tokenization and AI agents.",
+    "lede": "Four stories on crypto infrastructure expansion and emerging risks\u2014from stablecoin scaling to regulatory warnings on tokenization and AI agents.",
     "bullets": [
       {
-        "text": "Standard Chartered + Circle: Institutional clients now get direct USDC minting/redemption access, signaling bank-level embrace of stablecoin infrastructure for digital asset trading.",
+        "text": "Standard Chartered partners with Circle to offer institutional clients direct USDC minting/redemption, signaling bank appetite for embedded stablecoin infrastructure.",
         "refId": "f854809a2f74",
         "source": "Finextra"
       },
       {
-        "text": "Visa launches cyber threat intelligence platform and executes agentic transactions in Europe\u2014expanding software/services revenue beyond core payments processing.",
-        "refId": "382083c5973b",
-        "source": "Finextra"
-      },
-      {
-        "text": "Hayfin closes \u20ac15bn fifth direct lending fund with more conservative structuring after US semi-liquid vehicle headwinds, signaling cautious LP sentiment in the space.",
+        "text": "Hayfin closed \u20ac15bn fifth direct lending fund with more conservative structuring after US semi-liquid vehicle challenges; shifting LP appetites toward stability.",
         "refId": "0f75a0174907",
         "source": "Private Debt Investor"
       },
       {
-        "text": "IMF warns tokenization will shift financial risk to less-supervised service providers; MAS + Singapore banks publish AI agent safeguards white paper\u2014regulatory frameworks emerging ahead of mainstream adoption.",
-        "refId": "a2523f6a6280, 7a0488d53609",
+        "text": "IMF warns tokenization will migrate financial risk to less-regulated service providers, requiring updates to monetary-policy frameworks\u2014early institutional pushback on crypto migration.",
+        "refId": "a2523f6a6280",
+        "source": "Finextra"
+      },
+      {
+        "text": "MAS and Singapore banks release AI agent safeguards white paper, establishing first-mover regulatory framework as autonomous systems become active in trading and settlement.",
+        "refId": "7a0488d53609",
         "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "PE sponsors racing to self-govern continuation vehicles before regulators tighten rules; consolidation pressures mounting across mid-market and LP allocation shifts.",
+    "lede": "Four stories tracking PE capital deployment: BCI launches LP-direct capital solutions, Evercore bulks up Asia secondaries talent, Sandbrook bets \u20ac200M on European data centers, and Wellesley Retirement Board seeks investment consultant.",
     "bullets": [
       {
-        "text": "PE and secondaries firms adopting market-standard governance on continuation vehicles preemptively to avoid SEC/state regulatory crackdown that could impose stricter rules.",
-        "refId": "e17949a5c5c1, 290661878f9e",
-        "source": "Private Equity International, Secondaries Investor"
-      },
-      {
-        "text": "Major Japanese LP shifting allocations and mid-market PE facing consolidation pressure; UK megafunds signaling regulatory engagement.",
-        "refId": "5699fbf658f2",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "BCI launching capital solutions strategy to capture direct LP participation in continuation vehicles/secondaries, though most LPs still outsource.",
+        "text": "BCI launching capital solutions strategy to let LPs directly participate in continuation vehicles and secondaries\u2014positioning itself ahead of trend, though most LPs still outsource.",
         "refId": "92638a28735e",
         "source": "Buyouts Insider"
       },
       {
-        "text": "Evercore bulking up Asia secondaries team with HarbourVest hire, signaling bulge-bracket expansion into alternatives and intensifying competition for LP capital.",
+        "text": "Evercore hired secondaries specialist in Asia, replacing departing Singapore director; signals bulge-bracket intensifying competition for LP capital in secondary fund-of-funds.",
         "refId": "452a82932350",
         "source": "Secondaries Investor"
+      },
+      {
+        "text": "Sandbrook deployed \u20ac200M into Krios (European data-center platform) on back of AI compute demand; PE appetite for digital infra continues to accelerate.",
+        "refId": "34051c6cbe4f",
+        "source": "PE Hub"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "Four stories signal market structural stress beneath the surface: PE deal friction, tech repricing, narrowing breadth despite rallies, and earnings forecasts outpacing fundamentals.",
+    "lede": "4 stories flagging market structure risks: PE deal friction, tech repricing, narrowing breadth masking rally, and earnings forecasts outpacing fundamentals.",
     "bullets": [
       {
-        "text": "KKR/Bridgepoint's \u00a35.7bn DCC Energy bid faces shareholder revolt from Ninety One, Aviva, and Fidelity\u2014potential deal risk in large-cap energy M&A.",
+        "text": "KKR/Bridgepoint's \u00a35.7bn DCC Energy bid faces shareholder revolt from Ninety One, Aviva, and Fidelity\u2014deal execution risk rising.",
         "refId": "e05a5e3a64e3",
         "source": "Financial Times Markets"
       },
       {
-        "text": "S&P 500 earnings forecasts rising at fastest pace since 2020\u2014sparking 'earnings bubble' fears as valuations have decoupled from fundamental justification.",
+        "text": "Tech valuations deteriorating sharply; FT warns old-fashioned valuation discipline will outperform as repricing accelerates.",
+        "refId": "d2e15608a720",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "S&P 500 earnings forecasts rising at fastest pace since 2020\u2014but equity gains mask narrowing breadth and AI-concentration, signaling regime change risk beneath surface.",
         "refId": "48d824a4e069",
         "source": "Financial Times Markets"
       },
       {
-        "text": "AI-linked concentration masking market breadth collapse: equity gains hide a regime shift with bond yields resetting lower and narrowing participation.",
-        "refId": "124aa9f3449c",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Oil contango structure (futures > spot) locking in losses for commodity ETFs through 2026\u2014structural headwind for passive oil vehicles independent of price direction.",
+        "text": "Oil contango persisting through 2026 structurally depressing passive commodity ETF returns as monthly roll-downs lock in losses.",
         "refId": "43c3f27111bc",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Marc Rubinstein examines valuation stretch and market dynamics in today's Net Interest piece.",
+    "lede": "Marc Rubinstein on valuation stretching and market dynamics.",
     "bullets": [
       {
-        "text": "Rubinstein digs into whether current valuations represent genuine opportunity or dangerous overextension in key asset classes.",
+        "text": "Rubinstein examines how valuations are expanding in certain pockets of the market, signaling potential overextension in growth narratives.",
         "refId": "65eff75fcbe9",
         "source": "Net Interest"
       }
@@ -159,47 +144,52 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "AI deployment at scale meets economic stagnation concerns: Coinbase runs 1,200 agents in production while Britain's decline and demographic headwinds reshape growth priorities.",
+    "lede": "Five stories spanning geopolitics, demography, and biotech: American dominance fueled global prosperity, but Britain's infrastructure rot mirrors Mississippi's decline while birth rate drops may actually boost per-capita growth\u2014and GLP-1 drugs could rewire human behavior.",
     "bullets": [
       {
-        "text": "Coinbase has 1,200 AI agents live in compliance, customer service, and investment advisory\u2014operating under a legal framework that lets them issue regulated financial advice as autonomous business units with defined KPIs.",
-        "refId": "f7246068cdab",
-        "source": "The AI Corner"
-      },
-      {
-        "text": "Britain's economy has stagnated to Mississippi-level per-capita income due to chronic underinvestment in infrastructure and services, not accounting gimmicks\u2014a cautionary tale for developed economies.",
+        "text": "Britain's economic stagnation now matches Mississippi per-capita income; the culprit is chronic underinvestment in infrastructure and services, not accounting illusions.",
         "refId": "b3a8058db318",
         "source": "Marginal Revolution"
       },
       {
-        "text": "Developed economies face demographic decline and need skilled immigration to sustain growth and tax bases; polarized debate obscures this economic necessity.",
+        "text": "Falling birth rates correlate with *higher* per-capita GDP growth\u2014contradicting conventional wisdom that demographic decline cripples economies.",
+        "refId": "4a3686400fe6",
+        "source": "Marginal Revolution"
+      },
+      {
+        "text": "Developed economies face demographic urgency and need skilled migration to sustain growth and tax bases; polarized immigration rhetoric is obscuring the economic case.",
         "refId": "e323eb460803",
         "source": "Noahpinion"
+      },
+      {
+        "text": "GLP-1 drugs like Ozempic may reshape psychology and behavior at scale\u2014affecting appetite, ambition, risk-taking, and social dynamics beyond weight loss.",
+        "refId": "374850c08161",
+        "source": "The Generalist"
       }
     ]
   },
   "all": {
-    "lede": "Four stories spanning fintech innovation, RIA platform growth, Fed enforcement moves, and reinsurance market softening\u2014plus a macro reflection on U.S. economic dominance.",
+    "lede": "5 stories: TAMP platform hits milestone, stablecoin infrastructure expands, and alternative credit raises record capital.",
     "bullets": [
       {
-        "text": "Coinbase has 1,200 AI agents live in production (compliance, advisory, service) operating under a legal framework permitting autonomous regulated financial advice\u2014Armstrong's model treats them as autonomous business units with KPIs.",
-        "refId": "f7246068cdab",
-        "source": "The AI Corner"
-      },
-      {
-        "text": "Vestmark's TAMP platform vaulted to $50B AUM (5x growth) after launching retail UMA with tax management, drawing major referrals from T. Rowe Price, BlackRock, Capital Group, and VanEck.",
+        "text": "Vestmark's TAMP platform crosses $50B AUM (5x growth) after launching retail UMA with tax management; T. Rowe Price, BlackRock, Capital Group, VanEck now referring clients\u2014signals strong RIA tech demand.",
         "refId": "9f153ce7b5da",
         "source": "RIABiz"
       },
       {
-        "text": "Fed issued new enforcement action against Small Business Bank while terminating four existing actions with BNP Paribas entities and Community Bankshares\u2014mixed regulatory momentum.",
-        "refId": "c8afd4957fc8",
-        "source": "Federal Reserve"
+        "text": "Standard Chartered partners with Circle to offer institutional clients direct USDC minting/redemption, expanding stablecoin infrastructure for digital asset trading.",
+        "refId": "f854809a2f74",
+        "source": "Finextra"
       },
       {
-        "text": "Excess reinsurance capital and strong underwriting profits are driving competitive midyear renewals, softening pricing and expanding cedent options.",
-        "refId": "9f61052bd66e",
-        "source": "Insurance Journal"
+        "text": "Hayfin closes \u20ac15bn fifth direct lending fund, moving to more conservative structuring after US semi-liquid vehicle headwinds.",
+        "refId": "0f75a0174907",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "Visa launches cyber threat intelligence platform and executes agentic transactions with European banks, pushing deeper into software/services beyond payments.",
+        "refId": "382083c5973b",
+        "source": "Finextra"
       }
     ]
   },
