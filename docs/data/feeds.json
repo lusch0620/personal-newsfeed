@@ -26,32 +26,6 @@
     }
   },
   {
-    "id": "e05a5e3a64e3",
-    "title": "Top investors oppose \u00a35.7bn private equity bid for energy group DCC",
-    "url": "https://www.ft.com/content/8e4e34b4-f41d-4e79-9151-7f28bc66650a",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-03T18:23:43+00:00",
-    "summary_raw": "Offer from KKR and Bridgepoint subsidiary fails to win support from Ninety One, Aviva Investors and Fidelity International",
-    "summary_ai": {
-      "digest": "KKR and Bridgepoint's \u00a35.7bn bid for DCC Energy faces pushback from major shareholders Ninety One, Aviva Investors, and Fidelity International, signaling potential deal friction.",
-      "summary_long": "KKR and Bridgepoint have tabled a \u00a35.7bn offer to take DCC Energy private, but three of the company's largest institutional investors have publicly opposed the bid, citing valuation concerns. DCC Energy is a diversified energy distributor with recurring revenue streams; the PE buyers are betting on operational leverage and margin expansion. Shareholder opposition typically delays deals, triggers competing bids, or forces price increases. This matters for the PE/credit market because it tests whether mid-market energy deals can clear in a higher-rate environment and signals investor skepticism about PE pricing discipline.",
-      "talking_points": [
-        "Major institutional holders (Ninety One, Aviva, Fidelity) have rejected the KKR/Bridgepoint offer, blocking what would be a straightforward LBO in a tougher financing climate.",
-        "DCC Energy's recurring distributor model appeals to PE, but public investors are pricing in higher growth or restructuring upside than the bid reflects.",
-        "Deal complications raise the cost of capital and extend timelines\u2014watch for a revised bid, competing bidders, or deal termination."
-      ],
-      "topics": [
-        "PE deal friction",
-        "mid-market M&A",
-        "energy sector",
-        "shareholder activism"
-      ],
-      "highlight": "Three major institutional shareholders have publicly opposed the deal, a signal that PE valuation assumptions are misaligned with market expectations in the current environment.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "d2e15608a720",
     "title": "As the tech bubble deflates, turn to old-fashioned valuation rules",
     "url": "https://www.ft.com/content/ba383ce8-e65d-49d2-b236-c88d58b8a875",
@@ -181,32 +155,6 @@
     }
   },
   {
-    "id": "d218d1d18c56",
-    "title": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule \u2014 just in time for hail and hurricane season",
-    "url": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-04T18:19:00+00:00",
-    "summary_raw": "Those who find extensive damage to their roofs might be stuck between two options: File an insurance claim, which could trigger a premium increase, or cough up the cash for the necessary repairs or replacement.",
-    "summary_ai": {
-      "digest": "New federal rule allows insurers to shift roof-replacement costs to homeowners through higher deductibles and limited coverage, forcing consumers to choose between filing claims (risking premium hikes) or self-insuring repairs ahead of peak storm season.",
-      "summary_long": "A recent federal regulation has enabled property insurers to restructure homeowners policies by increasing deductibles on roof claims and narrowing replacement coverage, effectively transferring replacement-cost risk from insurers to policyholders. The timing is problematic: this shift coincides with peak hail and hurricane season, when roof damage claims spike. Homeowners now face a bind\u2014claim a roof replacement and absorb future premium increases, or avoid the claim and pay out-of-pocket. This reflects insurers' effort to manage elevated claims frequency and severity in climate-exposed regions, but it also signals deteriorating underwriting economics in the homeowners segment and potential regulatory pushback if consumer complaints mount.",
-      "talking_points": [
-        "Insurers are offloading roof-replacement risk to consumers via higher deductibles and narrower coverage, not through price alone\u2014a structural shift in the policy contract.",
-        "The rule change lands during peak storm season, forcing homeowners into uninsurable self-insurance or premium-inflation trades, which could trigger political and regulatory backlash.",
-        "This signals severe underwriting strain in homeowners insurance; if the business is this stressed, watch for continued flight from high-risk geographies and potential M&A or capital raises among regional carriers."
-      ],
-      "topics": [
-        "homeowners-insurance-underwriting",
-        "insurance-policy-restructuring",
-        "climate-risk-pricing",
-        "regulatory-consumer-friction"
-      ],
-      "highlight": "Homeowners can now avoid filing claims to dodge premium increases, but that means self-insuring catastrophic roof damage\u2014a sign insurers are ceding the worst-case scenarios rather than pricing them.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "dc729c5aa22e",
     "title": "How Bending Spoons built a $23bn tech empire from struggling brands",
     "url": "https://www.ft.com/content/040aac86-f458-400b-a353-7ff2ee5aa34f",
@@ -280,6 +228,32 @@
         "deal-valuation"
       ],
       "highlight": "July's seasonal momentum weakness collides with record positioning and thin summer liquidity\u2014a flash-crash setup that could reset fintech valuations and suppress M&A multiples.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "4e82848c855a",
+    "title": "UK regulator warns of \u2018arms race\u2019 to keep up with AI use in financial services",
+    "url": "https://www.ft.com/content/7f501320-9037-410f-b8e7-3111b9041311",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-05T21:00:06+00:00",
+    "summary_raw": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions",
+    "summary_ai": {
+      "digest": "FCA warns of an 'arms race' in AI adoption across financial services, arguing regulators lack the powers and speed to keep pace with technology deployment in retail and institutional finance.",
+      "summary_long": "The Financial Conduct Authority has flagged growing concern that AI is being deployed faster than regulators can assess risk, particularly in personal finance tools where millions of retail users are making decisions based on algorithmic advice. The FCA official's remarks underscore a regulatory lag: institutions are racing to adopt AI for cost reduction and competitive advantage, but oversight frameworks remain reactive and fragmented. This signals both a near-term compliance risk for firms moving too fast and a longer-term opportunity for regulatory clarity\u2014or constraint. The framing as an 'arms race' suggests the FCA will likely push for expanded powers and earlier disclosure/approval gates, which could slow fintech deployment and favour incumbents with compliance depth.",
+      "talking_points": [
+        "FCA is explicitly flagging AI adoption as outpacing regulatory capacity\u2014this will likely trigger new consultation or enforcement guidance in H2 2026.",
+        "Retail finance AI use (robo-advisors, chatbots, algorithmic credit decisioning) is the pressure point; regulators fear liability and consumer harm if systems fail without governance.",
+        "Firms moving fast on AI now risk becoming enforcement test cases; expect heightened scrutiny on model validation, bias testing, and explainability in the next 12\u201318 months."
+      ],
+      "topics": [
+        "FCA regulation",
+        "AI governance",
+        "fintech compliance",
+        "regulatory lag"
+      ],
+      "highlight": "FCA is explicitly reframing AI as a regulatory capacity crisis, not just a risk management issue\u2014signals incoming enforcement priorities and possible new approval gates for AI-driven retail products.",
       "relevance": 6
     }
   },
@@ -486,27 +460,28 @@
     }
   },
   {
-    "id": "27a6e105d22e",
-    "title": "Oil Context Weekly (W27)",
-    "url": "https://www.commoditycontext.com/p/ocw27w26",
-    "source": "Commodity Context",
+    "id": "9db89cce3c52",
+    "title": "OPEC+ raises output levels again despite tumbling crude prices",
+    "url": "https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories",
+    "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-03T20:23:29+00:00",
-    "summary_raw": "Crude prices were effectively flat this week amidst a comparatively-quiet stretch of summer headlines, with all eyes on the optimistic-but-lurching resumption of Middle Eastern shipping activity.",
+    "date": "2026-07-05T19:55:00+00:00",
+    "summary_raw": "Major oil producers on Sunday agreed once again to modestly increase their crude production, although, as in previous months, the hike is largely symbolic until a peace deal between the U.S. and Iran sticks and the Strait of Hormuz is fully reopened to shipping traffic.",
     "summary_ai": {
-      "digest": "Crude flat week-on-week; Middle East shipping restart is the watch item.",
-      "summary_long": "Oil markets treaded water this week with no major supply shocks or demand catalysts moving prices materially. The article flags Middle Eastern maritime activity as the key variable\u2014resumption of shipping lanes affects global crude flows and, by extension, energy credit and refinance calendars for energy-linked finance. For a FIG analyst, this is relevant only if tracking energy sector credit quality or if a client has upstream/midstream exposure.",
+      "digest": "OPEC+ voted to raise crude output modestly, but the increase remains largely symbolic until Iran nuclear deal holds and Hormuz shipping fully reopens.",
+      "summary_long": "OPEC+ continued its pattern of announcing production increases that lack immediate market impact due to geopolitical friction. The Strait of Hormuz remains a critical bottleneck\u2014Iranian sanctions relief and U.S. diplomacy are the real price drivers, not cartel discipline. For a FIG analyst, this signals that oil volatility will remain structural (tied to geopolitics, not supply management) rather than cyclical, affecting energy sector credit quality and bank energy exposure models. The repeated 'symbolic' hikes suggest OPEC+ credibility is eroding, which matters for long-duration energy project financing.",
       "talking_points": [
-        "Crude in holding pattern; shipping restart in Middle East is the marginal price driver.",
-        "Energy credit and commodity-linked financing calendars depend on clarity in regional logistics."
+        "OPEC+ production hikes are theater until Iran deal holds and Hormuz fully reopens\u2014geopolitical risk, not cartel discipline, is setting oil prices.",
+        "Energy credit models should assume structural volatility around U.S.-Iran negotiations and shipping corridor reopenings, not OPEC+ compliance.",
+        "Repeated failed production signals weaken OPEC+ credibility in capital markets, complicating long-dated energy project financing."
       ],
       "topics": [
-        "crude-oil",
-        "energy-logistics",
-        "commodity-macro"
+        "oil-market-dynamics",
+        "geopolitical-risk",
+        "energy-credit"
       ],
-      "highlight": null,
-      "relevance": 3
+      "highlight": "The production increase is 'largely symbolic' until Iran sanctions relief and Hormuz reopening materialize\u2014oil prices are being set by diplomacy, not supply.",
+      "relevance": 4
     }
   },
   {
@@ -580,28 +555,6 @@
       ],
       "highlight": "Hybrids are now the strategic end-state for many buyers, not a stepping stone \u2014 material implication for EV-focused startup valuations and OEM capex allocation.",
       "relevance": 3
-    }
-  },
-  {
-    "id": "eb2233521f0f",
-    "title": "The most profitable crypto investors and firms",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-most-profitable-crypto-investors-and-firms.html?utm_source=rss&utm_medium=rss&utm_campaign=the-most-profitable-crypto-investors-and-firms",
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "section": "Learn",
-    "date": "2026-07-03T21:23:00+00:00",
-    "summary_raw": "<p>Here is the source.\u00a0 Here is from the editors at The Free Press.\u00a0 Here is more from Mene Ukueberuwa.</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/the-most-profitable-crypto-investors-and-firms.html\">The most profitable crypto investors and firms</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
-    "summary_ai": {
-      "digest": "Tyler Cowen links to analysis of the most profitable crypto investors and firms; no substantive detail provided in excerpt.",
-      "summary_long": "This is a link aggregation post from Marginal Revolution pointing to external sources on crypto profitability\u2014The Free Press and Mene Ukueberuwa. The excerpt contains no original analysis, data, or argument from Cowen himself. The piece appears to be a curation signal rather than a standalone piece of thinking. Without access to the linked sources, the substantive content and any reusable frame are hidden behind the links.",
-      "talking_points": [
-        "Cannot extract actionable talking points from link aggregation without source material."
-      ],
-      "topics": [
-        "crypto-profitability",
-        "market-overview"
-      ],
-      "highlight": null,
-      "relevance": 2
     }
   },
   {
@@ -703,26 +656,6 @@
     }
   },
   {
-    "id": "9f5553f8fb67",
-    "title": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
-    "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-04T19:01:00+00:00",
-    "summary_raw": "Why it\u2019s a good month to save on streaming, despite the return of \u2018Enola Holmes\u2019 to Netflix and \u2018Silo\u2019 to Apple",
-    "summary_ai": {
-      "digest": "Entertainment streaming services release new content in July 2026, including Enola Holmes on Netflix and Silo on Apple TV+.",
-      "summary_long": "MarketWatch reviews upcoming streaming releases across major platforms in July 2026. The article suggests this is a good month to consolidate or save on streaming subscriptions despite some noteworthy releases. New content drops are catalogued across Netflix, Hulu, HBO Max, and Apple TV+, with a framing that encourages cost-conscious viewing habits.",
-      "talking_points": null,
-      "topics": [
-        "entertainment-streaming",
-        "consumer-media"
-      ],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
     "id": "9a34cda3b861",
     "title": "\u2018She wants him gone\u2019: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
     "url": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
@@ -765,12 +698,31 @@
     "date": "2026-07-05T14:00:00+00:00",
     "summary_raw": "\u201cPart of me would prefer to leave more to those for whom the money could make a meaningful difference.\u201d",
     "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
+      "digest": "Personal-finance advice column on unequal inheritance distribution among nieces and nephews. No market signal, no FIG relevance.",
+      "summary_long": "A reader without children seeks guidance on whether to leave unequal bequests to multiple nieces and nephews, weighted toward those with greater financial need. The column explores the emotional and family-dynamics risks of unequal inheritance, offering frameworks for thinking about fairness. No data, no sector trend, no macro or deal signal.",
+      "talking_points": [],
+      "topics": [],
       "highlight": null,
       "relevance": 1
+    }
+  },
+  {
+    "id": "9f5553f8fb67",
+    "title": "Here\u2019s what\u2019s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
+    "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-04T19:01:00+00:00",
+    "summary_raw": "Why it\u2019s a good month to save on streaming, despite the return of \u2018Enola Holmes\u2019 to Netflix and \u2018Silo\u2019 to Apple",
+    "summary_ai": {
+      "digest": "Entertainment streaming content calendar for July 2026 across Netflix, Hulu, HBO Max, and others.",
+      "summary_long": "MarketWatch publishes a monthly guide to new and returning shows across major streaming platforms. The piece highlights July 2026 releases including 'Enola Holmes' on Netflix and 'Silo' on Apple TV+, suggesting it may be a lighter month for new content relative to other periods. The framing implies cost-conscious viewers could reduce their streaming subscriptions without missing major releases.",
+      "talking_points": null,
+      "topics": [
+        "entertainment-media"
+      ],
+      "highlight": null,
+      "relevance": 0
     }
   }
 ]

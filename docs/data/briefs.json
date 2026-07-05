@@ -1,14 +1,14 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Prediction markets hit record volumes on World Cup betting, while Macquarie pivots to Chinese AI chips as a key growth thesis.",
+    "lede": "Prediction markets hitting records amid regulatory momentum, while Macquarie makes bullish call on Chinese AI chips.",
     "bullets": [
       {
-        "text": "Prediction market platforms Kalshi, Polymarket, and newcomer Rothera smashed trading records in June on World Cup volumes, with Rothera alone moving $2B.",
+        "text": "Prediction market platforms (Kalshi, Polymarket, Rothera) smashed record volumes in June\u2014Rothera alone did $2B\u2014signaling mainstreaming of retail derivatives trading and potential regulatory tailwind.",
         "refId": "fe4768266a32",
         "source": "CNBC Finance"
       },
       {
-        "text": "Macquarie initiates coverage on five Chinese AI chip makers with buy ratings, positioning itself as the lead voice on sector consolidation and growth.",
+        "text": "Macquarie initiates coverage on five Chinese AI chip makers with buy ratings, positioning itself as the lead voice on a sector facing US sanctions risk but potential domestic upside.",
         "refId": "58bb77f1b4c7",
         "source": "CNBC Finance"
       }
@@ -31,35 +31,35 @@
     "bullets": []
   },
   "Markets & Macro": {
-    "lede": "PE deal faces shareholder revolt, tech valuations crack, and labor market softens\u2014signaling potential rate-cut window amid concentrated market gains.",
+    "lede": "Tech valuations repricing and momentum trades at risk, but softer jobs data opens bond opportunity as market breadth narrows beneath surface gains.",
     "bullets": [
       {
-        "text": "KKR/Bridgepoint's \u00a35.7bn DCC Energy bid hits headwinds: Ninety One, Aviva Investors, and Fidelity International opposing, raising deal execution risk.",
-        "refId": "e05a5e3a64e3",
+        "text": "Tech bubble deflating: FT warns deteriorating valuations signal broader repricing; old-fashioned valuation discipline will outperform in downturn ahead.",
+        "refId": "d2e15608a720",
         "source": "Financial Times Markets"
       },
       {
-        "text": "June jobs miss (217k vs 272k revised) weakens labor market signal, potentially opening Fed rate-cut door and supporting bond valuations.",
-        "refId": "be693ff73d6c",
+        "text": "Momentum unwind risk in July: Record positioning + thin summer liquidity creates elevated risk of violent reversal in historically weak month for momentum trades.",
+        "refId": "cd8eb372d8fb",
         "source": "MarketWatch"
       },
       {
-        "text": "Tech rally masking structural shift: AI trades concentrating returns while market breadth narrows and bond yields reset lower\u2014old-school valuation discipline likely to outperform.",
-        "refId": "124aa9f3449c",
-        "source": "Financial Times Markets"
+        "text": "June jobs miss (217k payrolls) signals lower inflation pressure and potential Fed rate-cut catalyst, bullish for bonds beneath equity rally masking narrowing breadth.",
+        "refId": "be693ff73d6c",
+        "source": "MarketWatch"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Advisors question index strategy effectiveness while psilocybin emerges as a potential mental health play with regulatory tailwinds.",
+    "lede": "Index fund strategy under pressure as advisors seek alternatives; psilocybin treatments gain policy momentum but face regulatory hurdles.",
     "bullets": [
       {
-        "text": "Advisors ditching broad index funds due to performance drag from low-quality holdings diluting market leaders\u2014potential shift toward active/concentrated strategies.",
+        "text": "Advisors dumping broad index funds due to performance drag from low-quality/distressed holdings diluting mega-cap gains.",
         "refId": "f246b2be6156",
         "source": "The Daily Upside"
       },
       {
-        "text": "Psilocybin treatments gaining White House support for treatment-resistant depression, but clinical efficacy and FDA pathway remain murky\u2014early-stage biotech opportunity with execution risk.",
+        "text": "Psilocybin treatments winning White House backing for treatment-resistant depression, but clinical validation and regulatory path remain unclear\u2014biotech upside with execution risk.",
         "refId": "8078eae6e6fd",
         "source": "The Daily Upside"
       }
@@ -70,45 +70,40 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Mostly macro and tech today: reflections on American dominance, AI's productivity acceleration, and a construction/policy roundup.",
+    "lede": "Four opinion pieces on American exceptionalism and AI's productivity gains, plus a construction roundup touching chip exports and power grids.",
     "bullets": [
       {
-        "text": "AI tools are collapsing the cost of intellectual exploration\u2014turning weeks of preliminary work into hours\u2014which lowers the bar for which ideas actually get developed and could reshape R&D productivity.",
-        "refId": "2795c07bb0da",
-        "source": "Marginal Revolution"
-      },
-      {
-        "text": "Noah Smith argues American economic/political dominance over 250 years directly enabled broad human flourishing, positioning U.S. leadership as causal rather than coincidental to global prosperity.",
+        "text": "Noah Smith: U.S. economic dominance over 250 years correlates with\u2014and arguably caused\u2014broad global human flourishing, not coincidence.",
         "refId": "04035961ae8e",
         "source": "Noahpinion"
       },
       {
-        "text": "Policy/infrastructure watch: uninsured households rising, AI chip export controls tightening, Japan experimenting with dual-frequency grids, and Meta doubling down on AI compute\u2014mix of risk and capex signals.",
+        "text": "Tyler Cowen: AI collapses the cost of intellectual exploration (hours vs. weeks), lowering the bar for which ideas get developed and potentially flooding the market with half-baked concepts.",
+        "refId": "2795c07bb0da",
+        "source": "Marginal Revolution"
+      },
+      {
+        "text": "Construction Physics notes: AI chip export controls and Japan's dual-frequency grid signal infrastructure constraints; Meta's AI compute strategy underscores the race for computational edge.",
         "refId": "21d5c76ba891",
         "source": "Construction Physics"
       }
     ]
   },
   "all": {
-    "lede": "PE deal friction in Europe, tech valuation reset underway, and softer labor data fueling bond optimism amid market breadth concerns.",
+    "lede": "Tech valuations cracking, labor market softening, and AI reshaping intellectual productivity\u2014signals of market regime change beneath surface calm.",
     "bullets": [
       {
-        "text": "KKR/Bridgepoint's \u00a35.7bn DCC Energy bid facing shareholder revolt from Ninety One, Aviva, Fidelity\u2014deal momentum at risk.",
-        "refId": "e05a5e3a64e3",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Tech valuations deteriorating sharply; FT argues old-fashioned valuation discipline will outperform as bubble deflates.",
+        "text": "Tech bubble deflating: FT argues old-fashioned valuation discipline will outperform as deteriorating multiples signal broader market repricing ahead.",
         "refId": "d2e15608a720",
         "source": "Financial Times Markets"
       },
       {
-        "text": "June jobs data (217k payrolls, down from 272k) signals softer labor market and lower inflation\u2014opening door for Fed rate cuts and bond rally.",
+        "text": "June jobs miss (217k vs. May's 272k) and softer wage growth signal lower inflation pressure\u2014potential catalyst for Fed rate cuts and bond rally.",
         "refId": "be693ff73d6c",
         "source": "MarketWatch"
       },
       {
-        "text": "Market breadth collapsing under surface gains: AI trades concentrating returns while bond yields reset lower, marking regime shift.",
+        "text": "Equity gains masking structural shift: AI-linked trades concentrating returns while breadth narrows and bond yields reset lower\u2014regime change afoot.",
         "refId": "124aa9f3449c",
         "source": "Financial Times Markets"
       }
