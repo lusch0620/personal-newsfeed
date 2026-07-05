@@ -1,48 +1,26 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Prediction markets hit record volumes on World Cup betting; Macquarie bullish on Chinese AI chip stocks; routine Soitec disclosures.",
+    "lede": "Prediction markets hit record volumes on World Cup betting, while Macquarie pivots to Chinese AI chips as a key growth thesis.",
     "bullets": [
       {
-        "text": "Prediction market platforms Kalshi, Polymarket, and Rothera hit record June trading volumes; Rothera alone moved $2B on World Cup betting activity.",
+        "text": "Prediction market platforms Kalshi, Polymarket, and newcomer Rothera smashed trading records in June on World Cup volumes, with Rothera alone moving $2B.",
         "refId": "fe4768266a32",
         "source": "CNBC Finance"
       },
       {
-        "text": "Macquarie initiates coverage on five Chinese AI chip makers with buy ratings, positioning itself as a lead voice on the sector.",
+        "text": "Macquarie initiates coverage on five Chinese AI chip makers with buy ratings, positioning itself as the lead voice on sector consolidation and growth.",
         "refId": "58bb77f1b4c7",
         "source": "CNBC Finance"
-      },
-      {
-        "text": "Soitec disclosed routine voting rights and capital composition filing per French market rules; no material corporate events or M&A activity.",
-        "refId": "c996458a9956",
-        "source": "GlobeNewswire \u2014 Banking"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "Vestmark's TAMP platform hits $50B AUM milestone on retail UMA product launch, signaling strong RIA tech demand.",
-    "bullets": [
-      {
-        "text": "Vestmark's AUM surges 5x past $50B after launching retail UMA with tax management capabilities; T. Rowe Price, BlackRock, Capital Group, and VanEck all sending referrals.",
-        "refId": "9f153ce7b5da",
-        "source": "RIABiz"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Insurance": {
-    "lede": "UK doubles down on climate risk transfer for emerging markets while AI automation reshapes underwriting economics.",
-    "bullets": [
-      {
-        "text": "UK Foreign Office adds \u00a33m to Natural Disaster Fund Technical Assistance Facility, expanding blended-finance climate resilience mechanism for low- and middle-income countries.",
-        "refId": "253d8c518e0a",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "40% of insurers now deploying AI in underwriting as competitive pressures accelerate automation\u2014structural shift in underwriting economics and talent demand.",
-        "refId": "22b3dead314a",
-        "source": "Reinsurance News"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "No stories in this lane today.",
@@ -53,45 +31,35 @@
     "bullets": []
   },
   "Markets & Macro": {
-    "lede": "4 stories span PE deal friction, tech valuation reset, market regime shift, and Fed-sensitive labor data\u2014with a sidebar on wealth manager opacity.",
+    "lede": "PE deal faces shareholder revolt, tech valuations crack, and labor market softens\u2014signaling potential rate-cut window amid concentrated market gains.",
     "bullets": [
       {
-        "text": "KKR/Bridgepoint's \u00a35.7bn DCC Energy bid faces major shareholder revolt from Ninety One, Aviva, and Fidelity\u2014deal momentum at risk.",
+        "text": "KKR/Bridgepoint's \u00a35.7bn DCC Energy bid hits headwinds: Ninety One, Aviva Investors, and Fidelity International opposing, raising deal execution risk.",
         "refId": "e05a5e3a64e3",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Tech valuations deteriorating sharply; old-fashioned valuation discipline poised to outperform as market reprices growth.",
-        "refId": "d2e15608a720",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "June jobs miss (217k vs May's revised 272k) signals softening labor market and lower inflation\u2014potential Fed rate-cut catalyst for bonds.",
+        "text": "June jobs miss (217k vs 272k revised) weakens labor market signal, potentially opening Fed rate-cut door and supporting bond valuations.",
         "refId": "be693ff73d6c",
         "source": "MarketWatch"
       },
       {
-        "text": "AI-linked trades concentrating returns while market breadth narrows and bond yields reset; structural shift masked by surface equity gains.",
+        "text": "Tech rally masking structural shift: AI trades concentrating returns while market breadth narrows and bond yields reset lower\u2014old-school valuation discipline likely to outperform.",
         "refId": "124aa9f3449c",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Three stories tracking advisor strategy shifts, valuation concerns, and emerging pharma opportunities.",
+    "lede": "Advisors question index strategy effectiveness while psilocybin emerges as a potential mental health play with regulatory tailwinds.",
     "bullets": [
       {
-        "text": "Index fund advisors questioning passive strategies as performance drag from low-quality names outweighs market leadership gains\u2014potential shift toward active management.",
+        "text": "Advisors ditching broad index funds due to performance drag from low-quality holdings diluting market leaders\u2014potential shift toward active/concentrated strategies.",
         "refId": "f246b2be6156",
         "source": "The Daily Upside"
       },
       {
-        "text": "Valuation stretch marks appearing across markets as investors reassess risk premiums and quality metrics.",
-        "refId": "65eff75fcbe9",
-        "source": "Net Interest (Marc Rubinstein)"
-      },
-      {
-        "text": "Psilocybin treatments for treatment-resistant depression gaining White House support, but clinical trials and regulatory pathway remain major execution risks.",
+        "text": "Psilocybin treatments gaining White House support for treatment-resistant depression, but clinical efficacy and FDA pathway remain murky\u2014early-stage biotech opportunity with execution risk.",
         "refId": "8078eae6e6fd",
         "source": "The Daily Upside"
       }
@@ -102,45 +70,45 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Five stories spanning macro trends: demographic shifts boosting per-capita growth, GLP-1 drugs reshaping human behavior at scale, and AI lowering the cost of intellectual work.",
+    "lede": "Mostly macro and tech today: reflections on American dominance, AI's productivity acceleration, and a construction/policy roundup.",
     "bullets": [
       {
-        "text": "Lower birth rates correlate with higher per-capita GDP growth, challenging conventional wisdom that demographic decline hurts economies.",
-        "refId": "4a3686400fe6",
-        "source": "Marginal Revolution"
-      },
-      {
-        "text": "GLP-1 drugs like Ozempic may have second-order effects on ambition, risk-taking, and social dynamics beyond weight loss\u2014potential economy-wide behavioral shift.",
-        "refId": "374850c08161",
-        "source": "The Generalist"
-      },
-      {
-        "text": "AI tools collapse the cost of preliminary research and idea validation from weeks to hours, lowering barriers to what gets developed and explored.",
+        "text": "AI tools are collapsing the cost of intellectual exploration\u2014turning weeks of preliminary work into hours\u2014which lowers the bar for which ideas actually get developed and could reshape R&D productivity.",
         "refId": "2795c07bb0da",
         "source": "Marginal Revolution"
+      },
+      {
+        "text": "Noah Smith argues American economic/political dominance over 250 years directly enabled broad human flourishing, positioning U.S. leadership as causal rather than coincidental to global prosperity.",
+        "refId": "04035961ae8e",
+        "source": "Noahpinion"
+      },
+      {
+        "text": "Policy/infrastructure watch: uninsured households rising, AI chip export controls tightening, Japan experimenting with dual-frequency grids, and Meta doubling down on AI compute\u2014mix of risk and capex signals.",
+        "refId": "21d5c76ba891",
+        "source": "Construction Physics"
       }
     ]
   },
   "all": {
-    "lede": "Vestmark's TAMP platform hits $50B AUM milestone on retail UMA demand; tech valuations face repricing headwinds amid narrowing market breadth.",
+    "lede": "PE deal friction in Europe, tech valuation reset underway, and softer labor data fueling bond optimism amid market breadth concerns.",
     "bullets": [
       {
-        "text": "Vestmark crosses $50B AUM (5x growth) after launching retail UMA with tax management; T. Rowe Price, BlackRock, Capital Group, VanEck now referring clients\u2014signals strong RIA tech demand.",
-        "refId": "9f153ce7b5da",
-        "source": "RIABiz"
-      },
-      {
-        "text": "KKR/Bridgepoint's \u00a35.7bn DCC Energy bid facing shareholder resistance from Ninety One, Aviva, Fidelity International\u2014deal friction ahead.",
+        "text": "KKR/Bridgepoint's \u00a35.7bn DCC Energy bid facing shareholder revolt from Ninety One, Aviva, Fidelity\u2014deal momentum at risk.",
         "refId": "e05a5e3a64e3",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Tech valuations deteriorating as market signals broader repricing; old-fashioned valuation discipline expected to outperform downside.",
+        "text": "Tech valuations deteriorating sharply; FT argues old-fashioned valuation discipline will outperform as bubble deflates.",
         "refId": "d2e15608a720",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Equity rally masking regime shift: AI-linked trades concentrating returns while market breadth narrows and bond yields reset lower.",
+        "text": "June jobs data (217k payrolls, down from 272k) signals softer labor market and lower inflation\u2014opening door for Fed rate cuts and bond rally.",
+        "refId": "be693ff73d6c",
+        "source": "MarketWatch"
+      },
+      {
+        "text": "Market breadth collapsing under surface gains: AI trades concentrating returns while bond yields reset lower, marking regime shift.",
         "refId": "124aa9f3449c",
         "source": "Financial Times Markets"
       }
@@ -179,7 +147,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 184.1046,
+      "v": 184.105,
       "base": 181.3,
       "bp": false
     }
