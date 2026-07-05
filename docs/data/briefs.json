@@ -1,136 +1,99 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Thin banking news day\u2014prediction markets hit records on World Cup betting, while STMicro and Soitec file routine disclosures.",
+    "lede": "Prediction markets hit record volumes on World Cup betting; Macquarie bullish on Chinese AI chip stocks; routine Soitec disclosures.",
     "bullets": [
       {
-        "text": "Prediction market platforms Kalshi, Polymarket, and Rothera hit record June volumes on World Cup betting, with Rothera alone moving $2B\u2014shows retail appetite for event-driven trading.",
+        "text": "Prediction market platforms Kalshi, Polymarket, and Rothera hit record June trading volumes; Rothera alone moved $2B on World Cup betting activity.",
         "refId": "fe4768266a32",
         "source": "CNBC Finance"
       },
       {
-        "text": "STMicroelectronics announced Q2 2026 earnings timing (appears in both English and French releases); no M&A or capital events flagged.",
-        "refId": "0936ab9d72be",
-        "source": "GlobeNewswire \u2014 Banking"
+        "text": "Macquarie initiates coverage on five Chinese AI chip makers with buy ratings, positioning itself as a lead voice on the sector.",
+        "refId": "58bb77f1b4c7",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Soitec filed routine French market disclosure on voting rights and share capital composition\u2014no material events to report.",
+        "text": "Soitec disclosed routine voting rights and capital composition filing per French market rules; no material corporate events or M&A activity.",
         "refId": "c996458a9956",
         "source": "GlobeNewswire \u2014 Banking"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "Vestmark's TAMP platform hits a critical inflection point with $50B AUM; separately, Stansberry outlines SMA product strategies.",
+    "lede": "Vestmark's TAMP platform hits $50B AUM milestone on retail UMA product launch, signaling strong RIA tech demand.",
     "bullets": [
       {
-        "text": "Vestmark's TAMP platform crossed $50B AUM (5x growth) after launching retail UMA with tax management; T. Rowe Price, BlackRock, Capital Group, and VanEck now referring clients, signaling major demand for standalone RIA tech.",
+        "text": "Vestmark's AUM surges 5x past $50B after launching retail UMA with tax management capabilities; T. Rowe Price, BlackRock, Capital Group, and VanEck all sending referrals.",
         "refId": "9f153ce7b5da",
         "source": "RIABiz"
-      },
-      {
-        "text": "Stansberry Asset Management highlighted two SMA strategies (All-Weather and Tactical Select) in product-focused interview; no material M&A, fundraising, or regulatory developments.",
-        "refId": "90fcf2c99b2f",
-        "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "Reinsurance market faces sustained pricing pressure through 2027 despite sidecar growth, while underwriting automation accelerates industry-wide.",
+    "lede": "UK doubles down on climate risk transfer for emerging markets while AI automation reshapes underwriting economics.",
     "bullets": [
       {
-        "text": "Sidecars hit $90bn in reserves (up 64% since 2023), fueled by US annuity demand\u2014but JP Morgan sees no floor on reinsurance pricing through mid-2027 due to oversupply and light hurricane season.",
-        "refId": "39bf219e4c0d",
+        "text": "UK Foreign Office adds \u00a33m to Natural Disaster Fund Technical Assistance Facility, expanding blended-finance climate resilience mechanism for low- and middle-income countries.",
+        "refId": "253d8c518e0a",
         "source": "Reinsurance News"
       },
       {
-        "text": "US property mid-year renewals show reinsurers offering flexible structures and customization\u2014a buyer's market signal despite the price compression headwind.",
-        "refId": "d7937ad42711",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "40% of insurers now deploy AI in underwriting as competitive pressure drives automation adoption across the sector.",
+        "text": "40% of insurers now deploying AI in underwriting as competitive pressures accelerate automation\u2014structural shift in underwriting economics and talent demand.",
         "refId": "22b3dead314a",
         "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "Four stories spanning stablecoin infrastructure, regulatory warnings on tokenization risk, and emerging AI governance frameworks\u2014plus a \u20ac15bn direct lending close.",
-    "bullets": [
-      {
-        "text": "Standard Chartered + Circle: Institutional clients now get direct USDC minting/redemption access, signaling major bank embrace of stablecoin plumbing for digital asset trading.",
-        "refId": "f854809a2f74",
-        "source": "Finextra"
-      },
-      {
-        "text": "IMF sounds alarm on tokenization shifting financial risk from regulated banks to less-supervised infrastructure providers\u2014potential game-changer for regulatory frameworks.",
-        "refId": "a2523f6a6280",
-        "source": "Finextra"
-      },
-      {
-        "text": "Singapore MAS + banks publish AI agent safeguards white paper, early move to build regulatory guardrails around autonomous systems before the rush accelerates.",
-        "refId": "7a0488d53609",
-        "source": "Finextra"
-      },
-      {
-        "text": "Hayfin closes \u20ac15bn fifth direct lending fund with more conservative structuring, pivoting after US semi-liquid vehicle headwinds.",
-        "refId": "0f75a0174907",
-        "source": "Private Debt Investor"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
-    "lede": "Evercore bulges into Asia secondaries, Sandbrook deploys \u20ac200M into European data centers, and institutional capital processes continue their usual cadence.",
-    "bullets": [
-      {
-        "text": "Evercore hired a secondaries specialist from HarbourVest to lead Asia ops, replacing departing Singapore director\u2014bulge-bracket shops continue muscle-flexing in alternatives and LP secondaries.",
-        "refId": "452a82932350",
-        "source": "Secondaries Investor"
-      },
-      {
-        "text": "Sandbrook deployed \u20ac200M into Krios, a European data-center platform, as PE continues chasing AI compute demand in digital infrastructure.",
-        "refId": "34051c6cbe4f",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Wellesley Retirement Board (Massachusetts) issued RFP for investment consultant to manage pension/OPEB assets\u2014routine institutional capital deployment process underway.",
-        "refId": "967e3fe2ade5",
-        "source": "Private Equity International"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "Markets & Macro": {
-    "lede": "Tech valuations under pressure amid market repricing, while earnings forecasts surge and bond markets signal potential Fed pivot\u2014but breadth concerns and deal friction persist.",
+    "lede": "4 stories span PE deal friction, tech valuation reset, market regime shift, and Fed-sensitive labor data\u2014with a sidebar on wealth manager opacity.",
     "bullets": [
       {
-        "text": "KKR/Bridgepoint's \u00a35.7bn DCC Energy bid faces major shareholder opposition from Ninety One, Aviva, and Fidelity\u2014classic PE deal friction ahead.",
+        "text": "KKR/Bridgepoint's \u00a35.7bn DCC Energy bid faces major shareholder revolt from Ninety One, Aviva, and Fidelity\u2014deal momentum at risk.",
         "refId": "e05a5e3a64e3",
         "source": "Financial Times Markets"
       },
       {
-        "text": "S&P 500 earnings forecasts rising at fastest pace since 2020, sparking 'earnings bubble' concerns as valuations disconnect from fundamentals.",
-        "refId": "48d824a4e069",
+        "text": "Tech valuations deteriorating sharply; old-fashioned valuation discipline poised to outperform as market reprices growth.",
+        "refId": "d2e15608a720",
         "source": "Financial Times Markets"
       },
       {
-        "text": "June jobs miss (217k vs 272k revised May) + narrowing breadth signal structural shift: AI trades concentrating gains while bond yields reset lower, potential Fed rate-cut catalyst.",
+        "text": "June jobs miss (217k vs May's revised 272k) signals softening labor market and lower inflation\u2014potential Fed rate-cut catalyst for bonds.",
         "refId": "be693ff73d6c",
         "source": "MarketWatch"
       },
       {
-        "text": "Tech valuation deterioration signals broader market repricing; old-fashioned valuation discipline likely to outperform in downturn ahead.",
-        "refId": "d2e15608a720",
+        "text": "AI-linked trades concentrating returns while market breadth narrows and bond yields reset; structural shift masked by surface equity gains.",
+        "refId": "124aa9f3449c",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Marc Rubinstein examines valuation stretches in today's market environment.",
+    "lede": "Three stories tracking advisor strategy shifts, valuation concerns, and emerging pharma opportunities.",
     "bullets": [
       {
-        "text": "Net Interest dives into widening valuation gaps and what they signal for risk positioning in equities.",
+        "text": "Index fund advisors questioning passive strategies as performance drag from low-quality names outweighs market leadership gains\u2014potential shift toward active management.",
+        "refId": "f246b2be6156",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Valuation stretch marks appearing across markets as investors reassess risk premiums and quality metrics.",
         "refId": "65eff75fcbe9",
         "source": "Net Interest (Marc Rubinstein)"
+      },
+      {
+        "text": "Psilocybin treatments for treatment-resistant depression gaining White House support, but clinical trials and regulatory pathway remain major execution risks.",
+        "refId": "8078eae6e6fd",
+        "source": "The Daily Upside"
       }
     ]
   },
@@ -139,52 +102,47 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Four macro trends reshaping developed economies: demographic shifts boosting per-capita growth, infrastructure decay in wealthy nations, pharmaceutical interventions altering behavior at scale, and AI accelerating idea production.",
+    "lede": "Five stories spanning macro trends: demographic shifts boosting per-capita growth, GLP-1 drugs reshaping human behavior at scale, and AI lowering the cost of intellectual work.",
     "bullets": [
       {
-        "text": "Falling birth rates correlate with higher per-capita GDP growth, challenging conventional wisdom that demographic decline harms economies.",
+        "text": "Lower birth rates correlate with higher per-capita GDP growth, challenging conventional wisdom that demographic decline hurts economies.",
         "refId": "4a3686400fe6",
         "source": "Marginal Revolution"
       },
       {
-        "text": "Britain's per-capita income now matches Mississippi's\u2014driven by underinvestment in infrastructure and services, not statistical quirks.",
-        "refId": "b3a8058db318",
-        "source": "Marginal Revolution"
-      },
-      {
-        "text": "GLP-1 drugs like Ozempic may reshape psychology, ambition, and risk-taking behavior at population scale beyond weight loss.",
+        "text": "GLP-1 drugs like Ozempic may have second-order effects on ambition, risk-taking, and social dynamics beyond weight loss\u2014potential economy-wide behavioral shift.",
         "refId": "374850c08161",
         "source": "The Generalist"
       },
       {
-        "text": "AI tools slash the cost of intellectual exploration\u2014turning week-long research into hours\u2014potentially flooding markets with nascent ideas and lowering development thresholds.",
+        "text": "AI tools collapse the cost of preliminary research and idea validation from weeks to hours, lowering barriers to what gets developed and explored.",
         "refId": "2795c07bb0da",
         "source": "Marginal Revolution"
       }
     ]
   },
   "all": {
-    "lede": "Vestmark's TAMP platform hits $50B AUM milestone on retail UMA strength; Hayfin closes \u20ac15bn fund; Visa and Standard Chartered expand beyond core payments into fintech infrastructure.",
+    "lede": "Vestmark's TAMP platform hits $50B AUM milestone on retail UMA demand; tech valuations face repricing headwinds amid narrowing market breadth.",
     "bullets": [
       {
-        "text": "Vestmark's TAMP AUM surged 5x past $50B after launching retail UMA with tax management; major asset managers (T. Rowe Price, BlackRock, Capital Group, VanEck) now referring flow, signaling strong RIA tech demand.",
+        "text": "Vestmark crosses $50B AUM (5x growth) after launching retail UMA with tax management; T. Rowe Price, BlackRock, Capital Group, VanEck now referring clients\u2014signals strong RIA tech demand.",
         "refId": "9f153ce7b5da",
         "source": "RIABiz"
       },
       {
-        "text": "Standard Chartered partnered with Circle to offer institutional clients direct USDC minting and redemption, expanding stablecoin infrastructure for digital asset trading.",
-        "refId": "f854809a2f74",
-        "source": "Finextra"
+        "text": "KKR/Bridgepoint's \u00a35.7bn DCC Energy bid facing shareholder resistance from Ninety One, Aviva, Fidelity International\u2014deal friction ahead.",
+        "refId": "e05a5e3a64e3",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Hayfin closed \u20ac15bn fifth direct lending fund with more conservative structuring after challenges with semi-liquid vehicles in US market.",
-        "refId": "0f75a0174907",
-        "source": "Private Debt Investor"
+        "text": "Tech valuations deteriorating as market signals broader repricing; old-fashioned valuation discipline expected to outperform downside.",
+        "refId": "d2e15608a720",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Visa launched cyber threat intelligence platform for financial institutions and executed agentic commerce transactions in Europe, pushing deeper into software and services.",
-        "refId": "382083c5973b",
-        "source": "Finextra"
+        "text": "Equity rally masking regime shift: AI-linked trades concentrating returns while market breadth narrows and bond yields reset lower.",
+        "refId": "124aa9f3449c",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -210,7 +168,7 @@
     {
       "nm": "US 10Y",
       "v": 4.485,
-      "base": 4.485,
+      "base": 4.475,
       "bp": true
     },
     {
