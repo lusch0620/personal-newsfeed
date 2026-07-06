@@ -1604,58 +1604,6 @@
     }
   },
   {
-    "id": "89b2a691b367",
-    "title": "Strategy is losing a lot of money on bitcoin. Here\u2019s why it\u2019s selling anyway.",
-    "url": "https://www.marketwatch.com/story/strategy-is-losing-a-lot-of-money-on-bitcoin-heres-why-its-selling-anyway-02822bc5?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-06T20:21:00+00:00",
-    "summary_raw": "Strategy sold more than 3,000 bitcoins to raise cash to pay dividends on its preferred stock \u2014 something Executive Chair Michael Saylor had previously said it didn\u2019t need to do.",
-    "summary_ai": {
-      "digest": "MicroStrategy sold over 3,000 bitcoins to fund preferred stock dividends, reversing Saylor's prior stance that the company wouldn't need to liquidate holdings.",
-      "summary_long": "MicroStrategy, which has positioned itself as a corporate bitcoin treasury play under Michael Saylor's leadership, sold more than 3,000 BTC at a loss to raise cash for preferred stock dividend payments. This marks a tactical shift from Saylor's previous public commitment that the company's bitcoin holdings were large enough to sustain operations and shareholder returns without forced selling. The sale signals either deteriorating cash flow from core business operations or a reassessment of the company's ability to fund obligations through traditional means. For the crypto-as-corporate-asset thesis, this is a test case: it shows that even a bitcoin-focused holding company faces pressure to liquidate when operational cash flow tightens. The timing coincides with broader bitcoin volatility and questions about whether corporate treasuries can truly 'hodl' through cycles.",
-      "talking_points": [
-        "MicroStrategy sold 3,000+ BTC to pay preferred dividends\u2014contradicting Saylor's earlier claim the treasury was self-sustaining.",
-        "Core business cash flow appears insufficient; forced BTC liquidation signals operational stress beneath the bitcoin narrative.",
-        "Test case for corporate treasury thesis: even a bitcoin-focused firm must sell in a pinch, raising questions about the durability of the model."
-      ],
-      "topics": [
-        "bitcoin-corporate-treasury",
-        "microstrategy",
-        "crypto-volatility",
-        "capital-allocation"
-      ],
-      "highlight": "Saylor previously said the company wouldn't need to sell bitcoins to fund obligations; the 3,000 BTC sale proves otherwise.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "8e4c65f62729",
-    "title": "TeraWulf\u2019s stock gains after a $19 billion deal with Anthropic",
-    "url": "https://www.marketwatch.com/story/terawulfs-stock-surges-after-a-19-billion-deal-with-anthropic-6899d3bc?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-06T20:25:00+00:00",
-    "summary_raw": "The deal \u201cvalidates\u201d the crypto-mining company\u2019s pivot to supporting the AI buildout, its CEO said.",
-    "summary_ai": {
-      "digest": "TeraWulf stock surged on a $19B deal with Anthropic to provide infrastructure for AI model training, marking a major pivot from crypto mining into AI compute.",
-      "summary_long": "TeraWulf, a publicly traded crypto-mining company, announced a $19 billion infrastructure contract with Anthropic to support AI model development and training. The deal represents a strategic shift for TeraWulf away from declining cryptocurrency mining toward the high-margin AI compute buildout. The CEO framed the agreement as validation of the company's infrastructure thesis and repositioning. This signals strong demand for reliable, large-scale compute capacity from frontier AI labs and reflects the sector's capital intensity. For FIG, it illustrates alternative asset/specialty finance opportunities in the AI infrastructure stack.",
-      "talking_points": [
-        "TeraWulf's $19B Anthropic deal is a proof point that crypto-mining infrastructure can pivot to AI compute at scale and command premium valuations.",
-        "The contract demonstrates frontier AI labs' willingness to lock in long-term supply agreements with independent infrastructure providers, not just relying on hyperscalers.",
-        "This type of large, recurring infrastructure contract could become a credit-positive refinancing or M&A hook for specialty finance firms and PE looking at AI buildout plays."
-      ],
-      "topics": [
-        "AI infrastructure",
-        "alternative assets",
-        "crypto-to-AI pivot",
-        "specialty finance"
-      ],
-      "highlight": "$19B Anthropic contract signals crypto-mining operators can repurpose scale and capital for higher-margin AI infrastructure plays.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "ad15a8cbe2d2",
     "title": "You want a portfolio that matches your morals. Your retirement plan might disagree.",
     "url": "https://www.marketwatch.com/story/you-want-a-portfolio-that-matches-your-morals-but-that-could-sink-your-retirement-plans-0b6fb5bf?mod=mw_rss_topstories",
@@ -1678,6 +1626,31 @@
         "retail investor behavior"
       ],
       "highlight": "Fiduciaries legally liable for ESG underperformance\u2014values-based screening cuts investable universe by 30\u201340%, creating concentration and drag.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "ad6f987e4601",
+    "title": "Automation Makes The World Cup Worse. But We Can\u2019t Help Ourselves, Can We?",
+    "url": "https://www.bigtechnology.com/p/automation-makes-the-world-cup-worse",
+    "source": "Big Technology (Alex Kantrowitz)",
+    "section": "Learn",
+    "date": "2026-07-06T22:06:17+00:00",
+    "summary_raw": "Advanced sensors and robot refs make the games more accurate and fair. But better? No, not at all.",
+    "summary_ai": {
+      "digest": "Soccer's VAR and automated offside systems eliminate human error but degrade spectator experience and game flow; the tradeoff between accuracy and entertainment reveals a broader tension in technology adoption.",
+      "summary_long": "Alex Kantrowitz argues that automation in soccer\u2014VAR reviews and semi-automated offside detection\u2014achieves technical precision at the cost of engagement. Fans endure long delays, lose the visceral drama of disputed calls, and find the game's rhythm fractured. The piece frames this as a case study in how technology solves the wrong problem: we optimize for accuracy when the sport's actual value lies in narrative tension and human judgment. The insight applies beyond sports to any domain where process optimization undermines the core experience or decision-making culture.",
+      "talking_points": [
+        "Perfect accuracy can hollow out a system's appeal\u2014soccer gained fairness but lost drama, which is arguably more valuable to its stakeholders.",
+        "Technology adoption often solves a measurable problem (wrong calls) without accounting for what makes the system work culturally or experientially.",
+        "This mirrors fintech's risk: automating process can undercut the judgment, relationship, or discretion that actually drove value."
+      ],
+      "topics": [
+        "technology-tradeoffs",
+        "human-vs-automation",
+        "systems-design"
+      ],
+      "highlight": "Better accuracy and worse product\u2014a frame worth carrying into any process automation discussion in financial services.",
       "relevance": 6
     }
   },
@@ -2215,6 +2188,23 @@
     }
   },
   {
+    "id": "e3709bb04f02",
+    "title": "The Nasdaq-100 has been far more volatile than the S&P 500. Now add SpaceX to the mix.",
+    "url": "https://www.marketwatch.com/story/the-nasdaq-100-has-been-far-more-volatile-than-the-s-p-500-now-add-spacex-to-the-mix-cd397c36?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-06T22:39:00+00:00",
+    "summary_raw": "While SpaceX is due to join the Nasdaq-100 on Tuesday, it won\u2019t become part of the S&amp;P 500 for at least another year \u2014 likely furthering the volatility spread between those two indexes.",
+    "summary_ai": {
+      "digest": "While SpaceX is due to join the Nasdaq-100 on Tuesday, it won\u2019t become part of the S&amp;P 500 for at least another year \u2014 likely furthering the volatility spread between those two indexes.",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
     "id": "40213b01d400",
     "title": "What should I ask Michael Moritz?",
     "url": "https://marginalrevolution.com/marginalrevolution/2026/07/what-should-i-ask-michael-moritz.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-michael-moritz",
@@ -2515,6 +2505,31 @@
     }
   },
   {
+    "id": "a6471fc9911e",
+    "title": "Santander publishes AI projects on GitHub",
+    "url": "https://www.finextra.com/newsarticle/48044/santander-publishes-ai-projects-on-github?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-07T00:01:00+00:00",
+    "summary_raw": "Banco Santander has shared a host of its AI projects under an open source licence in a bid to \"ramp up shared innovation\".",
+    "summary_ai": {
+      "digest": "Santander open-sourced AI projects on GitHub to accelerate shared innovation across the financial services industry.",
+      "summary_long": "Banco Santander released multiple internal AI projects under open-source licenses, making code and tools publicly available to developers and institutions. The move signals a shift toward collaborative innovation in banking technology, allowing external developers to build on Santander's work and contribute improvements. Open-sourcing reduces R&D friction and positions Santander as a tech leader in fintech; it also lets the bank tap external talent without hiring costs. For a large universal bank, this is a credibility play in digital transformation and a hedge against being outpaced by fintech natives. No specific project names, use cases, or commercial terms were disclosed in the excerpt.",
+      "talking_points": [
+        "Santander is betting on collaborative AI development rather than proprietary lock-in\u2014a strategic bet that scale and first-mover advantage matter more than code secrecy.",
+        "Open-source banking tech attracts developer talent and can accelerate the bank's own product cycles by crowdsourcing debugging and feature requests.",
+        "The move telegraphs that Santander sees fintech disruption as a problem best solved through API-first, modular architecture\u2014not fortress banking."
+      ],
+      "topics": [
+        "open-source-strategy",
+        "banking-tech",
+        "fintech-partnership"
+      ],
+      "highlight": null,
+      "relevance": 4
+    }
+  },
+  {
     "id": "8197421b06ee",
     "title": "Start Here: Capital Flows \u2013 A Daily Macro Map To Take Asymmetric Risk With Conviction",
     "url": "https://www.capitalflowsresearch.com/p/start-here-capital-flows-a-daily",
@@ -2779,6 +2794,32 @@
     }
   },
   {
+    "id": "cec8fbd3d39b",
+    "title": "Trump calls Walmart \u2018patriotic\u2019 for cutting beef prices \u2014 in a stark change of tune",
+    "url": "https://www.marketwatch.com/story/trump-calls-walmart-patriotic-for-cutting-beef-prices-in-a-stark-change-of-tune-96c32712?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-06T23:27:00+00:00",
+    "summary_raw": "The president hasn\u2019t always approved of Walmart\u2019s moves, having criticized the chain\u2019s response to tariffs last year.",
+    "summary_ai": {
+      "digest": "Trump praised Walmart for cutting beef prices, reversing his prior criticism of the retailer's tariff response. The remarks signal political positioning on inflation rather than a substantive policy shift.",
+      "summary_long": "Trump publicly commended Walmart for reducing beef prices, framing the move as 'patriotic' and contrasting it with his 2025 criticism of the company's tariff hedging strategy. The shift reflects the administration's focus on visible price relief ahead of a politically sensitive period. Walmart's beef price cuts are modest in scope and driven by commodity dynamics, not policy intervention. The headline illustrates how inflation narratives and corporate messaging intersect in a tariff-heavy environment. For FIG, this signals continued volatility in consumer-staples supply chains and potential pressure on retail financing and working capital.",
+      "talking_points": [
+        "Trump's Walmart reversal shows political priority on visible inflation metrics, particularly food prices, which rank highest in voter concern.",
+        "Retail supply-chain arbitrage and commodity hedging remain sensitive to tariff policy\u2014Walmart's prior caution now reframed as patriotic when prices move favorably.",
+        "Watch for implications on consumer finance and buy-now-pay-later platforms if food-price relief eases pressure on lower-income household credit demand."
+      ],
+      "topics": [
+        "tariff-policy",
+        "retail-supply-chain",
+        "consumer-inflation",
+        "political-economy"
+      ],
+      "highlight": "Trump's reversal on Walmart within one year underscores how tariff volatility is reshaping retail messaging and working-capital strategy.",
+      "relevance": 3
+    }
+  },
+  {
     "id": "8078eae6e6fd",
     "title": "Psychedelic Nation? Psilocybin Treatments Offer New Hope for People Prozac Hasn\u2019t Helped",
     "url": "https://www.thedailyupside.com/industries/healthcare/psychedelic-nation-psilocybin-treatments-offer-new-hope-for-people-prozac-hasnt-helped/",
@@ -3006,6 +3047,30 @@
       "topics": [
         "bitcoin-price-action",
         "crypto-sentiment"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "104c22b7ab40",
+    "title": "Rotunda-backed RMH Systems snaps up material handling integrator Top Shelf",
+    "url": "https://www.pehub.com/rotunda-backed-rmh-systems-snaps-up-material-handling-integrator-top-shelf/",
+    "source": "PE Hub",
+    "section": "PE & Deals",
+    "date": "2026-07-06T18:16:25+00:00",
+    "summary_raw": "<p>Headquartered in Waukee, Iowa, RMH is a provider of turnkey automation, material handling, packaging, and industrial scale solutions.</p>\n<p>The post <a href=\"https://www.pehub.com/rotunda-backed-rmh-systems-snaps-up-material-handling-integrator-top-shelf/\">Rotunda-backed RMH Systems snaps up material handling integrator Top Shelf</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
+    "summary_ai": {
+      "digest": "Rotunda-backed RMH Systems acquired material handling integrator Top Shelf. No financial terms disclosed.",
+      "summary_long": "RMH Systems, a Waukee, Iowa-based provider of automation, material handling, packaging, and industrial scale solutions backed by PE firm Rotunda, has acquired Top Shelf, a material handling integrator. The deal represents a bolt-on acquisition typical of lower-middle-market industrial consolidation plays. No purchase price, earnout structure, or financing details were disclosed. This is a classic add-on play within an industrial automation platform, likely part of Rotunda's strategy to build scale and operational synergies across portfolio companies.",
+      "talking_points": [
+        "Rotunda-backed platform company RMH Systems continues bolt-on M&A in industrial automation\u2014typical lower-middle-market playbook.",
+        "No deal terms published; suggests sub-$50M add-on or NDA-bound process."
+      ],
+      "topics": [
+        "industrial M&A",
+        "PE add-on strategy",
+        "lower-middle-market"
       ],
       "highlight": null,
       "relevance": 2
@@ -3261,41 +3326,18 @@
     }
   },
   {
-    "id": "104c22b7ab40",
-    "title": "Rotunda-backed RMH Systems snaps up material handling integrator Top Shelf",
-    "url": "https://www.pehub.com/rotunda-backed-rmh-systems-snaps-up-material-handling-integrator-top-shelf/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-06T18:16:25+00:00",
-    "summary_raw": "<p>Headquartered in Waukee, Iowa, RMH is a provider of turnkey automation, material handling, packaging, and industrial scale solutions.</p>\n<p>The post <a href=\"https://www.pehub.com/rotunda-backed-rmh-systems-snaps-up-material-handling-integrator-top-shelf/\">Rotunda-backed RMH Systems snaps up material handling integrator Top Shelf</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
+    "id": "cb49b239a356",
+    "title": "U.S.-Belgium match could draw record TV audience amid the Trump World Cup controversy",
+    "url": "https://www.marketwatch.com/story/u-s-belgium-match-could-draw-record-tv-audience-amid-the-trump-world-cup-controversy-52783b8f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-06T22:17:00+00:00",
+    "summary_raw": "Some industry experts are predicting all-time viewing records for a U.S. soccer game",
     "summary_ai": {
       "digest": null,
       "summary_long": null,
       "talking_points": null,
       "topics": null,
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "c40ff96c6875",
-    "title": "Dell\u2019s stock gets another Trump bump \u2014\u00a0but this time it\u2019s fading",
-    "url": "https://www.marketwatch.com/story/dells-stock-gets-another-trump-bump-but-this-time-its-fading-be5dd9cb?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-06T20:14:00+00:00",
-    "summary_raw": "The president recommended that people buy Dell computers while speaking about the launch of \u201cTrump accounts\u201d on Monday.",
-    "summary_ai": {
-      "digest": "Trump endorsed Dell computers during a Monday speech on 'Trump accounts'; Dell stock initially gained but momentum is fading.",
-      "summary_long": "The president made an off-hand recommendation for Dell computers while discussing a new Trump-branded account product, creating a brief equity bump. This follows a pattern of Trump-related stock moves tied to presidential mentions or policy signals. However, the initial enthusiasm appears to be waning, suggesting the market is discounting the durability of a casual endorsement unconnected to company fundamentals or policy shifts. Dell has no obvious FIG exposure, and the move is noise rather than signal.",
-      "talking_points": [
-        "Another Trump-driven stock move, but without structural support \u2014 fades as fast as it spikes.",
-        "No FIG, fintech, or deal angle; pure sentiment play."
-      ],
-      "topics": [
-        "sentiment",
-        "noise"
-      ],
       "highlight": null,
       "relevance": 1
     }
