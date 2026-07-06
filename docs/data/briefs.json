@@ -1,14 +1,14 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Prediction markets hitting records amid regulatory momentum, while Macquarie makes bullish call on Chinese AI chips.",
+    "lede": "Prediction markets hit records on World Cup betting; Macquarie bullish on Chinese AI chips.",
     "bullets": [
       {
-        "text": "Prediction market platforms (Kalshi, Polymarket, Rothera) smashed record volumes in June\u2014Rothera alone did $2B\u2014signaling mainstreaming of retail derivatives trading and potential regulatory tailwind.",
+        "text": "Prediction market platforms Kalshi, Polymarket, and Rothera smashed June volume records on World Cup betting, with Rothera alone handling $2B in trades.",
         "refId": "fe4768266a32",
         "source": "CNBC Finance"
       },
       {
-        "text": "Macquarie initiates coverage on five Chinese AI chip makers with buy ratings, positioning itself as the lead voice on a sector facing US sanctions risk but potential domestic upside.",
+        "text": "Macquarie initiates coverage on five Chinese AI chipmakers with buy ratings, positioning itself as a lead analyst voice in the sector at what it calls an optimal entry point.",
         "refId": "58bb77f1b4c7",
         "source": "CNBC Finance"
       }
@@ -19,48 +19,91 @@
     "bullets": []
   },
   "FIG \u2014 Insurance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
-  },
-  "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
-  },
-  "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
-  },
-  "Markets & Macro": {
-    "lede": "Tech valuations repricing and momentum trades at risk, but softer jobs data opens bond opportunity as market breadth narrows beneath surface gains.",
+    "lede": "Gallagher Re leadership shift in Dubai as reinsurance talent flows to MENA growth.",
     "bullets": [
       {
-        "text": "Tech bubble deflating: FT warns deteriorating valuations signal broader repricing; old-fashioned valuation discipline will outperform in downturn ahead.",
-        "refId": "d2e15608a720",
+        "text": "Gallagher Re taps Shreyaa Vohra (ex-Price Forbes, 14+ yrs reinsurance experience) to lead Dubai DIFC facultative team\u2014signals continued build-out in Middle East.",
+        "refId": "ffd5adf016fb",
+        "source": "Reinsurance News"
+      }
+    ]
+  },
+  "FIG \u2014 Specialty Finance": {
+    "lede": "Specialty finance consolidation continues: LemFi expands diaspora wealth offerings, Cr\u00e9dit Agricole takes full control of merchant payments JV, and Thought Machine hits $100M revenue run rate.",
+    "bullets": [
+      {
+        "text": "LemFi clears UK regulatory approval to acquire Wealth8, expanding its immigrant-focused fintech platform into wealth management for diaspora clients.",
+        "refId": "d04d43b9077f",
+        "source": "Finextra"
+      },
+      {
+        "text": "Cr\u00e9dit Agricole buys out Worldline's stake in merchant payments JV Cawl to achieve 100% control; terms undisclosed.",
+        "refId": "9b691b4ea820",
+        "source": "Finextra"
+      },
+      {
+        "text": "Thought Machine reaches $100M FY2025 revenue milestone as cloud-native core banking vendor scales independently\u2014no capital raise, exit, or M&A in pipeline.",
+        "refId": "b049891c3c31",
+        "source": "Finextra"
+      }
+    ]
+  },
+  "PE & Deals": {
+    "lede": "Chinese PE firms recalibrating after regulatory crackdown; more selective deal environment emerging for committed LPs.",
+    "bullets": [
+      {
+        "text": "Chinese PE sector stabilizing post-regulatory purge\u2014firms adopting more disciplined underwriting as capital flight abates, creating potential opportunities for patient LPs.",
+        "refId": "404595489473",
+        "source": "Private Equity International"
+      }
+    ]
+  },
+  "Markets & Macro": {
+    "lede": "5 stories spanning private credit inflows, momentum trade unwind risk, AI regulatory lag, and audit framework shifts\u2014with one M&A showcase.",
+    "bullets": [
+      {
+        "text": "Institutional capital is flooding into private credit despite retail outflows, signaling a potential reshuffling among managers as LP appetite diverges.",
+        "refId": "92eb5eb9c1c0",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Momentum unwind risk in July: Record positioning + thin summer liquidity creates elevated risk of violent reversal in historically weak month for momentum trades.",
+        "text": "Momentum trades face elevated unwind risk this July given record positioning and thin summer liquidity\u2014a historical pattern worth monitoring for volatility spikes.",
         "refId": "cd8eb372d8fb",
         "source": "MarketWatch"
       },
       {
-        "text": "June jobs miss (217k payrolls) signals lower inflation pressure and potential Fed rate-cut catalyst, bullish for bonds beneath equity rally masking narrowing breadth.",
-        "refId": "be693ff73d6c",
-        "source": "MarketWatch"
+        "text": "FCA warns regulators are losing the AI arms race in financial services\u2014lacking both speed and enforcement powers to keep pace with deployment.",
+        "refId": "4e82848c855a",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "PCAOB's shift from transaction-level to firm-level audit testing risks letting systemic flaws slip through the regulatory net.",
+        "refId": "3c27e2163b8a",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Index fund strategy under pressure as advisors seek alternatives; psilocybin treatments gain policy momentum but face regulatory hurdles.",
+    "lede": "4 stories spanning crypto volatility, ETF regulation, advisor strategy shifts, and AI unicorn IPO pushes amid pricing pressure.",
     "bullets": [
       {
-        "text": "Advisors dumping broad index funds due to performance drag from low-quality/distressed holdings diluting mega-cap gains.",
+        "text": "MicroStrategy's bitcoin holdings down 52% from $126K peak to sub-$60K, testing the durability of its 'never sell' strategy and raising questions about conviction-based holding periods.",
+        "refId": "9b36e0a177e0",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "SEC intensifying scrutiny of novel ETFs including leveraged products, signaling regulatory friction ahead for emerging product launches in the space.",
+        "refId": "c112507a80dc",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Advisors reassessing broad index strategies due to drag from holding low-quality/distressed names; suggests potential opportunity for more selective indexing products.",
         "refId": "f246b2be6156",
         "source": "The Daily Upside"
       },
       {
-        "text": "Psilocybin treatments winning White House backing for treatment-resistant depression, but clinical validation and regulatory path remain unclear\u2014biotech upside with execution risk.",
-        "refId": "8078eae6e6fd",
+        "text": "OpenAI and Anthropic accelerating IPO timelines while enterprise customers revolt against per-token pricing\u2014cost pressure emerging before public market debut.",
+        "refId": "577375ddf2ea",
         "source": "The Daily Upside"
       }
     ]
@@ -70,42 +113,47 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Four opinion pieces on American exceptionalism and AI's productivity gains, plus a construction roundup touching chip exports and power grids.",
+    "lede": "Philosophical mood: multiple takes on American exceptionalism, global prosperity, and whether intellectual depth justifies its cost.",
     "bullets": [
       {
-        "text": "Noah Smith: U.S. economic dominance over 250 years correlates with\u2014and arguably caused\u2014broad global human flourishing, not coincidence.",
+        "text": "Noah Smith argues U.S. economic/political dominance over 250 years directly enabled broad human flourishing\u2014the correlation isn't coincidental, it's causal.",
         "refId": "04035961ae8e",
         "source": "Noahpinion"
       },
       {
-        "text": "Tyler Cowen: AI collapses the cost of intellectual exploration (hours vs. weeks), lowering the bar for which ideas get developed and potentially flooding the market with half-baked concepts.",
-        "refId": "2795c07bb0da",
+        "text": "Tyler Cowen's July 4 essay celebrates ~20 things America does well (NBA, AI leadership, diversity of thought) without ranking, emphasizing pluralism over hierarchy.",
+        "refId": "3dafb38abe16",
         "source": "Marginal Revolution"
       },
       {
-        "text": "Construction Physics notes: AI chip export controls and Japan's dual-frequency grid signal infrastructure constraints; Meta's AI compute strategy underscores the race for computational edge.",
-        "refId": "21d5c76ba891",
-        "source": "Construction Physics"
+        "text": "Cowen, Harris, and Wheat debate whether dense French continental philosophy (Derrida, etc.) justifies study time\u2014skeptical on practical payoff.",
+        "refId": "e543daa840b0",
+        "source": "Marginal Revolution"
       }
     ]
   },
   "all": {
-    "lede": "Tech valuations cracking, labor market softening, and AI reshaping intellectual productivity\u2014signals of market regime change beneath surface calm.",
+    "lede": "5 stories spanning macro decline (Bitcoin down 52%), fintech M&A (LemFi/Wealth8), and institutional capital flows into private credit despite retail outflows.",
     "bullets": [
       {
-        "text": "Tech bubble deflating: FT argues old-fashioned valuation discipline will outperform as deteriorating multiples signal broader market repricing ahead.",
-        "refId": "d2e15608a720",
+        "text": "MicroStrategy's bitcoin holdings hit a 52% drawdown from October peak\u2014testing the durability of its hold-forever thesis as BTC tumbles below $60K.",
+        "refId": "9b36e0a177e0",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Institutional investors are doubling down on private credit funds while retail exits, signaling potential consolidation and a flight-to-quality dynamic.",
+        "refId": "92eb5eb9c1c0",
         "source": "Financial Times Markets"
       },
       {
-        "text": "June jobs miss (217k vs. May's 272k) and softer wage growth signal lower inflation pressure\u2014potential catalyst for Fed rate cuts and bond rally.",
-        "refId": "be693ff73d6c",
-        "source": "MarketWatch"
+        "text": "Nigeria-founded fintech LemFi wins UK regulatory approval to acquire Wealth8, expanding into diaspora wealth management\u2014a consolidation move in immigrant-focused fintech.",
+        "refId": "d04d43b9077f",
+        "source": "Finextra"
       },
       {
-        "text": "Equity gains masking structural shift: AI-linked trades concentrating returns while breadth narrows and bond yields reset lower\u2014regime change afoot.",
-        "refId": "124aa9f3449c",
-        "source": "Financial Times Markets"
+        "text": "SEC is intensifying scrutiny of novel ETFs including leveraged strategies, signaling regulatory headwinds for emerging product launches.",
+        "refId": "c112507a80dc",
+        "source": "The Daily Upside"
       }
     ]
   },
