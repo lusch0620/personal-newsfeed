@@ -260,32 +260,6 @@
     }
   },
   {
-    "id": "d04d43b9077f",
-    "title": "Financial platform for immigrants LemFi buys Wealth8",
-    "url": "https://www.finextra.com/newsarticle/48041/financial-platform-for-immigrants-lemfi-buys-wealth8?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-06T00:01:00+00:00",
-    "summary_raw": "LemFi, a Nigerian-founded financial services fintech for immigrant communities, has received the green light from UK regulators to buy investment platform Wealth8.",
-    "summary_ai": {
-      "digest": "LemFi, a Nigeria-founded fintech serving immigrant communities, has cleared UK regulatory approval to acquire Wealth8, an investment platform. The deal expands LemFi's product suite into wealth management for diaspora clients.",
-      "summary_long": "LemFi operates a cross-border financial services platform targeting immigrants and diaspora populations, facilitating remittances, payments, and investment access. Wealth8 is a UK-regulated investment platform. The acquisition is strategically coherent: LemFi gains a regulated investment vehicle and wealth-management capability to deepen customer lifetime value within its immigrant-focused user base. Regulatory clearance signals FCA comfort with the consolidation. The deal reflects fintech M&A in the specialty-finance underbanked-cohort space, where distributed fintech players are building vertical integration around diaspora/remittance users.",
-      "talking_points": [
-        "LemFi acquires Wealth8 with FCA approval \u2014 adds regulated investment platform to immigrant-focused fintech stack.",
-        "Vertical integration play: remittance/payments player bulks up into wealth management to increase customer stickiness and AUM in diaspora segment.",
-        "Signals continued consolidation in fintech serving underserved populations (immigrants, unbanked); regulatory path now proven."
-      ],
-      "topics": [
-        "fintech M&A",
-        "specialty finance",
-        "immigrant banking",
-        "wealth management integration"
-      ],
-      "highlight": "LemFi clears UK regulatory approval to acquire Wealth8, extending its platform from cross-border payments into regulated investment services for diaspora clients.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "9b36e0a177e0",
     "title": "Strategy\u2019s Days of Never Selling Bitcoin Are Done",
     "url": "https://www.thedailyupside.com/technology/blockchain/strategys-days-of-never-selling-bitcoin-are-done/",
@@ -1135,6 +1109,32 @@
         "digital assets infrastructure"
       ],
       "highlight": "Bridge secured both MiCA CASP and EMI licenses in Luxembourg \u2014 removing two major regulatory gates for institutional crypto and e-money services within EU.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "63e62c1d2918",
+    "title": "AI-related debt sells off sharply as Amazon looks to borrow another $25 billion",
+    "url": "https://www.marketwatch.com/story/ai-related-debt-sells-off-sharply-as-amazon-borrows-another-25-billion-46928353?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-07T22:35:00+00:00",
+    "summary_raw": "Bonds financing the massive artificial-intelligence buildout were hit hard by selling on Tuesday, as Amazon.com set out to borrow another $25 billion in new debt.",
+    "summary_ai": {
+      "digest": "AI infrastructure debt sold off sharply as Amazon announced a $25B borrowing program, signaling credit-market stress in the AI capex cycle.",
+      "summary_long": "Amazon's fresh $25B debt offering coincided with a broad selloff in bonds financing AI buildouts, suggesting investors are repricing the risk and cost of capital for the mega-cap tech stack driving AI investment. This matters because debt financing is critical to sustaining the trillion-dollar AI infrastructure spend forecast over the next decade. Rising yields on AI-related credits will make it more expensive for cloud and semiconductor companies to fund data centers and chip fabs, which could dampen deal flow and M&A appetite in FIG-adjacent tech and specialty finance. For a bank covering fintech and digital assets, this is a liquidity and credit-condition signal: if the cost of capital for AI infrastructure rises, downstream demand for fintech products and crypto custody solutions may cool as well.",
+      "talking_points": [
+        "Amazon's $25B debt raise in a down market for AI credits suggests the market is re-rating the risk of hyperscale capex.",
+        "Rising yields on AI infrastructure bonds will increase the cost of capital for cloud and semiconductor plays, with spillover effects on fintech and alternative-asset platforms that depend on tech-sector growth.",
+        "Credit stress in the AI financing market is an early warning for deal flow and M&A momentum in financial services if it persists."
+      ],
+      "topics": [
+        "credit-market-signals",
+        "AI-capex-financing",
+        "tech-debt",
+        "cost-of-capital"
+      ],
+      "highlight": "Amazon's $25B offering into a selloff in AI-related bonds is a real-time market test of refinancing conditions for the AI buildout cycle.",
       "relevance": 7
     }
   },
@@ -2041,31 +2041,6 @@
     }
   },
   {
-    "id": "7747743131eb",
-    "title": "Apple is closing in on Nvidia as it looks to reclaim title of largest U.S. company",
-    "url": "https://www.marketwatch.com/story/apple-is-closing-in-on-nvidia-as-it-looks-to-reclaim-title-of-largest-u-s-company-04f41546?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-07T20:36:00+00:00",
-    "summary_raw": "Once the face of the AI trade, Nvidia\u2019s valuation has compressed to levels not seen since 2013 while Apple shares continue to power higher",
-    "summary_ai": {
-      "digest": "Nvidia's market cap has fallen to 2013 levels while Apple rallies, narrowing the gap for largest U.S. company. The shift reflects a cooling of AI exuberance and sector rotation.",
-      "summary_long": "Nvidia, which became synonymous with the AI boom and reached stratospheric valuations, has experienced significant compression in its stock price and market capitalization. Meanwhile, Apple has maintained upward momentum, putting the two companies on a collision course for the top market-cap position. This dynamic reflects broader market sentiment: early AI euphoria is giving way to valuation discipline, and mega-cap tech is rotating away from pure-play AI plays toward diversified consumer and services businesses. For a FIG analyst, this signals how investor appetite for AI-adjacent plays and fintech infrastructure plays may cool, affecting both public comps and M&A multiples in specialty finance and digital asset sectors.",
-      "talking_points": [
-        "Nvidia's AI premium has evaporated; its valuation has compressed to 2013 levels despite vastly better business fundamentals, suggesting the market is repricing AI infrastructure growth expectations.",
-        "The Nvidia-to-Apple rotation is a barometer for risk-on to risk-off sentiment\u2014it may foreshadow similar multiple compression in fintech and specialty-finance deals.",
-        "If mega-cap leadership is moving from concentrated AI bets to diversified businesses, FIG M&A and PE deployment into AI-native fintech or digital platforms may face higher cost-of-capital and lower exit multiples."
-      ],
-      "topics": [
-        "mega-cap-valuation",
-        "AI-sector-rotation",
-        "market-sentiment"
-      ],
-      "highlight": "Nvidia's valuation has fallen to 2013 levels despite far stronger business fundamentals, signaling that AI infrastructure multiples are normalizing sharply.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "cbf1a9394407",
     "title": "US revokes waiver allowing Iranian oil sales after tanker strikes in Strait of Hormuz",
     "url": "https://www.ft.com/content/0a1c6329-2be0-4d7a-b7ab-82f81511bde2",
@@ -2089,58 +2064,6 @@
         "shipping"
       ],
       "highlight": "Revocation removes ~240k bpd of crude from global supply and raises Strait of Hormuz insurance/shipping costs, tightening energy financing conditions.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "a8d21bbd5741",
-    "title": "Why highflying chip stocks are suddenly losing their luster",
-    "url": "https://www.marketwatch.com/story/why-highflying-chip-stocks-are-suddenly-losing-their-luster-f0659145?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-07T21:25:00+00:00",
-    "summary_raw": "After a record-breaking quarter, semiconductor stocks are seeing their valuations come under scrutiny.",
-    "summary_ai": {
-      "digest": "Semiconductor stocks are facing valuation pressure after a record quarter, with investor sentiment shifting from momentum to fundamentals.",
-      "summary_long": "Chip stocks have soared on AI enthusiasm and supply constraints, but the sector is now confronting questions about whether current valuations reflect sustainable earnings growth or speculative positioning. The piece examines whether the AI capex cycle can justify current multiples, competitive dynamics in foundries and fabless design, and the risk of disappointment if earnings growth doesn't track consensus expectations. For FIG, this matters because: (1) semiconductor exposure is material in bank equity portfolios and technologist positions; (2) downstream credit to chipmakers, equipment vendors, and their supply chain depends on the valuation narrative holding; (3) M&A and financing activity for semiconductor companies is a meaningful FIG deal flow engine, especially in specialty finance and debt capital markets.",
-      "talking_points": [
-        "Semiconductor multiples are decoupling from historical norms\u2014if growth disappoints, financing and equity capital markets activity in the space could compress sharply.",
-        "Regional and mid-market banks with concentrated semiconductor equipment or fab exposure could see loan impairments or covenant stress if valuations reset.",
-        "Any large-cap semiconductor M&A or capital raise will now face higher cost-of-capital scrutiny, affecting deal economics and financing appetite."
-      ],
-      "topics": [
-        "semiconductor-valuations",
-        "tech-sector-momentum",
-        "equity-capital-markets",
-        "credit-cycle-signal"
-      ],
-      "highlight": "Valuation compression in a sector that has driven PE deployment and bank debt origination could signal early weakness in the tech-capex cycle that underpins much of 2026 financing activity.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "1f4541fe36f6",
-    "title": "US strikes Iran in response to attacks on tankers",
-    "url": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-07T21:28:44+00:00",
-    "summary_raw": "Move comes after US Treasury revoked a general licence allowing sales of Islamic republic\u2019s oil in escalation of tensions",
-    "summary_ai": {
-      "digest": "US conducted military strikes on Iran following attacks on commercial tankers; Treasury simultaneously revoked general licence permitting Iranian oil sales, escalating sanctions enforcement.",
-      "summary_long": "The US executed a retaliatory military strike against Iran in response to drone and missile attacks targeting commercial shipping in the Persian Gulf. Concurrent with the strike, the Treasury Department revoked a standing general licence that had permitted limited Iranian oil transactions, effectively tightening the sanctions regime. The dual action\u2014kinetic and financial\u2014signals a harder line on Iran policy and raises geopolitical risk premiums in energy and shipping markets. For FIG professionals, this matters because it affects energy-sector credit quality, shipping finance, and insurance underwriting for Middle East operations, and may trigger renewed flight-to-quality in credit markets.",
-      "talking_points": [
-        "Treasury revoked the general licence for Iranian oil sales simultaneously with military strikes\u2014a coordinated financial + kinetic pressure campaign.",
-        "Escalation directly impacts energy-sector lending and shipping finance; counterparties with Iran exposure face sudden capital and covenant implications.",
-        "Geopolitical risk premium likely to widen near-term spreads in energy credit and increase hedging demand in rates/FX."
-      ],
-      "topics": [
-        "Iran-sanctions",
-        "energy-credit",
-        "geopolitical-risk",
-        "shipping-finance"
-      ],
-      "highlight": "Treasury revoked the general licence permitting Iranian oil sales\u2014a substantive tightening that could force energy-sector clients into covenant review and reserve adjustments.",
       "relevance": 6
     }
   },
@@ -2193,6 +2116,83 @@
         "sector concentration"
       ],
       "highlight": "Non-U.S. developed markets show 30%+ index concentration in a handful of mega-cap names \u2014 higher than the U.S. \u2014 raising synchronization risk in a global tech drawdown.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "733804c6d331",
+    "title": "Micron\u2019s stock falls as investors wonder if the memory market is near the top",
+    "url": "https://www.marketwatch.com/story/microns-stock-falls-as-investors-wonder-if-the-memory-market-is-near-the-top-ab2d2feb?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-07T22:43:00+00:00",
+    "summary_raw": "\u201cMost investor feedback continues to point to a skittish AI tape,\u201d one analyst said.",
+    "summary_ai": {
+      "digest": "Micron shares declined on investor concerns that AI-driven memory demand may be peaking, with weak forward guidance cited by analysts as a signal of market saturation.",
+      "summary_long": "Micron reported earnings that missed expectations and cut guidance, triggering a sharp stock decline. The miss was attributed to slowing AI capex cycles and inventory normalization across hyperscalers, which had driven memory prices higher through 2024\u201325. Investors are now reassessing whether the AI memory supercycle has run its course. This matters to FIG because it signals potential pullback in mega-cap tech capex, which ripples through banking relationships, ECM/DCM pipelines, and credit quality for leveraged tech lenders.",
+      "talking_points": [
+        "Micron's miss suggests AI memory demand may be normalizing faster than expected\u2014watch for downstream capex guidance cuts from hyperscalers in coming quarters.",
+        "Memory pricing power is eroding; if this spreads to semiconductor supply chains, it could pressure both M&A multiples and refinancing spreads for equipment and chip companies.",
+        "Regional and boutique FIG teams covering tech capex and semiconductor lending should monitor whether banks with heavy exposure to memory equipment vendors are preparing for credit stress."
+      ],
+      "topics": [
+        "semiconductor-capex-cycle",
+        "AI-demand-normalization",
+        "tech-credit-exposure"
+      ],
+      "highlight": "Analyst commentary on 'skittish AI tape' signals shift in investor sentiment away from memory scarcity\u2014this is a leading indicator for broader tech spending retrenchment.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "1f4541fe36f6",
+    "title": "US launches new wave of Iran strikes after attacks on tankers",
+    "url": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-07T23:31:36+00:00",
+    "summary_raw": "Trump administration also revokes licence allowing Islamic republic\u2019s oil sales, sending crude prices higher",
+    "summary_ai": {
+      "digest": "US conducted military strikes on Iran following attacks on commercial tankers; Treasury simultaneously revoked general licence permitting Iranian oil sales, escalating sanctions enforcement.",
+      "summary_long": "The US executed a retaliatory military strike against Iran in response to drone and missile attacks targeting commercial shipping in the Persian Gulf. Concurrent with the strike, the Treasury Department revoked a standing general licence that had permitted limited Iranian oil transactions, effectively tightening the sanctions regime. The dual action\u2014kinetic and financial\u2014signals a harder line on Iran policy and raises geopolitical risk premiums in energy and shipping markets. For FIG professionals, this matters because it affects energy-sector credit quality, shipping finance, and insurance underwriting for Middle East operations, and may trigger renewed flight-to-quality in credit markets.",
+      "talking_points": [
+        "Treasury revoked the general licence for Iranian oil sales simultaneously with military strikes\u2014a coordinated financial + kinetic pressure campaign.",
+        "Escalation directly impacts energy-sector lending and shipping finance; counterparties with Iran exposure face sudden capital and covenant implications.",
+        "Geopolitical risk premium likely to widen near-term spreads in energy credit and increase hedging demand in rates/FX."
+      ],
+      "topics": [
+        "Iran-sanctions",
+        "energy-credit",
+        "geopolitical-risk",
+        "shipping-finance"
+      ],
+      "highlight": "Treasury revoked the general licence permitting Iranian oil sales\u2014a substantive tightening that could force energy-sector clients into covenant review and reserve adjustments.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "b16ec61d8de3",
+    "title": "Italian fintech Satispay partners Mastercard for debit card launch",
+    "url": "https://www.finextra.com/newsarticle/48051/italian-fintech-satispay-partners-mastercard-for-debit-card-launch?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-08T00:01:00+00:00",
+    "summary_raw": "Italian fintech unicorn Satispay has taken another step towards building out its \"superapp\" by joining forces with Mastercard to launch debit cards and adding the ability to invest in stocks and ETFs.",
+    "summary_ai": {
+      "digest": "Satispay, Italian fintech unicorn, partners Mastercard to launch debit cards and add stock/ETF investing to expand its superapp platform.",
+      "summary_long": "Satispay is leveraging a Mastercard partnership to accelerate its superapp strategy, moving beyond payments into card issuance and investment services. The debit card launch extends its distribution and capture of wallet share, while adding brokerage functionality (stocks/ETFs) positions it to compete across banking, payments, and wealth. For a fintech unicorn, this signals either a path toward profitability through diversified revenue (interchange, spreads on investments, AUM) or pressure to justify valuation by expanding TAM. The Mastercard relationship is a de facto endorsement of scale and compliance maturity, critical for European fintechs eyeing regulated expansion.",
+      "talking_points": [
+        "Satispay moving from pure-play payments into full superapp\u2014debit cards + brokerage suggests a pivot toward higher-margin, stickier revenue streams.",
+        "Mastercard partnership validates compliance and scale at a fintech still in growth mode; typical signal before a major capital raise or IPO runway.",
+        "Stock/ETF capability directly targets wealth management AUM capture\u2014if they can drive adoption, it opens a new revenue line (asset management spreads) and a PE/consolidation exit."
+      ],
+      "topics": [
+        "fintech-expansion",
+        "payments-to-banking",
+        "superapp-strategy",
+        "wealth-layering"
+      ],
+      "highlight": "Mastercard partnership signals fintech maturity and preps for investment services layering\u2014critical step in justifying unicorn valuation and exploring IPO or M&A runway.",
       "relevance": 6
     }
   },
@@ -2730,32 +2730,6 @@
     }
   },
   {
-    "id": "cdcb2dcfbef2",
-    "title": "Oil prices rise as the U.S. cancels Iran\u2019s license to sell oil",
-    "url": "https://www.marketwatch.com/story/oil-prices-rise-as-the-u-s-cancels-irans-license-to-sell-oil-030635fc?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-07T21:04:00+00:00",
-    "summary_raw": "Oil futures climbed late Tuesday after the Treasury Department canceled a license granted on June 21 to allow for the sale of Iranian oil.",
-    "summary_ai": {
-      "digest": "U.S. Treasury revoked Iran's oil sales license on June 28, reversing a decision made one week prior. Oil futures rose on the news.",
-      "summary_long": "The Treasury Department canceled a license it had granted on June 21 permitting Iranian oil sales, a sharp reversal in U.S. sanctions policy. The sudden flip suggests either internal policy recalibration or geopolitical pressure. Oil markets moved higher on reduced supply expectations. For FIG, this matters primarily as a volatility signal and a test of crude-linked credit exposure in regional banks and energy lenders. The broader macro read: energy price stability remains hostage to U.S.-Iran relations and policy whipsaw.",
-      "talking_points": [
-        "Treasury reversed its own Iran oil license within a week\u2014policy incoherence that increases energy price volatility.",
-        "Oil futures climbed on tighter supply outlook; regional bank energy portfolios and commodity-linked credit will see renewed stress.",
-        "Sanctions reversals tend to signal either internal administration conflict or external pressure; either way, expect more headline-driven energy swings."
-      ],
-      "topics": [
-        "energy-commodities",
-        "sanctions-geopolitics",
-        "oil-volatility",
-        "credit-risk-regional-banks"
-      ],
-      "highlight": "License reversal within 7 days creates policy noise that will spike energy lending risk metrics for regional bank stress testing.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "bb4bbe04532d",
     "title": "Traders on Kalshi think the Nasdaq-100 will end 2026 above 30,000, predicting a cooler second half of the year",
     "url": "https://www.cnbc.com/2026/07/07/traders-on-kalshi-think-the-nasdaq-100-will-end-2026-above-30000.html",
@@ -2777,6 +2751,57 @@
         "prediction markets"
       ],
       "highlight": "Kalshi traders pricing Nasdaq-100 above 30,000 for 2026 year-end signals market consensus on second-half deceleration, not downturn.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "cdcb2dcfbef2",
+    "title": "Crude prices rise as U.S. launches strikes on Iran shortly after canceling its license to sell oil",
+    "url": "https://www.marketwatch.com/story/oil-prices-rise-as-the-u-s-cancels-irans-license-to-sell-oil-030635fc?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-07T22:11:00+00:00",
+    "summary_raw": "Oil futures climbed late Tuesday after the Treasury Department canceled a license granted on June 21 to allow for the sale of Iranian oil.",
+    "summary_ai": {
+      "digest": "U.S. Treasury revoked Iran's oil sales license on June 28, reversing a decision made one week prior. Oil futures rose on the news.",
+      "summary_long": "The Treasury Department canceled a license it had granted on June 21 permitting Iranian oil sales, a sharp reversal in U.S. sanctions policy. The sudden flip suggests either internal policy recalibration or geopolitical pressure. Oil markets moved higher on reduced supply expectations. For FIG, this matters primarily as a volatility signal and a test of crude-linked credit exposure in regional banks and energy lenders. The broader macro read: energy price stability remains hostage to U.S.-Iran relations and policy whipsaw.",
+      "talking_points": [
+        "Treasury reversed its own Iran oil license within a week\u2014policy incoherence that increases energy price volatility.",
+        "Oil futures climbed on tighter supply outlook; regional bank energy portfolios and commodity-linked credit will see renewed stress.",
+        "Sanctions reversals tend to signal either internal administration conflict or external pressure; either way, expect more headline-driven energy swings."
+      ],
+      "topics": [
+        "energy-commodities",
+        "sanctions-geopolitics",
+        "oil-volatility",
+        "credit-risk-regional-banks"
+      ],
+      "highlight": "License reversal within 7 days creates policy noise that will spike energy lending risk metrics for regional bank stress testing.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "d6eb8e210e50",
+    "title": "NatWest Boxed and Mettle CTO Wayne Freeman leaves",
+    "url": "https://www.finextra.com/newsarticle/48050/natwest-boxed-and-mettle-cto-wayne-freeman-leaves?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-08T00:01:00+00:00",
+    "summary_raw": "The chief technology officer of NatWest's Boxed Banking-as-a-Service unit and its Mettle digital account for UK small businesses has stepped down.",
+    "summary_ai": {
+      "digest": "Wayne Freeman, CTO of NatWest's Boxed BaaS and Mettle SMB digital banking units, has departed. No replacement or strategic pivot announced.",
+      "summary_long": "NatWest's two fintech-adjacent specialty units\u2014Boxed (banking-as-a-service infrastructure) and Mettle (digital accounts for UK small businesses)\u2014have lost their chief technology officer. Freeman's departure is notable because both units operate in competitive, tech-heavy segments where engineering leadership typically signals strategic direction and capital commitment. No successor or change in strategic focus has been disclosed. This follows broader headwinds in UK fintech and BaaS platforms, where profitability and unit economics have come under pressure.",
+      "talking_points": [
+        "Senior tech talent departing a major bank's BaaS and SMB fintech arms signals either internal cost-cutting or a shift in investment thesis for those units.",
+        "Boxed and Mettle compete directly with standalone BaaS and SMB digital banking fintechs; loss of engineering leadership could mean slower product velocity or a strategic wind-down."
+      ],
+      "topics": [
+        "banking-as-a-service",
+        "fintech-talent-churn",
+        "UK-digital-banking",
+        "NatWest-strategy"
+      ],
+      "highlight": "CTO departure from both Boxed and Mettle with no disclosed successor suggests possible deprioritization of NatWest's BaaS and SMB fintech initiatives.",
       "relevance": 5
     }
   },
@@ -3246,30 +3271,6 @@
       ],
       "highlight": "Authorized share increase removes a structural constraint but does not commit GameStop to a bid; eBay's own strategic review remains the more material catalyst.",
       "relevance": 4
-    }
-  },
-  {
-    "id": "8197421b06ee",
-    "title": "Start Here: Capital Flows \u2013 A Daily Macro Map To Take Asymmetric Risk With Conviction",
-    "url": "https://www.capitalflowsresearch.com/p/start-here-capital-flows-a-daily",
-    "source": "Capital Flows Research",
-    "section": "Markets & Macro",
-    "date": "2026-07-05T22:40:07+00:00",
-    "summary_raw": "Watch now | In 3 minutes, you&#8217;ll see what Capital Flows is, how the research is structured, and how to use a daily macro map to stay aligned with the regime",
-    "summary_ai": {
-      "digest": "Capital Flows Research launches a 3-minute explainer on using daily macro maps to identify asymmetric risk opportunities aligned with current market regime.",
-      "summary_long": "This is a promotional piece introducing Capital Flows Research's core offering: a daily macro framework designed to help investors identify regime-aligned asymmetric bets. The explainer positions macro mapping as a tool for staying ahead of capital flows and regime shifts rather than reacting to headline noise. The pitch centers on the idea that understanding where capital is moving\u2014and in what regime\u2014lets you take conviction positions before consensus catches up. No specific data, rates view, or credit signal is offered; instead it's a methodological teaser.",
-      "talking_points": [
-        "Framing macro through capital flows and regime alignment rather than top-down forecasting.",
-        "Positioning asymmetric risk-taking as the payoff from daily regime mapping discipline."
-      ],
-      "topics": [
-        "macro-framework",
-        "capital-flows",
-        "regime-analysis"
-      ],
-      "highlight": null,
-      "relevance": 3
     }
   },
   {
@@ -3987,29 +3988,6 @@
     }
   },
   {
-    "id": "98bc23e5c4c6",
-    "title": "Adobe\u2019s stock is temptingly cheap. Should investors bite?",
-    "url": "https://www.marketwatch.com/story/adobes-stock-is-temptingly-cheap-should-investors-bite-196258b5?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-07T19:28:00+00:00",
-    "summary_raw": "Adobe has become a polarizing stock in the face of questions about its AI future.",
-    "summary_ai": {
-      "digest": "Adobe's stock has fallen sharply amid investor skepticism about its AI monetization strategy and subscription model sustainability, creating a valuation opportunity for some but risk for others.",
-      "summary_long": "Adobe has faced significant selling pressure as the market questions whether its AI investments (Firefly, generative fill) can justify premium valuations and whether AI commoditization threatens its high-margin SaaS subscription model. The article frames the debate: bulls see a temporary pullback in a secular growth story; bears worry the company is chasing AI hype without clear unit-economics uplift. The core tension is whether Creative Cloud and Document Cloud users will upgrade to AI-enhanced tiers at sufficient attach rates, or whether free/cheap AI tools erode Adobe's pricing power. This is relevant to fintech and specialty finance coverage only if Adobe is a proxy for SaaS-as-a-platform risk or enterprise software credit quality.",
-      "talking_points": [
-        "Adobe's valuation compression reflects genuine uncertainty about AI feature monetization, not a buying signal in high-growth software.",
-        "The risk case: free/cheaper AI alternatives (Midjourney, open-source tools) could cannibalize Adobe's $20\u201330/month Creative Cloud attach rates faster than new revenue materializes."
-      ],
-      "topics": [
-        "saas-valuation",
-        "ai-monetization"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
     "id": "c643f35182bf",
     "title": "\u2018I\u2019ve plenty of time on my hands\u2019: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
     "url": "https://www.marketwatch.com/story/ive-plenty-of-time-on-my-hands-advisers-bombard-me-with-offers-for-free-steak-is-it-wrong-to-go-for-the-food-1b139f98?mod=mw_rss_topstories",
@@ -4027,6 +4005,53 @@
       "topics": [
         "advisor-prospecting",
         "consumer-finance"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "5a7cc1dccff5",
+    "title": "Tesla\u2019s stock could rise 20% thanks to the potential for a SpaceX merger, analyst says",
+    "url": "https://www.marketwatch.com/story/teslas-stock-could-rise-20-thanks-to-the-potential-for-a-spacex-merger-analyst-says-0d64693e?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-07T22:34:00+00:00",
+    "summary_raw": "Some on Wall Street see an increasing likelihood that Elon Musk\u2019s two biggest companies will combine.",
+    "summary_ai": {
+      "digest": "A MarketWatch analyst speculates that a Tesla\u2013SpaceX merger could drive Tesla stock up 20%, citing Musk's control of both firms and potential synergies.",
+      "summary_long": "The article floats the idea that Elon Musk could merge Tesla and SpaceX, two of his largest holdings, citing precedent for cross-holding consolidations and potential operational or financial synergies. The analyst estimates a 20% upside to Tesla stock if such a deal occurred. However, the piece appears to rest on speculation rather than reported deal activity, regulatory signals, or structural analysis. For an FIG analyst, this has minimal relevance: no bank capital implications, no financing requirement, no sector consolidation pattern, and no actionable signal about credit or deal flow.",
+      "talking_points": [
+        "This is Wall Street speculation without reported deal momentum or regulatory catalyst.",
+        "Even if a Tesla\u2013SpaceX merger happened, it would not meaningfully impact FIG deal flow, regional bank capital, or fintech/specialty finance trends."
+      ],
+      "topics": [
+        "musk-conglomerates",
+        "tesla-valuation",
+        "spacex"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "98bc23e5c4c6",
+    "title": "Adobe\u2019s stock is temptingly cheap. Should investors bite?",
+    "url": "https://www.marketwatch.com/story/adobes-stock-is-temptingly-cheap-should-investors-bite-196258b5?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-07T22:35:00+00:00",
+    "summary_raw": "Adobe has become a polarizing stock in the face of questions about its AI future.",
+    "summary_ai": {
+      "digest": "Adobe's stock has fallen sharply amid investor skepticism about its AI monetization strategy and subscription model sustainability, creating a valuation opportunity for some but risk for others.",
+      "summary_long": "Adobe has faced significant selling pressure as the market questions whether its AI investments (Firefly, generative fill) can justify premium valuations and whether AI commoditization threatens its high-margin SaaS subscription model. The article frames the debate: bulls see a temporary pullback in a secular growth story; bears worry the company is chasing AI hype without clear unit-economics uplift. The core tension is whether Creative Cloud and Document Cloud users will upgrade to AI-enhanced tiers at sufficient attach rates, or whether free/cheap AI tools erode Adobe's pricing power. This is relevant to fintech and specialty finance coverage only if Adobe is a proxy for SaaS-as-a-platform risk or enterprise software credit quality.",
+      "talking_points": [
+        "Adobe's valuation compression reflects genuine uncertainty about AI feature monetization, not a buying signal in high-growth software.",
+        "The risk case: free/cheaper AI alternatives (Midjourney, open-source tools) could cannibalize Adobe's $20\u201330/month Creative Cloud attach rates faster than new revenue materializes."
+      ],
+      "topics": [
+        "saas-valuation",
+        "ai-monetization"
       ],
       "highlight": null,
       "relevance": 2
@@ -4229,40 +4254,6 @@
     }
   },
   {
-    "id": "44488e600bc2",
-    "title": "\u2018Our family is broken beyond repair\u2019: My brother took over my parents\u2019 finances. What can I do?",
-    "url": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-07T20:00:00+00:00",
-    "summary_raw": "\u201cWithout telling me, my brother petitioned for sole guardianship of our mother.\u201d",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "06e275277acf",
-    "title": "I found a simple way to save money on frozen pizza. What\u2019s your best money-saving trick?",
-    "url": "https://www.marketwatch.com/story/i-make-my-own-pizza-whats-the-best-way-youve-found-to-save-money-25412399?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-07T20:30:00+00:00",
-    "summary_raw": "\u201cI changed my approach to cooking.\u201d",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
     "id": "03dea0416b68",
     "title": "\u2018The money would have been life-changing\u2019: My father told my grandmother to slash my inheritance. Is that fair?",
     "url": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
@@ -4275,6 +4266,28 @@
       "summary_long": null,
       "talking_points": null,
       "topics": null,
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "44488e600bc2",
+    "title": "\u2018Our family is broken beyond repair\u2019: My brother took over my parents\u2019 finances. What can I do?",
+    "url": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-07T23:00:00+00:00",
+    "summary_raw": "\u201cWithout telling me, my brother petitioned for sole guardianship of our mother.\u201d",
+    "summary_ai": {
+      "digest": "Personal finance dispute over parental guardianship and financial control; no market or FIG angle.",
+      "summary_long": "A reader describes a family conflict in which their brother obtained sole guardianship of their mother without disclosure, raising concerns about financial mismanagement or self-dealing. The article treats this as a personal-advice column rather than a market signal or regulatory case study. No data, no institutional pattern, no deal flow implication.",
+      "talking_points": [
+        "Not actionable for FIG coverage or deal sourcing."
+      ],
+      "topics": [
+        "personal-finance",
+        "family-dispute"
+      ],
       "highlight": null,
       "relevance": 1
     }
