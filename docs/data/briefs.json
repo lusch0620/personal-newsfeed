@@ -1,174 +1,174 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Fintech expansion and regional M&A drive banking landscape; regulatory pressures mount on smaller players.",
+    "lede": "Fintech charter-chasing, regional bank tuck-in M&A, Fed enforcement escalation, and a regulatory power play at NCUA.",
     "bullets": [
       {
-        "text": "Klarna pursuing U.S. bank charter as BNPL consolidates\u2014fintech's latest pivot toward traditional banking infrastructure.",
+        "text": "Klarna pursuing U.S. bank charter as fintech firms increasingly seek traditional banking licenses to diversify beyond core products\u2014BNPL player moving up the regulatory ladder.",
         "refId": "eca8cd171c64",
         "source": "CNBC Finance"
       },
       {
-        "text": "Regions Financial acquires muni specialist Frazer Lanier to boost underwriting\u2014steady execution on stated M&A strategy.",
+        "text": "Regions Financial acquires Frazer Lanier to beef up municipal underwriting\u2014classic regional bank bolt-on consistent with their stated M&A appetite.",
         "refId": "d3b9ddff2b71",
         "source": "Banking Dive"
       },
       {
-        "text": "Fed hits Kansas-based Small Business Bank with third enforcement action since 2023 over undercapitalization; 30-day remediation window.",
+        "text": "Fed issues third enforcement action against small Kansas lender (Small Business Bank) since 2023 for significant undercapitalization; 30-day remediation clock starts now.",
         "refId": "e766157f147f",
         "source": "Banking Dive"
       },
       {
-        "text": "Fired NCUA board members fight Biden admin removals in court using Supreme Court's agency independence ruling as ammunition.",
+        "text": "Fired NCUA board members fighting for emergency reinstatement via appeals court, leveraging recent Supreme Court rulings on agency structure\u2014regulatory independence becoming a flashpoint.",
         "refId": "d71471915126",
         "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "Vestmark's TAMP hits $50B inflection point on standalone UMA product; M&A and independence trends reshape advisory landscape.",
+    "lede": "Wealth management consolidation accelerates across platforms and advisors, while private markets valuations face reality check.",
     "bullets": [
       {
-        "text": "Vestmark's TAMP AUM surged 5x past $50B after launching standalone retail UMA with tax-loss harvesting, triggering major referral partnerships from T. Rowe Price, BlackRock, Capital Group, and VanEck.",
+        "text": "Vestmark's TAMP AUM explodes past $50B (5x growth) after launching standalone retail UMA with tax-loss harvesting; major asset managers now funnel clients directly to platform.",
         "refId": "9f153ce7b5da",
         "source": "RIABiz"
       },
       {
-        "text": "Empower acquired Milliman for $340M, adding 1.53M retirement plan participants and enabling cross-sell of wealth services into workplace benefits\u2014classic bolt-on for platform consolidators.",
+        "text": "Empower acquires Milliman for $340M, gaining 1.53M retirement plan participants and cross-sell runway into workplace benefits\u2014classic bolt-on for wealth convergence.",
         "refId": "317e06e2aa8a",
         "source": "Wealth Management"
       },
       {
-        "text": "Hybrid model gaining steam: Commonwealth's $6B advisor team launched Bartholomew & Company while retaining LPL custody, while founder-owned Integrated Partners recruited $4B AUM this year as PE-free alternative.",
+        "text": "$6B Commonwealth team launches hybrid RIA (Bartholomew & Company) while keeping LPL custody\u2014validates hybrid model as viable third way between independence and consolidation.",
         "refId": "a90b74fd5329",
         "source": "Wealth Management"
       },
       {
-        "text": "Mutual fund software write-downs hint private markets players are sitting on tens of billions in unrealized losses\u2014valuation reality check.",
+        "text": "Mutual fund software write-downs hint private markets carry tens of billions in unrealized losses, signaling valuation disconnect from reality.",
         "refId": "ea9bfc555176",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "PE exit momentum in specialty insurance, with Hub IPO filing and strategic capacity plays across reinsurance and underwriting.",
+    "lede": "Regulatory crosswinds dominate: Trump deregulation push vs. tightening AI oversight abroad, plus operational M&A lessons and climate risk metrics for banks.",
     "bullets": [
       {
-        "text": "Hub International ($3B IPO target) marks a major Hellman & Friedman liquidity event\u2014PE is cashing out of specialty insurance distribution as market appetite holds.",
-        "refId": "f537251875dc",
+        "text": "Trump administration plans 702 federal regulation cuts\u2014insurance sector facing rollback of environmental, labor, and financial rules. Magnitude of deregulation unprecedented.",
+        "refId": "4dbe671f9c47",
         "source": "Insurance Journal"
       },
       {
-        "text": "Ryan Specialty secured Lloyd's consortium stamp approvals to scale delegated underwriting without capital raises\u2014a structural arbitrage on specialty P&C capacity.",
-        "refId": "86034ed1d918",
-        "source": "Reinsurance News"
+        "text": "UK FCA flagging AI/LLM risks in financial services; considering formal oversight of ChatGPT, Claude, Gemini as regulatory counterweight to U.S. deregulation trend.",
+        "refId": "103ea1944cd9",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Fortitude Re and Unum locked in $3.8B LTC reinsurance deal, with Unum recapping liabilities via Fortitude subsidiary pending regulatory thumbs-up.",
-        "refId": "53313c66ba9d",
-        "source": "Reinsurance News"
+        "text": "Insurance broker scaled 25+ acquisitions without proportional headcount growth\u2014operational playbook offers M&A integration lessons for deal teams.",
+        "refId": "0bbd80421449",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Nord Stream war exclusion ruling saves insurers \u20ac580M ($662M) payout\u2014court determines Ukraine conflict triggers force majeure, not insurance coverage.",
-        "refId": "6fb0e6bfcfd0",
+        "text": "Massachusetts court rejected 14.6% workers' comp rate cuts, demanding regulator justify math\u2014rate pressure remains litigated in states.",
+        "refId": "94ec42537827",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "Four stories spanning BNPL expansion, diaspora fintech M&A, regulatory AI framework, and crypto infrastructure\u2014plus new entrants in consumer lending.",
+    "lede": "BNPL disruption meets regulatory tailwinds: Klarna eyes banking license while FCA signals AI-friendly framework; CMBS mall stress persists.",
     "bullets": [
       {
-        "text": "Klarna applies for US banking license, signaling major pivot from BNPL into regulated banking operations and deposit-taking.",
+        "text": "Klarna applies for US banking license, signaling a major pivot from pure-play BNPL into regulated banking services.",
         "refId": "47e339061919",
         "source": "Finextra"
       },
       {
-        "text": "LemFi clears UK regulatory approval to acquire Wealth8, expanding its diaspora-focused fintech into wealth management\u2014consolidation in immigrant finance space.",
-        "refId": "d04d43b9077f",
-        "source": "Finextra"
-      },
-      {
-        "text": "Standard Chartered launches USDC minting and redemption for institutions via Circle, establishing itself as primary stablecoin on-ramp infrastructure player.",
-        "refId": "64f6fb12cb46",
-        "source": "Finextra"
-      },
-      {
-        "text": "FCA publishes AI impact review for retail financial services; ex-Runway CIO launches new consumer lending business as SIMCo/PIMCO form infra debt partnership.",
+        "text": "FCA publishes landmark AI review positioning artificial intelligence as innovation driver in retail finance\u2014regulatory green light for FinTech expansion.",
         "refId": "d4ba08b7c0f5",
+        "source": "Finextra"
+      },
+      {
+        "text": "July 2026 regional mall CMBS facing refinancing friction; continued stress signals troubled recovery in retail real estate sector.",
+        "refId": "cab67e9d8dc2",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Specialty finance consolidation: LemFi clears UK approval for Wealth8 acquisition to expand into diaspora wealth management; ex-Runway CIO launches consumer lending venture.",
+        "refId": "d04d43b9077f",
         "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "Five stories across LP deployment, mega-deal activity, and market recalibration\u2014GPIF doubling down on PE despite headwinds, while discipline replaces easy-money returns.",
+    "lede": "Institutional capital keeps flowing into PE despite headwinds, while market discipline separates winners from also-rans across geographies.",
     "bullets": [
       {
-        "text": "GPIF deployed $1.4bn into PE (26% YoY growth) despite 'challenging' environment, signaling sustained institutional capital appetite for the asset class.",
+        "text": "GPIF deployed $1.4bn into PE (26% YoY growth) despite 'challenging' environment, signaling sustained mega-LP conviction on the asset class.",
         "refId": "d090a48571cc",
         "source": "Private Equity International"
       },
       {
-        "text": "Blackstone Energy Transition Partners acquiring Dresser Utility Solutions from First Reserve; concurrent pressure on software portfolio companies to restructure unit economics around AI.",
-        "refId": "13c3ff1ebf01",
-        "source": "PE Hub"
-      },
-      {
-        "text": "StepStone CEO: the myth of uniform PE returns is dead\u2014winners now separated by discipline and selectivity, not just capital availability.",
+        "text": "StepStone CEO warns the easy-money myth is dead\u2014PE model survives but uniform returns are collapsing; winners now need discipline and selectivity.",
         "refId": "b1a408be0812",
         "source": "Private Equity International"
       },
       {
-        "text": "Novo Holdings ($36bn AUM) pursuing dedicated PE GP allocation and expanding into Asia and planetary health\u2014large family offices rotating capital into GP-focused strategies.",
+        "text": "Novo Holdings ($36bn AUM) is carving out dedicated PE GP allocation and pivoting into Asia and planetary health, signaling LP appetite for emerging themes.",
         "refId": "4187943e5179",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Chinese PE firms repositioning after regulatory crackdowns, creating disciplined deal environment\u2014LPs staying committed are finding opportunities.",
+        "refId": "404595489473",
         "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "Credit tightening spreads as HSBC retreats from private credit; meanwhile structural headwinds loom across valuations, AI economics, and investor expectations.",
+    "lede": "Credit markets tightening as HSBC pulls back from private credit; structural shifts in funding dynamics and regulatory easing signals mixed outlook for banks.",
     "bullets": [
       {
-        "text": "HSBC pulling back from private credit renewals signals risk appetite cooling in the $1.2T+ market\u2014early warning sign of broader credit retrenchment.",
+        "text": "HSBC withdrawing from private credit renewals signals retreat from $1.2T+ market as risk appetite compresses across the sector.",
         "refId": "969665d48c5e",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Dual-bubble risk: elevated valuations + earnings divergence from trend create crash potential if either mean-reverts, per MarketWatch analysis.",
-        "refId": "b8a01d22219a",
-        "source": "MarketWatch"
-      },
-      {
-        "text": "OpenAI and Anthropic structurally challenged for IPO\u2014massive capex, unpredictable scaling, thin margins\u2014despite sky-high private valuations.",
-        "refId": "70ab2f8c9c17",
+        "text": "Overnight funding spreads have collapsed post-2020, ending two decades of reliable bank arbitrage\u2014structural money market changes eroding traditional FIG revenue streams.",
+        "refId": "5ebe58e766b0",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Investor return expectations are 2x+ reality; real 10%+ annualized gains are rare, implying broad positioning risk across retail and institutional allocations.",
-        "refId": "51b7f658079c",
+        "text": "Bank of England easing countercyclical capital buffers to free up lending capacity\u2014policy pivot aimed at stabilizing stressed markets.",
+        "refId": "96400165a85c",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Goldman flags HALO trade maturation; mega-cap tech upside now contingent on earnings beats, not multiple re-rating.",
+        "refId": "3048afd90b79",
         "source": "MarketWatch"
       }
     ]
   },
   "Newsletters": {
-    "lede": "5 stories spanning crypto conviction cracks, ETF regulatory headwinds, HNW tax tailwinds, and wealth manager opportunity.",
+    "lede": "MicroStrategy's bitcoin conviction wavers amid 52% drawdown; SEC tightens ETF oversight; IRS opens gift-tax arbitrage for HNW clients; and AI unicorns race IPO while facing pricing pressure.",
     "bullets": [
       {
-        "text": "MicroStrategy's bitcoin hodl thesis cracking: BTC dropped 52% from $126K peak to below $60K, raising durability questions on the company's never-sell strategy.",
+        "text": "MicroStrategy's 'never sell' bitcoin thesis under strain as BTC tumbles from $126K to sub-$60K\u201452% drawdown forcing questions about holding strategy durability.",
         "refId": "9b36e0a177e0",
         "source": "The Daily Upside"
       },
       {
-        "text": "SEC turning up heat on novel ETFs\u2014leveraged and emerging product launches facing regulatory scrutiny that could slow launches and reshape product roadmaps.",
+        "text": "SEC is actively scrutinizing novel ETFs, including leveraged products, signaling regulatory headwinds for emerging product launches in the space.",
         "refId": "c112507a80dc",
         "source": "The Daily Upside"
       },
       {
-        "text": "IRS gift-tax reprieve for Trump Accounts: reclassification as current-interest gifts expands tax-advantaged universe for HNW clients, a structural tailwind for wealth managers.",
+        "text": "IRS reclassified 'Trump Account' contributions as current-interest gifts, lowering gift-tax friction and expanding tax arbitrage opportunities for HNW advisors.",
         "refId": "1fac01219408",
         "source": "The Daily Upside"
       },
       {
-        "text": "Wealth concentration accelerating across all income tiers per UBS, driving advisor hiring and AUM growth\u2014but advisors questioning index-only strategies due to quality drag.",
+        "text": "Wealth concentration accelerating across all income tiers, driving advisor hiring and AUM expansion in wealth management (UBS data).",
         "refId": "f4513280a45c",
         "source": "The Daily Upside"
       }
@@ -179,47 +179,42 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "4 stories spanning government tech stakes, labor income classification, automation tradeoffs, and China's economic slowdown.",
+    "lede": "Four substantive takes on government, labor, and markets\u2014plus a peek at prediction market efficiency.",
     "bullets": [
       {
-        "text": "Government equity in tech (Deutsche Telekom case study) creates misaligned incentives that suppress competition and innovation\u2014relevant for any FIG client navigating state-backed investors.",
+        "text": "Government equity stakes (like Deutsche Telekom) misalign incentives and stifle innovation in tech, a structural drag worth monitoring in FIG valuations.",
         "refId": "afad8275e891",
         "source": "Marginal Revolution"
       },
       {
-        "text": "Labor's income share decline may be overstated: equity compensation and pass-throughs are deferred wages taxed as capital gains, not true wage erosion\u2014tax arbitrage story worth monitoring.",
+        "text": "Labor's income share decline may be tax-driven classification issue: equity compensation taxed as capital gains rather than wages, not necessarily real wage erosion.",
         "refId": "303b6c63f556",
         "source": "Marginal Revolution"
       },
       {
-        "text": "China's recent slowdown qualifies as a crash despite official \"managed transition\" messaging; reveals limits of their policy toolkit and has capital markets implications.",
-        "refId": "082de512860a",
-        "source": "Noahpinion"
+        "text": "Prediction markets nailed a Maine primary pivot (9% \u2192 96% dropout odds in one day), showcasing real-time price discovery that could reshape institutional decision-making.",
+        "refId": "ae28dd9c22ff",
+        "source": "Marginal Revolution"
       }
     ]
   },
   "all": {
-    "lede": "Fintech and alternative asset managers are making major moves: Vestmark's TAMP hits $50B AUM on retail UMA play, Klarna eyes US bank charter, and Empower consolidates retirement admin.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Vestmark's TAMP platform vaults past $50B AUM (5x growth) after launching standalone retail UMA with tax-loss harvesting; T. Rowe, BlackRock, Capital Group, VanEck now refer clients directly.",
+        "text": "Vestmark strikes 'standalone-RIA' black gold as (TAMP) AUM leaps past $50-billion -- a five-fold increase -- after critical upgrade triggers T. Rowe Price, BlackRock, Capital Group, and VanEck referral gusher",
         "refId": "9f153ce7b5da",
         "source": "RIABiz"
       },
       {
-        "text": "Hub International (Hellman & Friedman-backed insurance broker) targets $3B IPO this year\u2014significant PE liquidity event in specialty insurance distribution.",
-        "refId": "f537251875dc",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Klarna applies for US banking license, signaling major expansion from buy-now-pay-later into regulated banking alongside other fintech/crypto players pursuing charters.",
+        "text": "Klarna applies for US banking license",
         "refId": "47e339061919",
         "source": "Finextra"
       },
       {
-        "text": "Empower acquires Milliman for $340M, adding 1.53M retirement plan participants and enabling cross-sell of wealth services into workplace benefits.",
-        "refId": "317e06e2aa8a",
-        "source": "Wealth Management"
+        "text": "Klarna seeks U.S. bank charter in latest push beyond buy now, pay later",
+        "refId": "eca8cd171c64",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -244,14 +239,14 @@
     },
     {
       "nm": "US 10Y",
-      "v": 4.479,
-      "base": 4.485,
+      "v": 4.493,
+      "base": 4.479,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.57,
-      "base": 16.15,
+      "v": 15.89,
+      "base": 15.57,
       "bp": false
     },
     {
