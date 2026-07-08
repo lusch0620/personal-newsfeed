@@ -1,174 +1,174 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Klarna makes bold regulatory move toward banking, regional M&A continues, and a Kansas community bank faces third Fed enforcement action.",
+    "lede": "Klarna seeks ILC charter while regional M&A continues; Fed minutes will expose rate-cut divisions.",
     "bullets": [
       {
-        "text": "Klarna applies for ILC charter with FDIC, moving beyond BNPL to offer deposits and lending directly under U.S. regulation\u2014another fintech pushing into traditional banking.",
+        "text": "Klarna applies for FDIC Industrial Loan Company charter, positioning Swedish fintech for direct U.S. deposit-taking and lending operations.",
         "refId": "8d3f4318dd1e",
         "source": "Banking Dive"
       },
       {
-        "text": "Fed hits Small Business Bank (Lenexa, KS) with third enforcement action since 2023 over undercapitalization; bank has 30 days to remediate.",
-        "refId": "e766157f147f",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Bank7 pursues forced 71% stake in Century Bank after shareholder loan default triggers collateral liquidation\u2014opportunistic consolidation play.",
+        "text": "Bank7 pursues 71% stake in Century Bank following forced collateral liquidation by largest shareholder's loan default\u2014potential distressed acquisition angle.",
         "refId": "156712127723",
         "source": "Banking Dive"
       },
       {
-        "text": "Hometown Bank (MA) buying NH peer for $160M, adding $743M in assets in regional expansion.",
+        "text": "Hometown Bank (MA) acquiring NH peer for $160M, adding $743M in assets in regional consolidation play.",
         "refId": "d6fcf03be4d4",
         "source": "Banking Dive"
+      },
+      {
+        "text": "Incoming Fed minutes will expose hawkish-dovish split on rates; internal disagreement likely extends debate across multiple meetings.",
+        "refId": "9b07addfa2e9",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "RIA consolidation accelerates across holding companies and wirehouses, while private markets valuations show cracks.",
+    "lede": "RIA consolidation accelerates across holding companies and platforms, with four major deals totaling $9B+ AUM, while Goldman Sachs makes custody gains despite custodian market concentration.",
     "bullets": [
       {
-        "text": "Aspen Standard nabs $1.3B Michigan RIA, pushing platform to $15B AUM\u2014latest sign that RIA roll-ups remain a favored M&A vehicle.",
+        "text": "Aspen Standard closes $1.3B Michigan RIA acquisition, pushing its eight-affiliate platform to $15B AUM\u2014holding-company roll-ups remain the dominant consolidation playbook.",
         "refId": "d33eab75cd55",
         "source": "Wealth Management"
       },
       {
-        "text": "Mutual fund software write-downs suggest private markets carry tens of billions in unrealized losses, hinting at valuation reality check ahead.",
-        "refId": "ea9bfc555176",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Morgan Stanley and Wells Fargo both hunting RIA talent: MS pairs investment mgmt with equity strategies while WF hires $1.7B Connecticut team from RBC.",
-        "refId": "6fad612e8d9b",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Hightower Signature adds three practices ($5B AUM), reaching $35B across 40 locations\u2014branded channels proving sticky for talent retention.",
+        "text": "Hightower Signature's W-2 channel acquired three practices worth $5B AUM, bringing unit to $35B\u2014branded channels proving effective at scaling via tuck-ins.",
         "refId": "01eab25ee567",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Wells Fargo poaches $1.7B Sheresky Samsen Group from RBC with four senior advisors, signaling continued talent wars in Connecticut wealth management.",
+        "refId": "4aa275b7d390",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Goldman Sachs RIA custody gaining ground via UHNW positioning and brand leverage, though Schwab, Fidelity, and E*TRADE still dominate a consolidating custodian market.",
+        "refId": "fc9cd8707dc9",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "Climate volatility reshaping underwriting economics while structural risks spike in NYC real estate.",
+    "lede": "Reinsurance capacity expanding amid US MGA growth and Asia deals, while marine and property risks escalate from Middle East tensions and NYC structural issues.",
     "bullets": [
       {
-        "text": "Weather patterns eroding claims predictability\u2014Gallagher Bassist warns shifting conditions are driving higher complexity and costs in property loss adjusting, pressuring insurer reserves.",
-        "refId": "06df47249e1b",
+        "text": "Gallagher Re's ceded premiums up 18% YoY driven by surging US MGA demand\u2014signals sustained specialty insurance capacity needs in the sector.",
+        "refId": "5e4013bba7bc",
         "source": "Reinsurance News"
       },
       {
-        "text": "London challenging Bermuda's dominance in $140B ILS market as issuance surges, creating competitive pressure on structuring and placement.",
-        "refId": "ead2b9c9cddc",
+        "text": "RGA deepens Japan presence with two block coinsurance deals (Sumitomo Life, Tokio Marine & Nichido), betting on growth in key Asian market.",
+        "refId": "0b6b8f20c28c",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Qatari LNG tanker damaged off Oman; Iran targeting shipping in Hormuz escalation\u2014creating emerging marine claims exposure and supply chain risk.",
+        "refId": "9f9e48274767",
         "source": "Insurance Journal"
       },
       {
-        "text": "NYC Midtown tower structural failure forcing evacuations and exposing property insurers and the city to significant liability\u2014developer downplaying severity adds coverage dispute risk.",
-        "refId": "993ac4d8cc04",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "PE firms now embedding climate risk assessment into portfolio due diligence as weather volatility threatens asset valuations and operational continuity.",
-        "refId": "775e583b7071",
+        "text": "NYC halts Midtown tower conversion over structural safety; developer downplays concerns\u2014potential property claim and construction defect litigation ahead.",
+        "refId": "8f4f8f1285eb",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "Major FIG consolidation moves: JPMorgan and BofA eye Fiserv's debit network, Equifax expands into Mexico, while Carlyle deploys $3.8bn in insurance; CMBS headwinds persist.",
+    "lede": "5 stories spanning payments M&A, credit platform expansion, mall CMBS stress, alternative asset inflows, and fintech infrastructure funding.",
     "bullets": [
       {
-        "text": "JPMorgan and BofA in talks to acquire Fiserv's debit payments network\u2014potential mega-deal with no valuation yet; signals continued fintech infrastructure consolidation.",
+        "text": "JPMorgan and BofA in early-stage talks to acquire Fiserv's debit network; deal size and timeline TBD but signals continued consolidation in payments infrastructure.",
         "refId": "b17440a7bb76",
         "source": "Finextra"
       },
       {
-        "text": "Equifax paying $750M for C\u00edrculo de Cr\u00e9dito to enter high-growth Mexican market; strategic geographic expansion for credit services.",
+        "text": "Equifax paying $750M for C\u00edrculo de Cr\u00e9dito, Mexico's fastest-growing credit bureau, to tap high-growth emerging market credit risk platform.",
         "refId": "2a31db86f6a3",
         "source": "Finextra"
       },
       {
-        "text": "Carlyle's Fortitude Re acquires $3.8bn long-term care insurance portfolio from Unum; bet on recurring fee revenue in insurance-backed assets.",
-        "refId": "1bf3ce98157a",
-        "source": "Private Debt Investor"
-      },
-      {
-        "text": "Regional mall CMBS maturing July 2026 facing refinancing friction; stress continues across retail real estate despite broader credit stabilization.",
+        "text": "July 2026 regional mall CMBS maturities showing persistent refinancing friction; Trepp data confirms continued stress in retail real estate portfolios.",
         "refId": "cab67e9d8dc2",
         "source": "Trepp Talk"
+      },
+      {
+        "text": "Carlyle-backed Fortitude Re acquires $3.8B long-term care insurance portfolio from Unum, demonstrating alternative capital's appetite for recurring insurance revenue streams.",
+        "refId": "1bf3ce98157a",
+        "source": "Private Debt Investor"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "Five stories tracking LP capital flows and GP fundraising strategies, from mega-allocators expanding into new geographies to GPs chasing retail capital amid institutional pullback.",
+    "lede": "Five stories on LP allocation shifts and GP fundraising dynamics\u2014from mega-allocators rebalancing portfolios to the retail capital frontier.",
     "bullets": [
       {
-        "text": "Novo Holdings ($36bn AUM) is carving out dedicated PE GP allocation and pivoting toward Asia and energy\u2014signals megafund capital hunting for higher-conviction emerging strategies.",
+        "text": "Novo Holdings ($36bn AUM) expanding PE GP allocations and pushing into Asia and planetary health\u2014signals continued institutional appetite for diversified manager exposure.",
         "refId": "4187943e5179",
         "source": "Private Equity International"
       },
       {
-        "text": "Australia's Rest pension (fourth-largest) is doubling down on private markets under new leadership, expanding PE and infrastructure allocations\u2014another institutional LP broadening exposure.",
-        "refId": "d29c82f70549",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Temasek admitting EMEA direct investing has underperformed, plans to rebalance toward AI, private credit, and core-plus infrastructure by 2031\u2014mega-LP recalibrating after regional misfire.",
+        "text": "Temasek admitting EMEA direct investment underperformance; pivoting toward AI, private credit, and core-plus infrastructure by 2031\u2014major rebalancing signal for mega-LPs.",
         "refId": "c129dc7df1b5",
         "source": "Private Equity International"
       },
       {
-        "text": "GPs increasingly targeting retail capital as institutional LPs tighten, but regulatory constraints and structural limits keep the channel niche\u2014crowded mid-market space (HL's $2.5bn+ fund close) pushing for new capital sources.",
+        "text": "HL closes $2.5bn+ direct equity fund amid mid-market crowding, leaning on distributions as differentiation\u2014fund landscape intensifying on returns-focused competition.",
+        "refId": "3b6d25532dbf",
+        "source": "Buyouts Insider"
+      },
+      {
+        "text": "PE GPs courting retail capital as institutional LP caution persists, but regulatory/structural constraints keep the channel niche\u2014upside opportunity remains constrained.",
         "refId": "331237a12f77",
         "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "5 stories dominated by cross-border M&A aggression, UK capital flight from IPOs, and credit markets decoupling from fundamentals as passive flows drive momentum.",
+    "lede": "UniCredit's Commerzbank power play dominates as cross-border M&A eclipses listings; meanwhile, technical factors are decoupling credit from fundamentals while UK capital chases AI narratives over gilt safety.",
     "bullets": [
       {
-        "text": "UniCredit crosses 48% threshold in Commerzbank after tender offer success, now positioned for majority control of Germany's second-largest bank despite political friction from Berlin.",
+        "text": "UniCredit now holds 48% of Commerzbank after tender offer\u2014pursuing majority control of Germany's #2 bank despite political pushback from Berlin.",
         "refId": "098c6369779a",
         "source": "Financial Times Markets"
       },
       {
-        "text": "UK M&A bids reached \u00a360bn YTD versus just \u00a32.2bn in new IPO value\u2014a 27:1 ratio showing capital sharply prefers consolidation over growth financing.",
+        "text": "UK M&A bids hit \u00a360bn YTD while IPOs total \u00a32.2bn\u2014a 27:1 ratio showing capital overwhelmingly prefers consolidation over primary growth equity.",
         "refId": "e2812713687b",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Credit markets showing 'Newton's Cradle effect': passive flows and algos now driving price discovery instead of underlying credit quality, decoupling technicals from fundamentals.",
+        "text": "Credit markets are running on momentum, not fundamentals: passive flows and algos have created a Newton's Cradle effect where price discovery decouples from underlying credit quality.",
         "refId": "82a21c2dac95",
         "source": "Financial Times Markets"
       },
       {
-        "text": "UK pension funds rotating out of gilts into AI-linked bonds as BoE holds rates, creating new asset class driven by narrative risk rather than credit mechanics.",
+        "text": "UK pensions and insurers rotting out of gilts into AI-linked bonds as BoE holds steady\u2014new asset class riding narrative risk rather than credit fundamentals.",
         "refId": "caf85ba41072",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "4 stories spanning payments disruption, tax optimization, wealth management tailwinds, and energy volatility\u2014plus a single-stock ETF filing surge.",
+    "lede": "Four stories spanning payments infrastructure, tax policy tailwinds, wealth management growth, and energy sector pressures.",
     "bullets": [
       {
-        "text": "Wall Street banks exploring card payment network acquisitions to sidestep interchange fee caps that have cost issuers tens of billions.",
+        "text": "Wall Street banks exploring card payment network acquisitions to dodge interchange fee caps that have cost issuers tens of billions\u2014regulatory arbitrage play with major M&A implications.",
         "refId": "eee0cc588a95",
         "source": "The Daily Upside"
       },
       {
-        "text": "IRS reclassified 'Trump Account' contributions as current-interest gifts, expanding tax-advantaged contribution universe for UHNW clients and lowering gift-tax exposure.",
+        "text": "IRS reclassifies 'Trump Account' contributions as current-interest gifts, expanding tax-advantaged universe for HNW clients and lowering gift-tax exposure.",
         "refId": "1fac01219408",
         "source": "The Daily Upside"
       },
       {
-        "text": "Wealth concentration accelerating across all income tiers per UBS report, driving advisor headcount and AUM growth in wealth management.",
+        "text": "Wealth concentration accelerating across all income tiers per UBS Global Wealth Report, driving advisor hiring and AUM growth in wealth management.",
         "refId": "f4513280a45c",
         "source": "The Daily Upside"
       },
       {
-        "text": "Saudi Arabia slashing crude prices as Brent hits lowest levels since pre-war, signaling pricing power erosion and potential sector margin compression.",
+        "text": "Saudi Arabia slashing crude prices as Brent slides to ~$72/bbl\u2014signals price war and eroding energy sector pricing power.",
         "refId": "f4fc07b1758e",
         "source": "The Daily Upside"
       }
@@ -179,45 +179,45 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Five stories spanning tech/sports tradeoffs, prediction market efficiency, US infrastructure decline, and AI governance questions\u2014light on direct FIG impact but useful context on automation, information markets, and institutional AI risk.",
+    "lede": "5 stories spanning tech adoption tradeoffs, prediction market efficiency, and AI governance\u2014with a historical look at why we stopped building land.",
     "bullets": [
       {
-        "text": "Prediction markets shifted Maine Democratic dropout odds from 9% to 96% in one day on scandal news, showing real-time information aggregation that could reshape institutional decision-making beyond elections.",
+        "text": "Prediction markets just shifted a Maine Democratic primary dropout probability from 9% to 96% in one day on scandal news, demonstrating real-time information aggregation that could extend to institutional 'decision markets.'",
         "refId": "ae28dd9c22ff",
         "source": "Marginal Revolution"
       },
       {
-        "text": "US stopped reclaiming land from water after WWII despite rising coastal real estate constraints\u20148% of major coastal cities' land was reclaimed in 1890s\u20131920s, signaling regulatory or ambition shift worth understanding as climate/infrastructure pressures mount.",
+        "text": "US coastal cities reclaimed 8% of land from water in the 1890s\u20131920s but stopped after WWII despite rising real estate constraints\u2014a signal of declining engineering ambition or increased regulatory friction worth understanding.",
         "refId": "6802a5d66f2c",
         "source": "Marginal Revolution"
       },
       {
-        "text": "Constitutional theory applied to AI governance raises questions about consent and legitimacy in rule sets like Claude's Constitution\u2014relevant as financial institutions operationalize AI governance and face regulatory scrutiny.",
+        "text": "Constitutional governance frameworks like Claude's Constitution raise legitimacy questions for AI rule sets that financial institutions need to grapple with as AI governance becomes operationally critical.",
         "refId": "e8cace57c868",
         "source": "Marginal Revolution"
       }
     ]
   },
   "all": {
-    "lede": "Klarna chases U.S. bank charter while major M&A heats up across payments, German banking, and wealth management.",
+    "lede": "Cross-border consolidation and payments infrastructure dominate\u2014UniCredit makes bold move on Commerzbank, JPMorgan/BofA eye Fiserv debit network, while Klarna and fintech players push into regulated banking.",
     "bullets": [
       {
-        "text": "Klarna applies for ILC charter with FDIC to move beyond BNPL\u2014joining fintech wave seeking traditional banking licenses for deposit-taking and lending.",
-        "refId": "8d3f4318dd1e",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "JPMorgan and BofA in talks to acquire Fiserv's debit network; no valuation or timeline yet but signals consolidation in payments infrastructure.",
-        "refId": "b17440a7bb76",
-        "source": "Finextra"
-      },
-      {
-        "text": "UniCredit raises Commerzbank stake to 48% via successful tender offer, triggering German political pushback as it eyes majority control of Germany's second-largest bank.",
+        "text": "UniCredit secures 48% stake in Commerzbank after successful tender, setting up majority control play for Germany's #2 bank despite political opposition from Berlin.",
         "refId": "098c6369779a",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Aspen Standard acquires Michigan RIA for $1.3B, bringing platform to $15B AUM\u2014showing continued RIA consolidation via holding-company roll-ups.",
+        "text": "JPMorgan and BofA in active talks to acquire Fiserv's debit payments network\u2014major strategic move to control payment infrastructure and potentially escape fee regulation.",
+        "refId": "b17440a7bb76",
+        "source": "Finextra"
+      },
+      {
+        "text": "Klarna files for FDIC Industrial Loan Company charter, signaling fintech's pivot to full-deposit banking regulation as Swedish startup seeks deeper U.S. market penetration.",
+        "refId": "8d3f4318dd1e",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Aspen Standard closes $1.3B Michigan RIA acquisition, hitting $15B AUM\u2014RIA consolidation via holding-company model accelerates with no sign of slowdown.",
         "refId": "d33eab75cd55",
         "source": "Wealth Management"
       }
@@ -226,37 +226,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7443.97,
+      "v": 7481.02,
       "base": 7537.43,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25642.012,
+      "v": 25813.543,
       "base": 26121.16,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52169.91,
+      "v": 52375.44,
       "base": 53055.91,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.589,
+      "v": 4.577,
       "base": 4.529,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.84,
+      "v": 16.9,
       "base": 16.13,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 182.6741,
+      "v": 182.985,
       "base": 187.56,
       "bp": false
     }
