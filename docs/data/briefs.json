@@ -1,170 +1,170 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Klarna pushes into U.S. banking with ILC charter application while regional banks execute tuck-in M&A; Fed enforcement action signals pressure on undercapitalized lenders.",
+    "lede": "Klarna pivots to traditional banking while regional consolidation and Fed enforcement continue; three stories on charter applications and M&A, one on regulatory pressure.",
     "bullets": [
       {
-        "text": "Klarna files for FDIC Industrial Loan Company charter, joining the fintech rush to traditional banking licenses to expand beyond BNPL into deposits and lending.",
+        "text": "Klarna files for ILC charter with FDIC, joining fintech wave seeking deposit-taking powers as strategic move beyond BNPL core business.",
         "refId": "8d3f4318dd1e",
         "source": "Banking Dive"
       },
       {
-        "text": "Regions Financial acquires muni bond specialist Frazer Lanier to bolster underwriting capabilities\u2014part of the bank's stated M&A playbook for targeted capability expansion.",
+        "text": "Regions Financial acquires muni specialist Frazer Lanier to bolster underwriting and placement\u2014deal size undisclosed but fits stated M&A playbook.",
         "refId": "d3b9ddff2b71",
         "source": "Banking Dive"
       },
       {
-        "text": "Fed hits Small Business Bank (Kansas) with third enforcement action since 2023 over undercapitalization, demanding 30-day remediation plan.",
+        "text": "Fed hits Small Business Bank (Lenexa, KS) with third enforcement action since 2023 for undercapitalization; 30-day remediation deadline looms.",
         "refId": "e766157f147f",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Bank7 pursuing 71% stake in Century Bank after largest shareholder's loan default forces collateralized share sale.",
+        "refId": "156712127723",
         "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "Wealth management consolidation accelerates across TAMPs, retirement platforms, and RIAs, with Vestmark hitting $50B AUM and Empower/Aspen Standard making major acquisitions\u2014though some advisors are choosing independence.",
+    "lede": "Wealth management consolidation accelerates across TAMPs, retirement platforms, and RIAs, with Vestmark hitting $50B AUM and Empower acquiring Milliman for $340M\u2014though some advisors resist the trend.",
     "bullets": [
       {
-        "text": "Vestmark's TAMP platform vaults to $50B AUM (5x growth) after launching standalone UMA with tax-loss harvesting; T. Rowe Price, BlackRock, Capital Group, and VanEck now referring clients directly.",
+        "text": "Vestmark's TAMP platform explodes to $50B AUM (5x growth) after launching standalone retail UMA with tax-loss harvesting; T. Rowe Price, BlackRock, Capital Group, and VanEck now feeding referrals.",
         "refId": "9f153ce7b5da",
         "source": "RIABiz"
       },
       {
-        "text": "Empower acquires Milliman for $340M, gaining 1.53M retirement plan participants (DC/DB combined) and cross-sell opportunity into workplace benefits.",
+        "text": "Empower acquires Milliman for $340M to bolt 1.53M retirement plan participants onto its platform and cross-sell wealth services into workplace benefits\u2014classic bolt-on consolidation.",
         "refId": "317e06e2aa8a",
         "source": "Wealth Management"
       },
       {
-        "text": "Aspen Standard's RIA holding company pays $1.3B for undisclosed Michigan firm, signaling continued platform roll-up consolidation as it hits $15B AUM across eight affiliates.",
+        "text": "Aspen Standard buys undisclosed Michigan RIA for $1.3B, growing platform to $15B AUM; meanwhile, Integrated Partners (founder-owned, PE-free) recruited $4B this year by offering autonomy alternative.",
         "refId": "d33eab75cd55",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Integrated Partners ($4B recruited this year) counters consolidation wave by positioning itself as PE-free alternative that preserves advisor autonomy\u2014proving founder-owned viability.",
-        "refId": "3b695f191653",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 insurance stories spanning climate risk scrutiny, record cat bond issuance, wildfire operational challenges, AI-driven underwriting consolidation, and workers' comp M&A.",
+    "lede": "Cat bond issuance surges to record $11.3B as climate risks escalate; M&A activity picks up with Sompo and Duck Creek deals.",
     "bullets": [
       {
-        "text": "EU Banking Authority developing heat-risk metrics for lenders as climate exposure becomes a regulatory focus; signals potential capital requirement implications for bank insurance holdings.",
-        "refId": "3f69cd55f9a7",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Cat bond issuance surged to $11.3B in Q2\u2014a quarterly record across 48 transactions\u2014extending strong momentum and signaling robust investor appetite for alternative risk transfer.",
+        "text": "Cat bond issuance hit $11.3B in Q2\u2014a quarterly record\u2014as insurers seek reinsurance capital amid accelerating climate losses.",
         "refId": "4f29e30894b9",
         "source": "Reinsurance News"
       },
       {
-        "text": "Wildfire acceleration is outpacing evacuation infrastructure in California, creating acute liability and operational exposure for insurers and widening uninsurable risk zones.",
+        "text": "Wildfires intensifying faster than evacuation infrastructure can handle in California, creating material liability exposure for insurers and municipalities.",
         "refId": "e02c06b908bd",
         "source": "Insurance Journal"
       },
       {
-        "text": "Duck Creek acquired Send Technology to embed agentic AI across P&C underwriting workflows\u2014consolidation play signaling tech-driven competitive pressure in policy operations.",
-        "refId": "95fb1f134898",
-        "source": "Reinsurance News"
+        "text": "Sompo acquiring Service Insurance Companies to bulk up US workers' comp; Duck Creek buying Send Technology to embed AI across P&C underwriting operations.",
+        "refId": "bf0d78046fb3",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "EU Banking Authority developing heat-risk metrics for lender exposures as climate scrutiny tightens on financial institutions.",
+        "refId": "3f69cd55f9a7",
+        "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "Fintech consolidation and expansion dominate\u2014Klarna pursues US banking license while JPMorgan and BofA eye Fiserv's debit network, as regulatory AI review signals growth drivers in payments.",
+    "lede": "Specialty finance sees major M&A interest and regulatory shifts: Klarna pursues US banking license, JPMorgan and BofA eye Fiserv's debit network, while regional mall CMBS face refinancing headwinds.",
     "bullets": [
       {
-        "text": "Klarna applies for US banking license, signaling major pivot from BNPL into regulated banking operations and potential lending expansion.",
+        "text": "Klarna applies for US banking license\u2014a major pivot from pure-play BNPL into regulated banking, signaling sector consolidation pressure.",
         "refId": "47e339061919",
         "source": "Finextra"
       },
       {
-        "text": "JPMorgan and BofA in early-stage talks to acquire Fiserv's debit network; no valuation disclosed yet but represents strategic consolidation in payments infrastructure.",
+        "text": "JPMorgan and BofA in exclusive talks to acquire Fiserv's debit network; no valuation disclosed but suggests big money chasing payments infrastructure.",
         "refId": "b17440a7bb76",
         "source": "Finextra"
       },
       {
-        "text": "FCA positions AI as innovation and efficiency driver in retail financial services, creating regulatory tailwind for fintech modernization across the sector.",
-        "refId": "d4ba08b7c0f5",
-        "source": "Finextra"
-      },
-      {
-        "text": "July 2026 regional mall CMBS maturities show continued refinancing stress; Trepp data flags ongoing friction in retail real estate credit quality.",
+        "text": "Regional mall CMBS maturing July 2026 show persistent refinancing stress; Trepp data confirms ongoing friction in retail real estate credit.",
         "refId": "cab67e9d8dc2",
         "source": "Trepp Talk"
+      },
+      {
+        "text": "FCA flags AI as net positive for retail financial services innovation; ex-Runway CIO launches new consumer lending business amid sector reshuffling.",
+        "refId": "d4ba08b7c0f5",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "Institutional LPs doubling down on PE despite market churn\u2014GPIF adds $1.4bn, Eurazeo's secondaries fund hits \u20ac2.3bn\u2014while discipline replaces easy-money returns.",
+    "lede": "Institutional capital flows remain robust across PE and secondaries despite market churn, with mega-LPs and GPs alike signaling selective deployment and disciplined fund-raising.",
     "bullets": [
       {
-        "text": "GPIF grew PE allocation 26% YoY to $1.4bn despite 'challenging' environment, proving megafund LPs aren't retreating from the asset class.",
+        "text": "GPIF grew PE portfolio 26% YoY to $1.4bn despite challenging conditions\u2014Japan's $1.8trn pension fund continues aggressive institutional capital deployment.",
         "refId": "d090a48571cc",
         "source": "Private Equity International"
       },
       {
-        "text": "StepStone CEO warns the myth of uniform PE returns is dead; winners now separate from the pack through discipline and selectivity post-easy-money era.",
+        "text": "StepStone CEO warns 'easy money' era myths about uniform returns are collapsing; discipline and selectivity now separate winners from laggards.",
         "refId": "b1a408be0812",
         "source": "Private Equity International"
       },
       {
-        "text": "Eurazeo's \u20ac2.3bn secondaries close\u2014more than double its 2021 fund\u2014signals strong LP appetite for continuation vehicles and portfolio recycling in a tighter market.",
+        "text": "Eurazeo's $2.3bn secondaries fund more than doubles prior vehicle, exceeding target and signaling strong LP appetite for structured secondaries in downturn.",
         "refId": "180575cf9049",
         "source": "Secondaries Investor"
       },
       {
-        "text": "Chinese PE repositioning after years of capital flight and regulatory pressure, creating a more disciplined deal environment for committed LPs seeking entry points.",
-        "refId": "404595489473",
+        "text": "Novo Holdings ($36bn) and Rest pension fund both expanding PE/infrastructure allocations, with Novo targeting Asia and planetary health sectors.",
+        "refId": "4187943e5179",
         "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "Mixed signals on credit risk: HSBC tightens private credit standards while BoE eases capital rules; AI debt markets show stress as Amazon seeks $25B.",
+    "lede": "Five stories spanning money market structure, regulatory easing, retail AI adoption, AI infrastructure debt stress, and Japan's fiscal concerns.",
     "bullets": [
       {
-        "text": "HSBC pulling back from private credit renewals\u2014a $1.2T+ market showing early signs of risk-off as mega-banks reassess exposure.",
-        "refId": "969665d48c5e",
+        "text": "OIS spreads have collapsed post-2020, ending a 22-year arbitrage that banks exploited between unsecured and secured funding\u2014structural money market shift with implications for bank profitability.",
+        "refId": "5ebe58e766b0",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Bank of England easing CCyB rules to unlock lending capacity, signaling central bank concern about financial stability\u2014opposite directional move from HSBC.",
+        "text": "Bank of England easing countercyclical capital buffers to unlock lending capacity and stabilize markets\u2014policy moving toward accommodation.",
         "refId": "96400165a85c",
         "source": "Financial Times Markets"
       },
       {
-        "text": "AI infrastructure debt selling off sharply as Amazon launches $25B borrowing program, flagging potential credit stress in the AI capex arms race.",
+        "text": "Amazon's $25B borrowing announcement triggered sharp selloff in AI infrastructure debt, signaling credit stress in the capex cycle despite regulatory optimism around retail AI tools.",
         "refId": "63e62c1d2918",
         "source": "MarketWatch"
       },
       {
-        "text": "OIS spreads have collapsed post-2020, killing a 22-year arbitrage that bankers relied on\u2014structural money market shift worth monitoring for funding dynamics.",
-        "refId": "5ebe58e766b0",
+        "text": "Japanese 10-year yields hit 1.19% (30-year high) on debt sustainability fears\u2014structural spending commitments creating fiscal pressure.",
+        "refId": "d4348af382ff",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "MicroStrategy's bitcoin conviction cracks amid 52% drawdown; SEC tightens ETF scrutiny; IRS opens gift-tax loophole for Trump Accounts; wealth concentration accelerates advisor demand; AI giants race IPOs despite pricing pushback.",
+    "lede": "Four stories spanning payments disruption, tax-advantaged wealth strategies, wealth management tailwinds, and energy sector headwinds\u2014plus a memo on single-stock ETF proliferation.",
     "bullets": [
       {
-        "text": "MicroStrategy's vaunted bitcoin hodl strategy under pressure\u2014BTC down 52% from Oct peak ($126K to sub-$60K) forces reckoning on durability of never-sell thesis.",
-        "refId": "9b36e0a177e0",
+        "text": "Wall Street banks exploring card payment network acquisitions to dodge interchange fee caps that have siphoned tens of billions in issuer revenue.",
+        "refId": "eee0cc588a95",
         "source": "The Daily Upside"
       },
       {
-        "text": "SEC scrutiny on novel ETFs (including leveraged products) signals regulatory headwinds for emerging product launches in the space.",
-        "refId": "c112507a80dc",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "IRS reclassifies 'Trump Account' contributions as current-interest gifts, materially lowering gift-tax exposure for HNW clients and expanding tax-advantaged universe.",
+        "text": "IRS reclassified 'Trump Account' contributions as current-interest gifts, materially expanding tax-advantaged planning for HNW clients and lowering gift-tax exposure.",
         "refId": "1fac01219408",
         "source": "The Daily Upside"
       },
       {
-        "text": "UBS wealth report shows accelerating wealth concentration driving advisor headcount and AUM growth across wealth management platforms.",
+        "text": "Wealth concentration accelerating across all income tiers per UBS report, driving advisor hiring and AUM growth in wealth management.",
         "refId": "f4513280a45c",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Saudi Arabia cutting crude prices aggressively as Brent slides to ~$72/bbl (pre-war lows), signaling pricing power erosion across energy sector.",
+        "refId": "f4fc07b1758e",
         "source": "The Daily Upside"
       }
     ]
@@ -174,40 +174,45 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Four economic and tech policy stories spanning government equity stakes, labor income classification, automation tradeoffs, and prediction market efficiency.",
+    "lede": "Four substantive takes on capital, technology, and markets\u2014government equity stakes distort innovation, labor income is hiding in capital gains, prediction markets move fast, and automation trades entertainment for accuracy.",
     "bullets": [
       {
-        "text": "Government equity in tech (Deutsche Telekom case) suppresses competition and delays innovation through misaligned incentives\u2014relevant backdrop for state involvement debates in banking/fintech.",
+        "text": "Government equity stakes in tech (like Deutsche Telekom) misalign incentives and suppress competitive dynamism\u2014a cautionary tale on state ownership dragging innovation.",
         "refId": "afad8275e891",
         "source": "Marginal Revolution"
       },
       {
-        "text": "Labor income's decline may be tax classification artifact: stock/pass-through comp taxed as capital gains despite functioning as deferred wages, per Zwick/Zidar research.",
+        "text": "Labor's income share decline partly masks compensation shift to equity and pass-throughs; tax code treats deferred pay as capital gains, obscuring true wage picture.",
         "refId": "303b6c63f556",
         "source": "Marginal Revolution"
       },
       {
-        "text": "Prediction markets proved their worth in Maine primary: shifted dropout odds from 9% to 96% in one day on scandal news; Cowen argues this model scales to institutional decision-making.",
+        "text": "Prediction markets proved their speed: a Maine Democratic primary dropout odds jumped from 9% to 96% in one day on scandal news, raising questions about scaling to institutional decision-making.",
         "refId": "ae28dd9c22ff",
         "source": "Marginal Revolution"
+      },
+      {
+        "text": "Soccer's VAR and automated offside cut errors but kill game flow\u2014broader tension showing tech adoption often sacrifices experience for accuracy.",
+        "refId": "ad6f987e4601",
+        "source": "Big Technology"
       }
     ]
   },
   "all": {
-    "lede": "TAMP powerhouse Vestmark hits $50B AUM milestone while Klarna pivots to regulated banking; JPMorgan and BofA circle Fiserv's debit network.",
+    "lede": "Vestmark hits $50B AUM milestone on standalone RIA product, while Klarna and major banks pursue banking/payments expansion.",
     "bullets": [
       {
-        "text": "Vestmark's TAMP platform exploded 5x to $50B+ AUM after launching standalone UMA with tax-loss harvesting, triggering direct client referrals from T. Rowe Price, BlackRock, Capital Group, and VanEck.",
+        "text": "Vestmark's TAMP platform vaults past $50B AUM (5x growth) after launching standalone retail UMA with tax-loss harvesting; T. Rowe Price, BlackRock, Capital Group, VanEck now funneling referrals.",
         "refId": "9f153ce7b5da",
         "source": "RIABiz"
       },
       {
-        "text": "Klarna files for U.S. ILC charter with the FDIC, signaling major strategic shift from buy-now-pay-later into regulated deposit-taking and lending.",
+        "text": "Klarna applies for FDIC Industrial Loan Company charter, a direct move into regulated deposit-taking and lending as the Swedish fintech diversifies beyond BNPL.",
         "refId": "8d3f4318dd1e",
         "source": "Banking Dive"
       },
       {
-        "text": "JPMorgan and BofA in early-stage talks to acquire Fiserv's debit payments network; no valuation or deal certainty yet.",
+        "text": "JPMorgan and BofA in early-stage talks to acquire Fiserv's debit payments network; no valuation or timeline yet disclosed.",
         "refId": "b17440a7bb76",
         "source": "Finextra"
       }
@@ -246,7 +251,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 187.4464,
+      "v": 187.446,
       "base": 184.1,
       "bp": false
     }
