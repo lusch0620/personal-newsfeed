@@ -103,32 +103,6 @@
     }
   },
   {
-    "id": "2a31db86f6a3",
-    "title": "Equifax agrees $750m acquisition of Mexican credit bureau",
-    "url": "https://www.finextra.com/newsarticle/48056/equifax-agrees-750m-acquisition-of-mexican-credit-bureau?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-08T13:11:00+00:00",
-    "summary_raw": "Equifax has moved to gain a foothold in the fast-growing Mexican market through a $750 million deal to buy the country's fastest growing credit bureau, C\u00edrculo de Cr\u00e9dito.",
-    "summary_ai": {
-      "digest": "Equifax acquiring C\u00edrculo de Cr\u00e9dito, Mexico's fastest-growing credit bureau, for $750M to enter the high-growth Mexican market.",
-      "summary_long": "Equifax is buying C\u00edrculo de Cr\u00e9dito, a Mexican credit bureau, for $750 million in cash. The deal marks Equifax's entry into Mexico's credit reporting market, which is expanding rapidly as credit penetration grows in the region. C\u00edrculo de Cr\u00e9dito is positioned as the fastest-growing player in that market, giving Equifax an established platform rather than a greenfield build. The acquisition fits Equifax's international expansion strategy and diversifies revenue beyond its core U.S. operations. Specialty finance and consumer credit data are consolidating around scaled, regulated players; this deal signals Equifax's confidence in LatAm credit cycles and regulatory environment.",
-      "talking_points": [
-        "Equifax paying $750M for Mexico's fastest-growing credit bureau \u2014 clear bet on LatAm credit growth and regulatory standardization.",
-        "C\u00edrculo de Cr\u00e9dito acquisition gives Equifax instant scale in Mexico rather than building from zero; eliminates a competitor in the consolidation wave.",
-        "Specialty finance M&A thesis: data and compliance infrastructure are defensible and roll into larger platforms; credit bureaus are strategic for buy-side fintech and lending platforms."
-      ],
-      "topics": [
-        "credit-reporting-M&A",
-        "LatAm-expansion",
-        "specialty-finance-consolidation",
-        "Equifax-strategy"
-      ],
-      "highlight": "$750M acquisition of C\u00edrculo de Cr\u00e9dito gives Equifax immediate foothold in Mexico's fast-growing credit market.",
-      "relevance": 8
-    }
-  },
-  {
     "id": "4fb9bf50b367",
     "title": "Sony receives OCC\u2019s conditional approval for trust charter",
     "url": "https://www.bankingdive.com/news/occ-conditional-approve-sony-trust-bank-charter/824673/",
@@ -1300,6 +1274,34 @@
     }
   },
   {
+    "id": "44cc4028d8d2",
+    "title": "Why a hidden divergence between the VIX and Nasdaq volatility has the smart money on edge",
+    "url": "https://www.marketwatch.com/story/why-a-hidden-divergence-between-the-vix-and-nasdaq-volatility-has-the-smart-money-on-edge-cda23cc0?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-09T22:19:00+00:00",
+    "summary_raw": "Traders are completely enthralled by the bull market \u2014 but surging Nasdaq volatility suggests it is time to hedge.",
+    "summary_ai": {
+      "digest": "Nasdaq implied volatility has decoupled from the VIX, signaling hedging demand in large-cap tech despite a broad bull market. Smart-money traders are positioning for a correction in the index's most crowded positions.",
+      "summary_long": "The VIX (S&P 500 volatility) remains compressed, but out-of-the-money Nasdaq options are pricing in sharply higher tail risk, a divergence that typically precedes sector rotation or drawdown. This split suggests institutional money is buying downside hedges on mega-cap tech \u2014 the rally's engine \u2014 while the broader equity sentiment remains euphoric. The mismatch between what the headline index-volatility gauge (VIX) and sector-specific volatility (Nasdaq) are saying is a classic warning sign: either the Nasdaq corrects into lower vol, or the VIX reprices higher. For FIG analysts covering tech-exposed fintech, digital-asset custodians, and wealth-management platforms (especially those with concentrated tech client bases), this is a liquidity and sentiment inflection to monitor.",
+      "summary_long_note": "The divergence is a contrarian signal: consensus is bullish, but options markets are pricing insurance against a Nasdaq unwind. This matters for portfolio construction at RIAs and for fintech platforms with unbalanced tech exposure.",
+      "talking_points": [
+        "Nasdaq vol premium to VIX has widened to levels last seen in 2021 pre-correction \u2014 hedging is happening in the index that drives 40%+ of wealth-management client portfolios.",
+        "If Nasdaq corrects into this vol, it could trigger margin calls and redemptions at platforms and RIAs with concentrated large-cap tech weightings.",
+        "The divergence suggests smart money is rotating, not capitulating \u2014 a signal that the bull market is transitioning, not ending, which changes fintech funding and M&A appetite."
+      ],
+      "topics": [
+        "Nasdaq volatility",
+        "tail risk",
+        "tech positioning",
+        "hedging demand",
+        "liquidity inflection"
+      ],
+      "highlight": "Nasdaq implied vol decoupling from VIX is a pre-correction signal that forces portfolio rebalancing at wealth platforms and RIAs holding concentrated tech.",
+      "relevance": 7
+    }
+  },
+  {
     "id": "9911618d30a5",
     "title": "SK Hynix IPO Drives Latest Round of Single-Stock Filings",
     "url": "https://www.thedailyupside.com/etf/industry-news-etf/sk-hynix-ipo-drives-latest-round-of-single-stock-filings/",
@@ -1451,31 +1453,6 @@
         "management-succession"
       ],
       "highlight": "Steward's COO hire from Sequoia is an operational infrastructure signal\u2014typical precursor to scale, IPO, or sale.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "6736b7e653e3",
-    "title": "NextGen FinCrime 2026: How non-financial sectors can replicate banks\u2019 success in fraud prevention",
-    "url": "https://www.finextra.com/newsarticle/48058/nextgen-fincrime-2026-how-non-financial-sectors-can-replicate-banks-success-in-fraud-prevention?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-08T15:00:00+00:00",
-    "summary_raw": "At the inaugural NextGen FinCrime event in 2026, Emma Lindley MBE kicked off sessions with a keynote on the evolving landscape of financial crime, emphasising the shift from traditional bank-based fraud to more sophisticated online attacks.",
-    "summary_ai": {
-      "digest": "Emma Lindley keynoted NextGen FinCrime 2026, highlighting a shift from traditional bank fraud to sophisticated online attacks and how non-financial sectors can adopt banking-grade fraud prevention.",
-      "summary_long": "The inaugural NextGen FinCrime 2026 conference featured keynote remarks on the evolving fraud landscape, signaling a maturation in attack vectors beyond legacy banking channels. The framing\u2014that non-financial sectors are now adopting bank-grade compliance and fraud prevention\u2014suggests fintech and alternative-asset platforms are upgrading defenses in response to regulatory pressure and reputational risk. This trend implies both a business opportunity (fraud-prevention software/services to non-banks) and a consolidation signal (third-party compliance vendors gaining leverage in deal diligence). The emphasis on \"sophisticated online attacks\" also underscores why PE and strategic buyers are placing higher friction/KYC requirements on fintech acquisitions.",
-      "talking_points": [
-        "Fraud is migrating away from traditional banks\u2014where controls are entrenched\u2014toward less-regulated online platforms and non-financial sectors; this is creating vendor and M&A demand for third-party AML/KYC tooling.",
-        "Non-banks replicating banking-grade fraud prevention means higher compliance costs and capex for fintech and specialty-finance targets; due-diligence complexity is rising.",
-        "Regulatory arbitrage is narrowing: sectors outside banking are now under similar anti-fraud/AML scrutiny, which could accelerate consolidation of smaller players into acquirers with compliance infrastructure."
-      ],
-      "topics": [
-        "fintech compliance & AML",
-        "fraud-prevention vendor demand",
-        "regulatory arbitrage compression"
-      ],
-      "highlight": "The shift of sophisticated fraud from banks to online/non-financial sectors is creating M&A demand for third-party compliance vendors and raising due-diligence friction on fintech acquisitions.",
       "relevance": 6
     }
   },
@@ -1656,32 +1633,6 @@
         "fintech-partnerships"
       ],
       "highlight": "Monzo avoids balance-sheet consolidation lending by partnering with ClearScore\u2014lower capital intensity, higher unit economics.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "9694a3d112ba",
-    "title": "Blackstone and TPG seek more than $4bn for Hologic unit to unlock cash",
-    "url": "https://www.ft.com/content/1096b05f-13c1-466c-90c1-54dc2d0728aa",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-09T04:00:32+00:00",
-    "summary_raw": "Private equity groups look to pay down debt and repay investors from one of last year\u2019s biggest leveraged buyouts",
-    "summary_ai": {
-      "digest": "TPG and Blackstone are seeking >$4bn for a minority stake or full exit of Hologic, acquired for ~$6.2bn in 2024, to reduce leverage and return capital from a heavily debt-financed LBO.",
-      "summary_long": "TPG and Blackstone's 2024 acquisition of Hologic was one of the year's largest LBOs and was financed with substantial debt. Now, less than 18 months post-close, the sponsors are pursuing a partial or full exit to unlock cash, reduce leverage, and begin returning capital to limited partners. A minority stake sale or full exit at $4bn+ would signal either strong post-acquisition EBITDA growth, favorable market conditions for med-tech assets, or pressure to manage debt covenants. This move is typical of the current PE environment where sponsors are active in exit sequencing post-LBO rather than holding for traditional 5-7 year horizons. It also reflects broader PE appetite to cycle capital quickly in favorable market windows.",
-      "talking_points": [
-        "TPG/Blackstone's Hologic LBO from 2024 is already in exit mode\u2014suggests either strong operational improvement, favorable buyer interest in med-tech, or debt management pressure.",
-        "A $4bn+ exit less than 18 months post-acquisition would imply significant EBITDA growth or favorable valuation multiple expansion\u2014worth tracking as a benchmark for LBO returns in mid-market healthcare.",
-        "This is a tell on PE capital deployment appetite: if sponsors are exiting early, it signals either exceptional returns available now or tightening debt covenants requiring deleveraging."
-      ],
-      "topics": [
-        "PE-LBO exit strategy",
-        "healthcare M&A",
-        "leveraged buyout returns",
-        "sponsor capital deployment"
-      ],
-      "highlight": "Seeking $4bn+ exit <18 months post-LBO suggests either exceptional post-close EBITDA growth, strong buyer demand for med-tech, or debt management pressure\u2014all relevant to PE deal-flow cycle and leverage trends.",
       "relevance": 6
     }
   },
@@ -2228,6 +2179,31 @@
     }
   },
   {
+    "id": "cb533c955aa0",
+    "title": "Louisiana bank buys financial consulting firm",
+    "url": "https://www.bankingdive.com/news/louisiana-bank-buys-financial-consulting-firm/824845/",
+    "source": "Banking Dive",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-09T16:21:48+00:00",
+    "summary_raw": "<figure><div><img src=\"https://imgproxy.divecdn.com/Hopn9sG4b_56gC79RhnyuatyGTQ_4PbeGns-OLfCN6w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iYXRvbnJvdWdlLmpwZw==.webp\" /></div></figure><p>Business First Bancshares, parent company of b1BANK, is a serial acquirer. This marks its seventh deal since 2020.</p>",
+    "summary_ai": {
+      "digest": "Business First Bancshares (b1BANK) acquired a financial consulting firm; the deal is the Louisiana bank's seventh acquisition since 2020, signaling continued bolt-on M&A momentum.",
+      "summary_long": "Business First Bancshares, parent of b1BANK, has completed its seventh acquisition since 2020 by buying a financial consulting firm. The article establishes the acquirer as a serial consolidator in the regional banking space, using bolt-on deals to expand service capabilities and market presence. Financial consulting adds advisory and planning services to the bank's core offerings, a typical revenue-diversification play for mid-sized regionals. The steady cadence (7 deals in 6 years) suggests available capital, board appetite for M&A, and a disciplined acquisition strategy. No deal size or financing structure disclosed in the excerpt.",
+      "talking_points": [
+        "Business First Bancshares is a proven serial acquirer with 7 deals since 2020\u2014shows management bandwidth and board alignment for continued consolidation.",
+        "Bolt-on of a financial consulting firm extends the bank's service line beyond traditional lending, a common playbook for regional banks seeking fee revenue.",
+        "No deal size or terms reported; lack of disclosure may indicate sub-$50M deal, typical for consulting firm acquisitions by mid-sized regionals."
+      ],
+      "topics": [
+        "regional bank M&A",
+        "bolt-on acquisition",
+        "revenue diversification"
+      ],
+      "highlight": "Seven acquisitions since 2020 marks Business First Bancshares as an active consolidator with sustained execution capability.",
+      "relevance": 6
+    }
+  },
+  {
     "id": "bd56116aaaa4",
     "title": "Memoa Vault, an AI Tool for Recording Client Valuables, Also Provides a Touch Point",
     "url": "https://www.wealthmanagement.com/artificial-intelligence/ai-platform-tracks-3-trillion-in-physical-assets",
@@ -2382,32 +2358,6 @@
     }
   },
   {
-    "id": "ad43d442d9f5",
-    "title": "Meet the new group of stocks powering the S&P 500 higher",
-    "url": "https://www.marketwatch.com/story/meet-the-new-group-of-stocks-powering-the-s-p-500-higher-b749961a?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-09T20:42:00+00:00",
-    "summary_raw": "A violent rotation is taking place under the hood of the stock market ahead of second-quarter earnings.",
-    "summary_ai": {
-      "digest": "Stock market rotation away from mega-cap tech into broader equity sectors ahead of Q2 earnings; composition shift signals risk reallocation.",
-      "summary_long": "The S&P 500's recent gains mask a significant sector rotation, with mega-cap technology stocks losing relative strength while smaller-cap, value-oriented, and cyclical stocks gain. The timing coincides with the start of second-quarter earnings season and reflects investor concern about valuations in the 'Magnificent Seven' and potential AI investment disappointment. For FIG, this matters: a sustained rotation into cyclicals and mid-caps would improve regional bank loan growth and deposit stability, while rotation away from tech reduces venture-backed fintech funding tail winds. The article suggests the market is repricing growth assumptions.",
-      "talking_points": [
-        "If the rotation holds through earnings, regional bank NIM and loan growth become less dependent on tech-sector deposits flooding in.",
-        "Smaller-cap and value outperformance historically correlates with commercial bank capital-return acceleration and reduced equity-issuance pressure on FIG M&A.",
-        "Timing risk: if rotation reverses post-earnings, fintech fundraising and venture-backed acquisition multiples could snap back higher, affecting deal economics."
-      ],
-      "topics": [
-        "sector-rotation",
-        "earnings-season",
-        "market-composition",
-        "valuation-reset"
-      ],
-      "highlight": "Violent rotation away from mega-cap tech into smaller-cap and cyclical stocks \u2014 if sustained, reshapes deposit and credit risk for regional banks.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "86330fddaf0f",
     "title": "Meta\u2019s stock rebounds as agentic AI coding and custom chips ease spending fears",
     "url": "https://www.marketwatch.com/story/metas-stock-rebounds-as-agentic-ai-coding-and-custom-chips-ease-spending-fears-16d1cb24?mod=mw_rss_topstories",
@@ -2429,6 +2379,58 @@
         "fintech-infrastructure-costs"
       ],
       "highlight": "Custom chips give hyperscalers direct control over compute economics\u2014critical for fintech platforms that outsource infrastructure to AWS/Azure and will see cost pass-throughs.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "7fa9d3c020d2",
+    "title": "AI investing startup GIM raises $20 million",
+    "url": "https://www.finextra.com/newsarticle/48066/ai-investing-startup-gim-raises-20-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-10T00:01:00+00:00",
+    "summary_raw": "Grace Investment Machine (GIM) has raised $20 million in Series A funding to build agentic systems for capital markets.",
+    "summary_ai": {
+      "digest": "Grace Investment Machine (GIM) raised $20M Series A to build AI agent systems for capital markets trading and portfolio management.",
+      "summary_long": "GIM, an AI-native fintech startup, closed a $20M Series A round to develop autonomous agent systems designed to operate in capital markets\u2014likely targeting algorithmic trading, portfolio construction, or execution. The funding signals investor appetite for AI automation in institutional finance, a space where banks and asset managers are racing to deploy large language models and agentic workflows. Series A in specialty finance at this size is a credible vote of confidence but not yet a deal-flow catalyzer unless GIM lands a major bank or asset manager partnership or acquisition.",
+      "talking_points": [
+        "$20M Series A into agentic AI for capital markets\u2014a core bet on autonomous trading/portfolio systems.",
+        "Fits the broader fintech wave of AI-powered institutional tools competing with legacy bank tech stacks.",
+        "Watch for: partnership or acquisition by a major asset manager, bank, or fintech platform looking to bundle AI execution."
+      ],
+      "topics": [
+        "fintech-fundraising",
+        "AI-capital-markets",
+        "specialty-finance",
+        "agentic-systems"
+      ],
+      "highlight": "GIM's $20M Series A raise targets autonomous agent systems for capital markets\u2014potential acquisition or partnership target for banks and asset managers racing to deploy agentic AI.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "793b7572695a",
+    "title": "European Parliament backs digital euro, paving way for final negotiations",
+    "url": "https://www.finextra.com/newsarticle/48068/european-parliament-backs-digital-euro-paving-way-for-final-negotiations?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-10T00:01:00+00:00",
+    "summary_raw": "The European Parliament has voted in favour of the creation of a digital euro, paving the way for the final stage of negotiations with EU state members on the makeup of the CBDC ahead of a potential 2029 launch.",
+    "summary_ai": {
+      "digest": "European Parliament voted to advance digital euro CBDC toward final EU negotiations, targeting 2029 launch. No deal announced; this is a regulatory milestone that removes a legislative barrier.",
+      "summary_long": "The European Parliament's approval clears the political path for the digital euro to move into final negotiations between the Parliament, EU Council, and Member States\u2014the standard trilogue process. The 2029 target date suggests the ECB is working toward a hard launch window, though final terms (privacy, offline functionality, spending limits, cross-border interoperability) remain to be negotiated. This matters for financial institutions because a digital euro will reshape settlement, custody, and payment flows across the eurozone; it also signals EU commitment to sovereignty in digital assets and retail CBDC infrastructure. Regional and specialty fintech players (payments, wallets, settlement) should begin scenario-planning around APIs, regulatory compliance, and integration timelines.",
+      "talking_points": [
+        "European Parliament green-light moves digital euro from concept to final EU trilogue negotiations, targeting 2029 launch\u2014meaningful regulatory gating event, not yet a done deal.",
+        "Final terms (privacy, offline use, limits, cross-border rails) still to be negotiated; financial institutions need to prepare for material shifts in euro payment and settlement infrastructure.",
+        "Digital euro positions EU against US/China on CBDC sovereignty and retail access; creates new compliance and integration obligations for banks, fintech, and asset managers in the eurozone."
+      ],
+      "topics": [
+        "CBDC digital euro",
+        "EU regulatory policy",
+        "fintech infrastructure",
+        "payments and settlement"
+      ],
+      "highlight": "2029 target launch date; final EU trilogue negotiations now begin after Parliament approval\u2014regulatory catalyst, not yet a deal.",
       "relevance": 6
     }
   },
@@ -2710,32 +2712,6 @@
         "regulated-gaming"
       ],
       "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "78595571e6c8",
-    "title": "Labour MPs push for permanent ban on crypto political donations",
-    "url": "https://www.ft.com/content/b6e1ca13-b401-4557-aeef-85527ab0bdd7",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-09T11:00:05+00:00",
-    "summary_raw": "Proposals come amid controversy over Reform UK funding",
-    "summary_ai": {
-      "digest": "UK Labour MPs are pushing for a permanent ban on cryptocurrency donations to political campaigns, citing concerns over opacity and volatility. The move follows recent controversy around Reform UK's crypto-linked funding sources.",
-      "summary_long": "Labour backbenchers have tabled amendments to UK electoral law that would permanently prohibit crypto donations to political parties and campaigns. The initiative responds to broader regulatory scrutiny over the source and traceability of digital-asset-backed political funding, particularly after Reform UK faced questions about crypto-linked donor networks. A permanent ban would require legislative action beyond current Electoral Commission guidance. The proposal reflects growing political consensus that crypto's pseudonymous nature and international mobility create unacceptable compliance and transparency risks in political finance. This sits alongside ongoing debates in Westminster over digital-asset regulation more broadly.",
-      "talking_points": [
-        "Permanent ban on crypto political donations is gaining Labour support\u2014signals tightening regulatory stance on digital-asset compliance in UK.",
-        "Reform UK funding controversy is the trigger; expect similar scrutiny on fintech and alternative-asset platforms if they facilitate opaque capital flows.",
-        "Crypto platforms and fintech firms with UK exposure should prepare for stricter political-engagement disclosure and potentially harder client acquisition in politically sensitive verticals."
-      ],
-      "topics": [
-        "UK crypto regulation",
-        "political finance compliance",
-        "digital assets",
-        "regulatory tightening"
-      ],
-      "highlight": "Permanent legislative ban on crypto donations would close a compliance loophole and set a precedent for tighter digital-asset oversight in political and institutional capital flows.",
       "relevance": 5
     }
   },
@@ -3096,6 +3072,58 @@
         "leverage-debt"
       ],
       "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "ffca0ea80512",
+    "title": "SK Hynix raises $26.5bn in US market debut",
+    "url": "https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-09T22:55:13+00:00",
+    "summary_raw": "South Korean memory chipmaker completes largest-ever US listing by a foreign company",
+    "summary_ai": {
+      "digest": "SK Hynix raised $26.5B in its US market debut, the largest foreign company listing ever. The offering signals strong appetite for semiconductor supply-chain diversification amid US-China tech tensions.",
+      "summary_long": "SK Hynix, a major memory chipmaker, completed a $26.5B US listing\u2014exceeding the prior foreign listing record. The deal reflects structural demand from US institutional investors for semiconductor exposure outside China and strengthens the company's balance sheet for capex-heavy memory production. The timing capitalizes on elevated tech valuations and geopolitical de-risking of supply chains. For FIG, the deal signals robust capital markets appetite for large-scale, non-traditional issuers and may attract follow-on issuers seeking US equity access. The scale and success also underscores the enduring appeal of US equity markets for non-US corporates.",
+      "talking_points": [
+        "SK Hynix's $26.5B US listing breaks the foreign company record\u2014signals US investor appetite for semiconductor supply-chain diversification.",
+        "Timing reflects geopolitical de-risking demand and capex needs in a tight memory market; expect follow-on issuers from allied chip suppliers.",
+        "Capital markets liquidity and valuation multiples remain robust enough to absorb mega-IPOs, even outside traditional tech."
+      ],
+      "topics": [
+        "semiconductor-capex",
+        "US-IPO-market",
+        "supply-chain-geopolitics",
+        "capital-markets-liquidity"
+      ],
+      "highlight": "$26.5B\u2014the largest foreign company US listing ever\u2014signals structural investor appetite for semiconductor supply-chain de-risking.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "78595571e6c8",
+    "title": "Labour MPs push for permanent ban on crypto political donations",
+    "url": "https://www.ft.com/content/b6e1ca13-b401-4557-aeef-85527ab0bdd7",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-09T23:16:02+00:00",
+    "summary_raw": "Proposals come amid controversy over Reform UK funding",
+    "summary_ai": {
+      "digest": "UK Labour MPs are pushing for a permanent ban on cryptocurrency donations to political campaigns, citing concerns over opacity and volatility. The move follows recent controversy around Reform UK's crypto-linked funding sources.",
+      "summary_long": "Labour backbenchers have tabled amendments to UK electoral law that would permanently prohibit crypto donations to political parties and campaigns. The initiative responds to broader regulatory scrutiny over the source and traceability of digital-asset-backed political funding, particularly after Reform UK faced questions about crypto-linked donor networks. A permanent ban would require legislative action beyond current Electoral Commission guidance. The proposal reflects growing political consensus that crypto's pseudonymous nature and international mobility create unacceptable compliance and transparency risks in political finance. This sits alongside ongoing debates in Westminster over digital-asset regulation more broadly.",
+      "talking_points": [
+        "Permanent ban on crypto political donations is gaining Labour support\u2014signals tightening regulatory stance on digital-asset compliance in UK.",
+        "Reform UK funding controversy is the trigger; expect similar scrutiny on fintech and alternative-asset platforms if they facilitate opaque capital flows.",
+        "Crypto platforms and fintech firms with UK exposure should prepare for stricter political-engagement disclosure and potentially harder client acquisition in politically sensitive verticals."
+      ],
+      "topics": [
+        "UK crypto regulation",
+        "political finance compliance",
+        "digital assets",
+        "regulatory tightening"
+      ],
+      "highlight": "Permanent legislative ban on crypto donations would close a compliance loophole and set a precedent for tighter digital-asset oversight in political and institutional capital flows.",
       "relevance": 5
     }
   },
@@ -3592,29 +3620,6 @@
       "topics": [
         "liquidity risk",
         "market stress"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
-    "id": "e01d70162fdf",
-    "title": "NextGen FinCrime 2026: What the UK really thinks about fraud",
-    "url": "https://www.finextra.com/newsarticle/48055/nextgen-fincrime-2026-what-the-uk-really-thinks-about-fraud?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-08T11:00:00+00:00",
-    "summary_raw": "In the \u2018Industry Pulse Check\u2019 session at NextGen FinCrime\u202f2026, never-before-seen-data from Finextra\u2019s latest survey was revealed, capturing what the UK really thinks about fraud.",
-    "summary_ai": {
-      "digest": "Finextra survey reveals UK financial services sentiment on fraud and financial crime at NextGen FinCrime 2026 conference; no deal, regulatory action, or capital event disclosed in excerpt.",
-      "summary_long": "The article reports on new survey data presented at NextGen FinCrime 2026 capturing UK industry views on fraud. No specific findings, policy changes, enforcement actions, regulatory shifts, or M&A drivers are detailed in the provided excerpt. Without the underlying data or findings, this reads as event coverage rather than a catalyst for deal flow, capital decisions, or regulatory arbitrage. The context suggests this may be useful for understanding compliance cost pressures or fintech market positioning, but the excerpt does not surface actionable intelligence on those dimensions.",
-      "talking_points": [
-        "NextGen FinCrime 2026 survey data on UK fraud sentiment released; full findings needed to assess regulatory or competitive implications.",
-        "No deal, enforcement, or capital allocation signal present in excerpt."
-      ],
-      "topics": [
-        "financial-crime-compliance",
-        "UK-fintech-regulation"
       ],
       "highlight": null,
       "relevance": 3
@@ -4472,12 +4477,13 @@
     "date": "2026-07-09T07:04:00+00:00",
     "summary_raw": "<p>K\u00f6ln! We spent a few days in the city, and once again I marveled at the splendors of the Cathedral.\u00a0 If it had its original stained glass, it would count as one of the very best churches ever.\u00a0 It still stands in the top tier as it is.\u00a0 Plus the Ludwig and Wallraf museums are [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/the-tomb-of-duns-scotus.html\">The tomb of Duns Scotus</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal R",
     "summary_ai": {
-      "digest": "Tyler Cowen reflects on Cologne Cathedral and its architecture during a visit to the city.",
-      "summary_long": "This is a personal travel post documenting Cowen's time in Cologne, Germany, with observations on the Cathedral's grandeur despite missing original stained glass, and mentions of local museums (Ludwig and Wallraf). The piece is experiential and aesthetic in nature rather than analytical or strategic. There is no economic framework, business insight, or argument about how systems work\u2014just memoir-style commentary on a historic site.",
+      "digest": "Tyler Cowen reflects on Cologne Cathedral and its art collections during a city visit.",
+      "summary_long": "This is a personal travel essay about Cologne, focusing on the Cathedral's architectural and artistic merit (particularly its stained glass) and mentions of the Ludwig and Wallraf museums. Cowen situates the Cathedral in a tier of great European churches and appears to use it as a lens for thinking about cultural patrimony and aesthetics. The piece is more memoir than analysis, anchored in sensory observation rather than argument.",
       "talking_points": [],
       "topics": [
-        "personal-travel",
-        "cultural-history"
+        "travel",
+        "art-history",
+        "cultural-commentary"
       ],
       "highlight": null,
       "relevance": 1
@@ -4547,13 +4553,13 @@
     }
   },
   {
-    "id": "44488e600bc2",
-    "title": "\u2018Our family is broken beyond repair\u2019: My brother took over my parents\u2019 finances. What can I do?",
-    "url": "https://www.marketwatch.com/story/our-family-is-broken-beyond-repair-my-brother-took-over-my-parents-finances-what-can-i-do-95239fb9?mod=mw_rss_topstories",
+    "id": "03dea0416b68",
+    "title": "\u2018The money would have been life-changing\u2019: My father told my grandmother to slash my inheritance. Is that fair?",
+    "url": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-09T20:30:00+00:00",
-    "summary_raw": "\u201cWithout telling me, my brother petitioned for sole guardianship of our mother.\u201d",
+    "date": "2026-07-09T21:00:00+00:00",
+    "summary_raw": "\u201cI could have bought a home for what I hope will be a growing family.\u201d",
     "summary_ai": {
       "digest": null,
       "summary_long": null,
@@ -4564,18 +4570,48 @@
     }
   },
   {
-    "id": "03dea0416b68",
-    "title": "\u2018The money would have been life-changing\u2019: My father told my grandmother to slash my inheritance. Is that fair?",
-    "url": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
+    "id": "9f9b2ad64cfe",
+    "title": "Taco Bell is reportedly pulling produce from some stores. Here\u2019s what to know.",
+    "url": "https://www.marketwatch.com/story/taco-bell-is-reportedly-pulling-produce-from-some-stores-heres-what-to-know-a3569cd8?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-09T21:00:00+00:00",
-    "summary_raw": "\u201cI could have bought a home for what I hope will be a growing family.\u201d",
+    "date": "2026-07-09T22:30:00+00:00",
+    "summary_raw": "An outbreak of a parasite-caused illness has sickened more than 1,000 people in Michigan.",
     "summary_ai": {
-      "digest": "Personal finance advice column on inheritance dispute between family members.",
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
+      "digest": "Taco Bell removing produce from some locations due to parasite outbreak affecting 1,000+ in Michigan; food-safety incident with potential consumer brand impact.",
+      "summary_long": "A parasite outbreak linked to contaminated produce has sickened over 1,000 people in Michigan, prompting Taco Bell to pull produce from select stores as a precaution. The incident raises questions about supply-chain resilience and food-safety protocol enforcement across QSR operations. While isolated to one region and one chain, it illustrates vulnerability in fresh-food sourcing and the reputational/operational cost of outbreak response. For a FIG analyst, the angle is narrow: potential insurance claims, litigation risk, or operational impact on parent company Yum Brands' margins\u2014but no deal, financing, or capital event.",
+      "talking_points": [
+        "Outbreak limited to Michigan with 1,000+ cases; Taco Bell's response is defensive, not systemic.",
+        "Supply-chain disruption is operational, not financial\u2014no capital raise, M&A, or strategic review announced.",
+        "QSR resilience and food-safety liability are evergreen risks; this is an execution event, not a macro or deal signal."
+      ],
+      "topics": [
+        "food-safety-incident",
+        "qsr-operations"
+      ],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "c356dcedf20a",
+    "title": "CaixaBank builds public benches out of recycled bank cards",
+    "url": "https://www.finextra.com/newsarticle/48065/caixabank-builds-public-benches-out-of-recycled-bank-cards?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-10T00:01:00+00:00",
+    "summary_raw": "CaixaBank has embarked on a novel recycling project, turning old bank cards into benches that will sit in villages where the lender's mobile branches visit.",
+    "summary_ai": {
+      "digest": "CaixaBank is recycling expired bank cards into public benches for villages served by its mobile branches\u2014a sustainability marketing play with no deal, capital, or regulatory implications.",
+      "summary_long": "CaixaBank, Spain's largest bank by assets, has launched a recycling initiative converting decommissioned bank cards into outdoor seating for rural communities. The benches will be placed in villages where the bank operates mobile branch services. This is a corporate social responsibility and brand-positioning effort tied to the bank's retail expansion strategy in underserved areas. The initiative has no bearing on capital allocation, M&A, regulatory compliance, or competitive positioning in specialty finance. It is pure ESG/marketing messaging.",
+      "talking_points": [
+        "CaixaBank is recycling old bank cards into benches\u2014a CSR play, not a business strategy shift.",
+        "No deal, capital raise, regulatory action, or competitive fintech angle here."
+      ],
+      "topics": [
+        "ESG-marketing",
+        "retail-banking"
+      ],
       "highlight": null,
       "relevance": 1
     }
