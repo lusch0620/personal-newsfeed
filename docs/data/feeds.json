@@ -1015,7 +1015,7 @@
   },
   {
     "id": "74b2f8feb7b9",
-    "title": "California Bill to Let Insurers to Use Driver Telematics Mulled by Legislature",
+    "title": "California Bill to Let Insurers Use Driver Telematics Mulled by Legislature",
     "url": "https://www.insurancejournal.com/news/west/2026/07/09/876870.htm",
     "source": "Insurance Journal",
     "section": "FIG \u2014 Insurance",
@@ -1249,29 +1249,54 @@
     }
   },
   {
-    "id": "0a597e80e8dd",
-    "title": "From \u2018status quo\u2019 to \u2018remain in place\u2019 ILPA updates CV guidance for an evolving market",
-    "url": "https://www.buyoutsinsider.com/from-status-quo-to-remain-in-place-ilpa-updates-cv-guidance-for-an-evolving-market/",
-    "source": "Buyouts Insider",
-    "section": "PE & Deals",
-    "date": "2026-07-07T21:40:11+00:00",
-    "summary_raw": "The industry body's prior guidance was 'silent on a lot of things,\u2019 chief executive Jennifer Choi tells affiliate title Secondaries Investor.",
+    "id": "0d483b91ee54",
+    "title": "A slower AI payoff risks tipping the economy into recession, Apollo says",
+    "url": "https://www.marketwatch.com/story/a-slower-ai-payoff-risks-tipping-the-economy-into-recession-apollo-says-5d495f6c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-09T20:56:00+00:00",
+    "summary_raw": "Growing threats from China and falling token prices may put AI financials at risk.",
     "summary_ai": {
-      "digest": "ILPA updated its carried interest guidance to clarify 'remain in place' language, addressing gaps in prior standards as secondaries and continuation vehicles reshape PE fund economics.",
-      "summary_long": "The Institutional Limited Partners Association (ILPA) has refreshed its Principles and Best Practices guidance on carried interest and economics, moving from vague 'status quo' language to more explicit 'remain in place' terminology. ILPA CEO Jennifer Choi indicates the prior guidance was underspecified on key mechanics, leaving room for interpretation disputes between LPs and GPs. The update reflects real-world complexity introduced by secondaries sales, continuation vehicles, and cross-fund economics. Tighter GP economics definitions matter for LP deal due diligence and may influence fund structuring decisions. The change signals tighter governance expectations in a market where fund-level complexity has outpaced standard-setting.",
+      "digest": "Apollo Global Management warns that slower-than-expected AI monetization could trigger economic recession; cites China competition and crypto volatility as headwinds to tech-heavy equity valuations.",
+      "summary_long": "Apollo's analysis suggests the market has priced in aggressive AI ROI assumptions that may not materialize on schedule. Slower capex payoff cycles, intensifying Chinese AI competition, and falling crypto prices (relevant since many AI platforms rely on token-based models or crypto-adjacent funding) could force multiple compression in high-growth tech stocks, with spillover effects into broad equities and credit. This matters for FIG deal flow: recession risk typically depresses M&A activity, tightens lending standards, and increases default probabilities in leveraged portfolios. For rates/credit traders, it's a signal to watch growth-stock momentum and credit spread widening as early warnings.",
       "talking_points": [
-        "ILPA tightened its CV and secondaries guidance to close loopholes; expect stronger LP pushback on 'economics follow the asset' language in fund docs.",
-        "Continuation vehicle structuring now faces clearer ILPA guardrails on carry resets and continuation fees\u2014direct read-through to fund formation and GP economics.",
-        "Prior guidance was 'silent on a lot of things'\u2014firms relying on loose interpretation of carried interest may face LP renegotiation pressure on new vintages."
+        "Apollo flagging AI monetization risk as a recession tail-risk \u2014 slower payoff than market consensus could force tech multiple reset.",
+        "China AI competition and crypto price weakness are named catalysts; both affect venture funding velocity and fintech valuations.",
+        "Recession scenario = M&A contraction, tighter lending, and potential stress in growth-financed fintechs; worth stress-testing portfolio exposure."
       ],
       "topics": [
-        "PE fund structure",
-        "carried interest governance",
-        "LP-GP terms",
-        "continuation vehicles"
+        "AI valuation risk",
+        "recession call",
+        "tech multiple compression",
+        "credit market signal"
       ],
-      "highlight": "ILPA's refresh signals stricter LP scrutiny of GP economics in continuation vehicles and secondaries; expect fund docs to tighten or LPs to demand carve-outs.",
-      "relevance": 6
+      "highlight": "Slower AI capex ROI could force broad equity multiple compression and credit tightening \u2014 a material downside case for growth-financed FIG names.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "45fab0969739",
+    "title": "Can Walmart help the Fed harness real-time U.S. economic data? We\u2019re about to find out.",
+    "url": "https://www.marketwatch.com/story/can-walmart-help-the-fed-harness-real-time-u-s-economic-data-were-about-to-find-out-e625925a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-09T21:52:00+00:00",
+    "summary_raw": "The Federal Reserve named a former Walmart CEO to a task force to develop contemporaneous data on spending, inflation and growth.",
+    "summary_ai": {
+      "digest": "Federal Reserve appointed former Walmart CEO to task force developing real-time economic data on spending, inflation, and growth using retail transaction flows.",
+      "summary_long": "The Fed is attempting to address a structural lag in economic data by leveraging private-sector transaction data, particularly from large retailers like Walmart. Real-time spending and pricing signals could theoretically improve the central bank's ability to react to inflation or demand shocks before official CPI and employment data arrive with their standard monthly delays. The task force represents a pragmatic recognition that traditional government statistics pipelines are too slow for modern monetary policy, and that retailers' point-of-sale systems already capture the granular, contemporaneous picture the Fed needs. Success would shift the Fed's information advantage away from Wall Street data brokers and toward operational collaboration with the private sector. Failure or regulatory friction could reinforce the status quo lag and leave the Fed behind the market in real cycles.",
+      "talking_points": [
+        "Fed is crowdsourcing real-time inflation and spending data directly from private retailers\u2014a structural advantage over month-old BLS releases.",
+        "If Walmart transaction data becomes Fed policy input, expect other mega-retailers to gain informal influence over monetary policy decisions.",
+        "Real-time data could compress the Fed's reaction lag from 4\u20136 weeks to days, materially changing the volatility and timing of rate expectations."
+      ],
+      "topics": [
+        "Fed data infrastructure",
+        "real-time inflation signals",
+        "retail transaction analytics"
+      ],
+      "highlight": "Real-time retail spending and pricing data could collapse the Fed's policy reaction lag from weeks to days, reframing how markets front-run rate decisions.",
+      "relevance": 7
     }
   },
   {
@@ -2203,32 +2228,6 @@
     }
   },
   {
-    "id": "ff78f6e23da6",
-    "title": "Home prices hit new all-time high, deepening affordability woes",
-    "url": "https://www.marketwatch.com/story/home-prices-hit-a-new-all-time-high-this-summer-2808d1a3?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-09T16:31:00+00:00",
-    "summary_raw": "Home prices continue to climb even as buyers retreat from the market, according to fresh data from the National Association of Realtors.",
-    "summary_ai": {
-      "digest": "NAR data shows home prices at all-time highs despite buyer retreat, signaling a supply-constrained market disconnecting from demand.",
-      "summary_long": "Housing prices have reached record levels while transaction volume declines, creating a bifurcated market where available inventory remains tight and sellers hold pricing power. This dynamic reflects low mortgage rates relative to pandemic peaks, limited new construction, and aging housing stock\u2014factors that keep entry-level prices elevated even as buyer demand softens. For FIG, the tension matters: mortgage origination volume stays constrained, refinance activity remains muted, and regional banks' mortgage pipelines will continue to compress. The broader implication is that residential real estate is no longer a macro growth driver and may begin dragging on consumer balance sheets and discretionary spending.",
-      "talking_points": [
-        "All-time home prices with falling transaction volume = supply shortage, not demand strength\u2014mortgage refinance pipelines stay dead.",
-        "Affordability crisis deepens consumer leverage and wealth inequality, likely capping deposit growth and discretionary lending for regional banks.",
-        "Housing stagnation removes a traditional wealth effect tailwind; look for banks to shift focus to ARM resets and home-equity lines as rates stay elevated."
-      ],
-      "topics": [
-        "housing-market",
-        "mortgage-banking",
-        "consumer-credit",
-        "deposit-pressure"
-      ],
-      "highlight": "All-time highs + buyer retreat = supply-constrained market starving mortgage origination; regional banks' residential pipelines will stay compressed.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "bd56116aaaa4",
     "title": "Memoa Vault, an AI Tool for Recording Client Valuables, Also Provides a Touch Point",
     "url": "https://www.wealthmanagement.com/artificial-intelligence/ai-platform-tracks-3-trillion-in-physical-assets",
@@ -2277,33 +2276,6 @@
         "regulatory fragmentation"
       ],
       "highlight": "Three-state AI regulatory bloc (CA, NY, IL) now creates material compliance burden for any fintech or insurer using algorithmic decision-making across jurisdictions.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "829db1aa3168",
-    "title": "Risky leveraged ETFs are booming in 2026. Some worry they could be making the stock market more volatile.",
-    "url": "https://www.marketwatch.com/story/risky-leveraged-etfs-are-booming-in-2026-some-worry-they-could-be-making-the-stock-market-more-volatile-cef1427b?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-09T17:52:00+00:00",
-    "summary_raw": "Some say traders who gravitate toward these products see big swings in the underlying stocks as a feature, not a bug.",
-    "summary_ai": {
-      "digest": "Leveraged ETFs have surged in 2026 assets and trading volume; regulators and academics worry they amplify volatility and create tail-risk feedback loops in equities.",
-      "summary_long": "Leveraged ETFs\u2014products that use derivatives to magnify daily index moves by 2x, 3x, or more\u2014have grown significantly in assets and daily trading volume this year. The products attract retail and some institutional traders seeking outsized returns during volatile markets. Critics argue that leveraged ETF rebalancing (which forces daily buying and selling to maintain leverage ratios) can amplify intraday swings and create procyclical selling pressure during downturns, similar to volatility-targeting strategies. Regulators have not yet imposed new restrictions, but the SEC and academic researchers are monitoring whether these products pose systemic risk. The debate hinges on whether leveraged ETF flows are large enough relative to total market volume to trigger the kind of feedback loop that accelerated the 2015 and 2018 corrections.",
-      "talking_points": [
-        "Leveraged ETF assets and turnover are up meaningfully in 2026, but their share of total equity market volume remains debated\u2014too small to trigger systemic feedback or large enough to matter in thin trading?",
-        "Daily rebalancing mechanics force these products to 'buy high, sell low' mechanically, which can cascade into volatility feedback if triggered during stress; the 2015 and 2018 flash-crash playbook is the risk template.",
-        "No new SEC rules yet, but this is a live monitoring topic; if a sharp correction occurs and leveraged ETF flows are blamed, expect sudden restrictions on leverage ratios or rebalancing frequency."
-      ],
-      "topics": [
-        "equity-volatility",
-        "leveraged-products",
-        "retail-trading",
-        "systemic-risk",
-        "ETF-regulation"
-      ],
-      "highlight": "Rebalancing mechanics can create procyclical selling pressure during downturns\u2014similar to the 2015 and 2018 feedback-loop playbook\u2014if leveraged ETF volumes reach critical mass relative to individual-stock liquidity.",
       "relevance": 6
     }
   },
@@ -2385,32 +2357,6 @@
     }
   },
   {
-    "id": "e6fe361c169f",
-    "title": "What affordability crisis? Rich home buyers are powering the housing market.",
-    "url": "https://www.marketwatch.com/story/what-affordability-crisis-rich-home-buyers-are-powering-the-housing-market-71f85230?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-09T19:29:00+00:00",
-    "summary_raw": "\u201cThe housing market is the best expression of the \u2018K-shaped economy\u2019 that we\u2019re in right now,\u201d one expert says.",
-    "summary_ai": {
-      "digest": "Affluent buyers are driving housing demand while middle-income purchasers exit the market, widening wealth inequality in real estate and signaling bifurcated consumer health.",
-      "summary_long": "Housing demand remains robust, but the composition has shifted dramatically: high-income buyers are competing aggressively for premium properties while first-time and middle-income homebuyers have largely withdrawn due to affordability constraints. This K-shaped split reflects broader wealth concentration and suggests consumer strength is concentrated in the top deciles. The trend carries implications for mortgage origination mix (jumbo vs. conforming loan ratios), refinance dynamics, and housing-related fintech targeting affluent borrowers. It also flags potential downstream pressure on regional bank retail deposit bases if wealth continues concentrating among fewer, larger depositors.",
-      "talking_points": [
-        "Housing demand is real but hollowed out\u2014affluent buyer strength masks withdrawal of middle-income first-time buyers, a K-shaped market that mirrors wealth bifurcation.",
-        "This shifts origination mix toward jumbo mortgages and away from conforming volume, reshaping revenue per loan for regional banks and thrifts.",
-        "Concentrated wealth among top buyers may also concentrate deposit flows at private banks and wealth platforms, pressuring traditional retail deposit franchises."
-      ],
-      "topics": [
-        "housing-market-bifurcation",
-        "consumer-wealth-concentration",
-        "mortgage-origination-mix",
-        "regional-bank-deposit-risk"
-      ],
-      "highlight": "K-shaped housing market signals wealth concentration\u2014affluent buyers driving demand while middle-income purchasers exit, reshaping mortgage origination and deposit composition for regional banks.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "6615bb3cdec0",
     "title": "Goldman Sachs limits prediction market betting for employees",
     "url": "https://www.ft.com/content/7a2a3200-763f-4141-8372-f2f6afba521d",
@@ -2436,28 +2382,54 @@
     }
   },
   {
-    "id": "bb4bbe04532d",
-    "title": "Traders on Kalshi think the Nasdaq-100 will end 2026 above 30,000, predicting a cooler second half of the year",
-    "url": "https://www.cnbc.com/2026/07/07/traders-on-kalshi-think-the-nasdaq-100-will-end-2026-above-30000.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-07T21:15:26+00:00",
-    "summary_raw": "Speculators think the massive rally in the Nasdaq-100 since the lows following the U.S.-Iran war will be more subdued in the second half of 2026.",
+    "id": "ad43d442d9f5",
+    "title": "Meet the new group of stocks powering the S&P 500 higher",
+    "url": "https://www.marketwatch.com/story/meet-the-new-group-of-stocks-powering-the-s-p-500-higher-b749961a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-09T20:42:00+00:00",
+    "summary_raw": "A violent rotation is taking place under the hood of the stock market ahead of second-quarter earnings.",
     "summary_ai": {
-      "digest": "Kalshi traders are pricing in a Nasdaq-100 finish above 30,000 for 2026, implying a deceleration from the current rally that followed the U.S.-Iran conflict.",
-      "summary_long": "Speculators on the Kalshi prediction market are betting on a cooler second half of 2026 after the Nasdaq-100 surged from post-conflict lows. The market is pricing in continued but moderating gains through year-end, with consensus expectations for a slowdown in the tech-heavy index. This sentiment reflects trader positioning on macro momentum and potential headwinds\u2014likely tied to Fed policy, earnings revisions, or valuation constraints. For a FIG analyst, this signals market participants are not pricing in a severe recession but also not expecting the first-half momentum to persist, which affects both equity-linked derivative demand and bank capital-markets revenue expectations.",
+      "digest": "Stock market rotation away from mega-cap tech into broader equity sectors ahead of Q2 earnings; composition shift signals risk reallocation.",
+      "summary_long": "The S&P 500's recent gains mask a significant sector rotation, with mega-cap technology stocks losing relative strength while smaller-cap, value-oriented, and cyclical stocks gain. The timing coincides with the start of second-quarter earnings season and reflects investor concern about valuations in the 'Magnificent Seven' and potential AI investment disappointment. For FIG, this matters: a sustained rotation into cyclicals and mid-caps would improve regional bank loan growth and deposit stability, while rotation away from tech reduces venture-backed fintech funding tail winds. The article suggests the market is repricing growth assumptions.",
       "talking_points": [
-        "Kalshi traders are betting Nasdaq-100 finishes 2026 above 30,000, implying deceleration from the post-Iran-war rally.",
-        "The prediction reflects trader positioning on a 'cooler second half'\u2014a signal that equity momentum may be waning despite strong YTD performance.",
-        "For FIG teams: this macro narrative affects structured-product flow, equity derivatives hedging demand, and bank equity-capital-markets pipeline expectations."
+        "If the rotation holds through earnings, regional bank NIM and loan growth become less dependent on tech-sector deposits flooding in.",
+        "Smaller-cap and value outperformance historically correlates with commercial bank capital-return acceleration and reduced equity-issuance pressure on FIG M&A.",
+        "Timing risk: if rotation reverses post-earnings, fintech fundraising and venture-backed acquisition multiples could snap back higher, affecting deal economics."
       ],
       "topics": [
-        "tech equity momentum",
-        "macro positioning",
-        "prediction markets"
+        "sector-rotation",
+        "earnings-season",
+        "market-composition",
+        "valuation-reset"
       ],
-      "highlight": "Kalshi traders pricing Nasdaq-100 above 30,000 for 2026 year-end signals market consensus on second-half deceleration, not downturn.",
-      "relevance": 5
+      "highlight": "Violent rotation away from mega-cap tech into smaller-cap and cyclical stocks \u2014 if sustained, reshapes deposit and credit risk for regional banks.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "86330fddaf0f",
+    "title": "Meta\u2019s stock rebounds as agentic AI coding and custom chips ease spending fears",
+    "url": "https://www.marketwatch.com/story/metas-stock-rebounds-as-agentic-ai-coding-and-custom-chips-ease-spending-fears-16d1cb24?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-09T20:58:00+00:00",
+    "summary_raw": "Shares of Meta rallied on Thursday following the launch of a new AI model and reports of a big custom-chip milestone.",
+    "summary_ai": {
+      "digest": "Meta stock rose on AI model launch and custom-chip progress, signaling potential cost control in data-center spending.",
+      "summary_long": "Meta announced a new AI model and reported progress on custom silicon, which investors read as evidence that the company can moderate its massive infrastructure spend while advancing AI capabilities. The custom-chip milestone is particularly relevant because hyperscaler capex has been a concern for both equity investors and credit analysts covering the sector. For FIG professionals modeling tech-dependent fintech platforms, cloud-based banking stacks, and specialty-finance software, this signals potential relief in the cost structure of those businesses' suppliers. However, the stock move itself is secondary to the underlying capex narrative.",
+      "talking_points": [
+        "Meta's custom chips reduce dependency on external semiconductor suppliers and give it margin control on compute costs\u2014a template other hyperscalers are pursuing.",
+        "If Meta can flatten capex growth while advancing AI, it validates the fintech and digital-banking thesis that AI productivity will compress infrastructure costs over the next 18\u201324 months.",
+        "Watch whether Meta's chip success pressures Nvidia margins or forces other hyperscalers to accelerate their own custom-silicon roadmaps."
+      ],
+      "topics": [
+        "hyperscaler-capex",
+        "custom-silicon-economics",
+        "fintech-infrastructure-costs"
+      ],
+      "highlight": "Custom chips give hyperscalers direct control over compute economics\u2014critical for fintech platforms that outsource infrastructure to AWS/Azure and will see cost pass-throughs.",
+      "relevance": 6
     }
   },
   {
@@ -3077,32 +3049,6 @@
     }
   },
   {
-    "id": "10db737c98bd",
-    "title": "Gen Z-ers share how they\u2019re achieving financial freedom \u2014 and the old ideas they\u2019re leaving behind",
-    "url": "https://www.marketwatch.com/story/gen-z-ers-share-how-theyre-achieving-financial-freedom-and-the-old-ideas-theyre-leaving-behind-c36c5980?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-09T19:11:00+00:00",
-    "summary_raw": "A stable job and a nice home have become less accessible to young Americans. Many are taking new paths to pursue their dreams.",
-    "summary_ai": {
-      "digest": "Gen Z is pursuing alternative paths to wealth \u2014 gig work, side hustles, crypto, and real estate alternatives \u2014 because traditional employment and homeownership feel out of reach.",
-      "summary_long": "The article profiles several Gen Z individuals who have rejected the conventional career-and-mortgage ladder in favor of freelancing, content creation, cryptocurrency, and unconventional real estate strategies (co-living, house-hacking). The through-line is economic frustration: wage stagnation, housing unaffordability, and student debt have made the boomer playbook impractical. While the piece is optimistic about their ingenuity, it also signals a structural generational shift in risk tolerance, asset preference, and savings behavior\u2014away from equities and real estate, toward digital assets and portable income streams. This reshapes consumer financial services demand: less demand for mortgages and brokerage accounts, more for fintech wallets, alternative lending, and self-directed platforms.",
-      "talking_points": [
-        "Gen Z is rotating away from traditional wealth vehicles (mortgages, salaried roles) into gig work and crypto\u2014a structural shift in how fintech and specialty lenders should position products.",
-        "Housing unaffordability and wage stagnation are pushing younger cohorts toward co-living and fractional ownership models, not homeownership\u2014watch for alternative real estate platforms as a growth vector.",
-        "This cohort's skepticism of equities and banks has already boosted crypto and fintech adoption; their alternative asset preference will pressure traditional wealth management AUM capture."
-      ],
-      "topics": [
-        "gen-z-financial-behavior",
-        "fintech-demand",
-        "alternative-assets",
-        "wealth-inequality"
-      ],
-      "highlight": "Gen Z's exodus from homeownership and salaried work signals fintech and specialty lenders where the next decade of consumer finance growth actually is\u2014and where traditional FIG players are underweight.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "5a8fa7f931cb",
     "title": "Kalshi traders think gas prices will stay higher for longer as U.S.-Iran tensions heat back up",
     "url": "https://www.cnbc.com/2026/07/09/kalshi-traders-see-higher-gas-prices-lasting-through-election-day.html",
@@ -3129,28 +3075,27 @@
     }
   },
   {
-    "id": "48aae2ba1d12",
-    "title": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
-    "url": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
+    "id": "07521da78970",
+    "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
+    "url": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-09T19:49:00+00:00",
-    "summary_raw": "Financial literacy just hit a 10-year low \u2014 and it is devastating bank accounts.",
+    "date": "2026-07-09T21:09:00+00:00",
+    "summary_raw": "The next global financial crisis is already under way. Here is how it will unfold.",
     "summary_ai": {
-      "digest": "Financial literacy among U.S. adults hit a 10-year low; only 5% pass an 8-question test on basic financial concepts.",
-      "summary_long": "MarketWatch reports that a financial-literacy assessment shows only 5% of U.S. adults can correctly answer all eight questions covering fundamentals like inflation, bonds, risk diversification, and interest rates. The underlying survey data suggests declining financial knowledge correlates with poor savings behavior, higher debt, and lower investment engagement. This matters for FIG because it signals weak retail customer quality, limited organic demand for advisory services, and potential regulatory pressure on product suitability\u2014especially in wealth management, fintech onboarding, and specialty finance where unsophisticated borrowers are concentrated. The trend also underscores why robo-advisory and simplified product wrappers have grown: the market is filling a gap left by declining DIY capability.",
+      "digest": "MarketWatch argues the next financial crisis could destroy $20 trillion in value\u2014four times the dot-com crash\u2014due to leverage, interconnectedness, and policy constraints. The piece speculates on unfolding scenarios without naming a specific trigger or current stress point.",
+      "summary_long": "The article uses historical comparison (dot-com = $5T loss) to frame tail-risk magnitude, then argues structural vulnerabilities\u2014hidden leverage, derivatives exposure, central bank balance sheet limits, and geopolitical fragmentation\u2014create conditions for a larger drawdown. It positions the crisis as 'already under way' but the evidence is thematic rather than data-driven: no specific asset bubble, credit indicator, or liquidity signal is isolated. The argument is useful as a risk framework but lacks the market or credit signal that would materially change FIG deal/financing assumptions today.",
       "talking_points": [
-        "Only 5% of U.S. adults pass a basic 8-question financial-literacy quiz\u2014a 10-year low\u2014indicating shrinking retail investor competence and rising suitability risk for banks and wealth platforms.",
-        "Low literacy correlates with higher debt, lower savings rates, and weaker investment behavior, meaning advisory and platform consolidation in wealth management will likely accelerate as firms compete for the shrinking pool of sophisticated clients.",
-        "Regulatory scrutiny on product complexity and suitability is likely to intensify; fintech and traditional WM platforms will face pressure to simplify offerings and implement stronger guardrails for unsophisticated users."
+        "Dot-com was $5T; next systemic event could be $20T+ due to hidden leverage and policy constraints.",
+        "Interconnectedness through derivatives and shadow banking means smaller trigger can cascade faster.",
+        "Central banks less able to backstop crisis if they're already bloated post-pandemic."
       ],
       "topics": [
-        "retail-investor-behavior",
-        "wealth-management-demand",
-        "regulatory-suitability-risk",
-        "financial-literacy"
+        "systemic-risk",
+        "financial-crisis-tail-risk",
+        "leverage-debt"
       ],
-      "highlight": "Only 5% of U.S. adults pass a basic financial-literacy test\u2014a 10-year low\u2014signaling weak retail customer quality and rising suitability exposure for WM and consumer finance platforms.",
+      "highlight": null,
       "relevance": 5
     }
   },
@@ -3553,12 +3498,37 @@
     }
   },
   {
+    "id": "5870c0224f5f",
+    "title": "Stop Chasing a \u2018Magic Number\u2019 for Retirement",
+    "url": "https://www.wealthmanagement.com/retirement/stop-chasing-a-magic-number-for-retirement",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-09T18:23:42+00:00",
+    "summary_raw": "The aim shouldn\u2019t be to attain a certain\u00a0level of wealth by a specific date, but to assure yourself of a steady level of income throughout your retirement.",
+    "summary_ai": {
+      "digest": "Wealth management advice shifts focus from asset-accumulation targets to retirement-income stability; relevant to advisor positioning and product design in RIA/platform space.",
+      "summary_long": "The article argues that traditional retirement planning\u2014hitting a specific net-worth number by a target date\u2014is a flawed framework. Instead, advisors should counsel clients toward income certainty: defining sustainable withdrawal rates, annuity strategies, and income-generating asset allocation. This reframes the advisory conversation away from growth benchmarking and toward cash-flow engineering. For wealth platforms and RIAs, this speaks to product packaging (income-focused ETFs, annuity integrations, managed-withdrawal services) and advisor-training positioning.",
+      "talking_points": [
+        "Shift from wealth target to income floor changes how advisors pitch products and structures\u2014opportunity for platform bundling around retirement-income solutions.",
+        "Implies higher demand for annuities, bond ladders, and dividend-focused sleeves; feeds into specialty-finance and insurance-product convergence.",
+        "Advisor-training and software vendors can differentiate by tooling around sustainable-withdrawal modeling rather than pure asset-growth dashboards."
+      ],
+      "topics": [
+        "RIA product strategy",
+        "retirement income planning",
+        "wealth platform positioning"
+      ],
+      "highlight": null,
+      "relevance": 4
+    }
+  },
+  {
     "id": "9d32d997c114",
     "title": "\u2018I\u2019ve no idea how they got her number\u2019: My student-loan servicer called a friend after I missed a payment. Is that legal?",
     "url": "https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-09T18:00:00+00:00",
+    "date": "2026-07-09T22:00:00+00:00",
     "summary_raw": "\u201cShe said it\u2019s the second message they have left.\u201d",
     "summary_ai": {
       "digest": "Student-loan servicer contacted borrower's friend after missed payment; raises questions about FDCPA compliance and servicer collection practices.",
@@ -3579,25 +3549,25 @@
     }
   },
   {
-    "id": "5870c0224f5f",
-    "title": "Stop Chasing a \u2018Magic Number\u2019 for Retirement",
-    "url": "https://www.wealthmanagement.com/retirement/stop-chasing-a-magic-number-for-retirement",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-09T18:23:42+00:00",
-    "summary_raw": "The aim shouldn\u2019t be to attain a certain\u00a0level of wealth by a specific date, but to assure yourself of a steady level of income throughout your retirement.",
+    "id": "62bd044992ba",
+    "title": "SK Hynix is about to hit the U.S. market. Here\u2019s what to know about the deal.",
+    "url": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-09T22:07:00+00:00",
+    "summary_raw": "U.S. investors are about to get another straightforward way to play the red-hot market for memory chips.",
     "summary_ai": {
-      "digest": "Wealth management advice shifts focus from asset-accumulation targets to retirement-income stability; relevant to advisor positioning and product design in RIA/platform space.",
-      "summary_long": "The article argues that traditional retirement planning\u2014hitting a specific net-worth number by a target date\u2014is a flawed framework. Instead, advisors should counsel clients toward income certainty: defining sustainable withdrawal rates, annuity strategies, and income-generating asset allocation. This reframes the advisory conversation away from growth benchmarking and toward cash-flow engineering. For wealth platforms and RIAs, this speaks to product packaging (income-focused ETFs, annuity integrations, managed-withdrawal services) and advisor-training positioning.",
+      "digest": "SK Hynix, South Korea's second-largest chipmaker, is preparing a U.S. market entry. The deal structure and timing remain unclear from the excerpt.",
+      "summary_long": "SK Hynix, a major global semiconductor manufacturer, is moving to enter or expand in the U.S. market as memory chip demand remains elevated. The article positions this as a new investment vehicle for U.S. investors to gain exposure to the semiconductor sector. However, the excerpt provides minimal detail on deal structure, timing, valuation, or regulatory factors. For FIG professionals, the relevance depends on whether this involves equity issuance, M&A, or debt financing that would affect capital markets or create banker engagement.",
       "talking_points": [
-        "Shift from wealth target to income floor changes how advisors pitch products and structures\u2014opportunity for platform bundling around retirement-income solutions.",
-        "Implies higher demand for annuities, bond ladders, and dividend-focused sleeves; feeds into specialty-finance and insurance-product convergence.",
-        "Advisor-training and software vendors can differentiate by tooling around sustainable-withdrawal modeling rather than pure asset-growth dashboards."
+        "SK Hynix entry signals continued foreign chipmaker confidence in U.S. market despite geopolitical scrutiny.",
+        "Timing coincides with elevated memory chip demand and potential U.S. semiconductor policy support.",
+        "Unclear whether this is a capital raise, acquisition, or greenfield investment \u2014 details needed to assess deal flow impact."
       ],
       "topics": [
-        "RIA product strategy",
-        "retirement income planning",
-        "wealth platform positioning"
+        "semiconductor-sector",
+        "foreign-investment-US",
+        "capital-markets-access"
       ],
       "highlight": null,
       "relevance": 4
@@ -3988,27 +3958,50 @@
     }
   },
   {
-    "id": "66f8d4c69647",
-    "title": "New \u2018Ex-Elon\u2019 ETFs let you avoid SpaceX and Tesla \u2014 but are they just a gimmick?",
-    "url": "https://www.marketwatch.com/story/new-ex-elon-etfs-let-you-avoid-spacex-and-tesla-but-are-they-just-a-gimmick-e872d762?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-09T19:52:00+00:00",
-    "summary_raw": "One expert doubts that new ETFs from Subversive will catch on in a meaningful way.",
+    "id": "d93cac58dd5c",
+    "title": "The U.S. States with the Highest and Lowest Incomes",
+    "url": "https://www.wealthmanagement.com/high-net-worth/the-u-s-states-with-the-highest-and-lowest-incomes",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-09T19:48:42+00:00",
+    "summary_raw": "A surprisingly egalitarian geographical distribution book-ended by Virginias.",
     "summary_ai": {
-      "digest": "Subversive Capital launched ETFs that exclude Tesla and SpaceX from holdings, betting on demand from investors uncomfortable with Elon Musk. Early adoption signals skepticism from analysts on whether exclusion-based indexing becomes a material trend.",
-      "summary_long": "Subversive Capital, a new asset manager, has launched exchange-traded funds designed to exclude companies associated with Elon Musk\u2014Tesla, SpaceX (via public proxies), and related holdings\u2014capturing investor appetite for values-based or personality-driven exclusions. The strategy targets retail investors with ethical or reputational concerns about Musk's leadership and public statements. Asset flows remain modest; industry observers question whether personalized exclusion funds represent genuine demand or a fleeting niche. The trend sits at the intersection of ESG fatigue and retail differentiation, raising questions about whether exclusion-based products can scale beyond novelty positioning.",
+      "digest": "Analysis of US state income distribution shows relatively egalitarian geographic spread, with Virginia at both top and bottom extremes.",
+      "summary_long": "The article examines income levels across US states, finding a more uniform distribution than typically assumed. Rather than a stark regional divide, the data shows Virginia appearing in both highest and lowest income rankings\u2014a counterintuitive finding that suggests income inequality is more complex than simple geographic clustering. The piece likely explores what this distribution means for wealth management planning, client segmentation, and regional economic resilience. For a FIG analyst, the relevance lies in understanding demographic and income patterns that drive AUM concentration, advisory client density, and regional bank deposit bases.",
       "talking_points": [
-        "Subversive's ex-Musk ETFs indicate retail appetite for personality-driven exclusions, but early skepticism from experts suggests this may not move the dial in meaningful AUM.",
-        "Values-based indexing\u2014whether ESG or founder-based\u2014remains a niche distribution angle; lacks the institutional demand that drives scale in passive products.",
-        "The move highlights a broader shift: as traditional ESG narratives saturate, asset managers are chasing micro-segmentation and differentiation through exclusion rather than positive selection."
+        "Income distribution across states is more egalitarian than regional stereotypes suggest, complicating AUM targeting by geography.",
+        "Virginia's dual appearance (highest and lowest) signals within-state income bifurcation\u2014relevant for HNW concentration mapping.",
+        "Geographic income uniformity may explain why national advisory platforms outperform regional consolidation in certain segments."
       ],
       "topics": [
-        "ETF-launches",
-        "retail-investing-trends",
-        "niche-indexing"
+        "wealth-management-demographics",
+        "regional-economic-patterns",
+        "AUM-distribution"
       ],
-      "highlight": "Subversive's bet on exclusion-based indexing exposes the limits of personality-driven product differentiation in a crowded passive market.",
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "8f61500f6ed6",
+    "title": "A junior employee saved this company six figures using AI. Here\u2019s how.",
+    "url": "https://www.marketwatch.com/story/a-junior-employee-saved-this-company-six-figures-using-ai-heres-how-ca4335d3?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-09T21:29:00+00:00",
+    "summary_raw": "\u201cSome of the best ideas can come from anywhere in the organization.\u201d",
+    "summary_ai": {
+      "digest": "Junior employee at an unnamed company used AI to automate a process, saving six figures annually. Generic anecdote without naming the company, sector, or specific tool.",
+      "summary_long": "The article profiles a junior staffer who deployed AI (method unspecified) to streamline an unnamed business function, generating measurable cost savings in the six-figure range. The piece leans on motivational framing\u2014'ideas can come from anywhere'\u2014rather than technical or operational detail. No sector, company, tool, or comparable savings data is provided. The lesson is that AI adoption can happen bottom-up, but the article offers no framework for replicability or cost-benefit analysis.",
+      "talking_points": [
+        "AI automation is moving beyond headline projects into routine operational wins\u2014even junior staff are identifying ROI opportunities.",
+        "Without specifics on the tool, process, or industry, this reads as motivation rather than a template for FIG or fintech deployments."
+      ],
+      "topics": [
+        "AI-automation",
+        "cost-reduction"
+      ],
+      "highlight": null,
       "relevance": 3
     }
   },
@@ -4479,13 +4472,12 @@
     "date": "2026-07-09T07:04:00+00:00",
     "summary_raw": "<p>K\u00f6ln! We spent a few days in the city, and once again I marveled at the splendors of the Cathedral.\u00a0 If it had its original stained glass, it would count as one of the very best churches ever.\u00a0 It still stands in the top tier as it is.\u00a0 Plus the Ludwig and Wallraf museums are [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/the-tomb-of-duns-scotus.html\">The tomb of Duns Scotus</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal R",
     "summary_ai": {
-      "digest": "Tyler Cowen reflects on Cologne Cathedral and the tomb of medieval philosopher Duns Scotus during a visit to the city.",
-      "summary_long": "Cowen recounts a trip to Cologne, highlighting the Cathedral as a world-class architectural achievement despite missing its original stained glass, and notes the quality of the Ludwig and Wallraf museums. The piece appears to be a personal travel reflection touching on the historical and intellectual significance of Duns Scotus's burial site. No clear business, economic, or strategic argument emerges from the excerpt provided.",
+      "digest": "Tyler Cowen reflects on Cologne Cathedral and its architecture during a visit to the city.",
+      "summary_long": "This is a personal travel post documenting Cowen's time in Cologne, Germany, with observations on the Cathedral's grandeur despite missing original stained glass, and mentions of local museums (Ludwig and Wallraf). The piece is experiential and aesthetic in nature rather than analytical or strategic. There is no economic framework, business insight, or argument about how systems work\u2014just memoir-style commentary on a historic site.",
       "talking_points": [],
       "topics": [
-        "personal-essay",
-        "history",
-        "travel"
+        "personal-travel",
+        "cultural-history"
       ],
       "highlight": null,
       "relevance": 1
@@ -4542,66 +4534,14 @@
     "date": "2026-07-09T15:58:55+00:00",
     "summary_raw": "These are the stocks posting the largest moves midday.",
     "summary_ai": {
-      "digest": "CNBC midday stock movers roundup with no FIG names, deal announcements, or regulatory actions.",
-      "summary_long": "This is a generic market-action recap listing intraday price movers across consumer staples (PepsiCo), media (Paramount), and semiconductors (Micron). No banks, financial institutions, fintech, or specialty finance names are mentioned. There is no M&A, capital raise, regulatory action, or FIG-sector implication. This appears to be misfiled or is a catch-all market noise piece.",
-      "talking_points": [],
-      "topics": [
-        "market-noise"
+      "digest": "Market-moving stock movers across sectors including Micron, Paramount/Skydance, and PepsiCo; no FIG-specific deal or regulatory action identified in excerpt.",
+      "summary_long": "This is a generic market-recap piece listing intraday stock movers across consumer, tech, and media sectors. The excerpt provides no detail on deal structure, capital events, regulatory action, or FIG-specific news. Without the full article body, it appears to be a routine price-action roundup with no catalysts relevant to financial services deal flow, bank earnings, or fintech strategy.",
+      "talking_points": [
+        "No actionable FIG, capital, or deal signal in the excerpt provided."
       ],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "98420f49eca6",
-    "title": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
-    "url": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-09T19:43:00+00:00",
-    "summary_raw": "\u201cI have very little money, while my ex\u2019s financial statements show assets in the millions.\u201d",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "d93cac58dd5c",
-    "title": "The U.S. States with the Highest and Lowest Incomes",
-    "url": "https://www.wealthmanagement.com/high-net-worth/the-u-s-states-with-the-highest-and-lowest-incomes",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-09T19:48:42+00:00",
-    "summary_raw": "A surprisingly egalitarian geographical distribution book-ended by Virginias.",
-    "summary_ai": {
-      "digest": "Article maps state-level income distribution; identifies Virginia as both highest and lowest income state by region. No deal, regulatory, or capital event mentioned.",
-      "summary_long": "The piece examines geographical income inequality across U.S. states, presenting data on median or average household income by state. It frames the distribution as 'surprisingly egalitarian' with Virginia appearing at both extremes (likely Northern Virginia wealth vs. rural Virginia poverty). This is demographic/economic context rather than a financial institutions angle. No M&A, capital raise, regulatory action, or fintech event is present.",
-      "talking_points": [],
       "topics": [
-        "income-distribution",
-        "demographic-data"
+        "market-recap"
       ],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "3bb2b8ce2173",
-    "title": "Landon Donovan says there\u2019s \u2018zero chance\u2019 he could have afforded to play youth soccer if he was a kid today",
-    "url": "https://www.marketwatch.com/story/landon-donovan-says-theres-zero-chance-he-could-have-afforded-to-play-youth-soccer-if-he-was-a-kid-today-e32e905f?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-09T20:25:00+00:00",
-    "summary_raw": "The U.S. men\u2019s soccer team once again didn\u2019t make it past the Round of 16 in the World Cup \u2014 and some say the high cost to play youth soccer in America could be a key reason.",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
       "highlight": null,
       "relevance": 1
     }
@@ -4616,6 +4556,23 @@
     "summary_raw": "\u201cWithout telling me, my brother petitioned for sole guardianship of our mother.\u201d",
     "summary_ai": {
       "digest": null,
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "03dea0416b68",
+    "title": "\u2018The money would have been life-changing\u2019: My father told my grandmother to slash my inheritance. Is that fair?",
+    "url": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-09T21:00:00+00:00",
+    "summary_raw": "\u201cI could have bought a home for what I hope will be a growing family.\u201d",
+    "summary_ai": {
+      "digest": "Personal finance advice column on inheritance dispute between family members.",
       "summary_long": null,
       "talking_points": null,
       "topics": null,
