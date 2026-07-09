@@ -1,170 +1,170 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Fintech and tech giants pursue banking charters while regional M&A continues; Fed officials remain split on rate trajectory.",
+    "lede": "Fintech and Big Tech push into banking charters while regional M&A ticks up and Fed discord simmers over rate cuts.",
     "bullets": [
       {
-        "text": "Klarna applies for ILC charter to offer deposits and lending directly under FDIC regulation, escalating fintech's push into traditional banking.",
+        "text": "Klarna applies for ILC charter to offer deposits and lending directly under FDIC regulation, escalating fintech's banking ambitions.",
         "refId": "8d3f4318dd1e",
         "source": "Banking Dive"
       },
       {
-        "text": "Sony lands conditional OCC approval for stablecoin-focused trust charter (Connectia Trust), launching in 2027.",
+        "text": "Sony gets OCC conditional approval for trust charter; Connectia Trust stablecoin platform launching 2027.",
         "refId": "4fb9bf50b367",
         "source": "Banking Dive"
       },
       {
-        "text": "Fed officials deeply divided on rate cuts per FOMC minutes\u2014hawks vs. doves tension likely to persist across multiple meetings.",
-        "refId": "9b07addfa2e9",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Regional M&A active: Hometown Bank (MA) acquiring NH peer for $160M; Bank7 pursues 71% Century Bank stake via forced collateral sale.",
+        "text": "Regional consolidation: Hometown Bank (MA) acquiring NH peer for $160M; Bank7 pursuing 71% Century Bank stake after forced sale triggered by shareholder loan default.",
         "refId": "d6fcf03be4d4",
         "source": "Banking Dive"
+      },
+      {
+        "text": "Fed minutes expected to reveal rate-cut divide between hawks and doves, with internal squabbling likely to extend across multiple meetings.",
+        "refId": "9b07addfa2e9",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "RIA consolidation accelerates while aggregation platforms stumble; Fisher Investments defies trend with organic mega-growth.",
+    "lede": "Aggregation sector hits turbulence as Morningstar-Pello deal fails; meanwhile, RIA consolidation accelerates with big advisor moves and regional acquisitions.",
     "bullets": [
       {
-        "text": "Morningstar's ByAllAccounts sale to Pello collapses\u2014another aggregation sector casualty as Plaid eyes IPO and CFPB mulls allowing data fees, signaling structural stress in the category.",
-        "refId": "f5e37517bc0f",
+        "text": "Morningstar's ByAllAccounts sale to Pello collapsing\u2014another blow to fragile account aggregation space as Plaid gears up for IPO and CFPB deliberates permanent data-fee rules.",
+        "refId": "47e3a8bf4c57",
         "source": "RIABiz"
       },
       {
-        "text": "RIA M&A in overdrive: Wavvest poaches Schwab's $1.4B advisor; Choreo snaps up $700M planning-focused shop; Goldman's custody gaining share from brand/UHNW positioning.",
+        "text": "Wavvest snags $1.4B Vinnie Maliakkal from Charles Schwab as managing director, signaling continued poaching of top talent to AI-native platforms.",
         "refId": "654412886bd0",
         "source": "Wealth Management"
       },
       {
-        "text": "Fisher Investments hit ~$450B AUM (up from $112B in 2019) through pure organic growth and media blitz\u2014rejecting consolidation while rivals pursue M&A.",
+        "text": "Choreo acquires $700M planning-focused RIA under new CEO Jason Van de Loo, continuing aggressive consolidation streak.",
+        "refId": "1a2a39bb0535",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Fisher Investments hit $450B AUM (up from $112B in 2019) through pure organic growth and media blitz\u2014remaining M&A-resistant while competitors consolidate.",
         "refId": "7265d84bd32e",
         "source": "RIABiz"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "Reinsurance capacity pressures intensify as US MGA market booms, while Middle East shipping risks spike and specialty consolidation accelerates.",
+    "lede": "M&A momentum continues with Amwins/Dragoneer reaffirming Steadfast bid and Zurich clearing Beazley; regulatory headwinds emerge on autonomous vehicles and cargo maintenance.",
     "bullets": [
       {
-        "text": "Gallagher Re's ceded premiums up 18% YoY, driven by US MGA expansion signaling sustained specialty capacity demand.",
-        "refId": "5e4013bba7bc",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "RGA pushing into Japan life reinsurance via coinsurance blocks with Sumitomo Life and Tokio Marine, broadening regional footprint.",
-        "refId": "0b6b8f20c28c",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Qatari LNG tanker hit off Oman; Iran targeting additional vessels in Hormuz\u2014shipping disruption and marine claims exposure mounting.",
-        "refId": "9f9e48274767",
+        "text": "Amwins and Dragoneer extend exclusivity four weeks on their A$7.7B ($5.34B) Steadfast bid as deal marches toward shareholder vote.",
+        "refId": "06775560af29",
         "source": "Insurance Journal"
       },
       {
-        "text": "Specialty MGA consolidation continues: Nirvana acquiring Ryan Specialty's Swedish unit; Acrisure launching UK HNW practice post-Smith Greenfield deal.",
-        "refId": "a6fb14ab0930",
+        "text": "European Commission green-lights Zurich's Beazley acquisition under simplified review with no competition concerns cited.",
+        "refId": "b736d99639e1",
         "source": "Reinsurance News"
+      },
+      {
+        "text": "NHTSA chief signals mounting regulatory pressure on AV companies after pattern of autonomous vehicles interfering with emergency responders.",
+        "refId": "893c1632079a",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "UPS maintenance gaps on Boeing engine parts tied to Louisville crash could trigger new FAA-mandated protocols across cargo operators.",
+        "refId": "d5104db8453f",
+        "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "JPMorgan and BofA pursue Fiserv debit network; Equifax enters Mexico; capital rotates into AI data centers.",
+    "lede": "Equifax's $750M Mexico play leads the day; credit fundraising hits record highs while capital rotation accelerates toward AI data centers.",
     "bullets": [
       {
-        "text": "JPMorgan and BofA in early-stage talks to acquire Fiserv's debit payments network; no valuation or timeline yet disclosed.",
-        "refId": "b17440a7bb76",
-        "source": "Finextra"
-      },
-      {
-        "text": "Equifax spending $750M on C\u00edrculo de Cr\u00e9dito to establish Mexican footprint in high-growth credit bureau market.",
+        "text": "Equifax acquiring C\u00edrculo de Cr\u00e9dito for $750M to establish foothold in Mexico's fast-growing credit bureau market.",
         "refId": "2a31db86f6a3",
         "source": "Finextra"
       },
       {
-        "text": "CMBS capital significantly rotating from traditional CRE into spec data center financing as AI infrastructure demand accelerates.",
+        "text": "Credit fundraising posted record H1 2026 levels with momentum potentially carrying into full-year record\u2014defying headline skepticism on credit markets.",
+        "refId": "4d22de3156b0",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "Data center assets reshaping CMBS composition as AI infrastructure buildout drives capital rotation away from traditional CRE into spec facilities.",
         "refId": "fc044fa3a37e",
         "source": "Trepp Talk"
       },
       {
-        "text": "ECB mandating banks submit AI cyber-threat mitigation plans, flagging emerging risks to IT resilience from advanced models.",
-        "refId": "8bbc23f55059",
-        "source": "Finextra"
+        "text": "Midwest multifamily 'safe-haven' narrative masks credit and structural vulnerabilities\u2014Trepp flagging operational risks beneath headline consensus.",
+        "refId": "ce9f65532a4d",
+        "source": "Trepp Talk"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "LPs rebalancing portfolios toward alternatives while GPs adapt fund structures; secondaries market gaining traction despite DPI headwinds.",
+    "lede": "Five stories tracking institutional capital redeployment\u2014from Russell Investments' consortium acquisition to record PE fundraising and secondaries repositioning.",
     "bullets": [
       {
-        "text": "Rest (Australia's 4th-largest pension) expanding PE and infrastructure allocations under new leadership, signaling institutional appetite for alternatives in APAC.",
-        "refId": "d29c82f70549",
+        "text": "B Capital leading CalPERS-backed consortium to acquire Russell Investments, a major institutional asset-allocation platform.",
+        "refId": "997ed959f0ce",
+        "source": "PE Hub"
+      },
+      {
+        "text": "PE fundraising hit record highs in Q2 2026 with GP-led secondaries expected to triple; defense sector emerging as collaboration-dependent return driver.",
+        "refId": "11893af9ceac",
         "source": "Private Equity International"
       },
       {
-        "text": "Temasek admitting EMEA direct investment underperformance; pivoting toward AI, private credit, and core-plus infrastructure\u2014a major LP recalibration for European GPs.",
+        "text": "Temasek pivoting away from underperforming EMEA directs toward AI, private credit, and core-plus infrastructure by 2031; Australia's Rest expanding PE/infrastructure allocations under new leadership.",
         "refId": "c129dc7df1b5",
         "source": "Private Equity International"
       },
       {
-        "text": "Patria closes $677m secondaries fund targeting smaller deals as DPI challenges persist; retail capital emerging as alternative source despite regulatory friction.",
+        "text": "Patria closed $677m secondaries fund targeting smaller deals to differentiate amid persistent DPI headwinds in the market.",
         "refId": "be234e14e7f3",
         "source": "Secondaries Investor"
-      },
-      {
-        "text": "ILPA updates carried interest guidance on 'remain in place' language, reflecting structural shifts in secondaries and continuation vehicle economics.",
-        "refId": "0a597e80e8dd",
-        "source": "Buyouts Insider"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "UniCredit eyes Commerzbank control amid German political friction, while UK capital markets show stark M&A-over-IPO preference and credit fundamentals decoupling from technicals.",
+    "lede": "European banks dodge capital rules via synthetics; dollar's bond-market shield eroding; PE firms racing to exit Hologic LBO.",
     "bullets": [
       {
-        "text": "UniCredit clinches 48% of Commerzbank after successful tender, now positioned for majority control of Germany's second-largest bank\u2014triggering Berlin pushback.",
-        "refId": "098c6369779a",
+        "text": "European banks weaponizing synthetic risk transfers to shed loan risk without shrinking portfolios as ECB stress tests tighten\u2014regulatory arbitrage accelerating.",
+        "refId": "d672b29e7909",
         "source": "Financial Times Markets"
       },
       {
-        "text": "UK M&A bid value hits \u00a360bn vs. \u00a32.2bn in new IPO listings (27:1 ratio), signaling structural capital flight from primary equity markets to consolidation.",
-        "refId": "e2812713687b",
-        "source": "Financial Times Markets"
+        "text": "Foreign central banks dumping dollar reserves amid U.S. geopolitical friction; the historical bond-market bid underpinning dollar strength is deteriorating.",
+        "refId": "a3aa7e5af425",
+        "source": "MarketWatch"
       },
       {
-        "text": "Credit markets decoupling from fundamentals as passive flows and algos drive pricing on momentum rather than quality\u2014a 'Newton's Cradle' dynamic masking underlying risk.",
-        "refId": "82a21c2dac95",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "UK pension/insurance funds rotating gilts into AI-linked bonds as BoE holds rates, creating narrative-driven asset class disconnected from traditional credit metrics.",
-        "refId": "caf85ba41072",
+        "text": "TPG/Blackstone hunting $4bn+ exit on 2024 Hologic acquisition ($6.2bn entry) to deleverage heavily debt-financed LBO\u2014capital return pressure building.",
+        "refId": "9694a3d112ba",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Banks scheme to sidestep fee caps, wealth managers chase new tax angles, SEC loosens accreditation rules, and single-stock ETFs proliferate.",
+    "lede": "Banks plot payment network M&A to dodge fee caps; wealth managers pivot to long-short strategies; SEC floats accredited investor expansion; and State Street wins Trump admin treasury business.",
     "bullets": [
       {
-        "text": "Wall Street banks exploring card payment network acquisitions to escape interchange fee caps that have drained tens of billions from issuers\u2014a structural workaround to regulatory pressure.",
+        "text": "Wall Street banks exploring acquisition of card payment networks to circumvent interchange fee caps that have cost issuers tens of billions in revenue.",
         "refId": "eee0cc588a95",
         "source": "The Daily Upside"
       },
       {
-        "text": "Direct-indexing's tax-loss harvesting edge fading as markets rise; wealth managers pivoting to long-short SMAs to preserve the tax-alpha narrative that justifies fee collection.",
+        "text": "Direct-indexing SMAs losing tax-loss harvesting edge in rising markets; wealth managers pivoting to long-short strategies to maintain tax-alpha narrative and justify fees.",
         "refId": "70edf8c4d329",
         "source": "The Daily Upside"
       },
       {
-        "text": "SEC proposal would grant accredited investor status based on advisor relationship alone, bypassing net-worth/income thresholds\u2014advisor community split on access expansion vs. compliance risk.",
+        "text": "SEC proposal would grant accredited investor status to clients under registered advisor advice, bypassing net-worth/income gates\u2014advisor community split on access expansion vs. compliance risk.",
         "refId": "0dfa999785cc",
         "source": "The Daily Upside"
       },
       {
-        "text": "Single-stock ETF filings accelerating around SK Hynix IPO and other debuts, following SpaceX's IPO-driven filing surge; State Street's SPYM picked as core Trump admin government account holding.",
-        "refId": "9911618d30a5",
+        "text": "State Street's SPYM ETF selected as core holding for Trump administration government-sponsored accounts alongside Vanguard and BlackRock products.",
+        "refId": "20de78d518e0",
         "source": "The Daily Upside"
       }
     ]
@@ -174,85 +174,85 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Four thought pieces on institutional innovation\u2014prediction markets proving their mettle, AI governance raising legitimacy questions, and a forgotten engineering ambition that shaped cities.",
+    "lede": "Data quality emerges as AI's real moat; meanwhile, structural questions about AI governance and economic policy frame longer-term industry risks.",
     "bullets": [
       {
-        "text": "Maine Democratic primary prediction market swung from 9% to 96% dropout probability in one day on scandal news, showing real-time info aggregation that could reshape institutional decision-making beyond politics.",
-        "refId": "ae28dd9c22ff",
-        "source": "Marginal Revolution"
+        "text": "Data, not compute, is AI's decisive edge: Meta, xAI, and Palantir are winning on access to high-quality, verifiable datasets rather than model size alone\u2014a shift that reorders competitive positioning.",
+        "refId": "e2c9c2c56d2e",
+        "source": "Stratechery"
       },
       {
-        "text": "8% of major US coastal city land was reclaimed from water in 1890s\u20131920s; we stopped post-WWII despite housing constraints, signaling a collapse in engineering ambition or regulatory tolerance worth understanding.",
-        "refId": "6802a5d66f2c",
-        "source": "Marginal Revolution"
-      },
-      {
-        "text": "AI governance frameworks like Claude's Constitution raise real questions about consent and legitimacy\u2014a constitutional theory problem financial institutions should grapple with as AI becomes operationally critical.",
+        "text": "AI governance legitimacy gap: Constitutional frameworks like Claude's raise real consent and rule-of-law questions that financial institutions need to grapple with as AI becomes operationally critical infrastructure.",
         "refId": "e8cace57c868",
         "source": "Marginal Revolution"
+      },
+      {
+        "text": "Agentic workflows are replacing prompt engineering: Anthropic's 12-recipe playbook signals a maturation layer where AI moves from chatbot interface to autonomous task delegation.",
+        "refId": "646acd8ec83e",
+        "source": "The AI Corner"
       }
     ]
   },
   "all": {
-    "lede": "M&A fever across fintech and payments infrastructure\u2014Klarna chases banking charter, JPM/BofA eye Fiserv debit network, UniCredit grabs 48% of Commerzbank\u2014while credit markets show troubling disconnect from fundamentals.",
+    "lede": "Five stories spanning fintech regulation, asset management M&A, and payments infrastructure\u2014Klarna eyes banking charter while banks explore fee-cap workarounds.",
     "bullets": [
       {
-        "text": "Klarna ILC play: Swedish fintech applies for FDIC charter to take deposits and lend directly in the U.S., sidestepping traditional banking partnerships.",
+        "text": "Klarna applies for FDIC ILC charter to directly offer deposits and lending under U.S. regulation, marking major regulatory milestone for Swedish fintech.",
         "refId": "8d3f4318dd1e",
         "source": "Banking Dive"
       },
       {
-        "text": "JPMorgan and BofA in talks to acquire Fiserv's debit network\u2014part of broader Wall Street push to own payments infrastructure and escape fee caps costing billions annually.",
-        "refId": "b17440a7bb76",
-        "source": "Finextra"
+        "text": "Amwins/Dragoneer reaffirm A$7.7B ($5.3B) bid for Steadfast Group with extended exclusivity; Australian consolidation play moving toward shareholder vote.",
+        "refId": "06775560af29",
+        "source": "Insurance Journal"
       },
       {
-        "text": "UniCredit now holds 48% of Commerzbank after tender offer succeeds; German political backlash mounting as path to majority control emerges.",
-        "refId": "098c6369779a",
-        "source": "Financial Times Markets"
+        "text": "B Capital-led consortium including CalPERS acquiring Russell Investments, a major institutional asset-allocation platform with broad index and retail exposure.",
+        "refId": "997ed959f0ce",
+        "source": "PE Hub"
       },
       {
-        "text": "Credit markets show Newton's Cradle problem: passive flows and algorithmic trading decoupled from fundamentals, with momentum\u2014not credit quality\u2014driving price discovery.",
-        "refId": "82a21c2dac95",
-        "source": "Financial Times Markets"
+        "text": "Wall Street banks exploring payment network acquisitions to sidestep interchange fee caps that have cost issuers tens of billions\u2014structural workaround emerging.",
+        "refId": "eee0cc588a95",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7482.71,
-      "base": 7537.43,
+      "v": 7511.15,
+      "base": 7503.85,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25870.652,
-      "base": 26121.16,
+      "v": 26020.98,
+      "base": 25818.69,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52348.39,
-      "base": 53055.91,
+      "v": 52360.45,
+      "base": 52925.15,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.569,
-      "base": 4.529,
+      "v": 4.565,
+      "base": 4.569,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.9,
-      "base": 16.13,
+      "v": 16.71,
+      "base": 16.9,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 182.7371,
-      "base": 187.56,
+      "v": 184.6993,
+      "base": 187.45,
       "bp": false
     }
   ]
