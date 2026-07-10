@@ -366,32 +366,6 @@
     }
   },
   {
-    "id": "80b8cbeb0732",
-    "title": "BDC redemption requests in Q2: more of the same, if not worse",
-    "url": "https://www.privatedebtinvestor.com/bdc-redemption-requests-in-q2-more-of-the-same-if-not-worse/",
-    "source": "Private Debt Investor",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-08T20:43:32+00:00",
-    "summary_raw": "The trend among retail investors that started in Q1 accelerates, on average, and involves many of the same large fund managers.",
-    "summary_ai": {
-      "digest": "BDC redemption requests accelerated in Q2 2026, continuing Q1 trends with retail investors pulling capital from major fund managers at an accelerating pace.",
-      "summary_long": "Retail investors are systematically redeeming shares from Business Development Companies at an increasing rate, a trend that began in Q1 and worsened in Q2. BDCs, which typically invest in middle-market and specialty finance debt and equity, face liquidity pressure when redemptions exceed cash on hand, forcing asset sales or gate implementations. The acceleration suggests either deteriorating performance, fee sensitivity, or broader retail flight from illiquid structures. This affects both the capital available for specialty finance deployment and the pricing discipline on exits\u2014BDC managers may be forced to sell assets into a crowded redemption flow, depressing valuations and creating refinancing risk for their portfolio companies.",
-      "talking_points": [
-        "BDC redemptions accelerating into Q2 signals retail investors losing confidence in illiquid credit structures, likely due to performance drag or rate environment pressure.",
-        "Concentrated redemptions among large BDC managers could force asset-sale cascades, depressing specialty finance deal pricing and creating tail risk for leveraged middle-market borrowers.",
-        "If gates or liquidity events trigger, limited partners in specialty finance funds face extended lock-ups, reshaping LP appetite for illiquid allocations into 2H26."
-      ],
-      "topics": [
-        "BDC-redemptions",
-        "specialty-finance-flows",
-        "retail-capital-flight",
-        "illiquid-asset-risk"
-      ],
-      "highlight": "BDC redemptions accelerated in Q2 across major fund managers, risking forced asset sales and depressed deal valuations in specialty finance.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "70edf8c4d329",
     "title": "Long-Short SMAs Aim to Keep the Tax Losses Flowing",
     "url": "https://www.thedailyupside.com/advisor/investing-strategies/long-short-smas-aim-to-keep-the-tax-losses-flowing/",
@@ -2198,32 +2172,6 @@
     }
   },
   {
-    "id": "9938f87721ee",
-    "title": "Corporate America is pumping $1 trillion into stock buybacks \u2014 but look at what insiders are doing",
-    "url": "https://www.marketwatch.com/story/corporate-america-is-pumping-1-trillion-into-stock-buybacks-but-look-at-what-insiders-are-doing-44854835?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T17:31:00+00:00",
-    "summary_raw": "These 22 U.S. stocks are backed by company buybacks and insider cash.",
-    "summary_ai": {
-      "digest": "S&P 500 companies are on pace for $1 trillion in buybacks in 2024, but insider selling at many of those same companies is at elevated levels, signaling potential skepticism about valuations.",
-      "summary_long": "Corporate buyback programs have become a major driver of equity support, with $1 trillion deployed or authorized across the S&P 500. However, the article flags a divergence: insiders at many buyback-heavy companies are simultaneously selling their own stock at above-average rates. This spread between corporate buying and insider selling is often interpreted as a valuation warning\u2014management is buying back shares at prices that company executives themselves view as expensive enough to sell at. The piece identifies 22 stocks where both forces are present, implying mixed signals about sustainable valuation support.",
-      "talking_points": [
-        "$1 trillion in buybacks provides a structural bid, but insider selling at elevated levels at those same companies suggests insiders don't believe valuations are sustainable.",
-        "When corporate buybacks and insider selling diverge sharply, it historically precedes periods of underperformance or mean reversion.",
-        "For FIG coverage: look at which regional banks and asset managers are deploying capital for buybacks while insiders unload\u2014potential red flag for capital allocation discipline."
-      ],
-      "topics": [
-        "equity-market-signals",
-        "insider-selling",
-        "capital-allocation",
-        "valuation-divergence"
-      ],
-      "highlight": "$1 trillion in buybacks paired with elevated insider selling at the same companies is a classic divergence signal that historically precedes underperformance.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "a82f3bb061b2",
     "title": "\u2018Trump accounts\u2019 are great \u2014 if you\u2019re already rich",
     "url": "https://www.marketwatch.com/story/trump-accounts-are-great-if-youre-already-rich-0bfe5227?mod=mw_rss_topstories",
@@ -2245,6 +2193,31 @@
         "product design economics"
       ],
       "highlight": "Retail investors in the same branded vehicles pay 20\u201340 bps more in annual fees and receive minimal tax-loss harvesting, making the accounts a wealth transfer mechanism to advisors, not clients.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "b8bbc47b9782",
+    "title": "OpenAI's Plans For Its New ChatGPT Superapp",
+    "url": "https://www.bigtechnology.com/p/openais-plans-for-its-new-chatgpt",
+    "source": "Big Technology (Alex Kantrowitz)",
+    "section": "Learn",
+    "date": "2026-07-10T20:16:33+00:00",
+    "summary_raw": "OpenAI's Codex and ChatGPT app lead Andrew Ambrosino talks to Big Technology about the product and its roadmap.",
+    "summary_ai": {
+      "digest": "OpenAI is building a superapp around ChatGPT, with product lead Andrew Ambrosino discussing the roadmap for integrating tools, plugins, and enterprise capabilities.",
+      "summary_long": "OpenAI is extending ChatGPT beyond a chat interface into a broader platform\u2014a 'superapp' strategy that consolidates multiple use cases (coding, image generation, document analysis, voice) within a single product. The ambition is to create a sticky, multi-function destination rather than a single-purpose tool. This reflects a shift in AI product design: moving from novelty chatbot to embedded assistant across workflows. For financial services, this raises questions about AI adoption pathways in banking, wealth management, and fintech\u2014where multi-function platforms often win over point solutions. The timing matters: as competitors (Google, Microsoft, Anthropic) build similar stacks, OpenAI's distribution advantage and product velocity become deal-relevant.",
+      "talking_points": [
+        "OpenAI is betting on superapp consolidation\u2014integrating code, image, document, and voice capabilities into one ChatGPT hub\u2014not fragmented single-purpose APIs.",
+        "In financial services, superapp strategy mirrors wealth-tech consolidation (RIA platforms, digital onboarding suites)\u2014the player who owns the workflow wins customer switching costs.",
+        "If OpenAI succeeds, it reshapes fintech M&A logic: startups targeting narrow AI use cases (document review, KYC, portfolio analysis) face margin pressure from free or bundled superapp features."
+      ],
+      "topics": [
+        "AI-product-strategy",
+        "superapp-consolidation",
+        "fintech-disruption"
+      ],
+      "highlight": "OpenAI's superapp model\u2014bundling chat, code, image, document, and voice\u2014mirrors the RIA/wealth-tech playbook where control of the workflow trumps feature parity.",
       "relevance": 6
     }
   },
@@ -2474,32 +2447,6 @@
         "healthcare-costs"
       ],
       "highlight": "Medicare mistakes create permanent surcharges and coverage gaps\u2014retirees can't easily correct bad enrollment decisions once locked in.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "59b2769c25f3",
-    "title": "Bayer sells stake in contraceptives business to Apollo in \u20ac3bn financing deal",
-    "url": "https://www.ft.com/content/2ac9c03f-f810-4514-a11e-5802e86c0d12",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T08:47:49+00:00",
-    "summary_raw": "Sale will help German pharmaceuticals group to bolster its balance sheet after years of litigation over Roundup weedkiller",
-    "summary_ai": {
-      "digest": "Bayer is selling its contraceptives business to Apollo Global Management for \u20ac3bn, a move to shore up its balance sheet after years of Roundup litigation costs.",
-      "summary_long": "Bayer is divesting its contraceptives unit to Apollo Global Management in a \u20ac3bn financing transaction designed to strengthen the German pharma group's balance sheet. The sale comes as Bayer has faced billions in litigation settlements related to its Roundup weedkiller, pressuring capital and constraining strategic flexibility. Apollo's acquisition signals continued PE appetite for mature, cash-generative healthcare assets despite rising rates. For Bayer, the deal reduces leverage and frees capital for R&D or debt reduction. The contraceptives business is a stable, recurring-revenue franchise\u2014exactly the type of predictable cash flow PE buyers target in healthcare.",
-      "talking_points": [
-        "Bayer selling contraceptives unit to Apollo for \u20ac3bn to repair balance sheet damaged by Roundup settlements.",
-        "PE deploying into mature pharma assets with stable cash flows despite macro headwinds.",
-        "Signals continued willingness of GPs to hold defensive healthcare franchises through cycles."
-      ],
-      "topics": [
-        "pharma asset sales",
-        "PE healthcare deploym",
-        "balance-sheet repair",
-        "litigation legacy"
-      ],
-      "highlight": "\u20ac3bn divestiture of cash-generative contraceptives unit to PE buyer\u2014classic balance-sheet repair play in pharma post-litigation.",
       "relevance": 5
     }
   },
@@ -2811,32 +2758,6 @@
     }
   },
   {
-    "id": "ffca0ea80512",
-    "title": "SK Hynix\u2019s US shares jump 14% on Nasdaq debut",
-    "url": "https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T16:37:32+00:00",
-    "summary_raw": "South Korean memory chipmaker\u2019s US-listed stock price rose as high as $175 after pricing at $149",
-    "summary_ai": {
-      "digest": "SK Hynix raised $26.5B in its US market debut, the largest foreign company listing ever. The offering signals strong appetite for semiconductor supply-chain diversification amid US-China tech tensions.",
-      "summary_long": "SK Hynix, a major memory chipmaker, completed a $26.5B US listing\u2014exceeding the prior foreign listing record. The deal reflects structural demand from US institutional investors for semiconductor exposure outside China and strengthens the company's balance sheet for capex-heavy memory production. The timing capitalizes on elevated tech valuations and geopolitical de-risking of supply chains. For FIG, the deal signals robust capital markets appetite for large-scale, non-traditional issuers and may attract follow-on issuers seeking US equity access. The scale and success also underscores the enduring appeal of US equity markets for non-US corporates.",
-      "talking_points": [
-        "SK Hynix's $26.5B US listing breaks the foreign company record\u2014signals US investor appetite for semiconductor supply-chain diversification.",
-        "Timing reflects geopolitical de-risking demand and capex needs in a tight memory market; expect follow-on issuers from allied chip suppliers.",
-        "Capital markets liquidity and valuation multiples remain robust enough to absorb mega-IPOs, even outside traditional tech."
-      ],
-      "topics": [
-        "semiconductor-capex",
-        "US-IPO-market",
-        "supply-chain-geopolitics",
-        "capital-markets-liquidity"
-      ],
-      "highlight": "$26.5B\u2014the largest foreign company US listing ever\u2014signals structural investor appetite for semiconductor supply-chain de-risking.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "8af497d63398",
     "title": "The stock market looks pretty cheap based on future earnings expectations. Don't be fooled",
     "url": "https://www.cnbc.com/2026/07/10/the-stock-market-looks-pretty-cheap-based-on-future-earnings-expectations-dont-be-fooled.html",
@@ -2862,31 +2783,6 @@
     }
   },
   {
-    "id": "8c44064fd9af",
-    "title": "\u2018An American tragedy\u2019 in the making: The majority of small-business owners will retire in the next decade. What happens to their workers?",
-    "url": "https://www.marketwatch.com/story/half-of-small-business-owners-hope-to-sell-their-companies-and-retire-in-the-next-decade-what-happens-to-their-workers-a03ae979?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T18:28:00+00:00",
-    "summary_raw": "\u201cIt\u2019s a loss to the economy, to jobs, to decades of institutional knowledge when a business simply turns off the lights\u201d",
-    "summary_ai": {
-      "digest": "50% of small-business owners plan to exit within a decade; succession planning gaps risk job losses and community disruption.",
-      "summary_long": "A MarketWatch analysis notes that roughly half of U.S. small-business owners intend to sell or close their companies in the next 10 years, driven by aging ownership, burnout, and valuation tailwinds. The challenge: most lack formal succession or transition plans. When these exits occur without structured handoffs\u2014whether to family, employees, or external buyers\u2014workers face dislocation, wage pressure, or unemployment. The piece frames this as a macro risk to employment stability and local economies, particularly in regions dependent on family-owned manufacturing, retail, and service businesses.",
-      "talking_points": [
-        "50% of small-business owners targeting exit in next decade; most have no succession plan\u2014creates tail risk for undermanaged workforce transitions.",
-        "Unstructured exits (liquidation vs. sale vs. transfer) cascade into job losses; regional economies exposed where small business employment is concentrated.",
-        "Opportunity angle: platforms automating succession planning, employee buyouts, or small-business M&A could capture value in this transition wave."
-      ],
-      "topics": [
-        "small-business-succession",
-        "workforce-transition-risk",
-        "employment-macro"
-      ],
-      "highlight": "50% exit intent but sparse succession planning creates a decade-long employment dislocation risk that PE and fintech platforms can address.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "44023aa24bc6",
     "title": "Five Notable U.S. ETF Launches in The First Half of 2026",
     "url": "https://www.wealthmanagement.com/etfs/five-notable-u-s-etf-launches-in-the-first-half-of-2026",
@@ -2908,6 +2804,58 @@
         "product launches"
       ],
       "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "ffca0ea80512",
+    "title": "SK Hynix\u2019s US shares jump 13% on Nasdaq debut",
+    "url": "https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T20:23:24+00:00",
+    "summary_raw": "South Korean memory chipmaker\u2019s US-listed stock price rose as high as $177 after pricing at $149",
+    "summary_ai": {
+      "digest": "SK Hynix raised $26.5B in its US market debut, the largest foreign company listing ever. The offering signals strong appetite for semiconductor supply-chain diversification amid US-China tech tensions.",
+      "summary_long": "SK Hynix, a major memory chipmaker, completed a $26.5B US listing\u2014exceeding the prior foreign listing record. The deal reflects structural demand from US institutional investors for semiconductor exposure outside China and strengthens the company's balance sheet for capex-heavy memory production. The timing capitalizes on elevated tech valuations and geopolitical de-risking of supply chains. For FIG, the deal signals robust capital markets appetite for large-scale, non-traditional issuers and may attract follow-on issuers seeking US equity access. The scale and success also underscores the enduring appeal of US equity markets for non-US corporates.",
+      "talking_points": [
+        "SK Hynix's $26.5B US listing breaks the foreign company record\u2014signals US investor appetite for semiconductor supply-chain diversification.",
+        "Timing reflects geopolitical de-risking demand and capex needs in a tight memory market; expect follow-on issuers from allied chip suppliers.",
+        "Capital markets liquidity and valuation multiples remain robust enough to absorb mega-IPOs, even outside traditional tech."
+      ],
+      "topics": [
+        "semiconductor-capex",
+        "US-IPO-market",
+        "supply-chain-geopolitics",
+        "capital-markets-liquidity"
+      ],
+      "highlight": "$26.5B\u2014the largest foreign company US listing ever\u2014signals structural investor appetite for semiconductor supply-chain de-risking.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "863e677e34a5",
+    "title": "Oil Context Weekly (W28)",
+    "url": "https://www.commoditycontext.com/p/ocw28w26",
+    "source": "Commodity Context",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T20:28:15+00:00",
+    "summary_raw": "Crude prices jump, see largest weekly gain since mid-May as Iran&#8217;s attempt to control Hormuz shipping flows prompted another round of skirmishes that threatened a broader collapse of the MOU ceasefire",
+    "summary_ai": {
+      "digest": "Crude rallies on Iran\u2013Hormuz tension; largest weekly gain since mid-May signals geopolitical risk premium re-pricing.",
+      "summary_long": "Oil prices spiked this week amid escalating Iran\u2013Hormuz shipping friction, marking the biggest weekly move since mid-May. The tension reflects unraveling ceasefire conditions (MOU) and renewed threat of strait chokepoint disruption. For FIG, this matters: volatility in oil creates headwinds for energy credit quality, lifts funding costs for exploration and production clients, and can cascade into regional bank energy exposures. It also signals energy-linked structured products (autocallables, reverse floaters) will reprice and potentially trigger hedging flows.",
+      "talking_points": [
+        "Oil's sharpest weekly move since May on Iran\u2013Hormuz risk; geopolitical premium is live again.",
+        "Ceasefire (MOU) fraying \u2014 watch for downstream impact on energy sector financing and credit spreads.",
+        "Affects regional bank loan books, structured product vega, and potential FIG refinancing timelines for E&P clients."
+      ],
+      "topics": [
+        "geopolitical-risk",
+        "energy-credit",
+        "oil-volatility",
+        "structured-products"
+      ],
+      "highlight": "Iran\u2013Hormuz friction reigniting energy volatility; direct read-through to bank energy exposure repricing and structured product hedging flows.",
       "relevance": 5
     }
   },
@@ -3593,31 +3541,6 @@
     }
   },
   {
-    "id": "07521da78970",
-    "title": "The dot-com crash was a $5 trillion blip. Why the next financial crisis could hit 4 times harder.",
-    "url": "https://www.marketwatch.com/story/the-dot-com-crash-was-a-5-trillion-blip-why-the-next-financial-crisis-could-hit-4-times-harder-29f4aa57?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T17:32:00+00:00",
-    "summary_raw": "The next global financial crisis is already under way. Here is how it will unfold.",
-    "summary_ai": {
-      "digest": "MarketWatch argues the next financial crisis could destroy $20 trillion in value\u20144x the dot-com crash\u2014but offers only speculative unfolding, no mechanism or timeline.",
-      "summary_long": "The piece uses the dot-com bubble ($5T loss) as a baseline and projects a 4x larger crisis ahead, implying systemic financial instability. However, the excerpt and framing suggest clickbait catastrophizing rather than rigorous analysis of what would trigger or amplify such a crisis. For a FIG analyst, this lacks the specificity needed to act on\u2014no credit signals, no bank stress indicators, no regulatory catalyst, and no clear read-through to deal flow or financing conditions. The 'already under way' claim is undermined by the absence of concrete evidence or timeline.",
-      "talking_points": [
-        "Headline size ($20T) is designed to shock, but without causation or near-term triggers, it's noise rather than signal.",
-        "Comparing to dot-com (2000) ignores that banks today are better capitalized, stress tests are real, and circuit breakers exist.",
-        "If this were true, CDS spreads, funding costs, and equity volatility would be flashing red\u2014no indication they are."
-      ],
-      "topics": [
-        "macro-speculation",
-        "financial-crisis-risk",
-        "market-volatility"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
     "id": "75678120d99b",
     "title": "RAM Fever",
     "url": "https://www.generalist.com/p/generalist-intelligence-july-10",
@@ -3656,6 +3579,57 @@
         "retail-banking"
       ],
       "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "5bcb4e306de3",
+    "title": "Bezos-backed fusion start-up to become first to go public",
+    "url": "https://www.ft.com/content/1f0bdc93-5ee8-41d7-aaf8-11df73a9847c",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T19:57:18+00:00",
+    "summary_raw": "General Fusion\u2019s \u2018steampunk\u2019 approach to the technology is under scrutiny ahead of Nasdaq debut",
+    "summary_ai": {
+      "digest": "General Fusion, a Bezos-backed fusion energy company, is preparing for a Nasdaq IPO. The company's unconventional approach to fusion energy faces investor scrutiny as it moves toward public markets.",
+      "summary_long": "General Fusion, founded in 2002 and backed by Jeff Bezos's climate fund and other VCs, is moving toward a Nasdaq listing as the first pure-play fusion energy company to go public. The company uses a mechanically-driven 'steampunk' approach (pistons and hydraulics to compress plasma) rather than the laser or magnetic-confinement methods favored by competitors like Commonwealth Fusion or TAE Technologies. The IPO comes as venture capital interest in fusion has cooled after years of hype, and General Fusion's less-conventional technical pathway faces investor questions about engineering risk, timeline to commercialization, and capital efficiency. The public market debut will test whether institutional investors see fusion as a viable energy transition play or a speculative bet.",
+      "talking_points": [
+        "First fusion energy company to IPO, but on a mechanically-driven approach that diverges from industry consensus\u2014unusual technical bet in an already-speculative sector.",
+        "Bezos backing and VC pedigree signal strategic interest in fusion, but cooling venture sentiment and technical scrutiny suggest the IPO window is narrowing.",
+        "Fusion venture capital has recalibrated expectations; a public debut now raises questions about path to profitability and actual deployment timelines, not just lab results."
+      ],
+      "topics": [
+        "fusion-energy",
+        "clean-tech-ipo",
+        "venture-capital-exits",
+        "alternative-energy-infrastructure"
+      ],
+      "highlight": "First fusion company to IPO, but using a mechanically-driven 'steampunk' design that diverges from magnetic or laser consensus\u2014a technical bet investors will scrutinize heavily.",
+      "relevance": 3
+    }
+  },
+  {
+    "id": "026781641f3d",
+    "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
+    "url": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T21:11:00+00:00",
+    "summary_raw": "\u201cMy house shook violently from the wind.\u201d",
+    "summary_ai": {
+      "digest": "Homeowner disputes insurer's initial damage assessment after loss adjuster identifies $10,000 in previously undetected storm damage; raises questions about claim-processing accuracy and consumer recourse.",
+      "summary_long": "A homeowner reports that their insurer initially assessed minimal roof damage (a few missing tiles) following a storm, but an independent loss adjuster subsequently identified $10,000 in additional structural damage the original inspection missed. The discrepancy illustrates a common friction point in insurance claims: initial estimates by carrier adjusters may be incomplete, conservative, or rushed, while independent assessments often uncover latent or secondary damage. This dynamic affects claim payout timing, consumer trust, and downstream litigation risk for insurers. The piece implies systemic underestimation in first-pass assessments, which can delay claims and force policyholders to hire third-party adjusters\u2014adding cost and friction to the claims experience.",
+      "talking_points": [
+        "Initial insurer assessments may systematically underestimate storm damage, forcing policyholders to hire independent loss adjusters and creating friction in claims resolution.",
+        "The $10,000 gap between initial and adjuster findings suggests either inspection methodology gaps or economic incentives favoring conservative first estimates.",
+        "This pattern drives demand for loss-adjustment services and increases litigation/appeal rates, adding tail risk and operating cost for insurers."
+      ],
+      "topics": [
+        "insurance claims friction",
+        "loss adjustment methodology",
+        "consumer-insurer disputes"
+      ],
+      "highlight": "Independent loss adjusters uncovered $10,000 in damage missed by the insurer's initial assessment, exposing a systemic underestimation problem in first-pass claims evaluations.",
       "relevance": 3
     }
   },
@@ -3959,24 +3933,28 @@
     }
   },
   {
-    "id": "56bf15c9a34d",
-    "title": "AMD to Report Fiscal Second Quarter 2026 Financial Results",
-    "url": "https://www.globenewswire.com/news-release/2026/07/08/3324454/0/en/AMD-to-Report-Fiscal-Second-Quarter-2026-Financial-Results.html",
-    "source": "GlobeNewswire \u2014 Banking (press releases)",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-08T20:15:00+00:00",
-    "summary_raw": "<p align=\"left\">SANTA CLARA, Calif., July  08, 2026  (GLOBE NEWSWIRE) -- <a href=\"http://www.amd.com/\" rel=\"nofollow\" target=\"_blank\" title=\"AMD\">AMD</a> (NASDAQ: AMD) announced today that it will report fiscal second quarter 2026 financial results on Tuesday, Aug. 4, 2026, after the market close. Management will conduct a conference call to discuss these results at 5:00 p.m. ET / 2:00 p.m. PT. Interested parties are invited to listen to the webcast of the conference call via the AMD Investor Re",
+    "id": "b7845e3b059b",
+    "title": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
+    "url": "https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T21:30:00+00:00",
+    "summary_raw": "\u201cI\u2019m actually earning more each week than I ever have before.\u201d",
     "summary_ai": {
-      "digest": "AMD will report Q2 2026 earnings on August 4, 2026, with a management call at 5 p.m. ET.",
-      "summary_long": "AMD has announced its earnings report date and call timing for fiscal Q2 2026. This is a routine earnings calendar announcement with no deal, capital raise, regulatory action, or M&A implication. The company will present financial results and host a management discussion, but the press release contains no forward guidance, strategic update, or information relevant to FIG deal flow, bank financing, or capital markets activity.",
+      "digest": "73-year-old full-time worker asks whether continued earnings trigger taxation of Social Security benefits; MarketWatch tax-planning Q&A.",
+      "summary_long": "A reader reports earning more than ever at age 73 while collecting Social Security and wants to know if higher income will create an unexpected tax liability on benefits. The question flags a real planning issue: Social Security benefits become taxable when combined income (wages + half of benefits + other income) exceeds $25,000 for single filers or $32,000 for married couples filing jointly. For high earners still working past full retirement age, the interaction between wage income and benefit taxation can create surprises. The answer hinges on whether the reader's total combined income crosses the threshold, and if so, up to 85% of benefits can become taxable at ordinary income rates.",
       "talking_points": [
-        "Mark your calendar: AMD earnings on August 4 after market close."
+        "Social Security taxation is triggered at $25K combined income (single) or $32K (joint), not at benefit receipt alone.",
+        "Combined income includes wages, investment income, AND half of Social Security benefits\u2014so high earners working past FRA often don't realize the cumulative effect.",
+        "Up to 85% of benefits become taxable at ordinary rates once over the threshold; this can create a marginal tax rate spike that working retirees don't anticipate."
       ],
       "topics": [
-        "earnings-calendar"
+        "tax-planning",
+        "retirement-income",
+        "Social-Security"
       ],
-      "highlight": null,
-      "relevance": 1
+      "highlight": "For someone earning \"more each week than ever before\" at 73, the combined-income test\u2014not benefit amount\u2014determines tax exposure, and the math often shocks high-wage near-retirees.",
+      "relevance": 2
     }
   },
   {
@@ -4204,8 +4182,8 @@
     "date": "2026-07-10T15:06:53+00:00",
     "summary_raw": "Anyone who has watched an episode of &#8220;9-1-1: Nashville&#8221; could be forgiven for thinking the city is constantly beset by tornadoes that turn outdoor concerts into scenes of carnage and blow scooter-riding tourists onto the tops of water towers. That &#8230;",
     "summary_ai": {
-      "digest": "Nashville volunteers provide emergency communications during storms; no deal, regulatory, or capital angle identified.",
-      "summary_long": "This article profiles volunteer efforts in Nashville to relay emergency information during severe weather events, apparently inspired by or connected to the TV show '9-1-1: Nashville.' The piece focuses on community mobilization and public safety communications rather than insurance industry dynamics, underwriting, claims handling, or regulatory change. There is no discussion of insurer behavior, capital deployment, risk transfer, or market implications.",
+      "digest": "Insurance Journal profiles volunteer disaster-response efforts in Nashville during severe weather; no deal, regulatory, or capital announcement.",
+      "summary_long": "The article appears to focus on community volunteer coordination and public communication during storms in Nashville, drawing a comparison to dramatized TV portrayals. It does not discuss insurance market trends, claims volume, underwriting changes, carrier strategy, regulatory action, M&A, capital raises, or any financial-services business implication. It is human-interest content about disaster relief operations.",
       "talking_points": [],
       "topics": [],
       "highlight": null,
@@ -4283,13 +4261,10 @@
     "date": "2026-07-10T19:40:00+00:00",
     "summary_raw": "8 things I learned about travel expenses after a family tragedy",
     "summary_ai": {
-      "digest": "MarketWatch personal essay on travel expenses tied to a family tragedy; no data, market signal, or FIG relevance.",
-      "summary_long": "This is a lifestyle/personal-finance piece framed around lessons learned from a family emergency during travel. It offers generic advice on travel insurance, emergency funds, and planning\u2014topics with no connection to bank lending, credit conditions, capital markets, or the financial services sector. The article has no macro read-through, credit signal, or asset-pricing implication.",
+      "digest": "Personal essay on travel expense management framed around a family loss; no market signal, data, or FIG angle.",
+      "summary_long": "A MarketWatch columnist reflects on lessons learned about travel planning and budgeting following a family tragedy. The piece uses anecdotal experience to discuss travel insurance, expense tracking, and financial preparedness for trips. While presented as practical advice, the article lacks quantitative data, market context, or any signal relevant to financial institutions, credit conditions, or deal flow. It reads as lifestyle journalism rather than market intelligence.",
       "talking_points": [],
-      "topics": [
-        "lifestyle",
-        "personal-finance"
-      ],
+      "topics": [],
       "highlight": null,
       "relevance": 1
     }
@@ -4313,6 +4288,23 @@
         "tech-sector-momentum",
         "AI-infrastructure"
       ],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "98420f49eca6",
+    "title": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+    "url": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T21:12:00+00:00",
+    "summary_raw": "\u201cI have very little money, while my ex\u2019s financial statements show assets in the millions.\u201d",
+    "summary_ai": {
+      "digest": null,
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
       "highlight": null,
       "relevance": 1
     }
