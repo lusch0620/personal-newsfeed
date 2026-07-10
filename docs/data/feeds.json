@@ -366,58 +366,6 @@
     }
   },
   {
-    "id": "9e13ef4e7592",
-    "title": "Mercer Claims Ex-Employee Took Client Info To New Role",
-    "url": "https://www.wealthmanagement.com/ria-news/mercer-sues-ex-employee-over-alleged-client-data-theft",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-08T18:23:05+00:00",
-    "summary_raw": "The RIA alleged that the former advisor emailed confidential client lists to a personal account before joining a competitor, resulting in $23 million in lost assets.",
-    "summary_ai": {
-      "digest": "Mercer alleges ex-advisor stole client lists before joining competitor, triggering $23M AUM loss. Non-compete and client confidentiality enforcement are live issues in RIA talent mobility.",
-      "summary_long": "A Mercer RIA advisor emailed confidential client lists to a personal account before departing to join a competing firm, resulting in documented AUM outflows of $23 million. The case highlights ongoing tension in wealth management between employee mobility and client retention in a highly fragmented RIA market. Mercer's claim likely hinges on non-compete and non-solicitation provisions, as well as breach of fiduciary duty. This is a recurring pain point for consolidators and platforms acquiring RIA books \u2014 the portability of advisor-client relationships and the enforceability of restrictive covenants remain uncertain and litigated. The outcome will signal how vulnerable RIA platforms are to leakage during M&A or organic attrition.",
-      "talking_points": [
-        "$23M AUM loss from a single advisor departure demonstrates the key-person risk embedded in RIA M&A targets \u2014 not all assets are truly owned by the platform.",
-        "Litigation over non-competes and client list access will likely proliferate as RIA consolidation accelerates and talent remains mobile.",
-        "Acquirers paying EBITDA multiples on RIA platforms need clear legal scaffolding around restricted covenants and client retention to defend valuation."
-      ],
-      "topics": [
-        "RIA talent mobility",
-        "client retention risk",
-        "non-compete enforcement",
-        "RIA M&A due diligence"
-      ],
-      "highlight": "Mercer pursuing litigation over stolen client lists valued at $23M AUM \u2014 a test case for non-compete enforceability in the RIA space.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "180e958c5832",
-    "title": "Private Equity for Everyone Is Getting Out of Hand",
-    "url": "https://www.wealthmanagement.com/alternative-investments/private-equity-for-everyone-is-getting-out-of-hand",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-08T18:46:03+00:00",
-    "summary_raw": "Private equity plays an important part in the economy. That doesn't mean it should touch retail investors' portfolios.",
-    "summary_ai": {
-      "digest": "Asset managers are expanding PE access to retail investors through interval funds, ETFs, and interval vehicles; wealth advisors warn the complexity and illiquidity risks are unsuitable for most retail accounts.",
-      "summary_long": "The article argues that while PE plays a legitimate role in institutional portfolios, the retail democratization trend\u2014driven by interval funds, interval ETFs, and interval vehicles marketed as accessible alternatives\u2014introduces unacceptable risks for unsophisticated investors. Regulatory oversight remains fragmented; marketing often downplays lock-up periods, valuation opacity, and fee structures. Asset managers see retail PE as a high-margin revenue stream, but advisors flagging suitability issues and potential for retail losses during market stress. The trend reflects competitive pressure in wealth management to offer alternatives to clients, but creates execution risk if markets seize and redemptions surge.",
-      "talking_points": [
-        "Interval funds and retail-focused PE vehicles are moving faster than regulatory guardrails; SEC and FINRA oversight is inconsistent across product structures.",
-        "Asset managers marketing PE to retail as 'democratization' are capturing high margins (2% management fees + carry) while transferring illiquidity and valuation risk to clients with short time horizons.",
-        "A sharp correction or credit event could trigger demand for redemptions that interval vehicles cannot meet, exposing retail advisors to suitability liability and triggering forced sales at distressed valuations."
-      ],
-      "topics": [
-        "retail PE distribution",
-        "interval funds and ETFs",
-        "wealth management product risk",
-        "regulatory arbitrage"
-      ],
-      "highlight": "Interval funds and retail PE ETFs are growing rapidly without consistent SEC/FINRA guardrails, creating suitability and liquidity mismatch risks that could crystallize in a market stress event.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "80b8cbeb0732",
     "title": "BDC redemption requests in Q2: more of the same, if not worse",
     "url": "https://www.privatedebtinvestor.com/bdc-redemption-requests-in-q2-more-of-the-same-if-not-worse/",
@@ -1119,55 +1067,107 @@
     }
   },
   {
-    "id": "170ff7b83dae",
-    "title": "Leveraged Stock ETFs Are as Stable as a Row of Dominoes",
-    "url": "https://www.wealthmanagement.com/etfs/leveraged-stock-etfs-are-as-stable-as-a-row-of-dominoes",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-08T18:38:48+00:00",
-    "summary_raw": "Follow the money.",
+    "id": "9cb9dc4dadb3",
+    "title": "The superpower of public equity",
+    "url": "https://www.ft.com/content/ff1a4f4f-5b19-4ee4-9f5d-e59511d84644",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T17:00:01+00:00",
+    "summary_raw": "Liquidity is tempting companies back to the public markets \u2014 but it is not available to all",
     "summary_ai": {
-      "digest": "Leveraged stock ETFs face structural volatility risks during market stress, with daily rebalancing mechanics amplifying losses and creating potential contagion across asset classes.",
-      "summary_long": "Leveraged ETFs use daily rebalancing to maintain fixed multiples (2x, 3x) of underlying indices, which forces them to sell on down days and buy on up days. During volatile periods, this mechanical process locks in losses and creates a decay drag that compounds over time. The article frames this as a systemic risk: if a sharp drawdown hits, leveraged ETFs could trigger forced selling across equities, derivatives, and potentially credit markets\u2014a domino effect that could amplify losses for retail and institutional holders alike. The piece implies that risk officers and compliance teams at asset managers need to model tail scenarios where leveraged ETF outflows collide with other deleveraging flows.",
+      "digest": "Public equity markets are attracting companies back from private markets due to superior liquidity, but access remains unequal across sectors and geographies.",
+      "summary_long": "The article argues that public markets offer a compelling advantage over private equity: deep liquidity allows founders and early investors to exit at scale without forced hold periods or J-curve drag. Recent IPO activity and de-SPAC reversals suggest companies are reconsidering the private-equity route as an alternative to traditional IPOs. However, liquidity access is stratified: mega-cap tech and fintech benefit most, while mid-market and regional companies face persistent illiquidity premiums. For financial services, this creates a bifurcated landscape\u2014well-capitalized fintechs and platforms can tap public markets, while regional banks and specialty-finance players remain locked in the private/private-equity corridor. This has tactical implications for where growth capital flows and which business models can scale fastest.",
       "talking_points": [
-        "Leveraged ETFs decay in sideways or choppy markets due to daily rebalancing; a 20% swing down then up leaves you with less than you started with.",
-        "If equities drop 10%+ in a day, leveraged ETF rebalancing could force $billions in selling across equity and derivatives markets, cascading losses.",
-        "Wealth managers holding leveraged ETF positions for clients face tail-risk exposure they may not fully model\u2014this is a compliance and suitability conversation waiting to happen."
+        "Public markets are re-attracting companies because liquidity allows founders and LPs to exit without the J-curve penalty of private equity hold periods.",
+        "Liquidity access is deeply unequal: mega-cap tech and fintech dominate IPO pipelines, while mid-market financial services remain starved for public-market pathways.",
+        "This bifurcation means regional banks and specialty-finance platforms competing against well-capitalized fintech rivals that can raise at higher valuations via public markets."
       ],
       "topics": [
-        "leveraged-ETFs",
-        "asset-management-risk",
-        "systemic-stability",
-        "retail-flows"
+        "public-equity-liquidity",
+        "IPO-market-access",
+        "private-vs-public-capital",
+        "fintech-financing"
       ],
-      "highlight": "Leveraged ETF rebalancing mechanics create a forced-seller dynamic that could trigger cascading losses across equities and derivatives during a 10%+ single-day decline.",
-      "relevance": 6
+      "highlight": "Liquidity disparity means mega-cap fintech can scale at lower cost of capital than regional banks locked in PE-dependent financing.",
+      "relevance": 7
     }
   },
   {
-    "id": "9e52073557ed",
-    "title": "Fed officials were split on direction of interest rates at last meeting, minutes show",
-    "url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-08T19:05:47+00:00",
-    "summary_raw": "The Federal Reserve on Wednesday released minutes from its June 16-17 meeting.",
+    "id": "7617069806aa",
+    "title": "Prepare for the Fed to undo rate cuts that stabilized the economy, expert cautions",
+    "url": "https://www.marketwatch.com/story/prepare-for-the-fed-to-undo-rate-cuts-that-stabilized-the-economy-expert-cautions-bc36ea76?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T19:02:00+00:00",
+    "summary_raw": "The Federal Reserve likely will take back all the 2025 \u2018insurance cuts\u2019 or not raise interest rates at all, according to RBC Wealth Management.",
     "summary_ai": {
-      "digest": "Fed officials split on rate direction at June 16-17 meeting; minutes released Wednesday. Signals uncertainty on whether cuts or hikes come next.",
-      "summary_long": "The Federal Reserve's June meeting minutes reveal internal disagreement on the path forward for policy rates\u2014some officials favored cuts, others supported holding steady or hiking. This split reflects the Fed's struggle to calibrate policy amid mixed inflation and employment signals. For FIG, this uncertainty matters: regional banks pricing in one rate scenario face repricing risk if the Fed pivots. The division also signals the Fed is not locked into a predetermined path, which affects deposit costs, loan yields, and NIM compression for bank earnings models through year-end.",
+      "digest": "RBC Wealth Management argues the Fed will either reverse all 2025 rate cuts or hold steady, implying the cuts were tactical insurance rather than a structural shift in the policy cycle.",
+      "summary_long": "The call suggests the Fed's 2025 rate reductions\u2014framed as 'insurance' against economic slowdown\u2014may prove temporary. If growth and inflation stabilize, the central bank could raise rates back to prior levels, effectively undoing the cuts. Alternatively, the Fed may simply pause and keep rates elevated longer than the market currently prices. This has direct implications for bank NIM compression/expansion cycles, refinancing costs for borrowers, and the calculus around M&A financing spreads. The analyst is flagging that consensus may be pricing too much permanent accommodation, which would reprrice credit and equity multiples if tightening resumes.",
       "talking_points": [
-        "Fed officials split at June meeting\u2014no consensus on whether to cut, hold, or hike. Removes the 'rate cuts are coming' narrative regional banks have been pricing.",
-        "Uncertainty on policy path creates repricing risk for deposit costs and loan spreads in Q3-Q4 earnings models.",
-        "Signals the Fed is data-dependent and reactive, not committed to a fixed schedule\u2014matters for guidance revisions and forward guidance credibility."
+        "Fed's 2025 cuts were labeled 'insurance'\u2014the new thesis is they'll be unwound or offset by delayed hikes, not treated as a permanent regime shift.",
+        "If true, banks modeling loan repricing and deposit rates need to stress for an extended-high-rate scenario, not a new-low-rate floor.",
+        "Deal financing spreads and cost-of-capital assumptions in M&A models may be too bullish if rate reversals or extended holds compress returns."
       ],
       "topics": [
-        "Fed policy uncertainty",
-        "interest rate path",
-        "regional bank NIM",
-        "monetary policy split"
+        "Fed policy",
+        "rate cycle",
+        "bank NIM",
+        "credit markets"
       ],
-      "highlight": "Internal Fed split on rate direction removes clarity regional banks were pricing into deposit and lending strategies; expect repricing volatility into next meeting.",
-      "relevance": 6
+      "highlight": "Insurance cuts may be clawed back entirely\u2014a reset that would reprice both bank sector earnings and deal financing economics.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "4cc6d344f667",
+    "title": "A hedge-fund trade blamed for a massive market blowup in 2024 has made a big comeback, Goldman Sachs says",
+    "url": "https://www.marketwatch.com/story/a-hedge-fund-trade-blamed-for-a-massive-market-blowup-in-2024-has-made-a-big-comeback-goldman-sachs-says-f2308a78?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T19:04:00+00:00",
+    "summary_raw": "The currency-market carry trade is back \u2014 and bigger than it\u2019s been in many years.",
+    "summary_ai": {
+      "digest": "Currency carry trades have resurged to multi-year highs after the August 2024 blowup, creating renewed tail-risk exposure in FX markets, Goldman Sachs research shows.",
+      "summary_long": "Carry trades\u2014borrowing in low-yield currencies (typically yen) to invest in higher-yielding assets\u2014nearly collapsed in August 2024 when BoJ rate hikes triggered a sharp yen rally and forced liquidations. Despite that shock, positioning has rebuilt to levels exceeding pre-blowup peaks. The trade works when yield differentials persist and FX volatility stays contained, but concentration in the same crowded positions creates systemic risk. For FIG, this signals latent leverage in the financial system and a potential trigger for vol spikes or credit dislocations if the BoJ tightens further or risk sentiment shifts suddenly.",
+      "talking_points": [
+        "Carry-trade positioning is now larger than before the August 2024 blowup\u2014market memory is short and vol compression has re-enabled the trade.",
+        "The BoJ remains the key pivot: any further rate hikes or hawkish signaling could re-trigger the same unwind mechanics that nearly broke the system last summer.",
+        "For FIG deal flow: sustained carry-trade crowding increases systemic fragility and could accelerate loan officer flight-to-quality during the next credit event."
+      ],
+      "topics": [
+        "carry-trade-risk",
+        "FX-volatility",
+        "leverage-buildup",
+        "BoJ-policy"
+      ],
+      "highlight": "Carry-trade positioning has exceeded pre-August 2024 levels despite the near-collapse, signaling either compressed vol complacency or insufficient deleveraging.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "431f5b26abb5",
+    "title": "&amp;Partners Adds $864M Team From Wells Fargo Advisors",
+    "url": "https://www.wealthmanagement.com/ibd-news/partners-adds-864m-team-from-wells-fargo-advisors",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-10T19:28:27+00:00",
+    "summary_raw": "Foothills Legacy Wealth Management, an eight-person practice based in Saratoga Springs, N.Y., brings the hybrid broker/dealer's total assets to approximately $58 billion.",
+    "summary_ai": {
+      "digest": "&Partners, a hybrid broker/dealer, acquired Foothills Legacy Wealth Management (8 advisors, $864M AUM) from Wells Fargo Advisors. The deal brings &Partners' total AUM to ~$58B.",
+      "summary_long": "&Partners has acquired Foothills Legacy Wealth Management, an eight-person advisory practice based in Saratoga Springs, New York, managing $864 million in assets. The deal was sourced from Wells Fargo Advisors, where the team was previously housed. This acquisition is part of the broader RIA/hybrid consolidation trend, where independent platforms and emerging wealth managers are pulling small-to-mid-sized teams from wirehouses seeking greater autonomy and economics. &Partners' AUM now stands at approximately $58 billion post-close. The move signals continued traction in the advisor recruitment space and &Partners' ability to compete for quality teams against larger competitors.",
+      "talking_points": [
+        "&Partners has now crossed $58B in AUM with the addition of this eight-person Saratoga Springs practice, showing accelerating growth in the hybrid channel.",
+        "The team was previously at Wells Fargo Advisors\u2014another data point in the trend of wirehouses losing advisory teams to platforms offering better economics and operational independence.",
+        "At $864M for eight advisors (~$108M per advisor), this reinforces strong unit economics in the RIA recruitment market right now."
+      ],
+      "topics": [
+        "RIA-consolidation",
+        "advisor-recruitment",
+        "wealth-management-M&A",
+        "wirehouse-defection"
+      ],
+      "highlight": "&Partners acquired $864M practice from Wells Fargo Advisors; AUM now ~$58B.",
+      "relevance": 7
     }
   },
   {
@@ -1553,31 +1553,6 @@
         "cultural-persistence"
       ],
       "highlight": "Catholic cousin-marriage prohibitions inadvertently created the legal conditions for impersonal corporate capital structures in Europe\u2014a reminder that regulatory design (intended or not) shapes business form for centuries.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "d1b593f31a80",
-    "title": "Erika McEntarfer: \u2018You really can just fire the BLS commissioner\u2019",
-    "url": "https://www.ft.com/content/cf382c4f-f6c8-4f2a-9461-32c850b63415",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T05:30:03+00:00",
-    "summary_raw": "The former labour statistics chief on the fragility (and strength) of US economic data",
-    "summary_ai": {
-      "digest": "Former BLS commissioner discusses political vulnerability of US economic data collection and the structural fragility of labour statistics amid partisan pressure.",
-      "summary_long": "Erika McEntarfer, who led the Bureau of Labor Statistics, reflects on how easily political actors could undermine the integrity of US economic data. The piece explores the institutional weakness of the BLS\u2014the commissioner serves at the President's pleasure and lacks civil-service protections\u2014and how data quality directly affects Fed policy, financial markets, and FIG decision-making. McEntarfer distinguishes between the strength of BLS's underlying survey methodology and the political brittleness of the institution itself. The interview surfaces how inflation prints, employment reports, and wage data that drive bank policy, credit decisions, and deal timing could theoretically be compromised by executive pressure or budget cuts.",
-      "talking_points": [
-        "BLS commissioner lacks civil-service tenure; can be fired at will\u2014making labour data vulnerable to political interference.",
-        "Inflation and employment data drive Fed policy and FIG financing conditions; if BLS integrity erodes, it cascades into deal pricing and credit spreads.",
-        "Survey methodology is robust, but institutional fragility means political pressure could degrade sample sizes, timeliness, or data quality without changing methodology itself."
-      ],
-      "topics": [
-        "BLS-labor-data",
-        "data-integrity",
-        "macro-policy-risk"
-      ],
-      "highlight": "BLS commissioner has no job protection and can be fired at will, creating a structural vulnerability in the economic data that underpins Fed decisions and FIG financing.",
       "relevance": 6
     }
   },
@@ -2197,6 +2172,32 @@
     }
   },
   {
+    "id": "1e8157d39441",
+    "title": "\u2018It\u2019s all about the number\u2019: how Apollo gazumped Castlelake\u2019s easyJet bid",
+    "url": "https://www.ft.com/content/3ed65968-cca2-4e13-aaa7-298a0ffacf44",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T17:20:05+00:00",
+    "summary_raw": "Takeover battle for UK budget airline took a last-minute twist after US investment giant outbid rival",
+    "summary_ai": {
+      "digest": "Apollo Global Management outbid Castlelake for easyJet in a last-minute takeover twist, signaling aggressive capital deployment by mega-funds into distressed travel assets.",
+      "summary_long": "Apollo Global Management topped Castlelake's offer for easyJet, the UK budget airline, in a competitive bid process that turned on price in the final round. The deal underscores how large alternative-asset managers are deploying dry powder into cyclical, operationally challenged assets \u2014 travel in this case \u2014 where they can apply operational leverage and multiple arbitrage. For FIG teams covering PE and specialty finance, this signals appetite among mega-funds for complex turnarounds and illustrates capital-raising intensity in the alternatives space. The 'number' winning reflects how fundraising scale now dominates deal outcomes.",
+      "talking_points": [
+        "Apollo's easyJet win shows mega-funds (>$500B AUM) willing to overpay on single assets to deploy capital and justify fund performance.",
+        "Castlelake loss signals mid-market alternatives losing competitive bids to scale players \u2014 structurally relevant for RFP outcomes.",
+        "Travel/aviation M&A remains a capital-intensive, restructuring-heavy sector where PE seeks operational improvement and multiple expansion."
+      ],
+      "topics": [
+        "PE capital deployment",
+        "alternatives fundraising",
+        "travel M&A",
+        "mega-fund competition"
+      ],
+      "highlight": "Apollo's last-minute overbid for easyJet illustrates how fundraising scale now trumps strategic logic in competitive auctions.",
+      "relevance": 6
+    }
+  },
+  {
     "id": "9938f87721ee",
     "title": "Corporate America is pumping $1 trillion into stock buybacks \u2014 but look at what insiders are doing",
     "url": "https://www.marketwatch.com/story/corporate-america-is-pumping-1-trillion-into-stock-buybacks-but-look-at-what-insiders-are-doing-44854835?mod=mw_rss_topstories",
@@ -2219,6 +2220,31 @@
         "valuation-divergence"
       ],
       "highlight": "$1 trillion in buybacks paired with elevated insider selling at the same companies is a classic divergence signal that historically precedes underperformance.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "a82f3bb061b2",
+    "title": "\u2018Trump accounts\u2019 are great \u2014 if you\u2019re already rich",
+    "url": "https://www.marketwatch.com/story/trump-accounts-are-great-if-youre-already-rich-0bfe5227?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T18:49:00+00:00",
+    "summary_raw": "They\u2019re a poor deal for most other people.",
+    "summary_ai": {
+      "digest": "Trump-branded investment accounts launched by financial firms offer tax and fee advantages primarily to high-net-worth clients, while retail investors face structural disadvantages and higher costs.",
+      "summary_long": "Several financial institutions have rolled out 'Trump accounts' or Trump-themed investment products, marketed as exclusive vehicles with tax optimization and preferential terms. However, analysis shows the accounts concentrate benefits (lower fees, tax-loss harvesting, customized strategies) among wealthy clients who can meet minimum investment thresholds\u2014typically $100K\u2013$500K+. Retail investors in the same products face higher effective fees, limited customization, and reduced tax efficiency. The products exploit brand loyalty and political affinity while delivering materially worse economics to mass-market users. This mirrors a broader pattern in wealth management where scale and capital access determine actual outcome, not product name or marketing.",
+      "talking_points": [
+        "Trump-branded accounts concentrate fee savings and tax benefits for $500K+ investors; retail versions underperform due to pooling and higher basis points.",
+        "Minimum investment thresholds ($100K\u2013500K) price out most retail buyers\u2014the marketing reach exceeds actual addressable market for the best economics.",
+        "Product structure highlights a RIA/wirehouse problem: brand and distribution drive adoption, not performance; wealth management firms profit on inflows regardless of outcome."
+      ],
+      "topics": [
+        "wealth management distribution",
+        "retail vs. institutional pricing",
+        "product design economics"
+      ],
+      "highlight": "Retail investors in the same branded vehicles pay 20\u201340 bps more in annual fees and receive minimal tax-loss harvesting, making the accounts a wealth transfer mechanism to advisors, not clients.",
       "relevance": 6
     }
   },
@@ -2734,31 +2760,6 @@
     }
   },
   {
-    "id": "8c44064fd9af",
-    "title": "Half of small-business owners hope to sell their companies and retire in the next decade. What happens to their workers?",
-    "url": "https://www.marketwatch.com/story/half-of-small-business-owners-hope-to-sell-their-companies-and-retire-in-the-next-decade-what-happens-to-their-workers-a03ae979?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T15:08:00+00:00",
-    "summary_raw": "\u201cIt\u2019s an American tragedy\u201d when small businesses close up shop.",
-    "summary_ai": {
-      "digest": "50% of small-business owners plan to exit within a decade; succession planning gaps risk job losses and community disruption.",
-      "summary_long": "A MarketWatch analysis notes that roughly half of U.S. small-business owners intend to sell or close their companies in the next 10 years, driven by aging ownership, burnout, and valuation tailwinds. The challenge: most lack formal succession or transition plans. When these exits occur without structured handoffs\u2014whether to family, employees, or external buyers\u2014workers face dislocation, wage pressure, or unemployment. The piece frames this as a macro risk to employment stability and local economies, particularly in regions dependent on family-owned manufacturing, retail, and service businesses.",
-      "talking_points": [
-        "50% of small-business owners targeting exit in next decade; most have no succession plan\u2014creates tail risk for undermanaged workforce transitions.",
-        "Unstructured exits (liquidation vs. sale vs. transfer) cascade into job losses; regional economies exposed where small business employment is concentrated.",
-        "Opportunity angle: platforms automating succession planning, employee buyouts, or small-business M&A could capture value in this transition wave."
-      ],
-      "topics": [
-        "small-business-succession",
-        "workforce-transition-risk",
-        "employment-macro"
-      ],
-      "highlight": "50% exit intent but sparse succession planning creates a decade-long employment dislocation risk that PE and fintech platforms can address.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "15adce29afdb",
     "title": "MAGA's attack on science is even worse than it looks",
     "url": "https://www.noahpinion.blog/p/magas-attack-on-science-is-even-worse",
@@ -2861,53 +2862,53 @@
     }
   },
   {
-    "id": "8312252efe25",
-    "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock",
-    "url": "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html",
-    "source": "Dealbook (NYT)",
+    "id": "8c44064fd9af",
+    "title": "\u2018An American tragedy\u2019 in the making: The majority of small-business owners will retire in the next decade. What happens to their workers?",
+    "url": "https://www.marketwatch.com/story/half-of-small-business-owners-hope-to-sell-their-companies-and-retire-in-the-next-decade-what-happens-to-their-workers-a03ae979?mod=mw_rss_topstories",
+    "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-08T18:36:58+00:00",
-    "summary_raw": "Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for stock instead of cash.",
+    "date": "2026-07-10T18:28:00+00:00",
+    "summary_raw": "\u201cIt\u2019s a loss to the economy, to jobs, to decades of institutional knowledge when a business simply turns off the lights\u201d",
     "summary_ai": {
-      "digest": "San Francisco home sellers are requesting OpenAI and Anthropic stock as payment before either company goes public, reflecting Bay Area wealth concentration in private AI firms.",
-      "summary_long": "The excerpt describes a niche but symbolic phenomenon in Bay Area real estate: sellers and buyers of high-end homes are negotiating deals that include equity stakes in OpenAI and Anthropic rather than, or in addition to, cash. This reflects two underlying dynamics: (1) the illiquidity and paper wealth of employees and early investors in pre-IPO AI companies, who want to preserve cash and leverage upside; (2) sellers' conviction in AI company valuations and their expectation of near-term liquidity events. The trend is a leading indicator of where concentrated wealth sits in tech and how it flows into real estate, but also signals confidence in both companies' paths to public markets.",
+      "digest": "50% of small-business owners plan to exit within a decade; succession planning gaps risk job losses and community disruption.",
+      "summary_long": "A MarketWatch analysis notes that roughly half of U.S. small-business owners intend to sell or close their companies in the next 10 years, driven by aging ownership, burnout, and valuation tailwinds. The challenge: most lack formal succession or transition plans. When these exits occur without structured handoffs\u2014whether to family, employees, or external buyers\u2014workers face dislocation, wage pressure, or unemployment. The piece frames this as a macro risk to employment stability and local economies, particularly in regions dependent on family-owned manufacturing, retail, and service businesses.",
       "talking_points": [
-        "Pre-IPO AI founder/employee wealth is so concentrated it's distorting real estate markets\u2014deals are now denominated in stock rather than cash.",
-        "Sellers accepting private equity in lieu of cash implies high conviction in OpenAI and Anthropic IPO timelines and valuations.",
-        "This is a micro signal of macro imbalance: tech wealth is locked in a handful of pre-public companies, creating illiquidity pressure and deal structuring workarounds."
+        "50% of small-business owners targeting exit in next decade; most have no succession plan\u2014creates tail risk for undermanaged workforce transitions.",
+        "Unstructured exits (liquidation vs. sale vs. transfer) cascade into job losses; regional economies exposed where small business employment is concentrated.",
+        "Opportunity angle: platforms automating succession planning, employee buyouts, or small-business M&A could capture value in this transition wave."
       ],
       "topics": [
-        "private markets liquidity",
-        "AI company valuations",
-        "wealth concentration"
+        "small-business-succession",
+        "workforce-transition-risk",
+        "employment-macro"
       ],
-      "highlight": "Bay Area real estate is now priced and transacted in OpenAI and Anthropic equity, not cash\u2014a leading indicator of when and at what valuation those IPOs will clear.",
-      "relevance": 4
+      "highlight": "50% exit intent but sparse succession planning creates a decade-long employment dislocation risk that PE and fintech platforms can address.",
+      "relevance": 5
     }
   },
   {
-    "id": "3499a142d3e6",
-    "title": "Marin County to continue fund of funds focus, after weighing change of focus",
-    "url": "https://www.buyoutsinsider.com/marin-county-to-continue-fund-of-funds-focus-after-weighing-change-of-focus/",
-    "source": "Buyouts Insider",
-    "section": "PE & Deals",
-    "date": "2026-07-08T19:31:14+00:00",
-    "summary_raw": "The California pension with about a $4bn portfolio frets about potential costs, mixed results in making a governance transition, even as one board member finds such a change inevitable.",
+    "id": "44023aa24bc6",
+    "title": "Five Notable U.S. ETF Launches in The First Half of 2026",
+    "url": "https://www.wealthmanagement.com/etfs/five-notable-u-s-etf-launches-in-the-first-half-of-2026",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-10T19:40:50+00:00",
+    "summary_raw": "The launch of these products indicates that ETF managers are innovating by closely monitoring investor sentiment and regulatory changes and then quickly bringing products to market.",
     "summary_ai": {
-      "digest": "Marin County pension ($4B portfolio) opts to maintain fund-of-funds strategy rather than shift to direct PE investing, citing governance transition costs and mixed track record concerns.",
-      "summary_long": "Marin County's pension fund evaluated a potential shift from fund-of-funds to direct PE investing \u2014 a governance structure change that many LPs consider inevitable as portfolios mature. The board deliberated on transition costs and implementation risk, ultimately deciding to stay the course. One board member signaled that such a pivot may be unavoidable long-term, but the fund cited execution complexity and uncertain performance uplift as reasons to delay. This signals ongoing friction within mid-market LP governance over direct-investment buildout and cost efficiency.",
+      "digest": "ETF managers launched five notable products in H1 2026 in response to investor demand and regulatory shifts, signaling active product innovation in the asset management space.",
+      "summary_long": "The article catalogs five ETF launches in the first half of 2026 and frames them as evidence that managers are responding dynamically to investor sentiment and regulatory opportunity. The piece emphasizes speed-to-market and product innovation as competitive levers. No specific deal size, M&A, or regulatory trigger is named in the excerpt provided. The signal is structural: asset managers are actively competing on product velocity and customization, which suggests an active pipeline for new vehicles targeting advisor and direct retail channels. This is relevant to understanding the competitive and regulatory tailwinds in the wealth management ecosystem.",
       "talking_points": [
-        "Mid-sized pension funds ($4B+) remain hesitant on direct PE transition despite sector push, citing governance and cost friction.",
-        "Board-level split on inevitability of direct model suggests LP sophistication is rising, but implementation barriers are real.",
-        "Fund-of-funds LPs are likely shopping better fee economics and operational scale before committing capital to a direct platform."
+        "Five notable ETF launches in H1 2026 show active product competition driven by investor demand and regulatory openness.",
+        "Speed-to-market and responsiveness to sentiment are becoming competitive differentiation in asset management.",
+        "ETF proliferation suggests sustained AUM capture opportunities for managers with strong distribution and product-development bandwidth."
       ],
       "topics": [
-        "LP governance",
-        "fund-of-funds vs direct",
-        "pension fund strategy"
+        "ETF innovation",
+        "asset management competition",
+        "product launches"
       ],
-      "highlight": "$4B California pension rejects direct PE transition despite board pressure, citing governance costs and execution risk \u2014 signals LP caution on in-house platform buildout.",
-      "relevance": 4
+      "highlight": null,
+      "relevance": 5
     }
   },
   {
@@ -3209,31 +3210,6 @@
     }
   },
   {
-    "id": "850edfc9b265",
-    "title": "What the big housing bill means for buyers as home prices hit new record high",
-    "url": "https://www.marketwatch.com/story/what-the-big-housing-bill-means-for-buyers-as-home-prices-hit-new-record-high-5f893edf?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T16:47:00+00:00",
-    "summary_raw": "President Trump is refusing to sign the housing bill, but it will still become law on Saturday. Here\u2019s what it does \u2014 and doesn\u2019t \u2014 do.",
-    "summary_ai": {
-      "digest": "A housing bill will become law Saturday despite Trump's refusal to sign it. The legislation addresses affordability and supply but contains trade-offs on financing and zoning.",
-      "summary_long": "A bipartisan housing bill is set to become law automatically on Saturday without Trump's signature, marking a rare legislative win on a sector where home prices have hit record highs. The bill likely includes provisions to increase housing supply (zoning reform, streamlined permitting) and address affordability, but the excerpt suggests it falls short in some areas\u2014possibly around financing accessibility or regulatory scope. For FIG readers, the relevance hinges on whether the bill affects mortgage origination capacity, refinancing demand, or regional bank exposure to jumbo/non-QM segments. Without full details, the macro read is that housing policy is in flux and may reshape lending volumes.",
-      "talking_points": [
-        "Housing bill becomes law Saturday without presidential signature\u2014check whether it expands or restricts non-QM/jumbo mortgage origination.",
-        "Record home prices persist; bill's supply-side provisions (zoning, permitting) will take time to flow through to affordability, creating a lag in demand relief.",
-        "Regional banks and mortgage platforms: monitor whether bill changes loan product mix or capital requirements for originators."
-      ],
-      "topics": [
-        "housing-policy",
-        "mortgage-origination",
-        "residential-real-estate"
-      ],
-      "highlight": "If the bill meaningfully loosens zoning or permitting without offsetting stricter lending requirements, it could boost non-traditional mortgage demand\u2014a wedge for fintech and specialty finance players.",
-      "relevance": 4
-    }
-  },
-  {
     "id": "d464e7fe3677",
     "title": "China warns about AI risks with Anthropic's Claude Code",
     "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
@@ -3452,31 +3428,6 @@
     }
   },
   {
-    "id": "a87c96552c81",
-    "title": "EasyJet: orange upstart that changed flying prepares to go private",
-    "url": "https://www.ft.com/content/d16e92f7-268a-4d46-9525-483318c9ba4b",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T07:47:10+00:00",
-    "summary_raw": "Pivotal moment for Europe\u2019s low-cost pioneer as US suitors circle",
-    "summary_ai": {
-      "digest": "EasyJet, Europe's largest low-cost airline, is exploring a going-private transaction with US suitors circling; no deal terms disclosed but the move signals consolidation pressure in fragmented European aviation.",
-      "summary_long": "EasyJet, founded in 1995 and now carrying ~100M passengers annually, is in early-stage discussions to take the company private. The Financial Times reports US private equity or strategic buyers have expressed interest, though no formal bids or timelines have been announced. The airline operates in a structurally challenged sector\u2014thin margins, fuel/labor cost volatility, and capacity glut\u2014making scale and operational leverage the primary drivers of value creation. A go-private would allow extended runway for restructuring without public-market pressure. The move also reflects broader European M&A patterns: consolidation under private ownership (see also: Lufthansa's acquisitions, Ryanair's consolidation plays) as consolidation in public markets faces regulatory headwinds.",
-      "talking_points": [
-        "EasyJet is in early talks to go private with US buyers; no formal process or valuation public yet.",
-        "Low-cost aviation in Europe is structurally challenged by labor, fuel, and overcapacity\u2014going private allows multi-year restructuring without quarterly pressure.",
-        "Fits a pattern: European aviation consolidation, often blocked in public M&A, proceeds via LBO or strategic privates."
-      ],
-      "topics": [
-        "airline-consolidation",
-        "European-M&A",
-        "go-private-LBO"
-      ],
-      "highlight": "US buyout firms and strategics circling EasyJet suggests European aviation consolidation will proceed through take-privates rather than public M&A, given regulatory barriers.",
-      "relevance": 3
-    }
-  },
-  {
     "id": "3e4309959ae7",
     "title": "Sources and Methods",
     "url": "https://newsletter.doomberg.com/p/sources-and-methods",
@@ -3685,11 +3636,11 @@
   },
   {
     "id": "289981b61b84",
-    "title": "Should you lock in a 4% CD rate now? Here\u2019s how to decide on the next move for your cash.",
+    "title": "Where to put cash right now: Should you lock in at 4% \u2014 or wait for the next Fed rate decision?",
     "url": "https://www.marketwatch.com/story/should-you-lock-in-a-4-cd-rate-now-heres-how-to-decide-on-the-next-move-for-your-cash-41a7ef4c?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-10T18:12:00+00:00",
+    "date": "2026-07-10T19:30:00+00:00",
     "summary_raw": "CD rates are at a standstill, but that could change after the next Fed meeting, or the one after that.",
     "summary_ai": {
       "digest": "CD rates remain flat around 4%; Fed policy path unclear, creating uncertainty about whether to lock in now or wait for potential cuts.",
@@ -3894,28 +3845,6 @@
     }
   },
   {
-    "id": "273bf0178b3d",
-    "title": "Stocks making the biggest moves premarket: Delta, Circle, Vodafone, Intel and more",
-    "url": "https://www.cnbc.com/2026/07/10/stocks-making-the-biggest-moves-premarket-dal-crcl-intc-more-.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-10T11:52:28+00:00",
-    "summary_raw": "These are the stocks posting the largest moves premarket.",
-    "summary_ai": {
-      "digest": "Premarket movers roundup with no named FIG deal, regulatory action, or capital event.",
-      "summary_long": "This is a generic market-open price-action recap listing stocks with largest premarket moves. It names Delta, Circle, Vodafone, Intel, and others but provides no detail on earnings surprises, M&A, capital raises, regulatory enforcement, or financing developments that would affect FIG deal flow or bank sector dynamics. The piece is a routine market-open cheerleader with no analytical lens.",
-      "talking_points": [
-        "This is a headline-scan placeholder, not a decision tool."
-      ],
-      "topics": [
-        "market-open",
-        "price-action"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
     "id": "4047a7146cfc",
     "title": "Chris Moore returns to OdysseyRe as VP, Senior Property Underwriter",
     "url": "https://www.reinsurancene.ws/chris-moore-returns-to-odysseyre-as-vp-senior-property-underwriter/",
@@ -3962,101 +3891,6 @@
     }
   },
   {
-    "id": "5ed4465efa38",
-    "title": "The space race is on as China takes a big step toward rivaling SpaceX",
-    "url": "https://www.marketwatch.com/story/the-space-race-is-on-as-china-takes-a-big-step-toward-rivaling-spacex-851e935f?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T15:15:00+00:00",
-    "summary_raw": "A Chinese company demonstrated controlled recovery of a rocket\u2019s bottom portion, which is critical in helping to drive down launch costs.",
-    "summary_ai": {
-      "digest": "Chinese startup achieved controlled rocket booster recovery, a SpaceX-pioneered capability that cuts launch costs. No direct financial services angle.",
-      "summary_long": "A Chinese aerospace company successfully recovered and reused a rocket booster, matching SpaceX's reusable-launch technology that has compressed space-launch economics over a decade. The milestone signals China's closing of a technical gap in commercial spaceflight and may accelerate competition in satellite-based telecom, earth observation, and positioning services. For FIG specifically, this matters only if it reshapes the competitive landscape for space-tech-backed fintech (satellite IoT for remittance networks, rural lending, asset tracking) or attracts new capital to space-infrastructure PE. The article itself contains no deal, regulatory, or financing signal.",
-      "talking_points": [
-        "China's rocket reusability closes the gap on SpaceX's cost advantage; expect pressure on global launch pricing and margin compression for U.S. space operators.",
-        "Downstream: satellite-data and connectivity plays (fintech infrastructure in emerging markets, IoT lending platforms) may see cheaper, more reliable capacity \u2014 worth tracking if backing any space-dependent fintech bets."
-      ],
-      "topics": [
-        "space-tech-competition",
-        "cost-economics"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
-    "id": "af9c0f180260",
-    "title": "My doctor friend objected to his hospital\u2019s fundraising tactics. Did management go too far?",
-    "url": "https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T15:42:00+00:00",
-    "summary_raw": "\u201cThis shocking program was exploiting doctors and the trust inherent in their relationships with patients.\u201d",
-    "summary_ai": {
-      "digest": "A hospital's aggressive fundraising program pressured physicians to solicit donations from patients, raising ethics concerns about conflicts of interest.",
-      "summary_long": "A physician criticized his employer hospital for implementing a fundraising initiative that required or incentivized doctors to solicit charitable donations from their own patients. The doctor characterized it as exploitative of the trust relationship between clinicians and patients, and potentially coercive toward staff. The article examines whether hospitals have crossed an ethical line in tapping physician networks and patient relationships to boost charitable revenue. This touches on broader questions of nonprofit hospital governance, physician autonomy, and whether financial pressure on healthcare systems is bleeding into patient care boundaries.",
-      "talking_points": [
-        "Hospital fundraising programs that weaponize physician-patient relationships risk eroding trust and creating apparent conflicts of interest.",
-        "Doctors report feeling pressured to solicit donations, raising questions about whether participation is truly voluntary or implicitly mandatory.",
-        "Nonprofit hospitals facing margin pressure are increasingly asking clinicians to become revenue generators, blurring lines between care and commerce."
-      ],
-      "topics": [
-        "nonprofit-hospital-governance",
-        "healthcare-labor",
-        "physician-economics"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
-    "id": "2eeccc0d80e7",
-    "title": "SK Hynix\u2019s stock pops in its Nasdaq debut",
-    "url": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T16:09:00+00:00",
-    "summary_raw": "The South Korean memory company\u2019s American depositary receipts begin trading on Friday.",
-    "summary_ai": {
-      "digest": "SK Hynix began trading ADRs on Nasdaq Friday. South Korean memory chipmaker adds US listing to existing Seoul exchange presence.",
-      "summary_long": "SK Hynix, a major DRAM and NAND flash memory supplier, launched American depositary receipts on Nasdaq, expanding its US investor access. The move typically signals confidence in valuation and broadens the shareholder base in the largest capital market. For Lucius's FIG coverage, this is tangential\u2014ADR listings are capital markets events, not bank M&A or fintech strategy plays. The company's primary business is semiconductor manufacturing, with no direct tie to regional banking, asset management, specialty finance, or FinTech consolidation.",
-      "talking_points": [
-        "SK Hynix ADR debut on Nasdaq opens US institutional investor access but has no direct impact on regional bank M&A, lending, or fintech deal flow.",
-        "Memory chip supply is foundational to fintech infrastructure (servers, cloud platforms) but this listing event itself is a capital markets event, not a FIG sector catalyst."
-      ],
-      "topics": [
-        "international-listings",
-        "capital-markets"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
-    "id": "a4a53856be43",
-    "title": "Delta faces jet-fuel jitters even as it sees strong travel demand",
-    "url": "https://www.marketwatch.com/story/delta-reports-record-revenue-and-a-profit-beat-even-as-fuel-costs-surge-b1e33336?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T16:18:00+00:00",
-    "summary_raw": "Delta\u2019s profit dropped as the air carrier absorbed the highest quarterly fuel expense in its history.",
-    "summary_ai": {
-      "digest": "Delta Air Lines posted record revenue but absorbed the highest quarterly fuel costs ever, pressuring profitability. No direct read-through to FIG or financial services sectors.",
-      "summary_long": "Delta's Q2 earnings show a classic margin squeeze: top-line strength masked by input cost inflation that the carrier absorbed rather than fully passed to customers. The airline industry's fuel exposure is a macro tail risk for bank credit portfolios and a narrative headwind for consumer discretionary spending, but Delta's earnings do not reveal material shifts in deposit funding, capital raising, M&A activity, or credit conditions affecting the banks Lucius covers. This is routine corporate earnings noise without a FIG or deal-flow angle.",
-      "talking_points": [
-        "Airlines' margin compression from fuel inflation is a consumer-spending risk signal, not a FIG catalyst.",
-        "No bearing on regional bank credit quality, fintech deployment, or wealth-management asset flows."
-      ],
-      "topics": [
-        "airlines",
-        "commodity-inflation",
-        "corporate-earnings"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
     "id": "fb1170d67b47",
     "title": "CenterGate Capital invests in Canadian Dental Labs",
     "url": "https://www.pehub.com/centergate-capital-invests-in-canadian-dental-labs/",
@@ -4080,25 +3914,48 @@
     }
   },
   {
-    "id": "30228d639956",
-    "title": "FormFactor to Announce Second Quarter 2026 Financial Results on July 29th",
-    "url": "https://www.globenewswire.com/news-release/2026/07/08/3324417/0/en/FormFactor-to-Announce-Second-Quarter-2026-Financial-Results-on-July-29th.html",
-    "source": "GlobeNewswire \u2014 Banking (press releases)",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-08T20:01:00+00:00",
-    "summary_raw": "<p align=\"left\">LIVERMORE, Calif., July  08, 2026  (GLOBE NEWSWIRE) -- FormFactor, Inc. (Nasdaq: FORM) will report financial results for its 2026 fiscal second quarter on Wednesday, July 29<sup>th</sup>, 2026, at 1:25 p.m. Pacific Time. The public is invited to listen to a live webcast of FormFactor's conference call on the Investors section of the company's web site at <a href=\"https://www.formfactor.com\" rel=\"nofollow\" target=\"_blank\" title=\"www.formfactor.com\">www.formfactor.com</a><a href=\"h",
+    "id": "2eeccc0d80e7",
+    "title": "SK Hynix\u2019s stock scores double-digit pop in Nasdaq debut",
+    "url": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T18:31:00+00:00",
+    "summary_raw": "The South Korean memory company\u2019s new American depositary receipts begin trading on Friday.",
     "summary_ai": {
-      "digest": "FormFactor will report Q2 2026 earnings on July 29 at 1:25 p.m. PT; no material detail provided in announcement.",
-      "summary_long": "This is a boilerplate earnings-call notice with no forward guidance, restructuring plan, capital allocation detail, or other actionable information. FormFactor is a semiconductor test-equipment maker, not a financial institution, and appears to have been miscategorized in the FIG \u2014 Banks section. The press release contains only the date, time, and webcast link for the quarterly results announcement.",
+      "digest": "SK Hynix began trading ADRs on Nasdaq Friday. South Korean memory chipmaker adds US listing to existing Seoul exchange presence.",
+      "summary_long": "SK Hynix, a major DRAM and NAND flash memory supplier, launched American depositary receipts on Nasdaq, expanding its US investor access. The move typically signals confidence in valuation and broadens the shareholder base in the largest capital market. For Lucius's FIG coverage, this is tangential\u2014ADR listings are capital markets events, not bank M&A or fintech strategy plays. The company's primary business is semiconductor manufacturing, with no direct tie to regional banking, asset management, specialty finance, or FinTech consolidation.",
       "talking_points": [
-        "No material information to extract \u2014 earnings date only.",
-        "Miscategorized: FormFactor is a semiconductor equipment vendor, not covered in FIG analyst scope."
+        "SK Hynix ADR debut on Nasdaq opens US institutional investor access but has no direct impact on regional bank M&A, lending, or fintech deal flow.",
+        "Memory chip supply is foundational to fintech infrastructure (servers, cloud platforms) but this listing event itself is a capital markets event, not a FIG sector catalyst."
       ],
       "topics": [
-        "earnings-calendar"
+        "international-listings",
+        "capital-markets"
       ],
       "highlight": null,
-      "relevance": 1
+      "relevance": 2
+    }
+  },
+  {
+    "id": "273bf0178b3d",
+    "title": "Stocks making the biggest moves premarket: Delta, Circle, Vodafone, Intel and more",
+    "url": "https://www.cnbc.com/2026/07/10/stocks-making-the-biggest-moves-premarket-dal-crcl-intc-more-.html",
+    "source": "CNBC Finance",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-10T18:56:42+00:00",
+    "summary_raw": "These are the stocks posting the largest moves premarket.",
+    "summary_ai": {
+      "digest": "Premarket movers roundup with no named FIG deal, regulatory action, or capital event.",
+      "summary_long": "This is a generic market-open price-action recap listing stocks with largest premarket moves. It names Delta, Circle, Vodafone, Intel, and others but provides no detail on earnings surprises, M&A, capital raises, regulatory enforcement, or financing developments that would affect FIG deal flow or bank sector dynamics. The piece is a routine market-open cheerleader with no analytical lens.",
+      "talking_points": [
+        "This is a headline-scan placeholder, not a decision tool."
+      ],
+      "topics": [
+        "market-open",
+        "price-action"
+      ],
+      "highlight": null,
+      "relevance": 2
     }
   },
   {
@@ -4347,27 +4204,10 @@
     "date": "2026-07-10T15:06:53+00:00",
     "summary_raw": "Anyone who has watched an episode of &#8220;9-1-1: Nashville&#8221; could be forgiven for thinking the city is constantly beset by tornadoes that turn outdoor concerts into scenes of carnage and blow scooter-riding tourists onto the tops of water towers. That &#8230;",
     "summary_ai": {
-      "digest": "Nashville volunteers coordinate storm communication during severe weather events; no deal, regulatory, or capital angle identified.",
-      "summary_long": "The article profiles volunteer efforts in Nashville to disseminate weather information and provide support during severe storms. It appears to focus on community resilience and volunteer coordination rather than insurance industry operations, underwriting, claims, or regulatory action. No M&A, capital raise, policy change, enforcement action, or strategic business development is evident from the excerpt.",
+      "digest": "Nashville volunteers provide emergency communications during storms; no deal, regulatory, or capital angle identified.",
+      "summary_long": "This article profiles volunteer efforts in Nashville to relay emergency information during severe weather events, apparently inspired by or connected to the TV show '9-1-1: Nashville.' The piece focuses on community mobilization and public safety communications rather than insurance industry dynamics, underwriting, claims handling, or regulatory change. There is no discussion of insurer behavior, capital deployment, risk transfer, or market implications.",
       "talking_points": [],
       "topics": [],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "f45969e5cf99",
-    "title": "All entry-level jobs require 3-5 years of experience. How am I supposed to get that if no one will hire me?",
-    "url": "https://www.marketwatch.com/story/all-entry-level-jobs-require-3-5-years-of-experience-how-am-i-supposed-to-get-that-if-no-one-will-hire-me-e1bc4b0a?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T15:34:00+00:00",
-    "summary_raw": "How to get experience if no one is willing to be your first employer.",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
       "highlight": null,
       "relevance": 1
     }
@@ -4430,6 +4270,49 @@
       "summary_long": null,
       "talking_points": null,
       "topics": null,
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "edef5dc49d6a",
+    "title": "Summer travel season is here: Make this vital purchase before your next vacation",
+    "url": "https://www.marketwatch.com/story/8-things-i-learned-about-travel-expenses-after-a-family-tragedy-1bbb024f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T19:40:00+00:00",
+    "summary_raw": "8 things I learned about travel expenses after a family tragedy",
+    "summary_ai": {
+      "digest": "MarketWatch personal essay on travel expenses tied to a family tragedy; no data, market signal, or FIG relevance.",
+      "summary_long": "This is a lifestyle/personal-finance piece framed around lessons learned from a family emergency during travel. It offers generic advice on travel insurance, emergency funds, and planning\u2014topics with no connection to bank lending, credit conditions, capital markets, or the financial services sector. The article has no macro read-through, credit signal, or asset-pricing implication.",
+      "talking_points": [],
+      "topics": [
+        "lifestyle",
+        "personal-finance"
+      ],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "4bc2807c6be9",
+    "title": "Meta\u2019s stock roars back to life as it heads for its best week in years",
+    "url": "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-10T19:54:00+00:00",
+    "summary_raw": "Investors are bullish on Meta\u2019s new low-cost AI pricing and infrastructure plans.",
+    "summary_ai": {
+      "digest": "Meta stock up sharply this week on optimism around AI cost reduction and infrastructure spending plans. No direct FIG angle; pure tech-sector momentum play.",
+      "summary_long": "Meta has rallied on investor confidence in its artificial intelligence strategy, specifically around pricing models that lower the cost of AI services and capital-efficient infrastructure deployment. The stock is posting its best weekly performance in years, driven by narrative around competitive positioning in generative AI and data-center economics. While the company is a major cloud-infrastructure customer and relevant to semiconductor/hardware vendors in the financial services tech stack, this piece does not address fintech, banking, wealth management, or financial services use cases of AI. It is a tech-sector earnings/valuation story without FIG read-through.",
+      "talking_points": [
+        "Meta's AI infrastructure play is primarily relevant to broader tech-sector valuation and cloud-spending trends, not FIG M&A, fintech disruption, or bank-sector capital allocation.",
+        "No mention of financial services, banking AI adoption, or implications for FIG coverage."
+      ],
+      "topics": [
+        "tech-sector-momentum",
+        "AI-infrastructure"
+      ],
       "highlight": null,
       "relevance": 1
     }
