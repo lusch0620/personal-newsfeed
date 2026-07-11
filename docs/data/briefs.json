@@ -1,169 +1,159 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Circle gets full trust charter approval while Fed Chair Warsh assembles modernization task forces; regulatory scrutiny continues on capital and compliance fronts.",
+    "lede": "Circle wins full trust bank charter, Fed tightens screws on Iowa banks, and Wall Street scrambles on prediction market compliance.",
     "bullets": [
       {
-        "text": "Circle Internet Financial secured OCC full trust bank charter approval, eliminating third-party bank dependency for deposits and stablecoin issuance\u2014a significant regulatory milestone for crypto infrastructure.",
+        "text": "Circle Internet Financial cleared for full OCC trust bank charter\u2014can now take deposits and issue stablecoins directly without a third-party intermediary.",
         "refId": "39c58750aa31",
         "source": "Banking Dive"
       },
       {
-        "text": "Fed Chair Kevin Warsh unveiled five task forces including Marc Andreessen and Walmart CEO Doug McMillon to modernize Fed operations, signaling appetite for external expertise on tech and efficiency.",
-        "refId": "7d7af9cdb27f",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Fed issued enforcement order against TS Banking Group and TS Contrarian Bancshares over capital deficiencies at subsidiary banks, part of ongoing supervisory tightening.",
+        "text": "Fed issued enforcement orders against TS Banking Group and TS Contrarian Bancshares requiring capital strengthening at subsidiary banks, signaling tighter oversight.",
         "refId": "5dd82aa6562b",
         "source": "Banking Dive"
       },
       {
-        "text": "Goldman and peers scrambling to draft insider-trading policies for employee prediction market participation as regulatory gaps create compliance risk across most surveyed firms.",
+        "text": "Goldman Sachs and major firms drafting insider-trading policies for prediction markets as regulatory risk looms\u2014but most companies still lack clear guidance.",
         "refId": "3c812188a91d",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "S&P 500's 28x trailing vs. 21x forward P/E spread assumes significant earnings growth that may not materialize\u2014valuation cushion could be illusory.",
+        "refId": "8af497d63398",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "4 stories across TAMPs, RIA consolidation, and advisor moves; Vestmark hits $50B AUM milestone while regional platform M&A accelerates.",
+    "lede": "Platform consolidation accelerates across wealth management with Vestmark hitting $50B AUM, major RIA M&A deals flowing, and fee pressure mounting on newer models.",
     "bullets": [
       {
-        "text": "Vestmark's TAMP platform vaults past $50B AUM (5x growth) after tax-managed UMA upgrade unlocks referral pipeline from T. Rowe Price, BlackRock, Capital Group, and VanEck.",
+        "text": "Vestmark's TAMP platform surged past $50B AUM (5x increase) after tax-managed UMA upgrade triggered referral deals from T. Rowe Price, BlackRock, Capital Group, and VanEck.",
         "refId": "9f153ce7b5da",
         "source": "RIABiz"
       },
       {
-        "text": "Commonwealth Financial team ($608M) defects to Cetera; concurrent moves include $750M RIA deal, Avantis's $50B AUM add ($30B organic), and Choreo's 4th rollup post-SpaceX.",
+        "text": "Commonwealth $608M team defects to Cetera; concurrent RIA M&A includes $750M deal, $1.7B added to AmeriFlex, and $500M NH acquisition by F.L. Putnam.",
         "refId": "166a7c410e4b",
         "source": "Wealth Management"
       },
       {
-        "text": "&Partners absorbs Foothills Legacy ($864M AUM, 8 advisors) from Wells Fargo, pushing hybrid platform to ~$58B total AUM.",
-        "refId": "431f5b26abb5",
-        "source": "Wealth Management"
+        "text": "XY Planning Network's Sapphire platform hit $1B AUM but faces fee criticism; Kitces argues higher rates justified by service depth versus lower-cost alternatives.",
+        "refId": "6996684bc783",
+        "source": "RIABiz"
       },
       {
-        "text": "Evergreen funds stabilize at $607B despite redemptions; direct lending and alternative credit remain dominant, infrastructure funds strongest performers.",
-        "refId": "193466774133",
+        "text": "&Partners acquired Foothills Legacy ($864M AUM) from Wells Fargo, pushing hybrid broker/dealer to ~$58B total AUM.",
+        "refId": "431f5b26abb5",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "AI capex boom reshaping risk pools while commercial insurance softens; reinsurers rode 2023 pricing surge but face headwinds from easing market.",
+    "lede": "AI capex boom reshaping risk pools while commercial market softens; reinsurers riding 2023 cat tailwinds as climate models face political headwinds.",
     "bullets": [
       {
-        "text": "$750B in AI hyperscaler capex by 2026 is structurally remaking commercial risk\u2014data centers, energy, semiconductors all seeing new insurance demand waves.",
+        "text": "$750B in AI hyperscaler capex by 2026 is driving structural demand shift for data centre, energy, and semiconductor risk coverage\u2014a material reallocation of commercial premium pools.",
         "refId": "7ff5850db68a",
         "source": "Reinsurance News"
       },
       {
-        "text": "Reinsurers crushed cat loss trends in 2023 via 30% pricing surge + shift to higher attachment points, but commercial market is now softening with slower premium growth.",
+        "text": "Reinsurers outperformed cat loss trends in 2023 on back of 30% pricing surge and higher attachment points, but commercial market now easing with slower premium growth and renewed buyer leverage.",
         "refId": "78ccd37ec86e",
         "source": "Reinsurance News"
       },
       {
-        "text": "Climate model precision is improving for underwriting, but political credibility attacks are intensifying\u2014a wild card for risk pricing as heat waves persist.",
+        "text": "Climate models are getting sharper for risk pricing but facing political credibility attacks just as heat waves intensify\u2014creating tension between technical precision and market acceptance.",
         "refId": "981e83443056",
         "source": "Insurance Journal"
-      },
-      {
-        "text": "Arch Insurance launches dedicated transactional liability team; early bet on R&W and tax coverage as M&A deal flow stabilizes.",
-        "refId": "21d36d9289aa",
-        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "Circle clears crypto banking milestone while the Fed delivers a hawkish surprise; regulatory walls closing in on tech giants and fintech compliance gaps.",
+    "lede": "Circle clinches historic crypto bank charter while regulators tighten oversight of cloud giants and crypto infrastructure across US and EU.",
     "bullets": [
       {
-        "text": "Circle gets first-ever national trust bank charter for crypto company\u2014major regulatory validation for stablecoins and digital assets infrastructure.",
+        "text": "Circle becomes first crypto-native company to secure OCC approval for a national trust bank charter, clearing path for digital asset custody at scale.",
         "refId": "f2bdd0bc3ed5",
         "source": "Finextra"
       },
       {
-        "text": "June FOMC holds rates but signals largest hawkish pivot in 30 years, reshaping rate cut expectations and tightening cycle outlook.",
-        "refId": "f8bef22becb2",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "UK regulators gain direct oversight of Amazon, Google, Microsoft, Oracle under new critical digital infrastructure rules\u2014regulatory noose tightening around big tech.",
+        "text": "UK regulators gain direct oversight of Amazon, Google, Microsoft, and Oracle as critical digital infrastructure\u2014major shift in fintech ecosystem governance.",
         "refId": "6a70baa60865",
         "source": "Finextra"
       },
       {
-        "text": "Block pays $45M to settle Cash App fraud probe across 46 states; Lendable raises $670M for expansion, signaling active specialty finance capital markets despite compliance headwinds.",
-        "refId": "fbc2e809d64d, fb950fb41012",
+        "text": "Lendable taps \u00a3500m securitization to fund global expansion, signaling strong capital appetite for digital consumer lending platforms.",
+        "refId": "fb950fb41012",
+        "source": "Finextra"
+      },
+      {
+        "text": "Revolut poaches JP Morgan exec to lead European banking push as ESMA simultaneously launches crypto custody resilience review\u2014regulatory and competitive pressure intensifying.",
+        "refId": "7866ed535778, 13d576ce0bbe",
         "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "PE capital flowing into healthcare infrastructure and pharma, while LP dynamics shift as RIAs challenge traditional fund model and pension funds recalibrate allocations.",
+    "lede": "4 stories spanning RIA LP disruption, PE healthcare infrastructure buildout, and a major pharma bet\u2014plus a Minnesota pension consulting shuffle.",
     "bullets": [
       {
-        "text": "Apollo deploying \u20ac3bn into Bayer's life sciences business\u2014largest pharma/agritech bet signaling PE appetite for scaled healthcare assets.",
-        "refId": "750deae58300",
-        "source": "PE Hub"
-      },
-      {
-        "text": "RIAs positioning as direct LP competitors to institutional funds, leveraging fee economics and client capital to bypass traditional PE structures.",
+        "text": "RIAs are positioning as LP alternatives in private markets, leveraging scale and fee economics to deploy capital directly rather than through traditional fund vehicles.",
         "refId": "148699258161",
         "source": "Buyouts Insider"
       },
       {
-        "text": "SBCERA holding PE allocation despite board pressure, rebalancing toward AI-resistant sectors and away from high-leverage LBOs.",
-        "refId": "1de87ff2b3d7",
-        "source": "Buyouts Insider"
+        "text": "Apollo, Kain Capital, and OMERS are aggressively deploying into primary care digitalization (6 deals) while KKR launched a new medtech platform for component engineering.",
+        "refId": "75e0f4e8b163",
+        "source": "PE Hub"
       },
       {
-        "text": "Six primary care digitalization deals closed by Apollo, Arsenal, Kain, OMERS; KKR launched medtech platform focused on component engineering.",
-        "refId": "75e0f4e8b163",
+        "text": "Apollo Global committing \u20ac3bn to Bayer's life sciences business\u2014a marquee pharma/agritech deployment signaling PE's appetite for large-cap healthcare infrastructure.",
+        "refId": "750deae58300",
         "source": "PE Hub"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "Crypto gets a regulatory win, Big Tech's AI debt binge spooks bond investors, and UK inflation's unequal hit reshapes retail banking risk.",
+    "lede": "Crypto gets a regulatory win, Big Tech debt concerns mount, and UK inflation hits lower-income households hard\u2014reshaping risk profiles across banking and capital markets.",
     "bullets": [
       {
-        "text": "Circle Internet Financial secured a conditional trust bank charter\u2014narrower than full national bank status but a meaningful regulatory breakthrough for crypto-native stablecoin and deposit services.",
+        "text": "Circle Internet Financial lands conditional trust bank charter, clearing path for stablecoin issuance and deposit-taking despite narrower scope than full national banking license.",
         "refId": "36782dbeac75",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Institutional investors dumping longer-dated corporate bonds as Big Tech borrows heavily for AI capex, signaling real skepticism that the spending will generate returns justifying leverage levels.",
+        "text": "Institutional investors dumping longer-dated corporate bonds as Big Tech ramps AI borrowing, signaling concern that capex spending won't justify elevated leverage ratios.",
         "refId": "321c694f7e33",
         "source": "Financial Times Markets"
       },
       {
-        "text": "UK inflation hits lower-income households 3\u20134 points harder than wealthy due to energy/food exposure; creates asymmetric credit risk and deposit funding pressure across retail banking.",
+        "text": "UK inflation skews 3\u20134 points harder against lower-income households via energy/food exposure, pressuring retail bank deposit bases and consumer credit quality.",
         "refId": "77967c9d34c5",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "Goldman, major Wall Street firms restricting employee prediction market access (Polymarket, Manifold) over conflict-of-interest and manipulation risks.",
+        "refId": "f33a2db347e5",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Retail democratization reshaping financial markets\u2014from India's derivatives boom to U.S. tax innovation\u2014while sector cyclicality questions linger post-listings.",
+    "lede": "Retail democratization reshapes financial markets\u2014from India's derivatives exchange to proposed tax vehicles\u2014while cyclical pressures persist in semiconductors.",
     "bullets": [
       {
-        "text": "India's NSE dethroned CME as world's largest equity derivatives exchange by going ultra-retail: micro contracts, zero tick spreads, and near-zero trading costs democratized derivatives participation.",
+        "text": "India's NSE became world's largest equity derivatives exchange by weaponizing retail: micro contracts and near-zero trading costs drove explosive volume growth.",
         "refId": "2f8489863424",
-        "source": "Net Interest"
+        "source": "Net Interest (Marc Rubinstein)"
       },
       {
-        "text": "Proposed Trump Accounts could create Gen-Beta millionaires by retirement (if max-contributed), but benefits skew heavily toward high-income families, raising wealth inequality questions.",
+        "text": "Proposed Trump Accounts could create $1M+ retirement accounts for Gen-Beta, but access skews heavily toward high-income families, raising wealth inequality concerns.",
         "refId": "5a545589351b",
         "source": "The Daily Upside"
       },
       {
-        "text": "Retirement planning just got messier: required nest eggs swing by hundreds of thousands based on ZIP code alone (cost-of-living + tax arbitrage), creating new planning complexity for wealth managers.",
-        "refId": "187aab5e3eb7",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "SK Hynix's Nasdaq debut raises the perennial question: can memory chip sector break its boom-bust cycle structurally, or is cyclicality baked into the business?",
+        "text": "SK Hynix's Nasdaq debut raises the question: can memory chips break their cyclical boom-bust pattern, or is structural relief a myth?",
         "refId": "3131b4f33c73",
         "source": "The Daily Upside"
       }
@@ -174,52 +164,47 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Political economy shifts dominate\u2014anti-billionaire rhetoric goes mainstream, talent flees high taxes, while AI agents advance on math and product fronts.",
+    "lede": "5 stories spanning political economy shifts, AI breakthroughs, and public health gains\u2014with implications for wealth taxation, innovation velocity, and aging demographics.",
     "bullets": [
       {
-        "text": "Anti-billionaire messaging jumped from single digits to mainstream Democratic talking point pre-2019, reshaping wealth and policy debate.",
+        "text": "Anti-billionaire rhetoric has mainstreamed from single-digit Democratic messaging pre-2019 to core platform language, with ripple effects for wealth policy and business regulation.",
         "refId": "274b5a2301d3",
         "source": "Marginal Revolution"
       },
       {
-        "text": "European football transfers prove high earners vote with their feet: talent mobility responds measurably to tax rates across borders.",
-        "refId": "407a4e5d0c6d",
-        "source": "Marginal Revolution"
-      },
-      {
-        "text": "Google's AI agent cracked a 56-year math conjecture; production-grade agents show meaningful iterative improvement over time.",
+        "text": "Google's AI agent solved a 56-year math conjecture; production-grade agent architectures are improving iteratively faster than legacy model refresh cycles.",
         "refId": "fc0c36a3c864",
         "source": "The AI Corner"
       },
       {
-        "text": "OpenAI rolling out ChatGPT superapp with integrated tools and enterprise capabilities\u2014product roadmap accelerating.",
+        "text": "OpenAI is assembling a ChatGPT superapp with integrated tools, plugins, and enterprise features\u2014signaling platform consolidation play in AI distribution.",
         "refId": "b8bbc47b9782",
         "source": "Big Technology"
+      },
+      {
+        "text": "Dementia prevalence among 85\u201389-year-olds dropped from 30% to 10% in four decades, a significant epidemiological win with implications for aging healthcare infrastructure.",
+        "refId": "2c16161196c3",
+        "source": "Marginal Revolution"
       }
     ]
   },
   "all": {
-    "lede": "Vestmark's TAMP platform hits $50B AUM milestone on tax-managed upgrade, Circle clinches first crypto trust bank charter, and June FOMC minutes signal largest hawkish surprise in 30 years.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Vestmark's TAMP AUM leaps 5x past $50B after critical tax-managed UMA upgrade; T. Rowe Price, BlackRock, Capital Group, and VanEck now funneling retail RIA clients directly.",
+        "text": "Vestmark strikes 'standalone-RIA' black gold as (TAMP) AUM leaps past $50-billion -- a five-fold increase -- after critical upgrade triggers T. Rowe Price, BlackRock, Capital Group, and VanEck referral gusher",
         "refId": "9f153ce7b5da",
         "source": "RIABiz"
       },
       {
-        "text": "Circle gets full OCC trust bank charter approval\u2014first crypto-native company to land national trust bank charter, enabling direct deposit-taking and stablecoin issuance.",
+        "text": "Circle gets OCC\u2019s full trust bank charter nod",
         "refId": "39c58750aa31",
         "source": "Banking Dive"
       },
       {
-        "text": "June FOMC held as expected but delivered 30-year record hawkish surprise, reshaping rate cut and tightening expectations.",
-        "refId": "f8bef22becb2",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "Hightower's Signature platform surges; Avantis adds $50B AUM ($30B net new); Choreo completes 4th RIA rollup post-SpaceX win.",
-        "refId": "0be3fec547da",
-        "source": "RIABiz"
+        "text": "Circle gets final national trust bank approval",
+        "refId": "f2bdd0bc3ed5",
+        "source": "Finextra"
       }
     ]
   },
