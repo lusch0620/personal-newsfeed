@@ -103,59 +103,6 @@
     }
   },
   {
-    "id": "47e3a8bf4c57",
-    "title": "Morningstar's sale of ByAllAccounts to Pello won't close -- the latest mishap in the 'aggregation' category as Plaid seeks IPO and CFPB mulls plan to permanently allow data fees",
-    "url": "https://riabiz.com/a/2026/7/9/morningstars-sale-of-byallaccounts-to-pello-wont-close-the-latest-mishap-in-the-aggregation-category-as-plaid-seeks-ipo-and-cfpb-mulls-plan-to-permanently-allow-data-fees",
-    "source": "RIABiz",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-09T06:42:01+00:00",
-    "summary_raw": "The Chicago fund tracker reassures RIAs the account aggregation service levels won't drop off -- not least because in-house Morningstar services rely on it.",
-    "summary_ai": {
-      "digest": "Morningstar's sale of ByAllAccounts to Pello is failing to close, marking another setback in the fragile account aggregation sector as Plaid prepares for IPO and CFPB weighs permanent data-fee policy.",
-      "summary_long": "Morningstar announced it would divest ByAllAccounts to Pello but the transaction is not closing. This signals renewed instability in the account aggregation category, which has been pressured by regulatory uncertainty around data fees, bank API access friction, and consolidation dynamics. The failure matters for RIAs because aggregation is foundational to their workflows and Morningstar's own advisory tools depend on it internally. The timing is acute: Plaid is moving toward IPO with aggregation as a core offering, while the CFPB is deliberating whether to permit banks to charge for data access on a permanent basis\u2014a rule that would reshape aggregator unit economics.",
-      "talking_points": [
-        "Morningstar can't close the ByAllAccounts sale to Pello\u2014a red flag for the whole aggregation sector when Plaid is prepping IPO.",
-        "CFPB's pending decision on permanent data fees will determine whether aggregators remain viable or consolidate further.",
-        "RIAs depend on Morningstar's in-house aggregation; any service degradation in account-linking speeds M&A risk for wealth platforms."
-      ],
-      "topics": [
-        "account aggregation",
-        "fintech M&A failure",
-        "CFPB data-access regulation",
-        "Plaid IPO",
-        "RIA platform consolidation"
-      ],
-      "highlight": "Morningstar's ByAllAccounts-to-Pello sale is failing to close\u2014a sign of sector distress right as Plaid readies IPO and CFPB weighs permanent data-fee rules that could reshape aggregator margins.",
-      "relevance": 8
-    }
-  },
-  {
-    "id": "4d22de3156b0",
-    "title": "DOWNLOAD: Credit fundraising defies headlines with record breaking H1",
-    "url": "https://www.privatedebtinvestor.com/download-credit-fundraising-defies-headlines-with-record-breaking-h1/",
-    "source": "Private Debt Investor",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-09T10:05:33+00:00",
-    "summary_raw": "Fundraising saw its strongest ever H1 this year and could break records if momentum is maintained, according to the PDI Fundraising Report H1 2026.",
-    "summary_ai": {
-      "digest": "Credit fundraising hit record levels in H1 2026, with PDI reporting the strongest first half ever and potential for full-year record if momentum holds.",
-      "summary_long": "Despite market headlines questioning credit appetite, the Private Debt Investor fundraising report shows institutional capital continues flowing into credit strategies at historically elevated levels. This signals sustained LP demand for yield and specialty finance exposure even amid macro uncertainty. For a banker covering specialty finance and asset managers, this is a leading indicator of deal flow capacity\u2014credit funds with fresh capital are actively deploying, meaning M&A and credit-linked transactions should remain robust. The disconnect between pessimistic sentiment and actual capital raises suggests credit allocators are more confident in 2026 fundamentals than consensus implies.",
-      "talking_points": [
-        "Credit fundraising posted strongest H1 on record in 2026\u2014full year could exceed prior highs if Q2 momentum sustains.",
-        "The resilience in LP capital commitments despite market noise suggests healthy appetite for specialty finance and distressed opportunities.",
-        "Freshly capitalized credit funds are ready to deploy, supporting deal flow for lenders and asset managers targeting credit strategies."
-      ],
-      "topics": [
-        "credit-fundraising",
-        "specialty-finance",
-        "LP-capital-deployment",
-        "asset-manager-flows"
-      ],
-      "highlight": "Record H1 fundraising for credit vehicles signals LP conviction diverging from headline pessimism\u2014sets stage for elevated deal velocity.",
-      "relevance": 8
-    }
-  },
-  {
     "id": "2350f37e08a6",
     "title": "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
     "url": "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
@@ -363,162 +310,6 @@
       ],
       "highlight": "RIAs are positioning as capital deployers competing directly with institutional LPs\u2014a structural shift in who controls and deploys private-market capital.",
       "relevance": 8
-    }
-  },
-  {
-    "id": "70edf8c4d329",
-    "title": "Long-Short SMAs Aim to Keep the Tax Losses Flowing",
-    "url": "https://www.thedailyupside.com/advisor/investing-strategies/long-short-smas-aim-to-keep-the-tax-losses-flowing/",
-    "source": "The Daily Upside",
-    "section": "Newsletters",
-    "date": "2026-07-09T04:01:00+00:00",
-    "summary_raw": "<p>It\u2019s become harder for direct-indexing strategies to generate the tax losses that underpin much of SMAs\u2019 appeal.</p>\n<p>The post <a href=\"https://www.thedailyupside.com/advisor/investing-strategies/long-short-smas-aim-to-keep-the-tax-losses-flowing/\">Long-Short SMAs Aim to Keep the Tax Losses Flowing</a> appeared first on <a href=\"https://www.thedailyupside.com\">The Daily Upside</a>.</p>",
-    "summary_ai": {
-      "digest": "Direct-indexing SMAs are losing their tax-loss harvesting edge as markets rise; wealth managers are pivoting to long-short strategies to sustain the tax-alpha narrative that drives client fees.",
-      "summary_long": "Direct-indexing strategies built their value proposition on consistent tax-loss harvesting\u2014offsetting gains in a diversified portfolio by selling underwater positions. But sustained market gains have shrunk the pool of losers available to harvest, eroding the tax-alpha advantage that justifies SMA fees to high-net-worth clients. Wealth managers are now experimenting with long-short overlays (short hedges on indices while long on individual stocks) to artificially manufacture tax losses in a rally, keeping the tax story alive. This is both a business risk (if long-short doesn't work, the tax premise collapses) and a sign of how fee-dependent the direct-indexing pitch has become.",
-      "talking_points": [
-        "Direct-indexing's core selling point\u2014tax-loss harvesting\u2014breaks down in bull markets; rising AUM in SMAs now forces the industry to engineer losses rather than find them.",
-        "Long-short overlays are essentially a fee-preservation play: if they generate alpha, great; if they just manufacture tax losses, the client still wins\u2014but it's a fragile model if returns disappoint.",
-        "This is a warning sign for RIA SMA platforms: as competition commoditizes direct-indexing and markets normalize, the tax-alpha moat erodes fast."
-      ],
-      "topics": [
-        "direct-indexing",
-        "SMA fees",
-        "tax-loss harvesting",
-        "wealth management product innovation"
-      ],
-      "highlight": "Tax-loss harvesting\u2014the engine of SMA fee justification\u2014stops working in rallies; managers are now layering long-short strategies to keep the tax story alive, a tacit admission that the value prop is fragile.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "0dfa999785cc",
-    "title": "Should Advised Clients Automatically Become Accredited Investors?",
-    "url": "https://www.thedailyupside.com/advisor/industry-news/should-advised-clients-automatically-become-accredited-investors/",
-    "source": "The Daily Upside",
-    "section": "Newsletters",
-    "date": "2026-07-09T04:02:00+00:00",
-    "summary_raw": "<p>A new proposal would recognize clients as accredited investors, but some advisors have doubts.</p>\n<p>The post <a href=\"https://www.thedailyupside.com/advisor/industry-news/should-advised-clients-automatically-become-accredited-investors/\">Should Advised Clients Automatically Become Accredited Investors?</a> appeared first on <a href=\"https://www.thedailyupside.com\">The Daily Upside</a>.</p>",
-    "summary_ai": {
-      "digest": "SEC proposal would grant accredited investor status to clients under advice from registered advisors, bypassing traditional net-worth or income gates. Advisor community is split on whether this expands access or creates compliance risk.",
-      "summary_long": "The SEC is considering a rule change that would automatically classify clients as accredited investors if they work with a registered investment advisor, RIA, or broker-dealer\u2014removing the need to meet strict income ($200k+) or net-worth ($1M+) thresholds. Proponents argue this democratizes access to private placements, hedge funds, and alternative assets for a broader middle-class investor base. Skeptics worry advisors lack incentive to police suitability, that advisors themselves may have conflicts pushing unsuitable alternatives, and that the rule conflates advisor registration with investor sophistication. The proposal touches on IRA platforms, wealth management scale, and fintech distribution channels\u2014all areas where product democratization and regulatory friction matter.",
-      "talking_points": [
-        "If passed, this rule eliminates the income gate for alternatives access\u2014meaning a $400k household with an RIA can suddenly buy into $5M hedge funds or SPACs currently reserved for the wealthy.",
-        "RIAs and advisors become de facto gatekeepers for accreditation, raising compliance and liability exposure if clients later claim they weren't suitable for tail-risk products.",
-        "This plays directly into the fintech and platform narrative: IRA custodians and robo-advisors could theoretically onboard mass-market clients and grant them access to private-market products, reshaping the asset allocation industry."
-      ],
-      "topics": [
-        "accredited-investor-access",
-        "wealth-mgmt-regulatory",
-        "alternative-assets-distribution",
-        "RIA-consolidation-pressure"
-      ],
-      "highlight": "If advisors become the suitability check, not net worth, the rule reshapes who can buy alternatives and how platforms compete to serve them.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "e2c9c2c56d2e",
-    "title": "Muse Image, Grok 4.5, Alex Karp on CNBC",
-    "url": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/",
-    "source": "Stratechery (Ben Thompson)",
-    "section": "Learn",
-    "date": "2026-07-09T10:00:00+00:00",
-    "summary_raw": "The battle for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.",
-    "summary_ai": {
-      "digest": "Ben Thompson argues that access to high-quality, verifiable data\u2014not just compute or model size\u2014is becoming the decisive advantage in AI competition, with examples from Meta, xAI's Grok, and Palantir's Karp.",
-      "summary_long": "Thompson contends that the AI industry narrative has fixated on scale (parameters, compute) while overlooking data quality as the actual moat. He traces how Meta's recommendation systems, Grok's real-time feeds, and Palantir's domain-specific datasets each derive competitive power from proprietary or structurally defensible data sources rather than raw model sophistication. The implication is that companies with embedded access to high-quality, continuously refreshed data streams\u2014particularly in verticals like finance, healthcare, or enterprise workflows\u2014will pull ahead of those relying solely on public datasets or synthetic training. For financial services specifically, this reframes which fintech, wealth management, and specialty-finance players have structural advantages in AI-enabled products.",
-      "talking_points": [
-        "Data quality, not model size, is becoming the real constraint in AI\u2014companies with proprietary, verifiable datasets will outpace those chasing parameter counts.",
-        "Palantir and xAI exemplify this: Karp's edge is domain data (government, enterprise workflows); Grok's is real-time market/news feeds\u2014both defensible in ways that public models are not.",
-        "For FIG players: wealth platforms, fintech underwriters, and asset managers sitting on transactional and behavioral data have an underappreciated AI moat if they can operationalize it."
-      ],
-      "topics": [
-        "AI-moat-data-quality",
-        "fintech-competitive-advantage",
-        "business-strategy"
-      ],
-      "highlight": "Companies with structurally embedded access to proprietary, continuous, high-quality data (not just scale) will define the AI winner's circle\u2014a frame that revalues fintech platforms and specialty finance operators with rich transactional datasets.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "cc1b26fdf98e",
-    "title": "Loan Note: Fundraising data reveals strong institutional support; senior hire for Silver Point",
-    "url": "https://www.privatedebtinvestor.com/loan-note-fundraising-data-reveals-strong-institutional-support-senior-hire-for-silver-point/",
-    "source": "Private Debt Investor",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-09T10:11:38+00:00",
-    "summary_raw": "Our preliminary fundraising data hints at a best-ever capital haul. Plus: Silver Point makes a senior hire from Goldman; and Asia-Pacific's distinctiveness reconsidered. Here's today's brief for our valued subscribers only.",
-    "summary_ai": {
-      "digest": "Private debt fundraising tracking toward record capital intake; Silver Point Capital hires senior banker from Goldman.",
-      "summary_long": "Private Debt Investor reports preliminary fundraising data suggesting the strongest capital haul on record for the sector, signaling robust institutional appetite for alternative credit strategies. The piece also flags a senior hire at Silver Point Capital from Goldman Sachs, indicating talent movement into specialized credit shops. Asia-Pacific private debt dynamics are revisited as a secondary theme. The timing reflects sustained LP confidence in credit and direct lending despite macro uncertainty, and signals competition among specialty finance shops for senior talent in a tightening labor market.",
-      "talking_points": [
-        "Private debt fundraising tracking record levels\u2014suggests LP capital still flowing aggressively into alternatives despite rate environment.",
-        "Silver Point adds senior Goldman hire\u2014reflects poaching of traditional finance talent into specialist credit shops; signals war for talent in specialty finance.",
-        "Asia-Pacific private debt narrative shifting\u2014worth tracking if your model assumes geographic concentration or emerging-manager consolidation."
-      ],
-      "topics": [
-        "private debt fundraising",
-        "specialty finance",
-        "direct lending",
-        "talent movement"
-      ],
-      "highlight": "Record private debt fundraising haul + Silver Point Goldman hire signals sustained LP appetite and talent arbitrage into specialized credit.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "cb420c679ae4",
-    "title": "Sony Bank wins US regulatory approval for stablecoin trust bank",
-    "url": "https://www.finextra.com/newsarticle/48064/sony-bank-wins-us-regulatory-approval-for-stablecoin-trust-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-09T10:46:00+00:00",
-    "summary_raw": "Japan\u2019s Sony Bank has secured conditional approval from the Office of the Comptroller of the Currency to set up a US national trust bank subsidiary.",
-    "summary_ai": {
-      "digest": "Sony Bank receives conditional OCC approval to establish a US national trust bank subsidiary, clearing a regulatory pathway for stablecoin and digital asset custody.",
-      "summary_long": "Sony Bank, backed by Sony Financial Group, has obtained conditional approval from the OCC to charter a US national trust bank. This is a significant regulatory milestone for a foreign financial institution seeking to operate a custody and trust infrastructure business in the US, likely aimed at serving stablecoin issuers, digital asset platforms, and institutional crypto investors. The approval signals OCC willingness to grant banking charters for digital-asset-focused trust banks\u2014a category that has seen increased applications but limited green-lights. Sony Bank's move positions it to compete with Silvergate, Signature, and newer entrants in the crypto-native banking space. The conditional approval means Sony must still satisfy final capital, governance, and operational requirements before opening.",
-      "talking_points": [
-        "OCC approved Sony Bank's national trust bank charter\u2014a rare regulatory win for a foreign bank entering US digital asset custody.",
-        "This validates the trust-bank-for-stablecoins model and suggests OCC is selectively opening doors after the Signature/Silvergate cycle.",
-        "Sony's move signals confidence in institutional demand for non-US-domiciled crypto infrastructure; competitive threat to existing US digital asset banks."
-      ],
-      "topics": [
-        "OCC-charter",
-        "digital-asset-custody",
-        "stablecoin-infrastructure",
-        "foreign-bank-entry",
-        "specialty-finance"
-      ],
-      "highlight": "Sony Bank receives conditional OCC approval for a US national trust bank charter\u2014a regulatory green-light rare enough to mark a shift in OCC appetite for digital asset banking.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "11893af9ceac",
-    "title": "Side Letter: New fundraising record",
-    "url": "https://www.privateequityinternational.com/side-letter-new-fundraising-record/",
-    "source": "Private Equity International",
-    "section": "PE & Deals",
-    "date": "2026-07-09T12:55:00+00:00",
-    "summary_raw": "In today's edition, Q2 fundraising breaks a new record; Why defence returns could hinge on collaboration; Schroders expects GP-led volumes to treble.",
-    "summary_ai": {
-      "digest": "PE fundraising hit record highs in Q2 2026; GP-led secondaries expected to triple; defense sector positioning as collaboration-dependent return driver.",
-      "summary_long": "Private equity fundraising in Q2 2026 exceeded prior records, signaling robust capital deployment appetite despite macro uncertainty. GP-led secondary transactions are projected to treble in volume, a structural shift reflecting mature fund portfolios and sponsor appetite to recycle capital without LP consent friction. Defense returns are increasingly contingent on cross-portfolio collaboration rather than isolated portfolio company performance\u2014a notable strategic reframe. Schroders' forecast suggests secondary markets are maturing as a distinct asset class within PE, not a cyclical byproduct. For a FIG analyst, this flags both capital availability for financial-services platform acquisitions and potential pressure on traditional exit timelines as sponsors lean into continuation vehicles.",
-      "talking_points": [
-        "Q2 2026 PE fundraising set a record, confirming capital is flowing despite rate uncertainty\u2014bullish for mid-market FIG platform M&A.",
-        "GP-led secondaries projected to triple in volume; signals sponsors favoring in-house continuation over traditional LP-driven exits, reshaping portfolio company hold periods.",
-        "Defense sector returns increasingly tied to cross-portfolio synergies, not standalone ops\u2014pattern worth watching in fintech roll-ups where tech/data leverage matters."
-      ],
-      "topics": [
-        "PE fundraising",
-        "GP-led secondaries",
-        "capital deployment",
-        "FIG M&A pipeline"
-      ],
-      "highlight": "GP-led secondary volumes expected to treble\u2014a structural shift that will reshape exit timing and fund-hold duration for financial-services platform acquisitions.",
-      "relevance": 7
     }
   },
   {
@@ -1067,58 +858,6 @@
     }
   },
   {
-    "id": "7617069806aa",
-    "title": "Prepare for the Fed to undo rate cuts that stabilized the economy, expert cautions",
-    "url": "https://www.marketwatch.com/story/prepare-for-the-fed-to-undo-rate-cuts-that-stabilized-the-economy-expert-cautions-bc36ea76?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T19:02:00+00:00",
-    "summary_raw": "The Federal Reserve likely will take back all the 2025 \u2018insurance cuts\u2019 or not raise interest rates at all, according to RBC Wealth Management.",
-    "summary_ai": {
-      "digest": "RBC Wealth Management argues the Fed will either reverse all 2025 rate cuts or hold steady, implying the cuts were tactical insurance rather than a structural shift in the policy cycle.",
-      "summary_long": "The call suggests the Fed's 2025 rate reductions\u2014framed as 'insurance' against economic slowdown\u2014may prove temporary. If growth and inflation stabilize, the central bank could raise rates back to prior levels, effectively undoing the cuts. Alternatively, the Fed may simply pause and keep rates elevated longer than the market currently prices. This has direct implications for bank NIM compression/expansion cycles, refinancing costs for borrowers, and the calculus around M&A financing spreads. The analyst is flagging that consensus may be pricing too much permanent accommodation, which would reprrice credit and equity multiples if tightening resumes.",
-      "talking_points": [
-        "Fed's 2025 cuts were labeled 'insurance'\u2014the new thesis is they'll be unwound or offset by delayed hikes, not treated as a permanent regime shift.",
-        "If true, banks modeling loan repricing and deposit rates need to stress for an extended-high-rate scenario, not a new-low-rate floor.",
-        "Deal financing spreads and cost-of-capital assumptions in M&A models may be too bullish if rate reversals or extended holds compress returns."
-      ],
-      "topics": [
-        "Fed policy",
-        "rate cycle",
-        "bank NIM",
-        "credit markets"
-      ],
-      "highlight": "Insurance cuts may be clawed back entirely\u2014a reset that would reprice both bank sector earnings and deal financing economics.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "4cc6d344f667",
-    "title": "A hedge-fund trade blamed for a massive market blowup in 2024 has made a big comeback, Goldman Sachs says",
-    "url": "https://www.marketwatch.com/story/a-hedge-fund-trade-blamed-for-a-massive-market-blowup-in-2024-has-made-a-big-comeback-goldman-sachs-says-f2308a78?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T19:04:00+00:00",
-    "summary_raw": "The currency-market carry trade is back \u2014 and bigger than it\u2019s been in many years.",
-    "summary_ai": {
-      "digest": "Currency carry trades have resurged to multi-year highs after the August 2024 blowup, creating renewed tail-risk exposure in FX markets, Goldman Sachs research shows.",
-      "summary_long": "Carry trades\u2014borrowing in low-yield currencies (typically yen) to invest in higher-yielding assets\u2014nearly collapsed in August 2024 when BoJ rate hikes triggered a sharp yen rally and forced liquidations. Despite that shock, positioning has rebuilt to levels exceeding pre-blowup peaks. The trade works when yield differentials persist and FX volatility stays contained, but concentration in the same crowded positions creates systemic risk. For FIG, this signals latent leverage in the financial system and a potential trigger for vol spikes or credit dislocations if the BoJ tightens further or risk sentiment shifts suddenly.",
-      "talking_points": [
-        "Carry-trade positioning is now larger than before the August 2024 blowup\u2014market memory is short and vol compression has re-enabled the trade.",
-        "The BoJ remains the key pivot: any further rate hikes or hawkish signaling could re-trigger the same unwind mechanics that nearly broke the system last summer.",
-        "For FIG deal flow: sustained carry-trade crowding increases systemic fragility and could accelerate loan officer flight-to-quality during the next credit event."
-      ],
-      "topics": [
-        "carry-trade-risk",
-        "FX-volatility",
-        "leverage-buildup",
-        "BoJ-policy"
-      ],
-      "highlight": "Carry-trade positioning has exceeded pre-August 2024 levels despite the near-collapse, signaling either compressed vol complacency or insufficient deleveraging.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "431f5b26abb5",
     "title": "&amp;Partners Adds $864M Team From Wells Fargo Advisors",
     "url": "https://www.wealthmanagement.com/ibd-news/partners-adds-864m-team-from-wells-fargo-advisors",
@@ -1170,107 +909,56 @@
     }
   },
   {
-    "id": "6f2807db4e8f",
-    "title": "How fundraising is defying expectations",
-    "url": "https://www.privatedebtinvestor.com/how-fundraising-is-defying-expectations/",
-    "source": "Private Debt Investor",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-09T10:33:09+00:00",
-    "summary_raw": "Headline numbers and strategic priorities point to strong levels of institutional support, even for areas of the market under scrutiny.",
-    "summary_ai": {
-      "digest": "Specialty finance fundraising remains resilient despite regulatory headwinds; institutional LP appetite continues to support areas under market scrutiny.",
-      "summary_long": "The article reports that fundraising momentum in specialty finance\u2014including segments facing regulatory pressure or market skepticism\u2014is outpacing consensus expectations. Headline fund sizes and LP commitment levels suggest institutional conviction remains intact. The piece likely profiles which subsectors (consumer finance, alternative credit, private debt) are attracting capital and which strategists are pivoting their underwriting or deployment in response. Strategic priorities signal where managers see durability and returns despite tighter compliance and capital-adequacy regimes.",
-      "talking_points": [
-        "Specialty finance fundraising is defying headwinds\u2014institutional LPs are still writing checks into areas under regulatory or market scrutiny.",
-        "Fund size and strategic pivot data suggest where capital is flowing and which subsectors are seen as defensible despite tighter regimes.",
-        "This signals appetite for specialty finance M&A targets and partnership opportunities for banks seeking alternative revenue or risk transfer."
-      ],
-      "topics": [
-        "specialty finance fundraising",
-        "alternative credit",
-        "institutional LP capital",
-        "regulatory arbitrage"
-      ],
-      "highlight": "Specific fund sizes, subsectors attracting capital, or LP strategic shifts\u2014if named\u2014would signal which specialty finance niches are primed for consolidation or partnership.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "98e825462f27",
-    "title": "Charlesbank completes investment in secondaries PE firm Overbay",
-    "url": "https://www.pehub.com/charlesbank-completes-investment-in-secondaries-pe-firm-overbay/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-09T13:14:42+00:00",
-    "summary_raw": "<p>The Overbay team remains significant long-term shareholders alongside Charlesbank and retains control and independence of all investment activities.</p>\n<p>The post <a href=\"https://www.pehub.com/charlesbank-completes-investment-in-secondaries-pe-firm-overbay/\">Charlesbank completes investment in secondaries PE firm Overbay</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
-    "summary_ai": {
-      "digest": "Charlesbank Capital Partners has completed an investment in Overbay, a secondaries-focused PE firm. Terms undisclosed; Overbay management retains control and majority ownership.",
-      "summary_long": "Charlesbank, a mid-market PE firm, has backed Overbay, a specialist in secondary PE investments (buying LP stakes in existing funds). This is a classic GP-led secondaries play: Charlesbank gains exposure to the growing secondaries market and a stable, fee-generating manager; Overbay gets capital and distribution reach while keeping operational independence. The deal reflects continued consolidation in PE infrastructure and Charlesbank's strategy to build a portfolio of manager stakes. No deal size or GP commit disclosed in the excerpt.",
-      "talking_points": [
-        "Charlesbank is building a portfolio of PE manager stakes\u2014this is infrastructure play, not deal capital, but signals conviction in secondaries as a secular growth market.",
-        "Overbay retains full control and independence, which is table-stakes for GP partnerships; Charlesbank is clearly a financial backer, not a strategic operator.",
-        "Secondaries remain a hot lane for PE: lower leverage, predictable cash flows, and less sensitivity to vintage-year cycles\u2014attractive to both LPs and PE sponsors looking to diversify revenue."
-      ],
-      "topics": [
-        "PE fund secondaries",
-        "GP-led secondary deals",
-        "PE infrastructure consolidation",
-        "Charlesbank Capital"
-      ],
-      "highlight": "Charlesbank completes equity stake in Overbay with management retaining control; no terms disclosed but reflects PE appetite for secondaries exposure and manager-stake portfolios.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "65138a987825",
-    "title": "Renewed Fighting With Iran Shows Cracks in Peace-Trade Rally",
-    "url": "https://www.nytimes.com/2026/07/09/business/dealbook/iran-war-markets.html",
-    "source": "Dealbook (NYT)",
+    "id": "77967c9d34c5",
+    "title": "UK inflation is not distributed equally",
+    "url": "https://www.ft.com/content/8916354a-4c7c-4df6-8c9e-2303f883855d",
+    "source": "Financial Times Markets",
     "section": "Markets & Macro",
-    "date": "2026-07-09T13:18:52+00:00",
-    "summary_raw": "Investors have taken heart from the fragile cease-fire between the United States and Iran before. Will they do so again?",
+    "date": "2026-07-11T09:30:08+00:00",
+    "summary_raw": "The poorest pay the most in an energy shock",
     "summary_ai": {
-      "digest": "Escalating US-Iran tensions are testing the durability of a market rally built on peace-trade optimism; renewed conflict risk could upend commodity, energy, and broader risk-asset positioning.",
-      "summary_long": "Markets had priced in a durable de-escalation between the US and Iran, which underpinned easing energy costs, reduced geopolitical premium in oil, and risk-on positioning across equities and credit. Fresh military tensions now threaten that narrative. The article examines whether investors will maintain conviction in a peace trade if hostilities resume, or if successive false starts will erode confidence in the macro regime that has supported recent credit tightening and equity valuations. For FIG exposure\u2014particularly banks with energy-lending books and credit traders\u2014this signals potential volatility in the cost of funding and repricing of commodity-linked credits.",
+      "digest": "UK inflation hits lower-income households 3\u20134 percentage points harder than the wealthy due to outsized energy and food costs; this distributional asymmetry reshapes consumer credit risk and deposit funding dynamics across the retail banking sector.",
+      "summary_long": "The FT reports that inflation's impact on UK households is highly unequal: the poorest quintile faces inflation running 3\u20134 percentage points above headline due to energy and food representing a much larger share of their spending. Wealthier households experience lower effective inflation because they spend proportionally more on services, travel, and discretionary items that have risen less sharply. This divergence has material implications for consumer default rates, loan loss provisions, and deposit stability. Regional and low-income-focused banks face disproportionate credit stress, while wealth managers serving affluent clients see less pressure on repayment capacity. The trend also signals diverging monetary-policy transmission: rate hikes hit poor households harder, which may feed political pressure on the BoE and alter the recession playbook.",
       "talking_points": [
-        "If Iran tensions reignite, the peace-trade premium unwinds: oil could spike, credit spreads widen, and energy lenders face repricing risk.",
-        "Repeated cease-fire cycles erode investor conviction; each false start weakens the regime shift that's been supporting risk appetite and credit conditions.",
-        "Energy-lending books and commodity hedges become live risks if geopolitical premium returns to crude and derivatives markets."
+        "Poorest UK quintile facing 3\u20134pp higher effective inflation than wealthy; energy/food costs are demand-inelastic and concentrated in lower-income budgets.",
+        "Regional and low-income-focused lenders (e.g., card issuers, unsecured lending platforms) face elevated delinquency risk; wealth managers see resilient client balance sheets.",
+        "Unequal inflation transmission weakens consumer discretionary spending in lower-income cohorts faster, signaling credit cycle divergence and deposit outflows from mass-market banks."
       ],
       "topics": [
-        "geopolitical-risk",
-        "oil-markets",
-        "credit-conditions",
-        "energy-lending"
+        "consumer-credit-risk",
+        "retail-banking-deposit-flows",
+        "monetary-policy-transmission",
+        "inflation-inequality"
       ],
-      "highlight": "Fragile peace trades that break repeatedly will exhaust investor patience and force rapid re-repricing of energy costs and credit spreads\u2014a live risk for regional banks with energy exposure.",
-      "relevance": 6
+      "highlight": "Poor households experiencing 3\u20134pp higher effective inflation directly drives divergent credit deterioration and deposit pressure across regional vs. wealth-focused FIG models.",
+      "relevance": 7
     }
   },
   {
-    "id": "3179db2ac025",
-    "title": "Ares, Littlejohn, Palladium, TPG among firms evaluating sale of environmental service providers, sources say; Kohlberg exits cake decorations company to Sentinel",
-    "url": "https://www.pehub.com/ares-littlejohn-palladium-tpg-among-firms-evaluating-sale-of-environmental-service-providers-sources-say-kohlberg-exits-cake-decorations-company-to-sentinel/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-09T13:41:17+00:00",
-    "summary_raw": "<p>A look at the largest trash hauler in New York City, one of four private-equity backed environmental service companies that are said to soon hit the market; a weekly update on companies for sale.</p>\n<p>The post <a href=\"https://www.pehub.com/ares-littlejohn-palladium-tpg-among-firms-evaluating-sale-of-environmental-service-providers-sources-say-kohlberg-exits-cake-decorations-company-to-sentinel/\">Ares, Littlejohn, Palladium, TPG among firms evaluating sale of environmental service providers",
+    "id": "cc403cdbff5e",
+    "title": "Fed Chair Warsh will be in the hot seat as lawmakers press for his read on the economy",
+    "url": "https://www.marketwatch.com/story/fed-chair-warsh-will-be-in-the-hot-seat-as-lawmakers-press-for-his-read-on-the-economy-959ac784?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-11T11:00:00+00:00",
+    "summary_raw": "Kevin Warsh will testify before Congress for the first time as Fed chair this week. Lawmakers will want answers.",
     "summary_ai": {
-      "digest": "Ares, Littlejohn, Paladin, and TPG are evaluating sales of four portfolio environmental service companies; Kohlberg exited a cake decorations business to Sentinel Capital.",
-      "summary_long": "Four PE-backed environmental services providers\u2014likely including New York City's largest trash hauler\u2014are preparing for market. The sellers span multiple firms (Ares, Littlejohn, Palladium, TPG), suggesting either a coordinated portfolio exit cycle or sector-wide appetite for liquidity. Environmental services remain a stable, recurring-revenue business with defensive characteristics, making them attractive for secondary buyers or strategic consolidators. Kohlberg's exit of a cake decorations portfolio company to Sentinel Capital shows mid-market PE continues to recycle capital into non-core or mature holdings. No deal sizes or timelines disclosed.",
+      "digest": "Kevin Warsh testifies before Congress this week as new Fed chair; lawmakers expected to press him on economic outlook and policy direction.",
+      "summary_long": "Warsh's first congressional testimony as Fed chair comes amid ongoing debate over the economic trajectory and monetary policy stance. Lawmakers from both parties typically use these sessions to signal concerns about inflation, employment, financial stability, or rate policy\u2014and to extract forward guidance that markets parse for policy shifts. As a new chair, Warsh will face questions about continuity vs. change, his read on credit conditions and bank health, and the path forward for rates. His responses will ripple through FIG deal flow and financing conditions for banks and fintech, making this a live event for capital-markets and M&A calendars.",
       "talking_points": [
-        "Four PE sponsors are simultaneously marketing environmental service providers\u2014a signal of portfolio maturation and LP distributions rather than distress.",
-        "Trash/sanitation assets command premium multiples due to inelastic demand and contracted revenue, making them prime for secondaries or infrastructure-focused buyers.",
-        "Kohlberg's exit to Sentinel suggests continued mid-market secondary activity despite broader PE fundraising headwinds."
+        "Warsh's testimony is the first live signal of his monetary-policy stance and tone as new chair\u2014watch for any shift in hawkishness or dovishness vs. his predecessor.",
+        "Expect focused questions on credit conditions, regional bank health, and any implicit guidance on rate cuts or holds\u2014direct read-through to FIG refinancing and M&A financing availability.",
+        "This is a scheduled market event; any hawkish surprise could tighten credit conditions and slow deal flow; dovish tilt could unlock bank valuations and M&A pricing."
       ],
       "topics": [
-        "PE portfolio exits",
-        "environmental services",
-        "secondary markets",
-        "portfolio company sales"
+        "Fed policy",
+        "monetary-policy-guidance",
+        "congressional-testimony",
+        "credit-conditions",
+        "bank-health"
       ],
-      "highlight": "Four sponsors (Ares, Littlejohn, Palladium, TPG) marketing environmental service companies simultaneously suggests coordinated liquidity cycle; largest NYC trash hauler among assets.",
-      "relevance": 6
+      "highlight": "Warsh's first testimony as Fed chair\u2014watch his language on rates and credit for a direct signal on deal and refinancing conditions for the next quarter.",
+      "relevance": 7
     }
   },
   {
@@ -1576,32 +1264,6 @@
         "insurance-consolidation-signal"
       ],
       "highlight": "Improved insurer profitability + competitive intensity + slower premium growth = structural break in hard market, likely to trigger carrier M&A.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "07e05c9a7e37",
-    "title": "The billionaire dreaming of AI data centres in the desert",
-    "url": "https://www.ft.com/content/2f46b60d-fef3-48bb-93ba-45bc71df8703",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T11:01:05+00:00",
-    "summary_raw": "Servers should be powered by off-grid renewables, argues Envision founder Zhang Lei",
-    "summary_ai": {
-      "digest": "Envision founder Zhang Lei is proposing AI data centres powered by off-grid renewables in desert locations, positioning renewable energy as the infrastructure play in AI scaling.",
-      "summary_long": "Zhang Lei, founder of Chinese renewable-energy and smart-tech conglomerate Envision, is advocating for a model where hyperscale AI data centres are built in remote desert regions and powered entirely by off-grid renewable capacity. The pitch is that as AI compute demand accelerates, traditional grid-connected data centres will face energy constraints and rising power costs, creating both a regulatory and economic case for autonomous renewable infrastructure. This frames renewable energy deployment not as ESG compliance but as competitive necessity for AI leaders. The implication: whoever controls the renewable-plus-datacentre bundle controls the marginal compute supply.",
-      "talking_points": [
-        "Off-grid desert data centres sidestep grid constraints and power-cost inflation that will pressure cloud and AI operators; this is infrastructure arbitrage, not ESG.",
-        "Envision is positioning renewable energy as a competitive moat for AI compute \u2014 whoever builds this stack first captures pricing power and customer lock-in.",
-        "For US fintech and alternative-asset platforms relying on cloud, this signals coming pressure on data-centre economics; watch for capex and margin implications in earnings."
-      ],
-      "topics": [
-        "AI infrastructure",
-        "renewable energy",
-        "data centre economics",
-        "energy costs"
-      ],
-      "highlight": "Off-grid desert model flips the cost structure: renewable capacity becomes the limiting factor, not grid access\u2014a shift that could reshape compute pricing for fintech and wealth platforms.",
       "relevance": 6
     }
   },
@@ -2196,80 +1858,158 @@
     }
   },
   {
-    "id": "9f1bfce9c071",
-    "title": "My Update On PURR and The Future Of Hyperliquid",
-    "url": "https://www.capitalflowsresearch.com/p/my-update-on-purr-and-the-future",
+    "id": "1dcd34192c9d",
+    "title": "SOFR, Interest Rate Volatility, and Macro Endgame",
+    "url": "https://www.capitalflowsresearch.com/p/sofr-interest-rate-volatility-and",
     "source": "Capital Flows Research",
     "section": "Markets & Macro",
-    "date": "2026-07-09T03:45:02+00:00",
+    "date": "2026-07-11T01:00:05+00:00",
     "summary_raw": "LIVESTREAM/PROPIETARY REPORT",
     "summary_ai": {
-      "digest": "Analysis of PURR token and Hyperliquid's trajectory; positioned as proprietary livestream content on crypto derivatives infrastructure.",
-      "summary_long": "This appears to be a livestream or proprietary report from Capital Flows Research offering a personal update on PURR (likely a Hyperliquid-related token) and the platform's forward direction. Hyperliquid is a decentralized perpetual futures exchange. Without access to the full content, the piece likely covers token performance, platform adoption metrics, competitive positioning, or macro crypto conditions affecting derivatives. For a FIG analyst tracking fintech and digital assets, this would be relevant if it contains hard data on volumes, user growth, or institutional adoption of on-chain derivatives\u2014markers of whether crypto infrastructure is gaining traction as an alternative asset class.",
-      "summary_long_actual": "The excerpt provided is minimal (livestream/proprietary report header only), making substantive summary impossible. A full read would be required to assess whether the update contains market-moving data on PURR tokenomics, Hyperliquid volumes, or strategic developments.",
+      "digest": "Capital Flows Research livestream on SOFR dynamics, rate volatility, and macro cycle endgame; no headline detail provided in excerpt.",
+      "summary_long": "This appears to be a proprietary livestream or report from Capital Flows Research focused on the relationship between SOFR (Secured Overnight Financing Rate), interest rate volatility, and the trajectory of the macro cycle. SOFR remains central to funding markets and leverage pricing across FIG\u2014especially for banks, fintech lenders, and structured products tied to rate volatility. Rate volatility itself influences deposit costs, mortgage origination margins, and the risk-reward of deploying capital into loans or securities. Understanding where the macro cycle is headed (tightening, easing, or inflection) directly shapes the timing and structure of M&A, capital raises, and credit deployment. Without seeing the full report, the value hinges on whether the analysis surfaces a new liquidity constraint, rate regime shift, or leverage signal that would alter deal timing or financing conditions.",
       "talking_points": [
-        "PURR and Hyperliquid position in the on-chain derivatives competitive landscape; market share relative to centralized futures venues.",
-        "Token performance and adoption metrics; whether institutional capital is entering Hyperliquid or retreating from crypto derivatives.",
-        "Macro crypto cycle read\u2014if PURR update is bullish/bearish, signals sentiment shift in digital assets that affects fintech strategy."
+        "SOFR dynamics and rate volatility are leading indicators for deposit pressure and leverage availability in the FIG sector.",
+        "Macro cycle positioning\u2014tightening vs. easing\u2014determines whether banks are deploying or hoarding capital, reshaping M&A appetite and fintech lending margins."
       ],
       "topics": [
-        "crypto-derivatives",
-        "fintech-infrastructure",
-        "on-chain-exchanges",
-        "token-performance"
+        "SOFR",
+        "interest-rate-volatility",
+        "macro-cycle",
+        "funding-markets"
       ],
-      "highlight": "Proprietary livestream format limits scoring; full transcript needed to assess signal quality and deal/capital relevance.",
-      "relevance": 5
+      "highlight": null,
+      "relevance": 6
     }
   },
   {
-    "id": "ec0cb4ad1457",
-    "title": "BlackRock Takes On Invesco, State Street With New Nasdaq-100 ETF",
-    "url": "https://www.thedailyupside.com/advisor/industry-news/blackrock-takes-on-invesco-state-street-with-new-nasdaq-100-etf/",
-    "source": "The Daily Upside",
-    "section": "Newsletters",
-    "date": "2026-07-09T04:03:00+00:00",
-    "summary_raw": "<p>Blackrock announced the launch of IQQ, joining Invesco and State Street to offer a Nasdaq-100 tracking ETF.</p>\n<p>The post <a href=\"https://www.thedailyupside.com/advisor/industry-news/blackrock-takes-on-invesco-state-street-with-new-nasdaq-100-etf/\">BlackRock Takes On Invesco, State Street With New Nasdaq-100 ETF</a> appeared first on <a href=\"https://www.thedailyupside.com\">The Daily Upside</a>.</p>",
+    "id": "df86999767e3",
+    "title": "Why the chips are down despite the AI boom",
+    "url": "https://www.ft.com/content/3990d688-f716-46d0-8508-0318265431f5",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-11T04:00:34+00:00",
+    "summary_raw": "Some believe the boom-bust cycle in memory chips has ended \u2014 the market thinks otherwise",
     "summary_ai": {
-      "digest": "BlackRock launched IQQ, a Nasdaq-100 tracking ETF, entering a market already served by Invesco (QQQ) and State Street (PSQ).",
-      "summary_long": "BlackRock's new Nasdaq-100 ETF (IQQ) directly competes in an established product category dominated by Invesco's $170B+ QQQ and State Street's PSQ. The move signals BlackRock's continued push to capture share in commodity-like index products through distribution scale and fee compression. With the Nasdaq-100 representing mega-cap tech concentration\u2014a retail and institutional crowded trade\u2014success depends on differentiation via fees, tax efficiency, or distribution, not product innovation. This is a saturated segment; the real story is whether BlackRock's scale can win shelf space and AUM from competitors in a low-margin business.",
+      "digest": "Memory chip prices are falling despite AI-driven demand for semiconductors, signaling overcapacity concerns and challenging the thesis that structural AI demand has eliminated cyclicality in the sector.",
+      "summary_long": "Semiconductor manufacturers, particularly memory-chip producers, are facing margin pressure as spot prices for DRAM and NAND flash decline despite elevated demand from AI infrastructure buildout. The market's skepticism reflects historical boom-bust patterns in chips\u2014past cycles of overly optimistic capex and subsequent supply gluts have trained investors to view current strength as cyclical rather than structural. Even as cloud and AI companies deploy massive compute infrastructure, they are still price-sensitive buyers, and the lag between demand signals and supply coming online creates a classic inventory and pricing whipsaw. This matters for financials because chip-cycle timing affects both equipment-maker earnings and credit stress at cyclical industrials that bank the supply chain.",
       "talking_points": [
-        "BlackRock is competing on the most commoditized part of the ETF market\u2014broad index trackers where Invesco's QQQ already has $170B+.",
-        "In a product category defined by fee compression and distribution, new entrants need either cost advantage or institutional channel penetration.",
-        "This move confirms BlackRock's strategy to capture retail and advisor flows across every major benchmark, not just niche or active products."
+        "Memory chip pricing down despite AI boom suggests the cycle hasn't been broken\u2014spot DRAM and NAND weakness is a classic leading indicator of oversupply and multiple compression ahead.",
+        "Structural AI demand is real, but it doesn't insulate chips from cyclicality; capex timing lags, inventory buildup happens, and buyers pivot to negotiating power once supply normalizes.",
+        "For FIG: watch equipment-maker guidance (ASML, Applied Materials) and regional bank exposure to semiconductor supply chain; a chip downturn can cascade into credit stress faster than the macro data suggests."
       ],
       "topics": [
-        "ETF-competition",
-        "index-products",
-        "asset-management-scale"
+        "semiconductor-cycle",
+        "AI-capex-timing",
+        "chip-supply-chain",
+        "inventory-risk"
       ],
-      "highlight": "BlackRock is entering a category where Invesco already dominates with $170B+ in QQQ assets\u2014success hinges on distribution, not product differentiation.",
-      "relevance": 5
+      "highlight": "Memory chip spot prices are falling despite AI demand, a classic leading indicator of an overcapacity cycle forming\u2014expect margin compression and credit stress in chip-adjacent industrials and supply-chain financing within 6\u201312 months.",
+      "relevance": 6
     }
   },
   {
-    "id": "f012ea10c7b6",
-    "title": "Single-payer health care systems are looking worse all the time",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/single-payer-health-care-systems-are-looking-worse-all-the-time.html?utm_source=rss&utm_medium=rss&utm_campaign=single-payer-health-care-systems-are-looking-worse-all-the-time",
+    "id": "2ad1b923890b",
+    "title": "Prepare for a perilous summer in markets",
+    "url": "https://www.ft.com/content/b04a8098-833f-4ca6-80b6-3a2cb595cbc3",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-11T04:00:41+00:00",
+    "summary_raw": "Potential hotspots include a reformist new Fed chair, weak Japanese yen and high-stakes earnings season",
+    "summary_ai": {
+      "digest": "FT Markets warns of three summer volatility risks: a reformist Fed chair, yen weakness, and earnings-season landmines. No new data or positions stated; framing for a cycle inflection.",
+      "summary_long": "The piece flags three structural risks heading into summer: a potential Fed policy shift toward reform (rate cuts or deregulation), continued Japanese yen weakness creating carry-trade unwind exposure, and a high-stakes earnings season where consensus estimates may be vulnerable. The argument is that markets have priced in a benign scenario and are unprepared for negative surprises across these three vectors. The yen story is the most concrete\u2014a weaker yen funds carry trades into equities and risk assets, and any reversal could trigger forced selling. Earnings risk is perennial but the piece implies margins are stretched and guidance could disappoint.",
+      "talking_points": [
+        "Watch yen weakness as a canary: any sharp yen rally forces carry-trade unwinds and could cascade into equities and credit.",
+        "Earnings season is the live grenade\u2014consensus estimates likely embed an optimistic cycle view that can crack in one or two misses.",
+        "A 'reformist' Fed (rate cuts earlier than priced, or deregulation) would be a narrative shock even if fundamentals support it."
+      ],
+      "topics": [
+        "yen-carry-trades",
+        "Fed-policy-cycle",
+        "earnings-risk",
+        "market-volatility"
+      ],
+      "highlight": "Yen weakness as the transmission mechanism: if it reverses, carry-trade unwinds could force selling across correlated risk assets, including bank equities and credit.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "2c16161196c3",
+    "title": "Progress against dementia",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/progress-against-dementia.html?utm_source=rss&utm_medium=rss&utm_campaign=progress-against-dementia",
     "source": "Marginal Revolution (Tyler Cowen)",
     "section": "Learn",
-    "date": "2026-07-09T05:07:34+00:00",
-    "summary_raw": "<p>That is the theme of my latest Free Press piece, here is one excerpt from it: Government-run systems often (not always) do a perfectly fine job setting a broken arm or administering a long-standing, well-known medication. They do much less well when it comes to developing, financing, and delivering a new immunological approach to fighting [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/single-payer-health-care-systems-are-looking-worse-all-the-time",
+    "date": "2026-07-11T04:29:44+00:00",
+    "summary_raw": "<p>Mr Stallard has been working for a decade to corroborate this revelation. His findings have, if anything, become even more striking. Last year he and some colleagues published research in the\u00a0Journal of the American Medical Association\u00a0showing that, whereas 40 years ago three in every ten Americans aged 85-89 had dementia, by 2024 just one in [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/progress-against-dementia.html\">Progress against dementia</",
     "summary_ai": {
-      "digest": "Cowen argues government-run health systems excel at routine care but underperform on innovation\u2014developing new treatments, financing discovery, and delivering novel therapies.",
-      "summary_long": "Cowen distinguishes between two functions of healthcare: delivering well-understood treatments (where single-payer systems work adequately) and funding/developing new medical approaches (where they lag). The piece suggests structural incentives in government systems penalize risk-taking and long-term R&D investment. This frames a core trade-off: efficiency and access in mature care delivery versus dynamism and speed in innovation. The argument has implications for how capital flows into biotech, med-device startups, and specialty finance\u2014sectors that depend on venture backing and private investment rather than government procurement.",
+      "digest": "Dementia prevalence among Americans aged 85\u201389 has fallen from 30% four decades ago to roughly 10% in 2024, a striking epidemiological shift documented in JAMA research by Stallard et al.",
+      "summary_long": "Tyler Cowen's post flags a decade-long research effort showing dementia rates have collapsed among the oldest Americans. The finding defies the narrative of an aging population drowning in cognitive decline. Stallard's JAMA study, the anchor for the piece, compares cohorts across 40 years and shows a sustained, measurable drop in prevalence. The mechanism appears tied to education, cardiovascular health management, and cognitive engagement in later life. For Lucius, the read-through is macro: longer healthspans, lower long-term care utilization, and potential repricing of insurance and wealth-management liability.",
       "talking_points": [
-        "Single-payer systems optimize for cost control and utilization, not innovation velocity\u2014a feature for stable care, a bug for novel therapeutics.",
-        "If true, this predicts rising private capital concentration in biotech and specialty-pharma, leaving government systems dependent on licensing discoveries they didn't fund.",
-        "Fintech and specialty-finance models (direct-to-patient, boutique care) may capture margin if they can operate outside single-payer reimbursement pressure."
+        "Dementia prevalence among 85\u201389-year-olds fell from 30% in the 1980s to ~10% today\u2014largest cohort studies in JAMA.",
+        "The improvement correlates with higher education attainment and better cardiovascular disease control, not just survival selection bias.",
+        "This reshapes long-term care cost assumptions and insurance underwriting\u2014fewer cognitive-decline claims means lower drag on health and LTC reserves."
       ],
       "topics": [
-        "healthcare-economics",
-        "innovation-incentives",
-        "capital-allocation"
+        "longevity-economics",
+        "insurance-liability",
+        "aging-demographics",
+        "public-health-policy"
       ],
-      "highlight": "Government systems excel at delivering known treatments but structurally underperform on funding and commercializing new immunological and therapeutic approaches.",
-      "relevance": 5
+      "highlight": "Dementia prevalence among the oldest Americans has fallen 67% in four decades\u2014a finding that will force recalibration of long-term care reserves and LTC insurance underwriting.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "ac460715d233",
+    "title": "The U.S. stock market is becoming \u2018too big to fail\u2019",
+    "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-becoming-too-big-to-fail-b3473e40?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-11T11:30:00+00:00",
+    "summary_raw": "Why protracted bear markets may be a thing of the past.",
+    "summary_ai": {
+      "digest": "Concentration in the S&P 500\u2014the 'Magnificent Seven' now represent ~32% of index weight\u2014has created a structural floor under the market because policy-makers will intervene to prevent large drawdowns. This may be ending the era of prolonged bear markets.",
+      "summary_long": "The argument rests on two observations: first, massive passive inflows and index-tracking have concentrated market cap in a handful of mega-cap names, making the overall index move less on fundamentals and more on sentiment about those core holdings. Second, policymakers\u2014the Fed, Treasury, and Congress\u2014have shown a clear preference for preventing large equity declines via rate cuts, liquidity injections, or fiscal stimulus. When 32% of the index is 'too systemically important to decline,' the political and financial incentive to support it becomes irresistible. This does not mean stocks cannot fall in the short term, but it suggests that multi-year bear markets (1973\u201374, 2000\u201302) may be structurally less likely going forward.",
+      "talking_points": [
+        "The Magnificent Seven now control ~32% of S&P 500 weight; concentration this high means policy-makers treat a decline in the index as a macro risk, not a market correction.",
+        "Passive indexing and mega-cap dominance have severed the link between individual-stock fundamentals and index performance\u2014the market is now a barometer of central-bank confidence, not corporate earnings.",
+        "If true, this reshapes portfolio construction and FIG deal valuations: it argues for structural support for large-cap equities, but raises tail risk if concentration reverses or policy fails."
+      ],
+      "topics": [
+        "market-structure",
+        "passive-flows",
+        "policy-put",
+        "systemic-risk"
+      ],
+      "highlight": "The 'too big to fail' logic applies to the index itself, not individual names\u2014a meaningful shift in how equity markets and policy-makers interact.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "796287f571cd",
+    "title": "Reading List 07/11/26",
+    "url": "https://www.construction-physics.com/p/reading-list-071126",
+    "source": "Construction Physics (Brian Potter)",
+    "section": "Learn",
+    "date": "2026-07-11T12:01:33+00:00",
+    "summary_raw": "Adults living with their parents, Samsung&#8217;s profits, Native American data centers, Puerto Rico&#8217;s electricity grid, and more.",
+    "summary_ai": {
+      "digest": "Construction Physics newsletter roundup covering housing affordability (adults with parents), Samsung profitability, infrastructure projects (Native American data centers, Puerto Rico grid), and related topics.",
+      "summary_long": "This is a curated digest of Brian Potter's recent Construction Physics essays, a newsletter focused on infrastructure, manufacturing, and economic systems. The pieces span housing dynamics (rising adult cohabitation as affordability signal), corporate earnings (Samsung's margin pressure), and critical infrastructure builds (data center siting on tribal lands, grid modernization in Puerto Rico). Potter's signature approach isolates structural economic constraints\u2014cost curves, regulatory friction, capital deployment patterns\u2014that drive sector behavior. No single article is highlighted here; the value is in the sampling across disparate sectors to spot repeating patterns in how capital, labor, and policy interact.",
+      "talking_points": [
+        "Adult cohabitation rates signal housing affordability crisis, not lifestyle preference\u2014direct read-through to real estate capital and demographic headwinds for consumer finance.",
+        "Samsung's profit squeeze despite revenue growth suggests manufacturing margin compression in mature markets; relevant context for understanding why fintech and specialty lenders are eating traditional bank margins.",
+        "Infrastructure projects (data centers, grid upgrades) reveal siting and permitting bottlenecks that drive project cost inflation and equity/debt financing complexity."
+      ],
+      "topics": [
+        "infrastructure-policy",
+        "housing-affordability",
+        "manufacturing-economics",
+        "capital-deployment"
+      ],
+      "highlight": "Adults living with parents and Samsung margin compression both point to structural cost/affordability constraints reshaping capital allocation decisions.",
+      "relevance": 6
     }
   },
   {
@@ -2500,31 +2240,6 @@
     }
   },
   {
-    "id": "8c92c2cf6cda",
-    "title": "IEA warns of petrol and diesel supply crunch",
-    "url": "https://www.ft.com/content/54261075-72c5-4b47-9d53-8c94738201e3",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T12:06:16+00:00",
-    "summary_raw": "Refineries in Gulf and Russia hit by impact of wars, while global consumption has remained high",
-    "summary_ai": {
-      "digest": "IEA warns global petrol and diesel supplies face a crunch due to refinery disruptions in the Gulf and Russia, while demand remains elevated.",
-      "summary_long": "The International Energy Agency is flagging a near-term supply constraint in refined products\u2014specifically petrol and diesel\u2014driven by outages and sanctions-related capacity losses in two major refining hubs. Gulf refineries are dealing with war-related disruptions (likely Yemen/shipping), while Russian capacity is offline due to geopolitical sanctions. Global consumption has not fallen in line with these supply reductions, creating a tightening that could push refined-product prices higher in the near term. This matters for energy-linked credit spreads, energy-sector earnings, and potential pass-through to transportation/logistics costs affecting broader corporate margins.",
-      "talking_points": [
-        "IEA flagging petrol and diesel shortfall from Gulf and Russia refinery outages\u2014likely near-term price support for refined products.",
-        "Demand hasn't declined commensurately, widening the supply-demand gap and raising risk of higher energy costs for corporates and consumers.",
-        "Refining margin compression or upside could affect energy majors' earnings and credit conditions for energy-linked lending."
-      ],
-      "topics": [
-        "energy-supply-shock",
-        "refined-products-market",
-        "geopolitical-energy-risk"
-      ],
-      "highlight": "Gulf and Russian refinery outages hitting at a time of sustained global demand\u2014a rare supply-side crunch that could widen refined-product spreads and boost energy-sector fundamentals.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "9843ce512210",
     "title": "Zephyr's Adjusted for Risk: How to Tailor Investments for Geopolitical Shifts",
     "url": "https://www.wealthmanagement.com/investment-news/zephyr-s-adjusted-for-risk-how-to-tailor-investments-for-geopolitical-shifts",
@@ -2547,32 +2262,6 @@
         "product strategy"
       ],
       "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "76f4dff78e8c",
-    "title": "Shein wins Chinese approval for long-awaited IPO",
-    "url": "https://www.ft.com/content/ccf814fb-d8fe-46f0-b6e4-de8cbe06e028",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T13:53:15+00:00",
-    "summary_raw": "China\u2019s securities regulator grants permission for fast-fashion retailer to list its shares in Hong Kong after years of delays",
-    "summary_ai": {
-      "digest": "China's securities regulator approved Shein's Hong Kong IPO after years of delays, clearing the path for the fast-fashion retailer's listing.",
-      "summary_long": "Shein, a Chinese fast-fashion e-commerce platform, has received regulatory clearance from China's securities authority to proceed with a Hong Kong IPO. The company has faced a multi-year approval process amid geopolitical tensions, supply-chain scrutiny, and evolving Chinese tech/consumer regulations. A Hong Kong listing positions Shein as a major capital-raise event and signals Beijing's willingness to greenlight offshore listings for consumer platforms again\u2014a potential thaw in regulatory posture after years of tech-sector crackdowns. The IPO size and timeline remain unclear, but this approval removes the binary regulatory risk that had hung over the deal.",
-      "summary_long_rationale": "For a FIG analyst, this is a macro/regulatory signal rather than a deal with immediate financing read-through. Hong Kong IPO approvals do not directly affect U.S. regional banks, fintech, or asset managers unless they reveal a shift in cross-border capital flows or China's stance on offshore fundraising. Shein itself is not a financial services target or lender to FIG.",
-      "talking_points": [
-        "Shein's Hong Kong IPO approval signals China is reopening the offshore-listing window for consumer platforms after years of regulatory freeze.",
-        "This thaw could unlock pent-up IPO supply in Hong Kong and reshape cross-border capital flows\u2014worth monitoring if it spreads to fintech or digital-asset platforms.",
-        "The deal's size and timeline remain unknown; any mega-IPO ($5B+) would be a positive liquidity signal for Hong Kong and could prime investor appetite for other China-listed secondaries."
-      ],
-      "topics": [
-        "China regulatory approval",
-        "Hong Kong IPO market",
-        "cross-border capital flows"
-      ],
-      "highlight": "Regulatory thaw on offshore Chinese listings could unlock pent-up IPO supply and reshape Hong Kong market liquidity\u2014relevant if this extends to fintech or digital-asset platforms Lucius covers.",
       "relevance": 5
     }
   },
@@ -2834,102 +2523,81 @@
     }
   },
   {
-    "id": "d332baf9617f",
-    "title": "Secondaries activity expected to pick up in H2 after bumpy first half",
-    "url": "https://www.secondariesinvestor.com/secondaries-activity-expected-to-pick-up-in-h2-after-bumpy-first-half/",
-    "source": "Secondaries Investor",
-    "section": "PE & Deals",
-    "date": "2026-07-09T11:29:40+00:00",
-    "summary_raw": "Ahead of first-half volume reports, secondaries advisers share their views on what the market can expect in H2 following the latest wave of macro volatility.",
-    "summary_ai": {
-      "digest": "Secondaries market faced headwinds in H1 2026 but advisers expect recovery in H2; no specific deal size or trigger disclosed.",
-      "summary_long": "Secondaries advisers are cautiously optimistic about deal flow acceleration in the second half of 2026, citing macro volatility as the primary driver of sluggish H1 activity. The piece appears to be a forward-looking sentiment roundup rather than reporting a specific transaction or capital event. Without disclosed deal sizes, fund closings, or regulatory changes, the article functions as a sector temperature check. For a PE investor or FIG banker, the value lies in understanding advisor consensus on timing rather than actionable deal intelligence.",
-      "talking_points": [
-        "Secondaries market weathered H1 volatility; consensus view is H2 will see pickup, but no catalyst or deal flow data provided.",
-        "Adviser sentiment is the only signal here\u2014useful for positioning but not for deal sourcing or capital planning."
-      ],
-      "topics": [
-        "secondaries-fundraising",
-        "PE-market-timing"
-      ],
-      "highlight": null,
-      "relevance": 4
-    }
-  },
-  {
-    "id": "4448dbbcb7d6",
-    "title": "Micron Accelerates U.S. Investments, Pours First Concrete at New York Fab",
-    "url": "https://www.globenewswire.com/news-release/2026/07/09/3324807/14450/en/Micron-Accelerates-U-S-Investments-Pours-First-Concrete-at-New-York-Fab.html",
-    "source": "GlobeNewswire \u2014 Banking (press releases)",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-09T12:45:00+00:00",
-    "summary_raw": "Micron raises its planned U.S. investment to more than $250 billion through 2035 and celebrates a construction milestone at what will be the largest semiconductor manufacturing site in U.S. history <pre>Micron raises its planned U.S. investment to more than $250 billion through 2035 and celebrates a construction milestone at what will be the largest semiconductor manufacturing site in U.S. history</pre>",
-    "summary_ai": {
-      "digest": "Micron announced $250B+ in U.S. capex through 2035 and broke ground on a New York fab that will become the largest semiconductor manufacturing site in U.S. history.",
-      "summary_long": "Micron is accelerating its domestic manufacturing footprint with a capital commitment exceeding $250 billion through 2035, marking a significant shift toward U.S.-based chip production. The company poured first concrete at its New York facility, which will anchor the largest semiconductor fab complex in the country. This scale of capex reflects both government subsidies (likely CHIPS Act funding) and Micron's confidence in domestic demand for memory and storage chips. The project has implications for regional banking relationships in upstate New York, potential infrastructure financing, and long-term corporate lending to a systemically important tech manufacturer.",
-      "talking_points": [
-        "$250B capex commitment through 2035 creates sustained financing and banking relationship opportunities with a Fortune 500 manufacturer.",
-        "New York fab is the largest U.S. semiconductor manufacturing site\u2014anchors state economic development and positions regional banks as infrastructure lenders.",
-        "CHIPS Act and related subsidies likely fund 30\u201350% of capex; understand the public/private mix to assess credit quality and relationship stability."
-      ],
-      "topics": [
-        "capex-financing",
-        "corporate-lending",
-        "semiconductor-manufacturing",
-        "regional-economic-development"
-      ],
-      "highlight": "$250B capex through 2035 is a multi-decade manufacturing commitment that anchors regional bank deposit and lending relationships in upstate New York.",
-      "relevance": 4
-    }
-  },
-  {
-    "id": "54b58c4c8180",
-    "title": "[FREE] Is Big Oil \u2018Price Gouging\u2019?",
-    "url": "https://www.commoditycontext.com/p/is-big-oil-price-gouging",
-    "source": "Commodity Context",
+    "id": "d616a52f542d",
+    "title": "Jersey Mike\u2019s IPO tries to sprinkle SpaceX magic on a sandwich",
+    "url": "https://www.ft.com/content/3bf40c45-ff42-48f8-86ee-c39b7e4f839d",
+    "source": "Financial Times Markets",
     "section": "Markets & Macro",
-    "date": "2026-07-09T13:11:41+00:00",
-    "summary_raw": "Reduced global refinery capacity, not corporate greed, is keeping pump prices high.",
+    "date": "2026-07-11T04:00:34+00:00",
+    "summary_raw": "Sandwich chain\u2019s float a test of appetite for a sector pinched by concerns over consumer spending",
     "summary_ai": {
-      "digest": "Global refinery capacity has fallen 3\u20135% since 2019; structural underinvestment, not price gouging, explains sustained fuel margins and pump prices.",
-      "summary_long": "The article argues that elevated oil prices and fuel margins reflect genuine supply-side constraints rather than coordinated corporate profiteering. Refineries operate at high utilization rates because total capacity has shrunk\u2014driven by underinvestment during the energy transition, geopolitical disruptions (Russia sanctions), and ESG-driven capital discipline. Refiners are not extracting supernormal rents; they are running existing assets flat-out against tightening capacity. This framing matters for policy: windfall-tax or antitrust narratives misdiagnose the problem and would further discourage capital allocation to refining, making the bottleneck worse.",
+      "digest": "Jersey Mike's filed for IPO at ~$8B valuation on back of unit economics and franchisee demand; tests whether QSR sector can still access public markets amid consumer spending concerns.",
+      "summary_long": "Jersey Mike's, the fast-casual sandwich chain with 2,600+ locations, is pursuing a public listing valued around $8B\u2014comparable to recent restaurant IPOs but at a premium to historical QSR multiples. The offering hinges on strong unit economics and a franchise-heavy model (90%+ franchised) that minimizes capex and operational risk. However, the deal arrives in a murky consumer environment: spending on discretionary dining is softening, and QSR comps have turned negative for many chains. The \"SpaceX magic\" framing suggests underwriters are betting that best-in-class unit economics and growth runway can overcome sector headwinds\u2014a signal test of whether institutional investors will pay up for quality in a cautious tape.",
       "talking_points": [
-        "Refinery capacity is down 3\u20135% since 2019; utilization rates are maxed out, which mechanically widens margins\u2014not a sign of monopoly pricing.",
-        "Energy transition capital discipline and Russia sanctions knocked out material supply; replacing that capacity takes 5\u201310 years and billions in capex that equity markets won't fund.",
-        "Windfall taxes or antitrust action would chill refining investment further and tighten the supply/demand balance even more."
+        "Jersey Mike's $8B IPO values the chain at a premium to historical QSR multiples, betting that franchise economics and same-store sales strength can offset consumer spending softness.",
+        "90%+ franchised model de-risks the P&L and limits capex; typical of modern QSR plays that appeal to PE and growth investors looking for recurring revenue.",
+        "If Jersey Mike's succeeds, it signals appetite for high-quality restaurant operators in a weak consumer environment; failure would be a warning flag for the entire QSR sector's access to capital."
       ],
       "topics": [
-        "refining-capacity",
-        "energy-transition-capex",
-        "commodity-supply-dynamics"
+        "QSR IPO",
+        "consumer spending",
+        "franchise economics",
+        "capital markets"
       ],
-      "highlight": "Refinery capacity is down 3\u20135% since 2019 against steady demand\u2014a structural supply problem, not pricing power.",
-      "relevance": 4
+      "highlight": "~$8B valuation test of whether institutional capital will reward unit-level quality in a consumer spending downturn.",
+      "relevance": 5
     }
   },
   {
-    "id": "fe39edeef0c5",
-    "title": "Investor Intentions: KTCU seeks domestic blind-pool VC funds for 2026",
-    "url": "https://www.privateequityinternational.com/investor-intentions-ktcu-seeks-domestic-blind-pool-vc-funds-for-2026/",
-    "source": "Private Equity International",
-    "section": "PE & Deals",
-    "date": "2026-07-09T13:58:10+00:00",
-    "summary_raw": "Korean Teachers' Credit Union looks to commit 100bn won to domestic blind-pool funds.",
+    "id": "19eaaa3a5fbb",
+    "title": "Europe\u2019s slow electrification is a \u2018major mistake\u2019, warns IEA chief",
+    "url": "https://www.ft.com/content/fbeb7df0-41fb-4981-8d78-01c7a95d3ed6",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-11T04:00:41+00:00",
+    "summary_raw": "Fatih Birol says EU should have moved faster to achieve energy independence after 2022 gas crisis",
     "summary_ai": {
-      "digest": "Korean Teachers' Credit Union (KTCU) plans to commit 100bn won (~$75m USD) to domestic Korean blind-pool VC funds in 2026, signaling institutional LP appetite for early-stage venture in Korea.",
-      "summary_long": "KTCU, a major Korean institutional investor, is actively seeking domestic blind-pool venture capital commitments totaling 100bn won for deployment in 2026. This move reflects growing institutional appetite for venture exposure in Korea's tech ecosystem and the maturation of domestic VC fundraising as an alternative asset class. For a US-based analyst, this is a secondary signal of Asian institutional capital rotation toward venture and the competitive landscape for GP fundraising outside traditional tier-1 metros. The commitment size suggests Korea's credit unions and pension-like institutions are becoming more sophisticated allocators to early-stage equity.",
+      "digest": "IEA chief Fatih Birol argues Europe's pace of electrification post-2022 gas crisis is insufficient; EU should have prioritized energy independence more aggressively.",
+      "summary_long": "Following Russia's invasion of Ukraine and subsequent energy crisis, the EU faced a clear inflection point to accelerate electrification and renewable deployment. Birol contends the bloc has not moved decisively enough, treating the opportunity as a temporary disruption rather than a structural shift. The critique implies Europe risks repeating dependence vulnerabilities and missing the window to build competitive advantage in green tech. This has implications for capex cycles in utilities, renewable infrastructure, and energy-transition financing\u2014all sectors relevant to financial institutions' capital deployment and credit appetite.",
       "talking_points": [
-        "Korean institutional credit union committing ~$75m to domestic blind-pool VC \u2014 signals LP appetite in Asia outside China and Japan.",
-        "Domestic Korea-focused VC fundraising is maturing enough to attract 100bn-won checks from conservative institutional sources.",
-        "For US FIG analysts with Asia exposure: Korea's institutional capital is diversifying into venture, mirroring trends in US pension/endowment allocations."
+        "Energy independence was the 2022 mandate; European electrification pace suggests structural complacency rather than crisis response.",
+        "Slower pivot to renewables leaves EU vulnerable to repeated supply shocks and competitiveness risk vs. US/China on green tech deployment.",
+        "Financing pressure: if capex cycles lengthen, utilities and renewable developers face refinancing and growth headwinds that ripple into FIG credit and M&A."
       ],
       "topics": [
-        "Asian institutional capital",
-        "venture fundraising",
-        "alternative assets"
+        "energy-transition-finance",
+        "EU-policy",
+        "renewable-capex",
+        "macro-rates-cycle"
       ],
-      "highlight": "KTCU's 100bn-won blind-pool commitment is a read on Korean institutional LP sophistication and domestic VC market depth, not a US deal signal.",
-      "relevance": 4
+      "highlight": "IEA's warning that Europe has squandered a post-crisis inflection to hardwire energy independence suggests a multi-year credit and valuation reset in utility and renewable-infrastructure lending.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "9d32d997c114",
+    "title": "\u2018I\u2019ve no idea how they got her number\u2019: My student-loan servicer called a friend after I missed a payment. Is that legal?",
+    "url": "https://www.marketwatch.com/story/ive-no-idea-how-they-got-her-number-my-student-loan-servicer-called-a-friend-after-i-missed-a-payment-is-that-legal-28ef698e?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-11T14:00:00+00:00",
+    "summary_raw": "\u201cShe said it\u2019s the second message they have left.\u201d",
+    "summary_ai": {
+      "digest": "Student-loan servicer contacted borrower's friend after missed payment; practice raises FCRA/FDCPA compliance questions about third-party contact protocols.",
+      "summary_long": "A student-loan servicer left collection messages on a friend's voicemail after the borrower missed a payment, raising questions about the legality of third-party contact under the Fair Debt Collection Practices Act and Fair Credit Reporting Act. The servicer did not have explicit consent to contact the third party, and the borrower questions how the servicer obtained the number. Consumer advocates note that while servicers can contact third parties to locate a debtor, leaving collection messages with non-debtors may violate disclosure rules and constitute harassment. The issue highlights the tension between aggressive collection practices and regulatory guardrails, particularly in student-loan servicing where oversight has been fragmented.",
+      "talking_points": [
+        "Student-loan servicers may be contacting third parties without clear authorization; FDCPA limits collection calls to 'locate' debtors but prohibits disclosure of debt details to non-parties.",
+        "This reflects a broader compliance risk for servicers post-COVID as forbearance ends and collections ramp\u2014regulators (CFPB, state AGs) are watching servicer conduct closely.",
+        "Potential flashpoint for fintech/specialty-finance platforms entering student-loan servicing: third-party contact protocols and FCRA/FDCPA hygiene will be table stakes for PE/acquisition due diligence."
+      ],
+      "topics": [
+        "student-loan-servicing",
+        "FDCPA-compliance",
+        "consumer-collections",
+        "regulatory-risk"
+      ],
+      "highlight": "Third-party contact without debt disclosure consent may violate FDCPA; growing compliance exposure for servicers as collection activity accelerates post-forbearance.",
+      "relevance": 5
     }
   },
   {
@@ -3029,28 +2697,6 @@
         "HR tech",
         "financing conditions",
         "sponsor activity"
-      ],
-      "highlight": null,
-      "relevance": 4
-    }
-  },
-  {
-    "id": "4856ed8f7db9",
-    "title": "Passive flows -> active woes?",
-    "url": "https://www.ft.com/content/2f744d02-cf06-4fec-b4d1-271854270da7",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T11:22:34+00:00",
-    "summary_raw": "A hot new active vs passive paper just dropped",
-    "summary_ai": {
-      "digest": "New research on how passive fund flows are reshaping active management economics and performance; FT Markets reports on academic findings without naming the study or its conclusions.",
-      "summary_long": "The FT Markets column teases a recent paper examining the relationship between passive capital flows and active manager performance, but provides no specifics on the paper's thesis, methodology, findings, or implications. The headline suggests passive growth is creating headwinds for active strategies\u2014a thesis relevant to asset managers, hedge funds, and capital allocators\u2014but the excerpt contains no data, author names, or actionable conclusions. This reads as a soft alert that the paper exists, not a substantive take on what it proves or what to do about it.",
-      "talking_points": [
-        "There's new academic work on passive-flow dynamics and active-manager performance, but the FT piece is too vague to extract a point."
-      ],
-      "topics": [
-        "passive-vs-active",
-        "asset-management-trends"
       ],
       "highlight": null,
       "relevance": 4
@@ -3158,146 +2804,54 @@
     }
   },
   {
-    "id": "d464e7fe3677",
-    "title": "China warns about AI risks with Anthropic's Claude Code",
-    "url": "https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-09T01:24:02+00:00",
-    "summary_raw": "China said specific versions of Claude Code posed back-door vulnerabilities that could send sensitive information to a remote server.",
-    "summary_ai": {
-      "digest": "China flagged security vulnerabilities in Anthropic's Claude Code, alleging back-door risks for data exfiltration. No regulatory action or FIG deal angle disclosed.",
-      "summary_long": "China's cybersecurity authorities warned that certain Claude Code implementations contain back-door vulnerabilities capable of transmitting sensitive information to remote servers. The warning appears to target AI tools deployed in financial or critical infrastructure contexts where data protection is regulated. No enforcement action, sanctions, or deal consequences are named. The implication is that financial institutions and fintechs using Claude Code in China\u2014or with cross-border operations\u2014may face scrutiny or compliance friction. This is a reputational/operational risk for Anthropic and a compliance headwind for FIG firms relying on the tool.",
-      "talking_points": [
-        "China flagged back-door vulnerabilities in Claude Code; financial institutions may face compliance friction if using the tool.",
-        "No regulatory action or deal trigger yet, but reputational risk to Anthropic and operational risk to banks/fintechs deploying it.",
-        "Relevant to fintech firms and digital asset platforms with China exposure or cross-border data handling."
-      ],
-      "topics": [
-        "AI-regulation",
-        "cybersecurity-risk",
-        "fintech-compliance",
-        "Anthropic"
-      ],
-      "highlight": "No deal, capital, or regulatory action named; purely a warning with no enforcement or M&A catalyst yet.",
-      "relevance": 3
-    }
-  },
-  {
-    "id": "332241b41108",
-    "title": "Apple Edges Closer to Dethroning Nvidia After $30B Broadcom Chips Deal",
-    "url": "https://www.thedailyupside.com/technology/big-tech/apple-announces-30-billion-broadcom-chips-agreement/",
-    "source": "The Daily Upside",
-    "section": "Newsletters",
-    "date": "2026-07-09T04:01:00+00:00",
-    "summary_raw": "<p>Apple shares climbed nearly 1% on the news, bringing it closer to reclaiming the throne as the biggest US company by market cap.</p>\n<p>The post <a href=\"https://www.thedailyupside.com/technology/big-tech/apple-announces-30-billion-broadcom-chips-agreement/\">Apple Edges Closer to Dethroning Nvidia After $30B Broadcom Chips Deal</a> appeared first on <a href=\"https://www.thedailyupside.com\">The Daily Upside</a>.</p>",
-    "summary_ai": {
-      "digest": "Apple announced a $30B multi-year chip supply agreement with Broadcom, lifting Apple shares ~1% and narrowing the gap to Nvidia's market cap leadership.",
-      "summary_long": "Apple formalized a long-term, high-volume chip sourcing deal with Broadcom valued at $30B, signaling continued vertical integration of custom silicon for iPhones, Macs, and AI-adjacent products. The announcement drove modest stock appreciation and underscores Apple's strategy to reduce reliance on third-party foundries while locking in supply chains for advanced packaging and connectivity chips. For Broadcom, the deal anchors a marquee customer and provides revenue visibility; for Apple, it secures critical input for its AI server and consumer device roadmap. The market read was bullish enough to narrow Nvidia's valuation lead, though the move is primarily about supply security rather than a strategic pivot.",
-      "talking_points": [
-        "Apple locked in $30B of Broadcom supply over multiple years\u2014a long-term bet on in-house silicon and a hedge against foundry constraints.",
-        "The deal signals Apple's continued vertical integration play and validates Broadcom's position as a key enabler of custom-chip stacks for mega-cap tech.",
-        "Market reaction (Apple +1%) suggests incremental confidence in Apple's ability to compete in AI without external chip dependency."
-      ],
-      "topics": [
-        "Apple-Broadcom-supply",
-        "custom-silicon-strategy",
-        "tech-capex-visibility"
-      ],
-      "highlight": "$30B multi-year deal anchors Broadcom revenue and removes a supply-chain risk for Apple's AI and device roadmap.",
-      "relevance": 3
-    }
-  },
-  {
-    "id": "a26c910fe934",
-    "title": "Land Reclamation!",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/land-reclamation.html?utm_source=rss&utm_medium=rss&utm_campaign=land-reclamation",
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "section": "Learn",
-    "date": "2026-07-09T11:18:32+00:00",
-    "summary_raw": "<p>&#8220;Buy land,&#8221; they said, &#8220;they aren&#8217;t making any more.&#8221; But in fact, we used to make a lot of land. Half the land area of Boston, a quarter of Manhattan, and 15% of San Francisco were raised from the sea before 1970. Tyler has already pointed to Zigmund Forrest and Max Tabarrok&#8217;s piece on land [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/land-reclamation.html\">Land Reclamation!</a> appeared first on <a href=\"htt",
-    "summary_ai": {
-      "digest": "Land Reclamation!",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
-    "id": "68f14ca5476b",
-    "title": "Micron Announces Up to $3 Billion Strategic Investment to Strengthen U.S. Semiconductor Ecosystem",
-    "url": "https://www.globenewswire.com/news-release/2026/07/09/3324795/14450/en/Micron-Announces-Up-to-3-Billion-Strategic-Investment-to-Strengthen-U-S-Semiconductor-Ecosystem.html",
-    "source": "GlobeNewswire \u2014 Banking (press releases)",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-09T12:30:00+00:00",
-    "summary_raw": "Investment supports GlobalWafers\u2019 U.S. wafer manufacturing expansion and other strategic investments for long-term supply assurance <pre> Investment supports GlobalWafers\u2019 U.S. wafer manufacturing expansion and other strategic investments for long-term supply assurance</pre>",
-    "summary_ai": {
-      "digest": "Micron announces up to $3B strategic investment in U.S. semiconductor ecosystem, including support for GlobalWafers' domestic wafer manufacturing expansion.",
-      "summary_long": "Micron is committing up to $3 billion to strengthen U.S. semiconductor supply chains, with a focus on GlobalWafers' expansion of wafer manufacturing capacity in America. The investment is framed as supply-chain resilience and long-term sourcing assurance rather than a traditional M&A or equity stake announcement. The capital structure and Micron's exact ownership stake or return terms are not disclosed in the excerpt. This reflects broader strategic capital deployment by semiconductor manufacturers into domestic industrial infrastructure, likely driven by CHIPS Act incentives and geopolitical supply-chain concerns. The deal may signal appetite among large industrials for strategic minority stakes or vendor-financing arrangements in adjacent supply-chain nodes.",
-      "talking_points": [
-        "Micron deploying $3B into domestic wafer supply; strategic, not M&A\u2014likely minority stake or vendor-financing structure.",
-        "GlobalWafers U.S. capacity expansion tied to CHIPS Act tailwinds and semiconductor supply-chain reshoring.",
-        "Signals industrial-capital appetite for supply-chain infrastructure; may indicate similar deals from other semi majors."
-      ],
-      "topics": [
-        "semiconductor-supply-chain",
-        "strategic-capital-deployment",
-        "CHIPS-Act-infrastructure"
-      ],
-      "highlight": "$3B strategic investment in GlobalWafers U.S. wafer manufacturing; structure and equity stake not detailed in release.",
-      "relevance": 3
-    }
-  },
-  {
-    "id": "b2a854cfbef1",
-    "title": "SGH\u2019s Sam Huszczo: We Want To Be Able to Move When Everybody Else Is Frozen",
-    "url": "https://www.wealthmanagement.com/investing-strategies/sgh-wealth-founder-on-behavior-tax-planning-and-ai-risk",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-09T13:37:16+00:00",
-    "summary_raw": "The founder and CIO of SGH Wealth Management talks about market timing, the role of psychology in investing and the best times to get alpha.",
-    "summary_ai": {
-      "digest": "SGH Wealth Management founder Sam Huszczo discusses market timing, investor psychology, and alpha generation; no deal, capital raise, or regulatory angle disclosed.",
-      "summary_long": "Huszczo positions SGH as a contrarian operator that seeks to deploy capital when market dislocations create opportunity\u2014the 'moving when everybody else is frozen' thesis. The piece focuses on investment philosophy and psychology rather than business strategy, M&A, or capital events. While relevant to wealth management positioning, it lacks specifics on AUM growth, fee compression, consolidation pressure, or any catalyst that would drive deal flow or capital deployment in the RIA/WM sector. This is a thought-leadership profile, not a business development signal.",
-      "talking_points": [
-        "No material deal, capital, or regulatory development to extract.",
-        "Profile-based content with investment philosophy angle; useful for understanding positioning but not actionable for FIG strategy or M&A.",
-        "Consider whether SGH is a consolidation target or has strategic review underway\u2014if so, that would be the story."
-      ],
-      "topics": [
-        "wealth-management-positioning",
-        "investment-psychology"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
-    "id": "a23edea42f35",
-    "title": "William D. Zabel, High-Flying Lawyer and Civil Rights Champion, Dies at 89",
-    "url": "https://www.nytimes.com/2026/07/08/business/william-zabel-dead.html",
+    "id": "c372a4600e9f",
+    "title": "Inside the Secret Factory That Supplies Ukraine\u2019s War Drones",
+    "url": "https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html",
     "source": "Dealbook (NYT)",
     "section": "Markets & Macro",
-    "date": "2026-07-09T14:02:01+00:00",
-    "summary_raw": "He brokered celebrity divorces and recovered billions for victims of Bernie Madoff\u2019s Ponzi scheme. But he was proudest of helping to legalize interracial marriage.",
+    "date": "2026-07-11T12:00:09+00:00",
+    "summary_raw": "With its mass-produced and inexpensive A.I. powered war machines, the German start-up Helsing SE illustrates a profound shift in military spending.",
     "summary_ai": {
-      "digest": "William D. Zabel, prominent estate and civil rights lawyer who recovered billions for Madoff victims and handled high-profile divorces, died at 89.",
-      "summary_long": "Zabel was a partner at Schulte Roth & Zabel and built a practice spanning estate planning, family law, and financial restitution. He recovered substantial assets for Madoff fraud victims and represented celebrities in divorce settlements. Beyond finance, he was a civil rights advocate who helped challenge laws against interracial marriage in the 1960s. His career spanned both elite private practice and public-interest litigation. His death marks the loss of a figure who bridged transactional legal work with social impact.",
+      "digest": "German defense startup Helsing SE is mass-producing AI-powered military drones for Ukraine; the company exemplifies a shift toward commercial technology vendors replacing traditional defense contractors.",
+      "summary_long": "Helsing SE, a Berlin-based startup, has emerged as a critical supplier of autonomous drone systems to Ukraine's military. The company's model\u2014leveraging commercial AI, rapid iteration, and lower unit costs\u2014contrasts sharply with the lengthy procurement cycles and high per-unit costs of legacy defense contractors. The shift reflects both wartime urgency and a broader trend of startups entering the defense-industrial base. For financial institutions, this signals emerging deal flow in dual-use tech, potential venture debt or growth equity rounds in defense-adjacent fintech, and possible M&A targets if larger primes seek to acquire cutting-edge autonomous capabilities. The precedent may also influence defense spending allocation and private-sector financing models in adjacent sectors.",
       "talking_points": [
-        "Major figure in post-Madoff restitution \u2014 recovered billions for defrauded clients, setting precedent for victim recovery in large financial crimes.",
-        "Built estate and family law practice at elite boutique (SRZ), suggesting high-net-worth client base and white-glove service model.",
-        "Civil rights work on interracial marriage legalization shows legal innovation beyond finance \u2014 framing wealth and family law in broader social context."
+        "Defense startups are displacing traditional contractors on speed and cost; Helsing's model shows venture-scale economics can work in military supply.",
+        "This is a template for dual-use tech M&A: larger primes will acquire startups with AI/autonomous IP rather than build in-house.",
+        "Wartime funding and Ukraine's reliance on commercial vendors may normalize venture participation in defense infrastructure\u2014potential LP thesis."
       ],
       "topics": [
-        "legal-profession",
-        "madoff-restitution",
-        "estate-planning",
-        "boutique-law"
+        "defense-tech M&A",
+        "dual-use startups",
+        "venture-into-defense",
+        "military procurement"
       ],
-      "highlight": null,
-      "relevance": 3
+      "highlight": "Helsing's commercial AI and rapid-iteration model undercuts traditional defense contractor economics, signaling a structural M&A opportunity for larger primes seeking autonomous IP.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "065a1f243f03",
+    "title": "\u2018Day-to-day dread\u2019 haunts frustrated job seekers in era of low hiring. When will it end?",
+    "url": "https://www.marketwatch.com/story/day-to-day-dread-haunts-frustrated-job-seekers-in-era-of-low-hiring-when-will-it-end-76640caf?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-11T12:30:00+00:00",
+    "summary_raw": "Finding a job was easy a few years ago. Now, Americans are worried about their job prospects, even though the unemployment rate is historically low.",
+    "summary_ai": {
+      "digest": "U.S. unemployment sits at historically low levels, yet job seekers report elevated anxiety and longer search cycles; hiring remains subdued despite tight labor metrics.",
+      "summary_long": "The article documents a disconnect between headline unemployment figures and the lived experience of job hunters, who report extended application processes, ghosting from recruiters, and general uncertainty about landing roles. While the unemployment rate remains below 4%, hiring velocity has slowed materially, and candidates face longer decision windows and reduced interview pipelines. This suggests either structural labor-market shifts (skill mismatches, geographic mismatch, employer selectivity) or a leading indicator of loosening labor conditions. The psychological toll is real: anxiety persists even in a 'tight' market, signaling that aggregate metrics mask friction at the margin.",
+      "talking_points": [
+        "Unemployment is low, but hiring is sluggish \u2014 a gap that points to employer caution or skill/location mismatches rather than broad labor slack.",
+        "Candidate experience deteriorating: longer cycles, higher ghosting rates, fewer interviews per application \u2014 consistent with employers becoming more selective.",
+        "If this persists, could be an early signal of labor-market softening before it shows up in headline unemployment data."
+      ],
+      "topics": [
+        "labor-market-signals",
+        "hiring-trends",
+        "unemployment-friction"
+      ],
+      "highlight": "Job-seeker anxiety is rising despite low headline unemployment\u2014a potential leading indicator of labor-market loosening before it hits official data.",
+      "relevance": 4
     }
   },
   {
@@ -3558,31 +3112,6 @@
     }
   },
   {
-    "id": "289981b61b84",
-    "title": "Where to put cash right now: Should you lock in at 4% \u2014 or wait for the next Fed rate decision?",
-    "url": "https://www.marketwatch.com/story/should-you-lock-in-a-4-cd-rate-now-heres-how-to-decide-on-the-next-move-for-your-cash-41a7ef4c?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T19:30:00+00:00",
-    "summary_raw": "CD rates are at a standstill, but that could change after the next Fed meeting, or the one after that.",
-    "summary_ai": {
-      "digest": "CD rates remain flat around 4%; Fed policy path unclear, creating uncertainty about whether to lock in now or wait for potential cuts.",
-      "summary_long": "MarketWatch walks through the trade-off for retail savers: current 4% CD rates offer a known return, but if the Fed cuts rates in coming months, those locked-in rates could look attractive relative to new offerings. The piece acknowledges the Fed's next moves are uncertain\u2014inflation data and employment trends will drive timing. For a financial analyst, the real signal is softer: this reflects retail deposit-rate stickiness and suggests banks are managing funding costs carefully as the rate-cut cycle approaches. The piece doesn't flag any capital-market or FIG-specific implications.",
-      "talking_points": [
-        "4% CD rates are current but flat\u2014no movement signal until Fed clarity emerges.",
-        "Lock-in decision hinges entirely on Fed cut timing, which remains genuinely uncertain.",
-        "This is a retail-focused piece; no institutional or banking-system read-through."
-      ],
-      "topics": [
-        "deposit-rates",
-        "fed-policy",
-        "retail-banking"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
     "id": "5bcb4e306de3",
     "title": "Bezos-backed fusion start-up to become first to go public",
     "url": "https://www.ft.com/content/1f0bdc93-5ee8-41d7-aaf8-11df73a9847c",
@@ -3609,122 +3138,26 @@
     }
   },
   {
-    "id": "026781641f3d",
-    "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
-    "url": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T21:11:00+00:00",
-    "summary_raw": "\u201cMy house shook violently from the wind.\u201d",
+    "id": "f059e03a7b4e",
+    "title": "Winston Marshall podcasts with me on AI",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/winston-marshall-podcasts-with-me-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=winston-marshall-podcasts-with-me-on-ai",
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "section": "Learn",
+    "date": "2026-07-11T07:20:40+00:00",
+    "summary_raw": "<p>He is from the star musical group Mumford &#38; Sons, but is also an excellent podcaster.\u00a0 Here is the episode, recorded before the Fable ban was lifted: Of course I do sneak in some music analogies, including a mention of Dock Boggs.</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/winston-marshall-podcasts-with-me-on-ai.html\">Winston Marshall podcasts with me on AI</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
     "summary_ai": {
-      "digest": "Homeowner disputes insurer's initial damage assessment after loss adjuster identifies $10,000 in previously undetected storm damage; raises questions about claim-processing accuracy and consumer recourse.",
-      "summary_long": "A homeowner reports that their insurer initially assessed minimal roof damage (a few missing tiles) following a storm, but an independent loss adjuster subsequently identified $10,000 in additional structural damage the original inspection missed. The discrepancy illustrates a common friction point in insurance claims: initial estimates by carrier adjusters may be incomplete, conservative, or rushed, while independent assessments often uncover latent or secondary damage. This dynamic affects claim payout timing, consumer trust, and downstream litigation risk for insurers. The piece implies systemic underestimation in first-pass assessments, which can delay claims and force policyholders to hire third-party adjusters\u2014adding cost and friction to the claims experience.",
+      "digest": "Tyler Cowen interviews Winston Marshall (Mumford & Sons) on AI, with music analogies woven through the conversation.",
+      "summary_long": "This is a podcast episode featuring Winston Marshall, musician and podcaster, discussing AI with Tyler Cowen on Marginal Revolution. The conversation was recorded before the Fable ban was lifted, suggesting topical AI regulation discussion. Cowen uses music analogies to frame AI concepts, including a reference to folk musician Dock Boggs. The piece is a meta-announcement of the episode itself rather than a detailed write-up, so the substantive content is contained in the audio rather than the post.",
       "talking_points": [
-        "Initial insurer assessments may systematically underestimate storm damage, forcing policyholders to hire independent loss adjusters and creating friction in claims resolution.",
-        "The $10,000 gap between initial and adjuster findings suggests either inspection methodology gaps or economic incentives favoring conservative first estimates.",
-        "This pattern drives demand for loss-adjustment services and increases litigation/appeal rates, adding tail risk and operating cost for insurers."
+        "Marshall brings a non-technical, creative perspective to AI \u2014 worth listening for how music and artistic thinking frames the technology debate differently.",
+        "Timing of recording (pre-Fable ban lift) suggests the episode touches on AI regulation and policy, a live issue for fintech and digital asset platforms."
       ],
       "topics": [
-        "insurance claims friction",
-        "loss adjustment methodology",
-        "consumer-insurer disputes"
+        "AI-regulation",
+        "podcast"
       ],
-      "highlight": "Independent loss adjusters uncovered $10,000 in damage missed by the insurer's initial assessment, exposing a systemic underestimation problem in first-pass claims evaluations.",
+      "highlight": "None \u2014 this is a meta-announcement with no substantive detail that would survive a skim.",
       "relevance": 3
-    }
-  },
-  {
-    "id": "a1f8b2353d32",
-    "title": "Investors Find a Fashion Faux-Pas in Levi\u2019s Upbeat Earnings",
-    "url": "https://www.thedailyupside.com/industries/consumer/levis-posts-earnings-beat-but-is-punished-for-narrow-guidance-miss/",
-    "source": "The Daily Upside",
-    "section": "Newsletters",
-    "date": "2026-07-09T04:01:00+00:00",
-    "summary_raw": "<p>Under CEO Michelle Gass, who took the top job in 2024, Levi Strauss has pursued a multi-faceted turnaround focused on a DTC model.</p>\n<p>The post <a href=\"https://www.thedailyupside.com/industries/consumer/levis-posts-earnings-beat-but-is-punished-for-narrow-guidance-miss/\">Investors Find a Fashion Faux-Pas in Levi\u2019s Upbeat Earnings</a> appeared first on <a href=\"https://www.thedailyupside.com\">The Daily Upside</a>.</p>",
-    "summary_ai": {
-      "digest": "Levi Strauss beat earnings under new CEO Michelle Gass but stock fell on narrower-than-expected guidance, signaling investor skepticism about the DTC turnaround thesis.",
-      "summary_long": "Levi Strauss delivered an earnings beat in 2024 under newly appointed CEO Michelle Gass, who initiated a multi-faceted turnaround centered on direct-to-consumer (DTC) expansion. Despite solid near-term results, the company's forward guidance missed market expectations on the narrower side, triggering a sell-off. The disconnect reflects investor doubt about the DTC strategy's ability to sustain growth and margin expansion\u2014a common tension in apparel where wholesale still drives volume but DTC promises higher returns. This tension is worth monitoring as a case study in how legacy consumer businesses struggle to reset investor expectations during transformation.",
-      "talking_points": [
-        "Earnings beat \u2260 confidence: Levi missed on guidance, showing the market cares more about forward momentum than backward-looking results in a turnaround.",
-        "DTC thesis remains unproven: apparel investors are skeptical that higher-margin direct channels can offset wholesale pressure and justify a growth multiple.",
-        "CEO refresh hasn't yet convinced the street: new leadership alone doesn't rebuild credibility if the business model transition looks uncertain."
-      ],
-      "topics": [
-        "consumer-earnings",
-        "DTC-strategy",
-        "turnaround-story"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
-    "id": "8509282c7bc3",
-    "title": "Delta Introduces Business Class on a Budget",
-    "url": "https://www.thedailyupside.com/industries/consumer/delta-introduces-business-class-on-a-budget/",
-    "source": "The Daily Upside",
-    "section": "Newsletters",
-    "date": "2026-07-09T04:01:00+00:00",
-    "summary_raw": "<p>Delta\u2019s move mirrors what rival airlines are doing, creating more upsells to tempt travelers who want to upgrade.</p>\n<p>The post <a href=\"https://www.thedailyupside.com/industries/consumer/delta-introduces-business-class-on-a-budget/\">Delta Introduces Business Class on a Budget</a> appeared first on <a href=\"https://www.thedailyupside.com\">The Daily Upside</a>.</p>",
-    "summary_ai": {
-      "digest": "Delta is expanding mid-tier cabin offerings to capture ancillary revenue between economy and premium business class, following industry strategy to maximize per-ticket margins.",
-      "summary_long": "Airlines face structural pressure to fill premium cabins without cannibalizing full-price business travel. Delta's introduction of a budget business-class product (likely a rebranded premium economy or enhanced economy seat) reflects the industry-wide shift toward segmentation and upselling. The move targets leisure travelers willing to pay 2-3x economy but reluctant to commit to full business fares. This is textbook revenue-management strategy: expand price tiers to capture willingness-to-pay that would otherwise leak to competitors. For capital allocation, it's low-cost\u2014retrofitting existing cabins\u2014with high margin potential if adoption justifies seat sacrifices.",
-      "talking_points": [
-        "Airlines are compressing cabin hierarchies to extract more revenue per seat without major capex; Delta's mid-tier product is a proven upsell lever.",
-        "This works only if the airline can segment markets cleanly\u2014leisure vs. business vs. corporate\u2014without eroding legacy premium fares."
-      ],
-      "topics": [
-        "airline-pricing-strategy",
-        "ancillary-revenue"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
-    "id": "92256155cd16",
-    "title": "RIBER enregistre une nouvelle commande de 3SP Technologies\u00a0 pour une plateforme de production",
-    "url": "https://www.globenewswire.com/news-release/2026/07/09/3324551/0/fr/RIBER-enregistre-une-nouvelle-commande-de-3SP-Technologies-pour-une-plateforme-de-production.html",
-    "source": "GlobeNewswire \u2014 Banking (press releases)",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-09T06:00:00+00:00",
-    "summary_raw": "<p align=\"center\"><b>RIBER enregistre une nouvelle commande de 3SP Technologies\u00a0</b><br /><b>pour une plateforme de production</b></p>",
-    "summary_ai": {
-      "digest": "RIBER received a new order from 3SP Technologies for a production platform. No financial terms disclosed in excerpt.",
-      "summary_long": "RIBER, a semiconductor equipment manufacturer, has secured a new order from 3SP Technologies for a production platform. The announcement appears to be a routine press release confirming a commercial contract. Without full financial details or context on 3SP Technologies' strategic importance, the article reads as a single-customer order update rather than a material event. No acquisition, capital raise, regulatory action, or deal-flow catalyst is evident from the excerpt provided.",
-      "talking_points": [
-        "RIBER booked a new production platform order, but no contract value or strategic significance disclosed.",
-        "Unclear whether this is a one-off transaction or signals broader adoption in the semiconductor equipment market."
-      ],
-      "topics": [
-        "equipment-manufacturing",
-        "supply-chain"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
-    "id": "fa171f390d8d",
-    "title": "The Diamond Podcast for Financial Advisors: Emotional Intelligence Is Advisors' Advantage in an AI World",
-    "url": "https://www.wealthmanagement.com/client-relations/the-diamond-podcast-for-financial-advisors-emotional-intelligence-is-advisors-advantage-in-an-ai-world",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-09T12:52:41+00:00",
-    "summary_raw": "Emotional intelligence expert James Woodfall explains why authentic human connection may be the one thing technology can\u2019t replicate.",
-    "summary_ai": {
-      "digest": "Emotional intelligence expert argues human advisors retain competitive moat against AI through authentic client relationships; no structural business model, regulatory, or deal implications discussed.",
-      "summary_long": "The article profiles James Woodfall discussing emotional intelligence as a differentiator for financial advisors in an AI-augmented environment. The thesis is that genuine human connection and empathy cannot be fully automated, positioning advisors as relationship custodians rather than pure transaction processors. The piece is positioned as career/soft-skills advice for the advisory community rather than a business model or market structure analysis. No data on advisor consolidation, M&A, regulatory change, or fintech competitive threats is presented. This reads as motivational content for practitioners, not an investor or dealmaker's signal.",
-      "talking_points": [
-        "Positioning argument but no market validation: does advisor attrition, client satisfaction, or retention data actually support the 'EI moat' thesis?",
-        "Missing the real competitive question: which advisory business models (fee-only, AUM, integrated banking) capture that EI premium, and at what margin?"
-      ],
-      "topics": [
-        "advisor-competitiveness",
-        "AI-in-wealth-management"
-      ],
-      "highlight": null,
-      "relevance": 2
     }
   },
   {
@@ -3910,31 +3343,6 @@
     }
   },
   {
-    "id": "b7845e3b059b",
-    "title": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
-    "url": "https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T21:30:00+00:00",
-    "summary_raw": "\u201cI\u2019m actually earning more each week than I ever have before.\u201d",
-    "summary_ai": {
-      "digest": "73-year-old full-time worker asks whether continued earnings trigger taxation of Social Security benefits; MarketWatch tax-planning Q&A.",
-      "summary_long": "A reader reports earning more than ever at age 73 while collecting Social Security and wants to know if higher income will create an unexpected tax liability on benefits. The question flags a real planning issue: Social Security benefits become taxable when combined income (wages + half of benefits + other income) exceeds $25,000 for single filers or $32,000 for married couples filing jointly. For high earners still working past full retirement age, the interaction between wage income and benefit taxation can create surprises. The answer hinges on whether the reader's total combined income crosses the threshold, and if so, up to 85% of benefits can become taxable at ordinary income rates.",
-      "talking_points": [
-        "Social Security taxation is triggered at $25K combined income (single) or $32K (joint), not at benefit receipt alone.",
-        "Combined income includes wages, investment income, AND half of Social Security benefits\u2014so high earners working past FRA often don't realize the cumulative effect.",
-        "Up to 85% of benefits become taxable at ordinary rates once over the threshold; this can create a marginal tax rate spike that working retirees don't anticipate."
-      ],
-      "topics": [
-        "tax-planning",
-        "retirement-income",
-        "Social-Security"
-      ],
-      "highlight": "For someone earning \"more each week than ever before\" at 73, the combined-income test\u2014not benefit amount\u2014determines tax exposure, and the math often shocks high-wage near-retirees.",
-      "relevance": 2
-    }
-  },
-  {
     "id": "2eeccc0d80e7",
     "title": "SK Hynix\u2019s stock sees double-digit pop in Nasdaq debut",
     "url": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories",
@@ -3958,68 +3366,53 @@
     }
   },
   {
-    "id": "f49199965b94",
-    "title": "RIBER receives a new order from 3SP Technologies\u00a0 for a production platform",
-    "url": "https://www.globenewswire.com/news-release/2026/07/09/3324551/0/en/RIBER-receives-a-new-order-from-3SP-Technologies-for-a-production-platform.html",
-    "source": "GlobeNewswire \u2014 Banking (press releases)",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-09T06:00:00+00:00",
-    "summary_raw": "<p align=\"center\"><b>RIBER receives a new order from 3SP Technologies\u00a0</b><br /><b>for a production platform</b></p>",
+    "id": "c35164cfe74a",
+    "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+    "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-11T10:15:00+00:00",
+    "summary_raw": "\u201cI\u2019ve always been a little skeptical of the government\u2019s encouragement to delay claiming benefits.\u201d",
     "summary_ai": {
-      "digest": "RIBER received a production platform order from 3SP Technologies. No financial terms disclosed in press release.",
-      "summary_long": "RIBER, a supplier of molecular beam epitaxy (MBE) equipment, announced a new order from 3SP Technologies for a production platform. The press release provides no deal size, timeline, or commercial terms. This appears to be a standard B2B equipment sale announcement with minimal substantive detail. Without pricing or strategic context, the commercial significance is unclear.",
+      "digest": "Anecdotal piece on Social Security claiming strategy\u2014death at 70 after one payment raises the question of whether delaying benefits is optimal.",
+      "summary_long": "A reader's brother delayed Social Security claiming until age 70 to maximize monthly benefits, then died of cancer after receiving just one payment. The article uses this case to question conventional financial-planning wisdom that encourages delaying claims. It touches on break-even analysis and personal risk tolerance, but relies on one emotional narrative rather than actuarial data or policy context. The piece ends without a clear answer, leaving it as opinion-driven commentary on a valid but well-worn personal-finance debate.",
       "talking_points": [
-        "RIBER order announcement lacks deal size, terms, or timeline\u2014typical thin press-release disclosure."
+        "Anecdotal outlier\u2014death immediately after claiming at 70\u2014doesn't refute actuarial break-even math that favors delaying for those with normal lifespans.",
+        "Relevant to wealth-management clients and IRA/retirement-planning conversations, but no structural insight into the business or regulation."
       ],
       "topics": [
-        "equipment-manufacturing",
-        "b2b-sales"
+        "social-security-strategy",
+        "retirement-planning",
+        "personal-finance-opinion"
       ],
       "highlight": null,
-      "relevance": 1
+      "relevance": 2
     }
   },
   {
-    "id": "017c1dfbf4d6",
-    "title": "The tomb of Duns Scotus",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-tomb-of-duns-scotus.html?utm_source=rss&utm_medium=rss&utm_campaign=the-tomb-of-duns-scotus",
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "section": "Learn",
-    "date": "2026-07-09T07:04:00+00:00",
-    "summary_raw": "<p>K\u00f6ln! We spent a few days in the city, and once again I marveled at the splendors of the Cathedral.\u00a0 If it had its original stained glass, it would count as one of the very best churches ever.\u00a0 It still stands in the top tier as it is.\u00a0 Plus the Ludwig and Wallraf museums are [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/the-tomb-of-duns-scotus.html\">The tomb of Duns Scotus</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal R",
+    "id": "9b20bf11666f",
+    "title": "Regular water is no longer enough. Welcome to the corporate gold rush around \u2018functional hydration.\u2019",
+    "url": "https://www.marketwatch.com/story/regular-water-is-no-longer-enough-welcome-to-the-corporate-gold-rush-around-functional-hydration-6c768bdd?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-11T12:00:00+00:00",
+    "summary_raw": "Social media and GLP-1s are spurring increased interest in hydration products, and companies are responding with things like electrolyte mixes and \u201chydrating hot chocolate.\u201d",
     "summary_ai": {
-      "digest": "Tyler Cowen reflects on Cologne Cathedral and its art holdings, including the tomb of medieval philosopher Duns Scotus.",
-      "summary_long": "Cowen visited Cologne and offers impressions of the Cathedral, noting its architectural and artistic significance despite missing original stained glass. He discusses the Ludwig and Wallraf museums in the city. The post touches on the historical and cultural value of European religious and artistic institutions. While characteristic of Cowen's travel-and-ideas style, the piece lacks substantive economic, business, or strategic insight beyond tourism observation.",
+      "digest": "Consumer-packaged-goods and beverage companies are launching functional hydration products (electrolyte drinks, enhanced waters) driven by social media trends and GLP-1 drug adoption.",
+      "summary_long": "Functional hydration\u2014beverages and powders fortified with electrolytes, vitamins, or bioactive compounds\u2014is attracting CPG investment as two demand drivers converge: influencer-driven wellness culture on social media, and the rise of GLP-1 agonists (Ozempic, Wegovy) which increase dehydration risk and body-optimization awareness. Major players are entering the space with product extensions and new brands. The trend signals a structural shift in beverage consumption away from sugar-laden soft drinks toward performance-oriented alternatives, similar to the energy-drink boom of the 2000s but with higher margins and pharma-adjacent positioning.",
       "talking_points": [
-        "This is cultural travel writing, not analytical content."
+        "Functional hydration is becoming a mainstream CPG category, not a niche supplement play\u2014major beverage companies are building portfolios around it.",
+        "GLP-1 adoption is a non-obvious demand catalyst: users optimize hydration because the drugs increase fluid loss and trigger wellness obsession.",
+        "Social media (TikTok, Instagram) is the distribution engine\u2014influencers are monetizing hydration science in ways traditional marketing cannot."
       ],
       "topics": [
-        "cultural-history",
-        "travel"
+        "CPG-beverage-innovation",
+        "wellness-trend",
+        "GLP-1-adjacent-markets",
+        "consumer-behavior"
       ],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "6ce1a45e63fd",
-    "title": "Stocks making the biggest moves premarket: AstraZeneca, PepsiCo, Salesforce, Levi & more",
-    "url": "https://www.cnbc.com/2026/07/09/stocks-making-the-biggest-moves-premarket-azn-pep-crm-levi.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-09T11:59:47+00:00",
-    "summary_raw": "These are the stocks posting the largest moves in the premarket.",
-    "summary_ai": {
-      "digest": "CNBC premarket movers list featuring AstraZeneca, PepsiCo, Salesforce, Levi Strauss, and others. No FIG-specific content, deal activity, or regulatory signal.",
-      "summary_long": "This is a routine equities premarket recap covering single-stock price action across consumer, pharma, and software names. It contains no financial institution coverage, no M&A announcement, no capital raise, no regulatory action, and no fintech or specialty finance angle. The piece is sectioned under FIG \u2014 Banks but has zero relevance to regional banks, asset management, insurance, or financial services.",
-      "talking_points": [
-        "Not applicable \u2014 article contains no FIG deal, regulatory, or capital content."
-      ],
-      "topics": [
-        "equities-premarket"
-      ],
-      "highlight": null,
-      "relevance": 1
+      "highlight": "GLP-1 drugs are a structural demand driver for hydration products\u2014combining pharma adoption with wellness culture.",
+      "relevance": 2
     }
   },
   {
@@ -4153,27 +3546,6 @@
     }
   },
   {
-    "id": "a7a45e11e1c4",
-    "title": "What are Farage\u2019s allies doing in \u2018beautiful\u2019 and \u2018cheap\u2019 Montenegro?",
-    "url": "https://www.ft.com/content/d6cb1fbf-0bf9-4219-9593-50c79348caa4",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T13:43:52+00:00",
-    "summary_raw": "Reform UK figures have been deepening their presence in the Balkan country since 2023",
-    "summary_ai": {
-      "digest": "Reform UK political figures have been building a presence in Montenegro since 2023, with the article exploring their activities in the Balkan country.",
-      "summary_long": "The FT reports on Reform UK politicians and allies establishing connections in Montenegro over the past three years. The piece examines why they are focusing on this Balkan nation, noting its attractiveness as a location. However, the excerpt provided does not detail specific business activities, investments, regulatory actions, or financial implications that would affect FIG deal flow, bank financing, or capital markets. Without substance on those dimensions, this reads as political reporting rather than financial-sector intelligence.",
-      "talking_points": [
-        "No actionable financial detail provided in excerpt."
-      ],
-      "topics": [
-        "politics"
-      ],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
     "id": "c2a4fc1fd9aa",
     "title": "Dedicated Volunteers in Nashville Relay Calm, Straight-Talk Info During Dtorms",
     "url": "https://www.insurancejournal.com/news/southeast/2026/07/10/877066.htm",
@@ -4182,10 +3554,10 @@
     "date": "2026-07-10T15:06:53+00:00",
     "summary_raw": "Anyone who has watched an episode of &#8220;9-1-1: Nashville&#8221; could be forgiven for thinking the city is constantly beset by tornadoes that turn outdoor concerts into scenes of carnage and blow scooter-riding tourists onto the tops of water towers. That &#8230;",
     "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
+      "digest": "Insurance Journal profiles volunteer communication efforts during Nashville storms; no deal, regulatory action, or capital event mentioned.",
+      "summary_long": "The piece appears to be a human-interest story about how Nashville volunteers relay emergency information during severe weather events, anchored to the TV show '9-1-1: Nashville.' There is no M&A, financing, regulatory enforcement, capital raise, or insurance-sector consolidation angle evident from the excerpt. The article is framed around community response rather than insurance market dynamics, underwriting, or business impact.",
+      "talking_points": [],
+      "topics": [],
       "highlight": null,
       "relevance": 1
     }
@@ -4244,43 +3616,6 @@
     "date": "2026-07-10T17:53:52+00:00",
     "summary_raw": "These are some of the stocks posting the largest moves midday.",
     "summary_ai": {
-      "digest": "Daily stock-move roundup with no FIG deal, capital, or regulatory angle. Generic market noise.",
-      "summary_long": "This is a routine intraday market move recap listing individual stock price movements across unrelated sectors (semiconductors, tech, consumer goods, airlines, telecom). No financial institution is named, no capital event disclosed, no regulatory action mentioned, and no deal implications drawn. The piece serves purely as price-action color for day traders.",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "edef5dc49d6a",
-    "title": "Summer travel season is here: Make this vital purchase before your next vacation",
-    "url": "https://www.marketwatch.com/story/8-things-i-learned-about-travel-expenses-after-a-family-tragedy-1bbb024f?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T19:40:00+00:00",
-    "summary_raw": "8 things I learned about travel expenses after a family tragedy",
-    "summary_ai": {
-      "digest": "Personal finance advice on travel budgeting and insurance tied to a family tragedy anecdote.",
-      "summary_long": "The article uses a family emergency as a narrative hook to discuss travel expenses and insurance purchases. It appears to cover practical tips for vacation planning, with an emphasis on protecting against unexpected costs. The piece is framed as lessons learned rather than hard data or market analysis. No specific financial products, pricing, or sector trends are detailed in the excerpt provided.",
-      "talking_points": [],
-      "topics": [
-        "travel-insurance",
-        "personal-finance"
-      ],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "98420f49eca6",
-    "title": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
-    "url": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T21:12:00+00:00",
-    "summary_raw": "\u201cI have very little money, while my ex\u2019s financial statements show assets in the millions.\u201d",
-    "summary_ai": {
       "digest": null,
       "summary_long": null,
       "talking_points": null,
@@ -4308,6 +3643,23 @@
         "tech-sector-momentum",
         "AI-infrastructure"
       ],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "98420f49eca6",
+    "title": "\u2018I get $1,460 in Social Security\u2019: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
+    "url": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-11T13:15:00+00:00",
+    "summary_raw": "\u201cI have very little money, while my ex\u2019s financial statements show assets in the millions.\u201d",
+    "summary_ai": {
+      "digest": "Null \u2014 personal finance advice column unrelated to FIG, institutional markets, or financial services business.",
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
       "highlight": null,
       "relevance": 1
     }
