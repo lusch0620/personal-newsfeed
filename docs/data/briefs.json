@@ -1,36 +1,31 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Rotation signals as AI cools; Goldman eyes Chinese AI positioning; routine premarket moves.",
+    "lede": "Market rotation signals as AI trade cools, while Goldman deepens China AI positioning.",
     "bullets": [
       {
-        "text": "ETF strategist recommends rotating into underperforming sectors as AI trade cools\u2014potential opportunity to shift capital away from crowded positions.",
+        "text": "ETF strategist Mike Akins flagging underperforming sectors as rotation opportunity as AI trade loses momentum\u2014potential six-month upside window.",
         "refId": "41c27c0e8512",
         "source": "CNBC Finance"
       },
       {
-        "text": "Goldman Sachs published competitive positioning framework on Chinese AI models, signaling strategic sector focus without announcing new investments or partnerships yet.",
+        "text": "Goldman Sachs published competitive positioning framework on Chinese AI models, signaling strategic sector focus without concrete deal or partnership announcements.",
         "refId": "b94d24154e3a",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "Consolidation and growth dominate wealth management: &Partners bulks up with a $864M Wells Fargo team, XY Planning hits $1B milestone amid fee pushback, and ETF innovation accelerates.",
+    "lede": "XY Planning Network's Sapphire hits $1B AUM milestone amid fee pushback, but industry observers say the pricing is defensible.",
     "bullets": [
       {
-        "text": "&Partners acquires Foothills Legacy Wealth ($864M AUM, 8 advisors) from Wells Fargo Advisors, pushing total AUM to ~$58B in a continued hybrid model consolidation play.",
-        "refId": "431f5b26abb5",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "XY Planning Network's Sapphire platform hits $1B AUM but faces fee structure criticism\u2014Kitces counters that depth of service and RIA cost savings justify the premium pricing.",
+        "text": "XY Planning Network's Sapphire platform crossed $1 billion in AUM, drawing criticism over fee structure despite reaching the symbolic threshold.",
         "refId": "6996684bc783",
         "source": "RIABiz"
       },
       {
-        "text": "Five notable ETF launches in H1 2026 signal managers are actively responding to investor demand and regulatory shifts with new product innovation.",
-        "refId": "44023aa24bc6",
-        "source": "Wealth Management"
+        "text": "Michael Kitces defends Sapphire's fees as justified by service depth and lower total cost versus alternatives for RIAs seeking more comprehensive support.",
+        "refId": "6996684bc783",
+        "source": "RIABiz"
       }
     ]
   },
@@ -47,35 +42,35 @@
     "bullets": []
   },
   "Markets & Macro": {
-    "lede": "4 stories spanning retail banking stress, PE mega-fund dominance, chip sector cyclicality concerns, and summer volatility warnings.",
+    "lede": "Four markets stories flagging structural shifts: UK inflation hitting lower-income households hard, mega-PE dominance widening, memory chip oversupply despite AI, and summer volatility risks ahead.",
     "bullets": [
       {
-        "text": "UK inflation hits lower-income households 3\u20134 points harder than wealthy, driven by energy and food costs\u2014reshaping consumer credit risk and deposit dynamics across retail banking.",
+        "text": "UK inflation asymmetry\u2014lower-income households facing 3\u20134pp higher inflation than wealthy due to energy/food exposure\u2014reshapes retail banking credit risk and deposit funding mix.",
         "refId": "77967c9d34c5",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Top 20 PE firms raised $519B in H1 2026 (up 27% YoY) while smaller funds struggle; two-tier market signals consolidation risk among sub-scale players.",
+        "text": "Top 20 PE firms pulled in $519B in H1 2026 (+27% YoY) while smaller funds struggle; concentration signals consolidation pressure in sub-scale segment.",
         "refId": "fe3ad57cc805",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Memory chip prices falling despite AI demand surge, signaling overcapacity and challenging the narrative that structural AI demand has killed sector cyclicality.",
+        "text": "Memory chip prices falling despite AI boom\u2014overcapacity emerging and challenging the narrative that AI demand has killed cyclicality in semiconductors.",
         "refId": "df86999767e3",
         "source": "Financial Times Markets"
       },
       {
-        "text": "FT Markets flagging three summer volatility triggers: reformist Fed chair, yen weakness, and earnings-season landmines\u2014positioning for a cycle inflection point.",
+        "text": "Three summer volatility flashpoints: reformist Fed chair, yen weakness, and earnings landmines signal potential cycle inflection risk.",
         "refId": "2ad1b923890b",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Light day in the briefing\u2014one generic behavioral finance listicle and one sports media story with modest investor relevance.",
+    "lede": "Thin briefing day\u2014mostly generic advisor content and sports media noise with minimal FIG relevance.",
     "bullets": [
       {
-        "text": "MLS captures World Cup momentum despite USMNT exit, creating upside for broadcasters and league investors amid elevated media attention.",
+        "text": "MLS poised to capitalize on World Cup media spillover despite USMNT's early exit; potential upside for broadcasters and sports equity investors.",
         "refId": "0d1b2aea5a07",
         "source": "The Daily Upside"
       }
@@ -86,41 +81,46 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "5 stories spanning AI infrastructure, healthcare breakthroughs, and diagnostic trends\u2014with OpenAI scaling ChatGPT and dementia prevalence plummeting.",
+    "lede": "Health outcomes improving sharply (dementia down 67% in elderly Americans) while mental health diagnoses surge despite stable impairment\u2014plus a reset in AI competitive dynamics as open-source models close capability gaps.",
     "bullets": [
       {
-        "text": "OpenAI building ChatGPT superapp with integrated tools and enterprise capabilities; product lead Ambrosino laying out roadmap for expansion beyond chat interface.",
-        "refId": "b8bbc47b9782",
-        "source": "Big Technology"
-      },
-      {
-        "text": "Dementia prevalence among 85-89 year-olds crashed from 30% (1984) to ~10% (2024)\u2014JAMA study documents major epidemiological win, likely driven by education and cardiovascular health improvements.",
+        "text": "Dementia prevalence among Americans 85-89 collapsed from 30% to 10% over four decades, per JAMA research\u2014a major epidemiological win that deserves more attention.",
         "refId": "2c16161196c3",
         "source": "Marginal Revolution"
       },
       {
-        "text": "UK mental illness diagnoses in youth surged while actual functional impairment stayed flat\u2014suggests diagnostic creep and threshold lowering rather than worsening mental health.",
+        "text": "Open-source AI models now match frontier capabilities at 1/10th the cost, forcing investors to abandon 'better model = moat' thinking and hunt for sustainable competitive advantages instead.",
+        "refId": "fc03107930b6",
+        "source": "The AI Corner"
+      },
+      {
+        "text": "UK youth mental illness diagnoses skyrocketed while functional impairment stayed flat\u2014diagnostic creep or genuine labeling shift, but a signal to watch for policy/pharma implications.",
         "refId": "8c719342db13",
         "source": "Marginal Revolution"
       }
     ]
   },
   "all": {
-    "lede": "Wealth management consolidation accelerates while PE mega-funds dominate capital raises; inflation regimes diverge by income in UK.",
+    "lede": "Five stories spanning fintech scaling, macro inequality, PE concentration, and sector-specific headwinds.",
     "bullets": [
       {
-        "text": "&Partners acquires $864M Foothills team from Wells Fargo, pushing total AUM to ~$58B as hybrid broker/dealer model gains traction in advisor recruitment.",
-        "refId": "431f5b26abb5",
-        "source": "Wealth Management"
+        "text": "XY Planning Network's Sapphire platform hit $1B AUM but faces fee pushback; Kitces argues higher fees justified by service depth and RIA cost savings versus alternatives.",
+        "refId": "6996684bc783",
+        "source": "RIABiz"
       },
       {
-        "text": "Top 20 PE firms raised $519B in H1 2026 (+27% YoY) while smaller funds struggle\u2014consolidation risk rising as capital concentrates at mega-fund scale.",
+        "text": "UK inflation hits lower-income households 3\u20134 percentage points harder than wealthy due to energy/food costs\u2014reshaping consumer credit risk and deposit dynamics across retail banking.",
+        "refId": "77967c9d34c5",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Top 20 PE firms raised $519B in H1 2026 (up 27% YoY), signaling two-tier market concentration and consolidation risk for sub-scale funds.",
         "refId": "fe3ad57cc805",
         "source": "Financial Times Markets"
       },
       {
-        "text": "UK inflation hits lower-income households 3-4 points harder than wealthy due to energy/food costs, reshaping retail banking credit risk and deposit dynamics.",
-        "refId": "77967c9d34c5",
+        "text": "Memory chip prices falling despite AI-driven demand signals overcapacity and questions whether structural AI demand truly eliminated chip sector cyclicality.",
+        "refId": "df86999767e3",
         "source": "Financial Times Markets"
       }
     ]

@@ -1,31 +1,5 @@
 [
   {
-    "id": "431f5b26abb5",
-    "title": "&amp;Partners Adds $864M Team From Wells Fargo Advisors",
-    "url": "https://www.wealthmanagement.com/ibd-news/partners-adds-864m-team-from-wells-fargo-advisors",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-10T19:28:27+00:00",
-    "summary_raw": "Foothills Legacy Wealth Management, an eight-person practice based in Saratoga Springs, N.Y., brings the hybrid broker/dealer's total assets to approximately $58 billion.",
-    "summary_ai": {
-      "digest": "&Partners, a hybrid broker/dealer, acquired Foothills Legacy Wealth Management (8 advisors, $864M AUM) from Wells Fargo Advisors. The deal brings &Partners' total AUM to ~$58B.",
-      "summary_long": "&Partners has acquired Foothills Legacy Wealth Management, an eight-person advisory practice based in Saratoga Springs, New York, managing $864 million in assets. The deal was sourced from Wells Fargo Advisors, where the team was previously housed. This acquisition is part of the broader RIA/hybrid consolidation trend, where independent platforms and emerging wealth managers are pulling small-to-mid-sized teams from wirehouses seeking greater autonomy and economics. &Partners' AUM now stands at approximately $58 billion post-close. The move signals continued traction in the advisor recruitment space and &Partners' ability to compete for quality teams against larger competitors.",
-      "talking_points": [
-        "&Partners has now crossed $58B in AUM with the addition of this eight-person Saratoga Springs practice, showing accelerating growth in the hybrid channel.",
-        "The team was previously at Wells Fargo Advisors\u2014another data point in the trend of wirehouses losing advisory teams to platforms offering better economics and operational independence.",
-        "At $864M for eight advisors (~$108M per advisor), this reinforces strong unit economics in the RIA recruitment market right now."
-      ],
-      "topics": [
-        "RIA-consolidation",
-        "advisor-recruitment",
-        "wealth-management-M&A",
-        "wirehouse-defection"
-      ],
-      "highlight": "&Partners acquired $864M practice from Wells Fargo Advisors; AUM now ~$58B.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "6996684bc783",
     "title": "XY Planning Network 'Sapphire' hits $1 billion and gets smacked with fee criticism, but Michael Kitces says the fees 'make sense' with context -- not least that RIAs paying far less asked to get more, even at the higher rate",
     "url": "https://riabiz.com/a/2026/7/10/xy-planning-network-sapphire-hits-1-billion-and-gets-smacked-with-fee-criticism-but-michael-kitces-says-the-fees-make-sense-with-context-not-least-that-rias-paying-far-less-asked-to-get-more-even-at-the-higher-rate",
@@ -100,31 +74,6 @@
       ],
       "highlight": "Top 20 PE firms raised $519B in H1 2026 (+27% YoY), while total fundraising by smaller managers contracted\u2014signal that FIG M&A capital is consolidating into mega-fund hands.",
       "relevance": 7
-    }
-  },
-  {
-    "id": "b8bbc47b9782",
-    "title": "OpenAI's Plans For Its New ChatGPT Superapp",
-    "url": "https://www.bigtechnology.com/p/openais-plans-for-its-new-chatgpt",
-    "source": "Big Technology (Alex Kantrowitz)",
-    "section": "Learn",
-    "date": "2026-07-10T20:16:33+00:00",
-    "summary_raw": "OpenAI's Codex and ChatGPT app lead Andrew Ambrosino talks to Big Technology about the product and its roadmap.",
-    "summary_ai": {
-      "digest": "OpenAI is building a superapp around ChatGPT, with product lead Andrew Ambrosino discussing the roadmap for integrating tools, plugins, and enterprise capabilities.",
-      "summary_long": "OpenAI is extending ChatGPT beyond a chat interface into a broader platform\u2014a 'superapp' strategy that consolidates multiple use cases (coding, image generation, document analysis, voice) within a single product. The ambition is to create a sticky, multi-function destination rather than a single-purpose tool. This reflects a shift in AI product design: moving from novelty chatbot to embedded assistant across workflows. For financial services, this raises questions about AI adoption pathways in banking, wealth management, and fintech\u2014where multi-function platforms often win over point solutions. The timing matters: as competitors (Google, Microsoft, Anthropic) build similar stacks, OpenAI's distribution advantage and product velocity become deal-relevant.",
-      "talking_points": [
-        "OpenAI is betting on superapp consolidation\u2014integrating code, image, document, and voice capabilities into one ChatGPT hub\u2014not fragmented single-purpose APIs.",
-        "In financial services, superapp strategy mirrors wealth-tech consolidation (RIA platforms, digital onboarding suites)\u2014the player who owns the workflow wins customer switching costs.",
-        "If OpenAI succeeds, it reshapes fintech M&A logic: startups targeting narrow AI use cases (document review, KYC, portfolio analysis) face margin pressure from free or bundled superapp features."
-      ],
-      "topics": [
-        "AI-product-strategy",
-        "superapp-consolidation",
-        "fintech-disruption"
-      ],
-      "highlight": "OpenAI's superapp model\u2014bundling chat, code, image, document, and voice\u2014mirrors the RIA/wealth-tech playbook where control of the workflow trumps feature parity.",
-      "relevance": 6
     }
   },
   {
@@ -385,12 +334,38 @@
     }
   },
   {
+    "id": "fc03107930b6",
+    "title": "Nobody Cares About the Model Now. It's About the Type of Moat",
+    "url": "https://www.the-ai-corner.com/p/where-ai-moats-live-now",
+    "source": "The AI Corner (Ruben Dominguez)",
+    "section": "Learn",
+    "date": "2026-07-12T18:56:09+00:00",
+    "summary_raw": "Open models now rival the frontier at a fraction of the price. Founders care about moats. But what kind of moats?",
+    "summary_ai": {
+      "digest": "Open-source AI models now match frontier models in capability while costing 1/10th as much, forcing founders and investors to rethink sustainable competitive advantages beyond raw model performance.",
+      "summary_long": "The rapid commoditization of large language model performance\u2014driven by Meta's Llama releases and similar open efforts\u2014has collapsed the moat around model quality alone. Founders building on AI are now forced to compete on defensible advantages: data moats (proprietary datasets), distribution moats (embedded workflows), network effects, or switching costs rather than exclusive access to superior weights. This mirrors every prior tech platform shift: once capability flattens, winners differentiate on how deeply they integrate into customer workflows or control unique information. For financial services, this means the competitive question shifts from 'do we have the best model' to 'do we control the data or workflow our customers depend on.'",
+      "talking_points": [
+        "When models become commodities, moats move from capability to control\u2014data, distribution, switching costs, or embedded workflows.",
+        "Open-source parity with frontier models at 10% the cost means proprietary model advantage is shrinking fast; the winner will be whoever owns the customer interface and data flow.",
+        "Financial services analogy: an AI-powered underwriting tool is only defensible if it feeds on proprietary deal or borrower data no competitor can access."
+      ],
+      "topics": [
+        "AI commoditization",
+        "competitive moat",
+        "fintech strategy",
+        "data advantage"
+      ],
+      "highlight": "Open models now rival frontier at 1/10th the cost\u2014the moat is no longer the model, it's what you do with exclusive data or how deeply you embed in workflow.",
+      "relevance": 6
+    }
+  },
+  {
     "id": "cc229f153c0e",
-    "title": "As five big U.S. banks report earnings on the same day, Citigroup is the one to watch",
+    "title": "Why Citigroup is the one to watch when banks report earnings this week",
     "url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-12T15:30:00+00:00",
+    "date": "2026-07-12T19:31:00+00:00",
     "summary_raw": "Among the largest U.S. banks, Citigroup is expected to show the greatest improvement by one important measure. But it still has a long way to go to reach its own performance target.",
     "summary_ai": {
       "digest": "Citigroup expected to show largest earnings improvement among Big Five banks reporting today, but still trails its own performance targets.",
@@ -407,83 +382,6 @@
       ],
       "highlight": "Citigroup expected to show greatest improvement by key metric but remains below its own performance targets\u2014indicates progress on restructuring is real but incomplete.",
       "relevance": 6
-    }
-  },
-  {
-    "id": "44023aa24bc6",
-    "title": "Five Notable U.S. ETF Launches in The First Half of 2026",
-    "url": "https://www.wealthmanagement.com/etfs/five-notable-u-s-etf-launches-in-the-first-half-of-2026",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-10T19:40:50+00:00",
-    "summary_raw": "The launch of these products indicates that ETF managers are innovating by closely monitoring investor sentiment and regulatory changes and then quickly bringing products to market.",
-    "summary_ai": {
-      "digest": "ETF managers launched five notable products in H1 2026 in response to investor demand and regulatory shifts, signaling active product innovation in the asset management space.",
-      "summary_long": "The article catalogs five ETF launches in the first half of 2026 and frames them as evidence that managers are responding dynamically to investor sentiment and regulatory opportunity. The piece emphasizes speed-to-market and product innovation as competitive levers. No specific deal size, M&A, or regulatory trigger is named in the excerpt provided. The signal is structural: asset managers are actively competing on product velocity and customization, which suggests an active pipeline for new vehicles targeting advisor and direct retail channels. This is relevant to understanding the competitive and regulatory tailwinds in the wealth management ecosystem.",
-      "talking_points": [
-        "Five notable ETF launches in H1 2026 show active product competition driven by investor demand and regulatory openness.",
-        "Speed-to-market and responsiveness to sentiment are becoming competitive differentiation in asset management.",
-        "ETF proliferation suggests sustained AUM capture opportunities for managers with strong distribution and product-development bandwidth."
-      ],
-      "topics": [
-        "ETF innovation",
-        "asset management competition",
-        "product launches"
-      ],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "ffca0ea80512",
-    "title": "SK Hynix\u2019s US shares jump 13% on Nasdaq debut",
-    "url": "https://www.ft.com/content/33133a86-925e-4395-9f60-35e2a4052500",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T20:23:24+00:00",
-    "summary_raw": "South Korean memory chipmaker\u2019s US-listed stock price rose as high as $177 after pricing at $149",
-    "summary_ai": {
-      "digest": "SK Hynix raised $26.5B in its US market debut, the largest foreign company listing ever. The offering signals strong appetite for semiconductor supply-chain diversification amid US-China tech tensions.",
-      "summary_long": "SK Hynix, a major memory chipmaker, completed a $26.5B US listing\u2014exceeding the prior foreign listing record. The deal reflects structural demand from US institutional investors for semiconductor exposure outside China and strengthens the company's balance sheet for capex-heavy memory production. The timing capitalizes on elevated tech valuations and geopolitical de-risking of supply chains. For FIG, the deal signals robust capital markets appetite for large-scale, non-traditional issuers and may attract follow-on issuers seeking US equity access. The scale and success also underscores the enduring appeal of US equity markets for non-US corporates.",
-      "talking_points": [
-        "SK Hynix's $26.5B US listing breaks the foreign company record\u2014signals US investor appetite for semiconductor supply-chain diversification.",
-        "Timing reflects geopolitical de-risking demand and capex needs in a tight memory market; expect follow-on issuers from allied chip suppliers.",
-        "Capital markets liquidity and valuation multiples remain robust enough to absorb mega-IPOs, even outside traditional tech."
-      ],
-      "topics": [
-        "semiconductor-capex",
-        "US-IPO-market",
-        "supply-chain-geopolitics",
-        "capital-markets-liquidity"
-      ],
-      "highlight": "$26.5B\u2014the largest foreign company US listing ever\u2014signals structural investor appetite for semiconductor supply-chain de-risking.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "863e677e34a5",
-    "title": "Oil Context Weekly (W28)",
-    "url": "https://www.commoditycontext.com/p/ocw28w26",
-    "source": "Commodity Context",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T20:28:15+00:00",
-    "summary_raw": "Crude prices jump, see largest weekly gain since mid-May as Iran&#8217;s attempt to control Hormuz shipping flows prompted another round of skirmishes that threatened a broader collapse of the MOU ceasefire",
-    "summary_ai": {
-      "digest": "Crude rallies on Iran\u2013Hormuz tension; largest weekly gain since mid-May signals geopolitical risk premium re-pricing.",
-      "summary_long": "Oil prices spiked this week amid escalating Iran\u2013Hormuz shipping friction, marking the biggest weekly move since mid-May. The tension reflects unraveling ceasefire conditions (MOU) and renewed threat of strait chokepoint disruption. For FIG, this matters: volatility in oil creates headwinds for energy credit quality, lifts funding costs for exploration and production clients, and can cascade into regional bank energy exposures. It also signals energy-linked structured products (autocallables, reverse floaters) will reprice and potentially trigger hedging flows.",
-      "talking_points": [
-        "Oil's sharpest weekly move since May on Iran\u2013Hormuz risk; geopolitical premium is live again.",
-        "Ceasefire (MOU) fraying \u2014 watch for downstream impact on energy sector financing and credit spreads.",
-        "Affects regional bank loan books, structured product vega, and potential FIG refinancing timelines for E&P clients."
-      ],
-      "topics": [
-        "geopolitical-risk",
-        "energy-credit",
-        "oil-volatility",
-        "structured-products"
-      ],
-      "highlight": "Iran\u2013Hormuz friction reigniting energy volatility; direct read-through to bank energy exposure repricing and structured product hedging flows.",
-      "relevance": 5
     }
   },
   {
@@ -691,7 +589,7 @@
     "url": "https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html",
     "source": "Dealbook (NYT)",
     "section": "Markets & Macro",
-    "date": "2026-07-11T12:00:09+00:00",
+    "date": "2026-07-11T12:00:10+00:00",
     "summary_raw": "With its mass-produced and inexpensive A.I. powered war machines, the German start-up Helsing SE illustrates a profound shift in military spending.",
     "summary_ai": {
       "digest": "German defense startup Helsing SE is mass-producing AI-powered military drones for Ukraine; the company exemplifies a shift toward commercial technology vendors replacing traditional defense contractors.",
@@ -787,49 +685,6 @@
     }
   },
   {
-    "id": "75678120d99b",
-    "title": "RAM Fever",
-    "url": "https://www.generalist.com/p/generalist-intelligence-july-10",
-    "source": "The Generalist (Mario Gabriele)",
-    "section": "Learn",
-    "date": "2026-07-10T18:09:57+00:00",
-    "summary_raw": "The price of memory has roughly tripled in six months. Who ends up paying?",
-    "summary_ai": {
-      "digest": "RAM Fever",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
-    "id": "5bcb4e306de3",
-    "title": "Bezos-backed fusion start-up to become first to go public",
-    "url": "https://www.ft.com/content/1f0bdc93-5ee8-41d7-aaf8-11df73a9847c",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T19:57:18+00:00",
-    "summary_raw": "General Fusion\u2019s \u2018steampunk\u2019 approach to the technology is under scrutiny ahead of Nasdaq debut",
-    "summary_ai": {
-      "digest": "General Fusion, a Bezos-backed fusion energy company, is preparing for a Nasdaq IPO. The company's unconventional approach to fusion energy faces investor scrutiny as it moves toward public markets.",
-      "summary_long": "General Fusion, founded in 2002 and backed by Jeff Bezos's climate fund and other VCs, is moving toward a Nasdaq listing as the first pure-play fusion energy company to go public. The company uses a mechanically-driven 'steampunk' approach (pistons and hydraulics to compress plasma) rather than the laser or magnetic-confinement methods favored by competitors like Commonwealth Fusion or TAE Technologies. The IPO comes as venture capital interest in fusion has cooled after years of hype, and General Fusion's less-conventional technical pathway faces investor questions about engineering risk, timeline to commercialization, and capital efficiency. The public market debut will test whether institutional investors see fusion as a viable energy transition play or a speculative bet.",
-      "talking_points": [
-        "First fusion energy company to IPO, but on a mechanically-driven approach that diverges from industry consensus\u2014unusual technical bet in an already-speculative sector.",
-        "Bezos backing and VC pedigree signal strategic interest in fusion, but cooling venture sentiment and technical scrutiny suggest the IPO window is narrowing.",
-        "Fusion venture capital has recalibrated expectations; a public debut now raises questions about path to profitability and actual deployment timelines, not just lab results."
-      ],
-      "topics": [
-        "fusion-energy",
-        "clean-tech-ipo",
-        "venture-capital-exits",
-        "alternative-energy-infrastructure"
-      ],
-      "highlight": "First fusion company to IPO, but using a mechanically-driven 'steampunk' design that diverges from magnetic or laser consensus\u2014a technical bet investors will scrutinize heavily.",
-      "relevance": 3
-    }
-  },
-  {
     "id": "f059e03a7b4e",
     "title": "Winston Marshall podcasts with me on AI",
     "url": "https://marginalrevolution.com/marginalrevolution/2026/07/winston-marshall-podcasts-with-me-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=winston-marshall-podcasts-with-me-on-ai",
@@ -849,29 +704,6 @@
         "podcast"
       ],
       "highlight": "None \u2014 this is a meta-announcement with no substantive detail that would survive a skim.",
-      "relevance": 3
-    }
-  },
-  {
-    "id": "48aae2ba1d12",
-    "title": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
-    "url": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-11T16:00:00+00:00",
-    "summary_raw": "Financial literacy just hit a 10-year low \u2014 and it is devastating bank accounts.",
-    "summary_ai": {
-      "digest": "Financial literacy among U.S. adults has hit a 10-year low, with only 5% passing an 8-question test. The article frames declining financial knowledge as a direct driver of household financial stress.",
-      "summary_long": "MarketWatch reports on a financial-literacy benchmark showing the lowest competency levels in a decade, measured by a simple 8-question assessment. The framing connects weak financial knowledge to observable household financial distress\u2014debt levels, savings rates, retirement readiness. The implication for FIG professionals is indirect: lower consumer financial literacy may signal downstream stress in retail banking, lending, and wealth-management penetration, but the article itself offers no actionable data on specific products, institutions, or market signals. This reads as a consumer-interest headline rather than an institutional or market-moving development.",
-      "talking_points": [
-        "Financial literacy at 10-year lows could signal consumer stress in retail banking and lending quality going forward.",
-        "Only 5% of adults pass a basic 8-question financial test \u2014 but the article doesn't break down which topics or products are least understood."
-      ],
-      "topics": [
-        "consumer-financial-health",
-        "financial-literacy"
-      ],
-      "highlight": null,
       "relevance": 3
     }
   },
@@ -968,28 +800,6 @@
       ],
       "highlight": null,
       "relevance": 3
-    }
-  },
-  {
-    "id": "273bf0178b3d",
-    "title": "Stocks making the biggest moves premarket: Delta, Circle, Vodafone, Intel and more",
-    "url": "https://www.cnbc.com/2026/07/10/stocks-making-the-biggest-moves-premarket-dal-crcl-intc-more-.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-10T18:56:42+00:00",
-    "summary_raw": "These are the stocks posting the largest moves premarket.",
-    "summary_ai": {
-      "digest": "Premarket movers roundup with no named FIG deal, regulatory action, or capital event.",
-      "summary_long": "This is a generic market-open price-action recap listing stocks with largest premarket moves. It names Delta, Circle, Vodafone, Intel, and others but provides no detail on earnings surprises, M&A, capital raises, regulatory enforcement, or financing developments that would affect FIG deal flow or bank sector dynamics. The piece is a routine market-open cheerleader with no analytical lens.",
-      "talking_points": [
-        "This is a headline-scan placeholder, not a decision tool."
-      ],
-      "topics": [
-        "market-open",
-        "price-action"
-      ],
-      "highlight": null,
-      "relevance": 2
     }
   },
   {
@@ -1157,10 +967,34 @@
     "date": "2026-07-11T19:00:00+00:00",
     "summary_raw": "\u201cI have very little money, while my ex\u2019s financial statements show assets in the millions.\u201d",
     "summary_ai": {
-      "digest": "Null \u2014 personal finance advice column with no macro or FIG relevance.",
+      "digest": null,
       "summary_long": null,
       "talking_points": null,
       "topics": null,
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "70c03dec1212",
+    "title": "You don\u2019t have to be rich to be financially independent. Here\u2019s how to take control of your money.",
+    "url": "https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-be-financially-independent-heres-how-to-take-control-of-your-money-5345f146?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-12T19:27:00+00:00",
+    "summary_raw": "Relying on a high salary or a hot stock is a dangerous trap. Why the most secure people plan for sudden crisis.",
+    "summary_ai": {
+      "digest": "MarketWatch explainer on financial independence and crisis planning for middle-income earners, arguing high salary alone is insufficient without diversified income and emergency reserves.",
+      "summary_long": "The piece argues that financial security depends less on absolute income level than on disciplined planning: building emergency funds, diversifying income sources, and stress-testing finances against job loss or market downturns. It positions financial independence as a mindset accessible to non-wealthy people through behavioral changes rather than high earnings alone. The framing rejects the 'rich person's game' narrative and emphasizes resilience over wealth accumulation. No specific data, names, or actionable framework is provided\u2014the article functions as motivational personal-finance philosophy.",
+      "talking_points": [
+        "Financial independence is orthogonal to income level; it's a planning discipline, not a wealth threshold.",
+        "The article lacks concrete tools: no emergency-fund sizing, no income-diversification mechanics, no tax or investment structure.",
+        "Potentially useful for retail audience or internal firm marketing, but zero relevance to FIG deal flow, credit conditions, or institutional strategy."
+      ],
+      "topics": [
+        "personal-finance",
+        "general-interest"
+      ],
       "highlight": null,
       "relevance": 1
     }
