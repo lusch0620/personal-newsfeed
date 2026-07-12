@@ -1,290 +1,5 @@
 [
   {
-    "id": "39c58750aa31",
-    "title": "Circle gets OCC\u2019s full trust bank charter nod",
-    "url": "https://www.bankingdive.com/news/circle-occ-national-trust-bank-charter-full-approval-allaire-usdc-stablecoin/824969/",
-    "source": "Banking Dive",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-10T16:11:58+00:00",
-    "summary_raw": "<figure><div><img src=\"https://imgproxy.divecdn.com/xRMobZSO3DvqvWEq_p46fwbyJB-n8qLd4x7-YubQON0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjExNjUwMTM5LmpwZw==.webp\" /></div></figure><p>The company&rsquo;s CEO, Jeremy Allaire, said the development &ldquo;marks a defining step in bringing blockchain technology and digital assets into the core of the U.S. financial system.&rdquo;</p>",
-    "summary_ai": {
-      "digest": "Circle Internet Financial received full OCC trust bank charter approval, enabling direct deposit-taking and stablecoin issuance under federal banking supervision without a third-party bank intermediary.",
-      "summary_long": "Circle, a $9B+ fintech focused on stablecoins and blockchain payments, has secured a full national trust bank charter from the OCC\u2014a major regulatory milestone that converts its conditional approval into an active banking license. This allows Circle to hold customer deposits, issue USDC stablecoin directly, and operate the payment and settlement rails it has built without relying on partner banks. The charter removes a critical operational constraint and regulatory arbitrage risk: Circle can now compete more directly with traditional banks on custody, settlement, and treasury services for digital assets. For the FIG ecosystem, this signals OCC comfort with blockchain infrastructure and de facto validation of stablecoins as deposit-like instruments. It also creates a new category: a crypto-native bank with federal prudential oversight.",
-      "talking_points": [
-        "Circle now operates as a federally chartered trust bank\u2014same status as traditional custodians and deposit-takers, but built for digital assets and blockchain rails.",
-        "The charter eliminates Circle's dependency on bank partners for deposit-taking and stablecoin backing, materially improving unit economics and competitive positioning against both Coinbase and traditional custody players.",
-        "This sets a regulatory template: OCC has now approved trust charters for at least two major crypto firms (Kraken, Circle), suggesting digital-asset banking is becoming normalized in the banking system."
-      ],
-      "topics": [
-        "fintech-banking",
-        "stablecoin-regulation",
-        "crypto-custody",
-        "OCC-charter"
-      ],
-      "highlight": "Circle can now take deposits and issue USDC directly as a federally chartered bank, removing the operational and competitive disadvantage of relying on third-party banking partners.",
-      "relevance": 9
-    }
-  },
-  {
-    "id": "f2bdd0bc3ed5",
-    "title": "Circle gets final national trust bank approval",
-    "url": "https://www.finextra.com/pressarticle/110397/circle-gets-final-national-trust-bank-approval?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-10T17:47:00+00:00",
-    "summary_raw": "Circle Internet Group, Inc. (NYSE: CRCL), one of the world\u2019s leading internet financial platform companies, today announced that it has received approval from the U.S. Office of the Comptroller of the Currency (OCC) to establish First National Digital Currency Bank, N.A., a national trust bank. The bank will operate under the name Circle National Trust.",
-    "summary_ai": {
-      "digest": "Circle (NYSE: CRCL) received OCC approval to charter Circle National Trust, a national trust bank focused on digital assets and stablecoins. This is the first national trust bank charter granted to a crypto-native company.",
-      "summary_long": "Circle Internet Group has cleared final regulatory hurdle to establish a federally chartered national trust bank under OCC supervision. The charter positions Circle to offer custody, settlement, and trust services for digital assets and stablecoins without relying on third-party banking partners. This removes a critical dependency that has constrained Circle's USDC stablecoin and institutional services expansion. The approval signals OCC's willingness to grant trust bank charters to crypto platforms, setting a precedent. Circle can now compete more directly with traditional custodians (Fidelity, BNY Mellon) and eliminate banking-partner risk\u2014a pain point that nearly derailed similar fintech efforts during 2023 banking stress.",
-      "talking_points": [
-        "Circle now operates a federally chartered trust bank, eliminating third-party banking dependency\u2014a structural advantage for stablecoin issuance and institutional onboarding.",
-        "OCC approval validates the charter path for crypto platforms, likely accelerating similar applications from competitors (Coinbase, Kraken, Ripple).",
-        "The bank enables Circle to offer direct custody and settlement for digital assets, reducing counterparty risk and opening institutional revenue streams (e.g., pension funds, corporate treasurers)."
-      ],
-      "topics": [
-        "fintech banking charter",
-        "stablecoin regulation",
-        "digital asset custody",
-        "OCC regulatory action"
-      ],
-      "highlight": "Circle National Trust is the first OCC-approved national trust bank charter granted to a crypto-native company, removing banking-partner dependency and validating a regulatory pathway others will follow.",
-      "relevance": 9
-    }
-  },
-  {
-    "id": "6a70baa60865",
-    "title": "UK gives financial regulators oversight of cloud giants",
-    "url": "https://www.finextra.com/newsarticle/48074/uk-gives-financial-regulators-oversight-of-cloud-giants?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-10T14:29:00+00:00",
-    "summary_raw": "The UK government has put the four biggest cloud service providers - Amazon, Google, Microsoft and Oracle - under direct oversight by the country's financial regulators.",
-    "summary_ai": {
-      "digest": "UK Financial Conduct Authority and Prudential Regulation Authority gain direct oversight of Amazon, Google, Microsoft, and Oracle under new critical digital infrastructure framework.",
-      "summary_long": "The UK has designated the four largest cloud providers as critical digital infrastructure (CDI) under financial regulation, bringing them under direct supervision by the FCA and PRA for the first time. This regulatory move reflects growing concern about systemic risk from cloud concentration in the financial system\u2014a single outage at one of these providers could disrupt multiple banks and financial institutions simultaneously. The framework likely mandates reporting requirements, resilience standards, and incident notification protocols. This creates material operational and compliance obligations for the cloud giants' financial services divisions and may reshape how banks contract with and audit their cloud vendors. It signals a shift from treating cloud as IT commodity to treating it as critical financial infrastructure.",
-      "talking_points": [
-        "Four cloud giants now face direct FCA/PRA oversight as critical digital infrastructure\u2014this is the first time they've been formally regulated by UK financial authorities.",
-        "Banks using these platforms will face heightened audit and due-diligence requirements, likely driving demand for compliance infrastructure and third-party risk management services.",
-        "Regulatory framework likely includes resilience mandates and incident reporting, creating operating cost pressure on cloud providers and potential friction in bank-vendor negotiations."
-      ],
-      "topics": [
-        "UK regulation",
-        "cloud infrastructure risk",
-        "fintech operational risk",
-        "systemic risk"
-      ],
-      "highlight": "FCA and PRA now have direct regulatory authority over Amazon, Google, Microsoft, and Oracle\u2014creating new compliance and capital implications for banks dependent on these platforms.",
-      "relevance": 8
-    }
-  },
-  {
-    "id": "2f8489863424",
-    "title": "Options for Everyone",
-    "url": "https://www.netinterest.co/p/options-for-everyone",
-    "source": "Net Interest (Marc Rubinstein)",
-    "section": "Newsletters",
-    "date": "2026-07-10T15:06:18+00:00",
-    "summary_raw": "How the National Stock Exchange of India built the world&#8217;s busiest equity derivatives market",
-    "summary_ai": {
-      "digest": "India's NSE became the world's largest equity derivatives exchange by notional volume through retail-first design: standardized micro contracts, zero tick increments, and algorithmic matching that cut trading costs to near-zero.",
-      "summary_long": "The NSE's derivatives market grew from near-zero in 2000 to handling ~$1 trillion notional daily volume by focusing on retail participation rather than institutional flow. The exchange engineered low friction: micro lots (\u20b91 multiplier), tight spreads via technology, and a regulatory environment that permitted leverage-friendly structures. This contrasts sharply with developed-market derivatives designed for large institutions, where retail uptake remained marginal. The model reveals how market design\u2014not just underlying economic depth\u2014shapes whether derivatives become mainstream or esoteric tools. For a U.S. market where retail derivatives participation remains low and heavily debated, the NSE case suggests structural and psychological barriers, not inevitability.",
-      "talking_points": [
-        "NSE's derivatives volume dwarfs CME and EUREX combined by standardizing micro contracts and near-zero transaction costs\u2014a design choice, not a function of India's GDP.",
-        "Retail traders account for the majority of NSE derivatives flow; U.S. equity options still skew institutional despite growth, signaling that market structure shapes adoption.",
-        "The NSE model hints at why autocallables and retail derivatives products (like the $2.5B ETF trend noted in your feed) are gaining traction: consumers want leverage and income tools with defined risk, not just buy-and-hold equity."
-      ],
-      "topics": [
-        "derivatives-market-design",
-        "retail-derivatives-adoption",
-        "exchange-structure",
-        "emerging-markets-fintech"
-      ],
-      "highlight": "NSE's micro-contract design and frictionless matching cut the behavioral and cost barriers that kept U.S. retail out of derivatives\u2014suggesting a playbook for domestic fintech.",
-      "relevance": 8
-    }
-  },
-  {
-    "id": "166a7c410e4b",
-    "title": "Deals &amp; Moves: $608M Commonwealth Team Chooses Cetera",
-    "url": "https://www.wealthmanagement.com/ria-news/deals-moves-608m-commonwealth-team-chooses-cetera",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-10T16:29:13+00:00",
-    "summary_raw": "Also, Concurrent lands a $750M RIA, AmeriFlex added $1.7B in assets in the first half, F.L Putnam acquires a $500M New Hampshire-based RIA, and a Texas-based bank acquires to enter the wealth management space.",
-    "summary_ai": {
-      "digest": "Commonwealth Financial Network team with $608M AUM moves to Cetera; concurrent RIA M&A includes a $750M deal, $1.7B AUM addition to AmeriFlex, $500M New Hampshire RIA acquisition by F.L. Putnam, and a Texas bank entry into wealth management via acquisition.",
-      "summary_long": "A Commonwealth Financial Network advisory team managing $608M in assets has moved its broker-dealer affiliation to Cetera Financial Group, signaling continued consolidation in the RIA platform and independent advisor space. The move is part of a broader wave of wealth management M&A: Concurrent closed a $750M RIA deal, AmeriFlex added $1.7B in AUM in H1 2026, F.L. Putnam acquired a $500M New Hampshire-based RIA, and a Texas regional bank expanded into wealth management through acquisition. These transactions reflect sustained demand for scale among independent platforms and regional banks seeking to diversify revenue beyond lending.",
-      "talking_points": [
-        "Commonwealth team ($608M AUM) shifting to Cetera signals platform consolidation in the independent advisory space.",
-        "Concurrent, AmeriFlex, and F.L. Putnam all active in RIA M&A; Concurrent closed $750M deal while AmeriFlex added $1.7B AUM in H1.",
-        "Regional bank moving into wealth management via acquisition\u2014trend toward revenue diversification beyond traditional lending."
-      ],
-      "topics": [
-        "RIA consolidation",
-        "wealth management M&A",
-        "regional bank diversification",
-        "platform consolidation"
-      ],
-      "highlight": "Commonwealth $608M team moving to Cetera; concurrent RIA M&A includes $750M Concurrent deal and $500M F.L. Putnam acquisition.",
-      "relevance": 8
-    }
-  },
-  {
-    "id": "148699258161",
-    "title": "RIAs see established LPs\u2019 struggles as an opportunity",
-    "url": "https://www.buyoutsinsider.com/rias-see-established-lps-struggles-as-an-opportunity/",
-    "source": "Buyouts Insider",
-    "section": "PE & Deals",
-    "date": "2026-07-10T16:51:07+00:00",
-    "summary_raw": "Leaders of wealth management firms boast of advantages that cast them as rivals to traditional LPs, rather than merely new entrants to private markets on the margins.",
-    "summary_ai": {
-      "digest": "RIA leaders are positioning themselves as competitive alternatives to institutional LPs in private markets, leveraging scale, fee economics, and client capital to deploy capital directly rather than through traditional fund structures.",
-      "summary_long": "Wealth management firms\u2014particularly larger RIAs\u2014are moving beyond being passive LPs in PE funds and positioning themselves as direct deployers of capital into private markets. They argue they have structural advantages: lower fee drag (no 2/20 layer), persistent capital from long-term client assets, deep relationships with HNW clients, and operational sophistication. This represents a shift in the LP ecosystem: RIAs are no longer marginal players but are competing for deal flow and sourcing opportunities that traditionally went to institutional PE shops. The move is partly opportunistic\u2014established PE funds face fundraising headwinds and competition\u2014but also structural: as wealth consolidates in RIA platforms and assets shift to alternatives, these firms have both capital and incentive to internalize deployment.",
-      "talking_points": [
-        "RIAs are now direct competitors to traditional PE LPs, not just limited partners\u2014they control persistent capital and can undercut the 2/20 fee model.",
-        "This shift reflects capital flows: as HNW assets concentrate in larger RIA platforms, they have scale to deploy directly and capture carried interest rather than paying it away.",
-        "For bulge-bracket FIG teams and PE platforms, this means a new buyer class for secondary deals and co-investment opportunities\u2014but also margin pressure if RIAs disintermediate traditional PE fundraising."
-      ],
-      "topics": [
-        "RIA consolidation",
-        "PE LP market",
-        "wealth management M&A",
-        "alternative asset deployment"
-      ],
-      "highlight": "RIAs are positioning as capital deployers competing directly with institutional LPs\u2014a structural shift in who controls and deploys private-market capital.",
-      "relevance": 8
-    }
-  },
-  {
-    "id": "d4b674cc0fde",
-    "title": "Back-Leverage 101: A Fund's Mezzanine Position, Built From a Bank's Line of Credit",
-    "url": "https://www.trepp.com/trepptalk/back-leverage-101",
-    "source": "Trepp Talk",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-10T14:30:00+00:00",
-    "summary_raw": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://www.trepp.com/trepptalk/back-leverage-101\" title=\"\"> <img alt=\"Back-Leverage 101: A Fund's Mezzanine Position, Built From a Bank's Line of Credit\" class=\"hs-featured-image\" src=\"https://www.trepp.com/hubfs/GettyImages-2258773474%20(1).jpg\" style=\"width: auto !important; float: left; margin: 0 15px 15px 0;\" /> </a> \n</div> \n<p style=\"font-size: 18px; line-height: 1.75;\"><span style=\"color: #000000;\"><span st",
-    "summary_ai": {
-      "digest": "Trepp explains how PE funds use bank lines of credit to lever mezz positions\u2014a structural arbitrage between secured bank financing and higher mezzanine yields that amplifies returns but concentrates counterparty risk.",
-      "summary_long": "Back-leverage is the practice of a PE fund borrowing against its own mezzanine investment from a bank, typically using a revolving credit facility or term loan. The fund sources mezz at say 12\u201315% yield, borrows at SOFR+250 or lower, and pockets the spread while using leverage to scale returns on a smaller equity check. This mechanics matter because (1) it's increasingly common in sponsored deals where equity is scarce, (2) it creates a shadow financing dependency on the lending bank's appetite and covenant flexibility, and (3) it concentrates mark-to-market risk if the underlying portfolio deteriorates and the bank demands paydown or higher rates. Trepp's explainer is a primer on how this structure works and where the fault lines emerge.",
-      "talking_points": [
-        "Back-leverage lets a fund turn a $50M mezz investment into $100M+ exposure by pledging the mezz as collateral to a bank\u2014arbitraging the spread between mezz yield (12\u201315%) and bank cost (SOFR+250).",
-        "The structure is increasingly common in mid-market and lower-middle-market PE, where equity is tight and sponsors chase yield by de-risking their equity through secured debt.",
-        "Bank covenant drift and liquidity stress are the failure mode: if the underlying portfolio sours, the lending bank can force paydown or mark mezzanine collateral lower, forcing the fund to liquidate or inject equity."
-      ],
-      "topics": [
-        "PE leverage",
-        "mezz financing",
-        "specialty finance",
-        "bank credit lines",
-        "sponsored leverage"
-      ],
-      "highlight": "Back-leverage concentrates counterparty risk on the lending bank: if the bank tightens or marks collateral lower during a downturn, the fund loses both its spread and its ability to hold the mezz to maturity.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "78ccd37ec86e",
-    "title": "2023 attachment point shift helps reinsurers outperform industry cat trends: JP Morgan",
-    "url": "https://www.reinsurancene.ws/2023-attachment-point-shift-helps-reinsurers-outperform-industry-cat-trends-jp-morgan/",
-    "source": "Reinsurance News",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-10T16:00:45+00:00",
-    "summary_raw": "<p>Since the turn of the market in 2023, reinsurers have benefited from the favourable economics, enabling them to outperform industry catastrophe trends, according to JP Morgan\u2019s recent \u2018Love Actuary\u2019 report. In 2023, reinsurance pricing experienced a substantial surge of nearly 30% based on figures from Guy Carpenter. Beyond these significant rate hikes, structural adjustments within [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/2023-attachment-point-shift-helps-reinsurers-ou",
-    "summary_ai": {
-      "digest": "Reinsurers outperformed cat loss trends in 2023 due to 30% pricing surge and structural shift to higher attachment points, per JP Morgan's 'Love Actuary' report.",
-      "summary_long": "Following the 2023 market turn, reinsurers achieved favorable underwriting economics that allowed them to beat industry catastrophe loss trends. Guy Carpenter data shows reinsurance pricing rose ~30% in 2023. Beyond rate hikes, the market also shifted structurally toward higher attachment points\u2014meaning reinsurers now take losses on larger occurrences, not smaller ones. This attachment-point migration reduced exposure to frequent, smaller losses while improving the risk/premium mix. JP Morgan's report suggests this dual dynamic (pricing + structure) is a durable competitive advantage for well-capitalized players, not a cyclical one-off.",
-      "talking_points": [
-        "Reinsurers saw ~30% pricing uplift in 2023, but the real driver of outperformance was structural shift to higher attachment points\u2014taking losses on bigger cats, not baseline frequency.",
-        "Higher attachment points means reinsurers shed low-margin, high-frequency claims and shifted to catastrophe-only exposure\u2014a cleaner, more profitable risk profile.",
-        "This structural reset may persist if capital remains tight and insurers keep pushing reinsurers up the loss pyramid, setting up a multi-year tailwind for reinsurer earnings."
-      ],
-      "topics": [
-        "reinsurance-pricing-cycle",
-        "underwriting-profitability",
-        "capital-dynamics"
-      ],
-      "highlight": "Attachment point shift in 2023 allowed reinsurers to move out of frequent, low-margin claims and into pure catastrophe exposure\u2014a structural, not cyclical, improvement in risk selection.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "5dd82aa6562b",
-    "title": "Fed faults Iowa bank holding companies",
-    "url": "https://www.bankingdive.com/news/fed-dings-iowa-bank-holding-companies/824968/",
-    "source": "Banking Dive",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-10T16:08:49+00:00",
-    "summary_raw": "<figure><div><img src=\"https://imgproxy.divecdn.com/-DqnjKLPOoTxBe41IMfQlKwOAe4ddPFzjshnZ1A3j-c/g:nowe:28:0/c:2730:1542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjUwMjQyNTQzLmpwZw==.webp\" /></div></figure><p>TS Banking Group and its bank holding company subsidiary TS Contrarian Bancshares must strengthen capital at two subsidiary banks, the central bank ordered.</p>",
-    "summary_ai": {
-      "digest": "Fed issued enforcement order against TS Banking Group and TS Contrarian Bancshares requiring capital strengthening at two subsidiary banks; no financial figures disclosed in excerpt.",
-      "summary_long": "The Federal Reserve has taken regulatory action against Iowa-based TS Banking Group and its holding company TS Contrarian Bancshares, ordering them to bolster capital levels at two subsidiary banks. The order signals the Fed identified capital adequacy or operational deficiencies serious enough to warrant formal enforcement rather than guidance. This type of action typically follows examination findings and can constrain the holding company's ability to pay dividends, buy back stock, or pursue acquisitions until remediation is complete. For a regional bank consolidator, this flags either asset-quality stress or risk-management gaps at TS or its subs that may trigger peer attention or create distress-sale opportunity. The excerpt lacks specifics on the banks named, capital target, or timeline.",
-      "talking_points": [
-        "Fed enforcement order against Iowa holding company suggests capital or operational stress\u2014watch for whether this triggers broader sector scrutiny or distress opportunity.",
-        "Capital-strengthening orders constrain M&A and capital allocation; material friction for any regional bank combo.",
-        "Unclear from excerpt which two subs are affected and whether this is asset quality or governance\u2014need the full filing to assess systemic signal."
-      ],
-      "topics": [
-        "regional-bank-capital",
-        "Fed-enforcement",
-        "midwest-banks"
-      ],
-      "highlight": "Fed enforcement order against TS Banking Group and TS Contrarian Bancshares requiring capital rebuilds\u2014suggests either asset stress or risk governance gap that may limit holding company flexibility.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "321c694f7e33",
-    "title": "Investors sell longer-dated AI debt amid Big Tech borrowing spree",
-    "url": "https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T16:29:50+00:00",
-    "summary_raw": "Waning demand highlights scepticism over sector\u2019s long-term profitability",
-    "summary_ai": {
-      "digest": "Institutional investors are reducing exposure to longer-duration corporate bonds as Big Tech increases AI-related borrowing, signaling skepticism about whether AI capex will generate returns that justify elevated leverage.",
-      "summary_long": "Major technology firms are aggressively issuing bonds to fund AI infrastructure buildouts, but demand for longer-dated paper is softening as investors question the profitability timeline of these massive capex cycles. The sell-off in extended maturity AI-related debt suggests the market is pricing in execution risk: near-term interest burden may outpace revenue generation, especially if AI monetization stalls or adoption plateaus. This creates a financing-cost squeeze for Big Tech and signals tightening credit conditions for capital-intensive sectors reliant on borrowed money. For FIG, this is a credit-market tell on deal environment constraints and a leading indicator of potential distress in technology-sector refinancing.",
-      "talking_points": [
-        "Big Tech is issuing heavily to fund AI capex, but institutional buyers are exiting longer-duration bonds\u2014a crowded-trade unwind.",
-        "Investor skepticism centers on profitability timeline: capex now, returns uncertain and pushed out\u2014classic bubble pricing risk.",
-        "If refinancing becomes expensive or blocked, AI-heavy tech becomes a stressed credit story; watch for covenant waivers or restructuring appetite in 2027\u201328."
-      ],
-      "topics": [
-        "Big Tech credit",
-        "AI capex profitability",
-        "bond issuance",
-        "credit-market signals"
-      ],
-      "highlight": "Longer-dated AI bond weakness is a market vote of no-confidence in near-term profitability; signals potential refinancing stress for tech in 2027\u201328.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "9cb9dc4dadb3",
-    "title": "The superpower of public equity",
-    "url": "https://www.ft.com/content/ff1a4f4f-5b19-4ee4-9f5d-e59511d84644",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T17:00:01+00:00",
-    "summary_raw": "Liquidity is tempting companies back to the public markets \u2014 but it is not available to all",
-    "summary_ai": {
-      "digest": "Public equity markets are attracting companies back from private markets due to superior liquidity, but access remains unequal across sectors and geographies.",
-      "summary_long": "The article argues that public markets offer a compelling advantage over private equity: deep liquidity allows founders and early investors to exit at scale without forced hold periods or J-curve drag. Recent IPO activity and de-SPAC reversals suggest companies are reconsidering the private-equity route as an alternative to traditional IPOs. However, liquidity access is stratified: mega-cap tech and fintech benefit most, while mid-market and regional companies face persistent illiquidity premiums. For financial services, this creates a bifurcated landscape\u2014well-capitalized fintechs and platforms can tap public markets, while regional banks and specialty-finance players remain locked in the private/private-equity corridor. This has tactical implications for where growth capital flows and which business models can scale fastest.",
-      "talking_points": [
-        "Public markets are re-attracting companies because liquidity allows founders and LPs to exit without the J-curve penalty of private equity hold periods.",
-        "Liquidity access is deeply unequal: mega-cap tech and fintech dominate IPO pipelines, while mid-market financial services remain starved for public-market pathways.",
-        "This bifurcation means regional banks and specialty-finance platforms competing against well-capitalized fintech rivals that can raise at higher valuations via public markets."
-      ],
-      "topics": [
-        "public-equity-liquidity",
-        "IPO-market-access",
-        "private-vs-public-capital",
-        "fintech-financing"
-      ],
-      "highlight": "Liquidity disparity means mega-cap fintech can scale at lower cost of capital than regional banks locked in PE-dependent financing.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "431f5b26abb5",
     "title": "&amp;Partners Adds $864M Team From Wells Fargo Advisors",
     "url": "https://www.wealthmanagement.com/ibd-news/partners-adds-864m-team-from-wells-fargo-advisors",
@@ -385,315 +100,6 @@
       ],
       "highlight": "Top 20 PE firms raised $519B in H1 2026 (+27% YoY), while total fundraising by smaller managers contracted\u2014signal that FIG M&A capital is consolidating into mega-fund hands.",
       "relevance": 7
-    }
-  },
-  {
-    "id": "750deae58300",
-    "title": "Apollo to invest \u20ac3bn in pharmaceutical biz Bayer",
-    "url": "https://www.pehub.com/apollo-to-invest-e3bn-in-life-sciences-business-bayer/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-10T14:39:18+00:00",
-    "summary_raw": "<p>Bayer is a German multinational developer and provider of pharmaceutical and agricultural products and services.\u00a0</p>\n<p>The post <a href=\"https://www.pehub.com/apollo-to-invest-e3bn-in-life-sciences-business-bayer/\">Apollo to invest \u20ac3bn in pharmaceutical biz Bayer</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
-    "summary_ai": {
-      "digest": "Apollo Global Management investing \u20ac3bn in Bayer's life sciences business, marking a major PE deployment into pharma/agritech.",
-      "summary_long": "Apollo is committing \u20ac3 billion to Bayer's life sciences division, likely structured as a growth equity or continuation fund investment. This represents significant PE capital flowing into pharmaceutical and agricultural biotech\u2014sectors with recurring revenue, high margins, and consolidation potential. The deal signals Apollo's confidence in life sciences as a PE deployment lane and Bayer's willingness to divest or partner non-core assets. For FIG context, this anchors a data point on PE dry powder deployment velocity and pharma-sector M&A appetite, though the direct financial services angle is limited.",
-      "talking_points": [
-        "Apollo deploying \u20ac3bn into life sciences\u2014a signal of where mega-fund dry powder is flowing outside traditional buyout targets.",
-        "Bayer life sciences carve-out suggests continued pharma-sector portfolio rationalization and appetite for PE partnerships on non-core assets.",
-        "Deal size and structure (if announced) will indicate whether this is equity co-investment, continuation vehicle, or structured growth partnership."
-      ],
-      "topics": [
-        "PE deployment",
-        "pharma M&A",
-        "bayer divestiture"
-      ],
-      "highlight": "Apollo \u20ac3bn commitment to Bayer life sciences\u2014a material data point on mega-fund deployment into pharma/agritech and corporate asset sales.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "b5e77e8be800",
-    "title": "US Files Proposed Deal With Keystone Pipeline Owner Over 2022 Kansas Rupture",
-    "url": "https://www.insurancejournal.com/news/midwest/2026/07/10/877047.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-10T14:39:50+00:00",
-    "summary_raw": "The U.S. Justice Department said on Friday it had filed a proposed settlement with the owner and operator of the Keystone oil pipeline to resolve Clean Water Act violations related to a 2022 rupture in Kansas. Keystone ships Canadian crude &#8230;",
-    "summary_ai": {
-      "digest": "U.S. Justice Department settles Clean Water Act violations with Keystone Pipeline owner over 2022 Kansas rupture; settlement terms and penalty amount not disclosed in excerpt.",
-      "summary_long": "The DOJ has filed a proposed settlement with the operator of the Keystone oil pipeline to resolve environmental violations stemming from a 2022 rupture in Kansas. The incident involved a spill of Canadian crude oil and triggered Clean Water Act enforcement action. While specific penalty amounts and settlement terms are not detailed in the excerpt, this represents a regulatory resolution of operational and environmental liability. For insurers and captives underwriting pipeline operators and environmental risk, this signals DOJ enforcement intensity and potential claim settlement patterns. The case may also inform regulatory expectations for pipeline safety and remediation standards going forward.",
-      "talking_points": [
-        "DOJ settling Keystone Pipeline Clean Water Act violation from 2022 Kansas spill\u2014watch for penalty size and remediation cost allocation.",
-        "Pipeline operator environmental settlements often carry significant insurance implications; settlement terms may affect future coverage availability and pricing.",
-        "Regulatory enforcement on energy infrastructure continues; relevant for insurers underwriting E&O and pollution liability for pipeline owners."
-      ],
-      "topics": [
-        "pipeline-environmental-liability",
-        "regulatory-settlement",
-        "energy-insurance",
-        "clean-water-act-enforcement"
-      ],
-      "highlight": "DOJ settles Keystone Pipeline Clean Water Act violations from 2022 rupture; settlement amount and remediation terms will clarify operator liability and insurance recovery.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "0de08f489b97",
-    "title": "NHTSA Warns 463,000 Kia Owners to Park Outside Over Fire Risks",
-    "url": "https://www.insurancejournal.com/news/national/2026/07/10/877059.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-10T14:52:41+00:00",
-    "summary_raw": "The U.S. National Highway Traffic Safety Administration urged owners of 463,000 Kia crossover SUVs to park outdoors because of fire risks until new recall repairs are completed. Kia said it would recall 463,000 Telluride crossovers in the U.S. from the &#8230;",
-    "summary_ai": {
-      "digest": "NHTSA issued a parking warning for 463,000 Kia Tellurides due to fire risk pending recall repairs\u2014a rare, high-volume safety directive that could trigger insurance claims, litigation exposure, and reputational cost.",
-      "summary_long": "The National Highway Traffic Safety Administration warned 463,000 Kia Telluride owners to park vehicles outdoors until recall repairs are completed, citing fire risk. This is an unusually aggressive advisory\u2014parking warnings are rare and signal NHTSA concern about imminent failure risk. Kia faces potential warranty claims, recall costs, and class-action litigation. Insurers writing auto coverage or auto-related liability (dealers, rental fleets) face claims exposure. The scope (463K units) and urgency suggest this will materialize into significant insurance loss reserves and potential reinsurance cessions.",
-      "talking_points": [
-        "463,000-unit recall with a parking warning is a rare NHTSA move that signals elevated near-term fire risk\u2014expect insurance claim frequency and severity to spike.",
-        "This creates tail risk for auto insurers' loss reserves in Q3-Q4 2026 and potential reinsurance recapture or rate action.",
-        "Kia's recall and litigation exposure may also extend to fleet operators, rental companies, and dealers\u2014secondary insurance demand."
-      ],
-      "topics": [
-        "auto-insurance-claims",
-        "product-liability-tail-risk",
-        "recall-economics"
-      ],
-      "highlight": "Parking warning on 463,000 units is rare NHTSA signal of acute failure risk\u2014expect spike in claims frequency and insurer loss reserve pressure.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "229484ee35bd",
-    "title": "Wall Street banks clamp down on employee use of prediction markets",
-    "url": "https://www.finextra.com/newsarticle/48075/wall-street-banks-clamp-down-on-employee-use-of-prediction-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-10T14:54:00+00:00",
-    "summary_raw": "Banks including Goldman Sachs and Morgan Stanley have updated their employee codes of conduct to ban employees from some bets on predictions markets, according to reports.",
-    "summary_ai": {
-      "digest": "Goldman Sachs and Morgan Stanley have banned employees from betting on prediction markets via updated codes of conduct, reflecting regulatory and compliance concerns around insider trading and market manipulation risks.",
-      "summary_long": "Major Wall Street banks are tightening compliance rules around employee participation in prediction markets\u2014platforms where users wager on outcomes of future events, elections, or corporate decisions. The policy updates target risk exposure: employees with material non-public information or market-moving authority could theoretically use prediction markets to front-run trades, signal positions to counterparties, or create appearance-of-impropriety issues. This is a soft enforcement signal\u2014banks are pre-emptively restricting a grey-zone activity before regulators (SEC, CFTC, or Fed) formalize rules. The move also reflects reputational concern: prediction markets are nascent, retail-friendly, and politically charged (election bets are common), making them a flashpoint for compliance scrutiny.",
-      "talking_points": [
-        "GS and MS are banning employee prediction-market bets\u2014a compliance pre-empt ahead of regulatory clarity on insider trading / market-manipulation risk.",
-        "Prediction markets are moving mainstream (election bets, corporate outcomes) and banks see reputational and legal exposure if employees trade on non-public info.",
-        "This is a leading indicator: expect more banks to follow and watch for CFTC or SEC guidance on whether prediction markets require broker registration or insider-trading enforcement."
-      ],
-      "topics": [
-        "compliance-policy",
-        "prediction-markets",
-        "insider-trading-risk",
-        "employee-conduct"
-      ],
-      "highlight": "Goldman Sachs and Morgan Stanley have updated employee codes of conduct to ban prediction-market bets, signaling regulatory risk before formal SEC/CFTC enforcement.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "8f6ec2ab7dd7",
-    "title": "Investor Intentions: MSBI issues RFP for investment consulting services",
-    "url": "https://www.privateequityinternational.com/investor-intentions-msbi-issues-rfp-for-investment-consulting-services/",
-    "source": "Private Equity International",
-    "section": "PE & Deals",
-    "date": "2026-07-10T14:55:45+00:00",
-    "summary_raw": "The Minnesota State Board of Investment is seeking a general investment consultant.",
-    "summary_ai": {
-      "digest": "Minnesota State Board of Investment (MSBI) issued an RFP for a general investment consultant; signals potential strategic shift or consultant replacement in a major public pension.",
-      "summary_long": "MSBI, which manages billions in assets for Minnesota's public pension system, has launched a competitive RFP process for investment consulting services. The RFP likely reflects either dissatisfaction with incumbent advisors, a strategic repositioning around alternatives/private markets, or routine competitive renewal. For asset managers and consultants serving public pensions, this is a tracking signal: large LPs are actively shopping for new partners. The outcome will reveal MSBI's emerging priorities (e.g., PE deployment, ESG mandates, fee compression) and which consultant gains a marquee reference client.",
-      "talking_points": [
-        "Minnesota State Board of Investment launched RFP for investment consultant\u2014watch for winner announcement as signal of pension strategic direction.",
-        "Public pension RFPs often precede meaningful shifts in PE/alternatives allocation or consultant fee renegotiation; MSBI is a material LP base.",
-        "Incumbent consultant vulnerability in competitive process suggests either performance question or opportunity for challenger to capture a multimillion-dollar mandate."
-      ],
-      "topics": [
-        "pension-RFP",
-        "investment-consulting",
-        "LP-capital-flows",
-        "alternatives-allocation"
-      ],
-      "highlight": "MSBI RFP signals potential consultant transition or mandate refresh at a major public pension; monitor for winner and revised investment mandate as signal of LP trends in PE/alternatives deployment.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "4575a8bf3b37",
-    "title": "Carlyle exits solar and energy storage developer Copia to EQT for $2.6bn",
-    "url": "https://www.pehub.com/carlyle-exits-solar-and-energy-storage-developer-copia-to-eqt-for-2-6bn/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-10T15:02:21+00:00",
-    "summary_raw": "<p>The acquisition builds on EQT's broader AI infrastructure portfolio, including EdgeConneX, Zayo, Zelestra, OX2, Madison Energy, Cypress Creek Energy and Scale Microgrid</p>\n<p>The post <a href=\"https://www.pehub.com/carlyle-exits-solar-and-energy-storage-developer-copia-to-eqt-for-2-6bn/\">Carlyle exits solar and energy storage developer Copia to EQT for $2.6bn</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
-    "summary_ai": {
-      "digest": "Carlyle sold Copia, a solar and energy storage developer, to EQT for $2.6bn. The deal expands EQT's AI infrastructure and clean energy portfolio alongside EdgeConneX, Zayo, and other platform assets.",
-      "summary_long": "Carlyle has exited its investment in Copia, a solar and energy storage platform, via a $2.6bn sale to EQT Infrastructure. EQT frames the acquisition as part of a broader build-out in AI infrastructure and renewable energy, bundling Copia with existing portfolio companies including data-center operator EdgeConneX, telecom/fiber player Zayo, and renewable platforms OX2, Madison Energy, and Cypress Creek Energy. The deal signals EQT's conviction in energy infrastructure as a structural growth vector, likely benefiting from U.S. IRA incentives and grid modernization tailwinds. For Carlyle, this represents a clean exit and LP capital return; for EQT, it consolidates fragmented renewable energy and storage assets under one infrastructure umbrella.",
-      "talking_points": [
-        "$2.6bn Carlyle exit of Copia to EQT\u2014solid multiple signal for solar/storage assets in current market.",
-        "EQT bundling Copia with EdgeConneX, Zayo, and five other infrastructure platforms suggests a play on IRA-driven renewable deployment and AI power demand convergence.",
-        "Infrastructure PE appetite for energy storage remains robust despite rate uncertainty\u2014this deal validates the sector thesis."
-      ],
-      "topics": [
-        "PE infrastructure deployment",
-        "renewable energy M&A",
-        "energy storage consolidation",
-        "AI infrastructure buildout"
-      ],
-      "highlight": "Carlyle sold Copia to EQT for $2.6bn as part of EQT's broader AI infrastructure and clean energy platform consolidation.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "499ccf72ac9a",
-    "title": "Arthur J. Gallagher & Co. Acquires Kansas-Based Med James",
-    "url": "https://www.insurancejournal.com/news/midwest/2026/07/10/877074.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-10T15:11:57+00:00",
-    "summary_raw": "Arthur J. Gallagher &#38; Co. announced that its U.S. wholesale brokerage, binding authority and programs division, Risk Placement Services, Inc. (RPS), has acquired Overland Park, Kansas-based Med James, Inc. Terms of the transaction were not disclosed. Med James is a &#8230;",
-    "summary_ai": {
-      "digest": "Arthur J. Gallagher's RPS division acquired Kansas-based Med James, a medical professional liability and related specialty lines broker. Deal size undisclosed.",
-      "summary_long": "RPS, Gallagher's wholesale brokerage and programs arm, has bolstered its specialty insurance footprint through the acquisition of Med James, which focuses on medical professional liability, errors and omissions, and related coverage for healthcare providers. Med James operates as a managing general agent (MGA) and underwriting partner, a model that allows RPS to expand its binding authority and programs business\u2014a key margin driver for brokers. The acquisition fits Gallagher's ongoing roll-up strategy in specialty lines, where scale, distribution access, and underwriter relationships are consolidating. No financial terms were disclosed, limiting deal-flow sizing, but the move signals continued M&A velocity in the healthcare specialty insurance segment.",
-      "talking_points": [
-        "Gallagher acquired Med James through RPS, its wholesale/programs division\u2014a consolidation play in healthcare specialty insurance.",
-        "Med James operates as an MGA with binding authority, adding underwriting capacity and margin leverage to RPS's programs business.",
-        "Undisclosed terms mean we're tracking this as a tuck-in bolt-on, likely sub-$100M, in a sector where Gallagher has been consistently active."
-      ],
-      "topics": [
-        "insurance M&A",
-        "specialty lines consolidation",
-        "MGA acquisition",
-        "healthcare insurance"
-      ],
-      "highlight": "RPS acquisition adds MGA/binding authority capability in medical professional liability\u2014high-margin programs business for Gallagher.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "599516ee24c2",
-    "title": "Business Moves: MGA Fusion Specialty Acquired by UK Asset Manager Arrow Global; Arthur J. Gallagher Acquires Canada\u2019s Wilson M. Beck Insurance Services",
-    "url": "https://www.insurancejournal.com/news/international/2026/07/10/877078.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-10T15:43:53+00:00",
-    "summary_raw": "MGA Fusion Specialty Acquired by Asset Manager Arrow Global Arrow Global Group (Arrow), a UK-based investment manager specializing in private credit and real estate, announced its subsidiary Arrow Global Insurance (AGI) has acquired Fusion Specialty Group, a specialist managing general &#8230;",
-    "summary_ai": {
-      "digest": "Arrow Global's insurance subsidiary acquires Fusion Specialty Group, a specialist MGA. Concurrent acquisition: Arthur J. Gallagher buys Canada's Wilson M. Beck Insurance Services. Two insurance sector M&A moves with no disclosed valuations.",
-      "summary_long": "Arrow Global Group, a UK-listed investment manager focused on private credit and real estate, has deployed its insurance subsidiary (AGI) into specialty MGA operations via the Fusion Specialty Group acquisition. This reflects a portfolio-diversification play by a credit-focused asset manager into underwriting risk and fee-based insurance distribution. The deal signals continued consolidation in the fragmented MGA space and Arrow's broader push into alternative investment channels beyond traditional credit. Concurrently, Gallagher\u2014the major independent insurance broker\u2014acquired Wilson M. Beck, a Canadian broker, extending its geographic footprint. Neither deal size nor earnout structure is disclosed, limiting visibility into capital deployment and strategic valuation.",
-      "talking_points": [
-        "Arrow Global deploying into specialty MGA underwriting via subsidiary\u2014asset manager moving beyond credit into underwriting and distribution risk.",
-        "MGA consolidation continues; no disclosed size or multiple, but consistent with ongoing roll-up thesis in fragmented specialty insurance.",
-        "Gallagher's Canada buy shows organic and M&A-driven geographic expansion; scale and reach remain key competitive moats in brokerage."
-      ],
-      "topics": [
-        "insurance M&A",
-        "MGA consolidation",
-        "specialty underwriting",
-        "UK asset manager diversification"
-      ],
-      "highlight": "Arrow Global's insurance subsidiary acquiring Fusion Specialty Group represents a credit manager's entry into specialty MGA underwriting and fee-based distribution.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "1535955d8372",
-    "title": "Company Ordered to Remove Thousands of Wind Turbine Blades in Texas",
-    "url": "https://www.insurancejournal.com/news/southcentral/2026/07/10/877079.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-10T16:02:03+00:00",
-    "summary_raw": "A Texas district court this week issued a temporary injunction against a wind turbine recycling company that has stockpiled thousands of wind turbine blades at two facilities in Sweetwater. The temporary injunction orders Global Fiberglass Solutions to immediately cease accepting &#8230;",
-    "summary_ai": {
-      "digest": "Texas court issued temporary injunction against Global Fiberglass Solutions, ordering removal of thousands of stockpiled wind turbine blades from Sweetwater facilities. This signals regulatory/environmental risk exposure for insurers backing renewable energy infrastructure and recycling operations.",
-      "summary_long": "A Texas district court granted a temporary injunction against Global Fiberglass Solutions, a wind turbine blade recycling company, halting acceptance of new blades and mandating removal of existing stockpiles from two Sweetwater facilities. The order reflects environmental and land-use compliance failures at a critical infrastructure recycling operation. This creates liability exposure for insurers and financiers underwriting renewable energy projects, waste management operations, and specialized recycling businesses. The injunction also signals potential regulatory tightening around composite waste management\u2014a growing constraint as wind capacity deployment accelerates. For FIG, this raises questions about reserve adequacy for environmental liability on renewable energy infrastructure books and appetite for specialty recycling finance.",
-      "talking_points": [
-        "Court-ordered blade removal exposes insurance gap: who covers the cost of remediation and stockpile liquidation at stranded recycling operations?",
-        "Composite waste management is becoming a regulatory flashpoint; expect tighter EPA/state rules on blade storage and processing, raising capex for recyclers.",
-        "Opportunity angle: specialty finance or insurance-linked securities around wind blade end-of-life could become a niche asset class if operators face capital constraints."
-      ],
-      "topics": [
-        "renewable-energy-liability",
-        "environmental-insurance-risk",
-        "specialty-recycling-finance",
-        "regulatory-enforcement"
-      ],
-      "highlight": "Texas court injunction against blade recycling operator creates insurance and environmental-liability exposure across renewable energy project finance and specialty waste operations.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "c61d6a322b33",
-    "title": "Apollo\u2019s profitability challenge: turn easyJet into Ryanair",
-    "url": "https://www.ft.com/content/ae1663ce-7487-4844-ba05-70933a42e3ff",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T16:34:44+00:00",
-    "summary_raw": "If the PE firm wants to raise revenue and cut costs at the airline, there\u2019s room for manoeuvre",
-    "summary_ai": {
-      "digest": "Apollo Global Management acquired easyJet; the PE thesis hinges on operational restructuring to match Ryanair's cost model and pricing power, but execution risk is material given airline industry dynamics.",
-      "summary_long": "Apollo's easyJet acquisition (announced earlier) now faces a classic PE play: shrink the cost base and expand margins by mimicking Ryanair's ultra-low-cost playbook. The FT piece examines where easyJet underperforms: higher labor costs, less aggressive ancillary monetization, lower aircraft utilization, and premium positioning that compresses pricing leverage. Apollo's leeway exists\u2014labor contracts are renegotiable, route mix can shift toward higher-yield leisure travel, and the airline can tighten operational discipline\u2014but execution requires navigating unionized workforces, slot constraints at congested European airports, and customer brand perception. The thesis works only if Apollo can extract 300\u2013500bps of EBITDA margin without gutting the franchise.",
-      "talking_points": [
-        "easyJet's EBITDA margin trails Ryanair by ~8\u201310 points; the gap is structural (labor, utilization, route yield), not accidental, making the gap harder to close than a typical PE operational fix.",
-        "Apollo's levers are ancillary revenue (currently ~15% vs. Ryanair's 20%+), labor-cost reset, and route rationalization toward leisure rather than business\u2014each faces pushback or capital redeployment risk.",
-        "Airline PE is high-leverage, cyclical, and operationally complex; success depends on a multi-year margin expansion AND favorable financing/fuel environment; one recession or fuel spike derails the base case."
-      ],
-      "topics": [
-        "PE airline thesis",
-        "operational turnaround",
-        "cost restructuring",
-        "Ryanair model"
-      ],
-      "highlight": "Apollo faces a 300\u2013500bps margin gap vs. Ryanair but must close it while navigating labor resets, slot constraints, and brand positioning\u2014a more complex operational puzzle than typical PE leverage plays.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "fc0c36a3c864",
-    "title": "Google\u2019s agent broke a 56-year math record. Yours forgets yesterday",
-    "url": "https://www.the-ai-corner.com/p/self-evolving-agent-stack-playbooks-memory-skills-2026",
-    "source": "The AI Corner (Ruben Dominguez)",
-    "section": "Learn",
-    "date": "2026-07-10T16:47:21+00:00",
-    "summary_raw": "Self-evolving agents went from papers to production this year. Here is the full stack for building an agent that gets smarter every week, with the verified numbers behind every layer",
-    "summary_ai": {
-      "digest": "Google's AI agent solved a 56-year-old mathematics conjecture; the piece examines production-grade agent architectures and how they improve iteratively over time.",
-      "summary_long": "The article contrasts Google's breakthrough AI capability\u2014solving a decades-old math problem\u2014with the practical limitations of current production agents that lack persistent memory and continuous learning. It walks through the full technical stack required to build agents that genuinely improve week-over-week: feedback loops, verification, retraining workflows, and infrastructure to capture and act on failure data. The framing is that moving from research papers to deployed systems requires solving not just the model problem but the operational and data-plumbing problem. For financial services, this matters because fintech and wealth-tech firms are increasingly deploying agents for research, underwriting, and client interaction\u2014and the gap between lab performance and real-world degradation is wide.",
-      "talking_points": [
-        "Production agents today lose context and learning capacity because they lack feedback infrastructure\u2014Google's breakthrough required explicit retraining loops, not just better base models.",
-        "The constraint is operational: building the verified-data pipeline, monitoring, and rollback machinery for agents is harder than the AI itself, which explains why adoption lags hype.",
-        "Fintech platforms betting on agent-driven wealth advice or underwriting need to engineer for iterative improvement, not assume GPT-4 level performance holds."
-      ],
-      "topics": [
-        "AI-agents",
-        "production-engineering",
-        "operational-risk"
-      ],
-      "highlight": "The gap between lab breakthrough and production reliability is the plumbing (feedback loops, verification, retraining), not the model\u2014a critical constraint for fintech deploying agents in client-facing or underwriting workflows.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "1e8157d39441",
-    "title": "\u2018It\u2019s all about the number\u2019: how Apollo gazumped Castlelake\u2019s easyJet bid",
-    "url": "https://www.ft.com/content/3ed65968-cca2-4e13-aaa7-298a0ffacf44",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-10T17:20:05+00:00",
-    "summary_raw": "Takeover battle for UK budget airline took a last-minute twist after US investment giant outbid rival",
-    "summary_ai": {
-      "digest": "Apollo Global Management outbid Castlelake for easyJet in a last-minute takeover twist, signaling aggressive capital deployment by mega-funds into distressed travel assets.",
-      "summary_long": "Apollo Global Management topped Castlelake's offer for easyJet, the UK budget airline, in a competitive bid process that turned on price in the final round. The deal underscores how large alternative-asset managers are deploying dry powder into cyclical, operationally challenged assets \u2014 travel in this case \u2014 where they can apply operational leverage and multiple arbitrage. For FIG teams covering PE and specialty finance, this signals appetite among mega-funds for complex turnarounds and illustrates capital-raising intensity in the alternatives space. The 'number' winning reflects how fundraising scale now dominates deal outcomes.",
-      "talking_points": [
-        "Apollo's easyJet win shows mega-funds (>$500B AUM) willing to overpay on single assets to deploy capital and justify fund performance.",
-        "Castlelake loss signals mid-market alternatives losing competitive bids to scale players \u2014 structurally relevant for RFP outcomes.",
-        "Travel/aviation M&A remains a capital-intensive, restructuring-heavy sector where PE seeks operational improvement and multiple expansion."
-      ],
-      "topics": [
-        "PE capital deployment",
-        "alternatives fundraising",
-        "travel M&A",
-        "mega-fund competition"
-      ],
-      "highlight": "Apollo's last-minute overbid for easyJet illustrates how fundraising scale now trumps strategic logic in competitive auctions.",
-      "relevance": 6
     }
   },
   {
@@ -979,157 +385,28 @@
     }
   },
   {
-    "id": "c70d87daabf8",
-    "title": "USDA Introduces More Crop Insurance Options for Forage Producers",
-    "url": "https://www.insurancejournal.com/news/national/2026/07/10/877034.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-10T14:29:51+00:00",
-    "summary_raw": "The U.S. Department of Agriculture said it is expanding coverage options to add revenue protection for forage producers in 12 states, Implemented by USDA&#8217;s Risk Management Agency (RMA), the new coverage options guard against both yield losses and decline in &#8230;",
+    "id": "cc229f153c0e",
+    "title": "As five big U.S. banks report earnings on the same day, Citigroup is the one to watch",
+    "url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-12T15:30:00+00:00",
+    "summary_raw": "Among the largest U.S. banks, Citigroup is expected to show the greatest improvement by one important measure. But it still has a long way to go to reach its own performance target.",
     "summary_ai": {
-      "digest": "USDA Risk Management Agency expanded crop insurance coverage for forage producers across 12 states, adding revenue protection alongside yield loss coverage.",
-      "summary_long": "The USDA's Risk Management Agency (RMA) has introduced new insurance product options for forage producers in 12 states, designed to protect against both yield losses and price declines. This represents a regulatory expansion of the crop insurance product suite, which is administered through private insurers but backstopped by USDA. The move addresses a coverage gap for a specific commodity class. Forage producers\u2014hay, silage, and pasture operators\u2014face dual risks (production and commodity price) that prior products did not fully address. This is a modest product expansion with limited deal-flow implication but signals RMA's willingness to broaden the addressable market within existing underwriting infrastructure. Private insurers who underwrite RMA-backed policies (like Nationwide, American Financial Group, Old Republic) could see marginal premium volume growth if adoption gains traction.",
+      "digest": "Citigroup expected to show largest earnings improvement among Big Five banks reporting today, but still trails its own performance targets.",
+      "summary_long": "Five major U.S. banks report earnings simultaneously, with Citigroup positioned as the headline name despite mixed fundamentals. The article flags Citigroup as showing the steepest improvement by an unspecified metric, likely ROE or net income growth, suggesting relative outperformance versus peers. However, the bank remains structurally challenged\u2014the piece notes Citigroup continues to underperform against internal guidance, signaling ongoing operational or efficiency headwinds. This frames Citigroup as the \"watch\" name for investors and analysts: positive relative momentum offset by absolute performance gaps. For FIG coverage, this is a proxy for Jan's recent restructuring efforts and whether cost-cutting/divestitures are yielding real traction.",
       "talking_points": [
-        "USDA RMA added revenue insurance for forage producers in 12 states\u2014addresses both yield and price risk in a historically under-covered segment.",
-        "Expansion uses existing RMA backstop and private-insurer distribution; no legislative lift required, suggesting low friction for rollout to additional states.",
-        "Modest but recurring theme: RMA using product innovation (not M&A) to deepen market penetration in specialty agriculture\u2014watch for broader adoption signals."
+        "Citigroup showing largest improvement among Big Five today, but still missing its own targets\u2014suggests momentum without fundamental fix.",
+        "Simultaneous earnings from JPMorgan, Bank of America, Goldman, Wells Fargo create a peer-comparison lens; Citi's relative beat could mask absolute underperformance."
       ],
       "topics": [
-        "crop-insurance",
-        "USDA-RMA",
-        "specialty-agriculture",
-        "insurance-product-expansion"
+        "earnings-season",
+        "large-cap-bank-earnings",
+        "Citigroup-restructuring",
+        "ROE-targets"
       ],
-      "highlight": "RMA expanded to 12-state pilot; revenue protection (yield + price) for forage\u2014watch adoption rates as signal for national rollout and incremental premium for incumbent underwriters.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "bb6640eeca30",
-    "title": "Planned Texas Data Centers Could Emit More Greenhouse Gases Than Many Countries",
-    "url": "https://www.insurancejournal.com/news/southcentral/2026/07/10/877054.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-10T14:50:38+00:00",
-    "summary_raw": "Omaira Garcia didn&#8217;t realize life on her small ranch in Abilene was about to change forever until clouds of dust \u2014 kicked up by a mysterious construction next door \u2014 began to engulf her home. The Air Force veteran said &#8230;",
-    "summary_ai": {
-      "digest": "Data center buildout in Texas raises environmental and climate liability concerns; insurance implications for operators and landowners unclear as ESG and climate risk reshape underwriting.",
-      "summary_long": "Large-scale data center construction in Texas is generating significant dust, noise, and environmental disruption to neighboring properties, with one Air Force veteran describing severe quality-of-life impacts on her ranch. The article frames this as a climate risk issue\u2014data centers' substantial greenhouse gas emissions and land-use footprint are drawing scrutiny from environmental advocates and regulators. For insurers, this creates a two-sided exposure: directors-and-officers and environmental liability claims from data center operators facing opposition; and property/casualty claims from affected residents and farmers. Climate risk is increasingly driving insurance underwriting decisions and pricing, making this a precursor to potential coverage disputes, exclusions, and capital reallocation away from high-emission infrastructure projects.",
-      "talking_points": [
-        "Data center emissions and land-use disputes are emerging as an insurance underwriting flashpoint\u2014expect D&O, environmental liability, and property claims to follow.",
-        "Insurers are tightening coverage for carbon-intensive infrastructure; data center operators may face higher premiums, coverage caps, or outright declinations as ESG compliance tightens.",
-        "Regional property owners and communities are organizing opposition to data center buildout, creating litigation and regulatory risk that feeds back into insurer loss reserves and policy pricing."
-      ],
-      "topics": [
-        "insurance-underwriting",
-        "climate-liability",
-        "data-center-infrastructure",
-        "ESG-risk"
-      ],
-      "highlight": "Data center climate liability and community opposition are reshaping insurance underwriting and could constrain operator financing if premium and coverage terms deteriorate.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "dba8d2a84a58",
-    "title": "DOL Proposes $3.5M in Fines for Safety Violations at Texas Chemical Facility",
-    "url": "https://www.insurancejournal.com/news/southcentral/2026/07/10/877068.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-10T15:04:21+00:00",
-    "summary_raw": "The U.S. Department of Labor has proposed more than $3.5 million in fines against three companies after federal inspectors determined they failed to protect workers during post-emergency response cleanup after a chemical spill at the BWC Terminals industrial facility in &#8230;",
-    "summary_ai": {
-      "digest": "DOL proposed $3.5M in fines against three companies for worker safety violations during post-spill cleanup at a Texas chemical facility.",
-      "summary_long": "Federal inspectors found that three firms failed to implement adequate worker protections during emergency response and cleanup following a chemical spill at BWC Terminals in Texas. The Department of Labor issued citations for safety violations, resulting in proposed fines exceeding $3.5 million. This represents a regulatory enforcement action in the industrial/environmental liability space. The incident highlights compliance gaps in hazmat response protocols and third-party contractor management. For FIG professionals covering specialty finance and insured risks, this signals potential exposure for environmental liability carriers and increased regulatory scrutiny of post-incident remediation practices.",
-      "talking_points": [
-        "$3.5M in DOL fines against three companies for worker safety failures in post-spill cleanup \u2014 a regulatory enforcement precedent for environmental liability carriers.",
-        "The violation centers on inadequate worker protections during emergency response, not just the spill itself \u2014 suggesting insurers should tighten coverage terms around third-party contractor oversight.",
-        "This class of environmental/occupational risk is increasingly litigated; carriers may face higher loss ratios if regulatory fines become standard alongside tort claims."
-      ],
-      "topics": [
-        "environmental-liability-insurance",
-        "occupational-safety-compliance",
-        "regulatory-enforcement",
-        "specialty-insurance-underwriting"
-      ],
-      "highlight": "DOL fines exceed $3.5M for failure to protect workers during post-emergency cleanup \u2014 a regulatory precedent that may reshape environmental liability underwriting and increase loss expectations for insurers.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "15adce29afdb",
-    "title": "MAGA's attack on science is even worse than it looks",
-    "url": "https://www.noahpinion.blog/p/magas-attack-on-science-is-even-worse",
-    "source": "Noahpinion (Noah Smith)",
-    "section": "Learn",
-    "date": "2026-07-10T15:23:02+00:00",
-    "summary_raw": "The engine that powered history's greatest nation is in danger.",
-    "summary_ai": {
-      "digest": "Noah Smith argues that anti-science political movements threaten long-term U.S. competitiveness and innovation capacity, framing scientific capability as foundational to national economic power.",
-      "summary_long": "Smith contends that dismissal of scientific expertise and evidence-based policy\u2014whether climate, public health, or industrial R&D\u2014erodes the institutional and cultural infrastructure that enabled American economic dominance post-WWII. The piece treats science not as a partisan issue but as a public good and competitive advantage: nations that retain talent, fund basic research, and apply evidence to policy will outcompete those that do not. The argument implies long tail risks to U.S. capital formation, talent retention, and industrial policy efficacy\u2014all material to FIG and financial services if they affect growth, regulatory stability, and sector-specific innovation (fintech, digital assets, specialty finance). Smith's framing is structural rather than cyclical, suggesting multi-decade compounding effects.",
-      "talking_points": [
-        "Science capability is a competitive and economic asset, not a cultural luxury\u2014degradation of R&D funding or talent flight has real long-term GDP and productivity read-throughs.",
-        "Policy capture by anti-evidence movements affects regulatory risk across fintech, digital assets, and specialty finance where scientific/technical consensus informs licensing and consumer protection rules."
-      ],
-      "topics": [
-        "long-term-competitiveness",
-        "innovation-policy",
-        "institutional-risk",
-        "talent-retention"
-      ],
-      "highlight": "If the U.S. loses credibility in science and R&D funding, peer nations gain disproportionate advantage in emerging sectors (AI, biotech, quantum) where financial services will flow\u2014a generational shift in capital allocation.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "4eb20035ba76",
-    "title": "Qualifying for Financial Aid as a Small Business Owner",
-    "url": "https://www.wealthmanagement.com/high-net-worth/qualifying-for-financial-aid-as-a-small-business-owner",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-10T16:00:30+00:00",
-    "summary_raw": "Starting in the 2026-2027 admission season, the assets of a small business or family farm will once again not count in aid calculations.",
-    "summary_ai": {
-      "digest": "Starting 2026-2027, small business and farm assets are excluded from financial aid calculations, reversing a 2024 policy change. This shifts eligibility for aid-seeking families and may affect wealth management client planning.",
-      "summary_long": "The U.S. Department of Education is reverting to a policy that exempts small business and farm assets from the Expected Family Contribution (EFC) calculation used to determine financial aid eligibility. The previous rule, implemented in 2024, had counted these assets, reducing aid eligibility for families with business ownership. The reversal effective in the 2026-2027 admission cycle addresses concerns from small business owners and farm families that the prior rule penalized entrepreneurship and created valuation complexity. Wealth managers advising high-net-worth clients with business interests will need to recalibrate college planning strategies, and education finance platforms may see renewed demand from this client segment.",
-      "talking_points": [
-        "Small business and farm assets are now excluded from financial aid calculations starting 2026-2027 \u2014 a reversal that improves aid eligibility for business-owning families.",
-        "This creates a planning opportunity for wealth management clients with private business interests who were previously penalized in aid calculations.",
-        "Education finance platforms and RIA/advisor practices may see increased interest in college planning for entrepreneurial clients."
-      ],
-      "topics": [
-        "education finance",
-        "wealth planning",
-        "small business",
-        "policy change"
-      ],
-      "highlight": "Policy reversal effective 2026-2027 creates a discrete planning inflection for wealth managers advising business-owning families\u2014a potential client retention and service-expansion lever.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "8af497d63398",
-    "title": "The stock market looks pretty cheap based on future earnings expectations. Don't be fooled",
-    "url": "https://www.cnbc.com/2026/07/10/the-stock-market-looks-pretty-cheap-based-on-future-earnings-expectations-dont-be-fooled.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-10T16:56:24+00:00",
-    "summary_raw": "The S&amp;P 500 trades around 28x trailing earnings versus 21x forward earnings. Experts say the spread mostly reflects high earnings expectations.",
-    "summary_ai": {
-      "digest": "S&P 500 trades at 28x trailing vs. 21x forward earnings; the 7-point spread reflects market pricing in significant earnings growth that may not materialize.",
-      "summary_long": "The article argues that while forward P/E multiples appear attractive relative to trailing, the gap itself is a risk signal. Historically, such spreads narrow when earnings expectations prove too optimistic. For FIG investors, this matters because bank valuations are similarly dependent on rate forecasts and credit normalization; if the broader market is mis-pricing earnings revisions, regional and mid-cap bank stocks\u2014which trade on tighter margins and higher leverage\u2014face downside risk if growth disappoints. The piece cautions against anchoring on forward multiples without stress-testing the assumptions underneath.",
-      "talking_points": [
-        "Forward multiples only look cheap if earnings growth actually happens\u2014the 7x spread between trailing and forward is the market's bet, not a guarantee.",
-        "Bank stocks are particularly vulnerable to earnings-estimate cuts because they're levered to rate paths and credit cycles that can reverse quickly.",
-        "If the market is overestimating 2026\u20132027 earnings across the S&P 500, multiple compression in regional banks could accelerate faster than in large-cap tech."
-      ],
-      "topics": [
-        "equity-valuation",
-        "earnings-risk",
-        "bank-stock-downside"
-      ],
-      "highlight": "7-point spread between trailing and forward P/E is a bet on earnings growth that may not arrive\u2014particularly risky for leveraged sectors like regional banking.",
-      "relevance": 5
+      "highlight": "Citigroup expected to show greatest improvement by key metric but remains below its own performance targets\u2014indicates progress on restructuring is real but incomplete.",
+      "relevance": 6
     }
   },
   {
@@ -1286,32 +563,6 @@
     }
   },
   {
-    "id": "ad15a8cbe2d2",
-    "title": "You want a portfolio that matches your morals. Your retirement plan might disagree.",
-    "url": "https://www.marketwatch.com/story/you-want-a-portfolio-that-matches-your-morals-but-that-could-sink-your-retirement-plans-0b6fb5bf?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-11T16:00:00+00:00",
-    "summary_raw": "More investors want their money to reflect their values. It feels righteous \u2014 but the reality is a lot messier.",
-    "summary_ai": {
-      "digest": "ESG and values-based investing are growing in retail popularity, but performance drag and cost structures often penalize values-aligned portfolios relative to broad market benchmarks.",
-      "summary_long": "The article explores the tension between retail investor demand for ESG and socially responsible investing versus the financial tradeoffs those choices impose. Values-aligned portfolios typically exclude sectors or companies, reducing diversification and creating performance headwinds\u2014especially in bull markets where excluded sectors lead. The piece argues that most retail investors underestimate the cost of conviction: lower yields, higher fees, and opportunity cost of foregone gains. For fiduciaries and advisors, this creates a compliance and suitability quandary: ESG preferences are genuine client signals, but advisors must document that clients understand the performance and cost implications.",
-      "talking_points": [
-        "ESG-screened portfolios trade liquidity and diversification for values alignment\u2014performance penalty varies by cycle, but exclusions reduce opportunity set materially in secular bull runs.",
-        "Fee compression in ESG products hasn't kept pace with broad indexing; many values-based strategies cost 50\u2013100 bps more than core alternatives.",
-        "Wealth and advisory platforms face liability if ESG positioning isn't explicitly risk-disclosed; 'client values' alone don't override fiduciary duty to explain trade-offs."
-      ],
-      "topics": [
-        "ESG and values investing",
-        "wealth management advice",
-        "retail investor behavior",
-        "fund fees"
-      ],
-      "highlight": "ESG portfolios systematically underperform broad benchmarks in sectors that drive market leadership\u2014tech, energy, financials\u2014forcing advisors to choose between client values and fee-justified returns.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "8c719342db13",
     "title": "Mental health sentences to ponder",
     "url": "https://marginalrevolution.com/marginalrevolution/2026/07/mental-health-sentences-to-ponder.html?utm_source=rss&utm_medium=rss&utm_campaign=mental-health-sentences-to-ponder",
@@ -1435,32 +686,6 @@
     }
   },
   {
-    "id": "4866ccc3c6e7",
-    "title": "Lockton appoints Fiona Terry to lead Canadian Global Solutions team",
-    "url": "https://www.reinsurancene.ws/lockton-appoints-fiona-terry-to-lead-canadian-global-solutions-team/",
-    "source": "Reinsurance News",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-10T15:00:14+00:00",
-    "summary_raw": "<p>Lockton, a privately held independent insurance brokerage, has announced the appointment of Fiona Terry as Managing Director and National Practice Leader for its Canadian Global Solutions team. The appointment forms part of the company&#8217;s strategy to expand its specialist risk management capabilities for Canadian businesses with international operations. Terry will play a key role in [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/lockton-appoints-fiona-terry-to-lead-cana",
-    "summary_ai": {
-      "digest": "Lockton appoints Fiona Terry as Managing Director of Canadian Global Solutions, signaling expansion of specialist risk management for mid-market firms with cross-border operations.",
-      "summary_long": "Lockton, a large independent insurance broker, has promoted Fiona Terry to lead its Canadian Global Solutions practice. The move reflects a deliberate push to deepen capabilities in risk management for Canadian businesses operating internationally\u2014a segment typically underserved by generalist brokers. Terry's appointment suggests Lockton is building scale in a niche that justifies dedicated leadership, likely in response to growing demand from SME clients navigating regulatory complexity across jurisdictions. This is consistent with broader consolidation trends in insurance broking, where specialists command higher margins and stickier client relationships than commodity lines.",
-      "talking_points": [
-        "Lockton is doubling down on cross-border risk management for Canadian mid-market\u2014a high-margin segment.",
-        "Senior leadership appointment in a practice area signals confidence in organic growth and competitive positioning versus larger global brokers.",
-        "This fits a pattern of independent brokers carving out defensible niches as scale consolidates the industry."
-      ],
-      "topics": [
-        "insurance-broking",
-        "specialty-risk-management",
-        "canadian-market",
-        "organic-growth"
-      ],
-      "highlight": null,
-      "relevance": 4
-    }
-  },
-  {
     "id": "c372a4600e9f",
     "title": "Inside the Secret Factory That Supplies Ukraine\u2019s War Drones",
     "url": "https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html",
@@ -1559,80 +784,6 @@
       ],
       "highlight": null,
       "relevance": 4
-    }
-  },
-  {
-    "id": "2a9fc2a5090a",
-    "title": "Specialty Farmers Adapt Harvests to Extreme Heat",
-    "url": "https://www.insurancejournal.com/news/midwest/2026/07/10/877060.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-10T14:55:41+00:00",
-    "summary_raw": "Even as the sun started to set, the day&#8217;s heat was still hanging in the air as Annie Woods walked back out to harvest squash and zucchini on her 50-acre farm. Prolonged and intense heat is part of a climate &#8230;",
-    "summary_ai": {
-      "digest": "Specialty farmers are shifting harvest timing and crop selection to adapt to extreme heat; insurance implications for agricultural coverage and claims frequency remain undiscussed.",
-      "summary_long": "The article profiles a farmer adapting operational practices\u2014harvest timing, crop mix\u2014to withstand prolonged heat waves. It positions climate adaptation as a farmer-level survival strategy but does not address insurance underwriting, pricing, or claims trends. For FIG, the relevance lies in potential underwriting pressure on specialty agricultural insurers facing higher loss frequency and severity, but the piece does not quantify losses, mention specific insurers, or discuss policy terms or rate changes. This is a leading indicator of stress in agricultural insurance books, but the article lacks the data or expert commentary to assess magnitude.",
-      "talking_points": [
-        "Specialty crop farmers are operationally adapting to extreme heat, signaling that climate stress is moving beyond volatility into structural shift.",
-        "Agricultural insurers face potential claims inflation if heat-driven crop losses accelerate, but no data yet on insurer loss ratios or reserve adequacy."
-      ],
-      "topics": [
-        "agricultural-insurance",
-        "climate-risk-underwriting",
-        "specialty-crops"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
-    "id": "2c4d7029e0ec",
-    "title": "Friday assorted links",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-580",
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "section": "Learn",
-    "date": "2026-07-10T16:02:09+00:00",
-    "summary_raw": "<p>1. On Jewish culture. 2. How much have the top last names changed since 1790? 3. Bernanke appointed to the Long-Term Benefit Trust of Anthropic. 4. The India 1991 Fellowship is going great. 5. UK Dynamism Fund. 6. Peter Gray on phones and social media. 7. The new Richard Hanania book is out. 8. Warsh [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/friday-assorted-links-580.html\">Friday assorted links</a> appeared first on <a href=\"https://marginalr",
-    "summary_ai": {
-      "digest": "Tyler Cowen's Friday links roundup covering cultural history, demographic shifts, Bernanke's Anthropic appointment, and policy initiatives across India and UK.",
-      "summary_long": "Marginal Revolution's weekly assorted links feature curates eight disparate topics: Jewish cultural trends, surname distribution changes from 1790 to present, Ben Bernanke's appointment to Anthropic's Long-Term Benefit Trust, progress on India's 1991 Fellowship program, the UK Dynamism Fund, Peter Gray on social media effects on youth, Richard Hanania's new book, and Warsh commentary (subject cut off). The selection reflects Cowen's eclectic interests spanning culture, economics, technology governance, and policy innovation\u2014no single narrative thread, but each item chosen for intellectual interest or policy relevance.",
-      "talking_points": [
-        "Bernanke joining Anthropic's governance structure signals mainstream institutional engagement with AI alignment and long-term AI governance.",
-        "UK Dynamism Fund and India 1991 Fellowship represent policy-level experiments in institutional reform and economic liberalization\u2014worth watching as case studies.",
-        "Gray on social media and phones frames the youth mental health question as technology policy rather than panic\u2014different from typical coverage."
-      ],
-      "topics": [
-        "AI governance",
-        "economic policy",
-        "institutional innovation"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
-    "id": "2ac7d356b5fd",
-    "title": "2026.28: XBOX On the Rocks",
-    "url": "https://stratechery.com/2026/xbox-on-the-rocks/",
-    "source": "Stratechery (Ben Thompson)",
-    "section": "Learn",
-    "date": "2026-07-10T17:00:00+00:00",
-    "summary_raw": "The best Stratechery content from the week of July 6, 2026, including a word from Mark Zuckerberg*, pulling the plug on XBOX, and toilet talk.",
-    "summary_ai": {
-      "digest": "Ben Thompson's weekly digest covers Microsoft's XBOX exit, Meta's strategy shift, and miscellaneous tech commentary.",
-      "summary_long": "This is a curated digest of Thompson's Stratechery posts from early July 2026, anchored by analysis of Microsoft's decision to exit the XBOX hardware business. The piece likely explores the strategic rationale behind discontinuing a major gaming platform and what it signals about Microsoft's broader competitive positioning. The digest also includes commentary on Mark Zuckerberg's recent statements and other tech industry dynamics. Thompson's strength is identifying structural shifts in tech strategy rather than just reporting the move itself.",
-      "talking_points": [
-        "Microsoft pulling out of XBOX hardware is a major strategic reset\u2014likely driven by console economics, cloud gaming viability, or inability to compete with Sony/Nintendo in that form factor.",
-        "The move may reflect Microsoft's pivot toward services (Game Pass) and cloud (Azure) over hardware ownership, similar to how Apple shifted from iPod to Services.",
-        "Worth tracking whether this signals broader retreat from consumer hardware or is specific to gaming; has implications for hardware-adjacent fintech partnerships (e.g., banking on mobile/embedded devices)."
-      ],
-      "topics": [
-        "tech-strategy",
-        "consumer-hardware",
-        "platform-economics"
-      ],
-      "highlight": null,
-      "relevance": 3
     }
   },
   {
@@ -1820,29 +971,6 @@
     }
   },
   {
-    "id": "fb1170d67b47",
-    "title": "CenterGate Capital invests in Canadian Dental Labs",
-    "url": "https://www.pehub.com/centergate-capital-invests-in-canadian-dental-labs/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-10T17:46:17+00:00",
-    "summary_raw": "<p>Based in Toronto, CDL manages eleven dental laboratories across Canada.</p>\n<p>The post <a href=\"https://www.pehub.com/centergate-capital-invests-in-canadian-dental-labs/\">CenterGate Capital invests in Canadian Dental Labs</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
-    "summary_ai": {
-      "digest": "CenterGate Capital invests in Canadian Dental Labs (CDL), a Toronto-based operator of eleven dental laboratories across Canada. No deal size, structure, or capital terms disclosed.",
-      "summary_long": "CenterGate Capital has made an investment in Canadian Dental Labs, a platform dental laboratory operator with eleven locations across Canada. The excerpt provides no detail on deal size, equity/debt structure, valuation, or strategic rationale. Without those fundamentals, the investment reads as a footnote rather than a meaningful signal for FIG deal flow, consolidation trends in specialty healthcare services, or capital deployment strategy.",
-      "talking_points": [
-        "CenterGate backs CDL's eleven-lab footprint across Canada\u2014consolidation play in fragmented dental lab services.",
-        "No disclosed check size or structure limits ability to benchmark against market or infer fund thesis."
-      ],
-      "topics": [
-        "specialty-healthcare-pe",
-        "canadian-market"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
     "id": "273bf0178b3d",
     "title": "Stocks making the biggest moves premarket: Delta, Circle, Vodafone, Intel and more",
     "url": "https://www.cnbc.com/2026/07/10/stocks-making-the-biggest-moves-premarket-dal-crcl-intc-more-.html",
@@ -1960,86 +1088,47 @@
     }
   },
   {
-    "id": "c2a4fc1fd9aa",
-    "title": "Dedicated Volunteers in Nashville Relay Calm, Straight-Talk Info During Dtorms",
-    "url": "https://www.insurancejournal.com/news/southeast/2026/07/10/877066.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-10T15:06:53+00:00",
-    "summary_raw": "Anyone who has watched an episode of &#8220;9-1-1: Nashville&#8221; could be forgiven for thinking the city is constantly beset by tornadoes that turn outdoor concerts into scenes of carnage and blow scooter-riding tourists onto the tops of water towers. That &#8230;",
+    "id": "85265617a056",
+    "title": "What Everyone's Talking About",
+    "url": "https://www.fxmacro.info/p/what-everyones-talking-about",
+    "source": "fx:macro",
+    "section": "Markets & Macro",
+    "date": "2026-07-12T14:30:55+00:00",
+    "summary_raw": "Introducing the Newsletter Clown Show",
     "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": [],
-      "topics": [],
+      "digest": "This is a meta-commentary piece about financial newsletter culture and noise, not a market signal or macro read relevant to FIG deal flow or credit conditions.",
+      "summary_long": "The piece appears to be satire or commentary on the proliferation of financial newsletters and the tendency of the media ecosystem to hype incremental market moves. Based on the title 'Newsletter Clown Show,' it's critiquing the noise-to-signal ratio in financial media rather than delivering actionable macro analysis, rates data, or credit-market insight that would shape FIG financing or M&A strategy. Without access to the full text, the excerpt suggests this is opinion about the industry rather than a substantive take on where yields, spreads, or bank-funding conditions are headed.",
+      "talking_points": [
+        "Meta-critique of newsletter culture; not a market signal."
+      ],
+      "topics": [
+        "media-critique",
+        "newsletter-industry"
+      ],
       "highlight": null,
-      "relevance": 1
+      "relevance": 2
     }
   },
   {
-    "id": "8e8251e8b92f",
-    "title": "INFORMATION MENSUELLE RELATIVE AU NOMBRE TOTAL D\u2019ACTIONS ET DE DROITS DE VOTE COMPOSANT LE CAPITAL SOCIAL",
-    "url": "https://www.globenewswire.com/news-release/2026/07/10/3325675/0/fr/INFORMATION-MENSUELLE-RELATIVE-AU-NOMBRE-TOTAL-D-ACTIONS-ET-DE-DROITS-DE-VOTE-COMPOSANT-LE-CAPITAL-SOCIAL.html",
-    "source": "GlobeNewswire \u2014 Banking (press releases)",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-10T17:00:00+00:00",
-    "summary_raw": "<p align=\"center\">Bezons, le 10 juillet 2026, 19h00</p>",
+    "id": "6b0574815b7b",
+    "title": "Sunday assorted links",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-575",
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "section": "Learn",
+    "date": "2026-07-12T17:21:15+00:00",
+    "summary_raw": "<p>1. NYT overview of Foucault. 2. Solar mirrors to turn night into day? (NYT) 3. How does the butterfly retain the memories of the caterpillar? 4. The Taliban declares war on smartphones. 5. Links from Sam Enright. 6. Why are U.S. ambulance rides so costly? 7. Richard Hanania on The Sopranos.</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-575.html\">Sunday assorted links</a> appeared first on <a href=\"https://marginalrevolution.com\">Margi",
     "summary_ai": {
-      "digest": "Natixis disclosed monthly share capital and voting rights figures as of July 10, 2026, per French regulatory filing requirements.",
-      "summary_long": "This is a mandatory regulatory disclosure filing by Natixis (French banking group, subsidiary of BPCE). The document reports total shares outstanding and voting rights composition as of a specific date. Such filings are routine capital structure transparency requirements under French financial regulation and EU MiFID/transparency rules. There is no deal activity, capital raise, or strategic announcement embedded in this filing.",
+      "digest": "Sunday link roundup spanning Foucault, solar engineering, Taliban policy, ambulance economics, and cultural analysis\u2014no unifying theme or finance angle.",
+      "summary_long": "This is a classic Marginal Revolution assorted-links post: a curated grab-bag of reads across philosophy, science, policy, economics, and culture. The pieces touch on metamorphosis memory, Taliban smartphone bans, U.S. healthcare cost structure, and television criticism. The ambulance-cost item has mild economic interest (a classic U.S. market failure case), but the post is primarily a discovery mechanism for eclectic intellectual content rather than analysis. No new data, no argument, no frame\u2014just links.",
       "talking_points": [
-        "Routine regulatory disclosure with no M&A, capital raise, or strategic signal."
+        null
       ],
       "topics": [
-        "regulatory-disclosure",
-        "capital-structure"
+        "intellectual-curiosity",
+        "misc"
       ],
       "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "779a845a1c48",
-    "title": "RIBER: Bilan semestriel du contrat de liquidit\u00e9 contract\u00e9 avec NATIXIS ODDO BHF",
-    "url": "https://www.globenewswire.com/news-release/2026/07/10/3325676/0/fr/RIBER-Bilan-semestriel-du-contrat-de-liquidit%C3%A9-contract%C3%A9-avec-NATIXIS-ODDO-BHF.html",
-    "source": "GlobeNewswire \u2014 Banking (press releases)",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-10T17:00:00+00:00",
-    "summary_raw": "<p align=\"center\"><b>Bilan semestriel du contrat de liquidit\u00e9 contract\u00e9 avec NATIXIS ODDO BHF</b></p>",
-    "summary_ai": {
-      "digest": "RIBER publishes semi-annual liquidity contract report with NATIXIS ODDO BHF. Standard regulatory disclosure for French-listed small-cap with no material capital or trading event flagged.",
-      "summary_long": "RIBER, a small French equipment manufacturer, has filed its required semi-annual report on a liquidity provision agreement with NATIXIS ODDO BHF. These contracts are standard market-making arrangements on Euronext for smaller issuers to ensure trading continuity and bid-ask tightness. The filing itself contains no novel information about capital raises, M&A, regulatory action, or broker-dealer health. It is a routine compliance disclosure.",
-      "talking_points": [
-        "This is a mandatory Euronext filing, not a news event\u2014no deal, capital, or regulatory signal.",
-        "NATIXIS ODDO BHF is a secondary French investment bank; the engagement tells you nothing about RIBER's financial position or strategic intent."
-      ],
-      "topics": [
-        "liquidity-agreement",
-        "euronext-disclosure"
-      ],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "3780f7e5f831",
-    "title": "Stocks making the biggest moves midday: SK Hynix, Meta, WD-40, Delta, Vodafone & more",
-    "url": "https://www.cnbc.com/2026/07/10/stocks-making-big-midday-moves-skhyv-meta-wdfc-dal-vod-.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-10T17:53:52+00:00",
-    "summary_raw": "These are some of the stocks posting the largest moves midday.",
-    "summary_ai": {
-      "digest": "Market-watch roundup of large intraday stock moves across sectors including tech, consumer, and industrials. No FIG-specific deal, regulatory, or capital event identified.",
-      "summary_long": "This is a generic equity market moving-stocks feature covering SK Hynix, Meta, WD-40, Delta, Vodafone, and unnamed others. It reports intraday price action without explaining the drivers, structural implications, or catalysts. There is no bank capital event, M&A announcement, regulatory action, fintech valuation move, or credit market signal. The piece is sectional mislabeling\u2014it belongs in Markets & Macro price-action coverage, not in FIG \u2014 Banks.",
-      "talking_points": [
-        "No actionable talking point\u2014this is price-action noise without context or thesis."
-      ],
-      "topics": [
-        "market-noise"
-      ],
-      "highlight": null,
-      "relevance": 1
+      "relevance": 2
     }
   },
   {
@@ -2068,7 +1157,7 @@
     "date": "2026-07-11T19:00:00+00:00",
     "summary_raw": "\u201cI have very little money, while my ex\u2019s financial statements show assets in the millions.\u201d",
     "summary_ai": {
-      "digest": null,
+      "digest": "Null \u2014 personal finance advice column with no macro or FIG relevance.",
       "summary_long": null,
       "talking_points": null,
       "topics": null,
