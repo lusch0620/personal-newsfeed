@@ -1,14 +1,19 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Sector rotation signals and Goldman's China AI positioning as market breadth expands beyond mega-cap tech.",
+    "lede": "Q2 bank earnings set to benefit from SpaceX advisory work and geopolitical volatility, while fintech and AI reshaping market structure.",
     "bullets": [
       {
-        "text": "ETF strategist recommends rotating into underperforming sectors as AI trade cools, signaling potential mean reversion opportunity for positioned investors.",
-        "refId": "41c27c0e8512",
+        "text": "Q2 earnings poised to beat expectations on SpaceX IPO advisory fees, Iran war volatility trading, and commercial lending pickup.",
+        "refId": "54e5a2762fb0",
         "source": "CNBC Finance"
       },
       {
-        "text": "Goldman Sachs published competitive framework ranking Chinese AI models, telegraphing the bank's strategic focus on the sector without announcing specific deals yet.",
+        "text": "Kalshi launches 'Pro' product with perpetual futures and multi-market trading, expanding CFTC-regulated alternatives to traditional derivatives venues.",
+        "refId": "9a98765b97be",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Goldman Sachs ranks Chinese AI models in published framework, signaling strategic focus on Asia tech without formal deal announcements.",
         "refId": "b94d24154e3a",
         "source": "CNBC Finance"
       }
@@ -19,90 +24,116 @@
     "bullets": []
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories spanning housing insurance innovation, flood coverage gaps, market consolidation, and D&O headwinds.",
+    "lede": "Four stories span regulatory tightening (UK cloud oversight, California rate hikes), emerging market opportunity (Brazil), and litigation risks from past failures (Patriot National fallout).",
     "bullets": [
       {
-        "text": "NYC launching city-backed affordable housing insurance program with Pinnacle Actuaries building the framework; now seeking private-sector partners to capitalize and operate.",
-        "refId": "ffa2aeec9540",
+        "text": "UK designates Microsoft, Google, Amazon, and Oracle as critical third-party suppliers to the financial sector, subjecting them to direct FCA/PRA oversight for the first time\u2014a major regulatory shift for big tech's role in finance.",
+        "refId": "7f9632616349",
         "source": "Insurance Journal"
       },
       {
-        "text": "Flood insurance gap widening as climate-driven rainfall outpaces NFIP capacity\u2014Moody's warns of mounting financial stress for local governments and homeowners.",
-        "refId": "ca46a80e8362",
+        "text": "California approves 10.4% workers' comp pure premium increase effective September 1, raising baseline costs for employers\u2014meaningful for carriers' pricing leverage but potential pushback from business groups.",
+        "refId": "f171a3685162",
         "source": "Insurance Journal"
       },
       {
-        "text": "Independent agents gained 60 bps of P&C market share to 62.1% YoY, signaling channel resilience amid consolidation.",
-        "refId": "1a89697b912e",
-        "source": "Insurance Journal"
+        "text": "Brazil's new Insurance Law takes effect with regulator signaling market maturity and openness; reinsurer appetite is increasing amid improved claims handling and contractual clarity.",
+        "refId": "d4192952ea2b",
+        "source": "Reinsurance News"
       },
       {
-        "text": "D&O market facing margin compression and tighter underwriting in 2026 as AM Best flags capacity constraints and pricing pressure.",
-        "refId": "563e03a5ef9d",
-        "source": "Insurance Journal"
+        "text": "Trivora Insurance, a cyber-focused MGA for SMEs, lands growth funding from Carroll Street Capital to expand product and broker network\u2014bet on SME cyber risk appetite.",
+        "refId": "1687c33b56f0",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "AI adoption creates competitive moat in European banking, while Malaysian digital bank expands beyond payments.",
+    "lede": "Mastercard explores Vocalink exit, Moneybox surges to \u00a3800M valuation, and wealth platforms race to adopt AI/advanced tech.",
     "bullets": [
       {
-        "text": "Visa study warns European banks: early AI adopters will outperform laggards by 2030, signaling widening performance gap in retail banking.",
-        "refId": "687a624904c5",
+        "text": "Mastercard weighing sale of Vocalink\u2014the UK payments platform acquired from British banks in 2016\u2014with potential return to original owners signaling strategic portfolio recalibration.",
+        "refId": "1e145a5d5cd2",
         "source": "Finextra"
       },
       {
-        "text": "GXBank (Malaysia's first digital bank) partners with Firsty to offer in-app mobile data top-ups, pivoting toward lifestyle platform positioning.",
-        "refId": "85474bcff9c3",
+        "text": "Moneybox closes secondary at \u00a3800M valuation (45% jump YoY), raising up to \u00a345M and validating UK digital wealth mgmt appetite despite broader fintech cooling.",
+        "refId": "fc4f761d0660",
         "source": "Finextra"
+      },
+      {
+        "text": "Standard Chartered integrates BlackRock's Aladdin into myWealth Advisor platform; early AI movers in European banking expected to significantly outperform by 2030, per Visa study.",
+        "refId": "6449468601d7",
+        "source": "Finextra"
+      },
+      {
+        "text": "North America private debt retains LP favor despite market divergence; performing credits tracking well while distressed book shows stress\u2014AlbaCore flags bifurcated opportunity set.",
+        "refId": "a209e7a91aba",
+        "source": "Private Debt Investor"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
-  },
-  "Markets & Macro": {
-    "lede": "Four stories on market structure shifts: UK inflation hitting lower-income households harder, PE mega-funds dominating fundraising, China tightening bond ratings, and AI rebranding failing to sustain valuations.",
+    "lede": "LP-led secondaries heating up amid favorable pricing; Bridgepoint backs Danish defense tech while Nordic Capital eyes water treatment across Europe; Korean pension rotating $230M toward domestic PE.",
     "bullets": [
       {
-        "text": "UK inflation creates 3\u20134 percentage point gap between lower and higher-income households due to energy/food costs, reshaping consumer credit risk and deposit dynamics in retail banking.",
-        "refId": "77967c9d34c5",
-        "source": "Financial Times Markets"
+        "text": "LP-led secondaries market expanding with major players (LGT, Dawson, Pomona) actively sourcing deals as sellers capitalize on favorable pricing and liquidity conditions.",
+        "refId": "7842879d9597",
+        "source": "Secondaries Investor"
       },
       {
-        "text": "Top 20 PE firms raised $519B in H1 2026 (+27% YoY) while smaller funds struggle; market consolidation risk as capital concentrates in mega-funds.",
+        "text": "Bridgepoint acquires majority stake in UMag, a Danish defense-tech spinout from Technical University of Denmark; founders retain control while capital funds international expansion as European defense spending accelerates.",
+        "refId": "2642f5d466a6",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Korean pension (KBIZ) committing ~$230M to domestic blind-pool PE/VC funds in 2026, signaling institutional capital shift toward Korea-focused managers amid broader sector rotation.",
+        "refId": "9eec12f87176",
+        "source": "Private Equity International"
+      }
+    ]
+  },
+  "Markets & Macro": {
+    "lede": "Bank earnings season begins amid PE mega-fund dominance, surging IB fees, and tightening credit standards in China.",
+    "bullets": [
+      {
+        "text": "Bank earnings kick off Tuesday with market priced for high expectations\u2014potential disappointment risk ahead.",
+        "refId": "acbebe28924d",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Top 20 PE firms raised $519B in H1 2026 (+27% YoY) while smaller funds struggle; concentration deepens risk of consolidation.",
         "refId": "fe3ad57cc805",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Chinese regulators pressuring ratings agencies to stop awarding top triple-A grades to higher-yielding corporates, tightening credit standards across the market.",
-        "refId": "ef5e077f109f",
+        "text": "US investment banking fees tracking toward highest annual total since 2022, fueled by M&A revival and AI-driven DCM activity.",
+        "refId": "18310173ed87",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Companies rebranding around AI see initial valuation relief rallies fade as fundamentals remain unchanged\u2014durability problem for the pivot narrative.",
-        "refId": "45e447a800a0",
+        "text": "China's regulators pressuring ratings agencies to tighten triple-A grades on corporate bonds, signaling credit market discipline.",
+        "refId": "ef5e077f109f",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "ETF market shows rare redemption week amid rotation; niche product launches emerge around values-based exclusion and semiconductor subsectors.",
+    "lede": "Big bank earnings dominate today as six largest US banks report Q2 results; meantime, ETF flows turn negative and Chinese AI cuts into US dominance.",
     "bullets": [
       {
-        "text": "ETF flows turned negative in unusual reversal across equities, bonds, and alternatives\u2014worth understanding what triggered the redemptions.",
+        "text": "Five of six largest US banks report Q2 earnings tomorrow\u2014watch for credit quality, deposit dynamics, and consumer health signals across lending and trading.",
+        "refId": "a05bc9cbcf8d",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "ETF flows went negative in a rare week; redemptions hit equity, bond, and alternative products as market sentiment shifts.",
         "refId": "93673e809ed8",
         "source": "The Daily Upside"
       },
       {
-        "text": "'Ex-Elon' ETFs launching to capture investors fleeing Tesla/SpaceX exposure due to Musk's public persona\u2014values-based exclusion becoming viable product category.",
-        "refId": "8e0ae1231bdf",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "New memory/DRAM ETFs hitting market as chip cycles recover, targeting retail play in historically volatile but high-return hardware subsector.",
-        "refId": "7b68d9f9bfe2",
+        "text": "Alibaba's AI model ranks globally first; cheaper Chinese alternatives are eroding US tech dominance in artificial intelligence.",
+        "refId": "8a7c9fc393e9",
         "source": "The Daily Upside"
       }
     ]
@@ -112,47 +143,47 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Health data shifts dominate today's read: dementia prevalence collapsing while mental illness diagnoses soar, plus AI moats fundamentally reshaping as open-source catches up to frontier models.",
+    "lede": "AI moats shift from models to defensibility; mental health diagnostics questioned; suburban economics deserve respect.",
     "bullets": [
       {
-        "text": "Dementia prevalence among 85-89 year-olds plummeted from 30% to 10% over four decades\u2014a major epidemiological win documented in JAMA research.",
-        "refId": "2c16161196c3",
-        "source": "Marginal Revolution"
-      },
-      {
-        "text": "Open-source AI models now match frontier capabilities at 1/10th the cost, forcing founders to build competitive moats beyond raw model performance\u2014a fundamental shift in AI economics.",
+        "text": "Open-source AI now matches frontier models at 1/10th the cost, forcing VCs to reconsider what actually builds sustainable moats beyond raw model performance.",
         "refId": "fc03107930b6",
         "source": "The AI Corner"
       },
       {
-        "text": "UK mental illness diagnoses among young people surged while functional impairment stayed flat, suggesting diagnostic creep rather than true prevalence increases.",
+        "text": "Tyler Cowen makes a counterintuitive case: competitive markets exist only if P \u2260 NP; if P = NP, firms can detect and sustain cartels efficiently.",
+        "refId": "ed7cdd73b095",
+        "source": "Marginal Revolution"
+      },
+      {
+        "text": "UK youth mental illness diagnoses surged while actual functional impairment flatlined\u2014raising questions about diagnostic creep vs. real prevalence shifts.",
         "refId": "8c719342db13",
         "source": "Marginal Revolution"
       }
     ]
   },
   "all": {
-    "lede": "Five stories spanning UK retail banking stress, PE mega-fund dominance, and insurance market gaps\u2014with housing and flood coverage emerging as key risk management challenges.",
+    "lede": "Bank earnings dominate the week ahead as mega PE funds consolidate capital; Mastercard explores Vocalink exit and Wall Street eyes best IB fees since 2022.",
     "bullets": [
       {
-        "text": "UK inflation hits lower-income households 3\u20134 percentage points harder than wealthy consumers due to energy and food costs, reshaping retail banking's credit risk and funding profiles.",
-        "refId": "77967c9d34c5",
-        "source": "Financial Times Markets"
+        "text": "Five of six largest US banks report Q2 earnings tomorrow\u2014the Street's watching credit quality, deposits, and consumer health across all divisions to gauge economy's true state.",
+        "refId": "a05bc9cbcf8d",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Top 20 PE firms raised $519B in H1 2026 (+27% YoY) while smaller funds struggle\u2014consolidation risk mounting in a two-tier market.",
+        "text": "Top 20 PE firms raised $519B in H1 2026 (+27% YoY), but smaller funds are bleeding dry\u2014two-tier market signals consolidation risk among sub-scale players.",
         "refId": "fe3ad57cc805",
         "source": "Financial Times Markets"
       },
       {
-        "text": "NYC building actuarial framework for city-backed affordable housing insurance and seeking private partners to capitalize\u2014potential M&A or partnership play in residential risk.",
-        "refId": "ffa2aeec9540",
-        "source": "Insurance Journal"
+        "text": "US investment banking fees tracking toward best year since 2022, fueled by M&A revival, IPO recovery, and AI-driven DCM activity.",
+        "refId": "18310173ed87",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Widening flood insurance gap (claims outpacing NFIP capacity) creating financial stress for local govs and homeowners; independent agents gained 60 bps market share in 2025.",
-        "refId": "ca46a80e8362, 1a89697b912e",
-        "source": "Insurance Journal"
+        "text": "Mastercard exploring sale of Vocalink, potentially returning the UK payments platform to its original banking consortium a decade after acquisition.",
+        "refId": "1e145a5d5cd2",
+        "source": "Finextra"
       }
     ]
   },
@@ -177,14 +208,14 @@
     },
     {
       "nm": "US 10Y",
-      "v": 4.569,
-      "base": 4.539,
+      "v": 4.577,
+      "base": 4.569,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.03,
-      "base": 15.84,
+      "v": 16.36,
+      "base": 16.9,
       "bp": false
     },
     {
