@@ -1,159 +1,164 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Bank earnings set to boom on SpaceX advisory fees and geopolitical trading, but Fed rate-hike odds rising on oil volatility could pressure NIMs.",
+    "lede": "Bank earnings set to boom on SpaceX fees and volatility, but Fed rate-hike odds rising on geopolitical tension could pressure NIMs.",
     "bullets": [
       {
-        "text": "Q2 bank revenues primed for strong results: SpaceX IPO advisory fees, Iran Strait tension driving trading volatility, and pickup in commercial lending all flowing through.",
+        "text": "Q2 bank earnings poised to beat expectations, driven by SpaceX IPO advisory fees, geopolitical volatility trading, and commercial lending pickup.",
         "refId": "54e5a2762fb0",
         "source": "CNBC Finance"
       },
       {
-        "text": "Fed rate-hike odds climbing on Strait of Hormuz oil spike\u2014direct headwind for deposit pricing and NIM compression in near term.",
+        "text": "Fed rate-hike odds for July rising after Strait of Hormuz oil-price spike\u2014direct headwind to bank NIM compression and deposit-pricing dynamics.",
         "refId": "c63dac3c3989",
         "source": "CNBC Finance"
       },
       {
-        "text": "Trump's CFPB pick Brian Johnson secures 60-day discretionary review of staff-cut plan post-confirmation\u2014regulatory staffing uncertainty continues.",
+        "text": "Fed Governor Waller signals inflation broadening beyond energy/tariffs, keeping rate-hike door open despite recent disinflation momentum.",
+        "refId": "c5c5c7558bc8",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "CFPB nominee Brian Johnson wins 60-day discretionary review period on staff cuts post-confirmation, giving Trump pick operational control over bureau workforce.",
         "refId": "480322445a1f",
         "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "Russell Investments sale to CalPERS signals major wealth management consolidation; RIA platforms racing to scale via M&A and organic growth.",
+    "lede": "Russell Investments goes non-profit under CalPERS; RIA consolidation heats up with leadership shifts and platform reorganizations; Betterment faces cash sweep litigation.",
     "bullets": [
       {
-        "text": "CalPERS acquires Russell Investments for strategic multi-asset expansion; Russell exits debt burden and pivots to non-profit governance model mirroring Vanguard's playbook.",
+        "text": "CalPERS acquiring Russell Investments for $580B pension system; Russell sheds debt albatross and converts to non-profit governance model, mirroring Vanguard's playbook.",
         "refId": "ab39c6cbdb7c",
         "source": "RIABiz"
       },
       {
-        "text": "RIA consolidation accelerates: Hightower hits organic growth highs, ex-Fido CTO raises $7.7M for standalone platform, Choreo closes fourth acquisition post-SpaceX, Wealthfront crosses $100B AUM.",
+        "text": "RIA consolidation accelerates: Hightower's organic growth soars, ex-Fido CTO raises $7.7M for standalone platform, Choreo closes 4th acquisition post-SpaceX, Avantis adds $50B+ AUM.",
         "refId": "0be3fec547da",
         "source": "RIABiz"
       },
       {
-        "text": "Carson Group restructures go-to-market into separate W-2 and independent RIA channels to sharpen focus and fuel organic growth amid consolidation wave.",
-        "refId": "283ddebdc373",
+        "text": "Aspen-backed Summitry ($4B RIA) founder Colin Higgins steps to chair; two executives elevated to co-CEOs after 22-year tenure.",
+        "refId": "b2c3bde5c5e6",
         "source": "Wealth Management"
       },
       {
-        "text": "Betterment hit with class action lawsuit over cash sweep accounts allegedly generating hidden profits by parking client cash in non-interest-bearing deposits.",
+        "text": "Betterment sued in class action for allegedly sweeping client cash into non-interest-bearing accounts at partner banks, generating hidden firm profits.",
         "refId": "5ec124a80deb",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "Brazil's insurance market opens for business, Mile Auto expands via acquisition, Tylenol litigation explodes, and AI transforms underwriting workflows.",
+    "lede": "Brazil's insurance market opens up as new law takes effect; Mile Auto expands via Georgia acquisition; Kenvue faces major litigation revival; insurers deploy AI and new capacity structures.",
     "bullets": [
       {
-        "text": "Brazil's new Insurance Law takes effect with reinsurer enthusiasm\u2014Uplift CEO signals market maturation, improved claims handling, and regulatory openness attracting capital.",
+        "text": "Brazil's new Insurance Law goes live with regulatory tailwinds\u2014Uplift CEO signals market maturation, improved claims handling, and reinsurer appetite picking up.",
         "refId": "d4192952ea2b",
         "source": "Reinsurance News"
       },
       {
-        "text": "Mile Auto acquires Insurance House ($100M premium, 55k policyholders) effective July 2026, expanding AI-driven MGA to 10 states and 1,600 distribution partners.",
+        "text": "Mile Auto acquires Georgia's Insurance House (~$100M premiums, 55k+ policyholders) for $100M-ish, hitting 10 states and 1,600 distribution partners by July 2026.",
         "refId": "a2cfd2314afa",
         "source": "Insurance Journal"
       },
       {
-        "text": "Federal appeals court revives 500+ Tylenol-autism lawsuits against Kenvue (July 13), overturning dismissal and creating significant litigation exposure for the company.",
+        "text": "Federal appeals court revived 500+ Tylenol-autism lawsuits against Kenvue on July 13, overturning dismissal and exposing significant litigation risk.",
         "refId": "0a24cb2d8018",
         "source": "Insurance Journal"
       },
       {
-        "text": "Dun & Bradstreet integrates Claude AI into commercial insurance underwriting, enabling real-time risk data access during policy decisions\u2014underwriting automation accelerates.",
+        "text": "Marsh launches MLOne, a US lead umbrella casualty facility to streamline excess claims coordination, complementing its existing BX1 (Bermuda) and MX1 (US) platforms.",
         "refId": "e7e838851aaa",
         "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "Four stories spanning payments infrastructure, credit divergence, and fintech valuations; Mastercard exploring Vocalink exit while CMBS credit quality deteriorates.",
+    "lede": "5 stories spanning payments M&A, credit divergence, and regulatory headwinds across specialty finance.",
     "bullets": [
       {
-        "text": "Mastercard exploring sale of Vocalink, the UK payments platform acquired in 2016, potentially returning it to original banking owners\u2014a strategic pivot in core infrastructure.",
+        "text": "Mastercard exploring Vocalink sale\u2014potentially returning the 2016-acquired UK payments platform back to original banking owners.",
         "refId": "1e145a5d5cd2",
         "source": "Finextra"
       },
       {
-        "text": "CMBS special servicing rates climbed in June 2026 as large retail, office, and lodging loans deteriorate, signaling credit stress and workout activity ahead in property-backed securitizations.",
+        "text": "CMBS special servicing rates climbed in June 2026 as retail, office, and lodging loans deteriorated\u2014signaling workout activity ahead for servicers.",
         "refId": "6a46f4595b79",
         "source": "Trepp Talk"
       },
       {
-        "text": "North America remains LP-favored in private debt despite market noise, but AlbaCore analysis reveals sharp divergence between performing and distressed credits\u2014bifurcated market dynamics.",
+        "text": "North America private debt remains LP-favored despite market noise, though AlbaCore flags widening gap between performing and distressed credits.",
         "refId": "a209e7a91aba",
         "source": "Private Debt Investor"
       },
       {
-        "text": "Moneybox raising \u00a345M in secondary sale at \u00a3800M valuation (45% increase since 2024), signaling continued investor appetite for UK digital wealth despite broader fintech consolidation pressures.",
-        "refId": "fc4f761d0660",
+        "text": "Klarna faces Dutch class action lawsuit and regulatory risk in key European market; Nubank gets Mexico banking license to offset geographic pressure.",
+        "refId": "f559642f48bc, 16daea72a982",
         "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "Arctos pioneers $6.2B GP financing structure while PE shops build out secondaries platforms and deploy capital into European infrastructure and defense.",
+    "lede": "PE financing and secondaries heat up: Arctos debuts novel $6.2B GP financing structure while Moelis and majors race to capture LP-led secondaries growth.",
     "bullets": [
       {
-        "text": "Arctos closes debut $6.2B GP financing using novel 'self-liquidating' Keystone structure, expanding toolkit for sponsor-backed capital raises.",
+        "text": "Arctos closes $6.2B GP financing using 'self-liquidating' Keystone structure\u2014first deployment of this approach in GP-financing market, signaling demand for alternative capital solutions.",
         "refId": "08c7099dc23b",
         "source": "Private Equity International"
       },
       {
-        "text": "Moelis hires Evercore team to build LP-led secondaries practice as market heats up; LGT, Dawson, Pomona aggressively sourcing deals amid favorable pricing.",
+        "text": "Moelis poaches Evercore team to build LP-led secondaries practice as market booms; LGT, Dawson, and Pomona actively sourcing deals amid favorable pricing and liquidity.",
         "refId": "61d02f6d5699",
         "source": "Secondaries Investor"
       },
       {
-        "text": "Bridgepoint acquires majority stake in Danish defense-tech UMag with founders staying on; Nordic Capital and Ardian also active in European infra/defense plays as regional spending accelerates.",
-        "refId": "2642f5d466a6",
+        "text": "Sector rotation: Nordic Capital targets European water treatment; Korean pension (KBIZ) committing ~$230M to domestic PE/VC blind pools in 2026.",
+        "refId": "f941e11ff4b2",
         "source": "PE Hub"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "Bank earnings kick off a pivotal week as mega-cap PE and IB firms capitalize on a bifurcated market\u2014mega-funds raising $519B while AI debt issuance spikes 99%.",
+    "lede": "Banking fees surging post-AI boom, but margin debt warnings and earnings uncertainty cloud the outlook.",
     "bullets": [
       {
-        "text": "Bank earnings season opens Tuesday with Street braced for high expectations; results could set tone for Q2 guidance amid mixed macro signals.",
-        "refId": "acbebe28924d",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Top 20 PE firms pulled $519B in H1 2026, up 27% YoY, while smaller funds struggle\u2014signals consolidation pressure and a two-tier market emerging.",
-        "refId": "fe3ad57cc805",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "US IB fees on track for best year since 2022 as M&A revival and AI-fueled DCM surge offset recent dry spells.",
+        "text": "US investment banking fees tracking toward highest annual total since 2022, driven by M&A revival and AI-fueled capital markets activity\u2014a windfall for advisory shops.",
         "refId": "18310173ed87",
         "source": "Financial Times Markets"
       },
       {
-        "text": "AI-related debt issuance soared 99% YoY as hyperscalers fund infrastructure, creating single-name and sector concentration risks in fixed-income portfolios.",
-        "refId": "4cceecf3e5f8",
+        "text": "Margin debt climbing as investors lever up to chase returns; Wall Street reading it as a late-cycle greed signal that historically precedes corrections.",
+        "refId": "9f7e88414426",
         "source": "MarketWatch"
+      },
+      {
+        "text": "Bank earnings kick off Tuesday with market braced for high expectations and potential disappointment\u2014sets tone for financial sector outlook.",
+        "refId": "acbebe28924d",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "EU imported record LNG volumes from Russia before scheduled import ban, signaling energy-supply vulnerability and inflation risks for European FI clients.",
+        "refId": "57a01570d6a4",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Big bank earnings dominate today's FIG focus, while ETF flows turn negative and AI competition heats up\u2014plus niche products proliferate.",
+    "lede": "Big bank earnings tomorrow set to reveal credit and deposit health; meanwhile, ETF flows turn negative and Chinese AI threatens US tech dominance.",
     "bullets": [
       {
-        "text": "Five of six largest US banks report Q2 earnings tomorrow; results will signal credit quality, deposit health, and consumer spending across all major business lines.",
+        "text": "Five of six largest US banks report Q2 earnings tomorrow\u2014critical read on credit quality, deposits, and consumer health across lending, trading, and wealth management.",
         "refId": "a05bc9cbcf8d",
         "source": "The Daily Upside"
       },
       {
-        "text": "ETF flows turned negative in a rare week\u2014equity, bond, and alternative products all saw redemptions; worth understanding what triggered the shift.",
+        "text": "ETF flows went negative in a rare week; redemptions hit equity, bond, and alternative products as sentiment shifted.",
         "refId": "93673e809ed8",
         "source": "The Daily Upside"
       },
       {
-        "text": "Alibaba's AI model ranks first globally; cheaper Chinese alternatives are eroding US tech dominance in AI, signaling competitive pressure on domestic players.",
+        "text": "Alibaba's AI model ranks first globally with cheaper Chinese alternatives undercutting US tech dominance in artificial intelligence.",
         "refId": "8a7c9fc393e9",
         "source": "The Daily Upside"
       }
@@ -164,52 +169,47 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Five stories on competition, moats, and economic blind spots\u2014from AI commoditization reshaping tech moats to suburbs' underrated value proposition.",
+    "lede": "5 stories spanning AI economics, market theory, housing value, and policy blindspots\u2014mostly intellectual frameworks rather than FIG-specific news.",
     "bullets": [
       {
-        "text": "Open-source AI now matches frontier models at 1/10th the cost, obliterating raw capability as a moat and forcing founders to compete on distribution, data, or integration instead.",
+        "text": "Open-source AI now matches frontier models at 1/10th the cost, forcing a shift from model performance to durable competitive moats\u2014relevant for fintech and banking tech stacks.",
         "refId": "fc03107930b6",
         "source": "The AI Corner"
       },
       {
-        "text": "Tyler Cowen's wild take: markets stay competitive only if P \u2260 NP; if P = NP, firms can efficiently detect and sustain cartels, making collusion mathematically rational.",
+        "text": "Tyler Cowen argues competitive markets depend on P \u2260 NP: if collusion detection becomes computationally tractable, cartels become sustainable\u2014a theoretical lens on market structure.",
         "refId": "ed7cdd73b095",
         "source": "Marginal Revolution"
       },
       {
-        "text": "American suburbs deliver real value (affordability, schools, safety) that urban elites systematically undervalue\u2014a cultural bias that obscures genuine economic logic.",
+        "text": "Noah Smith: suburbs deliver real economic value (affordability, schools, safety) despite urban elite dismissal\u2014contextualizes consumer and demographic trends affecting real estate and consumer finance.",
         "refId": "f41b8d87b29c",
         "source": "Noahpinion"
-      },
-      {
-        "text": "Economic literacy, not self-interest, predicts support for pro-growth policies like free trade and immigration across the EU\u2014knowledge matters more than personal gain.",
-        "refId": "6c36313cbe53",
-        "source": "Marginal Revolution"
       }
     ]
   },
   "all": {
-    "lede": "Big financial services M&A week: Mastercard mulls Vocalink exit, CalPERS snaps up Russell Investments, and mega-PE firms dominate fundraising as bank earnings season kicks off.",
+    "lede": "Big week ahead: major bank earnings begin tomorrow while M&A and capital markets hit 4-year highs, with Mastercard exploring Vocalink exit and CalPERS acquiring Russell Investments.",
     "bullets": [
       {
-        "text": "Mastercard exploring sale of Vocalink, the UK payments platform acquired from British banks in 2016\u2014potential return to original owners signals strategic reset.",
-        "refId": "1e145a5d5cd2",
-        "source": "Finextra"
+        "text": "Big Six US banks report Q2 earnings Tuesday\u2013credit quality, deposit dynamics, and consumer health will be under the microscope as market braces for high expectations.",
+        "refId": "a05bc9cbcf8d",
+        "source": "The Daily Upside"
       },
       {
-        "text": "CalPERS acquiring Russell Investments; $580B pension system gains multi-asset manager while Russell ditches debt and converts to non-profit governance (Vanguard 2.0 playbook).",
+        "text": "US investment banking fees tracking toward highest annual total since 2022, driven by M&A revival, IPO recovery, and debt capital markets on AI and consumer strength tailwinds.",
+        "refId": "18310173ed87",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "CalPERS acquiring Russell Investments for portfolio expansion while Russell sheds debt and shifts to non-profit governance model, mirroring Vanguard's playbook.",
         "refId": "ab39c6cbdb7c",
         "source": "RIABiz"
       },
       {
-        "text": "Top 20 PE firms raised $519B H1 2026 (+27% YoY) while sub-scale funds struggle; concentration risk signals consolidation pressure among smaller players.",
-        "refId": "fe3ad57cc805",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Five of six largest US banks report Q2 earnings this week; credit quality, deposits, and consumer health in focus as market braced for disappointment.",
-        "refId": "a05bc9cbcf8d",
-        "source": "The Daily Upside"
+        "text": "Mastercard exploring sale of Vocalink, the UK payments platform acquired from British banks in 2016, potentially returning it to original owners.",
+        "refId": "1e145a5d5cd2",
+        "source": "Finextra"
       }
     ]
   },

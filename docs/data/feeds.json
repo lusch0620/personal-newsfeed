@@ -105,32 +105,6 @@
     }
   },
   {
-    "id": "fe3ad57cc805",
-    "title": "Big private equity firms pull in more cash as winners take all",
-    "url": "https://www.ft.com/content/b7130eb3-c8bd-460f-9d8a-082e7bb48b48",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-12T04:00:06+00:00",
-    "summary_raw": "Shrinking pool of recipients points to coming wave of so-called zombie firms",
-    "summary_ai": {
-      "digest": "Top 20 PE firms raised $519B in the first half of 2026, up 27% YoY, while smaller funds struggle to close; concentration in mega-funds signals a two-tier market and risk of consolidation among sub-scale players.",
-      "summary_long": "Large PE firms are pulling in record capital while the fundraising environment tightens for mid-market and smaller funds. The top 20 firms captured the majority of LP commitments in H1 2026, reflecting a structural shift toward scale and brand. This concentration\u2014driven by LPs' preference for proven managers, secondaries demand, and denominator effects\u2014is creating a bifurcated market. Smaller and emerging managers face higher bar to deployment, longer J-curves, and potential wind-downs. For a FIG-focused analyst, this matters: the PE capital that *will* deploy into financial services (regional bank rolls-ups, fintech consolidation, specialty finance) is increasingly concentrated among mega-funds with scale to move the needle on M&A.",
-      "talking_points": [
-        "Top 20 PE firms now command a disproportionate share of fresh capital; smaller funds facing LP skepticism means slower M&A in mid-market segments where FIG consolidation historically happens.",
-        "Winners-take-all dynamic implies fewer but larger checks into financial services deals\u2014expect bulge-bracket PE to dominate regional bank and fintech acquisition rounds over the next 18 months.",
-        "Zombie fund risk: struggling sub-scale managers may be forced to liquidate or merge their own vehicles, creating distressed secondary opportunities for mega-funds."
-      ],
-      "topics": [
-        "PE fundraising trends",
-        "capital concentration",
-        "mid-market PE strain",
-        "M&A deal flow outlook"
-      ],
-      "highlight": "Top 20 PE firms raised $519B in H1 2026 (+27% YoY), while total fundraising by smaller managers contracted\u2014signal that FIG M&A capital is consolidating into mega-fund hands.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "18310173ed87",
     "title": "Wall Street set for biggest haul from investment banking fees in 4 years",
     "url": "https://www.ft.com/content/98207dc6-4deb-47c4-bbc6-8b1dd6c3b18c",
@@ -520,32 +494,6 @@
     }
   },
   {
-    "id": "4cceecf3e5f8",
-    "title": "AI-related debt jumped 99% over the past year. It\u2019s a \u2018shock to the system\u2019 for investors.",
-    "url": "https://www.marketwatch.com/story/ai-related-debt-jumped-99-over-the-past-year-its-a-shock-to-the-system-for-investors-b47ce4ea?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T19:30:00+00:00",
-    "summary_raw": "A deluge of hyperscaler debt creates risk that investors will run up against concentration limits in their portfolios from a single company or industry.",
-    "summary_ai": {
-      "digest": "AI-related debt issuance jumped 99% year-over-year, driven by hyperscalers (Meta, Amazon, Microsoft, Google) raising capital for infrastructure buildout. Concentration risk threatens fixed-income portfolios as single-name and sector limits bind.",
-      "summary_long": "The seven largest tech companies issued roughly $100B in debt over the past year to fund AI capex, doubling issuance from the prior year. This creates a structural problem for bond funds and institutional investors: concentration limits (often 5\u201310% per issuer, 20\u201330% per sector) mean they cannot absorb the full supply without either exceeding risk controls or rotating out of other credits. The risk is bifurcated: near-term, illiquidity or compression in spreads if demand slackens; longer-term, if capex ROI disappoints, refinancing risk for these mega-borrowers. This matters for FIG because regional and mid-market banks face margin pressure as deposit costs remain sticky and loan demand (outside AI-driven infrastructure deals) stays muted.",
-      "talking_points": [
-        "AI hyperscaler debt issuance doubled to $100B+, but portfolio concentration limits mean institutional buyers are already constrained \u2014 this signals either tighter spreads ahead or demand exhaustion.",
-        "When the largest tech companies are the dominant debt issuers in a rising-rate environment, credit rotation risk is asymmetric: a miss on capex ROI creates repricing shocks with no natural buyer base.",
-        "Regional bank lending to infrastructure/telecom (traditional hedges against tech concentration) is subdued, leaving FIG teams with weaker demand hedges in a macro slowdown."
-      ],
-      "topics": [
-        "tech debt issuance",
-        "portfolio concentration risk",
-        "credit market flow",
-        "capex funding"
-      ],
-      "highlight": "Institutional bond portfolios are hitting concentration limits on single hyperscalers and tech sector as a whole, creating potential illiquidity or repricing risk if demand cools.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "5ec124a80deb",
     "title": "Betterment Faces Class Action Lawsuit Over Cash Sweep Accounts",
     "url": "https://www.wealthmanagement.com/regulation-compliance/betterment-faces-class-action-over-cash-sweep-accounts",
@@ -568,6 +516,85 @@
         "fintech compliance"
       ],
       "highlight": "Class action alleges Betterment profited from sweeping client cash into non-interest-bearing accounts without disclosure\u2014echoing a 2015 SEC settlement but raising renewed questions about robo-advisor fiduciary standards.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "9f7e88414426",
+    "title": "Why a borrowing binge by investors is a warning sign for the stock market",
+    "url": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T22:19:00+00:00",
+    "summary_raw": "Investors are increasingly borrowing to buy stocks, a reflection of greed in the stock market as they seek to amplify returns with margin debt. The growing pile of borrowed money has some on Wall Street nervous.",
+    "summary_ai": {
+      "digest": "Margin debt is climbing as investors lever up to chase returns; Wall Street sees it as a late-cycle greed signal that often precedes correction.",
+      "summary_long": "Retail and institutional investors are taking on record margin debt to amplify equity exposure, typically a sign of peak sentiment and risk appetite in bull markets. The behavior mirrors patterns seen before 2008 and 2020, when forced deleveraging cascaded into sharp selloffs. For FIG analysts, rising margin debt matters because it compresses dealer balance sheets, tightens credit conditions, and signals peak equity valuations\u2014all variables that reshape M&A financing costs, bank capital requirements, and credit-market pricing. A margin unwind would immediately raise funding costs for bank-sponsored deals and pressure regional-bank loan books tied to portfolio collateral.",
+      "talking_points": [
+        "Margin debt at cycle highs is a historically reliable contra-indicator; forced selling from margin calls can trigger liquidity crises that spill into credit and financing markets.",
+        "For FIG deal flow, a margin unwind raises cost of capital for sponsors and borrowers, making mid-market acquisitions harder to finance and pushing spreads wider.",
+        "Watch dealer margin capacity and repo stress as the leading edge of a selloff; a spike in haircuts or funding costs will be visible 4\u20136 weeks before equity capitulation."
+      ],
+      "topics": [
+        "margin-debt",
+        "market-sentiment",
+        "leverage-cycle",
+        "credit-conditions",
+        "deal-financing"
+      ],
+      "highlight": "Margin debt at record levels is a lagging\u2014not leading\u2014indicator of late-cycle greed; the real warning is when dealers stop extending credit or haircuts spike.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "16daea72a982",
+    "title": "Nubank receives banking authorisation in Mexico",
+    "url": "https://www.finextra.com/newsarticle/48081/nubank-receives-banking-authorisation-in-mexico?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-14T00:01:00+00:00",
+    "summary_raw": "Brazilian fintech giant Nubank has received final authorisation from Mexican authorities to begin operations as a bank.",
+    "summary_ai": {
+      "digest": "Nubank received final banking authorization from Mexican regulators, clearing the path to launch full banking operations in the country.",
+      "summary_long": "Nubank, Brazil's largest fintech by users, has secured a banking license from Mexico's financial authority, marking a major regulatory milestone in its Latin American expansion strategy. The authorization enables Nubank to offer a full suite of banking products\u2014deposits, lending, payments\u2014rather than operating as a limited fintech. This follows Nubank's IPO in late 2021 and positions it to compete directly with incumbent banks and smaller digital players in Mexico's 130M-person market. The license signals regulatory acceptance of the Nubank model in a second major economy and reduces execution risk on a key growth market outside Brazil. Mexico represents a natural adjacency given Nubank's existing brand and operational expertise, and banking status unlocks deposit-funded lending and higher-margin products.",
+      "talking_points": [
+        "Nubank now has full banking license in Mexico\u2014moves from fintech registration to bank status, enabling deposits and lending.",
+        "Regulatory approval in a second major Latin American economy de-risks Nubank's expansion thesis and validates its operating model across borders.",
+        "Deposit access unlocks lower-cost funding for credit products, a key margin lever as Nubank scales lending in Mexico."
+      ],
+      "topics": [
+        "fintech-banking-license",
+        "Nubank-expansion",
+        "Latin-America-FIG",
+        "digital-bank-regulation"
+      ],
+      "highlight": "Nubank secures full banking authorization in Mexico, enabling deposits and lending\u2014a critical regulatory gate-pass for Latin American fintech expansion.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "f559642f48bc",
+    "title": "Klarna faces Dutch class action lawsuit",
+    "url": "https://www.finextra.com/newsarticle/48083/klarna-faces-dutch-class-action-lawsuit?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-14T00:01:00+00:00",
+    "summary_raw": "A Dutch non-profit foundation has launched a class action lawsuit against BNPL provider Klarna, according to local reports.",
+    "summary_ai": {
+      "digest": "Dutch non-profit foundation filed class action lawsuit against BNPL provider Klarna; regulatory/litigation risk to a fintech unicorn in a key European market.",
+      "summary_long": "Klarna, one of the world's largest buy-now-pay-later platforms, is facing a class action suit initiated by a Dutch non-profit foundation. The lawsuit represents regulatory and reputational pressure on the BNPL sector in Europe, where consumer protection frameworks are tightening. Class actions in the Netherlands can be high-friction and costly; this signals growing scrutiny of Klarna's lending practices, underwriting, or disclosure in a core market. The timing matters: Klarna has delayed its IPO and refinancing needs are acute. Litigation risk, combined with regulatory headwinds, could impact valuation, fundraising capacity, and strategic alternatives (acquisition, strategic review, restructuring).",
+      "talking_points": [
+        "Klarna hit with Dutch class action\u2014regulatory pressure mounting on BNPL in Europe as consumer protection tightens.",
+        "Litigation risk in a key market adds friction to Klarna's IPO timeline and refinancing runway.",
+        "If class action gains traction or triggers regulatory investigation, could force settlement or business model adjustment\u2014opens door for PE rescue or acquisition."
+      ],
+      "topics": [
+        "BNPL litigation",
+        "fintech regulatory risk",
+        "Klarna distress",
+        "European consumer protection"
+      ],
+      "highlight": "Class action in Netherlands against Klarna adds regulatory/litigation headwind to IPO-stage fintech and tightens refinancing window.",
       "relevance": 7
     }
   },
@@ -773,32 +800,6 @@
         "employee-equity"
       ],
       "highlight": "Pisces is emerging as a pressure valve for tech-company employee equity\u2014a structural alternative to IPO or acquisition that keeps talent liquid without forcing founder/investor hand.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "2642f5d466a6",
-    "title": "Bridgepoint signs deal for majority stake in Danish defense company UMag",
-    "url": "https://www.pehub.com/bridgepoint-signs-deal-for-majority-stake-in-danish-defense-company-umag/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-13T08:20:47+00:00",
-    "summary_raw": "<p>Founder-led company was spun out of the Technical University of Denmark in 2018 and is based in Birker\u00f8d, with founders remaining significant shareholders and continuing to lead the business Deal will fund international expansion, R&#38;D and commercialization of next-generation products as European defense spending and military modernization accelerate Investment builds on Bridgepoint&#8217;s earlier defense technology [&#8230;]</p>\n<p>The post <a href=\"https://www.pehub.com/bridgepoint-sign",
-    "summary_ai": {
-      "digest": "Bridgepoint acquired a majority stake in UMag, a Danish defense-tech company spun from the Technical University of Denmark in 2018. Founders retain significant equity and operational control; capital will fund international expansion and R&D as European defense spending accelerates.",
-      "summary_long": "UMag, a founder-led defense-technology company based in Denmark, has attracted Bridgepoint as majority investor. The company was spun out of a university in 2018 and retains founder leadership with material founder shareholding post-deal. Bridgepoint's capital will underwrite geographic expansion, R&D investment, and commercialization of next-generation products. The deal reflects a macro tailwind: rising European military modernization budgets and defense-spending cycles following geopolitical tension. Bridgepoint is positioning in a defense-tech subsector with favorable secular tailwinds and founder-operator alignment.",
-      "talking_points": [
-        "Bridgepoint is deploying into European defense tech at a moment when NATO allies are materially increasing military budgets and modernization capex.",
-        "Founder-led structure with retained significant equity post-deal often signals lower integration risk and stronger operational continuity in PE buys.",
-        "University spin-out with product-stage commercialization runway suggests growth-stage multiple arbitrage and IP de-risking as the key value creation levers."
-      ],
-      "topics": [
-        "PE deployment",
-        "defense tech",
-        "founder-led buyout",
-        "European capex cycle"
-      ],
-      "highlight": "Bridgepoint majority stake in UMag; founders retain significant equity and lead operations; proceeds fund international expansion and R&D in a sector benefiting from NATO modernization spending.",
       "relevance": 6
     }
   },
@@ -1526,13 +1527,64 @@
     }
   },
   {
+    "id": "8ec08abda452",
+    "title": "FirstFT: Investors cut back bets on Asia\u2019s chipmakers",
+    "url": "https://www.ft.com/content/0ba42c5c-c097-4584-9387-a211d5234275",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T21:37:31+00:00",
+    "summary_raw": "Also in today\u2019s newsletter: companies turn to Chinese AI models to cut costs and Jane Fraser\u2019s ruthless remake of Citigroup",
+    "summary_ai": {
+      "digest": "Investors are reducing exposure to Asian chipmakers amid slower growth and margin pressure; meantime, companies adopt cheaper Chinese AI models and Citi's CEO pursues aggressive restructuring.",
+      "summary_long": "FirstFT reports a multi-part market shift: Asian chipmakers (particularly in Taiwan and South Korea) are facing investor pullback as growth slows and competition intensifies, likely driven by oversupply and softer demand signals. In parallel, cost-conscious enterprises are adopting Chinese AI alternatives to expensive Western models\u2014a trend that could reshape margins across software and cloud services. Jane Fraser's restructuring at Citi signals ongoing rationalization in the large-cap banking sector. The chipmaker angle matters for fintech and digital-asset valuations (hardware dependency); the AI-cost arbitrage is a margin story; Citi's moves are a bellwether for industry consolidation appetite.",
+      "talking_points": [
+        "Asian chipmakers losing investor favor signals softening demand and margin compression\u2014watch for ripple effects into semiconductor finance and capex cycles.",
+        "Chinese AI adoption among enterprises is a cost-deflation story: if it sticks, it pressures margins for OpenAI, Anthropic, and enterprise software vendors downstream.",
+        "Citi's restructuring under Fraser accelerates banking sector consolidation narratives; larger players are cutting to compete."
+      ],
+      "topics": [
+        "asia-semiconductor-sentiment",
+        "ai-cost-arbitrage",
+        "citi-restructuring"
+      ],
+      "highlight": "Shift to Chinese AI models among cost-conscious firms is a margin-compression signal that could reshape SaaS and software-as-a-service financing and valuations.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "3873bdc1882e",
+    "title": "CAI Capital exits HVAC provider CustomAir to Service Logic Holdings Canada",
+    "url": "https://www.pehub.com/cai-capital-exits-hvac-provider-customair-to-service-logic-holdings-canada/",
+    "source": "PE Hub",
+    "section": "PE & Deals",
+    "date": "2026-07-13T21:56:53+00:00",
+    "summary_raw": "<p>CAI grew CustomAir by closing five add-on deals that expanded its geographic footprint and broadened its service offerings under its eight-year holding</p>\n<p>The post <a href=\"https://www.pehub.com/cai-capital-exits-hvac-provider-customair-to-service-logic-holdings-canada/\">CAI Capital exits HVAC provider CustomAir to Service Logic Holdings Canada</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
+    "summary_ai": {
+      "digest": "CAI Capital exited CustomAir, an HVAC provider, to Service Logic Holdings Canada after an eight-year hold that included five add-on acquisitions expanding geographic and service scope.",
+      "summary_long": "CAI Capital has sold CustomAir, a heating and cooling services business, to Service Logic Holdings Canada. During its eight-year ownership, CAI deployed a bolt-on acquisition strategy, closing five add-on deals to expand CustomAir's geographic footprint and broaden its service offerings\u2014a textbook lower-middle-market playbook. The exit to a strategic buyer (Service Logic appears to be a consolidator in the HVAC/building services space) suggests successful value creation through platform-and-add-on model execution. No valuation, multiple, or exit timeline details are provided in the excerpt, limiting deal-size and return visibility.",
+      "talking_points": [
+        "CAI Capital exited an eight-year HVAC platform after executing a five-deal add-on strategy\u2014clean lower-middle-market playbook execution.",
+        "Sale to Service Logic Holdings Canada indicates a strategic roll-up; buyers consolidating regional HVAC players into a national platform.",
+        "Bolt-on model (five acquisitions over eight years) demonstrates the PE operational thesis: buy fragmented, bolt on to broaden, sell to a roll-up or larger buyer."
+      ],
+      "topics": [
+        "lower-middle-market-exit",
+        "add-on-acquisitions",
+        "service-rollup",
+        "pe-operations"
+      ],
+      "highlight": "CAI closed five add-on deals during its hold, expanding both geography and service scope\u2014a model replicable across other fragmented service verticals.",
+      "relevance": 6
+    }
+  },
+  {
     "id": "f4117f4c6c1b",
-    "title": "US launches strikes after Trump warns Washington will hit Iran \u2018hard\u2019",
+    "title": "US launches air strikes as Iran targets tankers with cruise missiles",
     "url": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
     "source": "Financial Times Markets",
     "section": "Markets & Macro",
-    "date": "2026-07-13T21:33:39+00:00",
-    "summary_raw": "Price of Brent crude rises to highest in a month as tensions between Washington and Tehran flare",
+    "date": "2026-07-13T22:59:52+00:00",
+    "summary_raw": "Donald Trump said Washington would hit the Islamic republic \u2018hard\u2019 on Monday and Tuesday nights",
     "summary_ai": {
       "digest": "US military strikes on Iran follow Trump warnings; Brent crude rises to month-high on geopolitical risk premium.",
       "summary_long": "Escalating US-Iran tensions have triggered military strikes after Trump administration rhetoric warning of hard responses to Iranian actions. Oil markets have repriced upward, with Brent crude hitting its highest level in a month as investors price in supply-chain disruption risk and sustained regional conflict. This geopolitical shock creates near-term volatility in energy costs, which flows through to bank funding costs, mortgage rates, and corporate credit spreads. For FIG, the move signals potential headwinds to credit quality (especially energy and transport-dependent borrowers) and to consumer spending if oil prices persist at elevated levels. The duration and intensity of this conflict will determine whether this becomes a structural shift in the rate/credit environment or a transient risk-off event.",
@@ -2063,37 +2115,12 @@
     }
   },
   {
-    "id": "3eb11f9d7ac3",
-    "title": "Micron and other chip stocks feel the pain of imported volatility \u2014 blame SK Hynix",
-    "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-feel-the-pain-of-imported-volatility-blame-sk-hynix-f705a0fd?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T20:26:00+00:00",
-    "summary_raw": "The SOX chip index was suffering a unanimous selloff, after SK Hynix\u2019s stock had its worst day in 18 years in South Korea trading.",
-    "summary_ai": {
-      "digest": "SK Hynix crashed 18-year lows in Seoul; US chip stocks including Micron fell in sympathy, signaling potential memory-chip oversupply or demand weakness.",
-      "summary_long": "SK Hynix, a major DRAM and NAND flash supplier, experienced its worst trading day in nearly two decades, triggering a broad selloff across the Philadelphia Semiconductor Index (SOX). The South Korean chipmaker's collapse typically signals either a demand shock (data center, consumer) or oversupply in memory markets, both of which ripple through US-listed peers like Micron. For a FIG analyst, this matters because memory-chip weakness can indicate early stress in cloud/AI capex (JPMorgan, Nvidia customers) and broader credit-cycle softening. The volatility also affects semiconductor financing and M&A appetite in the sector.",
-      "talking_points": [
-        "SK Hynix's 18-year low suggests memory-chip demand is cracking \u2014 typically a leading indicator of broader tech-sector deceleration.",
-        "US chip stocks sold off in tandem, implying supply-chain stress or customer inventory correction is global, not isolated.",
-        "Watch for impact on bank financing and M&A appetite in semiconductors if this signals capex pullback from cloud hyperscalers."
-      ],
-      "topics": [
-        "chip-sector-demand",
-        "memory-oversupply",
-        "equity-volatility-spillover"
-      ],
-      "highlight": "SK Hynix's worst day in 18 years is a demand/supply warning signal \u2014 track whether this cascades into bank credit or M&A appetite for chip equipment and foundries.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "65e6dbbb85d6",
     "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
     "url": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-13T21:04:00+00:00",
+    "date": "2026-07-13T22:50:00+00:00",
     "summary_raw": "Strategic Petroleum Reserve stockpiles are precariously low and have been hit by major equipment failures, leaks and spills, according to a government report.",
     "summary_ai": {
       "digest": "U.S. SPR stockpiles are at critically low levels following equipment failures and leaks; Trump administration signaling intent to control Hormuz strait, a geopolitical move with commodity price implications.",
@@ -2415,31 +2442,6 @@
     }
   },
   {
-    "id": "b38e9343df97",
-    "title": "Global oil prices top $83 a barrel, logging biggest jump in 6 years after Trump reimposes Strait of Hormuz blockade",
-    "url": "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T19:43:00+00:00",
-    "summary_raw": "The week is kicking off with fresh spikes for oil prices after President Donald Trump reimposed the naval blockage on the Strait of Hormuz.",
-    "summary_ai": {
-      "digest": "Oil surged up to 5% on reports Iran closed the Strait of Hormuz amid escalating U.S.-Iran military exchanges. No immediate impact on financial services or credit markets apparent from the excerpt.",
-      "summary_long": "Geopolitical tension between the U.S. and Iran has triggered a sharp intraday move in crude futures, with the Strait of Hormuz\u2014a critical chokepoint for global oil shipments\u2014at the center of the dispute. Oil price spikes of this magnitude can ripple into credit spreads, energy sector debt, and bank exposure to commodity hedging clients. For a FIG analyst, the relevance hinges on whether this catalyzes broader volatility in rates or credit, or signals stress in energy lending books. The excerpt is thin on duration or structural impact, so the signal is still unclear.",
-      "talking_points": [
-        "Oil up 5% on geopolitical risk\u2014watch whether this bleeds into credit or rates volatility that affects bank earnings and FIG deal flow.",
-        "Strait of Hormuz closure threat is a tail-risk event; if sustained, energy sector debt stress could emerge on bank balance sheets.",
-        "Short-term commodity price swings alone rarely drive M&A or capital events in FIG; need to see credit market or earnings pressure to act."
-      ],
-      "topics": [
-        "geopolitical-risk",
-        "oil-markets",
-        "credit-spillover"
-      ],
-      "highlight": null,
-      "relevance": 4
-    }
-  },
-  {
     "id": "adfdef8fec8e",
     "title": "*A Tale of Three Cities*",
     "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-tale-of-three-cities.html?utm_source=rss&utm_medium=rss&utm_campaign=a-tale-of-three-cities",
@@ -2719,31 +2721,6 @@
     }
   },
   {
-    "id": "92220badef6f",
-    "title": "SpaceX\u2019s stock threatens to fall below the IPO price. Do investors face a \u2018crisis\u2019 if it does?",
-    "url": "https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T19:57:00+00:00",
-    "summary_raw": "The company has shed more than $800 billion in market value from its $2.67 trillion peak in less than a month.",
-    "summary_ai": {
-      "digest": "SpaceX's valuation has collapsed $800B from its $2.67T peak in under a month, with stock now trading near IPO price levels.",
-      "summary_long": "SpaceX went public at a valuation that immediately inflated to $2.67 trillion before sliding sharply. The article appears to frame this as a potential 'crisis' for early investors, though the headline question suggests skepticism about whether a dip to IPO price actually constitutes distress. The $800B evaporation in weeks indicates either a rotation out of mega-cap growth, a company-specific setback, or revaluation of space-economy expectations. For FIG investors, the question is whether this affects fintech, alternative asset platforms, or wealth-management demand for space-sector exposure.",
-      "talking_points": [
-        "SpaceX has lost $800B in market value in less than a month from its $2.67T peak\u2014the pace and magnitude signal either sector repricing or a binary negative.",
-        "Stock is now trading near IPO price, which raises the question: if early investors are only flat, is that a 'crisis' or a reset to fair value?",
-        "Monitor whether space-economy momentum affects fintech funding, IRA platform allocations to aerospace/defense, or wealth-manager appetite for space-tech exposure."
-      ],
-      "topics": [
-        "SpaceX-valuation",
-        "market-repricing",
-        "mega-cap-tech-rotation"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
     "id": "5cba09c5ba7e",
     "title": "Navigating growth equity: a Q&A with PSG Equity\u2019s Peter Wilde",
     "url": "https://www.buyoutsinsider.com/navigating-growth-equity-a-qa-with-psg-equitys-peter-wilde/",
@@ -2811,6 +2788,56 @@
         "passive-vs-active",
         "behavioral-finance",
         "wealth-mgmt-design"
+      ],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "92220badef6f",
+    "title": "SpaceX\u2019s stock threatens to fall below the IPO price. Do investors face a \u2018crisis\u2019 if it does?",
+    "url": "https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T22:08:00+00:00",
+    "summary_raw": "The company has shed more than $800 billion in market value from its $2.67 trillion peak in less than a month.",
+    "summary_ai": {
+      "digest": "SpaceX's valuation has collapsed $800B from its $2.67T peak in under a month, with stock now trading near IPO price levels.",
+      "summary_long": "SpaceX went public at a valuation that immediately inflated to $2.67 trillion before sliding sharply. The article appears to frame this as a potential 'crisis' for early investors, though the headline question suggests skepticism about whether a dip to IPO price actually constitutes distress. The $800B evaporation in weeks indicates either a rotation out of mega-cap growth, a company-specific setback, or revaluation of space-economy expectations. For FIG investors, the question is whether this affects fintech, alternative asset platforms, or wealth-management demand for space-sector exposure.",
+      "talking_points": [
+        "SpaceX has lost $800B in market value in less than a month from its $2.67T peak\u2014the pace and magnitude signal either sector repricing or a binary negative.",
+        "Stock is now trading near IPO price, which raises the question: if early investors are only flat, is that a 'crisis' or a reset to fair value?",
+        "Monitor whether space-economy momentum affects fintech funding, IRA platform allocations to aerospace/defense, or wealth-manager appetite for space-tech exposure."
+      ],
+      "topics": [
+        "SpaceX-valuation",
+        "market-repricing",
+        "mega-cap-tech-rotation"
+      ],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "ba3aa6967450",
+    "title": "Monzo co-founder Blomfield joins Anthropic",
+    "url": "https://www.finextra.com/newsarticle/48080/monzo-co-founder-blomfield-joins-anthropic?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-14T00:01:00+00:00",
+    "summary_raw": "AI giant Anthropic has hired the co-founder and former CEO of UK digital bank Monzo, Tom Blomfield.",
+    "summary_ai": {
+      "digest": "Tom Blomfield, co-founder and ex-CEO of UK digital bank Monzo, has joined Anthropic as an employee. No disclosed role, compensation, or strategic rationale provided.",
+      "summary_long": "Blomfield spent 11 years building Monzo into a major UK fintech challenger bank before stepping down as CEO in 2021, remaining in an advisory capacity. His move to Anthropic signals potential fintech interest from the AI company, though the announcement provides no detail on his specific remit, whether he's advising on financial-services applications of LLMs, or whether Anthropic is exploring deeper integration into banking/lending workflows. For FIG deal flow, this is a talent signal rather than a transactional event\u2014Blomfield's departure from fintech advisory suggests either a full-time exec role at Anthropic or a clean break from the space. No capital or M&A component.",
+      "talking_points": [
+        "Monzo's founding CEO moving to Anthropic is a fintech talent exit, not a deal, but signals AI company interest in banking/payments workflows.",
+        "Blomfield's advisory role at Monzo is now presumably ending; unclear if Anthropic plans fintech product development or simply hired banking expertise for an existing AI/LLM business.",
+        "No disclosed deal structure, valuation, or capital event\u2014this is pure personnel news with speculative fintech implications."
+      ],
+      "topics": [
+        "fintech-executive-moves",
+        "AI-finance-convergence",
+        "digital-banking"
       ],
       "highlight": null,
       "relevance": 3
@@ -3148,12 +3175,14 @@
     "date": "2026-07-13T20:39:00+00:00",
     "summary_raw": "Relying on a high salary or a hot stock is a dangerous trap. Why the most secure people plan for sudden crisis.",
     "summary_ai": {
-      "digest": "MarketWatch personal-finance explainer on financial independence and crisis planning, arguing that high income alone is insufficient without diversification and emergency reserves.",
-      "summary_long": "The article argues that financial security depends less on absolute income or investment returns than on behavioral discipline: building emergency reserves, avoiding lifestyle creep, and diversifying income streams. It positions crisis planning as a wealth-building essential rather than an insurance afterthought. The piece targets middle-income readers and emphasizes that 'financial independence' is achievable through deliberate cash management and redundancy, not lottery-ticket bets on salary growth or stock picks. While accessible and well-intentioned, it offers no new data, regulatory insight, or market signal relevant to institutional FIG strategy or deal flow.",
-      "talking_points": [],
+      "digest": "MarketWatch personal-finance explainer on financial independence through planning and crisis preparedness, not income or market timing.",
+      "summary_long": "The article argues that financial security stems not from earning a high salary or picking winning stocks, but from disciplined planning and building resilience to shocks. It frames financial independence as a mindset and behavioral practice\u2014budgeting, emergency funds, diversification\u2014rather than a wealth-accumulation problem. The piece is directed at retail readers and emphasizes that ordinary earners can achieve stability through deliberate habits. There is no deal angle, sector trend, or capital-markets signal embedded in the message.",
+      "talking_points": [
+        "This is generic personal-finance advice with no institutional or deal-flow read-through."
+      ],
       "topics": [
         "personal-finance",
-        "behavioral-finance"
+        "behavioral-economics"
       ],
       "highlight": null,
       "relevance": 2
@@ -3179,6 +3208,79 @@
         "semiconductor-cycle",
         "NAND-flash",
         "valuation-opportunity"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "d6116f5feac7",
+    "title": "Apple\u2019s lawsuit against OpenAI makes serious claims. Will they matter?",
+    "url": "https://www.bigtechnology.com/p/apples-lawsuit-against-openai-makes",
+    "source": "Big Technology (Alex Kantrowitz)",
+    "section": "Learn",
+    "date": "2026-07-13T22:24:43+00:00",
+    "summary_raw": "Apple usually tangles with companies after they ship a product, now it's going after a pre-product, former partner.",
+    "summary_ai": {
+      "digest": "Apple is suing OpenAI for alleged misuse of its devices and data before a product launch\u2014a rare pre-market legal move against a former partner.",
+      "summary_long": "Apple has filed suit against OpenAI, claiming the AI company misused Apple devices and data during their partnership. The lawsuit targets OpenAI's actions before a major product release, which is atypical for Apple's usual playbook of suing after a product ships and gains traction. The claims center on alleged breach of trust and data use violations. Kantrowitz examines whether the pre-product timing and the specifics of Apple's allegations will actually move the needle in court or in market perception, given OpenAI's growing leverage and Apple's own exposure in the AI space.",
+      "talking_points": [
+        "Apple is prosecuting a lawsuit against a former partner before the defendant's product launch\u2014unusual timing that signals real concern, not just posturing.",
+        "The case hinges on data misuse and device abuse during partnership, a contractual-trust argument that may be harder to prove than traditional IP theft.",
+        "Apple's willingness to sue a pre-launch company suggests defensive positioning in AI rather than offensive dominance\u2014worth watching as a signal of power dynamics in the sector."
+      ],
+      "topics": [
+        "tech litigation",
+        "AI strategy",
+        "Apple-OpenAI dynamics"
+      ],
+      "highlight": "Apple is suing before the product ships\u2014a rare reversal of its usual wait-and-sue-after-launch playbook, signaling genuine threat perception rather than routine enforcement.",
+      "relevance": 2
+    }
+  },
+  {
+    "id": "2babd5580fc1",
+    "title": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+    "url": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T23:03:00+00:00",
+    "summary_raw": "\u201cWhen I pass, all my retirement income is reduced to $30,000 a year.\u201d",
+    "summary_ai": {
+      "digest": "A 67-year-old with $140k pension and spousal Social Security survivor benefits faces a claiming decision: take now at reduced rate, or delay to 70 for a higher benefit that carries forward to surviving spouse.",
+      "summary_long": "The article walks through a Social Security claiming strategy for a household with pension income: the trade-off between claiming at 67 versus delaying to 70. Delaying increases the benefit by roughly 24%, but costs three years of payments during the interim. The key consideration flagged is survivor benefits: if the primary earner dies before reaching breakeven age (roughly 80\u201382), the household foregoes cumulative payments and the survivor inherits only the higher delayed benefit\u2014not retroactive makeup. With $140k pension already covering baseline needs, this couple has the cash flow to wait, but must assess spousal age gap, joint longevity, and whether the 24% uplift justifies three years of foregone income. The real risk: if one spouse dies early, the survivor's income drops sharply, making the delayed strategy a bet on both living to 80+.",
+      "talking_points": [
+        "Delayed Social Security claims only pay off if both live to ~80\u201382; early death means forfeited cumulative payments and a survivor left with only the higher benefit.",
+        "With a $140k pension covering baseline expenses, this household has the flexibility to delay, but must model the probability that the lower-earning spouse outlives the higher earner.",
+        "The survivor-benefit cliff ($140k household income vs. $30k after death) should be modeled against life expectancy and health status, not just breakeven math."
+      ],
+      "topics": [
+        "social-security-strategy",
+        "retirement-income-planning",
+        "spousal-survivor-benefits"
+      ],
+      "highlight": "If the primary earner dies before age 80, the household recovers none of the foregone three years of payments; the survivor inherits only the higher delayed benefit.",
+      "relevance": 2
+    }
+  },
+  {
+    "id": "c35164cfe74a",
+    "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+    "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T23:30:00+00:00",
+    "summary_raw": "\u201cI\u2019ve always been a little skeptical of the government\u2019s encouragement to delay claiming benefits.\u201d",
+    "summary_ai": {
+      "digest": "Reader's brother claimed Social Security at 70, died after one payment, raising the question of whether delayed-claiming strategy makes sense for mortality risk.",
+      "summary_long": "A MarketWatch reader describes their brother's decision to wait until age 70 to maximize Social Security benefits\u2014a strategy the government encourages\u2014only to die from cancer shortly after receiving his first check. The piece uses this anecdote to question the conventional wisdom that delaying benefits to 70 unlocks higher monthly payments. It touches on mortality risk, the break-even math, and whether individual circumstances (health, family history, longevity outlook) should override blanket 'delay and maximize' advice. The framing is emotional rather than analytical, but it highlights a real tension in retirement planning between actuarial averages and individual outcomes.",
+      "talking_points": [
+        "Delayed-claiming math assumes longevity; mortality concentration among lower-income cohorts means break-even math differs sharply by socioeconomic and health profile.",
+        "This is evergreen retirement-planning content, not a macro or deal signal\u2014useful context for wealth advisors but not for FIG positioning or credit/deal flow."
+      ],
+      "topics": [
+        "retirement-planning",
+        "social-security-policy"
       ],
       "highlight": null,
       "relevance": 2
@@ -3214,8 +3316,8 @@
     "date": "2026-07-13T12:19:29+00:00",
     "summary_raw": "Make sense of the latest business and policy headlines with our daily newsletter.",
     "summary_ai": {
-      "digest": "Newsletter signup prompt for DealBook, the New York Times' daily business and policy digest.",
-      "summary_long": "DealBook is the New York Times' flagship business newsletter covering corporate news, markets, policy, and deal flow. It aggregates headlines and analysis across finance, tech, and Washington, aimed at executives and finance professionals. The signup is a standard CTA with no new information about content, frequency, or editorial angle.",
+      "digest": "Newsletter signup prompt for DealBook, the New York Times' daily business and policy briefing.",
+      "summary_long": "This is a promotional landing page for DealBook, the New York Times' established daily newsletter covering business, markets, and policy news. It offers aggregated headlines and analysis aimed at finance professionals and business readers. The page itself contains no substantive content\u2014only a signup call-to-action and marketing copy describing the newsletter's coverage. There is no new data, deal, or market signal to extract.",
       "talking_points": [],
       "topics": [],
       "highlight": null,
@@ -3231,10 +3333,14 @@
     "date": "2026-07-13T16:21:26+00:00",
     "summary_raw": "These are the stocks posting the largest moves midday.",
     "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
+      "digest": "Midday stock-move roundup with no FIG-specific deal, regulatory, or capital angle.",
+      "summary_long": "This is a market recap of intraday price action across unrelated equities (Nio, Braiin, AppLovin, SpaceX, SK Hynix). No bank, fintech, asset manager, insurance, or specialty finance company is featured. No M&A, capital raise, regulatory action, or financing development is mentioned. It is pure price-action noise.",
+      "talking_points": [
+        "Not applicable \u2014 no deal, regulatory, or capital event."
+      ],
+      "topics": [
+        "price-action-noise"
+      ],
       "highlight": null,
       "relevance": 1
     }
@@ -3291,10 +3397,10 @@
     "date": "2026-07-13T20:48:00+00:00",
     "summary_raw": "Aortic dissections are extremely rare; however, people with a family history or who have been diagnosed with certain genetic syndromes have an elevated risk",
     "summary_ai": {
-      "digest": "Senator Lindsey Graham died from aortic dissection; the article explains risk factors including family history and genetic syndromes.",
-      "summary_long": "N/A",
-      "talking_points": [],
-      "topics": [],
+      "digest": null,
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
       "highlight": null,
       "relevance": 1
     }
