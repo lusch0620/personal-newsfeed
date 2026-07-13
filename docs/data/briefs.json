@@ -1,149 +1,159 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Big bank earnings set to boom on SpaceX and volatility; Fed signals rate hikes aren't off table; CFPB gets Trump-friendly leadership tweak.",
+    "lede": "Strong Q2 bank earnings expected, but Fed rate-hike risks loom amid geopolitical tensions and mixed inflation signals.",
     "bullets": [
       {
-        "text": "Q2 bank earnings expected to be strong, driven by SpaceX IPO advisory fees, geopolitical volatility trading, and pickup in commercial lending.",
+        "text": "Q2 earnings set to boom: SpaceX IPO advisory fees, Iran war volatility trading, and commercial lending pickup driving big bank revenue surge.",
         "refId": "54e5a2762fb0",
         "source": "CNBC Finance"
       },
       {
-        "text": "CFPB nominee Brian Johnson wins 60-day review period on staff-cut plan post-confirmation, giving Trump's pick discretion over bureau workforce reduction.",
-        "refId": "480322445a1f",
-        "source": "Banking Dive"
+        "text": "Rate hike odds rising for July on Strait of Hormuz oil spike\u2014direct headwind to NIM compression and deposit-pricing strategies.",
+        "refId": "c63dac3c3989",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Fed Governor Waller warns inflation may be broadening beyond energy and tariffs, leaving open possibility of further rate hikes despite recent disinflation.",
+        "text": "Fed Governor Waller signals caution: inflation may be broadening beyond energy/tariffs, keeping hike door open despite recent disinflation.",
         "refId": "c5c5c7558bc8",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "CFPB nominee Brian Johnson wins 60-day discretionary review on staff cuts post-confirmation\u2014Trump administration gains regulatory workforce control.",
+        "refId": "480322445a1f",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "RIA consolidation hits overdrive with Hightower and Choreo posting strong growth, while advisors eye 401(k) and alternative assets as revenue drivers.",
+    "lede": "RIA consolidation momentum accelerates with leadership transitions and channel restructuring, while retirement plan advisory gains competitive urgency.",
     "bullets": [
       {
-        "text": "RIA M&A momentum continues: Hightower posts record organic growth, ex-Fido CTO raises $7.7M for standalone platform, and Choreo closes fourth acquisition post-SpaceX win.",
+        "text": "Hightower hits organic growth highs as RIA M&A intensifies: ex-Fido CTO raises $7.7M for standalone platform, Choreo closes fourth deal post-SpaceX, Wealthfront crosses $100B AUM.",
         "refId": "0be3fec547da",
         "source": "RIABiz"
       },
       {
-        "text": "401(k) plan innovation driven by revenue opportunity and competitive positioning\u2014advisors treating retirement plans as key growth lever amid tightening margins.",
-        "refId": "5f73e6776dc2",
+        "text": "Aspen-backed Summitry ($4B AUM) undergoes leadership reset after 22 years\u2014founder Higgins moves to executive chairman as President Katz and COO Wilkes become co-CEOs.",
+        "refId": "b2c3bde5c5e6",
         "source": "Wealth Management"
       },
       {
-        "text": "Semiliquid funds gaining traction with institutional allocators; leverage and redemption gates becoming critical valuation tools as advisors manage liquidity-return tradeoffs.",
-        "refId": "8f7f286264e8",
+        "text": "Carson Group splits go-to-market into separate W-2 and independent RIA channels to sharpen focus and drive organic growth amid consolidation competition.",
+        "refId": "283ddebdc373",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "401(k) plan advisory increasingly driven by revenue opportunity and competitive positioning\u2014advisors pushing innovation to differentiate in crowded market.",
+        "refId": "5f73e6776dc2",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "Brazil's insurance market opens for business, Mile Auto expands via Georgia acquisition, Kenvue faces major litigation exposure, and AI/underwriting tools reshape the competitive landscape.",
+    "lede": "Brazil's insurance market opens for business, Mile Auto expands via acquisition, Kenvue faces major litigation resurgence, and AI tools reshape underwriting.",
     "bullets": [
       {
-        "text": "Brazil's new Insurance Law takes effect with regulatory tailwinds\u2014improved claims handling and contractual clarity signaling market maturation and attracting reinsurer interest.",
+        "text": "Brazil's new Insurance Law takes effect with strong reinsurer interest\u2014Uplift CEO signals market maturation, improved claims handling, and regulatory openness attracting capital.",
         "refId": "d4192952ea2b",
         "source": "Reinsurance News"
       },
       {
-        "text": "Mile Auto acquires Insurance House (~$100M premium, 55k+ policyholders) effective July 1, 2026, expanding AI-driven MGA footprint to 10 states and 1,600 distribution partners.",
+        "text": "Mile Auto acquires Insurance House (~$100M premium, 55k policyholders) to reach 10 states and 1,600 distribution partners\u2014consolidation play in AI-driven MGA space.",
         "refId": "a2cfd2314afa",
         "source": "Insurance Journal"
       },
       {
-        "text": "Appeals court revives 500+ private lawsuits against Kenvue (Tylenol) for alleged autism link\u2014major litigation exposure after district court dismissal overturned.",
+        "text": "Federal appeals court revives 500+ Tylenol-autism lawsuits against Kenvue on July 13, overturning dismissal and creating significant litigation exposure.",
         "refId": "0a24cb2d8018",
         "source": "Insurance Journal"
       },
       {
-        "text": "Dun & Bradstreet embeds Claude AI into commercial underwriting platform for real-time risk data; Marsh Risk launches MLOne umbrella casualty facility to streamline excess claims coordination.",
+        "text": "Dun & Bradstreet integrates with Claude AI for real-time risk data in underwriting; Marsh launches MLOne umbrella facility to streamline excess casualty claims coordination.",
         "refId": "e7e838851aaa",
         "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "Mastercard explores Vocalink exit; Moneybox hits \u00a3800M valuation; fintech partnerships reshape payment rails.",
+    "lede": "Mastercard divests Vocalink, CMBS distress spreads, and fintech valuations climb despite credit headwinds.",
     "bullets": [
       {
-        "text": "Mastercard is exploring a sale of Vocalink, the UK payments platform acquired in 2016, potentially returning it to original bank owners.",
+        "text": "Mastercard exploring sale of Vocalink, the UK payments platform acquired in 2016, potentially returning to original banking consortium owners.",
         "refId": "1e145a5d5cd2",
         "source": "Finextra"
       },
       {
-        "text": "Moneybox conducting secondary sale at \u00a3800M valuation (45% jump YoY), raising up to \u00a345M for the UK digital wealth manager.",
-        "refId": "fc4f761d0660",
-        "source": "Finextra"
+        "text": "CMBS special servicing rate jumped in June 2026 as large retail, office, and lodging loans deteriorate\u2014signaling credit stress and upcoming servicer workouts.",
+        "refId": "6a46f4595b79",
+        "source": "Trepp Talk"
       },
       {
-        "text": "North America maintains LP appeal in private debt despite market divergence between performing and distressed credits.",
+        "text": "North America private debt remains LP-favored despite divergence between performing and distressed credits, per AlbaCore analysis.",
         "refId": "a209e7a91aba",
         "source": "Private Debt Investor"
+      },
+      {
+        "text": "Moneybox valued at \u00a3800M (45% jump since 2024) in secondary raise, while European banks adopting AI early face competitive edge over laggards by 2030.",
+        "refId": "fc4f761d0660",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "Arctos deploys novel GP financing structure while secondary market consolidates; strategic sector bets in defense and utilities.",
+    "lede": "Four stories spanning GP financing innovation, secondaries team builds, and strategic sector bets across defense tech and infrastructure.",
     "bullets": [
       {
-        "text": "Arctos Partners closed a $6.2B GP financing deal using a novel 'self-liquidating' Keystone structure\u2014a first for the GP-financing market.",
+        "text": "Arctos Partners closed $6.2B GP financing using 'self-liquidating' Keystone structure\u2014a debut deployment in the GP-financing market that could reshape how sponsors access capital.",
         "refId": "08c7099dc23b",
         "source": "Private Equity International"
       },
       {
-        "text": "Moelis is building out LP-led secondaries after hiring an Evercore VP and team, capitalizing on favorable pricing and liquidity conditions driving market growth.",
+        "text": "Moelis poaching Evercore VP to build LP-led secondaries practice as the segment booms; LGT, Dawson, and Pomona already aggressively sourcing deals on favorable pricing.",
         "refId": "61d02f6d5699",
         "source": "Secondaries Investor"
       },
       {
-        "text": "Bridgepoint acquired majority stake in Danish defense-tech UMag (spun from Tech University of Denmark) as European defense spending accelerates; founders retain significant equity.",
+        "text": "Bridgepoint backing Danish defense-tech spinout UMag with majority stake while founders retain control; capital fueling international expansion amid European defense spending surge.",
         "refId": "2642f5d466a6",
         "source": "PE Hub"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "Bank earnings season opens amid Fed rate uncertainty; PE mega-funds dominate capital raising while Wall Street eyes best IB year since 2022.",
+    "lede": "Bank earnings season opens amid inflation uncertainty, while PE mega-funds consolidate capital and Wall Street's IB pipeline hits 4-year highs on M&A and AI momentum.",
     "bullets": [
       {
-        "text": "Bank earnings kick off Tuesday with market braced for high expectations and potential disappointment; results will set tone for quarterly guidance.",
-        "refId": "acbebe28924d",
-        "source": "Dealbook (NYT)"
+        "text": "Fed's Waller flags rate hike possibility if this week's inflation data disappoints\u2014market braced for earnings misses despite high expectations.",
+        "refId": "75268aed7f5a",
+        "source": "MarketWatch"
       },
       {
-        "text": "Top 20 PE firms raised $519B in H1 2026 (+27% YoY), consolidating power while smaller funds struggle\u2014signaling potential wave of sub-scale consolidation.",
+        "text": "Top 20 PE firms hoarded $519B (up 27% YoY) in H1 2026, leaving smaller funds starved; two-tier consolidation risk building.",
         "refId": "fe3ad57cc805",
         "source": "Financial Times Markets"
       },
       {
-        "text": "US investment banking fees tracking toward highest annual total since 2022 on M&A revival, IPO recovery, and AI-fueled capital markets activity.",
+        "text": "US IB fees tracking toward highest since 2022 on M&A revival and IPO recovery, but AI-related debt issuance surged 99% YoY\u2014creating concentration red flags in fixed income.",
         "refId": "18310173ed87",
         "source": "Financial Times Markets"
-      },
-      {
-        "text": "Fed's Waller signals rate hike possible if this week's inflation data comes hot; officials divided on policy path ahead.",
-        "refId": "75268aed7f5a",
-        "source": "MarketWatch"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Big bank earnings week ahead anchors markets; meanwhile, ETF flows turn negative and China's AI advances challenge US tech dominance.",
+    "lede": "Big bank earnings dominate today's agenda as market flows turn negative and AI competition heats up globally.",
     "bullets": [
       {
-        "text": "Five of six largest US banks report Q2 earnings tomorrow\u2014critical read on credit quality, deposits, and consumer health across lending and wealth management.",
+        "text": "Five of six megabanks report Q2 earnings tomorrow\u2014watch credit quality, deposits, and consumer health across all major business lines.",
         "refId": "a05bc9cbcf8d",
         "source": "The Daily Upside"
       },
       {
-        "text": "ETF flows swung negative in rare week; redemptions hit equity, bond, and alternative products as investors reassess positioning.",
+        "text": "ETF flows went negative this week in a rare reversal; redemptions hit equity, bond, and alternative products across the board.",
         "refId": "93673e809ed8",
         "source": "The Daily Upside"
       },
       {
-        "text": "Alibaba's AI model ranks first globally; cheaper Chinese alternatives are eroding US tech dominance in artificial intelligence, signaling competitive pressure ahead.",
+        "text": "Alibaba's AI model ranks #1 globally\u2014cheaper Chinese alternatives are eating into US tech dominance in artificial intelligence.",
         "refId": "8a7c9fc393e9",
         "source": "The Daily Upside"
       }
@@ -154,45 +164,45 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Four stories on competitive dynamics, mental health diagnostics, and policy preferences; one on AI moat erosion.",
+    "lede": "Five stories spanning AI moats, market competition theory, suburban economics, and policy literacy\u2014mostly academic takes with limited financial market implications.",
     "bullets": [
       {
-        "text": "Open-source AI now matches frontier models at 1/10th the cost, forcing investors to hunt for moats beyond raw model performance\u2014data, distribution, or domain expertise becoming the battleground.",
+        "text": "Open-source AI models now match frontier performance at 1/10th the cost, forcing founders to compete on moats beyond raw capability\u2014a structural shift in software economics.",
         "refId": "fc03107930b6",
         "source": "The AI Corner"
       },
       {
-        "text": "UK young people reporting mental illness surged while functional impairment flatlined\u2014diagnostic creep and labeling shifts, not worsening actual wellbeing.",
-        "refId": "8c719342db13",
+        "text": "Tyler Cowen makes a neat theoretical argument: P \u2260 NP preserves competitive markets by making collusion detection computationally intractable; inverse holds if P = NP.",
+        "refId": "ed7cdd73b095",
         "source": "Marginal Revolution"
       },
       {
-        "text": "Economic literacy, not self-interest, predicts EU support for trade and immigration\u2014knowledge matters more than personal gain in policy preferences.",
-        "refId": "6c36313cbe53",
-        "source": "Marginal Revolution"
+        "text": "Noah Smith defends suburbs as economically rational (affordability, schools, safety), pushing back on elite cultural dismissal\u2014relevant context for real estate and consumer behavior.",
+        "refId": "f41b8d87b29c",
+        "source": "Noahpinion"
       }
     ]
   },
   "all": {
-    "lede": "Bank earnings season kicks off amid strong macro signals; mega-PE fundraising surges while Mastercard explores Vocalink exit.",
+    "lede": "Bank earnings season dominates the week as mega-funds consolidate capital; Mastercard considers Vocalink exit while Wall Street banking fees hit 4-year highs.",
     "bullets": [
       {
-        "text": "Big Six US banks report Q2 earnings Tuesday-Wednesday; results will signal credit quality, deposit health, and consumer spending across all major business lines.",
+        "text": "Five of six largest US banks report Q2 earnings tomorrow\u2014credit quality, deposits, and consumer health will be under the microscope across lending, trading, and wealth management.",
         "refId": "a05bc9cbcf8d",
         "source": "The Daily Upside"
       },
       {
-        "text": "Top 20 PE firms raised $519B in H1 2026 (+27% YoY), widening gap with smaller funds and raising consolidation risks in the sub-scale market.",
+        "text": "Top 20 PE firms raised $519B in H1 2026, up 27% YoY, while smaller funds struggle; two-tier market is creating consolidation pressure among sub-scale players.",
         "refId": "fe3ad57cc805",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Investment banking fees on track for best year since 2022, driven by M&A revival, IPO recovery, and AI-fueled DCM activity.",
+        "text": "US investment banking fees tracking toward highest annual total since 2022, driven by M&A revival, IPO recovery, and AI-fueled DCM activity.",
         "refId": "18310173ed87",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Mastercard exploring sale of Vocalink, the UK payments platform acquired from British banks in 2016, potentially returning ownership to originators.",
+        "text": "Mastercard exploring sale of Vocalink, potentially returning the UK payments platform to its original bank consortium owners a decade after acquisition.",
         "refId": "1e145a5d5cd2",
         "source": "Finextra"
       }
@@ -201,37 +211,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7528.75,
+      "v": 7515.34,
       "base": 7543.64,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25952.584,
+      "v": 25873.176,
       "base": 26206.89,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52484.33,
+      "v": 52498.64,
       "base": 52487.41,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.616,
+      "v": 4.609,
       "base": 4.569,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.72,
+      "v": 17.12,
       "base": 15.03,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.258,
+      "v": 186.9797,
       "base": 186.26,
       "bp": false
     }
