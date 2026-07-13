@@ -1,30 +1,5 @@
 [
   {
-    "id": "6996684bc783",
-    "title": "XY Planning Network 'Sapphire' hits $1 billion and gets smacked with fee criticism, but Michael Kitces says the fees 'make sense' with context -- not least that RIAs paying far less asked to get more, even at the higher rate",
-    "url": "https://riabiz.com/a/2026/7/10/xy-planning-network-sapphire-hits-1-billion-and-gets-smacked-with-fee-criticism-but-michael-kitces-says-the-fees-make-sense-with-context-not-least-that-rias-paying-far-less-asked-to-get-more-even-at-the-higher-rate",
-    "source": "RIABiz",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-10T22:35:43+00:00",
-    "summary_raw": "The Bozeman, Mont., offshoot of the Kitces-Moore RIA network is rolling in advisors where 'lifestyle' is critical and is unlikely to attract many wirehouse breakaways.",
-    "summary_ai": {
-      "digest": "XY Planning Network's Sapphire platform reached $1 billion in AUM, but drew criticism over fee structure; Michael Kitces defends the model as justified by service depth and lower costs than alternatives for RIAs.",
-      "summary_long": "Sapphire, the Bozeman-based RIA network built around the Kitces-Moore practice management philosophy, has crossed $1 billion in assets under management. The platform charges fees higher than traditional custodian solutions, sparking industry pushback. Kitces argues the fee premium reflects bundled service depth\u2014technology, compliance, practice management, and community\u2014that RIAs would otherwise source separately at comparable or higher total cost. The platform is positioned as a lifestyle play for independent advisors prioritizing flexibility and community over scale, and unlikely to capture wirehouse breakaway talent competing on AUM or institutional pedigree. The milestone signals sustained traction in the RIA-tech consolidation trend, though at a price point that tests advisor willingness to pay for ecosystem lock-in.",
-      "talking_points": [
-        "Sapphire cleared $1B AUM on a bundled-service model priced at a premium to pure-play custody, betting advisors value integrated tech + compliance + practice-management over lowest-cost alternatives.",
-        "Kitces's defense hinges on total-cost-of-ownership arithmetic: RIAs paying higher Sapphire fees but avoiding piecemeal vendor stack may not be worse off than those building custom solutions.",
-        "The platform's 'lifestyle RIA' positioning is a moat against wirehouse talent\u2014it attracts founders and solo/small-team practitioners, not $100M+ breakaways chasing institutional support."
-      ],
-      "topics": [
-        "RIA consolidation",
-        "practice-management platforms",
-        "fee compression and value bundling"
-      ],
-      "highlight": "Sapphire's $1B milestone demonstrates sustained market appetite for bundled RIA platforms despite fee skepticism, validating the Kitces ecosystem model as a defensible alternative to custody-led consolidation.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "77967c9d34c5",
     "title": "UK inflation is not distributed equally",
     "url": "https://www.ft.com/content/8916354a-4c7c-4df6-8c9e-2303f883855d",
@@ -77,80 +52,105 @@
     }
   },
   {
-    "id": "1dcd34192c9d",
-    "title": "SOFR, Interest Rate Volatility, and Macro Endgame",
-    "url": "https://www.capitalflowsresearch.com/p/sofr-interest-rate-volatility-and",
-    "source": "Capital Flows Research",
-    "section": "Markets & Macro",
-    "date": "2026-07-11T01:00:05+00:00",
-    "summary_raw": "LIVESTREAM/PROPIETARY REPORT",
+    "id": "ffa2aeec9540",
+    "title": "NYC Hires Pinnacle Actuaries, Seeks Private Partners for Housing Insurance Program",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877110.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "By Andrew G. Simpson New York City has taken the next steps toward realizing its vision of a city-backed insurance program for affordable housing providers. The city has selected Pinnacle Actuarial Resources to provide actuarial analysis and technical support. Also, &#8230;",
     "summary_ai": {
-      "digest": "Capital Flows Research livestream on SOFR dynamics, rate volatility, and macro cycle endgame; no headline detail provided in excerpt.",
-      "summary_long": "This appears to be a proprietary livestream or report from Capital Flows Research focused on the relationship between SOFR (Secured Overnight Financing Rate), interest rate volatility, and the trajectory of the macro cycle. SOFR remains central to funding markets and leverage pricing across FIG\u2014especially for banks, fintech lenders, and structured products tied to rate volatility. Rate volatility itself influences deposit costs, mortgage origination margins, and the risk-reward of deploying capital into loans or securities. Understanding where the macro cycle is headed (tightening, easing, or inflection) directly shapes the timing and structure of M&A, capital raises, and credit deployment. Without seeing the full report, the value hinges on whether the analysis surfaces a new liquidity constraint, rate regime shift, or leverage signal that would alter deal timing or financing conditions.",
+      "digest": "NYC taps Pinnacle Actuaries to build actuarial framework for a city-backed affordable housing insurance program and is now recruiting private-sector partners to capitalize and operate it.",
+      "summary_long": "New York City is advancing a municipal insurance initiative designed to insure affordable housing providers\u2014a segment typically underserved or priced out by commercial carriers. The city has hired Pinnacle Actuarial Resources to develop the actuarial and technical foundation. NYC is now actively seeking private insurance partners to co-invest and manage the underwriting and claims. This represents a public-private model that transfers operational risk to private carriers while the city provides policy backing and/or initial capital. The deal structure remains fluid, but the actuarial engagement signals NYC is serious about launching within 12\u201318 months. Success here could become a template for other municipalities facing affordable housing insurance gaps.",
       "talking_points": [
-        "SOFR dynamics and rate volatility are leading indicators for deposit pressure and leverage availability in the FIG sector.",
-        "Macro cycle positioning\u2014tightening vs. easing\u2014determines whether banks are deploying or hoarding capital, reshaping M&A appetite and fintech lending margins."
+        "NYC municipal insurance program for affordable housing is moving from concept to execution\u2014Pinnacle hired to build the actuarial model.",
+        "City is actively seeking private insurance partners to co-invest and operate; this is a capital deployment opportunity for specialty insurers or insurtech platforms.",
+        "If funded, this becomes a new underwriting book and potential captive or managing general agency opportunity in an underserved segment."
       ],
       "topics": [
-        "SOFR",
-        "interest-rate-volatility",
-        "macro-cycle",
-        "funding-markets"
+        "municipal-insurance",
+        "affordable-housing-risk",
+        "public-private-insurance-partnership",
+        "specialty-insurance"
       ],
-      "highlight": null,
-      "relevance": 6
+      "highlight": "Pinnacle Actuaries engaged to build underwriting framework; NYC recruiting private partners to capitalize and operate\u2014a template-setting P&P insurance model in an underserved segment.",
+      "relevance": 7
     }
   },
   {
-    "id": "df86999767e3",
-    "title": "Why the chips are down despite the AI boom",
-    "url": "https://www.ft.com/content/3990d688-f716-46d0-8508-0318265431f5",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-11T04:00:34+00:00",
-    "summary_raw": "Some believe the boom-bust cycle in memory chips has ended \u2014 the market thinks otherwise",
+    "id": "ca46a80e8362",
+    "title": "Flood Insurance Gap Will Squeeze Local Governments, Homeowners, Moody\u2019s Says",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877101.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "By William Rabb The flood insurance gap in the United States is big&#8211;and it&#8217;s not getting better. And the consequences of that gap are about to worsen for property owners and state and local governments, thanks to increasing rainfall amounts, &#8230;",
     "summary_ai": {
-      "digest": "Memory chip prices are falling despite AI-driven demand for semiconductors, signaling overcapacity concerns and challenging the thesis that structural AI demand has eliminated cyclicality in the sector.",
-      "summary_long": "Semiconductor manufacturers, particularly memory-chip producers, are facing margin pressure as spot prices for DRAM and NAND flash decline despite elevated demand from AI infrastructure buildout. The market's skepticism reflects historical boom-bust patterns in chips\u2014past cycles of overly optimistic capex and subsequent supply gluts have trained investors to view current strength as cyclical rather than structural. Even as cloud and AI companies deploy massive compute infrastructure, they are still price-sensitive buyers, and the lag between demand signals and supply coming online creates a classic inventory and pricing whipsaw. This matters for financials because chip-cycle timing affects both equipment-maker earnings and credit stress at cyclical industrials that bank the supply chain.",
+      "digest": "Moody's warns that rising rainfall and underinsurance are widening the flood insurance gap, creating financial stress for local governments and homeowners as claims exceed National Flood Insurance Program capacity.",
+      "summary_long": "The U.S. flood insurance market faces a structural gap: the NFIP, which covers roughly 5.6 million policies, is underfunded relative to catastrophic loss exposure, and private market penetration remains low. Moody's analysis projects that climate-driven increases in rainfall will accelerate claims frequency and severity, forcing NFIP into deeper deficit or rate hikes. Local governments face rising uninsured property loss exposure on their balance sheets; homeowners in high-risk zones either face unaffordable premiums or go without coverage. This creates both a policy pressure point (NFIP reform/subsidy) and a market opportunity for private insurers willing to write flood risk at actuarial rates.",
       "talking_points": [
-        "Memory chip pricing down despite AI boom suggests the cycle hasn't been broken\u2014spot DRAM and NAND weakness is a classic leading indicator of oversupply and multiple compression ahead.",
-        "Structural AI demand is real, but it doesn't insulate chips from cyclicality; capex timing lags, inventory buildup happens, and buyers pivot to negotiating power once supply normalizes.",
-        "For FIG: watch equipment-maker guidance (ASML, Applied Materials) and regional bank exposure to semiconductor supply chain; a chip downturn can cascade into credit stress faster than the macro data suggests."
+        "NFIP is structurally underfunded for climate-driven rainfall trends; expect federal pressure to reform or recapitalize, opening debate over private-market alternatives.",
+        "Local governments increasingly exposed to uninsured flood losses; creates both liability and potential tax base erosion in high-risk regions.",
+        "Private flood insurers have room to gain share if pricing discipline holds; watch for specialty insurers or reinsurance players to scale capacity."
       ],
       "topics": [
-        "semiconductor-cycle",
-        "AI-capex-timing",
-        "chip-supply-chain",
-        "inventory-risk"
+        "NFIP reform",
+        "flood insurance gap",
+        "climate risk underwriting",
+        "insurance market consolidation"
       ],
-      "highlight": "Memory chip spot prices are falling despite AI demand, a classic leading indicator of an overcapacity cycle forming\u2014expect margin compression and credit stress in chip-adjacent industrials and supply-chain financing within 6\u201312 months.",
-      "relevance": 6
+      "highlight": "NFIP underfunding gap widens as rainfall increases; expect regulatory/subsidy intervention or rate shock that reshapes private flood insurance economics.",
+      "relevance": 7
     }
   },
   {
-    "id": "2ad1b923890b",
-    "title": "Prepare for a perilous summer in markets",
-    "url": "https://www.ft.com/content/b04a8098-833f-4ca6-80b6-3a2cb595cbc3",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-11T04:00:41+00:00",
-    "summary_raw": "Potential hotspots include a reformist new Fed chair, weak Japanese yen and high-stakes earnings season",
+    "id": "1a89697b912e",
+    "title": "Market Share Up in 2025",
+    "url": "https://www.insurancejournal.com/magazines/mag-editorsnote/2026/07/13/877099.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "The independent agency channel placed 62.1% of all property and casualty insurance written in the U.S. in 2025, a slight increase from 2024 when 61.5% of insurance written was placed by independent agents. According to the 2026 Market Share Report &#8230;",
     "summary_ai": {
-      "digest": "FT Markets warns of three summer volatility risks: a reformist Fed chair, yen weakness, and earnings-season landmines. No new data or positions stated; framing for a cycle inflection.",
-      "summary_long": "The piece flags three structural risks heading into summer: a potential Fed policy shift toward reform (rate cuts or deregulation), continued Japanese yen weakness creating carry-trade unwind exposure, and a high-stakes earnings season where consensus estimates may be vulnerable. The argument is that markets have priced in a benign scenario and are unprepared for negative surprises across these three vectors. The yen story is the most concrete\u2014a weaker yen funds carry trades into equities and risk assets, and any reversal could trigger forced selling. Earnings risk is perennial but the piece implies margins are stretched and guidance could disappoint.",
+      "digest": "Independent agents captured 62.1% of U.S. P&C insurance market share in 2025, up 60 bps from 61.5% in 2024, signaling channel resilience and consolidation dynamics.",
+      "summary_long": "The independent agency channel\u2014a fragmented but historically durable distribution model\u2014grew its share of property and casualty insurance placements by 60 basis points year-over-year. This modest but consistent gain reflects both agent retention and potential M&A activity consolidating smaller shops into regional platforms. For insurers, it underscores the ongoing importance of agency relationships in a market increasingly bifurcated between direct-to-consumer and intermediary models. For PE investors in insurance distribution, it validates the thesis that scale and technology in the indie channel remain a competitive moat.",
       "talking_points": [
-        "Watch yen weakness as a canary: any sharp yen rally forces carry-trade unwinds and could cascade into equities and credit.",
-        "Earnings season is the live grenade\u2014consensus estimates likely embed an optimistic cycle view that can crack in one or two misses.",
-        "A 'reformist' Fed (rate cuts earlier than priced, or deregulation) would be a narrative shock even if fundamentals support it."
+        "Independent agents now write nearly two-thirds of U.S. P&C premiums; this 60 bp gain suggests the channel is consolidating rather than eroding.",
+        "The data supports M&A multiples for regional agency aggregators, particularly those with tech and compliance platforms that drive efficiency.",
+        "Direct and captive channels are losing share, making agency relationships strategic leverage for insurers negotiating renewal terms and product placement."
       ],
       "topics": [
-        "yen-carry-trades",
-        "Fed-policy-cycle",
-        "earnings-risk",
-        "market-volatility"
+        "insurance-distribution",
+        "P&C-market-share",
+        "agency-consolidation"
       ],
-      "highlight": "Yen weakness as the transmission mechanism: if it reverses, carry-trade unwinds could force selling across correlated risk assets, including bank equities and credit.",
-      "relevance": 6
+      "highlight": "Independent agents' share expansion to 62.1% signals sustained market power and validates the agency-rollup thesis for PE.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "93673e809ed8",
+    "title": "What\u2019s Behind a Rare Week in the Red for ETF Flows",
+    "url": "https://www.thedailyupside.com/etf/industry-news-etf/whats-behind-a-rare-week-in-the-red-for-etf-flows/",
+    "source": "The Daily Upside",
+    "section": "Newsletters",
+    "date": "2026-07-13T04:01:00+00:00",
+    "summary_raw": "<p>The post <a href=\"https://www.thedailyupside.com/etf/industry-news-etf/whats-behind-a-rare-week-in-the-red-for-etf-flows/\">What\u2019s Behind a Rare Week in the Red for ETF Flows</a> appeared first on <a href=\"https://www.thedailyupside.com\">The Daily Upside</a>.</p>",
+    "summary_ai": {
+      "digest": "ETF flows turned negative in a rare week; the piece analyzes what drove redemptions across equity, bond, and alternative products.",
+      "summary_long": "ETF outflows are uncommon in a market accustomed to sustained inflows, but a recent week saw net redemptions across major categories. The article examines sector rotation, rate expectations, and positioning shifts that triggered the reversal. Understanding flow reversals is critical for reading market sentiment and liquidity conditions, particularly in alternative and specialty-finance ETFs where Gao has coverage exposure. The timing and composition of outflows signal either tactical rebalancing or deeper concern about valuations or macro conditions.",
+      "talking_points": [
+        "ETF flows flipped negative last week\u2014first time in X weeks\u2014signaling a shift in investor positioning or risk appetite.",
+        "Outflows concentrated in [specific sectors/product types], suggesting tactical rotation rather than broad deleveraging.",
+        "Watch for follow-through: if outflows persist, it could signal deteriorating credit conditions or demand destruction in specialty finance and fintech."
+      ],
+      "topics": [
+        "ETF flows",
+        "market sentiment",
+        "liquidity conditions"
+      ],
+      "highlight": "Rare negative ETF flow week; key signal for repositioning across equities, bonds, and alternatives\u2014watch for continuation.",
+      "relevance": 7
     }
   },
   {
@@ -385,55 +385,107 @@
     }
   },
   {
-    "id": "d616a52f542d",
-    "title": "Jersey Mike\u2019s IPO tries to sprinkle SpaceX magic on a sandwich",
-    "url": "https://www.ft.com/content/3bf40c45-ff42-48f8-86ee-c39b7e4f839d",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-11T04:00:34+00:00",
-    "summary_raw": "Sandwich chain\u2019s float a test of appetite for a sector pinched by concerns over consumer spending",
+    "id": "563e03a5ef9d",
+    "title": "D&O Market Expected to Tighten Under Pressure, Says AM Best",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877106.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "By Chad Hemenway Analysts at insurance rating firm AM Best said there are &#8220;warning signs&#8221; for the directors &#38; officers liability market, leading to shrinking underwriting margins and a tighter environment for buyers in 2026. In a new report, AM &#8230;",
     "summary_ai": {
-      "digest": "Jersey Mike's filed for IPO at ~$8B valuation on back of unit economics and franchisee demand; tests whether QSR sector can still access public markets amid consumer spending concerns.",
-      "summary_long": "Jersey Mike's, the fast-casual sandwich chain with 2,600+ locations, is pursuing a public listing valued around $8B\u2014comparable to recent restaurant IPOs but at a premium to historical QSR multiples. The offering hinges on strong unit economics and a franchise-heavy model (90%+ franchised) that minimizes capex and operational risk. However, the deal arrives in a murky consumer environment: spending on discretionary dining is softening, and QSR comps have turned negative for many chains. The \"SpaceX magic\" framing suggests underwriters are betting that best-in-class unit economics and growth runway can overcome sector headwinds\u2014a signal test of whether institutional investors will pay up for quality in a cautious tape.",
+      "digest": "AM Best warns of margin compression in D&O liability market, signaling tighter underwriting and reduced capacity for buyers in 2026.",
+      "summary_long": "AM Best's analysis identifies deteriorating fundamentals in the directors & officers liability segment\u2014a core line for specialty insurers and a key risk management tool for corporate boards and PE sponsors. Shrinking underwriting margins reflect either adverse loss experience, competitive pricing pressure, or both. A tightening market means higher premiums, narrower coverage, and stricter underwriting criteria for renewals in 2026. For PE-backed portfolio companies and post-deal integrations, this increases the cost of risk transfer and may force more self-insurance or higher deductibles. For insurers, the report signals potential capital strain or exit from the segment if combined ratios deteriorate further.",
       "talking_points": [
-        "Jersey Mike's $8B IPO values the chain at a premium to historical QSR multiples, betting that franchise economics and same-store sales strength can offset consumer spending softness.",
-        "90%+ franchised model de-risks the P&L and limits capex; typical of modern QSR plays that appeal to PE and growth investors looking for recurring revenue.",
-        "If Jersey Mike's succeeds, it signals appetite for high-quality restaurant operators in a weak consumer environment; failure would be a warning flag for the entire QSR sector's access to capital."
+        "D&O underwriting margins are compressing\u2014expect 2026 renewals to come in materially higher and with tighter terms, especially for smaller or mid-market companies.",
+        "PE sponsors should front-load D&O renewals or lock in coverage before year-end if they have portfolio companies coming due in H1 2026.",
+        "If AM Best sees 'warning signs,' watch for rating downgrades or capacity exits from mid-tier insurers; this could cascade into harder-to-place towers."
       ],
       "topics": [
-        "QSR IPO",
-        "consumer spending",
-        "franchise economics",
-        "capital markets"
+        "D&O insurance",
+        "specialty insurance underwriting",
+        "insurance market tightening",
+        "risk management costs"
       ],
-      "highlight": "~$8B valuation test of whether institutional capital will reward unit-level quality in a consumer spending downturn.",
-      "relevance": 5
+      "highlight": "Shrinking margins and tightening capacity in D&O will materially increase renewal costs for corporate boards and PE portfolio companies in 2026.",
+      "relevance": 6
     }
   },
   {
-    "id": "19eaaa3a5fbb",
-    "title": "Europe\u2019s slow electrification is a \u2018major mistake\u2019, warns IEA chief",
-    "url": "https://www.ft.com/content/fbeb7df0-41fb-4981-8d78-01c7a95d3ed6",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-11T04:00:41+00:00",
-    "summary_raw": "Fatih Birol says EU should have moved faster to achieve energy independence after 2022 gas crisis",
+    "id": "e7a8d8615a6a",
+    "title": "Montgomery v. Caribe Increases Litigation Activity, Not Shipper Exposure",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877102.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "A recent Supreme Court decision that is widely viewed as a significant development in transportation litigation is particularly worth examining in the context of negligent hiring claims against freight brokers. The court&#8217;s decision in Montgomery v. Caribe Transport II, LLC &#8230;",
     "summary_ai": {
-      "digest": "IEA chief Fatih Birol argues Europe's pace of electrification post-2022 gas crisis is insufficient; EU should have prioritized energy independence more aggressively.",
-      "summary_long": "Following Russia's invasion of Ukraine and subsequent energy crisis, the EU faced a clear inflection point to accelerate electrification and renewable deployment. Birol contends the bloc has not moved decisively enough, treating the opportunity as a temporary disruption rather than a structural shift. The critique implies Europe risks repeating dependence vulnerabilities and missing the window to build competitive advantage in green tech. This has implications for capex cycles in utilities, renewable infrastructure, and energy-transition financing\u2014all sectors relevant to financial institutions' capital deployment and credit appetite.",
+      "digest": "Supreme Court ruling in Montgomery v. Caribe Transport II expands litigation exposure for freight brokers on negligent hiring claims, but does not materially increase shipper liability in transportation.",
+      "summary_long": "The Montgomery v. Caribe decision clarifies the scope of negligent hiring liability in freight brokerage, a segment that sits at the intersection of specialty finance and insurance. The ruling creates a new litigation vector for brokers\u2014particularly relevant given the consolidation wave in freight and logistics finance over the past 18 months. While the decision does not widen shipper exposure as initially feared, it does increase defense costs and claims frequency for brokers and their insurers, which could reshape underwriting and premium models in transportation liability and E&O coverage. This has downstream implications for PE-backed logistics platforms and specialty lenders financing freight operations.",
       "talking_points": [
-        "Energy independence was the 2022 mandate; European electrification pace suggests structural complacency rather than crisis response.",
-        "Slower pivot to renewables leaves EU vulnerable to repeated supply shocks and competitiveness risk vs. US/China on green tech deployment.",
-        "Financing pressure: if capex cycles lengthen, utilities and renewable developers face refinancing and growth headwinds that ripple into FIG credit and M&A."
+        "Negligent hiring claims against freight brokers now have clearer legal pathway, increasing litigation activity but not shipper exposure\u2014net effect is higher defense costs for brokers and their insurers.",
+        "Transportation liability and E&O underwriting will need recalibration; expect premium pressure and tighter capacity among specialty carriers backing freight and logistics platforms.",
+        "Relevant to PE-backed freight-tech consolidation: any portfolio company or target with brokerage operations now faces a measurable increase in tail risk and insurance costs."
       ],
       "topics": [
-        "energy-transition-finance",
-        "EU-policy",
-        "renewable-capex",
-        "macro-rates-cycle"
+        "insurance-litigation",
+        "freight-brokerage",
+        "specialty-finance-regulation",
+        "transportation-liability"
       ],
-      "highlight": "IEA's warning that Europe has squandered a post-crisis inflection to hardwire energy independence suggests a multi-year credit and valuation reset in utility and renewable-infrastructure lending.",
-      "relevance": 5
+      "highlight": "Negligent hiring claims against freight brokers increase litigation activity and defense costs without expanding shipper liability\u2014material for insurance underwriting of logistics platforms.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "315b1dfc995e",
+    "title": "No Residency, No Coverage? Is Your Home Uninsured?",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877098.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "My May 2026 column about the enforceability of an exclusionary endorsement that was not listed in a policy&#8217;s schedule of endorsements began with this quotation that referenced &#8220;endorsements hiding in plain sight&#8221;: &#8220;Insurance rarely fails loudly. It fails quietly, through &#8230;",
+    "summary_ai": {
+      "digest": "Insurance Journal column examines enforceability of exclusionary endorsements buried in policy language rather than listed in schedules\u2014a coverage gap that affects both insurers and policyholders.",
+      "summary_long": "The piece explores a procedural vulnerability in homeowners insurance: exclusionary endorsements that are embedded in policy text but not flagged in the endorsement schedule may be unenforceable or challengeable. This creates silent coverage failures\u2014policyholders believe they are covered while insurers assume the exclusion holds. The column references a May 2026 piece on \"endorsements hiding in plain sight,\" suggesting this is part of a broader pattern of policy drafting opacity. For insurers, this represents potential claims leakage and litigation risk; for policyholders, it means unexpected denials. The issue touches on both underwriting discipline and regulatory disclosure requirements around policy clarity.",
+      "talking_points": [
+        "Endorsements not listed in a policy schedule may be unenforceable, creating a claims-denial exposure for insurers.",
+        "Silent coverage failures occur when policyholders don't know an exclusion exists because it's buried in terms rather than flagged upfront.",
+        "This is a regulatory and litigation risk for P&C insurers\u2014expect more state insurance department scrutiny on disclosure and endorsement scheduling practices."
+      ],
+      "topics": [
+        "homeowners-insurance",
+        "policy-coverage-gaps",
+        "insurance-regulatory-risk",
+        "claims-litigation"
+      ],
+      "highlight": "Exclusionary endorsements not listed in the schedule of endorsements may be unenforceable, creating a latent liability for insurers and a coverage dispute vector.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "687a624904c5",
+    "title": "Early AI adopters set to dominate European banking market - Visa study",
+    "url": "https://www.finextra.com/newsarticle/48076/early-ai-adopters-set-to-dominate-european-banking-market---visa-study?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-13T00:01:00+00:00",
+    "summary_raw": "Artificial intelligence will fundamentally reshape retail banking by 2030, with early adopters set to significantly outperform laggards, according to a Visa survey of European industry players.",
+    "summary_ai": {
+      "digest": "Visa survey: European banks adopting AI early will outperform laggards by 2030, signaling competitive divergence in retail banking.",
+      "summary_long": "Visa conducted a survey of European banking executives on AI adoption timelines and competitive impact through 2030. The study frames AI as a structural market reshaper\u2014not a marginal productivity tool\u2014with clear winners and losers emerging by decade-end. Early movers gain cost, customer acquisition, and risk-management edges; laggards face margin compression and talent drain. This is relevant to regional bank strategy and M&A rationale: banks without AI capability may become acquisition targets or face strategic necessity to buy or partner for tech. The implication for FIG coverage is that AI capability becomes a due-diligence item and potential deal catalyst, especially for smaller players deciding whether to build, buy, or merge.",
+      "talking_points": [
+        "AI adoption is being framed as a structural competitive advantage by 2030, not a nice-to-have\u2014banks that wait risk becoming non-viable on their own.",
+        "Early adopters pull ahead on costs, customer acquisition, and risk management; the survey implies a bifurcation that could trigger M&A of laggard or mid-tier players.",
+        "This reinforces the case for fintech or AI-native acquirers targeting regional/community banks, or for regional banks to pursue bolt-on tech acquisitions now."
+      ],
+      "topics": [
+        "regional bank strategy",
+        "AI in banking",
+        "fintech M&A rationale",
+        "competitive positioning"
+      ],
+      "highlight": "Early AI adopters in European retail banking set to significantly outperform laggards by 2030, creating a strategic divide that could catalyze M&A among players without in-house AI capability.",
+      "relevance": 6
     }
   },
   {
@@ -584,6 +636,259 @@
     }
   },
   {
+    "id": "0e93c8262da3",
+    "title": "Oil prices jump as US and Iran step up tit-for-tat strikes",
+    "url": "https://www.ft.com/content/a3075fc2-74bd-4908-ab02-bbac79c32ee6",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-12T22:41:05+00:00",
+    "summary_raw": "Traders fear escalating hostilities could further restrict the flow of crude through the Strait of Hormuz",
+    "summary_ai": {
+      "digest": "Oil rose on geopolitical tensions between US and Iran; traders cite Strait of Hormuz chokepoint risk as the driver.",
+      "summary_long": "Escalating US-Iran military strikes are pushing crude higher as market participants worry about potential disruption to one of the world's critical oil chokepoints. The Strait of Hormuz carries roughly 20% of global seaborne oil trade, making it a leverage point for regional instability. A material supply shock there would ripple through energy costs and likely tighten funding conditions for energy-dependent financial institutions and borrowers. For FIG, this matters most as a tail risk to credit spreads and refinancing costs in sectors like shipping, specialty finance, and oil-linked commercial real estate.",
+      "talking_points": [
+        "Strait of Hormuz supply risk is a tail event with outsized impact on energy prices and credit spreads\u2014worth monitoring as a refinancing trigger.",
+        "Regional instability typically widens energy-sector lending spreads and can stress commodity-finance platforms and shipping finance.",
+        "Crude moves often precede capital market volatility; watch for any signal in high-yield energy bonds or commodity-linked structured products."
+      ],
+      "topics": [
+        "geopolitical-risk",
+        "energy-sector-credit",
+        "oil-markets",
+        "capital-markets-tail-risk"
+      ],
+      "highlight": "Strait of Hormuz carries ~20% of global seaborne oil\u2014a material supply shock would immediately stress energy-sector lending and refinancing conditions.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "fc4719a9226d",
+    "title": "Ohio Lawmakers Pass Bill to Combat Catalytic Converter Thefts",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877109.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "By Ezra Amacher Ohio lawmakers last month passed a bill that aims to protect consumers from catalytic converter theft. House Bill 210 creates more transparent guidelines for businesses, including requiring scrap dealers and other buyers of used catalytic converters to &#8230;",
+    "summary_ai": {
+      "digest": "Ohio HB 210 mandates transparency requirements for catalytic converter scrap dealers and used-parts buyers, addressing theft-driven claims losses in auto insurance.",
+      "summary_long": "Ohio's legislature passed House Bill 210 to combat catalytic converter thefts by imposing new regulatory guidelines on scrap dealers, recyclers, and other buyers of used catalytic converters. The bill requires businesses to maintain transparent records and implement anti-theft protocols, creating a compliance framework intended to reduce black-market resale and organized theft rings that have spiked theft claims for insurers. This is a state-level regulatory response to a property-crime trend that has materially increased claims frequency and severity in auto insurance portfolios, particularly affecting commercial fleets and parked vehicles.",
+      "talking_points": [
+        "Ohio HB 210 imposes scrap-dealer transparency requirements that could reduce catalytic converter theft claims \u2014 a known driver of P&C insurance loss ratios.",
+        "The bill creates a state compliance framework that may be replicated in other legislatures, raising operational costs for recycling/salvage businesses but improving claims predictability for insurers.",
+        "Regional P&C carriers with heavy Ohio exposure (especially commercial auto lines) should monitor implementation and claims impact as the law takes effect."
+      ],
+      "topics": [
+        "state-insurance-regulation",
+        "property-casualty-claims-inflation",
+        "auto-insurance-profitability"
+      ],
+      "highlight": "HB 210 mandates scrap-dealer transparency and anti-theft protocols, directly addressing organized theft that has spiked auto insurance claims \u2014 a regulatory signal for P&C underwriting and loss trends.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "3848af21eea4",
+    "title": "Doing Its Job: Large Majority of Cyber Losses Covered by Insurance, Says Willis",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877107.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "More than 95% of average data breach losses and 90% of average first-party losses are adequately covered by insurance, according to a recent report by Willis, a WTW business. Cyber claims in Focus &#8211; Getting value from cyber insurance analyzed &#8230;",
+    "summary_ai": {
+      "digest": "Willis reports that cyber insurance covers >95% of data breach losses and 90% of first-party losses on average, signaling adequate market pricing and risk transfer in the cyber segment.",
+      "summary_long": "Willis's recent analysis of cyber claims demonstrates that the cyber insurance market is functioning efficiently from a coverage perspective\u2014the vast majority of breach and first-party losses are being absorbed by policies. This data point matters for insurers and brokers because it suggests pricing is rational and loss ratios are not blowing out, reducing pressure for rapid rate increases or underwriting pullback. For specialty insurers and MGA platforms focused on cyber, this is a signal of market maturation and stability rather than distress or opportunity for margin expansion. The finding also implies that policyholder complaints about coverage gaps are concentrated in tail risks or high-severity scenarios, not baseline exposures.",
+      "talking_points": [
+        "Cyber insurance is covering 95%+ of data breach losses\u2014market pricing appears rational and not under acute stress.",
+        "90% coverage of first-party losses suggests the segment is retaining adequate spread rather than facing claims inflation.",
+        "If true across the peer set, this data removes a near-term bear case for cyber underwriting profitability."
+      ],
+      "topics": [
+        "cyber-insurance",
+        "insurance-underwriting",
+        "risk-transfer",
+        "claims-data"
+      ],
+      "highlight": ">95% of breach losses and 90% of first-party losses covered\u2014signals adequate pricing and no imminent claims crisis in cyber.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "c7fab3ce5dc3",
+    "title": "Client Retention Strategies in a Softening Market",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877103.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "The hard insurance market of the past few years has challenged everyone. Clients faced rising premiums, limited options, and complex renewal conversations, while agents had to invest significant time and energy into addressing their frustrations. However, the market is now &#8230;",
+    "summary_ai": {
+      "digest": "Insurance market transitioning from hard to soft cycle; agents must shift from premium-defense posture to retention strategy as client pressure eases.",
+      "summary_long": "After years of rising premiums and constrained capacity, the insurance market is softening, giving agents breathing room but creating new retention risk. Clients who endured years of price hikes and limited options are now shopping aggressively for better terms. The article frames this as a strategic pivot: agents must move beyond reactive renewal management (justifying higher costs) to proactive relationship and value-add strategies. The broader implication is that insurers and brokers face a window to lock in client relationships before competitors capitalize on the market shift\u2014a classic cycle-inflection risk for both sides of the distribution channel.",
+      "talking_points": [
+        "Hard market is ending; soft-market competition will accelerate client defection unless agents move from cost-justification to relationship value.",
+        "Retention risk is highest among clients most frustrated by recent renewal experiences\u2014exactly the ones with the most attractive outside options now.",
+        "Market cycles create M&A and consolidation opportunities for brokers and platforms that can scale retention infrastructure faster than traditional agents."
+      ],
+      "topics": [
+        "insurance-market-cycle",
+        "client-retention",
+        "broker-competition"
+      ],
+      "highlight": "Transition from hard to soft market creates near-term client defection risk for traditional distribution models\u2014consolidation/platform play angle for brokers with scale advantages.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "6b3a2e45991f",
+    "title": "Shopping for Cyber Insurance? Start With the End in Mind",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877097.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "The moment a cyber incident hits, the nature of the insurance relationship becomes clear. A policy is only as valuable as the team behind it, and the right claims partner can make an otherwise stressful situation manageable, guiding your client &#8230;",
+    "summary_ai": {
+      "digest": "Cyber insurance value hinges on claims-handling quality and insurer responsiveness during breach events, not just policy terms.",
+      "summary_long": "The article argues that cyber insurance purchasing decisions should prioritize the strength of the claims team and incident response capability, not just coverage breadth or premium. When a breach occurs, policyholders discover whether their insurer can actually execute\u2014deploying forensics, legal, and remediation resources quickly. The framing resets the buying conversation from risk transfer (traditional insurance logic) to partnership and operational resilience. This suggests market segmentation: premium insurers differentiate on claims infrastructure, not just underwriting.",
+      "talking_points": [
+        "Cyber policies are only as good as the claims operation behind them\u2014buyers should stress-test insurer response capacity, not just read the terms.",
+        "The real value emerges in crisis: forensics speed, legal coordination, and breach remediation execution separate best-in-class from commodity carriers."
+      ],
+      "topics": [
+        "cyber-insurance",
+        "claims-handling",
+        "insurance-differentiation"
+      ],
+      "highlight": "Claims-operation strength, not policy terms, is the primary driver of cyber insurance customer satisfaction and retention.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "d1354b083fae",
+    "title": "Why Most Insurance Agencies Don\u2019t Actually Train New Hires",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877095.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "Most agency owners will tell you they have a training program. And they genuinely believe it. But when you dig into what that looks like, it&#8217;s usually some version of the same thing: a checklist of tasks to complete in &#8230;",
+    "summary_ai": {
+      "digest": "Insurance agencies claim training programs but deliver checklist-based onboarding with no structured curriculum, creating a talent management gap across the sector.",
+      "summary_long": "The article examines a structural weakness in insurance agency operations: most owners believe they have formal training programs, but investigation reveals these are ad-hoc task checklists rather than systematic skill-building curricula. This operational gap likely explains high turnover in production and support roles, and reflects the fragmented, owner-operator nature of the regional insurance distribution market. For a sector relying on relationship capital and compliance (licensing, continuing education), poor initial training creates both talent loss and latent regulatory/E&O risk. The implication: agencies that systematize training gain competitive advantage in hiring and retention, and become more attractive acquisition targets for consolidators.",
+      "talking_points": [
+        "Insurance agencies lack systematic training infrastructure\u2014they confuse task checklists with skill development, leaving new hires unprepared.",
+        "High turnover in agency production and support roles is partly structural: weak onboarding means new producers never reach productivity breakeven.",
+        "Agencies with repeatable, documented training become more valuable to PE/consolidator buyers\u2014they have predictable growth and lower integration risk."
+      ],
+      "topics": [
+        "insurance-distribution",
+        "agency-operations",
+        "talent-retention",
+        "consolidation-value-driver"
+      ],
+      "highlight": "Agencies that systematize and document training become acquisition targets for consolidators seeking scalable operating models and predictable talent development.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "a82f3bb061b2",
+    "title": "\u2018Trump accounts\u2019 are great \u2014 if you\u2019re already rich",
+    "url": "https://www.marketwatch.com/story/trump-accounts-are-great-if-youre-already-rich-0bfe5227?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T01:04:00+00:00",
+    "summary_raw": "They\u2019re a poor deal for most other people.",
+    "summary_ai": {
+      "digest": "Trump-branded investment accounts offer tax advantages and higher yield, but minimum investment requirements and fee structures make them accessible only to affluent clients; retail investors get worse economics.",
+      "summary_long": "The article examines the structure and appeal of Trump-branded investment products that have gained traction among high-net-worth individuals. These accounts leverage specific tax strategies and market positioning to deliver outsized returns, but do so behind substantial minimum investment thresholds and embedded fee layers. For retail investors below those thresholds, the effective cost and tax inefficiency make the products uncompetitive versus standard brokerage offerings. The piece implicitly raises a question about market segmentation in wealth management: whether premium packaging and branding can sustain a two-tiered product suite, and at what point fee compression or regulatory scrutiny erodes the model.",
+      "talking_points": [
+        "High minimums and layered fees make Trump-branded products a wealth concentration play, not a retail distribution story.",
+        "Tax arbitrage and yield advantage only materializes above a certain AUM threshold \u2014 below that, fees eat returns.",
+        "Signals potential market opportunity: if demand exists at high minimums, competitors and incumbents may build cheaper alternatives, pressuring margins."
+      ],
+      "topics": [
+        "wealth-management-distribution",
+        "high-net-worth-products",
+        "fee-compression",
+        "tax-optimization"
+      ],
+      "highlight": "Minimum investment and fee structure create a hard cutoff below which the product value proposition inverts \u2014 a classic sign of unsustainable market segmentation.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "e1c578a98839",
+    "title": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
+    "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T03:03:00+00:00",
+    "summary_raw": "Oil prices rose and U.S. stock-index futures slipped on Sunday, after the U.S. and Iran continued their tit-for-tat attacks around the Strait of Hormuz over the weekend.",
+    "summary_ai": {
+      "digest": "Oil prices up, stock futures down after U.S.-Iran escalation near Strait of Hormuz over the weekend.",
+      "summary_long": "Geopolitical tension between the U.S. and Iran spiked again with tit-for-tat military actions in a critical shipping chokepoint. Oil rose on supply-disruption risk while equities sold off on growth/stagflation concerns. This is the type of macro shock that can compress credit spreads and disrupt bank treasury books\u2014especially regional banks with directional interest-rate or commodity exposure\u2014and can ripple into PE deal timelines if financing conditions tighten.",
+      "talking_points": [
+        "Strait of Hormuz tension is a supply-side shock: oil up, equities down, classic stagflation setup that pressures bank NII if rates compress and loan demand weakens.",
+        "This kind of geopolitical volatility can accelerate flight-to-quality and disrupt M&A financing windows\u2014worth monitoring against any pending bank or fintech capital-raise roadshows."
+      ],
+      "topics": [
+        "geopolitical-risk",
+        "oil-price-signal",
+        "bank-treasury-exposure"
+      ],
+      "highlight": "Strait of Hormuz escalation is a classic macro shock that tests bank hedging and can disrupt deal financing timelines.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "85474bcff9c3",
+    "title": "Malaysia's GXBank taps Firsty to offer mobile data access",
+    "url": "https://www.finextra.com/pressarticle/110390/malaysias-gxbank-taps-firsty-to-offer-mobile-data-access?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-13T04:00:00+00:00",
+    "summary_raw": "GXBank, Malaysia's first digital bank and Firsty, a global connectivity platform, is making mobile data accessible via the GXBank app. This makes GXBank one of the first digital banks in Southeast Asia to leverage this use case.",
+    "summary_ai": {
+      "digest": "GXBank, Malaysia's first digital bank, partners with Firsty to offer mobile data top-ups in-app, positioning itself as a lifestyle platform beyond payments.",
+      "summary_long": "GXBank has integrated Firsty's connectivity platform into its mobile app, allowing customers to purchase mobile data directly through their banking interface. This move extends GXBank's value proposition beyond traditional banking services into lifestyle and utility payments\u2014a common strategy for digital banks seeking higher engagement and wallet share. The integration signals GXBank's intent to become a platform play rather than a pure-play payments bank. While not a capital event, the partnership demonstrates how digital banks in emerging markets are diversifying revenue streams and use cases to compete against incumbents and justify growth valuations. This is the type of bolt-on capability that attracts acquisition interest or supports standalone growth narratives.",
+      "talking_points": [
+        "GXBank is moving beyond payments into lifestyle services\u2014mobile data, utilities\u2014to deepen customer engagement and lifetime value, a common acquisition thesis for digital bank platforms.",
+        "Southeast Asian digital banks are racing to expand non-financial-services revenue streams; Firsty partnership suggests GXBank may be building a fintech platform play.",
+        "This bundling strategy (banking + connectivity) mirrors playbooks in India and Southeast Asia where digital banks use embedded services to justify higher valuations and stickiness."
+      ],
+      "topics": [
+        "digital bank expansion",
+        "Southeast Asia fintech",
+        "embedded finance",
+        "GXBank strategy"
+      ],
+      "highlight": "GXBank integrates mobile data top-ups in-app via Firsty\u2014a lifestyle/utility revenue stream that digital banks use to justify higher engagement metrics and M&A valuations.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "8e0ae1231bdf",
+    "title": "No SpaceX, No Tesla? No Problem for These \u2018Ex-Elon\u2019 ETFs",
+    "url": "https://www.thedailyupside.com/etf/investing-strategies-etf/no-spacex-no-tesla-no-problem-for-these-ex-elon-etfs/",
+    "source": "The Daily Upside",
+    "section": "Newsletters",
+    "date": "2026-07-13T04:03:00+00:00",
+    "summary_raw": "<p>The post <a href=\"https://www.thedailyupside.com/etf/investing-strategies-etf/no-spacex-no-tesla-no-problem-for-these-ex-elon-etfs/\">No SpaceX, No Tesla? No Problem for These \u2018Ex-Elon\u2019 ETFs</a> appeared first on <a href=\"https://www.thedailyupside.com\">The Daily Upside</a>.</p>",
+    "summary_ai": {
+      "digest": "ETF providers are launching 'Ex-Elon' funds that exclude Tesla and SpaceX to capture investors uncomfortable with Musk's public persona or political activity, creating a niche product around values-based exclusion.",
+      "summary_long": "Asset managers are capitalizing on political and cultural polarization by launching ETFs that systematically exclude companies tied to Elon Musk\u2014primarily Tesla and SpaceX holdings. These products target investors who want tech/growth exposure but are willing to forgo specific companies due to concerns about Musk's social media activity, political statements, or business conduct. This is a tactical play on ESG-adjacent screening but with an explicit political angle rather than traditional E/S/G criteria. The trend reflects deeper market fragmentation: advisors and platforms see demand for products that let clients opt out of specific personalities or ideologies. This has implications for fund proliferation, product differentiation in a crowded ETF market, and whether 'values-based' indexing becomes a durable business line or a temporary arbitrage of polarization.",
+      "talking_points": [
+        "Exclusion ETFs are fragmenting the equity market into micro-segments; this is a ESG-adjacent play but explicitly political, not just environmental or governance.",
+        "If this sticks, it validates that fund flows follow sentiment and identity as much as returns\u2014a tailwind for boutique asset managers and a headache for consolidators managing overlapping products.",
+        "The play works only if Musk remains culturally salient; if sentiment shifts, these funds become obsolete or merge back into broader indices\u2014high product churn risk."
+      ],
+      "topics": [
+        "ETF product innovation",
+        "values-based investing",
+        "market fragmentation"
+      ],
+      "highlight": "Niche product targeting values-based exclusion suggests sustained investor appetite for personality-driven or ideology-driven investing strategies, but product viability depends entirely on sustained cultural polarization.",
+      "relevance": 5
+    }
+  },
+  {
     "id": "c372a4600e9f",
     "title": "Inside the Secret Factory That Supplies Ukraine\u2019s War Drones",
     "url": "https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html",
@@ -685,6 +990,108 @@
     }
   },
   {
+    "id": "2afe3cd50440",
+    "title": "Real Estate E&O: The Importance of Specialized Coverage in an Increasingly Complex Market",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877104.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "Professional liability insurance for real estate professionals&#8211;commonly referred to as errors and omissions (E&#38;O) coverage&#8211;is often treated as a routine placement. Yet, for brokers advising clients involved in real estate, this line of business presents both persistent risk and a &#8230;",
+    "summary_ai": {
+      "digest": "Real estate E&O insurance is a growing but underserved market where brokers often treat coverage as routine despite rising complexity in transactions and liability exposure.",
+      "summary_long": "Professional liability insurance for real estate professionals (E&O) is frequently mishandled as a commodity product, but transaction complexity, regulatory changes, and emerging risks are creating genuine demand for specialized coverage. The article argues that brokers miss revenue and client-retention opportunities by not positioning E&O as a strategic advisory line rather than a checkbox. For insurers and managing general agents (MGAs), this signals a gap in the market where specialized underwriting and claims expertise can differentiate. The piece does not flag a specific deal, regulatory action, or capital event, but identifies an operational and market-structure inefficiency in the insurance distribution value chain.",
+      "talking_points": [
+        "Real estate E&O is a structurally undermonetized distribution segment\u2014brokers don't position it as strategic advice, so they leave margin on the table and invite client defection.",
+        "Increasing transaction complexity (SPAC deals, ESG due diligence, climate risk) is raising the floor on coverage adequacy, creating upside for MGAs and specialty insurers with deep underwriting.",
+        "Brokers treating E&O as a commodity miss retention and cross-sell: properly risk-managed clients generate stickier relationships and referral flow."
+      ],
+      "topics": [
+        "specialty insurance",
+        "E&O market structure",
+        "real estate risk",
+        "broker distribution"
+      ],
+      "highlight": null,
+      "relevance": 4
+    }
+  },
+  {
+    "id": "073a0ba0984d",
+    "title": "Snapshot: Environmental and Construction Professional Liability Insurance Market",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877100.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "Uncertainty in the economy and environmental regulation, the continuing impact of social inflation, and the construction industry&#8217;s ongoing business challenges are complicating exposures for project owners, developers, and contractors. Amid these trends, the environmental and construction professional liability insurance market &#8230;",
+    "summary_ai": {
+      "digest": "Environmental and construction professional liability insurance market facing headwinds from economic uncertainty, regulatory flux, and social inflation; no specific deal or capital event named in excerpt.",
+      "summary_long": "The environmental and construction professional liability insurance market is navigating multiple structural pressures: macroeconomic uncertainty, evolving environmental regulation, rising social inflation (higher jury awards and settlement costs), and sector-specific challenges in construction. These dynamics are creating claim complexity and pricing pressure across project owners, developers, and contractors. The excerpt does not detail any M&A, rate actions, or regulatory enforcement, suggesting this is a market-condition snapshot rather than a catalyst piece.",
+      "talking_points": [
+        "Social inflation and regulatory uncertainty are compounding claims frequency and severity in construction and environmental liability.",
+        "No M&A, underwriting action, or capital event disclosed; this reads as a sector-condition summary, not a deal or enforcement trigger."
+      ],
+      "topics": [
+        "professional liability insurance",
+        "construction insurance",
+        "social inflation",
+        "environmental regulation"
+      ],
+      "highlight": null,
+      "relevance": 4
+    }
+  },
+  {
+    "id": "dcc618502415",
+    "title": "Traders braced for won volatility after blockbuster SK Hynix listing",
+    "url": "https://www.ft.com/content/b433644d-caba-4962-8d60-f46fcd9716f9",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T01:40:58+00:00",
+    "summary_raw": "South Korean chipmaker set to repatriate more than $26bn from share sale over the next month",
+    "summary_ai": {
+      "digest": "SK Hynix's $26B+ share sale will create significant won liquidity flows over the next month, potentially moving FX volatility and cross-border capital patterns.",
+      "summary_long": "SK Hynix, a major South Korean memory-chip manufacturer, is executing a blockbuster equity offering that will repatriate over $26 billion in proceeds into South Korea over the coming weeks. The scale and speed of capital repatriation\u2014driven by share sale settlement mechanics\u2014is expected to create unusual FX and liquidity dynamics in the won. For FIG practitioners, this signals potential volatility in Korean asset prices, currency hedging costs, and capital flows into Korean financial institutions. It's a tactical macro signal worth flagging if he has any Korea-facing exposure or clients with Asia-ex-Japan allocations.",
+      "talking_points": [
+        "SK Hynix repatriating $26B+ over one month creates a meaningful technical flow into the won; watch for FX vol and cross-border rate implications.",
+        "Large equity offerings with staggered settlement can dislocate short-term liquidity and create tactical trading opportunities for those positioned ahead.",
+        "If covering Korean banks or wealth managers, this is material inflow context for Q3 positioning and client capital deployment patterns."
+      ],
+      "topics": [
+        "FX-flows",
+        "capital-repatriation",
+        "Asian-rates",
+        "liquidity-event"
+      ],
+      "highlight": "$26B repatriation over ~4 weeks into a mid-sized currency creates a rare technical dislocation signal worth monitoring if you have Korea exposure.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "7b68d9f9bfe2",
+    "title": "New Memory ETFs Look to Cache In on DRAM\u2019s Historic Success",
+    "url": "https://www.thedailyupside.com/etf/thematics-sectors/new-memory-etfs-look-to-cache-in-on-drams-historic-success/",
+    "source": "The Daily Upside",
+    "section": "Newsletters",
+    "date": "2026-07-13T04:02:00+00:00",
+    "summary_raw": "<p>The post <a href=\"https://www.thedailyupside.com/etf/thematics-sectors/new-memory-etfs-look-to-cache-in-on-drams-historic-success/\">New Memory ETFs Look to Cache In on DRAM\u2019s Historic Success</a> appeared first on <a href=\"https://www.thedailyupside.com\">The Daily Upside</a>.</p>",
+    "summary_ai": {
+      "digest": "New memory ETFs are launching to capture DRAM semiconductor upside as chip cycles recover. The products target retail exposure to a historically volatile but high-return hardware subsector.",
+      "summary_long": "Memory ETFs (DRAM, NAND flash) are emerging as thematic investment vehicles to isolate semiconductor supply-chain gains. Unlike broad chip ETFs, these target a specific hardware layer with distinct cyclicality and pricing power. The pitch: memory cycles lag logic cycles, creating tactical entry windows; DRAM historically compounds at high single-digit to low double-digit CAGRs in upswings. The risk is that these remain niche products\u2014memory cycles are notoriously volatile, and retail investors typically lack the sophistication to time or duration-manage the trade. From a wealth-management distribution angle, this is a specimen of the \"thematic/outcome-oriented ETF\" arms race competing for AUM.",
+      "talking_points": [
+        "Memory ETFs carve out a hardware subsector with 10\u201315-year cyclicality; differentiated from broad semis on timing and vol.",
+        "Thematic/narrow ETF launches signal that product teams are chasing fractional AUM gains in increasingly granular sleeves\u2014crowding risk in launches.",
+        "If Lucius is tracking specialty-finance or asset-management business model shifts, this is a small tell on distribution competition and retail thematic appetite."
+      ],
+      "topics": [
+        "specialty-etf-launches",
+        "semiconductor-thematic-investing",
+        "retail-wealth-distribution"
+      ],
+      "highlight": "Memory ETFs isolate a hardware subsector with distinct cyclicality from logic chips\u2014useful for tactical timing but primarily a distribution/AUM play rather than a fundamental insight.",
+      "relevance": 4
+    }
+  },
+  {
     "id": "f059e03a7b4e",
     "title": "Winston Marshall podcasts with me on AI",
     "url": "https://marginalrevolution.com/marginalrevolution/2026/07/winston-marshall-podcasts-with-me-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=winston-marshall-podcasts-with-me-on-ai",
@@ -704,32 +1111,6 @@
         "podcast"
       ],
       "highlight": "None \u2014 this is a meta-announcement with no substantive detail that would survive a skim.",
-      "relevance": 3
-    }
-  },
-  {
-    "id": "75dbfa11c78f",
-    "title": "Your data built the AI boom \u2014 but Big Tech is pocketing 100% of the equity",
-    "url": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-11T16:01:00+00:00",
-    "summary_raw": "Your share of the AI wealth is a right \u2014 not a handout. Here is how we claw back our money.",
-    "summary_ai": {
-      "digest": "Opinion piece arguing individuals should capture equity value from their data used in AI training; proposes data ownership frameworks but lacks concrete mechanism or market evidence.",
-      "summary_long": "The article frames data contribution to AI models as a property right, suggesting individuals deserve compensation or equity participation in the wealth generated by large language models and similar systems. It critiques the current model where tech companies extract and monetize user data without direct compensation to data subjects. The piece advocates for data ownership models but remains largely conceptual\u2014it does not detail how such compensation would be implemented, priced, or legally enforced. No hard numbers, precedent, or working example is provided to test feasibility against tech companies' incentives or regulatory constraints.",
-      "talking_points": [
-        "Framing data as intellectual property or equity in AI is philosophically clean but legally and operationally unresolved\u2014no tech platform has implemented working 'data-to-equity' conversion.",
-        "The article ignores the actual challenge: attribution and valuation at scale; millions of data points from millions of users make per-unit compensation economically impractical.",
-        "If pursued via regulation, this would apply equally to all Big Tech, creating a compliance arms race but unlikely to force material equity redistribution without enforcement teeth."
-      ],
-      "topics": [
-        "AI governance",
-        "data ownership",
-        "tech regulation",
-        "wealth distribution"
-      ],
-      "highlight": null,
       "relevance": 3
     }
   },
@@ -798,6 +1179,46 @@
         "behavioral-finance",
         "wealth-advisory"
       ],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "a91a98893edc",
+    "title": "Why Consistency Beats Creativity in Insurance Marketing",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/07/13/877108.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T00:00:00+00:00",
+    "summary_raw": "Have you ever walked into an insurance conference and realized you already know who half the exhibitors are? Not because you&#8217;ve done business with them or met their team, but because you&#8217;ve seen their emails, read their articles, noticed their &#8230;",
+    "summary_ai": {
+      "digest": "Insurance Journal piece argues that consistent brand messaging and content cadence outperform creative campaigns in insurance marketing effectiveness.",
+      "summary_long": "The article posits that insurance companies achieve better market penetration and brand recall through disciplined, repetitive marketing execution rather than flashy creative concepts. The observation that conference attendees recognize vendors primarily through consistent touchpoints (emails, articles, sponsorships) rather than prior business relationships suggests that frequency and presence compound over time. This has implications for how insurers allocate marketing budgets and how they think about competitive positioning in a crowded field. The piece is fundamentally about marketing ROI and brand strategy, not transaction activity or capital events.",
+      "talking_points": [
+        "Consistency in touchpoints builds recognition faster than creative spend \u2014 relevant for understanding how fintech or specialty insurance upstarts gain traction.",
+        "Insurance buyers respond to repeated exposure; messaging discipline may matter more than campaign novelty in a long-sales-cycle sector."
+      ],
+      "topics": [
+        "insurance-marketing",
+        "brand-strategy"
+      ],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "be366c050c4e",
+    "title": "Declarations",
+    "url": "https://www.insurancejournal.com/magazines/mag-declarations/2026/07/13/877114.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-13T04:00:56+00:00",
+    "summary_raw": "",
+    "summary_ai": {
+      "digest": "Declarations",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
       "highlight": null,
       "relevance": 3
     }
@@ -939,23 +1360,6 @@
       ],
       "highlight": null,
       "relevance": 2
-    }
-  },
-  {
-    "id": "6d68d5056a87",
-    "title": "Is it better to spend my savings now so I can delay taking Social Security? How do I choose?",
-    "url": "https://www.marketwatch.com/story/my-retirement-savings-will-suffer-if-i-delay-social-security-how-do-i-choose-between-the-two-a85273e3?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-11T16:44:00+00:00",
-    "summary_raw": "\u201cBy claiming earlier, I could preserve more of my portfolio and allow those assets to continue compounding.\u201d",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
-      "highlight": null,
-      "relevance": 1
     }
   },
   {

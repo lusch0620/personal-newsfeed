@@ -1,77 +1,108 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Market rotation signals as AI trade cools, while Goldman deepens China AI positioning.",
+    "lede": "Sector rotation signals and Goldman's China AI positioning as market breadth expands beyond mega-cap tech.",
     "bullets": [
       {
-        "text": "ETF strategist Mike Akins flagging underperforming sectors as rotation opportunity as AI trade loses momentum\u2014potential six-month upside window.",
+        "text": "ETF strategist recommends rotating into underperforming sectors as AI trade cools, signaling potential mean reversion opportunity for positioned investors.",
         "refId": "41c27c0e8512",
         "source": "CNBC Finance"
       },
       {
-        "text": "Goldman Sachs published competitive positioning framework on Chinese AI models, signaling strategic sector focus without concrete deal or partnership announcements.",
+        "text": "Goldman Sachs published competitive framework ranking Chinese AI models, telegraphing the bank's strategic focus on the sector without announcing specific deals yet.",
         "refId": "b94d24154e3a",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "XY Planning Network's Sapphire hits $1B AUM milestone amid fee pushback, but industry observers say the pricing is defensible.",
+    "lede": "No stories in this lane today.",
+    "bullets": []
+  },
+  "FIG \u2014 Insurance": {
+    "lede": "5 stories spanning housing insurance innovation, flood coverage gaps, market consolidation, and D&O headwinds.",
     "bullets": [
       {
-        "text": "XY Planning Network's Sapphire platform crossed $1 billion in AUM, drawing criticism over fee structure despite reaching the symbolic threshold.",
-        "refId": "6996684bc783",
-        "source": "RIABiz"
+        "text": "NYC launching city-backed affordable housing insurance program with Pinnacle Actuaries building the framework; now seeking private-sector partners to capitalize and operate.",
+        "refId": "ffa2aeec9540",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Michael Kitces defends Sapphire's fees as justified by service depth and lower total cost versus alternatives for RIAs seeking more comprehensive support.",
-        "refId": "6996684bc783",
-        "source": "RIABiz"
+        "text": "Flood insurance gap widening as climate-driven rainfall outpaces NFIP capacity\u2014Moody's warns of mounting financial stress for local governments and homeowners.",
+        "refId": "ca46a80e8362",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Independent agents gained 60 bps of P&C market share to 62.1% YoY, signaling channel resilience amid consolidation.",
+        "refId": "1a89697b912e",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "D&O market facing margin compression and tighter underwriting in 2026 as AM Best flags capacity constraints and pricing pressure.",
+        "refId": "563e03a5ef9d",
+        "source": "Insurance Journal"
       }
     ]
   },
-  "FIG \u2014 Insurance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
-  },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "AI adoption creates competitive moat in European banking, while Malaysian digital bank expands beyond payments.",
+    "bullets": [
+      {
+        "text": "Visa study warns European banks: early AI adopters will outperform laggards by 2030, signaling widening performance gap in retail banking.",
+        "refId": "687a624904c5",
+        "source": "Finextra"
+      },
+      {
+        "text": "GXBank (Malaysia's first digital bank) partners with Firsty to offer in-app mobile data top-ups, pivoting toward lifestyle platform positioning.",
+        "refId": "85474bcff9c3",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
     "bullets": []
   },
   "Markets & Macro": {
-    "lede": "Four markets stories flagging structural shifts: UK inflation hitting lower-income households hard, mega-PE dominance widening, memory chip oversupply despite AI, and summer volatility risks ahead.",
+    "lede": "Four stories on market structure shifts: UK inflation hitting lower-income households harder, PE mega-funds dominating fundraising, China tightening bond ratings, and AI rebranding failing to sustain valuations.",
     "bullets": [
       {
-        "text": "UK inflation asymmetry\u2014lower-income households facing 3\u20134pp higher inflation than wealthy due to energy/food exposure\u2014reshapes retail banking credit risk and deposit funding mix.",
+        "text": "UK inflation creates 3\u20134 percentage point gap between lower and higher-income households due to energy/food costs, reshaping consumer credit risk and deposit dynamics in retail banking.",
         "refId": "77967c9d34c5",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Top 20 PE firms pulled in $519B in H1 2026 (+27% YoY) while smaller funds struggle; concentration signals consolidation pressure in sub-scale segment.",
+        "text": "Top 20 PE firms raised $519B in H1 2026 (+27% YoY) while smaller funds struggle; market consolidation risk as capital concentrates in mega-funds.",
         "refId": "fe3ad57cc805",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Memory chip prices falling despite AI boom\u2014overcapacity emerging and challenging the narrative that AI demand has killed cyclicality in semiconductors.",
-        "refId": "df86999767e3",
+        "text": "Chinese regulators pressuring ratings agencies to stop awarding top triple-A grades to higher-yielding corporates, tightening credit standards across the market.",
+        "refId": "ef5e077f109f",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Three summer volatility flashpoints: reformist Fed chair, yen weakness, and earnings landmines signal potential cycle inflection risk.",
-        "refId": "2ad1b923890b",
+        "text": "Companies rebranding around AI see initial valuation relief rallies fade as fundamentals remain unchanged\u2014durability problem for the pivot narrative.",
+        "refId": "45e447a800a0",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Thin briefing day\u2014mostly generic advisor content and sports media noise with minimal FIG relevance.",
+    "lede": "ETF market shows rare redemption week amid rotation; niche product launches emerge around values-based exclusion and semiconductor subsectors.",
     "bullets": [
       {
-        "text": "MLS poised to capitalize on World Cup media spillover despite USMNT's early exit; potential upside for broadcasters and sports equity investors.",
-        "refId": "0d1b2aea5a07",
+        "text": "ETF flows turned negative in unusual reversal across equities, bonds, and alternatives\u2014worth understanding what triggered the redemptions.",
+        "refId": "93673e809ed8",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "'Ex-Elon' ETFs launching to capture investors fleeing Tesla/SpaceX exposure due to Musk's public persona\u2014values-based exclusion becoming viable product category.",
+        "refId": "8e0ae1231bdf",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "New memory/DRAM ETFs hitting market as chip cycles recover, targeting retail play in historically volatile but high-return hardware subsector.",
+        "refId": "7b68d9f9bfe2",
         "source": "The Daily Upside"
       }
     ]
@@ -81,47 +112,47 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Health outcomes improving sharply (dementia down 67% in elderly Americans) while mental health diagnoses surge despite stable impairment\u2014plus a reset in AI competitive dynamics as open-source models close capability gaps.",
+    "lede": "Health data shifts dominate today's read: dementia prevalence collapsing while mental illness diagnoses soar, plus AI moats fundamentally reshaping as open-source catches up to frontier models.",
     "bullets": [
       {
-        "text": "Dementia prevalence among Americans 85-89 collapsed from 30% to 10% over four decades, per JAMA research\u2014a major epidemiological win that deserves more attention.",
+        "text": "Dementia prevalence among 85-89 year-olds plummeted from 30% to 10% over four decades\u2014a major epidemiological win documented in JAMA research.",
         "refId": "2c16161196c3",
         "source": "Marginal Revolution"
       },
       {
-        "text": "Open-source AI models now match frontier capabilities at 1/10th the cost, forcing investors to abandon 'better model = moat' thinking and hunt for sustainable competitive advantages instead.",
+        "text": "Open-source AI models now match frontier capabilities at 1/10th the cost, forcing founders to build competitive moats beyond raw model performance\u2014a fundamental shift in AI economics.",
         "refId": "fc03107930b6",
         "source": "The AI Corner"
       },
       {
-        "text": "UK youth mental illness diagnoses skyrocketed while functional impairment stayed flat\u2014diagnostic creep or genuine labeling shift, but a signal to watch for policy/pharma implications.",
+        "text": "UK mental illness diagnoses among young people surged while functional impairment stayed flat, suggesting diagnostic creep rather than true prevalence increases.",
         "refId": "8c719342db13",
         "source": "Marginal Revolution"
       }
     ]
   },
   "all": {
-    "lede": "Five stories spanning fintech scaling, macro inequality, PE concentration, and sector-specific headwinds.",
+    "lede": "Five stories spanning UK retail banking stress, PE mega-fund dominance, and insurance market gaps\u2014with housing and flood coverage emerging as key risk management challenges.",
     "bullets": [
       {
-        "text": "XY Planning Network's Sapphire platform hit $1B AUM but faces fee pushback; Kitces argues higher fees justified by service depth and RIA cost savings versus alternatives.",
-        "refId": "6996684bc783",
-        "source": "RIABiz"
-      },
-      {
-        "text": "UK inflation hits lower-income households 3\u20134 percentage points harder than wealthy due to energy/food costs\u2014reshaping consumer credit risk and deposit dynamics across retail banking.",
+        "text": "UK inflation hits lower-income households 3\u20134 percentage points harder than wealthy consumers due to energy and food costs, reshaping retail banking's credit risk and funding profiles.",
         "refId": "77967c9d34c5",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Top 20 PE firms raised $519B in H1 2026 (up 27% YoY), signaling two-tier market concentration and consolidation risk for sub-scale funds.",
+        "text": "Top 20 PE firms raised $519B in H1 2026 (+27% YoY) while smaller funds struggle\u2014consolidation risk mounting in a two-tier market.",
         "refId": "fe3ad57cc805",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Memory chip prices falling despite AI-driven demand signals overcapacity and questions whether structural AI demand truly eliminated chip sector cyclicality.",
-        "refId": "df86999767e3",
-        "source": "Financial Times Markets"
+        "text": "NYC building actuarial framework for city-backed affordable housing insurance and seeking private partners to capitalize\u2014potential M&A or partnership play in residential risk.",
+        "refId": "ffa2aeec9540",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Widening flood insurance gap (claims outpacing NFIP capacity) creating financial stress for local govs and homeowners; independent agents gained 60 bps market share in 2025.",
+        "refId": "ca46a80e8362, 1a89697b912e",
+        "source": "Insurance Journal"
       }
     ]
   },
