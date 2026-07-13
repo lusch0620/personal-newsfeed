@@ -79,6 +79,32 @@
     }
   },
   {
+    "id": "ab39c6cbdb7c",
+    "title": "Russell Investments' sale to CalPERS expands existing ties and paves way for Vanguard-like reputational boost -- not to mention a reprieve from debt albatross, if it plays its cards right, analyst says",
+    "url": "https://riabiz.com/a/2026/7/13/russell-investments-sale-to-calpers-expands-existing-ties-and-paves-way-for-vanguard-like-reputational-boost-not-to-mention-a-reprieve-from-debt-albatross-if-it-plays-its-cards-right-analyst-says",
+    "source": "RIABiz",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-13T20:50:39+00:00",
+    "summary_raw": "The Seattle money manager says a 'mutual familiarity and a shared understanding' undergird its relationship with the $580-billion pension system and Russell sees a 'significant opportunity' for 'footprint' beyond 40,000 advisors",
+    "summary_ai": {
+      "digest": "CalPERS is acquiring Russell Investments; the $580B pension system gains a multi-asset manager while Russell sheds debt and pivots to non-profit governance, mirroring the Vanguard playbook.",
+      "summary_long": "Russell Investments, a Seattle-based multi-asset manager, is being acquired by CalPERS, one of the world's largest public pension systems. The deal leverages an existing relationship and positions Russell to expand beyond its current 40,000-advisor footprint. For Russell, the acquisition eliminates a debt burden and shifts governance to non-profit status\u2014a structure the analyst compares to Vanguard's reputation and stakeholder alignment. CalPERS gains diversified asset management capabilities and aligns Russell's interests with long-term institutional capital. The deal signals broader consolidation in wealth and asset management, where scale, trust, and governance structure now drive valuation and competitive positioning.",
+      "talking_points": [
+        "CalPERS acquires Russell Investments; Russell sheds debt and converts to non-profit governance structure modeled on Vanguard.",
+        "Russell has 40,000 advisors in network; deal unlocks growth beyond current footprint leveraging CalPERS' $580B balance sheet and reputation.",
+        "Non-profit conversion removes debt albatross and aligns stakeholder incentives\u2014increasingly a competitive and reputational moat in asset/wealth management."
+      ],
+      "topics": [
+        "RIA consolidation",
+        "asset-manager M&A",
+        "governance-structure arbitrage",
+        "pension-fund acquisitions"
+      ],
+      "highlight": "Russell Investments sale to CalPERS; non-profit conversion eliminates debt and enables Vanguard-like reputational positioning.",
+      "relevance": 8
+    }
+  },
+  {
     "id": "fe3ad57cc805",
     "title": "Big private equity firms pull in more cash as winners take all",
     "url": "https://www.ft.com/content/b7130eb3-c8bd-460f-9d8a-082e7bb48b48",
@@ -441,32 +467,6 @@
     }
   },
   {
-    "id": "75268aed7f5a",
-    "title": "A hot inflation reading this week could mean a rate hike soon, Fed\u2019s Waller says",
-    "url": "https://www.marketwatch.com/story/a-hot-inflation-reading-this-week-could-mean-a-rate-hike-soon-feds-waller-says-15acf7a2?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T17:10:00+00:00",
-    "summary_raw": "There is a chance the Federal Reserve will need to raise interest rates soon if inflation readings this week disappoint, Fed governor Christopher Waller said Monday.",
-    "summary_ai": {
-      "digest": "Fed Governor Christopher Waller signals a rate hike is possible if this week's inflation data comes in hot; officials remain divided on the path forward.",
-      "summary_long": "Waller's conditional statement on inflation data creates near-term event risk for rate expectations. The division among Fed officials reflects genuine uncertainty about the disinflationary trend and suggests the Fed is data-dependent rather than committed to a hold. For FIG borrowers and lenders, this frames the next 10 days as a pivotal micro-cycle: a beat on CPI could reset duration risk, steepen curves, and trigger a repricing of bank net interest margins and credit spreads. The ambiguity also matters for deal timing\u2014banks and PE sponsors planning capital raises or M&A will be watching this tape closely.",
-      "talking_points": [
-        "Waller's hawkish conditional keeps the door open to a surprise hike if CPI prints hot\u2014eliminating the Fed put the market had priced in.",
-        "Fed division signals no consensus on the cycle path, which means volatility around data days will persist and financing windows will remain narrow.",
-        "A hike would extend duration headwinds for mortgage servicing, auto finance, and other rate-sensitive FIG verticals, and widen credit spreads\u2014affecting deal margins and refinancing costs."
-      ],
-      "topics": [
-        "Fed policy path",
-        "inflation data",
-        "rate expectations",
-        "NIM sensitivity"
-      ],
-      "highlight": "If CPI beats expectations this week, Waller's stance reopens the possibility of a near-term rate hike, resetting the consensus hold and spiking duration/credit risk.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "6a46f4595b79",
     "title": "CMBS Special Servicing Rate Climbs in June 2026, Led by Large Retail, Office, & Lodging Loans",
     "url": "https://www.trepp.com/trepptalk/special-servicing-rate-climbs-in-june-2026",
@@ -542,6 +542,32 @@
         "capex funding"
       ],
       "highlight": "Institutional bond portfolios are hitting concentration limits on single hyperscalers and tech sector as a whole, creating potential illiquidity or repricing risk if demand cools.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "5ec124a80deb",
+    "title": "Betterment Faces Class Action Lawsuit Over Cash Sweep Accounts",
+    "url": "https://www.wealthmanagement.com/regulation-compliance/betterment-faces-class-action-over-cash-sweep-accounts",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-13T20:14:57+00:00",
+    "summary_raw": "A New Jersey client claims the robo advisor profited by sweeping excess cash into deposit accounts with participating banks that did not generate interest.",
+    "summary_ai": {
+      "digest": "Betterment faces class action lawsuit alleging it swept client cash into non-interest-bearing deposit accounts at partner banks without compensation to clients, generating hidden profits for the firm.",
+      "summary_long": "A New Jersey plaintiff has filed a class action against Betterment, claiming the robo advisor systematically moved excess cash from client portfolios into sweep accounts at partner banks offering zero or near-zero interest rates. The suit alleges Betterment captured the spread between client deposits and what banks paid out, creating a hidden revenue stream undisclosed to clients. This echoes a 2015 SEC settlement with Betterment over similar practices, though the firm had since implemented interest-bearing sweep options. The lawsuit targets the firm's profitability model and fiduciary duty standards for digital advisors managing retail cash. The case surfaces competitive pressure in robo advisory as margins compress and AUM growth slows.",
+      "talking_points": [
+        "Betterment is defending against allegations it used zero-interest sweep accounts to generate undisclosed revenue from client cash holdings\u2014a practice it settled with the SEC over a decade ago.",
+        "The lawsuit raises fiduciary questions for the entire robo-advisory category: whether offering any sweep option (even low-rate) satisfies best-execution obligations when higher-yielding alternatives exist.",
+        "This creates regulatory risk for Betterment's business model and potential precedent for enforcement or advisory-rule tightening on cash management disclosure and sweep mechanics."
+      ],
+      "topics": [
+        "robo-advisor regulation",
+        "fiduciary duty litigation",
+        "cash sweep disclosure",
+        "fintech compliance"
+      ],
+      "highlight": "Class action alleges Betterment profited from sweeping client cash into non-interest-bearing accounts without disclosure\u2014echoing a 2015 SEC settlement but raising renewed questions about robo-advisor fiduciary standards.",
       "relevance": 7
     }
   },
@@ -1344,32 +1370,6 @@
     }
   },
   {
-    "id": "0408978927ab",
-    "title": "Wall Street tech stocks fall after Asian chipmakers hammered",
-    "url": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T16:01:36+00:00",
-    "summary_raw": "Oil rises as US-Iran hostilities escalate and investors go into \u2018risk-off\u2019 mode",
-    "summary_ai": {
-      "digest": "Tech stocks slide globally; memory chipmakers under pressure. Oil rallies on US-Iran tensions; investors rotate to risk-off positioning.",
-      "summary_long": "Asian memory chipmakers (DRAM, NAND) are experiencing sharp declines amid broader tech weakness, likely driven by demand concerns and cyclical headwinds in semiconductor supply chains. Concurrent oil strength reflects geopolitical risk premium as US-Iran hostilities intensify, triggering classic risk-off behavior: equities sold, commodities and safe havens bid. For a FIG analyst, the macro signal is clear: credit spreads will likely widen, volatility will spike, and bank trading revenues may benefit short-term, but loan growth and M&A appetite will cool as risk premiums reset.",
-      "talking_points": [
-        "Memory chip selloff signals demand destruction in tech capex; correlates with bank lending contraction in TMT.",
-        "Oil and geopolitical premium rising into risk-off = widening credit spreads and likely Fed hold/pause extension.",
-        "Tech sector weakness pressures wealth management AUM growth; fintech funding environment tightens."
-      ],
-      "topics": [
-        "market-volatility",
-        "credit-spreads",
-        "geopolitical-risk",
-        "tech-sector-weakness"
-      ],
-      "highlight": "Oil strength on US-Iran escalation + simultaneous tech selloff = textbook risk-off unwind; watch credit spreads for M&A funding impact.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "240368e5d29a",
     "title": "Ardea Partners taps MD from PJT for secondaries advisory",
     "url": "https://www.secondariesinvestor.com/ardea-partners-taps-md-from-pjt-for-secondaries-advisory/",
@@ -1474,56 +1474,6 @@
     }
   },
   {
-    "id": "8655461ddda5",
-    "title": "Inflation is primed to fall for the first time in 6 years. Will high prices drop too?",
-    "url": "https://www.marketwatch.com/story/inflation-is-primed-to-fall-for-the-first-time-in-6-years-will-high-prices-drop-too-285ecf10?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T18:13:00+00:00",
-    "summary_raw": "A surge in U.S. inflation to a three-year high has begun to recede, but life isn\u2019t going to get more affordable for Americans anytime soon.",
-    "summary_ai": {
-      "digest": "U.S. inflation has peaked at a three-year high and is beginning to decline, but price levels are unlikely to fall in nominal terms, meaning cost-of-living relief will remain limited.",
-      "summary_long": "The article distinguishes between disinflation (the rate of price increases slowing) and deflation (absolute price declines). After a recent surge, inflation metrics are rolling over, but this does not mean prices will drop. Consumers should expect prices to remain elevated even as the pace of increases moderates. The piece addresses a common misconception: falling inflation rates do not automatically translate to falling prices. This dynamic is critical for understanding real purchasing power and consumer sentiment, which remains depressed despite improving headline inflation trends. For FIG professionals modeling consumer credit, deposit behavior, and loan performance, the gap between inflation cooling and prices staying sticky is material.",
-      "talking_points": [
-        "Inflation is rolling over from a three-year high, but prices themselves will stay sticky \u2014 disinflation, not deflation.",
-        "Consumer psychology and credit behavior are driven by absolute price levels, not rate-of-change, so relief will lag the inflation narrative.",
-        "This matters for modeling loan defaults, deposit inflows, and regional bank NII as real incomes don't meaningfully improve even as headline inflation improves."
-      ],
-      "topics": [
-        "inflation-trajectory",
-        "consumer-purchasing-power",
-        "credit-cycle-signals"
-      ],
-      "highlight": "Disinflation (lower inflation rates) does not mean deflation (falling prices), so consumers won't see nominal price relief even as inflation moderates.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "bc35d9dbb212",
-    "title": "Meta and Amazon are leading a trillion-dollar Big Tech spending spree",
-    "url": "https://www.marketwatch.com/story/meta-and-amazon-are-leading-a-trillion-dollar-big-tech-spending-spree-17a8156d?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T18:36:00+00:00",
-    "summary_raw": "As the cost of AI infrastructure continues to increase, Morgan Stanley says Big Tech capital expenditures are on track to hit new records.",
-    "summary_ai": {
-      "digest": "Morgan Stanley projects Big Tech capex (led by Meta and Amazon) will hit record levels as AI infrastructure costs surge.",
-      "summary_long": "Major technology companies are accelerating capital spending to build out AI infrastructure, with Meta and Amazon at the forefront. Morgan Stanley's analysis shows this spending wave is on track to break historical records. For FIG, this matters because it signals sustained demand for data-center financing, power infrastructure deals, and the financial engineering around mega-cap tech balance sheets\u2014which can create refinancing pressure, M&A optionality, or credit-market dislocation if capex begins to compress. The trillion-dollar scale also affects liquidity available for other sectors and can influence the financing environment for regional banks and specialty finance firms competing for capital.",
-      "talking_points": [
-        "Meta and Amazon leading a capex surge suggests sustained AI arms race; financing and refinancing needs will pressure the credit and capital markets through 2026\u201327.",
-        "Record-level Big Tech spending could tighten liquidity for mid-market deal financing, affecting regional bank loan syndication and specialty finance demand.",
-        "If capex begins to plateau or reverse, watch for balance-sheet rationalization in tech and potential M&A among infrastructure plays\u2014creating downstream FIG deal flow."
-      ],
-      "topics": [
-        "big-tech-capex",
-        "ai-infrastructure",
-        "capital-markets-liquidity"
-      ],
-      "highlight": "Record Big Tech capex levels reduce available capital for regional banks and specialty finance competitors, tightening the financing environment through 2026.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "c5c5c7558bc8",
     "title": "Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible",
     "url": "https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html",
@@ -1546,6 +1496,58 @@
         "bank NIM pressure"
       ],
       "highlight": "Waller's warning that inflation 'has expanded beyond' energy and tariffs keeps the door open to further hikes, complicating the rate-cut narrative embedded in current bank valuations.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "0408978927ab",
+    "title": "Stocks and bonds drop as mounting US-Iran tensions spook investors",
+    "url": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T20:41:10+00:00",
+    "summary_raw": "Oil rises as US-Iran hostilities escalate and investors go into \u2018risk-off\u2019 mode",
+    "summary_ai": {
+      "digest": "Tech stocks slide globally; memory chipmakers under pressure. Oil rallies on US-Iran tensions; investors rotate to risk-off positioning.",
+      "summary_long": "Asian memory chipmakers (DRAM, NAND) are experiencing sharp declines amid broader tech weakness, likely driven by demand concerns and cyclical headwinds in semiconductor supply chains. Concurrent oil strength reflects geopolitical risk premium as US-Iran hostilities intensify, triggering classic risk-off behavior: equities sold, commodities and safe havens bid. For a FIG analyst, the macro signal is clear: credit spreads will likely widen, volatility will spike, and bank trading revenues may benefit short-term, but loan growth and M&A appetite will cool as risk premiums reset.",
+      "talking_points": [
+        "Memory chip selloff signals demand destruction in tech capex; correlates with bank lending contraction in TMT.",
+        "Oil and geopolitical premium rising into risk-off = widening credit spreads and likely Fed hold/pause extension.",
+        "Tech sector weakness pressures wealth management AUM growth; fintech funding environment tightens."
+      ],
+      "topics": [
+        "market-volatility",
+        "credit-spreads",
+        "geopolitical-risk",
+        "tech-sector-weakness"
+      ],
+      "highlight": "Oil strength on US-Iran escalation + simultaneous tech selloff = textbook risk-off unwind; watch credit spreads for M&A funding impact.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "f4117f4c6c1b",
+    "title": "US launches strikes after Trump warns Washington will hit Iran \u2018hard\u2019",
+    "url": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T21:33:39+00:00",
+    "summary_raw": "Price of Brent crude rises to highest in a month as tensions between Washington and Tehran flare",
+    "summary_ai": {
+      "digest": "US military strikes on Iran follow Trump warnings; Brent crude rises to month-high on geopolitical risk premium.",
+      "summary_long": "Escalating US-Iran tensions have triggered military strikes after Trump administration rhetoric warning of hard responses to Iranian actions. Oil markets have repriced upward, with Brent crude hitting its highest level in a month as investors price in supply-chain disruption risk and sustained regional conflict. This geopolitical shock creates near-term volatility in energy costs, which flows through to bank funding costs, mortgage rates, and corporate credit spreads. For FIG, the move signals potential headwinds to credit quality (especially energy and transport-dependent borrowers) and to consumer spending if oil prices persist at elevated levels. The duration and intensity of this conflict will determine whether this becomes a structural shift in the rate/credit environment or a transient risk-off event.",
+      "talking_points": [
+        "Brent at month-high on US-Iran strikes; oil typically a leading indicator for refinancing costs and energy-sector credit stress.",
+        "If crude stays elevated, expect ripple through transportation and logistics credit\u2014watch for covenant pressure on highly leveraged carriers and refiners.",
+        "Unclear how long escalation persists; short-duration shock unlikely to move the Fed, but prolonged conflict could lift inflation expectations and re-anchor rates."
+      ],
+      "topics": [
+        "geopolitical-risk",
+        "energy-markets",
+        "crude-oil-volatility",
+        "credit-stress-signals"
+      ],
+      "highlight": "Brent crude at month-high; sustained elevation would pressure energy-sector credit quality and corporate refinancing costs, rippling to regional bank loan portfolios.",
       "relevance": 6
     }
   },
@@ -1722,32 +1724,6 @@
         "institutional investor repositioning"
       ],
       "highlight": "FTSE undervaluation relative to US comps is attracting international M&A and PE capital\u2014potential deal-flow signal for UK financial-services targets.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "e46a64b8bfc3",
-    "title": "3 reasons PE is targeting European water treatment",
-    "url": "https://www.pehub.com/3-reasons-pe-is-targeting-european-water-treatment/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-13T08:10:13+00:00",
-    "summary_raw": "<p>'The scale of investment required across water and wastewater infrastructure is significant, while the sector faces constraints in terms of skilled labor, specialist equipment and engineering expertise,' Nordic Capital's Andreas N\u00e4svik told PE Hub.</p>\n<p>The post <a href=\"https://www.pehub.com/3-reasons-pe-is-targeting-european-water-treatment/\">3 reasons PE is targeting European water treatment</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
-    "summary_ai": {
-      "digest": "PE firms are targeting European water treatment infrastructure on scale, skilled-labor constraints, and specialist-equipment scarcity\u2014classic PE value-creation angles in regulated utility-adjacent assets.",
-      "summary_long": "European water and wastewater infrastructure requires massive capital deployment, but the sector is fragmented and constrained by labor scarcity, specialist equipment availability, and engineering expertise gaps. Nordic Capital and peers see consolidation and operational leverage as the levers: roll up small operators, standardize procurement, and unlock pricing power in a regulated, essential-service market with high barriers to entry. This is a natural PE platform play\u2014similar to waste, telecom towers, and managed services\u2014where financial and operational engineering can drive returns without significant tech disruption risk.",
-      "talking_points": [
-        "Water treatment is a $500B+ TAM with mandatory capex; PE can buy fragmented regional operators and consolidate procurement and labor models.",
-        "Labor and equipment scarcity are the real constraints, not capital\u2014PE's ops playbook (shared services, training programs, vendor consolidation) directly addresses those.",
-        "Regulatory moat and inflation-linked pricing make this a lower-volatility play than growth fintech, appealing to mega-funds seeking steady cash flow."
-      ],
-      "topics": [
-        "PE infrastructure",
-        "European consolidation",
-        "utility-adjacent assets",
-        "platform strategy"
-      ],
-      "highlight": "Nordic Capital explicitly framing labor and equipment scarcity as the value-creation wedge\u2014this is classic PE ops arbitrage, not a capital-markets play.",
       "relevance": 5
     }
   },
@@ -2087,29 +2063,53 @@
     }
   },
   {
-    "id": "a04bffed06b8",
-    "title": "US states push to repurpose abandoned oil wells",
-    "url": "https://www.ft.com/content/2ca5ae83-cd8e-4d12-ac29-d1a5282846c8",
-    "source": "Financial Times Markets",
+    "id": "3eb11f9d7ac3",
+    "title": "Micron and other chip stocks feel the pain of imported volatility \u2014 blame SK Hynix",
+    "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-feel-the-pain-of-imported-volatility-blame-sk-hynix-f705a0fd?mod=mw_rss_topstories",
+    "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-12T04:00:06+00:00",
-    "summary_raw": "Pennsylvania, Oklahoma and others are finding ways to turn an expensive and polluting problem into a new opportunity",
+    "date": "2026-07-13T20:26:00+00:00",
+    "summary_raw": "The SOX chip index was suffering a unanimous selloff, after SK Hynix\u2019s stock had its worst day in 18 years in South Korea trading.",
     "summary_ai": {
-      "digest": "US states are monetizing abandoned oil wells through repurposing programs\u2014Pennsylvania, Oklahoma and others are converting liabilities into revenue streams via geothermal, carbon capture, and hydrogen storage.",
-      "summary_long": "Abandoned oil and gas wells represent a massive environmental and fiscal liability for US states: remediation costs run into the billions, but states lack dedicated funding. Pennsylvania, Oklahoma, and other oil-producing states are now exploring commercial repurposing\u2014geothermal energy extraction, CO2 sequestration, hydrogen storage, and compressed air energy storage. These programs convert stranded infrastructure into potential revenue or cost-offset vehicles. The shift reflects both environmental pressure and fiscal pragmatism: states can monetize remediation through commercial operators rather than absorb the full cleanup cost. Success depends on commodity prices (CO2, hydrogen, energy) and regulatory clarity around liability transfer.",
+      "digest": "SK Hynix crashed 18-year lows in Seoul; US chip stocks including Micron fell in sympathy, signaling potential memory-chip oversupply or demand weakness.",
+      "summary_long": "SK Hynix, a major DRAM and NAND flash supplier, experienced its worst trading day in nearly two decades, triggering a broad selloff across the Philadelphia Semiconductor Index (SOX). The South Korean chipmaker's collapse typically signals either a demand shock (data center, consumer) or oversupply in memory markets, both of which ripple through US-listed peers like Micron. For a FIG analyst, this matters because memory-chip weakness can indicate early stress in cloud/AI capex (JPMorgan, Nvidia customers) and broader credit-cycle softening. The volatility also affects semiconductor financing and M&A appetite in the sector.",
       "talking_points": [
-        "Pennsylvania and Oklahoma are converting hundreds of thousands of abandoned wells from a cost center into a revenue or offset opportunity via geothermal and carbon capture.",
-        "The play only works if commodity markets (CO2 credits, hydrogen, grid energy) stay attractive\u2014a secondary bet on energy transition economics, not just remediation.",
-        "This is a state-level infrastructure play, but it signals institutional appetite for repurposing stranded physical assets\u2014relevant to PE and corporate M&A in energy transition."
+        "SK Hynix's 18-year low suggests memory-chip demand is cracking \u2014 typically a leading indicator of broader tech-sector deceleration.",
+        "US chip stocks sold off in tandem, implying supply-chain stress or customer inventory correction is global, not isolated.",
+        "Watch for impact on bank financing and M&A appetite in semiconductors if this signals capex pullback from cloud hyperscalers."
       ],
       "topics": [
-        "energy-transition",
-        "state-infrastructure",
-        "asset-repurposing",
-        "carbon-capture"
+        "chip-sector-demand",
+        "memory-oversupply",
+        "equity-volatility-spillover"
       ],
-      "highlight": "States converting remediation liability into revenue via geothermal and carbon storage\u2014a secondary play on energy transition commodity prices.",
-      "relevance": 4
+      "highlight": "SK Hynix's worst day in 18 years is a demand/supply warning signal \u2014 track whether this cascades into bank credit or M&A appetite for chip equipment and foundries.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "65e6dbbb85d6",
+    "title": "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
+    "url": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T21:04:00+00:00",
+    "summary_raw": "Strategic Petroleum Reserve stockpiles are precariously low and have been hit by major equipment failures, leaks and spills, according to a government report.",
+    "summary_ai": {
+      "digest": "U.S. SPR stockpiles are at critically low levels following equipment failures and leaks; Trump administration signaling intent to control Hormuz strait, a geopolitical move with commodity price implications.",
+      "summary_long": "The Strategic Petroleum Reserve\u2014the U.S. government's emergency crude buffer\u2014has deteriorated due to infrastructure failures, leaks, and spills that a government audit flagged as serious. Simultaneously, Trump's stated objective to control the Strait of Hormuz (20% of global oil supply transits there) signals a potential shift in energy geopolitics. Together, these signals suggest tightening crude supply dynamics and volatility in energy markets. For FIG, this matters primarily as a macro condition affecting client portfolios (energy exposure, commodity hedging demand) and credit conditions (energy sector leverage, refinance risk). It does not directly catalyze banking M&A or capital raises, but it contextualizes the risk environment for commodity-linked lending and trading desks.",
+      "talking_points": [
+        "SPR reserves are structurally weakened by maintenance failures\u2014reducing the U.S. emergency buffer just as geopolitical risk around Hormuz rises.",
+        "Trump's Hormuz positioning could tighten global crude supply and spike volatility, affecting energy-sector loan portfolios and hedging demand.",
+        "If crude prices spike on supply anxiety, energy E&P firms face refinance pressure and credit deterioration\u2014a secondary effect on regional and specialty finance."
+      ],
+      "topics": [
+        "energy-macro",
+        "commodity-supply-risk",
+        "geopolitics"
+      ],
+      "highlight": "SPR at critical capacity with active infrastructure failures\u2014reduces U.S. spare crude firepower if Hormuz tensions materialize.",
+      "relevance": 5
     }
   },
   {
@@ -2719,31 +2719,6 @@
     }
   },
   {
-    "id": "c35164cfe74a",
-    "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-    "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T19:00:00+00:00",
-    "summary_raw": "\u201cI\u2019ve always been a little skeptical of the government\u2019s encouragement to delay claiming benefits.\u201d",
-    "summary_ai": {
-      "digest": "Man delays Social Security to 70, receives one payment before dying; raises question about optimal claiming age strategy.",
-      "summary_long": "A reader's brother followed conventional financial advice to delay Social Security claiming until age 70 to maximize lifetime benefits, but died from cancer shortly after receiving his first check. The article uses this anecdote to question whether delaying makes sense given mortality risk and uncertainty. It touches on the classic trade-off between higher monthly payments (delayed claim) versus total dollars received (early claim), but relies on a single sad case rather than actuarial analysis. The piece reflects broader skepticism about whether the government's 'delay to 70' messaging is universally sound advice or context-dependent.",
-      "talking_points": [
-        "Claiming strategy is a portfolio decision: delayed claiming pays off only if you live into your 80s; mortality risk and health status matter more than age alone.",
-        "The implied breakeven is ~80\u201382; if life expectancy or health suggests otherwise, claiming earlier preserves optionality and actual cash.",
-        "This is a marketing/narrative angle for financial advisors: personalized claiming advice (health, liquidity, family longevity) beats one-size-fits-all 'delay to 70' dogma."
-      ],
-      "topics": [
-        "social-security-strategy",
-        "longevity-risk",
-        "retirement-planning"
-      ],
-      "highlight": "Breakeven age for delayed claiming is typically 80\u201382; below that threshold, early claiming often wins.",
-      "relevance": 3
-    }
-  },
-  {
     "id": "92220badef6f",
     "title": "SpaceX\u2019s stock threatens to fall below the IPO price. Do investors face a \u2018crisis\u2019 if it does?",
     "url": "https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories",
@@ -2763,6 +2738,79 @@
         "SpaceX-valuation",
         "market-repricing",
         "mega-cap-tech-rotation"
+      ],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "5cba09c5ba7e",
+    "title": "Navigating growth equity: a Q&A with PSG Equity\u2019s Peter Wilde",
+    "url": "https://www.buyoutsinsider.com/navigating-growth-equity-a-qa-with-psg-equitys-peter-wilde/",
+    "source": "Buyouts Insider",
+    "section": "PE & Deals",
+    "date": "2026-07-13T20:31:59+00:00",
+    "summary_raw": "The growth equity GP\u2019s chairman speaks to Buyouts about growing a business and adapting to AI disruption.",
+    "summary_ai": {
+      "digest": "PSG Equity's chairman discusses growth equity strategy and AI adaptation in an interview format with no specific deal, capital raise, or regulatory trigger disclosed.",
+      "summary_long": "This is a Q&A with Peter Wilde, chairman of PSG Equity (a growth equity firm), covering broad themes around business growth strategies and how the firm is positioning for AI disruption. The piece reads as a thought-leadership interview rather than reporting on a specific transaction, fundraising close, or policy change. No deal sizes, target sectors, check sizes, fund raises, or regulatory catalysts are mentioned. The content is forward-looking commentary on how PSG thinks about growth equity deployment in an AI-shaped landscape.",
+      "talking_points": [
+        "PSG Equity's chairman emphasizes AI adaptation as a strategic priority for growth equity\u2014worth tracking their deployment thesis if you model fintech/alt-asset platforms with AI cost or margin upside.",
+        "Growth equity positioning (vs. buyout or venture) suggests focus on scaling profitable businesses\u2014relevant to specialty finance and wealth-tech, where PSG may be a competing buyer."
+      ],
+      "topics": [
+        "growth-equity-strategy",
+        "ai-disruption",
+        "pe-positioning"
+      ],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "ad7967b64858",
+    "title": "Warburg-backed Bond Vet merges with Small Door Veterinary",
+    "url": "https://www.pehub.com/pe-backed-bond-vet-merges-with-small-door-veterinary/",
+    "source": "PE Hub",
+    "section": "PE & Deals",
+    "date": "2026-07-13T20:34:11+00:00",
+    "summary_raw": "<p>The combined organization will manage over 55 clinics in Northeast, Mid-Atlantic and Midwest markets and plan to add additional locations.</p>\n<p>The post <a href=\"https://www.pehub.com/pe-backed-bond-vet-merges-with-small-door-veterinary/\">Warburg-backed Bond Vet merges with Small Door Veterinary</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
+    "summary_ai": {
+      "digest": "Warburg Pincus-backed Bond Vet merges with Small Door Veterinary to create a 55-clinic network across Northeast, Mid-Atlantic, and Midwest.",
+      "summary_long": "Bond Vet, a venture-backed veterinary services platform supported by Warburg Pincus, has merged with Small Door Veterinary, a direct-to-consumer pet care operator. The combined entity will operate over 55 clinics and pursue geographic expansion. This is a consolidation play in specialty veterinary services\u2014a fragmented, high-margin sector with roll-up dynamics. The deal signals continued PE appetite for healthcare-adjacent consumer services with recurring revenue and unit-economics leverage.",
+      "talking_points": [
+        "Warburg Pincus consolidating vet clinics into a 55-location platform\u2014classic roll-up in a fragmented $40B+ market.",
+        "Direct-to-consumer vet model (Small Door) plus traditional clinic network (Bond Vet) creates both scale and consumer moat.",
+        "Northeast/Mid-Atlantic/Midwest focus suggests regional buildout before national play or exit."
+      ],
+      "topics": [
+        "veterinary-services-rollup",
+        "pe-consolidation",
+        "specialty-healthcare"
+      ],
+      "highlight": "Warburg is merging two vet platforms into a 55-clinic network\u2014classic fragmented-market roll-up play with expansion optionality.",
+      "relevance": 3
+    }
+  },
+  {
+    "id": "8a49de3229b4",
+    "title": "Stock pickers know they can\u2019t outsmart the market. That doesn\u2019t stop them from trying.",
+    "url": "https://www.marketwatch.com/story/stock-pickers-know-they-cant-outsmart-the-market-that-doesnt-stop-them-from-trying-b4fddc41?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T20:35:00+00:00",
+    "summary_raw": "How to satisfy your inner trader without derailing your long-term investment goals.",
+    "summary_ai": {
+      "digest": "MarketWatch piece on stock-picking behavior and the tension between active trading impulse and passive indexing discipline.",
+      "summary_long": "The article addresses the psychological appeal of stock picking despite decades of evidence that most active managers underperform benchmarks. It frames the problem as a tension between the rational case for passive investing and the emotional/intellectual satisfaction of active decision-making. The piece likely offers behavioral-finance perspective on why investors continue to pick stocks even when data suggests they shouldn't, and may suggest compromise strategies (satellite portfolio, defined trading budget) to let investors scratch the active itch without material portfolio damage.",
+      "talking_points": [
+        "Behavioral gap between what works (indexing) and what feels satisfying (stock picking) is persistent\u2014offers a lead on client conversation design.",
+        "Satellite-portfolio or 'play money' structures become structural products for advisors to capture flows without portfolio drag."
+      ],
+      "topics": [
+        "passive-vs-active",
+        "behavioral-finance",
+        "wealth-mgmt-design"
       ],
       "highlight": null,
       "relevance": 3
@@ -3074,7 +3122,7 @@
     "url": "https://www.marketwatch.com/story/billionaires-are-loading-up-on-these-superior-stocks-why-it-pays-to-follow-their-money-9120c242?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-13T16:40:00+00:00",
+    "date": "2026-07-13T20:32:00+00:00",
     "summary_raw": "The second quarter was a six-year best for U.S. stocks \u2014 here are the three sectors poised to lead the next leg higher.",
     "summary_ai": {
       "digest": "MarketWatch argues billionaire stock picks signal the next leg of a bull market; names three sectors to follow.",
@@ -3092,27 +3140,47 @@
     }
   },
   {
-    "id": "2babd5580fc1",
-    "title": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
-    "url": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+    "id": "70c03dec1212",
+    "title": "You don\u2019t have to be rich to be financially independent. Here\u2019s how to take control of your money.",
+    "url": "https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-be-financially-independent-heres-how-to-take-control-of-your-money-5345f146?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-13T17:45:00+00:00",
-    "summary_raw": "\u201cWhen I pass, all my retirement income is reduced to $30,000 a year.\u201d",
+    "date": "2026-07-13T20:39:00+00:00",
+    "summary_raw": "Relying on a high salary or a hot stock is a dangerous trap. Why the most secure people plan for sudden crisis.",
     "summary_ai": {
-      "digest": "Retiree pension holder asks whether delaying Social Security to 70 increases survivor benefits for spouse; MarketWatch advisor addresses claiming strategy and spousal benefit rules.",
-      "summary_long": "A 67-year-old with $140k pension asks whether delaying Social Security to age 70 increases widow's survivor benefit. Delaying increases the Primary Insurance Amount by 8% annually, and survivor benefits are paid as a percentage of that PIA, so delay does boost widow's payout\u2014but the tradeoff is significant years of forgone income for the claimant. The column walks through the mechanics, life-expectancy breakeven, and the spouse's independent claiming options. This is a common real-world decision for high-net-worth or pension-heavy retirees weighing longevity risk and spousal protection.",
+      "digest": "MarketWatch personal-finance explainer on financial independence and crisis planning, arguing that high income alone is insufficient without diversification and emergency reserves.",
+      "summary_long": "The article argues that financial security depends less on absolute income or investment returns than on behavioral discipline: building emergency reserves, avoiding lifestyle creep, and diversifying income streams. It positions crisis planning as a wealth-building essential rather than an insurance afterthought. The piece targets middle-income readers and emphasizes that 'financial independence' is achievable through deliberate cash management and redundancy, not lottery-ticket bets on salary growth or stock picks. While accessible and well-intentioned, it offers no new data, regulatory insight, or market signal relevant to institutional FIG strategy or deal flow.",
+      "talking_points": [],
+      "topics": [
+        "personal-finance",
+        "behavioral-finance"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "e73198907daa",
+    "title": "Sandisk\u2019s stock is plunging, but some analysts are getting even more bullish",
+    "url": "https://www.marketwatch.com/story/sandisks-stock-is-plunging-but-some-analysts-are-getting-even-more-bullish-cba3472f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T21:04:00+00:00",
+    "summary_raw": "One new stock-price target implies nearly 85% upside from current levels.",
+    "summary_ai": {
+      "digest": "SanDisk stock is down sharply, but some analysts are raising price targets\u2014one implying 85% upside\u2014betting on a recovery in NAND flash memory demand and margin expansion.",
+      "summary_long": "SanDisk has faced significant headwinds in NAND flash memory pricing and demand weakness, driving its stock lower. However, contrarian analysts are turning bullish, citing improving supply-demand dynamics in the flash memory market, potential margin recovery as inventory normalizes, and the company's strategic position in data centers and edge computing. The 85% upside target reflects a bet that current valuations are overcorrecting and that cyclical recovery is approaching. This is a classic semiconductor cycle play\u2014most relevant to Lucius if he is watching flash-memory suppliers as a fintech infrastructure or digital-asset-custody angle, but tangential to core FIG coverage.",
       "talking_points": [
-        "Delaying Social Security to 70 does increase survivor benefits\u2014they're calculated as a percentage of your Primary Insurance Amount, which grows 8% per year.",
-        "The breakeven depends on life expectancy and foregone payments; if you die before 80\u201382, your spouse would have been better off with earlier claim.",
-        "Spouse's own work history matters; she may qualify for her own Social Security independent of your claiming decision, which changes the calculus."
+        "Consensus is still cautious on NAND flash; contrarian call sees margin recovery as supply rebalances.",
+        "85% upside target suggests the market is pricing in prolonged weakness, not near-term cyclical inflection.",
+        "Applies only if flash memory supply chains matter to fintech infrastructure or digital-asset platforms in Lucius's coverage."
       ],
       "topics": [
-        "social-security-strategy",
-        "retirement-planning",
-        "spousal-benefits"
+        "semiconductor-cycle",
+        "NAND-flash",
+        "valuation-opportunity"
       ],
-      "highlight": "Survivor benefits scale with the deceased's Primary Insurance Amount, so delay does increase widow's income\u2014but breakeven is typically 80\u201382 depending on when you would have started.",
+      "highlight": null,
       "relevance": 2
     }
   },
@@ -3138,6 +3206,23 @@
     }
   },
   {
+    "id": "c7eece17793a",
+    "title": "Sign Up for DealBook",
+    "url": "https://www.nytimes.com/newsletters/signup/DK",
+    "source": "Dealbook (NYT)",
+    "section": "Markets & Macro",
+    "date": "2026-07-13T12:19:29+00:00",
+    "summary_raw": "Make sense of the latest business and policy headlines with our daily newsletter.",
+    "summary_ai": {
+      "digest": "Newsletter signup prompt for DealBook, the New York Times' daily business and policy digest.",
+      "summary_long": "DealBook is the New York Times' flagship business newsletter covering corporate news, markets, policy, and deal flow. It aggregates headlines and analysis across finance, tech, and Washington, aimed at executives and finance professionals. The signup is a standard CTA with no new information about content, frequency, or editorial angle.",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
     "id": "31847e895829",
     "title": "Stocks making the biggest moves midday: Nio, Braiin, AppLovin, SpaceX, SK Hynix & more",
     "url": "https://www.cnbc.com/2026/07/13/stocks-making-the-biggest-moves-midday-nio-brai-app-spcx-skhy.html",
@@ -3146,10 +3231,10 @@
     "date": "2026-07-13T16:21:26+00:00",
     "summary_raw": "These are the stocks posting the largest moves midday.",
     "summary_ai": {
-      "digest": "Midday market movers across tech and industrials; no FIG-specific deal, regulatory action, or capital event identified.",
-      "summary_long": "This is a routine market-recap headline listing intraday stock moves across sectors (EV, semiconductors, software, aerospace). The article provides no context on why these stocks are moving, no deal announcements, no regulatory triggers, and no capital events. It is pure price-action noise with no read-through to FIG deal flow, bank financing, or consolidation dynamics.",
-      "talking_points": [],
-      "topics": [],
+      "digest": null,
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
       "highlight": null,
       "relevance": 1
     }
@@ -3177,23 +3262,6 @@
     }
   },
   {
-    "id": "862eb8345949",
-    "title": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
-    "url": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T18:30:00+00:00",
-    "summary_raw": "\u201cThe hood is bent, the radiator is cracked, and the front bumper is destroyed.\u201d",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
     "id": "906f3113d303",
     "title": "Solitron Devices, Inc. Announces Fiscal 2027 First Quarter Results",
     "url": "https://www.globenewswire.com/news-release/2026/07/13/3326433/0/en/Solitron-Devices-Inc-Announces-Fiscal-2027-First-Quarter-Results.html",
@@ -3215,20 +3283,20 @@
     }
   },
   {
-    "id": "c7eece17793a",
-    "title": "Sign Up for DealBook",
-    "url": "https://www.nytimes.com/newsletters/signup/DK",
-    "source": "Dealbook (NYT)",
+    "id": "b804c73a0443",
+    "title": "Lindsey Graham died from a rare heart condition. Here\u2019s how to know if you\u2019re at risk.",
+    "url": "https://www.marketwatch.com/story/lindsey-graham-died-from-a-rare-heart-condition-heres-how-to-know-if-youre-at-risk-8ca5a618?mod=mw_rss_topstories",
+    "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-13T12:19:29+00:00",
-    "summary_raw": "Make sense of the latest business and policy headlines with our daily newsletter.",
+    "date": "2026-07-13T20:48:00+00:00",
+    "summary_raw": "Aortic dissections are extremely rare; however, people with a family history or who have been diagnosed with certain genetic syndromes have an elevated risk",
     "summary_ai": {
-      "digest": "NYT DealBook newsletter signup page with no article content provided.",
-      "summary_long": "This is a landing page for The New York Times' DealBook newsletter, which covers daily business and policy news. No substantive content is present \u2014 only a signup prompt. Without an actual article, earnings report, market analysis, or policy announcement to evaluate, there is no actionable information for a FIG analyst to extract or apply to deal flow, credit conditions, or sector positioning.",
+      "digest": "Senator Lindsey Graham died from aortic dissection; the article explains risk factors including family history and genetic syndromes.",
+      "summary_long": "N/A",
       "talking_points": [],
       "topics": [],
       "highlight": null,
-      "relevance": 0
+      "relevance": 1
     }
   }
 ]
