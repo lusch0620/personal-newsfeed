@@ -1,170 +1,170 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Regional consolidation heating up amid strong earnings backdrop, while Fed rate-hike odds climb and CFPB leadership transition unfolds.",
+    "lede": "Regional bank M&A accelerates with First Hawaiian's $2B TriCo buy, while Q2 earnings set up strong on SpaceX/volatility but rate-hike risks loom.",
     "bullets": [
       {
-        "text": "First Hawaiian acquiring TriCo Bancshares for $2B, closing by year-end\u2014marks Hawaii's biggest bank returning to mainland U.S. after BNP Paribas exit.",
+        "text": "First Hawaiian acquiring TriCo Bancshares for $2B, closing by year-end\u2014marks Hawaiian's return to mainland U.S. after BNP Paribas exit.",
         "refId": "c18074d3e476",
         "source": "Banking Dive"
       },
       {
-        "text": "Q2 bank earnings poised to be strong on SpaceX IPO advisory fees, geopolitical volatility trading, and commercial lending pickup\u2014directly offsetting NIM pressure if Fed hikes in July.",
-        "refId": "54e5a2762fb0",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Fed rate-hike odds for July rising on Strait of Hormuz oil spike; signals potential deposit-pricing and NIM compression headwinds ahead.",
+        "text": "Fed rate-hike odds for July climbing on Strait of Hormuz oil-price spike; direct NIM compression and deposit-pricing headwind for the sector.",
         "refId": "c63dac3c3989",
         "source": "CNBC Finance"
       },
       {
-        "text": "Trump CFPB nominee Brian Johnson wins 60-day post-confirmation review on staff-cut plan\u2014gives him discretion over bureau workforce reduction.",
-        "refId": "480322445a1f",
+        "text": "Big banks positioned for strong Q2 earnings on SpaceX IPO advisory fees, geopolitical volatility trading, and commercial lending pickup.",
+        "refId": "54e5a2762fb0",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "JPMorgan names Doug Petno and Troy Rohrbaugh as co-presidents; Dimon says Mary Erdoes chose retirement\u2014characterizes as 'natural change.'",
+        "refId": "ee553db4a8ba",
         "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "Russell Investments joins CalPERS in major nonprofit pivot; RIA consolidation accelerates across platforms; Betterment faces cash sweep litigation.",
+    "lede": "Major wealth management consolidation continues with Russell's CalPERS acquisition and RIA roll-up acceleration, while litigation clouds emerge around digital advisory cash practices.",
     "bullets": [
       {
-        "text": "CalPERS acquires Russell Investments for $580B in assets under management, converting to nonprofit structure and eliminating debt\u2014a Vanguard-style repositioning play.",
+        "text": "CalPERS acquiring Russell Investments for $580B pension system; deal lets Russell shed debt burden and adopt non-profit governance model similar to Vanguard's reputational playbook.",
         "refId": "ab39c6cbdb7c",
         "source": "RIABiz"
       },
       {
-        "text": "RIA consolidation hits overdrive: Hightower posts record organic growth, Choreo closes fourth acquisition post-SpaceX, and ex-Fido CTO raises $7.7M for standalone platform.",
+        "text": "RIA consolidation hits overdrive: Hightower sees record organic growth, Choreo closes fourth acquisition post-SpaceX exit, and ex-Fido CTO raises $7.7M for standalone platform as sector reshuffles.",
         "refId": "0be3fec547da",
         "source": "RIABiz"
       },
       {
-        "text": "Summitry ($4B RIA, Aspen-backed) elevates two co-CEOs as founder steps to executive chairman after 22 years\u2014typical PE playbook succession.",
-        "refId": "b2c3bde5c5e6",
+        "text": "Carson Group restructures around W-2 and independent RIA channels with separate home office teams to sharpen focus and boost organic growth amid industry roll-up frenzy.",
+        "refId": "283ddebdc373",
         "source": "Wealth Management"
       },
       {
-        "text": "Betterment hit with class action over cash sweep tactics\u2014clients claim firm quietly moved cash into non-interest-bearing accounts while capturing spreads.",
+        "text": "Betterment hit with class action lawsuit over cash sweep accounts\u2014allegations that firm directed client cash into non-interest-bearing deposits while capturing spread profits.",
         "refId": "5ec124a80deb",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "U.S. P&C industry posts decade-best underwriting results, but geopolitical risk in Hormuz Strait threatens margin gains; meanwhile, Saudi Re expands Lloyd's reach and new entrants target California's homeowners void.",
+    "lede": "U.S. P&C industry hits decade-high profitability amid pricing discipline, while geopolitical risk in the Hormuz Strait and regional consolidation reshape underwriting dynamics.",
     "bullets": [
       {
-        "text": "$84B in underwriting gains over two years with lowest combined ratio in a decade\u2014pricing discipline paying off across the U.S. P&C market, though performance varies sharply by line of business.",
+        "text": "U.S. P&C combined ratio hit 10-year low in 2025 with $84B underwriting profit over two years, driven by disciplined pricing and underwriting\u2014but divergence across lines signals winners and losers.",
         "refId": "a9f99ceb583b",
         "source": "Reinsurance News"
       },
       {
-        "text": "Supertanker attack in Hormuz Strait (handling 21% of global crude) will spike war-risk insurance premiums and create P&L volatility for marine underwriters in a critical corridor.",
+        "text": "Hormuz Strait tanker attacks escalating geopolitical risk in a corridor handling 21% of global crude, likely spiking war-risk marine insurance premiums and creating P&L volatility for underwriters.",
         "refId": "4ae12d51f7e0",
         "source": "Insurance Journal"
       },
       {
-        "text": "Saudi Re deepens Lloyd's presence with 22.5% stake in AdA Risk (\u00a38.95M), signaling appetite for London market expansion with regulatory green light already in hand.",
+        "text": "Saudi Re deepens Lloyd's play with 22.5% stake in AdA Risk (\u00a38.95M), signaling regional appetite for established London market infrastructure.",
         "refId": "1d7c8301afc0",
         "source": "Reinsurance News"
       },
       {
-        "text": "RockRose Risk launches AI-driven homeowners product in California tied to wildfire mitigation\u2014targeting the market gap left by traditional carriers retreating from the state.",
+        "text": "RockRose Risk launches AI-driven homeowners product in California tying mitigation incentives to underwriting, targeting market segment abandoned by traditional carriers.",
         "refId": "edb4e350d589",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "Mastercard explores Vocalink exit while CMBS distress signals rise; fintech faces headwinds in Europe as Nubank expands in Mexico.",
+    "lede": "5 stories spanning payments assets, credit divergence, and regulatory headwinds\u2014Mastercard weighs Vocalink exit while CMBS stress signals servicer activity ahead.",
     "bullets": [
       {
-        "text": "Mastercard weighing Vocalink sale\u2014UK payments platform acquired from British banks in 2016 now potentially returning to original owners, signaling strategic portfolio realignment.",
+        "text": "Mastercard exploring sale of Vocalink, the UK payments platform acquired from British banks in 2016\u2014potential portfolio optimization or forced exit.",
         "refId": "1e145a5d5cd2",
         "source": "Finextra"
       },
       {
-        "text": "CMBS special servicing rates climbed in June 2026 on distressed large retail, office, and lodging loans\u2014credit deterioration likely to drive servicer workouts across property-backed securitizations.",
+        "text": "CMBS special servicing rate climbed in June 2026 driven by large retail, office, and lodging distress\u2014watch for servicer workout activity and credit deterioration.",
         "refId": "6a46f4595b79",
         "source": "Trepp Talk"
       },
       {
-        "text": "Klarna sued in Dutch class action while Nubank secures Mexican banking license\u2014mixed fintech fortunes with regulatory risk in Europe offsetting geographic expansion wins.",
-        "refId": "f559642f48bc",
-        "source": "Finextra"
-      },
-      {
-        "text": "North America remains LP-favored for private debt despite market noise; AlbaCore data shows widening divergence between performing and distressed credit performance.",
+        "text": "North America private debt still LP-preferred despite noise; AlbaCore flags widening gap between performing and distressed credits in the market.",
         "refId": "a209e7a91aba",
         "source": "Private Debt Investor"
+      },
+      {
+        "text": "Klarna hit with Dutch class action lawsuit; Nubank cleared for full Mexican banking ops\u2014fintech regulatory/litigation risks vs. expansion upside.",
+        "refId": "f559642f48bc",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "Arctos pioneers a novel GP financing structure while secondaries market heats up with LP-led deals and new advisor muscle.",
+    "lede": "PE financing and secondaries heating up: Arctos debuts novel GP financing structure, Moelis expands secondaries platform, and mega-LPs pile into energy infrastructure.",
     "bullets": [
       {
-        "text": "Arctos closes $6.2B GP financing using 'self-liquidating' Keystone strategy\u2014a first for this structure in GP-financing, allowing capital returns while maintaining portfolio exposure.",
+        "text": "Arctos closes $6.2B GP financing using 'self-liquidating' Keystone structure\u2014first of its kind in GP financing market, enabling capital returns to LPs while maintaining portfolio exposure.",
         "refId": "08c7099dc23b",
         "source": "Private Equity International"
       },
       {
-        "text": "Moelis poaches four-person Evercore secondaries team as MD to build LP-led practice, betting on this segment as sellers capitalize on favorable pricing and liquidity.",
+        "text": "Moelis hires Evercore VP to build LP-led secondaries practice with four-person team transfer, capitalizing on expanding market as LPs seek liquidity at favorable valuations.",
         "refId": "61d02f6d5699",
         "source": "Secondaries Investor"
       },
       {
-        "text": "Korean pension KBIZ allocating ~$230M to domestic blind-pool PE/VC funds in 2026, reflecting institutional capital shift toward Korea-focused managers.",
-        "refId": "9eec12f87176",
-        "source": "Private Equity International"
+        "text": "Blackstone, Apollo, KKR co-invest $5.34B in Williams' energy infrastructure projects, signaling institutional conviction on large-cap PE energy plays amid favorable market conditions.",
+        "refId": "0e8fe681df38",
+        "source": "PE Hub"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "Bank earnings season opens amid QT structural risks, while small caps rally and central banks test new frontiers in digital currency and fiscal headwinds.",
+    "lede": "Bank earnings season opens with high stakes; QT risks loom as QE reshaped bank funding; small caps rally on tech rotation; ECB advances digital euro pilots; UK gilts spike on fiscal concerns.",
     "bullets": [
       {
-        "text": "Bank earnings kick off Tuesday with high expectations; market braced for disappointment as major lenders report quarterly results.",
+        "text": "Bank earnings kick off Tuesday with market braced for disappointment after running high expectations\u2014early signal on whether lending margins can hold up.",
         "refId": "acbebe28924d",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "QE structurally rewired bank balance sheets and funding models, making QT riskier than policymakers assume due to continued central bank liquidity dependence.",
+        "text": "QE structurally rewired bank balance sheets to depend on central bank liquidity; quantitative tightening now poses underestimated risk to stability, argues FT's Cetina.",
         "refId": "7e85b67e4507",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Russell 2000 on track for best year since 2003 as mega-cap repricing drives rotation into small-cap AI capex and tax-policy beneficiaries.",
+        "text": "Russell 2000 on track for best year since 2003 as capital flows rotate from mega-cap tech into small caps on valuation relief and AI capex cycle shifts.",
         "refId": "b854afe2b8a7",
         "source": "Financial Times Markets"
       },
       {
-        "text": "UK 10-year gilt yields exceed 5% on oil surge and fiscal concerns just as new PM takes office; ECB names 36 banks\u2014including skeptics\u2014to pilot digital euro in 2025.",
+        "text": "UK 10-year gilt yields breach 5% on oil surge and fiscal concerns just as new PM takes office\u2014market signaling anxiety about debt sustainability.",
         "refId": "04e9e6a01ea2",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Big bank earnings tomorrow set tone for credit quality and consumer health; meanwhile, ETF redemptions signal market caution and advisory workflow gets a tax efficiency upgrade.",
+    "lede": "Big bank earnings drive macro sentiment; tech disruption via Chinese AI; structural shifts in education finance and advisor workflows.",
     "bullets": [
       {
-        "text": "Five of six largest US banks report Q2 earnings tomorrow\u2014key window into deposit dynamics, credit quality, and consumer health across lending, trading, and wealth management.",
+        "text": "Five of six largest US banks report Q2 earnings tomorrow\u2014critical read on credit quality, deposit dynamics, and consumer health across lending and trading.",
         "refId": "a05bc9cbcf8d",
         "source": "The Daily Upside"
       },
       {
-        "text": "Rare week of negative ETF flows signals investor pullback; redemptions hit equity, bond, and alternative products as market caution spreads.",
-        "refId": "93673e809ed8",
+        "text": "Alibaba's cheaper AI model ranks first globally, signaling potential erosion of US tech dominance in a critical sector.",
+        "refId": "8a7c9fc393e9",
         "source": "The Daily Upside"
       },
       {
-        "text": "Vanguard and Envestnet partner on tax-friction tools for model portfolio conversions\u2014addresses key RIA workflow pain point in advisor ecosystem.",
-        "refId": "764af9f04088",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Student loan policy shifts are forcing advisors to rebuild college planning strategies, reshaping demand for education financing and advisory services.",
+        "text": "Student loan policy shifts are forcing advisors to rebuild college planning strategies, reshaping demand for education financing products and advisory services.",
         "refId": "5b363a7557a8",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Vanguard-Envestnet partnership tackles tax friction in model portfolio conversions\u2014a workflow optimization that could reshape RIA economics.",
+        "refId": "764af9f04088",
         "source": "The Daily Upside"
       }
     ]
@@ -174,45 +174,50 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Four takes on incentive alignment and competitive advantage: NBA players gaming metrics, open-source AI disrupting moats, computational complexity preserving competition, and a Groq founder's $20B NVIDIA pivot.",
+    "lede": "4 stories spanning incentive misalignment in sports, computational theory's role in market competition, startup capital creativity in AI, and Apple's strategic AI weakness.",
     "bullets": [
       {
-        "text": "Open-source AI models now match frontier capabilities at 1/10th the cost, forcing founders to compete on moats beyond model performance\u2014the raw compute advantage game is over.",
-        "refId": "fc03107930b6",
-        "source": "The AI Corner"
+        "text": "NBA players gaming individual stats at team expense reveals classic principal-agent failure\u2014performance metrics reward selfish behavior over winning.",
+        "refId": "203d0cad8160",
+        "source": "Marginal Revolution"
       },
       {
-        "text": "Groq's Jonathan Ross secured a $20B NVIDIA partnership by navigating near-bankruptcy with creative financing (Grok Bonds)\u2014a case study in startup resilience when conventional capital dries up.",
+        "text": "If P = NP, firms can efficiently detect and sustain cartels; competitive markets depend on P \u2260 NP making collusion detection computationally intractable.",
+        "refId": "ed7cdd73b095",
+        "source": "Marginal Revolution"
+      },
+      {
+        "text": "Groq's Jonathan Ross secured $20B NVIDIA deal via unconventional financing (Grok Bonds) while near-bankrupt\u2014a masterclass in startup capital creativity under pressure.",
         "refId": "44759bda5801",
         "source": "The AI Corner"
       },
       {
-        "text": "Tyler Cowen's insight: competitive markets exist if and only if P \u2260 NP; if collusion detection becomes computationally intractable, cartels collapse and competition wins as equilibrium.",
-        "refId": "ed7cdd73b095",
-        "source": "Marginal Revolution"
+        "text": "Apple's OpenAI lawsuit over employee trade-secret theft masks the real issue: Apple has no coherent AI strategy and is strategically behind.",
+        "refId": "847963af5fc4",
+        "source": "Stratechery"
       }
     ]
   },
   "all": {
-    "lede": "Regional bank M&A accelerates with First Hawaiian-TriCo deal, while major bank earnings arrive tomorrow amid QT concerns.",
+    "lede": "Regional bank M&A heats up as First Hawaiian buys TriCo for $2B, while major bank earnings kick off tomorrow\u2014and QT risks loom larger than Fed realizes.",
     "bullets": [
       {
-        "text": "First Hawaiian Bank acquiring TriCo Bancshares for $2B\u2014marks Hawaiian bank's return to mainland after BNP Paribas exit, closing by year-end.",
+        "text": "First Hawaiian acquires TriCo Bancshares for $2B, closing by year-end\u2014marks Hawaiian's return to mainland US after BNP Paribas exit.",
         "refId": "c18074d3e476",
         "source": "Banking Dive"
       },
       {
-        "text": "Five of six largest US banks report Q2 earnings tomorrow; results will signal credit quality, deposit trends, and consumer health across the economy.",
+        "text": "Big Six US banks report Q2 earnings tomorrow; results will signal credit quality, deposit health, and consumer resilience across lending and wealth management.",
         "refId": "a05bc9cbcf8d",
         "source": "The Daily Upside"
       },
       {
-        "text": "Mastercard exploring Vocalink sale\u2014potentially returning UK payments platform to original British bank owners a decade after acquisition.",
+        "text": "Mastercard exploring sale of Vocalink (UK payments platform acquired 2016) back to original owners, signaling potential strategic shift in payments M&A.",
         "refId": "1e145a5d5cd2",
         "source": "Finextra"
       },
       {
-        "text": "QT poses hidden risks: QE structurally reshaped bank balance sheets and funding models, making quantitative tightening more dangerous than policymakers realize.",
+        "text": "QE structurally rewired bank balance sheets and funding models, making quantitative tightening riskier than policymakers realize due to persistent central bank liquidity dependence.",
         "refId": "7e85b67e4507",
         "source": "Financial Times Markets"
       }
@@ -221,37 +226,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7547.9,
+      "v": 7543.59,
       "base": 7575.39,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26149.44,
+      "v": 26107.008,
       "base": 26281.61,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52435.84,
+      "v": 52508.27,
       "base": 52637.01,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.581,
+      "v": 4.585,
       "base": 4.609,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.48,
+      "v": 16.43,
       "base": 17.16,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.7586,
+      "v": 188.9437,
       "base": 187.19,
       "bp": false
     }
