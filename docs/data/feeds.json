@@ -1,28 +1,29 @@
 [
   {
-    "id": "abf7abc5dcb6",
-    "title": "KKR Joins US Consortium to Buy Australian Broker Steadfast in $5.3 Billion Deal",
-    "url": "https://www.insurancejournal.com/news/international/2026/07/14/877459.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-14T09:57:34+00:00",
-    "summary_raw": "Australia&#8217;s Steadfast said on Tuesday that the global investment firm KKR has joined the consortium of Amwins Group and Dragoneer Investment in their A$7.7 billion ($5.33 billion) proposal to buy out the insurance broker. Here are some more details: KKR &#8230;",
+    "id": "c18074d3e476",
+    "title": "First Hawaiian to buy California\u2019s TriCo in $2B deal",
+    "url": "https://www.bankingdive.com/news/first-hawaiian-acquisition-2-billion-california-bank-trico/825201/",
+    "source": "Banking Dive",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-14T16:28:09+00:00",
+    "summary_raw": "<figure><div><img src=\"https://imgproxy.divecdn.com/sdUr_foyCq5Z3N-PDQO6EJMO9Uv0drAKwKrLuWNpxUA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MTA5NTY2NzguanBn.webp\" /></div></figure><p>The acquisition, set to close by year-end, marks a return to the mainland for the Hawaiian lender, which was once part of BNP Paribas&rsquo; U.S. network.</p>",
     "summary_ai": {
-      "digest": "KKR joined Amwins and Dragoneer to bid A$7.7B ($5.33B) for Australian insurance broker Steadfast, adding firepower to a competitive process.",
-      "summary_long": "Steadfast, Australia's largest insurance broker by revenue, is running a formal sale process that attracted a three-party consortium bid. KKR's entry signals confidence in the broker's cash generation and cross-sell potential in a consolidating insurance distribution market. Amwins (US specialty broker) and Dragoneer (growth equity) were already partnered; KKR's addition suggests either a price escalation or a desire by existing bidders to reduce leverage on the deal. The $5.3B valuation reflects typical multiples for high-margin, recurring-revenue insurance platforms and validates the sector's appeal to large capital. Deal closure likely depends on shareholder vote and Australian regulatory clearance.",
+      "digest": "First Hawaiian Bank to acquire TriCo Bancshares (California) for $2B, closing by year-end. Marks First Hawaiian's return to mainland U.S. after BNP Paribas exit.",
+      "summary_long": "First Hawaiian Bank has agreed to acquire TriCo Bancshares, a California-based regional bank, in an all-stock or mixed deal valued at approximately $2 billion. The transaction is expected to close by the end of 2026. This move represents a strategic shift for First Hawaiian, which is expanding beyond its Hawaii-centric footprint back into the mainland U.S. market\u2014a presence it previously held when it operated as part of BNP Paribas' U.S. network. The deal signals continued consolidation in the regional banking space and First Hawaiian's appetite to deploy capital and scale through M&A rather than organic growth. TriCo's California presence provides First Hawaiian with access to a larger, more diverse deposit and lending market.",
       "talking_points": [
-        "KKR entered a $5.3B play on Steadfast alongside Amwins and Dragoneer\u2014shows PE appetite for insurance distribution even at scale.",
-        "Three-party consortium structure reduces leverage risk and signals competitive tension; deal likely at or near process ceiling.",
-        "Insurance broker consolidation remains a core PE thesis\u2014Steadfast's scale and recurring revenue make it a marquee regional platform."
+        "First Hawaiian acquiring TriCo Bancshares for ~$2B\u2014Hawaiian lender's first major mainland push since exiting BNP Paribas U.S. network.",
+        "All-stock structure likely; close expected by year-end 2026, providing near-term visibility on integration planning and regulatory approval path.",
+        "Consolidation signal: mid-sized regionals continue to be acquisition targets; First Hawaiian's move suggests confidence in deposit markets and CRE lending recovery."
       ],
       "topics": [
-        "insurance broker M&A",
-        "PE consortium",
-        "Australia",
-        "deal flow"
+        "regional bank M&A",
+        "bank consolidation",
+        "First Hawaiian",
+        "TriCo Bancshares",
+        "mainland expansion"
       ],
-      "highlight": "KKR's entry into a A$7.7B ($5.33B) consortium bid for Steadfast validates insurance broker consolidation as a tier-1 PE thesis and signals competitive tension in the process.",
-      "relevance": 9
+      "highlight": "First Hawaiian Bank acquiring TriCo Bancshares for ~$2B\u2014marks return to mainland U.S. and first major deal since BNP Paribas exit.",
+      "relevance": 10
     }
   },
   {
@@ -700,32 +701,6 @@
     }
   },
   {
-    "id": "8805914ce561",
-    "title": "Canada Regulator Warns Banks About Cyber Risks of Anthropic\u2019s Claude Mythos",
-    "url": "https://www.insurancejournal.com/news/international/2026/07/14/877455.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-14T10:16:19+00:00",
-    "summary_raw": "Canada&#8217;s federal banking regulator warned the country&#8217;s largest financial institutions about the risks of Anthropic&#8217;s Claude Mythos and other advanced AI models, saying the new technology could increase cyber threats and reduce the time institutions have to identify and fix &#8230;",
-    "summary_ai": {
-      "digest": "Canada's banking regulator issued a formal warning to major financial institutions about cyber risks from Anthropic's Claude Mythos and similar advanced AI models, citing increased threat surface and compressed response windows.",
-      "summary_long": "Canada's federal banking regulator (OSFI or equivalent) has flagged emerging cyber vulnerabilities tied to large language models like Claude Mythos now being adopted by banks. The concern centers on both direct operational risk\u2014LLMs can be exploited to automate attacks or bypass controls\u2014and indirect risk from third-party dependencies on AI vendors. The warning suggests regulators are moving from passive monitoring to active guardrails, likely signaling upcoming compliance requirements around model governance, vendor due diligence, and incident response timelines. This could force banks to slow adoption, audit existing implementations, or invest in AI-specific controls and staffing.",
-      "talking_points": [
-        "Canadian regulator has formally flagged Claude Mythos and advanced LLMs as a cyber vector for banks\u2014expect similar warnings from OCC, Fed, and SEC soon.",
-        "The risk isn't just model misuse; it's the compressed time-to-exploit and reduced MTTR (mean time to resolution) once attackers automate reconnaissance or social engineering at scale.",
-        "Banks will likely face demands to validate vendor security, implement LLM-specific monitoring, and document AI tool usage\u2014new compliance friction that could slow fintech partnerships and digital acceleration initiatives."
-      ],
-      "topics": [
-        "regulatory-cyber-risk",
-        "AI-governance-banks",
-        "vendor-risk-management",
-        "compliance-burden"
-      ],
-      "highlight": "Formal regulator warning on LLM cyber risks signals incoming compliance requirements around vendor governance and incident response\u2014expect lateral pressure on banking CISOs and AI procurement teams.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "8c4532b06e17",
     "title": "ECB selects 36 PSPs for digital euro pilot phase",
     "url": "https://www.finextra.com/newsarticle/48084/ecb-selects-36-psps-for-digital-euro-pilot-phase?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -960,28 +935,27 @@
     }
   },
   {
-    "id": "4d26a31160af",
-    "title": "Jamie Dimon says \u2018booming\u2019 markets and a \u2018fine\u2019 consumer fueled JPMorgan\u2019s blowout profits",
-    "url": "https://www.marketwatch.com/story/jpmorgan-beats-profit-expectations-by-the-most-in-five-years-as-equity-markets-revenue-surges-9a0d8805?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T15:20:00+00:00",
-    "summary_raw": "JPMorgan blew past earnings expectations for the second quarter, as CEO Jamie Dimon said markets are booming.",
+    "id": "ee553db4a8ba",
+    "title": "JPMorgan\u2019s Dimon: Lake chose retirement after board named co-presidents",
+    "url": "https://www.bankingdive.com/news/jpmorgan-dimon-ceo-succession-lake-petno-rohrbaugh-copresidents/825189/",
+    "source": "Banking Dive",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-14T15:27:52+00:00",
+    "summary_raw": "<figure><div><img src=\"https://imgproxy.divecdn.com/9ZGA7YarnpHlhsuxCGcAj6VWeVWNjMgmLZ56M3B41tI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ1MzQ4OTQxLmpwZw==.webp\" /></div></figure><p>The CEO didn&rsquo;t say what prompted last month&rsquo;s appointment of Doug Petno and Troy Rohrbaugh as co-presidents, but referred to it as &ldquo;a natural change&rdquo; in the bank&rsquo;s succession planning process.</p>",
     "summary_ai": {
-      "digest": "JPMorgan posted its largest profit beat in five years on record revenue and raised NII guidance; stock fell anyway on likely deposit outflow concerns or valuation.",
-      "summary_long": "JPMorgan delivered earnings that exceeded consensus by a material margin, driven by a surge in equities trading and investment banking revenue\u2014both beneficiaries of the market rally and M&A activity. Management raised full-year net interest income guidance, signaling confidence in the rate environment and deposit stickiness. Despite these positives, the stock declined, suggesting the market is discounting either deposit or loan-growth headwinds, rising cost pressures, or simply that the beat was already priced in. For Lucius's coverage of regional and specialty banks, this is a key read: JPMorgan's capital strength and deposit advantage mean tighter NII assumptions across the sector, and higher equity-market revenue means larger banks are winning the wallet share his clients depend on.",
+      "digest": "JPMorgan CEO Jamie Dimon said Mary Erdoes chose to retire after the board appointed Doug Petno and Troy Rohrbaugh as co-presidents last month, characterizing the leadership shift as 'a natural change.'",
+      "summary_long": "JPMorgan named two internal co-presidents\u2014Petno (Consumer & Community Banking) and Rohrbaugh (Corporate & Investment Banking)\u2014in June 2026. This dual appointment preceded the departure of Mary Erdoes, who led Asset & Wealth Management and was considered a potential successor to Dimon. Dimon's framing of Erdoes' exit as a retirement choice suggests the co-president structure may have clarified the succession path and prompted her decision. The move signals JPMorgan is building redundancy in the C-suite and telegraphing that Dimon's eventual succession will likely come from the co-president ranks rather than from a single named heir. This is a rare public acknowledgment of boardroom logic around executive tenure and advancement.",
       "talking_points": [
-        "JPMorgan's largest earnings beat in five years\u2014watch for regional bank guidance revisions downward on NII and deposit assumptions.",
-        "Equity trading and IB revenue drove the beat; this is flow-driven, not fundamental. Means capital-light fee revenue is still king on Wall Street.",
-        "Raised NII guidance signals confidence in deposit franchises and rates\u2014a signal other large banks will likely echo or miss vs., which sets the tone for the sector's profitability outlook."
+        "JPMorgan named co-presidents in CCB and CIB last month; Erdoes' retirement announcement follows the structure change, not the reverse.",
+        "The dual co-president model suggests the board is developing multiple succession candidates and buying time before naming a single CEO heir.",
+        "Erdoes heading AWM was one of the few clear internal contenders for the top job; her exit removes a known candidate and may have been voluntary after seeing the board's direction."
       ],
       "topics": [
-        "large-bank-earnings",
-        "net-interest-income",
-        "capital-markets-revenue",
-        "deposit-competition"
+        "JPMorgan leadership",
+        "succession planning",
+        "C-suite moves"
       ],
-      "highlight": "JPMorgan raised full-year NII guidance despite stock decline, signaling deposit confidence while the market is pricing in competitive or macro headwinds elsewhere.",
+      "highlight": "Mary Erdoes retired after the board appointed co-presidents, signaling JPMorgan's succession planning is shifting away from a single heir model toward cultivating multiple internal candidates.",
       "relevance": 7
     }
   },
@@ -1012,6 +986,33 @@
     }
   },
   {
+    "id": "f852be14a230",
+    "title": "Boomer Wealth Transfer Set to Favor America\u2019s Richest Families",
+    "url": "https://www.wealthmanagement.com/high-net-worth/boomer-wealth-transfer-set-to-favor-america-s-richest-families",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-14T15:58:13+00:00",
+    "summary_raw": "The expected \u201cgreat wealth transfer\u201d\u2014 with $93 trillion in assets changing hands\u2014may be less dramatic than headline figures suggest.",
+    "summary_ai": {
+      "digest": "$93 trillion wealth transfer underway, but concentration dynamics favor the already-rich; structural barriers limit broad-based wealth democratization.",
+      "summary_long": "The commonly cited $93 trillion intergenerational wealth transfer is real but masks a critical distributional truth: the ultra-wealthy are deploying sophisticated estate planning, dynasty trusts, and tax-efficient structures that concentrate wealth further rather than spread it. Middle-class heirs face liquidity crises, forced asset sales, and estate taxes that erode inheritances; high-net-worth families preserve and compound through private banking, trust architecture, and access to alternative assets. This dynamic reshapes demand for wealth management services\u2014ultra-HNW platforms will thrive; mass-affluent advice businesses face margin pressure and commoditization. The transfer also accelerates RIA and family office consolidation as smaller practices lack the sophistication to serve intergenerational planning.",
+      "talking_points": [
+        "The $93T headline obscures a bifurcation: ultra-wealthy heirs inherit tax-optimized portfolios and trusts; middle-class heirs sell assets into weak markets to cover estate taxes and liabilities.",
+        "Dynasty trust structures and private credit access available only to $10M+ families are widening the wealth gap within the inheritance cohort itself.",
+        "Wealth management and RIA platforms need to choose: build ultra-HNW / family office practices or face commoditization in the mass-affluent segment that lacks planning tools to survive the transfer."
+      ],
+      "topics": [
+        "wealth transfer dynamics",
+        "family office demand",
+        "RIA consolidation tailwind",
+        "ultra-HNW estate planning",
+        "WM margin pressure"
+      ],
+      "highlight": "Ultra-wealthy deploy trusts, private credit, and tax strategies to concentrate inherited wealth; middle-class heirs forced to liquidate\u2014creating divergent service and fee economics across the RIA and WM industry.",
+      "relevance": 7
+    }
+  },
+  {
     "id": "63fbe8922238",
     "title": "Oil touches $87 as battle for Strait of Hormuz alarms energy markets",
     "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
@@ -1038,6 +1039,137 @@
     }
   },
   {
+    "id": "8be182cf6800",
+    "title": "Buffett to Offload Berkshire Stake in 8 Years, Gates Snubbed",
+    "url": "https://www.wealthmanagement.com/philanthropy/buffett-to-offload-berkshire-stake-in-8-years-gates-snubbed",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-14T16:18:45+00:00",
+    "summary_raw": "The 95-year-old philanthropist plans to give shares of Berkshire Hathaway to the Sherwood Foundation, the Howard G. Buffett Foundation and the NoVo Foundation, each led by his children.",
+    "summary_ai": {
+      "digest": "Warren Buffett announces plan to distribute his Berkshire Hathaway stake to three family foundations over eight years, bypassing the Gates Foundation he co-founded.",
+      "summary_long": "Buffett, 95, has committed to giving away his $147B+ Berkshire stake to three foundations run by his children: the Sherwood Foundation (son Howard), the Howard G. Buffett Foundation (also son Howard), and the NoVo Foundation (daughter Jennifer). The plan is to complete distributions within eight years of his death, a departure from his earlier Giving Pledge which directed wealth to the Gates Foundation. This move signals a deliberate shift in philanthropic control and timing, with potential implications for Berkshire's shareholder base and wealth-management structuring around concentrated holdings. The multi-foundation approach reflects family-led capital deployment rather than delegation to a single mega-foundation.",
+      "talking_points": [
+        "Buffett is liquidating his $147B+ Berkshire stake through three family foundations over eight years post-death, not to Gates Foundation as originally pledged.",
+        "Distribution to multiple family-controlled vehicles (Sherwood, Howard G. Buffett, NoVo) creates a template for ultra-high-net-worth succession and philanthropic governance.",
+        "This structure avoids concentration risk in a single foundation and signals family-led vs. institutional-delegation model for mega-wealth transfer."
+      ],
+      "topics": [
+        "wealth transfer planning",
+        "ultra-high-net-worth philanthropy",
+        "Berkshire Hathaway ownership",
+        "family office succession"
+      ],
+      "highlight": "Eight-year post-death liquidation window and three-foundation split (Sherwood, Howard G. Buffett, NoVo) suggest a deliberate governance model that keeps capital deployment within the family.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "6fdb6e915c0b",
+    "title": "Regulators issue guidance on lending to unauthorized workers",
+    "url": "https://www.bankingdive.com/news/regulators-issue-guidance-on-lending-to-unauthorized-workers/825200/",
+    "source": "Banking Dive",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-14T16:19:51+00:00",
+    "summary_raw": "<figure><div><img src=\"https://imgproxy.divecdn.com/EHrwjvYYu1mXFUJUwWENvMLAaSDt6TEPcT62euehNqs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYzNzA0NzQzX2tIZ3UzejEuanBn.webp\" /></div></figure><p>Financial institutions should &ldquo;identify, measure, monitor and control these risks&rdquo; in a way that that assesses &ldquo;a borrower&rsquo;s willingness and capacity to repay,&rdquo; regulators said.</p>",
+    "summary_ai": {
+      "digest": "Regulators issue guidance requiring banks to identify, measure, monitor, and control lending risks tied to unauthorized workers\u2014a compliance signal that may tighten credit standards or force portfolio reviews among lenders with exposure to immigrant borrower bases.",
+      "summary_long": "U.S. banking regulators have released formal guidance directing financial institutions to assess and manage risks when lending to unauthorized workers. The directive requires banks to evaluate borrower willingness and ability to repay, implying a need for enhanced due diligence on immigration status or employment authorization as part of underwriting. This guidance does not ban such lending but establishes a compliance framework and risk-management standard. The move reflects regulatory concern about credit quality, portfolio concentration risk, or reputational exposure in a politically sensitive area. For regional and community banks with significant lending to Hispanic or immigrant-heavy markets, this may require process changes, potential loan reviews, or tighter credit gates. The guidance could also create competitive friction if larger banks adopt stricter standards than smaller competitors.",
+      "talking_points": [
+        "Regulators now require explicit risk frameworks for unauthorized-worker lending\u2014banks need documented ID/authorization processes or face compliance risk.",
+        "Lenders with high exposure to immigrant communities may need to re-underwrite portfolios or tighten approval criteria, creating a credit headwind for that borrower segment.",
+        "This is a soft enforcement signal: no ban, but 'measure and monitor' language suggests examiners will scrutinize this bucket\u2014expect increased pressure on community banks with outsized exposure."
+      ],
+      "topics": [
+        "bank-compliance",
+        "credit-risk-management",
+        "regulatory-enforcement",
+        "regional-bank-operations"
+      ],
+      "highlight": "Banks must now 'identify, measure, monitor and control' lending risks tied to unauthorized workers\u2014a soft regulatory mandate that could force tighter underwriting or portfolio reviews among lenders with concentration in immigrant markets.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "b826d6a5326f",
+    "title": "LPL Financial Adds $2.4B HNW Team From U.S. Bank",
+    "url": "https://www.wealthmanagement.com/ibd-news/lpl-financial-adds-24b-highwater-wealth-team",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-14T17:17:13+00:00",
+    "summary_raw": "The San Diego-based group has affiliated with Quotient Advisor Partners, an LPL OSJ, bringing expertise in serving high-net-worth clients and multi-generational families.",
+    "summary_ai": {
+      "digest": "LPL Financial recruited a $2.4B high-net-worth advisory team from U.S. Bank through its Quotient Advisor Partners OSJ, expanding its wealth management footprint in the HNW segment.",
+      "summary_long": "LPL Financial, the largest independent broker-dealer by advisor count, onboarded a San Diego-based team managing $2.4B in client assets from U.S. Bank. The advisors affiliated with Quotient Advisor Partners, an LPL operating subsidiary jurisdiction, bringing expertise in serving ultra-high-net-worth clients and multi-generational family structures. This move signals continued consolidation in the independent wealth space as larger platforms recruit institutional-quality teams away from bank wealth divisions. For LPL, the addition bolsters its ability to compete for HNW assets without organic growth, addressing a key gap in its market positioning relative to wire-house competitors.",
+      "talking_points": [
+        "LPL pulled a $2.4B team from U.S. Bank's wealth division \u2014 a direct trade of institutional credibility for independence.",
+        "The team affiliated through Quotient Advisor Partners, an LPL OSJ, which means they remain within LPL's ecosystem rather than joining as breakaway independents.",
+        "This is textbook RIA consolidation: banks losing HNW talent to independent platforms that offer better economics and client relationship control."
+      ],
+      "topics": [
+        "RIA consolidation",
+        "HNW client recruitment",
+        "independent broker-dealers",
+        "bank wealth management attrition"
+      ],
+      "highlight": "$2.4B team from U.S. Bank affiliates with LPL's Quotient Advisor Partners OSJ.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "70271767324b",
+    "title": "AI private banking startup Flex raises $70m",
+    "url": "https://www.finextra.com/newsarticle/48092/ai-private-banking-startup-flex-raises-70m?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-14T17:50:00+00:00",
+    "summary_raw": "Flex, an AI-native private banking platform for high-net-worth business owners, has raised $70 million in funding as it bids to go global.",
+    "summary_ai": {
+      "digest": "Flex, an AI-native private banking platform for HNW business owners, raised $70M Series B to expand globally.",
+      "summary_long": "Flex positions itself as a tech-first alternative to traditional private banking, targeting high-net-worth entrepreneurs and business owners with AI-driven advisory and portfolio management. The $70M Series B signals investor conviction in the fintech private banking thesis and Flex's ability to scale beyond its initial market. The capital raise enables geographic expansion, likely into European and Asia-Pacific markets where similar wealth-management consolidation is underway. This fits a pattern: fintech platforms are fragmenting traditional private banking's margin pool by automating relationship management and lowering minimums. The timing matters\u2014private banks face fee pressure and talent costs; Flex's AI angle addresses both.",
+      "talking_points": [
+        "Flex just closed $70M Series B to build out AI-native private banking for HNW business owners\u2014direct competitive pressure on traditional PE-backed private banking platforms.",
+        "The fintech is explicitly going global; watch for expansion into UK and APAC where wealth concentration and cross-border complexity create TAM for automated advisory.",
+        "AI narrative is table stakes in wealth tech now, but Flex's focus on business owners (vs. inherited wealth) is a differentiated wedge\u2014lower fee sensitivity and higher complexity = stickier relationships."
+      ],
+      "topics": [
+        "fintech private banking",
+        "HNW wealth management",
+        "AI-native advisory",
+        "alternative asset management"
+      ],
+      "highlight": "$70M Series B for an AI-native private banking platform targeting HNW entrepreneurs\u2014signals investor appetite for automation in high-touch wealth segments.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "73ebed75d936",
+    "title": "CalSTRS and Nuveen strike $2bn strategic partnership for debt fund and \u2018adjacent opportunities\u2019",
+    "url": "https://www.privatedebtinvestor.com/calstrs-and-nuveen-strike-2bn-strategic-partnership-for-debt-fund-and-adjacent-opportunities/",
+    "source": "Private Debt Investor",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-14T17:51:56+00:00",
+    "summary_raw": "The funds will be used for sustainable opportunities across Nuveen\u2019s energy platform, including its Energy &#038; Power Infrastructure Credit Fund II.",
+    "summary_ai": {
+      "digest": "CalSTRS commits $2bn to Nuveen for debt investing across energy and power infrastructure, signaling large LP appetite for specialty finance platforms and sustainable debt.",
+      "summary_long": "California State Teachers' Retirement System (CalSTRS) has struck a $2bn strategic partnership with Nuveen, Nuveen's alternative asset management arm, focused on debt opportunities with emphasis on energy and power infrastructure. The capital will seed Nuveen's Energy & Power Infrastructure Credit Fund II and fund \"adjacent opportunities\" \u2014 language suggesting expansion beyond the named mandate into related specialty finance segments. This reflects both LP hunger for diversified debt exposure and Nuveen's ability to anchor large vehicles with institutional capital. The deal signals confidence in infrastructure debt as a distinct asset class and Nuveen's platform credibility to deploy it.",
+      "talking_points": [
+        "$2bn LP commitment to a specialty debt platform anchors a new vehicle and suggests further LP dry powder for alternative credit.",
+        "Energy infrastructure debt focus aligns with ESG/transition capital trends; the 'adjacent opportunities' language opens runway for expansion into related specialty finance (fintech lending, specialty finance platforms, etc.).",
+        "Nuveen's ability to land a $2bn mandate from a mega-LP validates its distribution and product capability \u2014 a signal for competitive positioning in alt-credit fundraising."
+      ],
+      "topics": [
+        "specialty finance",
+        "infrastructure debt",
+        "LP capital deployment",
+        "alternative assets",
+        "Nuveen platform"
+      ],
+      "highlight": "$2bn CalSTRS commitment to Nuveen energy debt platform with mandate for adjacent specialty finance expansion \u2014 concrete signal of LP appetite for structured debt vehicles.",
+      "relevance": 7
+    }
+  },
+  {
     "id": "fc03107930b6",
     "title": "Nobody Cares About the Model Now. It's About the Type of Moat",
     "url": "https://www.the-ai-corner.com/p/where-ai-moats-live-now",
@@ -1060,32 +1192,6 @@
         "data advantage"
       ],
       "highlight": "Open models now rival frontier at 1/10th the cost\u2014the moat is no longer the model, it's what you do with exclusive data or how deeply you embed in workflow.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "687a624904c5",
-    "title": "Early AI adopters set to dominate European banking market - Visa study",
-    "url": "https://www.finextra.com/newsarticle/48076/early-ai-adopters-set-to-dominate-european-banking-market---visa-study?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-13T00:01:00+00:00",
-    "summary_raw": "Artificial intelligence will fundamentally reshape retail banking by 2030, with early adopters set to significantly outperform laggards, according to a Visa survey of European industry players.",
-    "summary_ai": {
-      "digest": "Visa survey: European banks adopting AI early will outperform laggards by 2030, signaling competitive divergence in retail banking.",
-      "summary_long": "Visa conducted a survey of European banking executives on AI adoption timelines and competitive impact through 2030. The study frames AI as a structural market reshaper\u2014not a marginal productivity tool\u2014with clear winners and losers emerging by decade-end. Early movers gain cost, customer acquisition, and risk-management edges; laggards face margin compression and talent drain. This is relevant to regional bank strategy and M&A rationale: banks without AI capability may become acquisition targets or face strategic necessity to buy or partner for tech. The implication for FIG coverage is that AI capability becomes a due-diligence item and potential deal catalyst, especially for smaller players deciding whether to build, buy, or merge.",
-      "talking_points": [
-        "AI adoption is being framed as a structural competitive advantage by 2030, not a nice-to-have\u2014banks that wait risk becoming non-viable on their own.",
-        "Early adopters pull ahead on costs, customer acquisition, and risk management; the survey implies a bifurcation that could trigger M&A of laggard or mid-tier players.",
-        "This reinforces the case for fintech or AI-native acquirers targeting regional/community banks, or for regional banks to pursue bolt-on tech acquisitions now."
-      ],
-      "topics": [
-        "regional bank strategy",
-        "AI in banking",
-        "fintech M&A rationale",
-        "competitive positioning"
-      ],
-      "highlight": "Early AI adopters in European retail banking set to significantly outperform laggards by 2030, creating a strategic divide that could catalyze M&A among players without in-house AI capability.",
       "relevance": 6
     }
   },
@@ -1318,32 +1424,6 @@
         "emerging-market-PE"
       ],
       "highlight": "Goldman flagging AI as a tightening force on underwriting\u2014deal velocity likely faces headwinds as bar rises.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "5f73e6776dc2",
-    "title": "What Drives Change in 401(k) Plans?",
-    "url": "https://www.wealthmanagement.com/rpa-news/why-convergence-of-wealth-and-retirement-wins",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-13T13:22:09+00:00",
-    "summary_raw": "Advisors are driven by revenue, competitive advantage and client demand.",
-    "summary_ai": {
-      "digest": "Article examines advisor motivations for 401(k) plan innovation: revenue opportunity, competitive positioning, and client pressure are the primary drivers of change in the retirement plan market.",
-      "summary_long": "The piece explores what compels financial advisors and plan sponsors to adopt new features, services, or platforms in the 401(k) space. Rather than regulatory mandate or technology push, the analysis finds that advisors prioritize three factors: revenue expansion (higher AUM, new fee streams), competitive differentiation (to win and retain plans), and explicit client/sponsor demand (often driven by talent retention or HSA/emergency savings features). The article sits at the intersection of distribution, product innovation, and retirement plan consolidation\u2014key drivers of asset flows and advisory M&A. Understanding these motivations helps explain which 401(k) vendors and platforms gain traction and which advisory firms are targets for acquisition.",
-      "talking_points": [
-        "Advisor adoption of 401(k) innovations is revenue-driven first: firms add features when they unlock new fee streams or higher AUM capture, not primarily for regulatory compliance.",
-        "Competitive advantage and client retention are co-drivers: plan sponsors increasingly expect auto-enrollment, emergency savings, HSA integration, and financial wellness tools as table stakes.",
-        "Implies consolidation in the retirement plan space favors platforms that bundle services and lower advisory friction\u2014key acquisition thesis for RIA and wealth platform roll-ups."
-      ],
-      "topics": [
-        "401(k) plan innovation",
-        "retirement platform consolidation",
-        "wealth advisor M&A",
-        "fee compression and revenue diversification"
-      ],
-      "highlight": "Revenue opportunity and competitive differentiation, not regulation, are the primary levers driving 401(k) plan feature adoption and advisory firm platform selection.",
       "relevance": 6
     }
   },
@@ -1867,33 +1947,6 @@
     }
   },
   {
-    "id": "8b50d46367e5",
-    "title": "Iran and US launch New Missile Attacks, Battle Over Control of Strait of Hormuz",
-    "url": "https://www.insurancejournal.com/news/international/2026/07/14/877469.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-14T12:04:45+00:00",
-    "summary_raw": "Iran fired missiles at Jordan and Bahrain on Tuesday after the United States launched a five-hour attack on Iranian targets, stepping up a battle for control of the Strait of Hormuz that has pushed up oil prices to four-week highs. &#8230;",
-    "summary_ai": {
-      "digest": "Iran\u2013US missile exchange near Strait of Hormuz drives oil-price spike; insurance implications for energy, shipping, and marine coverage.",
-      "summary_long": "Escalating military tension between Iran and the U.S. over the Strait of Hormuz\u2014a critical chokepoint for global oil transit\u2014has triggered a five-hour U.S. retaliatory strike and pushed crude prices higher. The geopolitical risk creates near-term exposure for insurers writing energy, marine, and war-risk coverage in the region. P&C and specialty insurers will face claims pressure if the conflict broadens or if shipping disruptions materialize. This is a macro tail-risk event that affects insurance underwriting margins and could trigger capital calls if major underwriters suffer losses.",
-      "talking_points": [
-        "Strait of Hormuz closure or disruption would spike claims across energy liability, cargo, and war-risk policies\u2014direct hit to P&C and specialty insurers' loss ratios.",
-        "Oil-price volatility from geopolitical shock raises hedging demand for insurance and derivatives\u2014potential uptick in specialty finance and alternative-risk transfer deals.",
-        "Insurance industry may face pressure to tighten or reprice energy and marine coverage, affecting regional bank lending to energy-sector clients and specialty finance sponsors."
-      ],
-      "topics": [
-        "energy-insurance",
-        "geopolitical-risk",
-        "P&C-underwriting",
-        "war-risk-coverage",
-        "specialty-insurance"
-      ],
-      "highlight": "Strait of Hormuz disruption would trigger widespread claims across energy liability and cargo insurance; expect repricing and potential capital raises by affected underwriters.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "498b11c62b56",
     "title": "U.S. Workers Are More Productive Than Ever. A.I. Isn\u2019t the Key.",
     "url": "https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html",
@@ -2022,31 +2075,6 @@
     }
   },
   {
-    "id": "0d80fef43307",
-    "title": "Bank of America\u2019s stock reverses premarket decline in wake of blockbuster earnings report",
-    "url": "https://www.marketwatch.com/story/bank-of-america-stock-falls-despite-earnings-beat-3d4db2b4?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T13:52:00+00:00",
-    "summary_raw": "Investors initially appeared to be \u201cselling the news\u201d after the bank handily beat Wall Street\u2019s expectations",
-    "summary_ai": {
-      "digest": "Bank of America reported 15% YoY revenue growth but shares fell in premarket trading, signaling investor skepticism on earnings quality or forward guidance.",
-      "summary_long": "BofA posted strong top-line results with revenue up 15% versus the prior year\u2014a headline number that typically drives equity appreciation. However, the stock declined in premarket trading, suggesting the market either discounted the earnings beat, found guidance disappointing, or reacted to margin/credit/capital commentary that offset revenue strength. This pattern is common when banks show revenue growth without corresponding net income leverage or when management signals headwinds ahead (rising loan losses, deposit mix pressure, or capital constraints). For a FIG analyst, the mismatch between headline earnings and stock reaction is the real signal\u2014it flags either deteriorating profitability drivers or a shift in investor sentiment on the sector.",
-      "talking_points": [
-        "15% revenue growth didn't prevent a sell-off\u2014suggests margin compression, credit deterioration, or negative guidance offset the top line.",
-        "Stock reaction reveals what the market actually cares about: net income growth, ROE, capital deployment plans, or forward NII outlook\u2014not just revenues.",
-        "Pattern worth monitoring across other mega-cap banks this quarter to assess whether earnings beats are being punished broadly or if this is BofA-specific."
-      ],
-      "topics": [
-        "bank-earnings-signal",
-        "large-cap-bank-fundamentals",
-        "equity-market-reaction"
-      ],
-      "highlight": "Stock fell despite 15% revenue growth\u2014earnings beat may mask deteriorating profitability, credit stress, or negative guidance.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "9bc3c772c73e",
     "title": "DUAL Group launches global Transactional Risk offering",
     "url": "https://www.reinsurancene.ws/dual-group-launches-global-transactional-risk-offering/",
@@ -2094,31 +2122,6 @@
         "state-level-intervention"
       ],
       "highlight": "State-level antitrust action now functions as an independent kill-switch on major M&A, even when federal regulators clear the deal\u2014expanding deal execution risk.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "3bf0e1a5a893",
-    "title": "IBM shares plunge 25% as customers shift spending to AI",
-    "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T14:16:03+00:00",
-    "summary_raw": "Chief executive Arvind Krishna says company \u2018faltered\u2019 as clients raced to buy servers and storage",
-    "summary_ai": {
-      "digest": "IBM stock fell 23% after CEO attributed weakness to customers shifting IT budget spend toward AI infrastructure (servers, storage) rather than traditional enterprise software and services.",
-      "summary_long": "IBM reported earnings that disappointed investors, with CEO Arvind Krishna explicitly citing customer budget reallocation away from the company's traditional business toward AI-capable hardware and infrastructure. The 23% single-day drop reflects investor concern that IBM's legacy enterprise software and managed services\u2014core profit drivers\u2014face structural headwinds as CIOs prioritize capital for AI-readiness (GPUs, data center expansion, cloud infra). This is not a cyclical earnings miss but a shift in enterprise IT spending patterns. For FIG, the signal is that banks and financial institutions face similar budget pressure: CIO capex is flowing to AI/compute, not necessarily to core banking modernization or wealth-tech platforms.",
-      "talking_points": [
-        "IBM's 23% drop is a visceral signal that enterprise IT budgets are rotating hard into AI infrastructure\u2014servers, GPUs, storage\u2014at the expense of traditional software licensing and services.",
-        "CEOs publicly acknowledging customers are delaying or cutting non-AI spending; this is structural, not cyclical, and likely hitting other enterprise software and services vendors too.",
-        "For financial institutions specifically: FIG tech budgets may face similar compression, with CIO capex flowing to core AI (risk models, fraud detection, lending engines) rather than discretionary platform upgrades or new fintech integrations."
-      ],
-      "topics": [
-        "enterprise IT spending rotation",
-        "AI capex prioritization",
-        "software services headwinds"
-      ],
-      "highlight": "Customer budget reallocation to AI infrastructure (not a cyclical slowdown) is eroding demand for legacy enterprise software\u2014a pattern that will ripple through banking tech vendors and fintech partnerships.",
       "relevance": 6
     }
   },
@@ -2278,32 +2281,6 @@
     }
   },
   {
-    "id": "063a73a8c9fb",
-    "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
-    "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-14T15:39:29+00:00",
-    "summary_raw": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
-    "summary_ai": {
-      "digest": "Kevin Warsh, potential Fed chair candidate, pledges to prioritize inflation control and signals a policy reset from prior leadership, positioning himself as a hawk on monetary discipline.",
-      "summary_long": "Warsh, a former Fed governor and current vice chair of Salesforce, made public remarks framing inflation as a policy failure that requires corrective action. His comments reflect a hawkish stance on monetary discipline and position him within the current debate over Fed leadership and direction. The remarks carry implicit criticism of prior policy decisions, suggesting a potential shift in Fed philosophy if he were to assume a leadership role. For FIG professionals, this signals potential changes to rate-path assumptions and the regulatory/lending environment that banks navigate. The timing and tone suggest positioning ahead of potential Fed chair succession discussions.",
-      "talking_points": [
-        "Warsh frames inflation as a policy 'mistake,' signaling a hawkish stance that could shift Fed rate expectations if he gains influence.",
-        "Warsh's public positioning suggests he is competing for Fed leadership; monitor his policy statements for shifts in rate-path consensus.",
-        "If elevated to Fed chair, a Warsh-led Fed would likely prioritize inflation control over growth, affecting bank lending spreads and capital deployment."
-      ],
-      "topics": [
-        "Fed leadership",
-        "monetary policy",
-        "inflation",
-        "rate path"
-      ],
-      "highlight": "Warsh's framing of prior inflation as a 'mistake' signals potential hawkish policy reset\u2014relevant if he becomes a serious Fed chair candidate.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "53905a2136ce",
     "title": "Robotaxi Riders Are Falling Asleep, Sparking Frantic 911 Calls",
     "url": "https://www.insurancejournal.com/news/southcentral/2026/07/14/877530.htm",
@@ -2354,6 +2331,185 @@
     }
   },
   {
+    "id": "a0cf2ee985e8",
+    "title": "Antares\u2019 CEO Michael van der Straaten Dies at 58",
+    "url": "https://www.insurancejournal.com/news/international/2026/07/14/877518.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-14T16:25:00+00:00",
+    "summary_raw": "Antares, the specialist global re/insurance group, announced the death of its chief executive officer Michael van der Straaten. &#8220;It is with great sadness that we announce that Michael van der Straaten, CEO of Antares, passed away unexpectedly this weekend following &#8230;",
+    "summary_ai": {
+      "digest": "Michael van der Straaten, CEO of Antares (specialist global re/insurance group), died unexpectedly at 58.",
+      "summary_long": "Antares Capital announced the sudden death of its chief executive Michael van der Straaten over the weekend. Van der Straaten led the specialist re/insurance group, which operates in a consolidating sector where leadership continuity and M&A readiness are material to valuation and deal flow. The excerpt does not specify succession planning, interim leadership, or any strategic implications, but an unexpected C-suite death at a mid-market specialty insurer typically triggers questions about governance, client retention, and whether the firm becomes a takeover target or accelerates strategic alternatives.",
+      "talking_points": [
+        "Antares re/insurance CEO Michael van der Straaten died unexpectedly; no immediate successor named in announcement.",
+        "Leadership vacuum at a specialist insurer in a consolidating market \u2014 potential client flight risk or M&A catalyst.",
+        "Watch for succession plan disclosure and whether board initiates strategic review or expedites capital deployment."
+      ],
+      "topics": [
+        "insurance-leadership",
+        "re-insurance-m&a",
+        "insurance-consolidation"
+      ],
+      "highlight": "Unexpected CEO death at mid-market specialty insurer \u2014 monitor for succession vacuum, client retention risk, or strategic-alternatives trigger.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "3bf0e1a5a893",
+    "title": "IBM shares plunge 25% as customers shift spending to AI",
+    "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T16:27:28+00:00",
+    "summary_raw": "Chief executive Arvind Krishna says company \u2018faltered\u2019 as clients raced to buy servers and storage",
+    "summary_ai": {
+      "digest": "IBM stock fell 23% after CEO attributed weakness to customers shifting IT budget spend toward AI infrastructure (servers, storage) rather than traditional enterprise software and services.",
+      "summary_long": "IBM reported earnings that disappointed investors, with CEO Arvind Krishna explicitly citing customer budget reallocation away from the company's traditional business toward AI-capable hardware and infrastructure. The 23% single-day drop reflects investor concern that IBM's legacy enterprise software and managed services\u2014core profit drivers\u2014face structural headwinds as CIOs prioritize capital for AI-readiness (GPUs, data center expansion, cloud infra). This is not a cyclical earnings miss but a shift in enterprise IT spending patterns. For FIG, the signal is that banks and financial institutions face similar budget pressure: CIO capex is flowing to AI/compute, not necessarily to core banking modernization or wealth-tech platforms.",
+      "talking_points": [
+        "IBM's 23% drop is a visceral signal that enterprise IT budgets are rotating hard into AI infrastructure\u2014servers, GPUs, storage\u2014at the expense of traditional software licensing and services.",
+        "CEOs publicly acknowledging customers are delaying or cutting non-AI spending; this is structural, not cyclical, and likely hitting other enterprise software and services vendors too.",
+        "For financial institutions specifically: FIG tech budgets may face similar compression, with CIO capex flowing to core AI (risk models, fraud detection, lending engines) rather than discretionary platform upgrades or new fintech integrations."
+      ],
+      "topics": [
+        "enterprise IT spending rotation",
+        "AI capex prioritization",
+        "software services headwinds"
+      ],
+      "highlight": "Customer budget reallocation to AI infrastructure (not a cyclical slowdown) is eroding demand for legacy enterprise software\u2014a pattern that will ripple through banking tech vendors and fintech partnerships.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "4bc76f980d79",
+    "title": "Sky-high returns and earnings expectations could mean the end is near for this stock-market bull run",
+    "url": "https://www.marketwatch.com/story/sky-high-returns-and-earnings-expectations-could-mean-the-end-is-near-for-this-stock-market-bull-run-429b4085?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T17:12:00+00:00",
+    "summary_raw": "Never since 1950 have the S&amp;P 500\u2019s price and earnings both been so far above the historical trend at one time, one strategist said.",
+    "summary_ai": {
+      "digest": "S&P 500 valuations and earnings expectations both exceed 1950\u2013present historical norms simultaneously, signaling late-cycle conditions that could precede a correction.",
+      "summary_long": "A MarketWatch analysis flags that current S&P 500 price-to-earnings multiples and forward earnings growth expectations have no precedent in 76 years of data. The piece argues that when both metrics deviate this far above trend together\u2014rather than one offsetting the other\u2014it typically marks the inflection point before a pullback or consolidation. The implication is not necessarily imminent collapse, but that the margin for error on either valuation or earnings delivery is vanishingly small. For a FIG analyst, this matters because it signals tightening credit conditions, reduced M&A appetite, and potential pressure on bank NIM expansion if growth narratives fade.",
+      "talking_points": [
+        "Dual deviation: both S&P valuations *and* earnings growth are above 76-year trend, leaving no buffer for disappointment on either metric.",
+        "This setup has no historical parallel since 1950\u2014suggests late-cycle positioning and reduced margin of safety for equity-dependent deal flow.",
+        "If earnings estimates roll over or rates spike to justify lower multiples, FIG deal velocity typically contracts within 6\u201312 months."
+      ],
+      "topics": [
+        "valuation-cycle",
+        "equity-market-risk",
+        "earnings-expectations",
+        "late-cycle-signal"
+      ],
+      "highlight": "Both S&P 500 valuation *and* earnings growth multiples are above trend simultaneously\u2014a 76-year historical anomaly that typically precedes repricing.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "1dbff14e5e30",
+    "title": "Your paycheck is rising faster than prices for a change \u2014 but when will you feel the relief?",
+    "url": "https://www.marketwatch.com/story/your-paycheck-is-rising-faster-than-prices-for-a-change-but-when-will-you-feel-the-relief-cbbcb8bd?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T17:17:00+00:00",
+    "summary_raw": "Wage growth in June outpaced inflation, after falling behind during April and May.",
+    "summary_ai": {
+      "digest": "June wage growth outpaced inflation for the first time in three months, reversing a two-month decline in real wages.",
+      "summary_long": "Real wage growth turned positive in June as nominal wage increases exceeded the inflation rate, reversing the prior two months where workers' purchasing power contracted. The shift reflects moderating price pressures and steady labor-market strength. For FIG professionals, the implication is nuanced: sustained real wage growth supports consumer credit quality and spending, but the volatility signals an uneven disinflationary path that complicates Fed pause/pivot scenarios. Regional bank net interest margins and deposit competition remain sensitive to whether this holds.",
+      "talking_points": [
+        "Real wages finally growing month-over-month in June \u2014 first positive read in three months \u2014 as inflation continues cooling.",
+        "The volatility (two months of real-wage decline followed by rebound) suggests the disinflation path is lumpy, not a smooth downtrend.",
+        "If sustained, real wage growth supports consumer balance sheets and credit demand, but also suggests lower odds of a sharp rate-cut cycle that would help refinancing and M&A financing."
+      ],
+      "topics": [
+        "real-wage-growth",
+        "disinflation-path",
+        "consumer-credit-quality",
+        "fed-rate-cycle"
+      ],
+      "highlight": "June marks the first month in three where wage growth outpaced inflation \u2014 a signal to watch for stability in consumer health, but too early to call a trend.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "063a73a8c9fb",
+    "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
+    "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
+    "source": "CNBC Finance",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-14T17:29:07+00:00",
+    "summary_raw": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
+    "summary_ai": {
+      "digest": "Kevin Warsh, potential Fed chair candidate, pledges to prioritize inflation control and signals a policy reset from prior leadership, positioning himself as a hawk on monetary discipline.",
+      "summary_long": "Warsh, a former Fed governor and current vice chair of Salesforce, made public remarks framing inflation as a policy failure that requires corrective action. His comments reflect a hawkish stance on monetary discipline and position him within the current debate over Fed leadership and direction. The remarks carry implicit criticism of prior policy decisions, suggesting a potential shift in Fed philosophy if he were to assume a leadership role. For FIG professionals, this signals potential changes to rate-path assumptions and the regulatory/lending environment that banks navigate. The timing and tone suggest positioning ahead of potential Fed chair succession discussions.",
+      "talking_points": [
+        "Warsh frames inflation as a policy 'mistake,' signaling a hawkish stance that could shift Fed rate expectations if he gains influence.",
+        "Warsh's public positioning suggests he is competing for Fed leadership; monitor his policy statements for shifts in rate-path consensus.",
+        "If elevated to Fed chair, a Warsh-led Fed would likely prioritize inflation control over growth, affecting bank lending spreads and capital deployment."
+      ],
+      "topics": [
+        "Fed leadership",
+        "monetary policy",
+        "inflation",
+        "rate path"
+      ],
+      "highlight": "Warsh's framing of prior inflation as a 'mistake' signals potential hawkish policy reset\u2014relevant if he becomes a serious Fed chair candidate.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "f86593d23913",
+    "title": "Global oil prices notch back-to-back rise, remain \u2018tethered to the Hormuz narrative\u2019",
+    "url": "https://www.marketwatch.com/story/oil-prices-see-largest-two-day-percentage-gain-in-four-months-on-u-s-iran-fighting-040d7163?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T17:40:00+00:00",
+    "summary_raw": "Global oil prices Tuesday were on track to notch their largest two-day rise since mid-March, buoyed by further escalation in the U.S.-Iran conflict even as President Donald Trump backed away from his threat to impose a 20% fee on cargo shipped through the Strait of Hormuz.",
+    "summary_ai": {
+      "digest": "Oil prices up sharply on U.S.-Iran tensions despite Trump walking back Hormuz tariff threat; geopolitical premium now dominates price action.",
+      "summary_long": "Crude futures posted their largest two-day gain since mid-March on escalating U.S.-Iran conflict rhetoric, even as Trump reversed course on his threatened 20% tariff on Hormuz shipping. The Strait of Hormuz\u2014through which ~21% of global oil transits\u2014has become the primary price driver, replacing traditional supply/demand or Fed-rate narratives. Trump's reversal removes one tail risk but leaves underlying geopolitical stress intact. For FIG investors, this signals persistent oil-price volatility tied to non-economic shocks, which pressures energy-sector lending, hedging costs, and corporate spreads in commodities-linked sectors.",
+      "talking_points": [
+        "Oil up ~5\u20136% in two days on Iran escalation; Hormuz strait premium is now the price anchor, not Fed policy or demand.",
+        "Trump backed off the Hormuz tariff, reducing one shock, but geopolitical risk remains\u2014energy corporates and banks with energy exposure face sustained margin pressure.",
+        "For specialty finance and regional banks with energy lending: volatility is up, volatility is sticky, and refinancing windows tighten for stressed borrowers."
+      ],
+      "topics": [
+        "oil-volatility",
+        "geopolitical-risk",
+        "energy-credit"
+      ],
+      "highlight": "Hormuz remains tethered to price action despite Trump's tariff reversal\u2014sustained geopolitical premium will pressure energy-sector credit and hedging costs.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "9e9098492d23",
+    "title": "Visa unveils AI assistant for banking apps",
+    "url": "https://www.finextra.com/newsarticle/48094/visa-unveils-ai-assistant-for-banking-apps?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-14T18:25:00+00:00",
+    "summary_raw": "Visa has taken the wraps off an AI assistant that US banks can embed into their own apps to provide cardholders with financial insights.",
+    "summary_ai": {
+      "digest": "Visa launches embeddable AI assistant for US bank apps to deliver cardholder financial insights. Product positions Visa as infrastructure layer for bank digital experiences.",
+      "summary_long": "Visa is releasing an AI assistant tool that regional and community banks can integrate directly into their mobile and web applications. The assistant helps cardholders analyze spending, categorize transactions, and surface personalized financial insights\u2014functionality that historically required banks to build or license separately. This is a strategic move by Visa to deepen its role beyond payment processing into the digital banking stack, particularly for smaller institutions that lack internal AI/ML capacity. The play mirrors fintech-era trends where payments networks move upstream into data and insights. For Visa, it increases switching costs and wallet stickiness; for banks, it's a low-friction way to modernize the cardholder experience without heavy engineering lift.",
+      "talking_points": [
+        "Visa is offering AI-powered cardholder insights as a white-label feature for US banks\u2014reducing the build-versus-buy calculus for regional players.",
+        "Positions Visa as a software/SaaS layer, not just a rails company; defensive play against fintech disintermediation and bank direct-to-consumer strategies.",
+        "Community banks that adopt this gain a digital-first feature parity with larger competitors without proprietary data science investment."
+      ],
+      "topics": [
+        "fintech-tools-for-banks",
+        "Visa-strategy",
+        "bank-digital-experience",
+        "specialty-finance"
+      ],
+      "highlight": "Visa embedding AI directly into bank apps reduces the competitive moat between regional and megabanks on digital capabilities\u2014and locks banks into Visa's ecosystem.",
+      "relevance": 6
+    }
+  },
+  {
     "id": "8e0ae1231bdf",
     "title": "No SpaceX, No Tesla? No Problem for These \u2018Ex-Elon\u2019 ETFs",
     "url": "https://www.thedailyupside.com/etf/investing-strategies-etf/no-spacex-no-tesla-no-problem-for-these-ex-elon-etfs/",
@@ -2375,32 +2531,6 @@
         "market fragmentation"
       ],
       "highlight": "Niche product targeting values-based exclusion suggests sustained investor appetite for personality-driven or ideology-driven investing strategies, but product viability depends entirely on sustained cultural polarization.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "93fbc2ec8c86",
-    "title": "UK banks join financial services 'Skills Compact' to prepare staff for AI revolution",
-    "url": "https://www.finextra.com/newsarticle/48077/uk-banks-join-financial-services-skills-compact-to-prepare-staff-for-ai-revolution?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-13T09:16:00+00:00",
-    "summary_raw": "The Financial Services Skills Commission has signed up 22 financial services companies that collectively employ more than 250,000 people to a new 'Skills Compact', designed to prepare their workforces for the forthcoming AI revolution.",
-    "summary_ai": {
-      "digest": "20 UK financial services firms, including major banks, committed to a 'Skills Compact' workforce-development pact to prepare staff for AI adoption.",
-      "summary_long": "The Financial Services Skills Commission has launched a coordinated reskilling initiative across 20 firms to address anticipated workforce disruption from AI. The compact signals industry consensus that AI deployment will materially reshape job profiles and headcount mix across banking and FS. While not a regulatory mandate, the pact reflects proactive positioning ahead of potential labor shortages or skills gaps\u2014and competitive pressure to retain talent amid automation. This is a soft capital play: firms bundling reskilling into comp/HR strategy rather than hiring/laying off externally. The initiative suggests UK banks expect AI ROI to flow through cost structures and productivity, not pure headcount reduction.",
-      "talking_points": [
-        "20 UK financial services firms formalizing workforce reskilling in a single pact\u2014signals consensus that AI disruption is imminent and requires coordinated labor strategy.",
-        "Compact model allows firms to share training curriculum and costs, lowering barriers to upskilling relative to go-it-alone approaches.",
-        "Potential HR/comp implication: banks bundling reskilling into retention packages or internal mobility programs as an alternative to external hiring in high-skill roles (e.g., AI, data science, compliance tech)."
-      ],
-      "topics": [
-        "AI adoption in banking",
-        "workforce transformation",
-        "UK financial services",
-        "HR strategy"
-      ],
-      "highlight": "20 major UK FS firms entering a coordinated reskilling pact\u2014a structural signal that AI labor displacement is expected and will flow through headcount mix and comp structures, not just pure cost-outs.",
       "relevance": 5
     }
   },
@@ -2684,32 +2814,6 @@
     }
   },
   {
-    "id": "9340a74b5fbc",
-    "title": "Thomson Reuters to sell  stake in its global print business to KKR for $500m",
-    "url": "https://www.pehub.com/thomson-reuters-to-sell-stake-in-its-global-print-business-to-kkr-for-500m/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-14T11:39:19+00:00",
-    "summary_raw": "<p>Thomson Reuters will retain a 49 percent equity stake in the joint venture.</p>\n<p>The post <a href=\"https://www.pehub.com/thomson-reuters-to-sell-stake-in-its-global-print-business-to-kkr-for-500m/\">Thomson Reuters to sell  stake in its global print business to KKR for $500m</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
-    "summary_ai": {
-      "digest": "Thomson Reuters sells majority stake in global print business to KKR for $500M; TR retains 49% equity in JV.",
-      "summary_long": "Thomson Reuters is monetizing its legacy print publishing division by selling a controlling stake to KKR in a $500M transaction structured as a joint venture. TR retains a 49% minority position, suggesting the company sees residual value in the business while exiting operational control and capital drag. This is a classic PE playbook: take a mature, cash-generative but unglamorous business off a tech/data conglomerate's balance sheet, optimize costs, and harvest cash flows. The deal signals TR's continued shift toward high-margin software, data, and analytics\u2014capital-light recurring revenue. For KKR, this is a core-plus play: stable cash generation with operational leverage opportunity.",
-      "talking_points": [
-        "Thomson Reuters exiting print at $500M valuation; retains 49% upside if KKR improves returns.",
-        "Classic PE carve-out of cash cow from growth tech company; frees TR to invest in higher-margin data/analytics businesses.",
-        "JV structure lets KKR apply operational playbook (cost reduction, working capital, maybe bolt-on consolidation) while TR stays exposed to upside."
-      ],
-      "topics": [
-        "PE carve-out",
-        "legacy-business monetization",
-        "conglomerate restructuring",
-        "media/publishing asset sale"
-      ],
-      "highlight": "Thomson Reuters retains 49% in JV\u2014likely a signal of residual cash-flow confidence and potential for KKR to drive EBITDA accretion.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "05c359f510b9",
     "title": "African Risk Capacity appoints David Maslo as CEO",
     "url": "https://www.reinsurancene.ws/african-risk-capacity-appoints-david-maslo-as-ceo/",
@@ -2732,31 +2836,6 @@
         "specialty-insurance"
       ],
       "highlight": "Maslo retained permanent CEO role after stabilizing ARC through transformation\u2014signals board confidence in strategy and readiness for next phase of growth or capital deployment.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "3605750c4423",
-    "title": "Warburg Pincus-led investor group to acquire controlling stake in pharmacy Pantherx Rare",
-    "url": "https://www.pehub.com/warburg-pincus-led-investor-group-to-acquire-controlling-stake-in-pharmacy-pantherx-rare/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-14T12:36:38+00:00",
-    "summary_raw": "<p>The sellers were Nautic Partners, General Atlantic and The Vistria Group.</p>\n<p>The post <a href=\"https://www.pehub.com/warburg-pincus-led-investor-group-to-acquire-controlling-stake-in-pharmacy-pantherx-rare/\">Warburg Pincus-led investor group to acquire controlling stake in pharmacy Pantherx Rare</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
-    "summary_ai": {
-      "digest": "Warburg Pincus-led consortium acquires controlling stake in Pantherx Rare (specialty pharmacy); exits Nautic Partners, General Atlantic, Vistria Group.",
-      "summary_long": "A Warburg Pincus\u2013led investor group has agreed to acquire a controlling stake in Pantherx Rare, a specialty pharmacy focused on rare and orphan drugs. The deal represents a continuation of GP-led secondaries and sponsor consolidation in healthcare services. Prior investors Nautic Partners, General Atlantic, and The Vistria Group are exiting. The specialty pharmacy and rare-disease supply chain remains a defensive healthcare subsector with recurring revenue, though margins and reimbursement risk warrant scrutiny. This signals ongoing appetite for healthcare services roll-ups among mega-funds.",
-      "talking_points": [
-        "Warburg Pincus acquiring Pantherx Rare from Nautic/GA/Vistria\u2014classic GP-led secondary into a repeatable healthcare services platform.",
-        "Specialty pharmacy (rare drugs, orphan products) is counter-cyclical and high-sticky-revenue, but exposed to reimbursement pressure and drug-approval volatility.",
-        "Watch for add-on M&A under Warburg: this is a roll-up thesis, not a hold-and-flip."
-      ],
-      "topics": [
-        "healthcare-services-PE",
-        "specialty-pharmacy",
-        "GP-led-secondaries"
-      ],
-      "highlight": "Warburg Pincus consolidating specialty pharmacy supply chain\u2014likely to pursue add-on acquisitions and pricing discipline; watch for other healthcare services platforms getting similar treatment.",
       "relevance": 5
     }
   },
@@ -2915,27 +2994,27 @@
     }
   },
   {
-    "id": "2a21d8e3fff0",
-    "title": "Your Social Security check could go up by $74 a month next year",
-    "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-by-74-a-month-next-year-58877142?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T15:20:00+00:00",
-    "summary_raw": "Social Security\u2019s cost-of-living-adjustment could be 3.8% in 2027, as inflation shows signs of cooling.",
+    "id": "f8a6bcb3083e",
+    "title": "AM Best Assigns Credit Ratings to Arkansas\u2019 WoodStar Reciprocal Exchange",
+    "url": "https://www.insurancejournal.com/news/southcentral/2026/07/14/877565.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-14T16:44:43+00:00",
+    "summary_raw": "AM Best has assigned a Financial Strength Rating of A- (Excellent) and a Long-Term Issuer Credit Rating of &#8220;a-&#8221; (Excellent) to WoodStar Reciprocal Exchange (WoodStar), based in Little Rock, Arkansas. In addition, AM Best has assigned a Long-Term Issue Credit &#8230;",
     "summary_ai": {
-      "digest": "Social Security COLA could reach 3.8% in 2027 if inflation continues cooling, implying ~$74/month increase for average beneficiaries.",
-      "summary_long": "The Social Security Administration's cost-of-living adjustment (COLA) for 2027 is tracking toward 3.8% based on current inflation data, which would translate to roughly $74 monthly for the average retiree. COLA is calculated using the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) measured from Q3 of the prior year through Q3 of the current year. This projection assumes inflation continues its recent moderation trend. Higher COLA payments increase federal outlays and affect the solvency timeline of the Social Security Trust Fund, a long-running policy debate. For FIG professionals, this feeds into broader discussions on retirement adequacy, fixed-income asset demand, and annuity/IRA platform pricing.",
+      "digest": "AM Best assigned A- Financial Strength and a- Issuer Credit ratings to WoodStar Reciprocal Exchange, a newly rated Arkansas-domiciled reciprocal insurer.",
+      "summary_long": "WoodStar Reciprocal Exchange, a mutual insurance entity based in Little Rock, has received its inaugural credit ratings from AM Best at the Excellent tier (A- Financial Strength, a- Long-Term Issuer). Reciprocal exchanges are member-owned insurers where policyholders are also underwriters, creating a different capital and governance structure than stock insurers. The rating reflects AM Best's assessment of WoodStar's financial capacity and claims-paying ability. This is likely a formational or early-stage rating event for a niche insurance vehicle. The Excellent rating suggests strong initial capital adequacy and underwriting discipline, but the reciprocal model remains a smaller segment of the insurance market.",
       "talking_points": [
-        "3.8% COLA for 2027 would be the third consecutive year above the 2.5% historical average\u2014structural demand signal for retirement income products.",
-        "Trust Fund solvency math worsens with higher COLA payouts; policy risk for wealth platforms and IRA custodians focused on retirement solutions.",
-        "Rising benefit checks support consumer spending and may dampen deflationary concerns in late-cycle economic scenarios."
+        "WoodStar Reciprocal rated A- by AM Best on inaugural assessment\u2014signals solid capital foundation for a mutual insurer entry.",
+        "Reciprocal exchanges are member-owned and underwrite their own risks, differentiating them from stock carriers in capital structure and cost profile.",
+        "Early-stage rating validation may support premium growth and policyholder confidence, though reciprocals remain a niche distribution channel."
       ],
       "topics": [
-        "Social Security policy",
-        "COLA inflation",
-        "retirement income demand"
+        "insurance-ratings",
+        "reciprocal-exchange",
+        "capital-formation"
       ],
-      "highlight": "3.8% COLA projection reinforces multi-year above-trend benefit growth, tightening the Social Security Trust Fund's runway and opening policy/rate-hike debate cycles.",
+      "highlight": "A- Financial Strength rating on first evaluation supports WoodStar's credibility to attract members and write premium in a capital-efficient reciprocal model.",
       "relevance": 5
     }
   },
@@ -3035,6 +3114,30 @@
         "institutional-dynamics"
       ],
       "highlight": "The top 1% of economists have held their position despite a 6x expansion of the field, suggesting entrenched gatekeeping rather than competitive sorting.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "ae819d01a64c",
+    "title": "11 Investment Must Reads for This Week (July 14, 2026)",
+    "url": "https://www.wealthmanagement.com/alternative-investments/private-markets-face-volatility-as-ai-boom-questions-mount",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-13T20:06:09+00:00",
+    "summary_raw": "Private equity players are paring back data center holdings, reports Morningstar. ETF.com looks at why small-cap stocks are outperforming. These are among the investment must reads for financial advisors this week.",
+    "summary_ai": {
+      "digest": "Weekly roundup of asset management and market content for advisors; includes PE data center pullback and small-cap outperformance analysis.",
+      "summary_long": "This is a curated digest of investment reading for wealth managers and financial advisors, touching on sector trends and market performance. The excerpt flags two themes: PE players reducing data center exposure (a signal of capital redeployment and possibly valuation concerns in that subsector) and small-cap outperformance (a tactical positioning note). Without the full list of articles, the piece functions as a content aggregator rather than original analysis or a deal/regulatory catalyst. The data center trend is worth monitoring for FIG clients with infrastructure or tech-heavy portfolios, but no specific transactions, capital raises, or regulatory actions are named.",
+      "talking_points": [
+        "PE is paring data center holdings\u2014signals either valuation reset or capital redeployment into higher-return sectors.",
+        "Small-cap outperformance in the current cycle warrants client-facing positioning discussions."
+      ],
+      "topics": [
+        "PE capital redeployment",
+        "wealth advisor content",
+        "sector rotation"
+      ],
+      "highlight": "PE data center pullback may indicate timing/valuation shift in the infrastructure allocation cycle.",
       "relevance": 4
     }
   },
@@ -3216,55 +3319,6 @@
     }
   },
   {
-    "id": "c7d5f51f8888",
-    "title": "Why SpaceX and Tesla are \u2018value\u2019 stocks, according to this fund manager",
-    "url": "https://www.marketwatch.com/story/why-spacex-and-tesla-are-value-stocks-according-to-this-fund-manager-5f59ff86?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T13:45:00+00:00",
-    "summary_raw": "Tesla and SpaceX may be winners in the next evolution of value investing, says the president and chief investment officer of Tsai Capital, Christopher Tsai.",
-    "summary_ai": {
-      "digest": "A fund manager argues Tesla and SpaceX qualify as 'value' stocks based on long-term cash flow potential and technological moats, inverting traditional valuation metrics.",
-      "summary_long": "Christopher Tsai (Tsai Capital) reframes Tesla and SpaceX as undervalued on a discounted-cash-flow basis, claiming markets misprice companies with durable competitive advantages and decades-long runways. The thesis hinges on technological edge, capital efficiency, and secular tailwinds in EVs, energy storage, and space. This represents a philosophical split from traditional value investing (low P/E, book value, dividend yield) toward \"quality at a reasonable price.\" For FIG investors, the argument is less about these companies and more about how growth-stage private companies in fintech, wealth tech, and digital assets are being valued\u2014and whether similar optionality is being overlooked in public markets.",
-      "talking_points": [
-        "Value-investing framework is shifting from multiple arbitrage to long-duration cash flow and technological moat durability.",
-        "Relevant lens: Are we mispricing fintech and digital-asset platforms using outdated metrics when they have 20+ year runway and winner-take-most dynamics?"
-      ],
-      "topics": [
-        "value-investing-framework",
-        "long-duration-assets",
-        "capital-allocation"
-      ],
-      "highlight": null,
-      "relevance": 4
-    }
-  },
-  {
-    "id": "0e773e9852cd",
-    "title": "Social Security says it\u2019s handling disability claims better. But it may just be pushing more people  away.",
-    "url": "https://www.marketwatch.com/story/social-security-says-its-handling-disability-claims-better-but-it-may-just-be-pushing-more-people-away-413a6b61?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T14:00:00+00:00",
-    "summary_raw": "The rate of denials has increased in disability cases, research shows",
-    "summary_ai": {
-      "digest": "Social Security disability denial rates have risen despite agency claims of improved processing; research suggests the agency is discouraging claims rather than efficiently handling them.",
-      "summary_long": "Social Security Administration has publicized faster claim processing times and efficiency gains, but underlying data reveals denial rates for disability claims have increased meaningfully. The pattern suggests the agency may be using procedural barriers or stricter initial evaluation to reduce caseload rather than genuinely improving outcomes. For financial services professionals, this has secondary relevance: rising disability denials affect consumer credit profiles, reduce demand for certain insurance products, and may shift lending risk calculations for subprime portfolios. The dynamic also signals potential political pressure on benefits spending that could ripple into specialty finance and consumer credit modeling.",
-      "talking_points": [
-        "Denial rates rising while processing times improve\u2014suggests SSA optimizing for speed over approval, not genuine efficiency.",
-        "Demographic shift: disability claimants denied benefits may shift toward alternative credit products or subprime lending, affecting risk profiles.",
-        "Policy signal: if benefits tightening continues, consumer finance and specialty lenders need to adjust underwriting and portfolio stress assumptions."
-      ],
-      "topics": [
-        "consumer-credit-risk",
-        "regulatory-policy",
-        "specialty-finance"
-      ],
-      "highlight": "Rising denial rates despite faster processing may indicate systemic discouragement of claims rather than operational improvement\u2014a subtle policy shift that affects credit risk and specialty finance underwriting.",
-      "relevance": 4
-    }
-  },
-  {
     "id": "f0a6a8b42660",
     "title": "ArchiMed takes biopharma firm Esperion Therapeutics private for $1.1bn",
     "url": "https://www.pehub.com/archimed-takes-biopharma-firm-esperion-therapeutics-private-for-1-1bn/",
@@ -3408,6 +3462,132 @@
         "specialty-lines-health"
       ],
       "highlight": "Two health re/insurance specialists with existing LatAm client books now anchor Guy Carpenter's Miami hub\u2014talent acquisition as a market-share lever in a fragmented region.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "8fed0ba63b69",
+    "title": "Tuesday assorted links",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-577",
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "section": "Learn",
+    "date": "2026-07-14T16:09:08+00:00",
+    "summary_raw": "<p>1. Were the 1980s so great for kids? 2. Elasticity Institute, new for the economics of AI. 3. Can you get a job at Bending Spoons? (WSJ) 4. How are AI agents changing basketball analytics? 5. Terminal lucidity for dementia patients? (NYT) 6. Why are Australian real wages collapsing?</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/tuesday-assorted-links-577.html\">Tuesday assorted links</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal RE",
+    "summary_ai": {
+      "digest": "Tyler Cowen's weekly link roundup covering AI economics, labor markets, wage trends, and demographic shifts\u2014no deep dive on any single topic.",
+      "summary_long": "Marginal Revolution's signature Tuesday assorted links format: six unrelated items spanning childhood welfare, AI labor economics (Elasticity Institute), hiring practices at Bending Spoons, AI applications in sports analytics, medical phenomena, and Australian wage decline. Cowen curates across disciplines to surface second-order thinking and counterintuitive patterns. The AI and labor market threads (Elasticity Institute, Bending Spoons hiring, basketball analytics) have potential relevance to fintech and digital asset talent markets; Australian wage collapse could signal broader labor-cost dynamics affecting global financial services.",
+      "talking_points": [
+        "Elasticity Institute is a new center focused on AI economics\u2014worth watching for talent and cost-structure implications for fintech and digital platforms.",
+        "AI agents are reshaping analytics and decision-making in sports; similar tools are being deployed in credit underwriting, portfolio optimization, and risk modeling.",
+        "Australian real-wage collapse suggests labor arbitrage and productivity shifts that could reshape global staffing and outsourcing patterns in financial services."
+      ],
+      "topics": [
+        "AI-labor-economics",
+        "talent-markets",
+        "wage-trends"
+      ],
+      "highlight": null,
+      "relevance": 4
+    }
+  },
+  {
+    "id": "c22ac3e75ac6",
+    "title": "Michigan Sues Water Services Company for Allegedly Submitting False Safe Reports",
+    "url": "https://www.insurancejournal.com/news/midwest/2026/07/14/877550.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-14T16:15:41+00:00",
+    "summary_raw": "Michigan Attorney General Dana Nessel has filed a civil lawsuit against the president of water services provider Douglas Environmental for allegedly violating the Natural Resources and Environmental Protection Act (NREPA). Nessel contends that Brian Powell submitted false reports that did &#8230;",
+    "summary_ai": {
+      "digest": "Michigan AG sues water services company president for submitting false environmental compliance reports under NREPA; potential liability exposure for the company and reputational risk.",
+      "summary_long": "Michigan Attorney General Dana Nessel filed a civil lawsuit against Brian Powell, president of Douglas Environmental, for allegedly violating the Natural Resources and Environmental Protection Act by submitting false safe-water reports. The suit targets both Powell personally and the company, suggesting potential criminal or civil penalties and operational constraints on the water services business. This type of enforcement action typically triggers regulatory scrutiny of the firm's compliance infrastructure, potential fines, and in some cases forced operational changes or asset sales. For FIG purposes, this signals regulatory risk in the specialty-services/utilities space and could implicate D&O insurance exposure or M&A reconsideration if Douglas Environmental was under review by a buyer.",
+      "talking_points": [
+        "Michigan AG filed civil lawsuit against Douglas Environmental president for false environmental compliance filings\u2014signals regulatory enforcement risk in water services.",
+        "Personal liability against the company president may indicate broader compliance-culture issues that could deter acquirers or trigger insurance claims.",
+        "Regulatory action in environmental compliance typically precedes operational restrictions or forced divestitures, affecting the company's valuation and financing optionality."
+      ],
+      "topics": [
+        "regulatory-enforcement",
+        "environmental-compliance",
+        "specialty-services-liability",
+        "D&O-insurance-risk"
+      ],
+      "highlight": "Civil lawsuit against company president for false safe-water reports under NREPA; personal liability implies potential cultural/governance issues affecting M&A and insurance.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "4a1ae5a18912",
+    "title": "Indiana Woman Pleads Guilty to Defrauding Elderly Victim of More Than $500K",
+    "url": "https://www.insurancejournal.com/news/midwest/2026/07/14/877568.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-14T16:54:35+00:00",
+    "summary_raw": "An Indiana woman has pleaded guilty to wire fraud for her role in a six\u2011year scheme that targeted and financially devastated an elderly victim Shayna Williams, 51, of Westfield, was involved in a car accident with an elderly woman. Following &#8230;",
+    "summary_ai": {
+      "digest": "Indiana woman pleads guilty to wire fraud in a six-year scheme defrauding an elderly victim of over $500K, starting after a staged car accident.",
+      "summary_long": "Shayna Williams, 51, exploited an elderly victim through a prolonged fraud scheme initiated by a car accident. Over six years, she systematically extracted funds through wire fraud, gaining the victim's trust and access to financial accounts. The case illustrates a vulnerability in elder-targeting financial crime and the long runway such schemes can have before detection. While a criminal matter rather than a regulatory enforcement action, it underscores operational and compliance risks for financial institutions handling elderly clients\u2014particularly around account activity monitoring and beneficiary changes.",
+      "talking_points": [
+        "Wire fraud conviction in a $500K+ elder-targeting scheme demonstrates a six-year exploitation window, raising questions about bank monitoring gaps.",
+        "Scheme initiated through personal relationship (staged accident), suggesting transaction-monitoring systems may miss gradual account takeover patterns.",
+        "Relevant to compliance/AML conversations around elderly account protection and early-warning triggers for unusual beneficiary or fund-transfer activity."
+      ],
+      "topics": [
+        "elder-fraud",
+        "wire-fraud-prosecution",
+        "AML-compliance",
+        "financial-crime"
+      ],
+      "highlight": "Six-year fraud cycle suggests weak detection of gradual account takeover\u2014relevant benchmark for bank compliance program design.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "570cd28bf9cd",
+    "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+    "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T17:00:00+00:00",
+    "summary_raw": "\u201cI\u2019ve just been ignoring their attempts.\u201d",
+    "summary_ai": {
+      "digest": "A MarketWatch reader describes persistent scammer attempts to change email credentials on an empty Robinhood brokerage account; the article explores what attackers gain from compromising dormant accounts.",
+      "summary_long": "The piece documents a consumer's experience with repeated account takeover attempts on a Robinhood account that holds no assets. The attacker's motive is unclear at first: taking over an empty account appears to yield no immediate financial gain. The article then explores plausible scenarios\u2014credential harvesting for resale on dark web markets, account credential validation for targeting linked bank/payment accounts, or simple credential stuffing as part of bulk phishing campaigns. The underlying issue reflects broader fintech security vulnerabilities and the value of identity/credentials independent of account balance.",
+      "talking_points": [
+        "Account takeover attempts on empty brokerage accounts signal credential-harvesting operations targeting linked bank and payment information, not the brokerage balance itself.",
+        "Dormant or zero-balance accounts are low-friction targets for testing stolen credentials at scale before targeting funded accounts.",
+        "Fintech platforms remain attractive entry points for lateral attacks on consumer financial ecosystems, even when the primary account has no value."
+      ],
+      "topics": [
+        "fintech-security",
+        "retail-brokerage",
+        "identity-theft"
+      ],
+      "highlight": "Attackers may be harvesting credentials to pivot to linked bank accounts and payment methods rather than targeting the empty brokerage balance itself.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "fef76f30b611",
+    "title": "Banyan promotes Simon G\u00e9linas to managing director and investments head",
+    "url": "https://www.pehub.com/banyan-promotes-simon-gelinas-to-managing-director-and-investments-head/",
+    "source": "PE Hub",
+    "section": "PE & Deals",
+    "date": "2026-07-14T17:04:26+00:00",
+    "summary_raw": "<p>In this role, G\u00e9linas will assume day-to-day leadership of Banyan\u2019s investment function, including pipeline management, investment selection and execution and asset management across the firm\u2019s portfolio.</p>\n<p>The post <a href=\"https://www.pehub.com/banyan-promotes-simon-gelinas-to-managing-director-and-investments-head/\">Banyan promotes Simon G\u00e9linas to managing director and investments head</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
+    "summary_ai": {
+      "digest": "Banyan Capital promotes Simon G\u00e9linas to managing director and head of investments, taking day-to-day control of pipeline, deal selection, and portfolio management.",
+      "summary_long": "G\u00e9linas moves into a leadership role overseeing all investment functions at Banyan Capital, a financial-services focused PE firm. This is a standard internal promotion that signals confidence in his execution capability and likely reflects either growth in deal flow or a restructuring of investment governance. The move does not itself indicate new capital, deployment, or sector strategy, but it does suggest Banyan is scaling its investment team. For someone tracking PE hiring and banker movement, this confirms Banyan is active and consolidating decision-making around deal sourcing and asset management.",
+      "talking_points": [
+        "Banyan is centralizing investment leadership under G\u00e9linas \u2014 suggests the firm is either raising new capital or optimizing governance for higher deal velocity.",
+        "G\u00e9linas now owns pipeline, selection, and asset management \u2014 typical for a pre-senior partner track at a mid-market PE shop with FIG focus."
+      ],
+      "topics": [
+        "PE leadership",
+        "PE hiring",
+        "financial-services PE"
+      ],
+      "highlight": null,
       "relevance": 4
     }
   },
@@ -3613,47 +3793,24 @@
     }
   },
   {
-    "id": "2d27f7e040b9",
-    "title": "People Moves: Clifford Takes On Expanded Role for NFP\u2019s Construction Unit",
-    "url": "https://www.insurancejournal.com/news/east/2026/07/14/876712.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-14T10:48:40+00:00",
-    "summary_raw": "NFP&#8217;s Clifford Named U.S. Brokerage and Account Management Leader Tom Clifford assumed an expanded leadership role as leader of U.S. brokerage and account management in the construction and infrastructure (C&#38;I) group at NFP, an Aon company. Based in New York, &#8230;",
+    "id": "859d085acf1c",
+    "title": "CAI Capital-backed GreenArrow acquires three transportation tech firms",
+    "url": "https://www.pehub.com/cai-capital-backed-greenarrow-acquires-three-transportation-tech-firms/",
+    "source": "PE Hub",
+    "section": "PE & Deals",
+    "date": "2026-07-14T17:01:51+00:00",
+    "summary_raw": "<p>Based in East Chicago, Indiana, GreenArrow is a provider of advanced transportation infrastructure and electrical services across the US.</p>\n<p>The post <a href=\"https://www.pehub.com/cai-capital-backed-greenarrow-acquires-three-transportation-tech-firms/\">CAI Capital-backed GreenArrow acquires three transportation tech firms</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
     "summary_ai": {
-      "digest": "Tom Clifford elevated to lead U.S. brokerage and account management for NFP's construction and infrastructure group, expanding his role within the Aon subsidiary.",
-      "summary_long": "NFP, which is owned by Aon, has promoted Tom Clifford into an expanded leadership position overseeing U.S. brokerage and account management for its construction and infrastructure (C&I) segment. The move reflects organizational restructuring within NFP's insurance brokerage operations. Clifford is based in New York. The promotion signals NFP's continued investment in its C&I vertical, a historically resilient insurance segment tied to capital project cycles. No deal size, capital raise, or regulatory trigger is disclosed; this is a pure management reshuffle within an existing Aon subsidiary.",
+      "digest": "CAI Capital-backed GreenArrow acquired three transportation tech firms. No deal size, terms, or target names disclosed in excerpt.",
+      "summary_long": "GreenArrow, a PE-backed infrastructure and electrical services provider based in East Chicago, has completed a bolt-on acquisition of three transportation technology companies. The excerpt provides no financial terms, valuation, or target identities, limiting deal-flow utility. This appears to be a routine add-on acquisition within a PE portfolio company, likely part of a roll-up or consolidation strategy in infrastructure services. Without capital deployment size or strategic rationale, the signal value for FIG M&A trends or financing is minimal.",
       "talking_points": [
-        "NFP (Aon subsidiary) consolidating U.S. brokerage leadership under Clifford in construction and infrastructure \u2014 watch for follow-on restructuring in this segment.",
-        "Movement at this level often precedes either M&A in the C&I niche or headcount reductions; no signal here, but worth flagging for Q3 earnings calls."
+        "PE-backed platform play in transportation infrastructure, but no deal size or terms disclosed\u2014limits deal-flow signal.",
+        "No financial details, target names, or strategic rationale provided; insufficient to assess capital deployment or sector consolidation momentum."
       ],
       "topics": [
-        "insurance brokerage",
-        "organizational restructuring",
-        "Aon subsidiaries"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
-    "id": "278906af654d",
-    "title": "IBM\u2019s stock is having its worst day ever after the surprise release of an earnings miss",
-    "url": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T14:10:00+00:00",
-    "summary_raw": "IBM\u2019s stock plunges after a preliminary release of profit and revenue that were well below expectations.",
-    "summary_ai": {
-      "digest": "IBM stock fell sharply on an earnings miss\u2014profit and revenue both came in well below expectations in a preliminary release.",
-      "summary_long": "IBM released preliminary earnings that disappointed on both the top and bottom line, triggering a sharp sell-off. The company's miss suggests operational or demand headwinds in its core business. For a FIG analyst, this is notable only as a market-sector signal\u2014it reflects broader confidence erosion in tech/enterprise software spending, which can ripple into tech-focused wealth platforms, fintech infrastructure costs, and bank lending to software/IT services. No direct deal, capital, or financial-institution angle.",
-      "talking_points": [
-        "Large-cap tech earnings miss can signal tightening IT budgets across financial services\u2014watch for downstream impact on fintech infrastructure spending and bank tech vendor costs.",
-        "IBM's slide is a sector sentiment tell, not a FIG story itself."
-      ],
-      "topics": [
-        "market-sentiment",
-        "tech-sector-signal"
+        "pe-portfolio-bolt-on",
+        "infrastructure-services",
+        "add-on-m&a"
       ],
       "highlight": null,
       "relevance": 3
@@ -3661,11 +3818,11 @@
   },
   {
     "id": "791fdd868a4c",
-    "title": "Watch Fed Chairman Kevin Warsh testify live to House Financial Services committee",
+    "title": "Watch: Fed Chairman Kevin Warsh testifies to House Financial Services committee",
     "url": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
     "source": "CNBC Finance",
     "section": "FIG \u2014 Banks",
-    "date": "2026-07-14T14:25:02+00:00",
+    "date": "2026-07-14T17:26:37+00:00",
     "summary_raw": "In remarks prepared for the appearance, Warsh promised a vigilant fight to return inflation to the Fed's 2% target.",
     "summary_ai": {
       "digest": "Fed Chair Kevin Warsh testifies to House Financial Services on inflation target and Fed policy direction; no deal or capital announcement in prepared remarks.",
@@ -3681,28 +3838,6 @@
       ],
       "highlight": null,
       "relevance": 3
-    }
-  },
-  {
-    "id": "6b0574815b7b",
-    "title": "Sunday assorted links",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-575",
-    "source": "Marginal Revolution (Tyler Cowen)",
-    "section": "Learn",
-    "date": "2026-07-12T17:21:15+00:00",
-    "summary_raw": "<p>1. NYT overview of Foucault. 2. Solar mirrors to turn night into day? (NYT) 3. How does the butterfly retain the memories of the caterpillar? 4. The Taliban declares war on smartphones. 5. Links from Sam Enright. 6. Why are U.S. ambulance rides so costly? 7. Richard Hanania on The Sopranos.</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/sunday-assorted-links-575.html\">Sunday assorted links</a> appeared first on <a href=\"https://marginalrevolution.com\">Margi",
-    "summary_ai": {
-      "digest": "Sunday link roundup spanning Foucault, solar engineering, Taliban policy, ambulance economics, and cultural analysis\u2014no unifying theme or finance angle.",
-      "summary_long": "This is a classic Marginal Revolution assorted-links post: a curated grab-bag of reads across philosophy, science, policy, economics, and culture. The pieces touch on metamorphosis memory, Taliban smartphone bans, U.S. healthcare cost structure, and television criticism. The ambulance-cost item has mild economic interest (a classic U.S. market failure case), but the post is primarily a discovery mechanism for eclectic intellectual content rather than analysis. No new data, no argument, no frame\u2014just links.",
-      "talking_points": [
-        null
-      ],
-      "topics": [
-        "intellectual-curiosity",
-        "misc"
-      ],
-      "highlight": null,
-      "relevance": 2
     }
   },
   {
@@ -3896,29 +4031,6 @@
     }
   },
   {
-    "id": "783b8dfcb7fe",
-    "title": "Odyssey invests in packaging and logistics firm TransPak",
-    "url": "https://www.pehub.com/odyssey-invests-in-packaging-and-logistics-firm-transpak/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-14T11:47:53+00:00",
-    "summary_raw": "<p>Odyssey\u2019s investment will support TransPak\u2019s next phase of growth.</p>\n<p>The post <a href=\"https://www.pehub.com/odyssey-invests-in-packaging-and-logistics-firm-transpak/\">Odyssey invests in packaging and logistics firm TransPak</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
-    "summary_ai": {
-      "digest": "Odyssey invests in packaging and logistics firm TransPak to support growth; deal size and terms not disclosed.",
-      "summary_long": "Odyssey, a PE firm, has made an investment in TransPak, a packaging and logistics company. The excerpt provides minimal detail on deal structure, valuation, or capital committed. Without size, entry multiple, or growth thesis, the article offers no actionable deal intelligence. This reads as a press release placeholder rather than substantive coverage.",
-      "talking_points": [
-        "Odyssey backing TransPak \u2014 but deal size, valuation, and entry thesis are completely opaque.",
-        "No information on TransPak's revenue, EBITDA, market position, or why Odyssey is deploying capital here."
-      ],
-      "topics": [
-        "pe-deployment",
-        "logistics"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
     "id": "35c1eb53a84a",
     "title": "Stocks making the biggest moves premarket: JPMorgan Chase, Bank of America, IBM, Apple & more",
     "url": "https://www.cnbc.com/2026/07/14/stocks-making-the-biggest-moves-premarket-jpm-bac-ibm-aapl.html",
@@ -4082,6 +4194,29 @@
     }
   },
   {
+    "id": "2babd5580fc1",
+    "title": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+    "url": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T16:00:00+00:00",
+    "summary_raw": "\u201cWhen I pass, all my retirement income is reduced to $30,000 a year.\u201d",
+    "summary_ai": {
+      "digest": "A 67-year-old with $140k pension asks whether delaying Social Security to 70 increases survivor benefits for his wife; the math depends on life expectancy and spousal claiming rules, which have changed.",
+      "summary_long": "The article frames a common retirement-planning question: should someone delay claiming Social Security from 67 to 70 to maximize their Primary Insurance Amount (PIA) and, by extension, the survivor benefit their spouse receives upon death? The excerpt hints at a key constraint: when the claimant dies, household income drops to $30k annually (likely the wife's own benefit or a reduced widow's benefit). The decision hinges on three factors\u2014life expectancy, current household cash flow, and whether the spouse will outlive the claimant by many years. Delaying from 67 to 70 increases the claimant's own benefit by ~24% and the widow's benefit proportionally, but only pays off if longevity is high or the surviving spouse has a long retirement ahead. This is personalized advice territory, not systemic FIG insight.",
+      "talking_points": [
+        "Social Security claiming strategy at 67 vs. 70 is a household-level trade-off between current income and future survivor protection, not a market or sector signal.",
+        "Survivor benefit equals roughly 75\u2013100% of what the deceased worker was receiving; delaying from 67 to 70 increases that by ~24%, but only helps if the widow outlives the claimant by many years."
+      ],
+      "topics": [
+        "retirement-planning",
+        "social-security"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
     "id": "6cda76093c83",
     "title": "Texas Contractor Cited After Worker Dies in Elementary School Crawl Space",
     "url": "https://www.insurancejournal.com/news/southcentral/2026/07/14/877544.htm",
@@ -4177,30 +4312,12 @@
     "summary_raw": "Make sense of the latest business and policy headlines with our daily newsletter.",
     "summary_ai": {
       "digest": "Newsletter signup prompt for DealBook, NYT's daily business and policy digest.",
-      "summary_long": "This is a promotional call-to-action for DealBook, the New York Times' flagship business newsletter covering M&A, markets, regulation, and policy. It offers no new information, analysis, or reporting\u2014just a subscription funnel. For someone already consuming financial news at scale, this is pure promotional noise.",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "bb418a83a4bf",
-    "title": "YouTube influencers talked me into getting a travel card at 20. Then I realized it wasn\u2019t for me.",
-    "url": "https://www.marketwatch.com/story/youtube-influencers-talked-me-into-getting-a-travel-card-at-20-then-i-realized-it-wasnt-for-me-101138b5?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T13:44:00+00:00",
-    "summary_raw": "How to decide whether a travel-rewards card is worth it. Plus: Protect yourself in the event that your credit-card points get devalued.",
-    "summary_ai": {
-      "digest": "Consumer story about travel-rewards card regret; includes generic guidance on evaluating card economics and points devaluation risk.",
-      "summary_long": "A 20-year-old describes being persuaded by YouTube influencers to open a travel-rewards credit card, then realizing it didn't match their spending habits or lifestyle. The article pivots to standard consumer advice: calculate whether annual fees and earning rates justify your actual spend, and be aware that points can lose value if a card issuer devalues rewards or exits the program. No new market or sector intelligence; pure consumer education.",
+      "summary_long": "This is a subscription CTA for DealBook, the New York Times' flagship business newsletter covering corporate deals, policy, and markets. The piece itself contains no original reporting, analysis, or data\u2014it is purely promotional material inviting readers to subscribe to receive curated headlines and commentary. For a financial analyst tracking deal flow and macro conditions, DealBook can be a useful aggregator of headline risk and policy moves, but this particular item is not an article and carries no informational content.",
       "talking_points": [
-        "No actionable market signal here\u2014this is a retail consumer piece, not a credit-market or bank-sector read-through."
+        "This is a signup page, not an article\u2014no substantive content to extract or act on."
       ],
       "topics": [
-        "consumer-credit",
-        "rewards-programs"
+        "newsletter-signup"
       ],
       "highlight": null,
       "relevance": 1
@@ -4215,7 +4332,7 @@
     "date": "2026-07-14T15:21:00+00:00",
     "summary_raw": "Aortic dissections are extremely rare; however, people with a family history or who have been diagnosed with certain genetic syndromes have an elevated risk",
     "summary_ai": {
-      "digest": "Null. Not relevant to financial institutions, markets, or career.",
+      "digest": null,
       "summary_long": null,
       "talking_points": null,
       "topics": null,
@@ -4232,29 +4349,128 @@
     "date": "2026-07-14T15:30:00+00:00",
     "summary_raw": "\u201cI\u2019m wondering whether I should ask to work with someone closer to our generation.\u201d",
     "summary_ai": {
-      "digest": "Retiree questions whether adviser's casual speech ('you guyses') signals unprofessionalism or generational mismatch.",
-      "summary_long": "A MarketWatch advice column addresses a retired couple's discomfort with their younger financial adviser's informal speech patterns. The question conflates colloquial language with professional competence, touching on age-based bias in advisor relationships. The column likely explores whether communication style matters relative to investment performance and fiduciary behavior. No substance on adviser quality, assets under management, fee structure, or service delivery.",
-      "talking_points": [],
+      "digest": "A retiree questions whether a younger adviser's casual speech ('you guyses') signals unprofessionalism or incompetence.",
+      "summary_long": "A MarketWatch advice column addresses a reader's concern about a financial adviser in his 30s who uses colloquial phrasing. The reader, retired, wonders if casual speech reflects lack of expertise or if generational communication styles are simply different. The column likely argues that substance (investment performance, fiduciary behavior, fee structure) matters far more than speech patterns, and that dismissing a competent adviser for linguistic informality is a poor reason to switch. The real question is whether the adviser is managing their portfolio well and communicating strategy clearly.",
+      "talking_points": [
+        "Conflating communication style with competence is a common cognitive bias; performance and process matter infinitely more than generational courtesy norms.",
+        "If the adviser is executing well and delivering returns, speech patterns are noise; if returns are weak, the problem isn't 'you guyses'\u2014it's the strategy."
+      ],
       "topics": [
-        "advisor-client-relations"
+        "adviser-selection",
+        "soft-skills"
       ],
       "highlight": null,
       "relevance": 1
     }
   },
   {
-    "id": "2babd5580fc1",
-    "title": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
-    "url": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+    "id": "f750be592f21",
+    "title": "Innovatus-backed Meet The People scoops up ad agency The Loomis Agency",
+    "url": "https://www.pehub.com/innovatus-backed-meet-the-people-scoops-up-ad-agency-the-loomis-agency/",
+    "source": "PE Hub",
+    "section": "PE & Deals",
+    "date": "2026-07-14T16:25:39+00:00",
+    "summary_raw": "<p>Also included in the acquisition is The Loomis Agency\u2019s digital marketing arm iluminere.</p>\n<p>The post <a href=\"https://www.pehub.com/innovatus-backed-meet-the-people-scoops-up-ad-agency-the-loomis-agency/\">Innovatus-backed Meet The People scoops up ad agency The Loomis Agency</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
+    "summary_ai": {
+      "digest": "Innovatus-backed Meet The People acquired ad agency The Loomis Agency and its digital marketing arm iluminere; deal size and terms not disclosed.",
+      "summary_long": "Innovatus Capital Partners portfolio company Meet The People has acquired The Loomis Agency, a full-service ad agency, along with its digital marketing subsidiary iluminere. The deal represents a roll-up or platform expansion within the marketing services sector under PE ownership. No financial terms, valuation, or strategic rationale are provided in the excerpt. Without size, structure, or buyer/seller context, the deal's relevance to financial services coverage is unclear.",
+      "talking_points": [
+        "Meet The People (Innovatus portfolio) acquired The Loomis Agency + iluminere digital arm; no deal size or terms disclosed.",
+        "Ad-tech/marketing-services roll-up play under PE ownership; unclear if relevant to FIG or fintech marketing trends."
+      ],
+      "topics": [
+        "PE-backed-acquisitions",
+        "marketing-services",
+        "roll-up-strategy"
+      ],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "b7845e3b059b",
+    "title": "\u2018I\u2019d hate to end up with an unexpected tax bill\u2019: I\u2019m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?",
+    "url": "https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-14T16:00:00+00:00",
-    "summary_raw": "\u201cWhen I pass, all my retirement income is reduced to $30,000 a year.\u201d",
+    "date": "2026-07-14T16:30:00+00:00",
+    "summary_raw": "\u201cI\u2019m actually earning more each week than I ever have before.\u201d",
     "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
+      "digest": "A 73-year-old full-time worker asks about tax strategies on Social Security benefits when combined income is high; MarketWatch addresses provisional income thresholds and tax-filing tactics.",
+      "summary_long": "This is a reader Q&A on Social Security taxation mechanics for high-income earners still in the workforce. The questioner earns substantial W-2 income and is concerned about combined-income thresholds that trigger taxation of benefits. The piece walks through the provisional-income calculation (50% of benefits + adjusted gross income + tax-exempt interest) and notes that once you cross the upper threshold (~$34k single), up to 85% of benefits become taxable. No novel strategy exists to dodge this; the article confirms that high earners simply pay tax on benefits.",
+      "talking_points": [
+        "Combined income over ~$34k for singles triggers taxation of up to 85% of Social Security benefits\u2014income diversification doesn't help once provisional income is calculated.",
+        "For a high-earning retiree still in the workforce, delaying benefit collection until full retirement age or beyond is the only real lever to reduce the tax drag later."
+      ],
+      "topics": [
+        "social-security-taxation",
+        "retirement-income-planning"
+      ],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "532553b538d4",
+    "title": "Stocks making the biggest moves midday: IBM, Goldman Sachs, CleanSpark, HCA Healthcare & more",
+    "url": "https://www.cnbc.com/2026/07/14/stocks-making-big-moves-midday-ibm-goldman-cleanspark-hca-more-.html",
+    "source": "CNBC Finance",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-14T16:48:07+00:00",
+    "summary_raw": "These are some of the stocks posting the largest moves midday.",
+    "summary_ai": {
+      "digest": "Intraday stock movers including Goldman Sachs and HCA Healthcare; no deal, regulatory, or capital event disclosed.",
+      "summary_long": "This is a market-price recap listing stocks with largest intraday moves. Goldman Sachs is mentioned alongside non-financial names (IBM, CleanSpark, HCA Healthcare) without any disclosed catalyst\u2014earnings, M&A, capital action, or regulatory news. The excerpt provides no substance on why these stocks moved or what structural change, if any, they signal for the FIG sector.",
+      "talking_points": [
+        "No actionable insight\u2014this is price noise without catalyst disclosure."
+      ],
+      "topics": [
+        "market-movers",
+        "intraday-recap"
+      ],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "b8649ef148ba",
+    "title": "Officials are reportedly looking into Taco Bell, as source of parasite outbreak remains elusive",
+    "url": "https://www.marketwatch.com/story/officials-are-reportedly-looking-into-taco-bell-as-source-of-parasite-outbreak-remains-elusive-3ead0a1f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T17:28:00+00:00",
+    "summary_raw": "Shares of Yum Brands were down nearly 4% on Tuesday.",
+    "summary_ai": {
+      "digest": "Yum Brands shares fell ~4% following reports that officials are investigating Taco Bell in connection with a parasite outbreak; the source remains unconfirmed.",
+      "summary_long": "Health authorities are reportedly investigating Taco Bell as a potential source of a parasite outbreak, though the exact origin has not yet been identified. The investigation triggered an immediate market reaction, with Yum Brands stock declining nearly 4% on the news. This type of food-safety crisis can create near-term reputational and operational headwinds for QSR operators, though outcomes depend on the scope of contamination, duration of remediation, and speed of official resolution. For a Cantor FIG analyst, this is a consumer/retail story with no direct financial-services angle.",
+      "talking_points": [],
+      "topics": [
+        "consumer-retail",
+        "food-safety-crisis"
+      ],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "c35164cfe74a",
+    "title": "\u2018It\u2019s heartbreaking\u2019: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+    "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T17:31:00+00:00",
+    "summary_raw": "\u201cI\u2019ve always been a little skeptical of the government\u2019s encouragement to delay claiming benefits.\u201d",
+    "summary_ai": {
+      "digest": "Anecdotal piece argues against delayed Social Security claiming, using a single death case to question longevity assumptions underlying official claiming-age guidance.",
+      "summary_long": "A reader's brother claimed Social Security at 70 (the maximum benefit age) and died shortly after receiving one payment, prompting the letter-writer to question the conventional wisdom that delaying claims to age 70 yields superior lifetime value. The article rehashes the familiar trade-off: higher monthly benefits vs. breakeven age (roughly 80\u201382). The author expresses skepticism about government messaging that encourages delay, framing it as a gamble. No new data, no actionable market signal, and cherry-picked anecdote that ignores population-level actuarial reality.",
+      "talking_points": [
+        "This is a one-case story masquerading as analysis\u2014survivorship bias in reverse.",
+        "The breakeven math on Social Security claiming age hasn't changed; anecdotes don't alter it."
+      ],
+      "topics": [
+        "social-security",
+        "retirement-planning"
+      ],
       "highlight": null,
       "relevance": 1
     }
