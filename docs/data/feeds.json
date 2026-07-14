@@ -1583,8 +1583,8 @@
     "url": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
     "source": "Financial Times Markets",
     "section": "Markets & Macro",
-    "date": "2026-07-13T22:59:52+00:00",
-    "summary_raw": "Donald Trump said Washington would hit the Islamic republic \u2018hard\u2019 on Monday and Tuesday nights",
+    "date": "2026-07-14T03:01:14+00:00",
+    "summary_raw": "Donald Trump demands 20% fee on cargoes passing through Strait of Hormuz",
     "summary_ai": {
       "digest": "US military strikes on Iran follow Trump warnings; Brent crude rises to month-high on geopolitical risk premium.",
       "summary_long": "Escalating US-Iran tensions have triggered military strikes after Trump administration rhetoric warning of hard responses to Iranian actions. Oil markets have repriced upward, with Brent crude hitting its highest level in a month as investors price in supply-chain disruption risk and sustained regional conflict. This geopolitical shock creates near-term volatility in energy costs, which flows through to bank funding costs, mortgage rates, and corporate credit spreads. For FIG, the move signals potential headwinds to credit quality (especially energy and transport-dependent borrowers) and to consumer spending if oil prices persist at elevated levels. The duration and intensity of this conflict will determine whether this becomes a structural shift in the rate/credit environment or a transient risk-off event.",
@@ -2120,7 +2120,7 @@
     "url": "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-13T22:50:00+00:00",
+    "date": "2026-07-14T02:30:00+00:00",
     "summary_raw": "Strategic Petroleum Reserve stockpiles are precariously low and have been hit by major equipment failures, leaks and spills, according to a government report.",
     "summary_ai": {
       "digest": "U.S. SPR stockpiles are at critically low levels following equipment failures and leaks; Trump administration signaling intent to control Hormuz strait, a geopolitical move with commodity price implications.",
@@ -2442,6 +2442,31 @@
     }
   },
   {
+    "id": "814c77e996e3",
+    "title": "'Listing is a must': Chinese humanoid startups are rushing to launch IPOs",
+    "url": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html",
+    "source": "CNBC Finance",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-14T00:31:01+00:00",
+    "summary_raw": "Shenzhen-based LimX Dynamics is the latest humanoid company in China to raise capital in recent weeks as investors eye IPO exits.",
+    "summary_ai": {
+      "digest": "Chinese humanoid robotics startups, led by Shenzhen's LimX Dynamics, are accelerating capital raises with explicit IPO timelines as investors demand near-term exit visibility.",
+      "summary_long": "LimX Dynamics and peer humanoid companies in China are in a capital-raising sprint, with founders and backers treating IPO listing as a near-term necessity rather than a distant goal. The urgency reflects investor pressure for liquidity events in a competitive, well-funded sector where multiple players are chasing similar technology. Chinese venture and growth investors are using IPO positioning as a selection criterion\u2014companies seen as IPO-ready attract capital; those without clear paths face funding headwinds. This dynamic is reshaping cap table strategy and timeline expectations in deep-tech hardware, where cash burn is high and venture rounds have historically been patient. The rush also signals confidence in public-market appetite for AI robotics, or at least a belief that the window for exits is narrowing.",
+      "talking_points": [
+        "Chinese humanoid robotics founders now frame IPO listing as a must-have, not a nice-to-have\u2014a shift that reshapes how VCs evaluate deal flow and syndication.",
+        "Investor appetite for near-term exits in this sector is tightening liquidity windows and compressing the typical pre-IPO runway, which will test whether these companies can hit profitability or revenue milestones.",
+        "The IPO-driven capital race is creating a winner-take-most dynamic in humanoid robotics; companies without a clear public-market path may struggle to close rounds."
+      ],
+      "topics": [
+        "Chinese tech IPO pipeline",
+        "venture exit pressure",
+        "deep-tech hardware financing"
+      ],
+      "highlight": "LimX Dynamics and peer humanoid startups are explicitly using IPO timelines as a fundraising differentiator, signaling both investor exit urgency and confidence in near-term public-market appetite.",
+      "relevance": 4
+    }
+  },
+  {
     "id": "adfdef8fec8e",
     "title": "*A Tale of Three Cities*",
     "url": "https://marginalrevolution.com/marginalrevolution/2026/07/a-tale-of-three-cities.html?utm_source=rss&utm_medium=rss&utm_campaign=a-tale-of-three-cities",
@@ -2701,7 +2726,7 @@
     "url": "https://www.nytimes.com/2026/07/13/business/paramount-warner-bros-lawsuit.html",
     "source": "Dealbook (NYT)",
     "section": "Markets & Macro",
-    "date": "2026-07-13T18:26:02+00:00",
+    "date": "2026-07-13T18:26:03+00:00",
     "summary_raw": "The lawsuit, filed by California and 11 other states, argues that the deal would harm movie theaters and damage America\u2019s entertainment industry.",
     "summary_ai": {
       "digest": "California and 11 states sued to block a Paramount-Warner Bros. merger, claiming harm to theaters and competition in entertainment.",
@@ -3189,31 +3214,6 @@
     }
   },
   {
-    "id": "e73198907daa",
-    "title": "Sandisk\u2019s stock is plunging, but some analysts are getting even more bullish",
-    "url": "https://www.marketwatch.com/story/sandisks-stock-is-plunging-but-some-analysts-are-getting-even-more-bullish-cba3472f?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T21:04:00+00:00",
-    "summary_raw": "One new stock-price target implies nearly 85% upside from current levels.",
-    "summary_ai": {
-      "digest": "SanDisk stock is down sharply, but some analysts are raising price targets\u2014one implying 85% upside\u2014betting on a recovery in NAND flash memory demand and margin expansion.",
-      "summary_long": "SanDisk has faced significant headwinds in NAND flash memory pricing and demand weakness, driving its stock lower. However, contrarian analysts are turning bullish, citing improving supply-demand dynamics in the flash memory market, potential margin recovery as inventory normalizes, and the company's strategic position in data centers and edge computing. The 85% upside target reflects a bet that current valuations are overcorrecting and that cyclical recovery is approaching. This is a classic semiconductor cycle play\u2014most relevant to Lucius if he is watching flash-memory suppliers as a fintech infrastructure or digital-asset-custody angle, but tangential to core FIG coverage.",
-      "talking_points": [
-        "Consensus is still cautious on NAND flash; contrarian call sees margin recovery as supply rebalances.",
-        "85% upside target suggests the market is pricing in prolonged weakness, not near-term cyclical inflection.",
-        "Applies only if flash memory supply chains matter to fintech infrastructure or digital-asset platforms in Lucius's coverage."
-      ],
-      "topics": [
-        "semiconductor-cycle",
-        "NAND-flash",
-        "valuation-opportunity"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
     "id": "d6116f5feac7",
     "title": "Apple\u2019s lawsuit against OpenAI makes serious claims. Will they matter?",
     "url": "https://www.bigtechnology.com/p/apples-lawsuit-against-openai-makes",
@@ -3287,6 +3287,31 @@
     }
   },
   {
+    "id": "e73198907daa",
+    "title": "Sandisk\u2019s stock is plunging, but some analysts are getting even more bullish",
+    "url": "https://www.marketwatch.com/story/sandisks-stock-is-plunging-but-some-analysts-are-getting-even-more-bullish-cba3472f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T00:55:00+00:00",
+    "summary_raw": "One new stock-price target implies nearly 85% upside from current levels.",
+    "summary_ai": {
+      "digest": "SanDisk stock is down sharply, but some analysts are raising price targets\u2014one implying 85% upside\u2014betting on a recovery in NAND flash memory demand and margin expansion.",
+      "summary_long": "SanDisk has faced significant headwinds in NAND flash memory pricing and demand weakness, driving its stock lower. However, contrarian analysts are turning bullish, citing improving supply-demand dynamics in the flash memory market, potential margin recovery as inventory normalizes, and the company's strategic position in data centers and edge computing. The 85% upside target reflects a bet that current valuations are overcorrecting and that cyclical recovery is approaching. This is a classic semiconductor cycle play\u2014most relevant to Lucius if he is watching flash-memory suppliers as a fintech infrastructure or digital-asset-custody angle, but tangential to core FIG coverage.",
+      "talking_points": [
+        "Consensus is still cautious on NAND flash; contrarian call sees margin recovery as supply rebalances.",
+        "85% upside target suggests the market is pricing in prolonged weakness, not near-term cyclical inflection.",
+        "Applies only if flash memory supply chains matter to fintech infrastructure or digital-asset platforms in Lucius's coverage."
+      ],
+      "topics": [
+        "semiconductor-cycle",
+        "NAND-flash",
+        "valuation-opportunity"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
     "id": "7b6ee0c8c976",
     "title": "Stocks making the biggest moves premarket: SK Hynix, Micron, MGM Resorts & more",
     "url": "https://www.cnbc.com/2026/07/13/stocks-making-the-biggest-moves-premarket-skhy-mu-mgm.html",
@@ -3316,10 +3341,12 @@
     "date": "2026-07-13T12:19:29+00:00",
     "summary_raw": "Make sense of the latest business and policy headlines with our daily newsletter.",
     "summary_ai": {
-      "digest": "Newsletter signup prompt for DealBook, the New York Times' daily business and policy briefing.",
-      "summary_long": "This is a promotional landing page for DealBook, the New York Times' established daily newsletter covering business, markets, and policy news. It offers aggregated headlines and analysis aimed at finance professionals and business readers. The page itself contains no substantive content\u2014only a signup call-to-action and marketing copy describing the newsletter's coverage. There is no new data, deal, or market signal to extract.",
+      "digest": "Newsletter signup pitch for DealBook, the New York Times' daily business and policy briefing.",
+      "summary_long": "DealBook is the New York Times' flagship business newsletter covering markets, deals, policy, and corporate news. It aggregates headlines and analysis across finance, tech, and politics for a professional audience. The piece is a promotional signup page rather than substantive content. No actionable market signal, data, or deal information is present.",
       "talking_points": [],
-      "topics": [],
+      "topics": [
+        "newsletter-promotion"
+      ],
       "highlight": null,
       "relevance": 1
     }
@@ -3397,12 +3424,33 @@
     "date": "2026-07-13T20:48:00+00:00",
     "summary_raw": "Aortic dissections are extremely rare; however, people with a family history or who have been diagnosed with certain genetic syndromes have an elevated risk",
     "summary_ai": {
-      "digest": null,
-      "summary_long": null,
+      "digest": "Lindsey Graham died from aortic dissection, a rare heart condition. Article explains risk factors including family history and genetic syndromes.",
+      "summary_long": "U.S. Senator Lindsey Graham's death from aortic dissection has prompted public health education on a rare but fatal cardiovascular event. Aortic dissections occur when the inner layer of the aorta tears, allowing blood to flow between layers and potentially causing rupture. Risk factors include family history, genetic conditions like Marfan syndrome, hypertension, and certain connective tissue disorders. The article outlines warning signs (sudden severe chest or back pain) and notes that survival depends on rapid diagnosis and emergency surgical intervention.",
       "talking_points": null,
       "topics": null,
       "highlight": null,
       "relevance": 1
+    }
+  },
+  {
+    "id": "6c746cb61d25",
+    "title": "The American Exceptionalism Trade",
+    "url": "https://www.capitalflowsresearch.com/p/the-american-exceptionalism-trade",
+    "source": "Capital Flows Research",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T02:57:11+00:00",
+    "summary_raw": "LIVESTREAM/PROPIETARY REPORT",
+    "summary_ai": {
+      "digest": "No excerpt provided; livestream/proprietary report. Unable to score without substantive content.",
+      "summary_long": "The article header indicates a livestream or gated proprietary report on 'American Exceptionalism Trade' from Capital Flows Research, but no excerpt, summary, or detail is available to evaluate. Without access to the actual thesis, data, or argument, a meaningful assessment of relevance to FIG deal flow, credit conditions, or rates environment is impossible.",
+      "talking_points": [
+        "Need full report access or outline to extract a usable talking point."
+      ],
+      "topics": [
+        "macro-analysis"
+      ],
+      "highlight": null,
+      "relevance": 0
     }
   }
 ]
