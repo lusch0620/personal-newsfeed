@@ -810,7 +810,7 @@
     "source": "Financial Times Markets",
     "section": "Markets & Macro",
     "date": "2026-07-14T12:49:14+00:00",
-    "summary_raw": "Ten-year yield climbs above 5% just days before Andy Burnham set to become prime minister",
+    "summary_raw": "Ten-year yield briefly climbs above 5% just days before Andy Burnham set to become prime minister",
     "summary_ai": {
       "digest": "UK 10-year gilt yield exceeds 5% amid oil-price surge, just before the incoming PM takes office. The move signals market concern about fiscal sustainability and energy-cost pass-through.",
       "summary_long": "UK government borrowing costs have spiked to their highest level since May as the 10-year gilt yield breached 5%, driven by both rising oil prices and broader inflation concerns. The timing is politically loaded: Andy Burnham is about to assume the premiership during a period of elevated rates and cost-of-living pressure. Higher gilt yields increase debt-service costs for the government and typically signal rising real rates across the economy, which constrains credit conditions for banks and corporates. For FIG, this is a refinancing headwind\u2014it pressures bank net interest margins if the yield curve flattens, and it signals tighter funding conditions ahead.",
@@ -908,54 +908,28 @@
     }
   },
   {
-    "id": "4d26a31160af",
-    "title": "Jamie Dimon says \u2018booming\u2019 markets and a \u2018fine\u2019 consumer fueled JPMorgan\u2019s blowout profits",
-    "url": "https://www.marketwatch.com/story/jpmorgan-beats-profit-expectations-by-the-most-in-five-years-as-equity-markets-revenue-surges-9a0d8805?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T14:03:00+00:00",
-    "summary_raw": "JPMorgan blew past earnings expectations for the second quarter, as CEO Jamie Dimon said markets are booming.",
+    "id": "8bc858e83a69",
+    "title": "RIA Edge Podcast: Scaling an RIA Through Culture, Ownership and Strategic Growth with Jason Ozur",
+    "url": "https://www.wealthmanagement.com/ria-edge/ria-edge-podcast-scaling-an-ria-through-culture-ownership-and-strategic-growth-with-jason-ozur",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-14T14:49:27+00:00",
+    "summary_raw": "Lido Advisors' Jason Ozur details how the firm grew from six-person team managing roughly $400 million to one of the largest RIAs in the country.",
     "summary_ai": {
-      "digest": "JPMorgan posted its largest profit beat in five years on record revenue and raised NII guidance; stock fell anyway on likely deposit outflow concerns or valuation.",
-      "summary_long": "JPMorgan delivered earnings that exceeded consensus by a material margin, driven by a surge in equities trading and investment banking revenue\u2014both beneficiaries of the market rally and M&A activity. Management raised full-year net interest income guidance, signaling confidence in the rate environment and deposit stickiness. Despite these positives, the stock declined, suggesting the market is discounting either deposit or loan-growth headwinds, rising cost pressures, or simply that the beat was already priced in. For Lucius's coverage of regional and specialty banks, this is a key read: JPMorgan's capital strength and deposit advantage mean tighter NII assumptions across the sector, and higher equity-market revenue means larger banks are winning the wallet share his clients depend on.",
+      "digest": "Lido Advisors scaled from $400M AUM and six employees to become a top-10 RIA through founder-focused culture and ownership structure; podcast interview with CEO Jason Ozur on growth playbook.",
+      "summary_long": "Lido Advisors grew organically and via acquisition to reach one of the largest independent wealth management platforms in the US. Ozur's interview covers three levers: (1) retaining founder equity and culture to avoid typical consolidator dilution, (2) selective M&A to add scale without losing advisor talent, and (3) structured ownership for associates and advisors to drive accountability and retention. The model sits between pure organic RIA (slow, talent-dependent) and full DST/sponsor rollup (cultural erasure, churn). Relevant for understanding what works in RIA consolidation as sponsor-backed shops scale.",
       "talking_points": [
-        "JPMorgan's largest earnings beat in five years\u2014watch for regional bank guidance revisions downward on NII and deposit assumptions.",
-        "Equity trading and IB revenue drove the beat; this is flow-driven, not fundamental. Means capital-light fee revenue is still king on Wall Street.",
-        "Raised NII guidance signals confidence in deposit franchises and rates\u2014a signal other large banks will likely echo or miss vs., which sets the tone for the sector's profitability outlook."
+        "Founder retention of meaningful equity prevented the culture drift and advisor exodus that kills most RIA acquires in sponsorship deals.",
+        "Selective M&A paired with distributed ownership for rainmakers\u2014not just golden handcuffs\u2014solved the talent-retention problem most big RIA platforms can't crack.",
+        "Lido's playbook suggests consolidators prize cultural fit and founder voice over pure AUM arbitrage; applies directly to how sponsors evaluate RIA targets."
       ],
       "topics": [
-        "large-bank-earnings",
-        "net-interest-income",
-        "capital-markets-revenue",
-        "deposit-competition"
+        "RIA consolidation",
+        "wealth management M&A",
+        "founder ownership",
+        "advisor retention"
       ],
-      "highlight": "JPMorgan raised full-year NII guidance despite stock decline, signaling deposit confidence while the market is pricing in competitive or macro headwinds elsewhere.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "63fbe8922238",
-    "title": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
-    "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T14:27:05+00:00",
-    "summary_raw": "Brent crude climbs after US responds to Iranian attacks on tankers with fresh round of strikes",
-    "summary_ai": {
-      "digest": "Oil spiked to $87/bbl on Strait of Hormuz tension; equities and bonds sold off on inflation concerns.",
-      "summary_long": "A geopolitical flare-up in the Strait of Hormuz\u2014a critical chokepoint for ~20% of global oil transit\u2014triggered a sharp rally in crude to $87/bbl, the highest level in months. The move immediately rippled through risk assets: equity indices retreated on stagflation fears, and bond yields climbed as investors repriced inflation risk and the likelihood of a sustained Fed hold or even a rate-cut pause. For banks and asset managers, the move signals renewed commodity volatility and potential margin compression in fixed-income portfolios; for PE and specialty finance players with energy or commodity exposure, it reshapes deal IRRs and refinancing windows.",
-      "talking_points": [
-        "Oil at $87 on Strait of Hormuz risk\u2014watch for pass-through to inflation expectations and Fed guidance.",
-        "Equities and fixed income both hit; signals renewed stagflation anxiety that could slow M&A velocity and tighten credit conditions.",
-        "Energy-heavy portfolios and energy lending books now face higher stress; affects deal financing and risk appetite in the sector."
-      ],
-      "topics": [
-        "oil-price-shock",
-        "inflation-expectations",
-        "credit-conditions",
-        "geopolitical-risk"
-      ],
-      "highlight": "Strait of Hormuz tension directly threatens 20% of global oil supply, shifting Fed rate expectations and tightening financial conditions for deal financing.",
+      "highlight": "Founder equity retention and partner-level ownership structure differentiated Lido's scale from typical sponsor-backed RIA platforms that see post-deal advisor churn.",
       "relevance": 7
     }
   },
@@ -986,6 +960,32 @@
     }
   },
   {
+    "id": "4d26a31160af",
+    "title": "Jamie Dimon says \u2018booming\u2019 markets and a \u2018fine\u2019 consumer fueled JPMorgan\u2019s blowout profits",
+    "url": "https://www.marketwatch.com/story/jpmorgan-beats-profit-expectations-by-the-most-in-five-years-as-equity-markets-revenue-surges-9a0d8805?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T15:20:00+00:00",
+    "summary_raw": "JPMorgan blew past earnings expectations for the second quarter, as CEO Jamie Dimon said markets are booming.",
+    "summary_ai": {
+      "digest": "JPMorgan posted its largest profit beat in five years on record revenue and raised NII guidance; stock fell anyway on likely deposit outflow concerns or valuation.",
+      "summary_long": "JPMorgan delivered earnings that exceeded consensus by a material margin, driven by a surge in equities trading and investment banking revenue\u2014both beneficiaries of the market rally and M&A activity. Management raised full-year net interest income guidance, signaling confidence in the rate environment and deposit stickiness. Despite these positives, the stock declined, suggesting the market is discounting either deposit or loan-growth headwinds, rising cost pressures, or simply that the beat was already priced in. For Lucius's coverage of regional and specialty banks, this is a key read: JPMorgan's capital strength and deposit advantage mean tighter NII assumptions across the sector, and higher equity-market revenue means larger banks are winning the wallet share his clients depend on.",
+      "talking_points": [
+        "JPMorgan's largest earnings beat in five years\u2014watch for regional bank guidance revisions downward on NII and deposit assumptions.",
+        "Equity trading and IB revenue drove the beat; this is flow-driven, not fundamental. Means capital-light fee revenue is still king on Wall Street.",
+        "Raised NII guidance signals confidence in deposit franchises and rates\u2014a signal other large banks will likely echo or miss vs., which sets the tone for the sector's profitability outlook."
+      ],
+      "topics": [
+        "large-bank-earnings",
+        "net-interest-income",
+        "capital-markets-revenue",
+        "deposit-competition"
+      ],
+      "highlight": "JPMorgan raised full-year NII guidance despite stock decline, signaling deposit confidence while the market is pricing in competitive or macro headwinds elsewhere.",
+      "relevance": 7
+    }
+  },
+  {
     "id": "8c30910acde0",
     "title": "Stablecoin treasury and setttlement platform Velocity raises $38 million",
     "url": "https://www.finextra.com/pressarticle/110417/stablecoin-treasury-and-setttlement-platform-velocity-raises-38-million?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -1008,6 +1008,32 @@
         "digital-assets"
       ],
       "highlight": "Capital One Ventures' participation suggests a top-10 US bank is actively hedging on stablecoin settlement as a real enterprise workflow, not a sideline bet.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "63fbe8922238",
+    "title": "Oil touches $87 as battle for Strait of Hormuz alarms energy markets",
+    "url": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T16:00:59+00:00",
+    "summary_raw": "Brent crude climbs after US responds to Iranian attacks on tankers with fresh round of strikes",
+    "summary_ai": {
+      "digest": "Oil spiked to $87/bbl on Strait of Hormuz tension; equities and bonds sold off on inflation concerns.",
+      "summary_long": "A geopolitical flare-up in the Strait of Hormuz\u2014a critical chokepoint for ~20% of global oil transit\u2014triggered a sharp rally in crude to $87/bbl, the highest level in months. The move immediately rippled through risk assets: equity indices retreated on stagflation fears, and bond yields climbed as investors repriced inflation risk and the likelihood of a sustained Fed hold or even a rate-cut pause. For banks and asset managers, the move signals renewed commodity volatility and potential margin compression in fixed-income portfolios; for PE and specialty finance players with energy or commodity exposure, it reshapes deal IRRs and refinancing windows.",
+      "talking_points": [
+        "Oil at $87 on Strait of Hormuz risk\u2014watch for pass-through to inflation expectations and Fed guidance.",
+        "Equities and fixed income both hit; signals renewed stagflation anxiety that could slow M&A velocity and tighten credit conditions.",
+        "Energy-heavy portfolios and energy lending books now face higher stress; affects deal financing and risk appetite in the sector."
+      ],
+      "topics": [
+        "oil-price-shock",
+        "inflation-expectations",
+        "credit-conditions",
+        "geopolitical-risk"
+      ],
+      "highlight": "Strait of Hormuz tension directly threatens 20% of global oil supply, shifting Fed rate expectations and tightening financial conditions for deal financing.",
       "relevance": 7
     }
   },
@@ -1607,32 +1633,6 @@
     }
   },
   {
-    "id": "b9bdeab5c4ef",
-    "title": "FDA Urges Infant-Formula Makers to Tighten Supplier Oversight After Product Recalls",
-    "url": "https://www.insurancejournal.com/news/national/2026/07/14/877427.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-14T05:06:51+00:00",
-    "summary_raw": "The U.S. FDA on July 13 urged the infant-formula industry and supply-chain partners to exercise substantive oversight of their suppliers following multiple product recalls and recent botulism cases \u2013 the first outbreaks in the country linked to baby formula in &#8230;",
-    "summary_ai": {
-      "digest": "FDA issued guidance to infant-formula makers on July 13 requiring tighter supplier oversight after multiple recalls and botulism cases, the first U.S. outbreak linked to baby formula in decades.",
-      "summary_long": "The FDA's directive follows a series of product recalls and recent botulism cases in infant formula\u2014a rare public-health event in the U.S. market. The agency is pushing manufacturers and their supply-chain partners to implement substantive oversight mechanisms to prevent future contamination. This regulatory action is likely to increase compliance costs and operational complexity for formula makers and their suppliers. For insurers covering product liability and recall expenses in the infant-nutrition sector, this signals rising claims frequency and the need for tighter underwriting. The directive may also trigger M&A or consolidation among smaller, less-compliant suppliers as larger players acquire or divest exposure.",
-      "talking_points": [
-        "FDA guidance post-botulism outbreak will meaningfully raise compliance and recall-management costs for formula makers\u2014direct P&L headwind.",
-        "Product liability and recall insurance claims in infant nutrition are about to spike; insurers need to reprice or exit this segment.",
-        "Smaller suppliers lacking supply-chain controls will face acquisition pressure or exit; larger players consolidate to meet FDA standards."
-      ],
-      "topics": [
-        "product-liability-insurance",
-        "FDA-enforcement",
-        "supply-chain-compliance",
-        "consumer-staples-insurance"
-      ],
-      "highlight": "First U.S. botulism outbreak linked to infant formula in decades triggers FDA supplier-oversight mandate\u2014likely to accelerate M&A among formula suppliers and reprice product-liability insurance.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "f4117f4c6c1b",
     "title": "US launches air strikes as Iran targets tankers with cruise missiles",
     "url": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
@@ -1706,32 +1706,6 @@
         "balance-sheet-discipline"
       ],
       "highlight": "BP's use of a geopolitical oil-price surge to de-lever signals that commodity volatility is creating a strategic window for energy-sector balance-sheet repair and improved credit profiles.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "aa474949e5f7",
-    "title": "Madrivo Acquires MoneyGeek to Expand Consumer Finance Platform",
-    "url": "https://www.insurancejournal.com/services/newswire/2026/07/14/877414.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-14T09:00:16+00:00",
-    "summary_raw": "Acquisition combines trusted personal finance content with performance marketing expertise to help more consumers discover, compare and access financial products SANTA BARBARA, Calif., and BURLINGAME, Calif., July 14, 2026 \u2014 Madrivo, a performance marketing platform and part of Benevolent Generation &#8230;",
-    "summary_ai": {
-      "digest": "Madrivo acquires MoneyGeek to combine performance marketing with personal finance content; deal size not disclosed. Madrivo is part of Benevolent Generation.",
-      "summary_long": "Madrivo, a performance marketing platform owned by Benevolent Generation, has acquired MoneyGeek, a personal finance content and comparison platform. The deal merges MoneyGeek's trusted editorial and product-comparison content with Madrivo's performance marketing and customer acquisition expertise. The rationale is to help consumers discover and compare financial products more effectively, broadening Madrivo's reach into consumer finance discovery and distribution. No deal size or earnout structure is disclosed in the excerpt. This signals consolidation in the fintech consumer-acquisition and insurance/lending-distribution space, where content + performance marketing is becoming a competitive moat.",
-      "talking_points": [
-        "Madrivo is rolling up comparison/content platforms to build an end-to-end consumer finance acquisition engine.",
-        "MoneyGeek's editorial trust + Madrivo's performance marketing = a data-driven funnel for insurance and lending products.",
-        "Part of a broader pattern: fintech platforms need both content credibility and marketing muscle to compete for consumer mindshare."
-      ],
-      "topics": [
-        "fintech M&A",
-        "consumer finance distribution",
-        "performance marketing",
-        "insurance distribution"
-      ],
-      "highlight": "Madrivo (Benevolent Generation portfolio) acquires MoneyGeek to merge personal finance content with performance marketing in consumer financial-products discovery.",
       "relevance": 6
     }
   },
@@ -1811,32 +1785,6 @@
         "card-network-disruption"
       ],
       "highlight": "Tariff threat explicitly tied to opening Pix to US fintech competitors\u2014payments infrastructure is now a trade negotiation tool, not just a regulatory matter.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "81358bd1c6de",
-    "title": "Aon and Swiss Re CorSo launch API integration to accelerate digital insurance placement",
-    "url": "https://www.reinsurancene.ws/aon-and-swiss-re-corso-launch-api-integration-to-accelerate-digital-insurance-placement/",
-    "source": "Reinsurance News",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-14T10:30:04+00:00",
-    "summary_raw": "<p>Global professional services firm Aon has announced a new application programming interface (API) integration between Aon Broker Copilot and Swiss Re Corporate Solutions, the commercial insurance arm of the Swiss Re Group, making the carrier the first to integrate directly with Aon Broker Copilot through an API connection. The integration is expected to enable end-to-end [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/aon-and-swiss-re-corso-launch-api-integration-to-accelerate",
-    "summary_ai": {
-      "digest": "Aon and Swiss Re CorSo launched an API integration connecting Aon Broker Copilot to Swiss Re's commercial insurance platform, positioning Swiss Re as the first carrier to integrate directly via API with Aon's placement tool.",
-      "summary_long": "Aon has built Broker Copilot as a digital placement platform to streamline commercial insurance brokerage workflows. Swiss Re Corporate Solutions is the first carrier to integrate directly via API, enabling end-to-end digital placement without manual handoffs. This addresses a structural friction point in insurance distribution: brokers and carriers operate on disconnected systems, slowing quotes and placements. The integration signals both companies betting on digital-first distribution and suggests Aon's platform is gaining traction as an industry standard. Swiss Re's early-mover advantage here may drive competitive pressure on other carriers to integrate.",
-      "talking_points": [
-        "Swiss Re is first carrier to API-integrate with Aon Broker Copilot, removing manual steps in commercial placement\u2014a structural competitive advantage in digital distribution.",
-        "Aon's Copilot is emerging as a distribution standard; other carriers will face pressure to integrate or risk broker preference drift.",
-        "This is fintech-style efficiency in legacy insurance\u2014API-driven workflows are table stakes for competing in distribution going forward."
-      ],
-      "topics": [
-        "insurance-digitization",
-        "distribution-technology",
-        "Aon-platform",
-        "Swiss-Re-strategy"
-      ],
-      "highlight": "Swiss Re CorSo is the first carrier to achieve direct API integration with Aon Broker Copilot, signaling digital distribution is now a competitive moat in commercial insurance placement.",
       "relevance": 6
     }
   },
@@ -1925,7 +1873,7 @@
     "source": "Insurance Journal",
     "section": "FIG \u2014 Insurance",
     "date": "2026-07-14T12:04:45+00:00",
-    "summary_raw": "Iran fired ballistic missiles at a U.S. air base in Jordan on Tuesday and the United States attacked Iranian targets for five hours in a battle for control of the Strait of Hormuz that has pushed up oil prices to &#8230;",
+    "summary_raw": "Iran fired missiles at Jordan and Bahrain on Tuesday after the United States launched a five-hour attack on Iranian targets, stepping up a battle for control of the Strait of Hormuz that has pushed up oil prices to four-week highs. &#8230;",
     "summary_ai": {
       "digest": "Iran\u2013US missile exchange near Strait of Hormuz drives oil-price spike; insurance implications for energy, shipping, and marine coverage.",
       "summary_long": "Escalating military tension between Iran and the U.S. over the Strait of Hormuz\u2014a critical chokepoint for global oil transit\u2014has triggered a five-hour U.S. retaliatory strike and pushed crude prices higher. The geopolitical risk creates near-term exposure for insurers writing energy, marine, and war-risk coverage in the region. P&C and specialty insurers will face claims pressure if the conflict broadens or if shipping disruptions materialize. This is a macro tail-risk event that affects insurance underwriting margins and could trigger capital calls if major underwriters suffer losses.",
@@ -1942,31 +1890,6 @@
         "specialty-insurance"
       ],
       "highlight": "Strait of Hormuz disruption would trigger widespread claims across energy liability and cargo insurance; expect repricing and potential capital raises by affected underwriters.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "32ef0b9fd2d2",
-    "title": "Big Banks Smash Earnings Records, but \u2018Tectonic\u2019 Risks Loom",
-    "url": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html",
-    "source": "Dealbook (NYT)",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T12:13:14+00:00",
-    "summary_raw": "The largest banks in the United States collectively raked in tens of billions of profits in the second quarter, despite the war in Iran and persistent inflation.",
-    "summary_ai": {
-      "digest": "Major U.S. banks posted record Q2 earnings despite geopolitical tension and inflation, but analysts warn of structural risks ahead.",
-      "summary_long": "The largest U.S. banks delivered strong second-quarter results, driven by trading revenue, dealmaking fees, and improved credit conditions. However, Dealbook flags \"tectonic\" risks\u2014likely referring to persistent rate uncertainty, potential recession signals, or shifts in deposit/funding dynamics\u2014that could pressure profitability in coming quarters. The earnings beat masks forward-looking stress: banks benefited from a favorable near-term environment (higher rates, active M&A) but face structural headwinds if macro conditions deteriorate. For FIG investors and analysts, this is the familiar pattern of lagging indicators: earnings surprise, but consensus revisions and guidance prove the real tell.",
-      "talking_points": [
-        "Q2 earnings beat reflects trading and dealmaking upside in a higher-rate environment, but not a durable earnings driver.",
-        "Unnamed 'tectonic risks' suggest the analyst is flagging either deposit flight, recession risk, or deteriorating credit\u2014the real catalyst for multiple compression.",
-        "Banks guiding for a benign cycle now typically signal caution in the next 2-3 quarters when rates or deal flow shift."
-      ],
-      "topics": [
-        "bank-earnings",
-        "macro-cycle",
-        "credit-conditions"
-      ],
-      "highlight": "Dealbook's vague warning of 'tectonic risks' is a yellow flag\u2014watch bank guidance on net interest margin and credit loss provisions in the next earnings call.",
       "relevance": 6
     }
   },
@@ -2099,31 +2022,6 @@
     }
   },
   {
-    "id": "b9123749c338",
-    "title": "Your stock portfolio is tied to the Japanese yen \u2014 and a looming intervention is flashing a major warning sign",
-    "url": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T13:29:00+00:00",
-    "summary_raw": "What the link between the yen and U.S. stocks means for your portfolio.",
-    "summary_ai": {
-      "digest": "Japanese yen strength is correlating with U.S. tech stock weakness, signaling potential carry-trade unwind or broader risk-off dynamics affecting markets he covers.",
-      "summary_long": "The article examines a technical relationship between yen appreciation and U.S. tech equities, framing it as a leading indicator for portfolio risk. When the yen strengthens, it often reflects unwinding of carry trades\u2014borrowing cheap yen to fund higher-yield assets globally, including U.S. tech stocks. A reversal of that trade pressures those positions. For FIG analysts, this matters because carry-trade collapses create sudden liquidity demands, spike VIX, and can trigger forced selling in credit and equity markets. The piece appears aimed at explaining a macro correlation rather than prescribing action, making it a contextual reading rather than a signal for immediate positioning.",
-      "talking_points": [
-        "Yen strength often precedes tech selloffs because it signals unwinding of yen-funded carry trades that have fueled U.S. equity risk appetite.",
-        "Carry-trade reversals create cascading liquidity events\u2014forced selling ripples across equities, credit, and derivatives, affecting FIG financing and refinancing windows."
-      ],
-      "topics": [
-        "carry-trade-risk",
-        "yen-usd-correlation",
-        "tech-volatility",
-        "liquidity-dynamics"
-      ],
-      "highlight": "Yen carry-trade unwind is a leading indicator for tech-equity distress and carries direct implications for credit spreads and bank capital markets activity.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "0d80fef43307",
     "title": "Bank of America\u2019s stock reverses premarket decline in wake of blockbuster earnings report",
     "url": "https://www.marketwatch.com/story/bank-of-america-stock-falls-despite-earnings-beat-3d4db2b4?mod=mw_rss_topstories",
@@ -2201,7 +2099,7 @@
   },
   {
     "id": "3bf0e1a5a893",
-    "title": "IBM shares plunge 23% as customers shift spending to AI",
+    "title": "IBM shares plunge 25% as customers shift spending to AI",
     "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
     "source": "Financial Times Markets",
     "section": "Markets & Macro",
@@ -2277,28 +2175,28 @@
     }
   },
   {
-    "id": "063a73a8c9fb",
-    "title": "Warsh promises inflation will be a 'thing of the past,' cites 'mistake' of prior policy",
-    "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-14T14:38:34+00:00",
-    "summary_raw": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
+    "id": "8933b988b4ba",
+    "title": "Side Letter: CalPERS\u2019 lucky 17",
+    "url": "https://www.privateequityinternational.com/side-letter-calpers-lucky-17/",
+    "source": "Private Equity International",
+    "section": "PE & Deals",
+    "date": "2026-07-14T14:56:49+00:00",
+    "summary_raw": "CalPERS posts a 17 percent PE return; Ardian closes a CV on a 2.5-year-old asset; Asante taps Evercore for its secondaries build-out.",
     "summary_ai": {
-      "digest": "Kevin Warsh, potential Fed chair candidate, pledges to prioritize inflation control and signals a policy reset from prior leadership, positioning himself as a hawk on monetary discipline.",
-      "summary_long": "Warsh, a former Fed governor and current vice chair of Salesforce, made public remarks framing inflation as a policy failure that requires corrective action. His comments reflect a hawkish stance on monetary discipline and position him within the current debate over Fed leadership and direction. The remarks carry implicit criticism of prior policy decisions, suggesting a potential shift in Fed philosophy if he were to assume a leadership role. For FIG professionals, this signals potential changes to rate-path assumptions and the regulatory/lending environment that banks navigate. The timing and tone suggest positioning ahead of potential Fed chair succession discussions.",
+      "digest": "CalPERS reports 17% PE returns; Ardian closed a continuation vehicle on a 2.5-year-old asset; Asante engaged Evercore to build out secondaries capabilities.",
+      "summary_long": "CalPERS' strong 17% PE performance signals continued LP appetite for alternative returns despite macro headwinds, underpinning deal-flow momentum for GPs. Ardian's continuation vehicle closure demonstrates the market's shift toward longer hold periods and GP-led restructurings as exit windows tighten\u2014a pattern accelerating in mid-market and lower-middle-market deals. Asante's advisory engagement with Evercore to develop a secondaries platform reflects the broader consolidation of secondaries infrastructure and suggests smaller-to-mid-size managers are building in-house capabilities to compete for dry powder.",
       "talking_points": [
-        "Warsh frames inflation as a policy 'mistake,' signaling a hawkish stance that could shift Fed rate expectations if he gains influence.",
-        "Warsh's public positioning suggests he is competing for Fed leadership; monitor his policy statements for shifts in rate-path consensus.",
-        "If elevated to Fed chair, a Warsh-led Fed would likely prioritize inflation control over growth, affecting bank lending spreads and capital deployment."
+        "CalPERS' 17% PE return keeps mega-LPs deploying into vintages; signals strong tail-fund performance and multi-vintage deployment.",
+        "Ardian's CV close on a 2.5-year-old asset shows GPs extending hold periods and LP tolerance for restructured exits\u2014relevant to understanding where exit multiples are being reset.",
+        "Asante hiring Evercore to build secondaries suggests small-to-mid GPs are building internal platforms rather than relying on third-party advisors; consolidation play in the secondaries market."
       ],
       "topics": [
-        "Fed leadership",
-        "monetary policy",
-        "inflation",
-        "rate path"
+        "PE fund performance",
+        "continuation vehicles",
+        "GP-led restructurings",
+        "secondaries infrastructure"
       ],
-      "highlight": "Warsh's framing of prior inflation as a 'mistake' signals potential hawkish policy reset\u2014relevant if he becomes a serious Fed chair candidate.",
+      "highlight": "Ardian's continuation vehicle close on a 2.5-year-old asset signals LP acceptance of extended holds and GP-led exit strategies as traditional M&A and IPO windows remain constrained.",
       "relevance": 6
     }
   },
@@ -2325,6 +2223,133 @@
         "specialty-finance"
       ],
       "highlight": "Accelerator bundles identity and trust infrastructure with SIs to help financial services move agentic AI from pilot to production\u2014addresses emerging regulatory expectations around model governance and auditability.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "32ef0b9fd2d2",
+    "title": "Big Banks Smash Earnings Records, but \u2018Tectonic\u2019 Risks Loom",
+    "url": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html",
+    "source": "Dealbook (NYT)",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T15:21:13+00:00",
+    "summary_raw": "The quarterly results reflect the dichotomy between geopolitical uncertainty and the stable American economy.",
+    "summary_ai": {
+      "digest": "Major U.S. banks posted record Q2 earnings despite geopolitical tension and inflation, but analysts warn of structural risks ahead.",
+      "summary_long": "The largest U.S. banks delivered strong second-quarter results, driven by trading revenue, dealmaking fees, and improved credit conditions. However, Dealbook flags \"tectonic\" risks\u2014likely referring to persistent rate uncertainty, potential recession signals, or shifts in deposit/funding dynamics\u2014that could pressure profitability in coming quarters. The earnings beat masks forward-looking stress: banks benefited from a favorable near-term environment (higher rates, active M&A) but face structural headwinds if macro conditions deteriorate. For FIG investors and analysts, this is the familiar pattern of lagging indicators: earnings surprise, but consensus revisions and guidance prove the real tell.",
+      "talking_points": [
+        "Q2 earnings beat reflects trading and dealmaking upside in a higher-rate environment, but not a durable earnings driver.",
+        "Unnamed 'tectonic risks' suggest the analyst is flagging either deposit flight, recession risk, or deteriorating credit\u2014the real catalyst for multiple compression.",
+        "Banks guiding for a benign cycle now typically signal caution in the next 2-3 quarters when rates or deal flow shift."
+      ],
+      "topics": [
+        "bank-earnings",
+        "macro-cycle",
+        "credit-conditions"
+      ],
+      "highlight": "Dealbook's vague warning of 'tectonic risks' is a yellow flag\u2014watch bank guidance on net interest margin and credit loss provisions in the next earnings call.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "44759bda5801",
+    "title": "Jonathan Ross Turned a 3-Week Phone Call Into a $20 Billion NVIDIA Deal. Here Is How He Did It.",
+    "url": "https://www.the-ai-corner.com/p/groq-nvidia-deal-origin-story",
+    "source": "The AI Corner (Ruben Dominguez)",
+    "section": "Learn",
+    "date": "2026-07-14T15:39:07+00:00",
+    "summary_raw": "The Groq founder on near-bankruptcy, Grok Bonds, and why the fastest chip in the world almost never got built.",
+    "summary_ai": {
+      "digest": "Groq founder Jonathan Ross navigated near-bankruptcy and unconventional financing (Grok Bonds) to secure NVIDIA partnership, illustrating startup resilience and creative capital solutions in AI infrastructure.",
+      "summary_long": "Jonathan Ross, Groq founder, recounts how a three-week negotiation with NVIDIA\u2014initiated via phone call\u2014yielded a $20B partnership despite the company facing near-bankruptcy conditions. The piece covers Groq's existential cash crisis, Ross's decision to pursue unconventional financing instruments (Grok Bonds), and the strategic calculation that betting on an NVIDIA partnership was preferable to traditional fundraising or acquisition. The narrative illustrates how founder conviction, operational urgency, and pattern-matching to market timing can unlock transformational deals. For a FIG analyst tracking AI infrastructure, fintech capital formation, and alternative financing vehicles, this is a case study in non-traditional cap structures during distress.",
+      "talking_points": [
+        "Groq secured a $20B NVIDIA deal during near-bankruptcy via direct founder outreach\u2014a reminder that deal catalysts aren't always formal processes.",
+        "Grok Bonds were a creative interim capital solution; understanding how distressed AI infrastructure plays finance themselves matters for positioning on future rounds.",
+        "The deal logic: partnership upside > dilution from VC or sale to larger acquirer\u2014mirrors private equity thesis-building in specialty tech finance."
+      ],
+      "topics": [
+        "AI infrastructure",
+        "founder capital strategy",
+        "alternative financing",
+        "tech partnerships"
+      ],
+      "highlight": "Groq pursued Grok Bonds as interim capital during near-bankruptcy rather than traditional fundraising, signaling how AI infrastructure startups innovate on financing when growth outpaces traditional capital availability.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "063a73a8c9fb",
+    "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
+    "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
+    "source": "CNBC Finance",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-14T15:39:29+00:00",
+    "summary_raw": "Warsh pledged Tuesday to \"get monetary policy right\" and defeat the inflation that has bedeviled the central bank for the past five years.",
+    "summary_ai": {
+      "digest": "Kevin Warsh, potential Fed chair candidate, pledges to prioritize inflation control and signals a policy reset from prior leadership, positioning himself as a hawk on monetary discipline.",
+      "summary_long": "Warsh, a former Fed governor and current vice chair of Salesforce, made public remarks framing inflation as a policy failure that requires corrective action. His comments reflect a hawkish stance on monetary discipline and position him within the current debate over Fed leadership and direction. The remarks carry implicit criticism of prior policy decisions, suggesting a potential shift in Fed philosophy if he were to assume a leadership role. For FIG professionals, this signals potential changes to rate-path assumptions and the regulatory/lending environment that banks navigate. The timing and tone suggest positioning ahead of potential Fed chair succession discussions.",
+      "talking_points": [
+        "Warsh frames inflation as a policy 'mistake,' signaling a hawkish stance that could shift Fed rate expectations if he gains influence.",
+        "Warsh's public positioning suggests he is competing for Fed leadership; monitor his policy statements for shifts in rate-path consensus.",
+        "If elevated to Fed chair, a Warsh-led Fed would likely prioritize inflation control over growth, affecting bank lending spreads and capital deployment."
+      ],
+      "topics": [
+        "Fed leadership",
+        "monetary policy",
+        "inflation",
+        "rate path"
+      ],
+      "highlight": "Warsh's framing of prior inflation as a 'mistake' signals potential hawkish policy reset\u2014relevant if he becomes a serious Fed chair candidate.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "53905a2136ce",
+    "title": "Robotaxi Riders Are Falling Asleep, Sparking Frantic 911 Calls",
+    "url": "https://www.insurancejournal.com/news/southcentral/2026/07/14/877530.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-14T15:59:13+00:00",
+    "summary_raw": "Waking up in a Waymo comes as a shock. Ditto Kasendar remembers soft music drifting from the robotaxi&#8217;s speakers as he rode home late at night from a friend&#8217;s birthday party last year. The next moment, Los Angeles firefighters were &#8230;",
+    "summary_ai": {
+      "digest": "Waymo robotaxi passengers falling asleep during rides are triggering 911 calls when the vehicle reaches destination, raising liability and insurance questions for autonomous vehicle operators.",
+      "summary_long": "Passengers in Waymo robotaxis are dozing off during rides and not waking when vehicles arrive at their destination, leading to emergency responder dispatch and public safety concerns. The incidents highlight an operational gap: autonomous vehicles detect arrival but lack a standard protocol to rouse sleeping passengers safely. This creates exposure for Waymo on multiple fronts\u2014emergency response costs, liability for passenger injury during extended cabin time, and insurance underwriting questions around rideshare autonomy. The issue sits at the intersection of product design, liability classification, and how insurers will price AV rideshare versus traditional fleet operations.",
+      "talking_points": [
+        "Waymo has an operational liability blind spot: no robust wake-up protocol for sleeping passengers, forcing 911 dispatch and emergency response.",
+        "Insurance underwriters covering AV rideshare fleets may demand new coverage carve-outs for passenger-induced incidents (sleep-related injury, trespassing, emergency response).",
+        "This is a product-design insurance event\u2014fixes range from in-cabin alert systems to contractual liability shifts, all of which affect the underwriting economics of AV fleet insurance."
+      ],
+      "topics": [
+        "autonomous-vehicles-insurance",
+        "rideshare-liability",
+        "product-risk-design"
+      ],
+      "highlight": "Sleeping passenger incidents are forcing 911 dispatch, creating a gap in AV fleet liability and a test case for how insurers classify autonomous rideshare risk vs. traditional fleets.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "9566f8c320a3",
+    "title": "Fitch improves Canopius Re outlook to positive while affirming \u2018A\u2019 rating",
+    "url": "https://www.reinsurancene.ws/fitch-improves-canopius-re-outlook-to-positive-while-affirming-a-rating/",
+    "source": "Reinsurance News",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-14T16:00:04+00:00",
+    "summary_raw": "<p>Credit rating agency Fitch Ratings has upgraded the outlook for Canopius Reinsurance Limited (Canopius Re), the Bermuda-based reinsurance company within the Canopius Group, from Stable to Positive while reaffirming its Insurer Financial Strength (IFS) Rating at &#8216;A&#8217; (Strong). The agency said the improved outlook reflects its expectation that the Canopius Group will continue strengthening its [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/fitch-improves-canopius-re-",
+    "summary_ai": {
+      "digest": "Fitch upgraded Canopius Re's outlook to Positive (from Stable) while affirming its 'A' IFS rating, signaling confidence in the Bermuda reinsurer's capital trajectory.",
+      "summary_long": "Fitch's outlook upgrade reflects Canopius Group's expected continued strengthening of underwriting discipline and capital management in a favorable reinsurance pricing environment. The affirmation of the 'A' rating itself carries no change, but the Positive outlook suggests Fitch sees a path to a higher rating within 12\u201324 months if the group maintains current momentum. This is a soft capital signal\u2014not a raise or M&A trigger, but a vote of confidence that improves the issuer's borrowing terms and competitive positioning. For Canopius, a specialist in complex, long-tail lines, the upgrade validates its recent underwriting and reserve actions. For the sector, it reflects the current hard-market tailwinds benefiting well-capitalized players.",
+      "talking_points": [
+        "Fitch sees Canopius Re moving toward upgrade-eligible metrics\u2014a near-term rating action risk worth tracking if pricing or loss experience deteriorate.",
+        "Positive outlook improves refinancing optionality and signals to cedants/brokers that capital strength is improving, not straining.",
+        "Reflects sector-wide reinsurance pricing power\u2014rating upgrades cluster in hard markets and tend to reverse in soft ones."
+      ],
+      "topics": [
+        "reinsurance-ratings",
+        "insurance-capital",
+        "bermuda-reinsurance"
+      ],
+      "highlight": "Positive outlook upgrade signals potential future rating action and validates Canopius Group's underwriting and capital discipline in a favorable pricing cycle.",
       "relevance": 6
     }
   },
@@ -2864,6 +2889,57 @@
     }
   },
   {
+    "id": "37a077c6aff6",
+    "title": "After Biden Denied Alabama Coal Waste Bid, Trump Reverses Course",
+    "url": "https://www.insurancejournal.com/news/southeast/2026/07/14/877510.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-14T14:50:57+00:00",
+    "summary_raw": "The Environmental Protection Agency on Monday proposed to approve Alabama&#8217;s application to take over issuing certain coal waste permits from the agency, part of a trend under President Donald Trump to transfer more authority from the federal government to states. &#8230;",
+    "summary_ai": {
+      "digest": "EPA proposes to transfer coal waste permitting authority from federal to state level in Alabama, part of Trump administration's devolution trend.",
+      "summary_long": "The EPA under Trump has proposed approving Alabama's application to assume responsibility for issuing certain coal waste permits previously handled federally. This reflects a broader administration policy of shifting regulatory authority from Washington to states. The move has implications for environmental liability, remediation funding, and the insurance products covering coal waste exposure. It may also signal how Trump will handle other EPA-delegable programs, affecting insurers' underwriting of environmental risk and states' capital requirements for cleanup obligations.",
+      "talking_points": [
+        "EPA proposing to hand coal waste permitting to Alabama\u2014watch for similar devolutions across other EPA programs that affect insurers' environmental liability books.",
+        "State-level permitting may create inconsistent standards and increase litigation risk around remediation costs, widening the environmental insurance market.",
+        "Biden had blocked this; Trump's reversal signals a multi-year rewrite of federal-state environmental delegation\u2014monitor for captive or alternative risk transfer structures."
+      ],
+      "topics": [
+        "environmental-liability",
+        "regulatory-devolution",
+        "insurance-underwriting",
+        "coal-industry"
+      ],
+      "highlight": "EPA authority shift to Alabama is part of systematic Trump devolution; watch for cascade across Clean Water Act, RCRA, and other delegable programs\u2014major underwriting reset for environmental insurers.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "2a21d8e3fff0",
+    "title": "Your Social Security check could go up by $74 a month next year",
+    "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-by-74-a-month-next-year-58877142?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T15:20:00+00:00",
+    "summary_raw": "Social Security\u2019s cost-of-living-adjustment could be 3.8% in 2027, as inflation shows signs of cooling.",
+    "summary_ai": {
+      "digest": "Social Security COLA could reach 3.8% in 2027 if inflation continues cooling, implying ~$74/month increase for average beneficiaries.",
+      "summary_long": "The Social Security Administration's cost-of-living adjustment (COLA) for 2027 is tracking toward 3.8% based on current inflation data, which would translate to roughly $74 monthly for the average retiree. COLA is calculated using the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) measured from Q3 of the prior year through Q3 of the current year. This projection assumes inflation continues its recent moderation trend. Higher COLA payments increase federal outlays and affect the solvency timeline of the Social Security Trust Fund, a long-running policy debate. For FIG professionals, this feeds into broader discussions on retirement adequacy, fixed-income asset demand, and annuity/IRA platform pricing.",
+      "talking_points": [
+        "3.8% COLA for 2027 would be the third consecutive year above the 2.5% historical average\u2014structural demand signal for retirement income products.",
+        "Trust Fund solvency math worsens with higher COLA payouts; policy risk for wealth platforms and IRA custodians focused on retirement solutions.",
+        "Rising benefit checks support consumer spending and may dampen deflationary concerns in late-cycle economic scenarios."
+      ],
+      "topics": [
+        "Social Security policy",
+        "COLA inflation",
+        "retirement income demand"
+      ],
+      "highlight": "3.8% COLA projection reinforces multi-year above-trend benefit growth, tightening the Social Security Trust Fund's runway and opening policy/rate-hike debate cycles.",
+      "relevance": 5
+    }
+  },
+  {
     "id": "7b68d9f9bfe2",
     "title": "New Memory ETFs Look to Cache In on DRAM\u2019s Historic Success",
     "url": "https://www.thedailyupside.com/etf/thematics-sectors/new-memory-etfs-look-to-cache-in-on-drams-historic-success/",
@@ -3038,30 +3114,6 @@
     }
   },
   {
-    "id": "db6dbc252196",
-    "title": "People Moves: Baldwin Group Hires Pierce as Regional President for IAS",
-    "url": "https://www.insurancejournal.com/news/west/2026/07/14/877371.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-14T07:00:07+00:00",
-    "summary_raw": "The Baldwin Group announced the appointment of Phil Pierce as west regional president for its Insurance Advisory Solutions (IAS) segment. This appointment further underscores the firm&#8217;s sustained growth as well as the evolving scale of its IAS business. In this &#8230;",
-    "summary_ai": {
-      "digest": "The Baldwin Group promoted Phil Pierce to west regional president of its Insurance Advisory Solutions segment, signaling organizational scaling in the advisory business.",
-      "summary_long": "The Baldwin Group has appointed Phil Pierce as west regional president overseeing its Insurance Advisory Solutions (IAS) segment. The move reflects the firm's effort to build regional management infrastructure as IAS grows in scale and complexity. This is a talent/organizational development signal rather than a capital or M&A event, but it indicates the firm is investing in distribution and operational capacity in insurance advisory\u2014a growth vector within the broader insurance brokerage/advisory market. For a regional or mid-market player to formalize west-coast leadership suggests either organic growth or preparation for acquisitions in that geography.",
-      "talking_points": [
-        "Baldwin Group is formalizing regional management in insurance advisory, a sign of scaling the segment beyond startup phase.",
-        "West-coast focus suggests geographic M&A ambitions or organic growth driving the need for dedicated regional leadership."
-      ],
-      "topics": [
-        "insurance advisory",
-        "organizational talent",
-        "regional expansion"
-      ],
-      "highlight": "Regional president appointment signals Baldwin Group's Insurance Advisory Solutions segment is scaling operationally\u2014watch for follow-on hiring or M&A in the west.",
-      "relevance": 4
-    }
-  },
-  {
     "id": "75616eb312c8",
     "title": "Investor Intentions: Chicago FABF issues RFP for investment consultants",
     "url": "https://www.privateequityinternational.com/investor-intentions-chicago-fabf-issues-rfp-for-investment-consultants/",
@@ -3083,32 +3135,6 @@
         "institutional-capital"
       ],
       "highlight": "Chicago FABF's $1.66bn RFP signals advisory re-compete; typical precursor to strategy refresh or consolidation at mid-market public plans.",
-      "relevance": 4
-    }
-  },
-  {
-    "id": "5306e106eaa2",
-    "title": "Artificial targets growth in US re/insurance market: President, Joost",
-    "url": "https://www.reinsurancene.ws/artificial-targets-growth-in-us-re-insurance-market-president-joost/",
-    "source": "Reinsurance News",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-14T11:00:32+00:00",
-    "summary_raw": "<p>Eric Joost, President at Artificial, said the firm sees opportunities in the US re/insurance market, particularly across the wholesale market, MGAs, and more structured distribution models, as firms seek to manage increasing volumes of submissions and greater operational complexity. Established in 2013 and based in London, Artificial builds technology and software tools for commercial insurers [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/artificial-targets-growth-in-us-re-i",
-    "summary_ai": {
-      "digest": "Artificial, a London-based insurtech founded in 2013, is targeting US re/insurance market growth by selling workflow software to wholesalers, MGAs, and structured distributors managing rising submission volumes.",
-      "summary_long": "Artificial provides technology and software tools to commercial insurers and, increasingly, to the reinsurance ecosystem. The company is positioning itself to help US re/insurance players handle growing operational complexity\u2014specifically the management of high submission volumes through wholesalers, managing general agents (MGAs), and alternative distribution channels. This is a market-entry play into a fragmented, operationally manual sector where digitization remains incomplete. The thesis is that consolidation and scale pressures are forcing re/insurers to outsource or upgrade their infrastructure. No funding, valuation, or M&A signal is mentioned.",
-      "talking_points": [
-        "Artificial is betting that US re/insurance operational complexity\u2014wholesaler workflows, MGA integrations, submission handling\u2014is a wedge to sell SaaS into a traditionally fragmented market.",
-        "The company is targeting wholesale and structured distribution channels, not direct insurers; this is a B2B2B play into the back-office.",
-        "No disclosed growth metrics, customer wins, or capital raise; this reads as a forward-looking CEO statement rather than a catalyzing event."
-      ],
-      "topics": [
-        "insurtech",
-        "re/insurance operations",
-        "wholesale distribution",
-        "workflow automation"
-      ],
-      "highlight": null,
       "relevance": 4
     }
   },
@@ -3139,31 +3165,6 @@
     }
   },
   {
-    "id": "ff33e96f5fb2",
-    "title": "GenNx360 taps Adam Feuer as operating partner",
-    "url": "https://www.pehub.com/gennx360-taps-adam-feuer-as-operating-partner/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-14T11:30:55+00:00",
-    "summary_raw": "<p>Prior to joining GenNx360, Feuer served as a procurement and supply chain operating partner at One Rock Capital Partners.</p>\n<p>The post <a href=\"https://www.pehub.com/gennx360-taps-adam-feuer-as-operating-partner/\">GenNx360 taps Adam Feuer as operating partner</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
-    "summary_ai": {
-      "digest": "GenNx360 Capital Partners hired Adam Feuer as operating partner; he previously held the same role at One Rock Capital Partners.",
-      "summary_long": "GenNx360, a lower-middle-market PE firm, added Adam Feuer to its operating partner bench. Feuer comes from One Rock Capital Partners, where he focused on procurement and supply chain optimization\u2014a classic value-creation lever in platform-building strategies. The move signals GenNx360's focus on operational improvement rather than financial engineering, consistent with the current market preference for hands-on value creation. Operating partner hires are routine talent moves but can indicate a firm's deal strategy and capacity to execute add-on acquisitions or operational turnarounds.",
-      "talking_points": [
-        "GenNx360 is building out operating partnership capacity in supply chain and procurement\u2014a value lever in lower-middle-market rollups.",
-        "Feuer's move from One Rock suggests the operating partner market is active and specialized talent is flowing between platforms.",
-        "Operating partner density is a competitive signal; more bench depth typically correlates with larger platform bets and add-on velocity."
-      ],
-      "topics": [
-        "PE hiring",
-        "operating partners",
-        "lower-middle-market PE"
-      ],
-      "highlight": "Adam Feuer moved from One Rock Capital Partners to GenNx360 as operating partner\u2014a lateral shift between two active LMM platforms.",
-      "relevance": 4
-    }
-  },
-  {
     "id": "9b313196bfd0",
     "title": "Vance Street appoints Jason Burmer as managing director and business development head",
     "url": "https://www.pehub.com/vance-street-appoints-jason-burmer-as-managing-director-and-business-development-head/",
@@ -3186,30 +3187,6 @@
         "banker movement"
       ],
       "highlight": "Seven-year Edgewater Capital BD veteran hired as MD and BD head\u2014suggests Vance Street is scaling origination ahead of a fundraise or accelerating deployment.",
-      "relevance": 4
-    }
-  },
-  {
-    "id": "00b96bbb7768",
-    "title": "Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock",
-    "url": "https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-14T12:41:13+00:00",
-    "summary_raw": "Warren Buffett omitted the Gates Foundation from his annual charitable stock gifts.",
-    "summary_ai": {
-      "digest": "Warren Buffett excluded the Gates Foundation from his 2026 annual charitable stock donation for the first time since 2000, signaling a strategic shift in his philanthropic capital allocation.",
-      "summary_long": "Buffett has historically distributed roughly $2 billion annually in Berkshire Hathaway stock to five foundations, with the Gates Foundation receiving the largest share. The omission represents a notable break from a 26-year pattern and suggests either a change in Buffett's charitable priorities or a recalibration of how he directs his wealth. This move may reflect broader questions about foundation governance, investment strategy, or Buffett's confidence in the Gates Foundation's capital deployment. The decision is material for foundation capital planning and could ripple across nonprofit governance discussions.",
-      "talking_points": [
-        "Buffett's first exclusion of Gates Foundation from annual stock gifts in 26 years signals a meaningful pivot in his charitable capital allocation strategy.",
-        "This affects roughly $2B in annual philanthropic distribution and may indicate pressure on foundation governance or capital efficiency metrics."
-      ],
-      "topics": [
-        "wealth management",
-        "philanthropic capital",
-        "Berkshire shareholder capital"
-      ],
-      "highlight": "First omission in 26 years breaks a $2B annual charitable giving pattern and suggests a deliberate reallocation of Buffett's philanthropic capital.",
       "relevance": 4
     }
   },
@@ -3333,6 +3310,104 @@
         "shipping-finance"
       ],
       "highlight": "Sea of Azov handles ~25% of Russian grain exports and is now an active drone-strike zone, creating acute marine insurance and shipping-finance stress.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "69e7dc991e09",
+    "title": "Texas Capital picks U.S. Bank alum as chief digital, information officer",
+    "url": "https://www.bankingdive.com/news/texas-capital-mo-jamous-chief-digital-information-officer-us-bank-alum/825146/",
+    "source": "Banking Dive",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-14T14:45:00+00:00",
+    "summary_raw": "<p>Mo Jamous will lead the Dallas-based bank&rsquo;s AI initiatives and strengthen its technology platform.</p>",
+    "summary_ai": {
+      "digest": "Texas Capital hires Mo Jamous, ex-U.S. Bank executive, as chief digital and information officer to oversee AI and tech platform modernization.",
+      "summary_long": "Texas Capital Bancshares has appointed Mo Jamous, a veteran technologist from U.S. Bank, to lead its digital transformation and AI strategy. The hire signals the mid-cap regional bank's commitment to modernizing its technology stack and competing on digital customer experience\u2014a critical capability for regional banks facing fintech pressure and the need to retain deposits in a higher-rate environment. Jamous's U.S. Bank pedigree suggests Texas Capital is borrowing best practices from a larger peer. This type of executive hire is typical of regional banks investing to avoid obsolescence, but does not itself catalyze M&A or capital events.",
+      "talking_points": [
+        "Texas Capital recruiting U.S. Bank's AI/tech lead\u2014signals board priority on digital and AI as table stakes for mid-cap regionals.",
+        "Tech modernization hire, not M&A or capital event; typical defensive posture in an era of fintech disruption and deposit competition."
+      ],
+      "topics": [
+        "regional-bank-technology",
+        "digital-transformation",
+        "executive-hiring"
+      ],
+      "highlight": null,
+      "relevance": 4
+    }
+  },
+  {
+    "id": "ec48c30705e2",
+    "title": "Active Re closes 2025 with 88.4% CoR and total equity of $108m",
+    "url": "https://www.reinsurancene.ws/active-re-closes-2025-with-88-4-cor-and-total-equity-of-108m/",
+    "source": "Reinsurance News",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-14T15:00:53+00:00",
+    "summary_raw": "<p>Active Re, a global reinsurer headquartered in Barbados, has released its 2025 Annual Report \u201cPositioned for What\u2019s Ahead\u201d, reporting a combined ratio of 88.4% for 2025, as well as a return on equity of 16.1%, a technical result of USD 26.7 million, and total equity of USD 108 million. Despite a global reinsurance market defined [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/active-re-closes-2025-with-88-4-cor-and-total-equity-of-108m/\">Active Re closes 2025 with 88.4% CoR an",
+    "summary_ai": {
+      "digest": "Active Re reported 88.4% combined ratio and $108m total equity for 2025, with 16.1% ROE and $26.7m technical result in a soft reinsurance market.",
+      "summary_long": "Active Re, a Barbados-based global reinsurer, closed 2025 with a combined ratio well below 100% (indicating underwriting profit), delivering $26.7m in technical earnings and 16.1% return on equity. The $108m equity base suggests a mid-sized specialty reinsurer. A sub-100 combined ratio in a soft market signals disciplined underwriting and pricing power. The capital position and profitability imply capacity to deploy or support organic growth, but no M&A or capital event is signaled in the headline.",
+      "talking_points": [
+        "88.4% combined ratio means Active Re is generating underwriting profit even in a soft reinsurance market where competitors are often underwater.",
+        "16.1% ROE on $108m equity shows solid capital efficiency, but the fund size is modest relative to Axis, XL, or Arch.",
+        "No mention of dividend, capital raise, or M&A activity \u2014 this reads as a steady-state operational update rather than a capital event."
+      ],
+      "topics": [
+        "reinsurance-underwriting",
+        "specialty-reinsurer",
+        "capital-adequacy"
+      ],
+      "highlight": null,
+      "relevance": 4
+    }
+  },
+  {
+    "id": "00b96bbb7768",
+    "title": "Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock",
+    "url": "https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html",
+    "source": "CNBC Finance",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-14T15:28:20+00:00",
+    "summary_raw": "Warren Buffett omitted the Gates Foundation from his annual charitable stock gifts.",
+    "summary_ai": {
+      "digest": "Warren Buffett excluded the Gates Foundation from his 2026 annual charitable stock donation for the first time since 2000, signaling a strategic shift in his philanthropic capital allocation.",
+      "summary_long": "Buffett has historically distributed roughly $2 billion annually in Berkshire Hathaway stock to five foundations, with the Gates Foundation receiving the largest share. The omission represents a notable break from a 26-year pattern and suggests either a change in Buffett's charitable priorities or a recalibration of how he directs his wealth. This move may reflect broader questions about foundation governance, investment strategy, or Buffett's confidence in the Gates Foundation's capital deployment. The decision is material for foundation capital planning and could ripple across nonprofit governance discussions.",
+      "talking_points": [
+        "Buffett's first exclusion of Gates Foundation from annual stock gifts in 26 years signals a meaningful pivot in his charitable capital allocation strategy.",
+        "This affects roughly $2B in annual philanthropic distribution and may indicate pressure on foundation governance or capital efficiency metrics."
+      ],
+      "topics": [
+        "wealth management",
+        "philanthropic capital",
+        "Berkshire shareholder capital"
+      ],
+      "highlight": "First omission in 26 years breaks a $2B annual charitable giving pattern and suggests a deliberate reallocation of Buffett's philanthropic capital.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "2fa7f2c46cf7",
+    "title": "Guy Carpenter strengthens LatAm & Caribbean team with Almaraz and Genovese appointments",
+    "url": "https://www.reinsurancene.ws/guy-carpenter-strengthens-latam-caribbean-team-with-almaraz-and-genovese-appointments/",
+    "source": "Reinsurance News",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-14T15:30:58+00:00",
+    "summary_raw": "<p>Guy Carpenter, a global reinsurance broker and Marsh business, has announced the appointment of James Almaraz and Robert Genovese as Managing Director and Vice President, respectively. Based in Miami, Almaraz and Genovese bring a strong portfolio and deep expertise in health re/insurance that will enhance Guy Carpenter\u2019s health reinsurance capabilities across Latin America and the [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/guy-carpenter-strengthens-latam-caribbean-team-wi",
+    "summary_ai": {
+      "digest": "Guy Carpenter names James Almaraz (MD) and Robert Genovese (VP) to its Miami office to expand health reinsurance in LatAm and Caribbean markets.",
+      "summary_long": "Guy Carpenter, a Marsh subsidiary and global reinsurance broker, is strengthening its Latin America and Caribbean platform with two senior hires focused on health re/insurance. Almaraz and Genovese bring existing client portfolios and deep expertise in health reinsurance, a specialty line with distinct underwriting and distribution needs. The move signals Guy Carpenter's intent to build scale in the region's growing health insurance market, likely targeting broker consolidation and client wallet share in a corridor with expanding middle-class populations and insurance penetration. LatAm health reinsurance remains fragmented, making talent aggregation a low-cost lever for market share.",
+      "talking_points": [
+        "Guy Carpenter is adding senior talent in Miami to penetrate LatAm health reinsurance\u2014a specialty line with structural tailwinds.",
+        "Almaraz and Genovese bring existing client books, reducing go-to-market friction in a region where relationships drive deal flow.",
+        "This is a hiring/consolidation play in a historically underserved geography; watch for follow-on hires or M&A by Marsh in regional brokers."
+      ],
+      "topics": [
+        "insurance-reinsurance",
+        "LatAm-market-entry",
+        "specialty-lines-health"
+      ],
+      "highlight": "Two health re/insurance specialists with existing LatAm client books now anchor Guy Carpenter's Miami hub\u2014talent acquisition as a market-share lever in a fragmented region.",
       "relevance": 4
     }
   },
@@ -3515,30 +3590,6 @@
     }
   },
   {
-    "id": "c2cdddbc13fc",
-    "title": "Enright to serve as President, Berkley Specialty London & CEO, W. R. Berkley Syndicate Management",
-    "url": "https://www.reinsurancene.ws/enright-to-serve-as-president-berkley-specialty-london-ceo-w-r-berkley-syndicate-management/",
-    "source": "Reinsurance News",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-14T10:00:49+00:00",
-    "summary_raw": "<p>Re/insurance holding company W.R. Berkley Corporation has appointed John Enright as President of Berkley Specialty London and Chief Executive Officer (CEO) of W. R. Berkley Syndicate Management Limited, effective July 1st, 2026. W. R. Berkley Syndicate Management Limited is the Lloyd&#8217;s managing agent for W. R. Berkley Syndicate 1967. The appointment is subject to regulatory [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/enright-to-serve-as-president-berkley-specialty-lo",
-    "summary_ai": {
-      "digest": "W.R. Berkley appoints John Enright as President of Berkley Specialty London and CEO of its Lloyd's managing agent (Syndicate 1967), effective July 1, 2026.",
-      "summary_long": "W.R. Berkley Corporation, a publicly traded re/insurance holding company, has elevated John Enright to lead both its specialty London operations and its Lloyd's managing agent entity. Syndicate 1967 is W.R. Berkley's Lloyd's platform, a material part of its specialty and international underwriting footprint. The appointment is regulatory-contingent, suggesting standard Lloyd's and FCA approvals. This move signals either succession planning at the specialty underwriting level or a strategic shift to consolidate London market leadership under a single executive. For FIG coverage, it's a minor internal reshuffle without M&A, capital raise, or regulatory enforcement angle.",
-      "talking_points": [
-        "John Enright now controls both the London specialty brokerage and the Lloyd's syndicate, consolidating W.R. Berkley's Lloyd's market exposure under one P&L.",
-        "Syndicate 1967 is subject to Lloyd's and FCA oversight; regulatory approval is a condition, typical for senior managing agent hires but worth flagging if Enright is an external hire with limited Lloyd's experience."
-      ],
-      "topics": [
-        "insurance-executive-moves",
-        "lloyd's-market",
-        "w.r.-berkley"
-      ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
     "id": "2aac196d4dbe",
     "title": "Meet the LP: InPact Partners",
     "url": "https://www.privateequityinternational.com/meet-the-lp-inpact-partners/",
@@ -3582,31 +3633,6 @@
         "Aon subsidiaries"
       ],
       "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
-    "id": "570cd28bf9cd",
-    "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-    "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T13:15:00+00:00",
-    "summary_raw": "\u201cI\u2019ve just been ignoring their attempts.\u201d",
-    "summary_ai": {
-      "digest": "A MarketWatch reader's empty Robinhood account is under persistent email-change attack; the piece explores what scammers gain from compromised dormant accounts.",
-      "summary_long": "The article chronicles a reader's experience defending an inactive Robinhood account against repeated unauthorized email-change attempts. MarketWatch explores the mechanics and incentives: scammers may use dormant accounts as staging grounds for wash trades, account farming, or layering schemes; they may also harvest the account's data for larger identity-theft campaigns. The piece raises questions about broker account-security practices and the cost-benefit calculus for attackers targeting zero-balance or low-activity accounts. No regulatory or platform response is detailed.",
-      "talking_points": [
-        "Dormant brokerage accounts are valuable to attackers even when empty\u2014used for wash trading, account farming, or identity-theft data harvesting.",
-        "Robinhood's email-reset attack surface appears unpatched or under-monitored; reader reports 'relentless' attempts with no apparent broker intervention.",
-        "The economics favor attackers: minimal cost to probe thousands of accounts for low-friction takeovers, high payoff if account can be weaponized for market manipulation or credit fraud."
-      ],
-      "topics": [
-        "fintech-security",
-        "account-takeover-risk",
-        "retail-broker-controls"
-      ],
-      "highlight": "Scammers target empty accounts to use them as wash-trade or account-farming nodes\u2014the dormancy itself is the vulnerability, not the balance.",
       "relevance": 3
     }
   },
@@ -3870,30 +3896,6 @@
     }
   },
   {
-    "id": "1730b57883ea",
-    "title": "IMB Partners invests in heavy civil contractor Strategic Land Services",
-    "url": "https://www.pehub.com/imb-partners-invests-in-heavy-civil-contractor-strategic-land-services/",
-    "source": "PE Hub",
-    "section": "PE & Deals",
-    "date": "2026-07-14T11:35:14+00:00",
-    "summary_raw": "<p>SLS performs the critical civil work required for electric grid expansion and maintenance.</p>\n<p>The post <a href=\"https://www.pehub.com/imb-partners-invests-in-heavy-civil-contractor-strategic-land-services/\">IMB Partners invests in heavy civil contractor Strategic Land Services</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
-    "summary_ai": {
-      "digest": "IMB Partners has invested in Strategic Land Services, a heavy civil contractor focused on electric grid expansion and maintenance work.",
-      "summary_long": "IMB Partners has deployed capital into Strategic Land Services (SLS), a heavy civil contractor focused on electric grid expansion and maintenance. The investment reflects PE appetite for infrastructure plays benefiting from energy transition capex, grid modernization, and EV charging buildout. However, the excerpt contains no deal size, valuation, or capital structure, limiting its usefulness for deal intelligence. No clear financial services angle or FIG coverage trigger is evident.",
-      "talking_points": [
-        "IMB Partners investing in grid-infrastructure contractors\u2014signals PE capital chasing energy-transition infrastructure capex tailwinds.",
-        "SLS's focus on civil work for grid expansion and EV charging implies bet on regulated utility and renewable energy developer demand."
-      ],
-      "topics": [
-        "infrastructure-PE",
-        "energy-transition",
-        "grid-modernization"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
     "id": "783b8dfcb7fe",
     "title": "Odyssey invests in packaging and logistics firm TransPak",
     "url": "https://www.pehub.com/odyssey-invests-in-packaging-and-logistics-firm-transpak/",
@@ -3994,12 +3996,16 @@
     "date": "2026-07-14T14:37:56+00:00",
     "summary_raw": "There are similarities between being a pro athlete and a financial advisor.",
     "summary_ai": {
-      "digest": "Profile of five financial advisors with professional soccer backgrounds; article draws parallels between athlete discipline and advisory practice-building.",
-      "summary_long": "Wealth Management profiles five advisors who transitioned from professional soccer to financial advisory roles. The article frames the overlap between athletic discipline, team dynamics, and client management as a strength in wealth advisory. No deal, capital, or regulatory information is present. The piece reads as a soft-interest profile without industry data or strategic insight into the asset/wealth management sector.",
-      "talking_points": null,
+      "digest": "Five wealth advisors transitioned from professional soccer careers. The piece draws parallels between athlete discipline and advisory practice-building.",
+      "summary_long": "Wealth Management profiles five financial advisors with prior pro soccer backgrounds, exploring how athletic discipline, team dynamics, and performance metrics transfer to advisory work. The article frames advisor recruitment and retention through an athlete-to-finance lens, touching on practice management, client relationship building, and competitive mindset. This is a soft-focus career/culture piece with no M&A, capital, regulatory, or deal-flow implications.",
+      "talking_points": [
+        "No deal or capital angle\u2014this is a career narrative, not a market signal.",
+        "Potentially useful for RIA talent acquisition or advisory culture marketing, but outside FIG deal flow.",
+        "No regulatory, consolidation, or fundraising information."
+      ],
       "topics": [
-        "wealth advisory",
-        "career transition"
+        "RIA culture",
+        "advisor recruitment"
       ],
       "highlight": null,
       "relevance": 2
@@ -4023,6 +4029,76 @@
       "topics": [
         "equity-valuation",
         "market-timing"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "ecc84f276690",
+    "title": "Gryphon-backed SMG scoops up health, safety and environmental services firm CrossSafety",
+    "url": "https://www.pehub.com/gryphon-backed-smg-scoops-up-health-safety-and-environmental-services-firm-crosssafety/",
+    "source": "PE Hub",
+    "section": "PE & Deals",
+    "date": "2026-07-14T14:58:06+00:00",
+    "summary_raw": "<p>The transaction includes CrossSafety\u2019s TRH operations in the US and Mexico.</p>\n<p>The post <a href=\"https://www.pehub.com/gryphon-backed-smg-scoops-up-health-safety-and-environmental-services-firm-crosssafety/\">Gryphon-backed SMG scoops up health, safety and environmental services firm CrossSafety</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
+    "summary_ai": {
+      "digest": "Gryphon-backed SMG acquired CrossSafety, a health, safety, and environmental services firm, including its TRH operations in the US and Mexico. No financial terms disclosed.",
+      "summary_long": "SMG, a portfolio company of Gryphon Capital Partners, has completed an acquisition of CrossSafety, a compliance and risk-management services provider serving industrial and commercial clients. The deal includes CrossSafety's Tactical Risk & Health (TRH) division across North American operations. The excerpt provides minimal detail on valuation, structure, or strategic rationale. No information is available on debt financing, equity check size, or exit timeline.",
+      "talking_points": [
+        "Gryphon portfolio company expanding via bolt-on acquisition into HSE compliance\u2014typical buy-and-build playbook.",
+        "No deal size or financing details disclosed; unclear if this signals capital deployment pace or return timeline for the Gryphon fund."
+      ],
+      "topics": [
+        "PE-portfolio-company-acquisition",
+        "health-safety-services",
+        "gryphon-capital"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "6a762a8923c1",
+    "title": "Kaltroco invests in school dental program Smile America partners",
+    "url": "https://www.pehub.com/kaltroco-invests-in-school-dental-program-smile-america-partners/",
+    "source": "PE Hub",
+    "section": "PE & Deals",
+    "date": "2026-07-14T15:03:51+00:00",
+    "summary_raw": "<p>Kaltroco's investment supports the organization's continued growth.</p>\n<p>The post <a href=\"https://www.pehub.com/kaltroco-invests-in-school-dental-program-smile-america-partners/\">Kaltroco invests in school dental program Smile America partners</a> appeared first on <a href=\"https://www.pehub.com\">PE Hub</a>.</p>",
+    "summary_ai": {
+      "digest": "Kaltroco has invested in Smile America, a school-based dental program operator, to support growth expansion.",
+      "summary_long": "Kaltroco, a PE investor, has deployed capital into Smile America, which operates dental care programs in school settings. The investment is positioned as a growth vehicle for the organization. No deal size, structure, or acquisition context is disclosed in the excerpt. Smile America operates in specialty healthcare/dental, a non-core FIG vertical. The investment signals PE appetite for healthcare service roll-ups but lacks the capital terms, strategic rationale, or sector positioning detail needed to assess relevance to financial services deal flow.",
+      "talking_points": [
+        "PE capital flowing into school-based dental \u2014 a fragmented, recurring-revenue healthcare vertical.",
+        "Kaltroco backing Smile America suggests consolidation thesis in dental service delivery, but no size or structure disclosed."
+      ],
+      "topics": [
+        "healthcare-pe",
+        "dental-services"
+      ],
+      "highlight": null,
+      "relevance": 2
+    }
+  },
+  {
+    "id": "6cda76093c83",
+    "title": "Texas Contractor Cited After Worker Dies in Elementary School Crawl Space",
+    "url": "https://www.insurancejournal.com/news/southcentral/2026/07/14/877544.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-14T16:06:22+00:00",
+    "summary_raw": "The U.S. Department of Labor has cited a building contractor and a staffing company for safety violations after a worker suffered fatal injuries while operating a mini-excavator beneath an elementary school in Converse, Texas. The department&#8217;s Occupational Safety and Health &#8230;",
+    "summary_ai": {
+      "digest": "OSHA cited a contractor and staffing firm for safety violations after a worker death in a Texas school crawlspace. No financial magnitude or systemic regulatory trigger disclosed.",
+      "summary_long": "A worker died operating a mini-excavator in a confined space beneath an elementary school in Converse, Texas. The U.S. Department of Labor's OSHA division issued citations to both the building contractor and the staffing company involved. The excerpt does not specify penalty amounts, settlement terms, or whether this triggers broader policy changes affecting construction liability, contractor insurance, or staffing-company underwriting. Without those details, this reads as a routine workplace fatality enforcement action rather than a deal catalyst or capital event.",
+      "talking_points": [
+        "Routine OSHA citation\u2014no deal angle, penalty size, or policy shift evident from the excerpt.",
+        "Potential interest only if this sparks changes to contractor bonding, staffing liability insurance, or school district risk management\u2014none of which are mentioned."
+      ],
+      "topics": [
+        "workplace-safety-enforcement",
+        "contractor-liability"
       ],
       "highlight": null,
       "relevance": 2
@@ -4100,44 +4176,10 @@
     "date": "2026-07-14T12:06:51+00:00",
     "summary_raw": "Make sense of the latest business and policy headlines with our daily newsletter.",
     "summary_ai": {
-      "digest": "Newsletter signup page for DealBook, NYT's business and policy briefing.",
-      "summary_long": "This is a landing page promoting DealBook, the New York Times' daily newsletter covering business, finance, and policy news. It offers no substantive content, analysis, or market signal\u2014only a subscription prompt. For a reader already consuming financial news, this is promotional material rather than intelligence.",
+      "digest": "Newsletter signup prompt for DealBook, NYT's daily business and policy digest.",
+      "summary_long": "This is a promotional call-to-action for DealBook, the New York Times' flagship business newsletter covering M&A, markets, regulation, and policy. It offers no new information, analysis, or reporting\u2014just a subscription funnel. For someone already consuming financial news at scale, this is pure promotional noise.",
       "talking_points": [],
       "topics": [],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "026781641f3d",
-    "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
-    "url": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T13:30:00+00:00",
-    "summary_raw": "\u201cMy house shook violently from the wind.\u201d",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "a2a3ebc10aa0",
-    "title": "I\u2019m juggling 3 jobs with irregular pay. How can I budget when my income varies every month?",
-    "url": "https://www.marketwatch.com/story/im-a-bartender-yoga-teacher-and-freelance-consultant-how-can-i-budget-with-such-an-unpredictable-income-d5dce383?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T13:43:00+00:00",
-    "summary_raw": "\u2018Is there a smart way to manage irregular income without feeling like every financial decision is a gamble?\u2019",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
       "highlight": null,
       "relevance": 1
     }
@@ -4160,6 +4202,59 @@
         "consumer-credit",
         "rewards-programs"
       ],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "b804c73a0443",
+    "title": "Lindsey Graham died from a rare heart condition. Here\u2019s how to know if you\u2019re at risk.",
+    "url": "https://www.marketwatch.com/story/lindsey-graham-died-from-a-rare-heart-condition-heres-how-to-know-if-youre-at-risk-8ca5a618?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T15:21:00+00:00",
+    "summary_raw": "Aortic dissections are extremely rare; however, people with a family history or who have been diagnosed with certain genetic syndromes have an elevated risk",
+    "summary_ai": {
+      "digest": "Null. Not relevant to financial institutions, markets, or career.",
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "3b8bf30d1e12",
+    "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
+    "url": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T15:30:00+00:00",
+    "summary_raw": "\u201cI\u2019m wondering whether I should ask to work with someone closer to our generation.\u201d",
+    "summary_ai": {
+      "digest": "Retiree questions whether adviser's casual speech ('you guyses') signals unprofessionalism or generational mismatch.",
+      "summary_long": "A MarketWatch advice column addresses a retired couple's discomfort with their younger financial adviser's informal speech patterns. The question conflates colloquial language with professional competence, touching on age-based bias in advisor relationships. The column likely explores whether communication style matters relative to investment performance and fiduciary behavior. No substance on adviser quality, assets under management, fee structure, or service delivery.",
+      "talking_points": [],
+      "topics": [
+        "advisor-client-relations"
+      ],
+      "highlight": null,
+      "relevance": 1
+    }
+  },
+  {
+    "id": "2babd5580fc1",
+    "title": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+    "url": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T16:00:00+00:00",
+    "summary_raw": "\u201cWhen I pass, all my retirement income is reduced to $30,000 a year.\u201d",
+    "summary_ai": {
+      "digest": null,
+      "summary_long": null,
+      "talking_points": null,
+      "topics": null,
       "highlight": null,
       "relevance": 1
     }
