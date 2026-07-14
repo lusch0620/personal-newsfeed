@@ -183,6 +183,32 @@
     }
   },
   {
+    "id": "0b31078914bc",
+    "title": "Everything is awesome for banks",
+    "url": "https://www.ft.com/content/6d9ea937-a83a-430f-8f5b-68fb27e15058",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T20:00:00+00:00",
+    "summary_raw": "Lenders are riding the tech wave, too",
+    "summary_ai": {
+      "digest": "U.S. banks are posting record profits on net interest margins, capital relief, and tech-driven cost cuts; equity valuations near all-time highs reflect a structural shift away from recession fears and toward AI-enabled operational efficiency.",
+      "summary_long": "Banks are experiencing a confluence of tailwinds: net interest margins remain resilient despite a flatter yield curve, capital buffers exceed regulatory minimums freeing up shareholder returns, and operating leverage from automation and AI are expanding margins. Regional banks have stabilized after 2023's stress, and large caps are benefiting from investment banking and trading. The market is pricing in a durable earnings story, not a temporary cycle, with banks trading near all-time highs. This underpins higher M&A activity and reduced stress on bank capital\u2014a material shift from 2024's anxiety about deposit flight and rate pressure.",
+      "talking_points": [
+        "Banks are expanding operating leverage through AI and automation; cost-to-income ratios are compressing, which reprices the entire sector above historical multiples.",
+        "Capital relief from reduced regulatory pressure (post-stress test cycles) is unlocking shareholder returns and M&A capacity simultaneously\u2014removing a 2024 constraint on deal flow.",
+        "NIM resilience despite a flatter curve suggests deposit franchises and pricing power are intact; this is less a cyclical bounce and more a structural repricing of the business model."
+      ],
+      "topics": [
+        "bank-profitability",
+        "regulatory-capital",
+        "NIM-environment",
+        "M&A-capacity"
+      ],
+      "highlight": "Banks are using AI to cut operating costs materially\u2014this reprices valuation multiples and unlocks capital for shareholder returns and acquisitions.",
+      "relevance": 8
+    }
+  },
+  {
     "id": "93673e809ed8",
     "title": "What\u2019s Behind a Rare Week in the Red for ETF Flows",
     "url": "https://www.thedailyupside.com/etf/industry-news-etf/whats-behind-a-rare-week-in-the-red-for-etf-flows/",
@@ -1324,6 +1350,32 @@
     }
   },
   {
+    "id": "b9123749c338",
+    "title": "Your stock portfolio is tied to the Japanese yen \u2014 and a looming intervention is flashing a major warning sign",
+    "url": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T20:56:00+00:00",
+    "summary_raw": "What the link between the yen and U.S. stocks means for your portfolio.",
+    "summary_ai": {
+      "digest": "Weakening yen is tightening financial conditions globally as Japanese carry trades unwind; intervention risk could spike volatility in equities tied to yen weakness.",
+      "summary_long": "The Japanese yen has weakened significantly, and this currency move has second-order effects on U.S. equity valuations. When the yen weakens, Japanese investors increase overseas investments (the carry trade), which has historically boosted U.S. stock demand. Conversely, if the Bank of Japan intervenes to strengthen the yen\u2014a risk flagged by recent rhetoric\u2014those flows reverse, potentially triggering a deleveraging cycle. The article connects retail portfolio exposure to this macro tail risk, emphasizing that yen intervention could unwind the structural bid under U.S. equities that has persisted for years.",
+      "talking_points": [
+        "BoJ intervention to strengthen the yen would force unwinding of carry trades, creating a sell signal in U.S. equities with no obvious circuit breaker.",
+        "Your equity portfolio is implicitly long the yen-carry narrative; a BoJ pivot changes the financing cost and attractiveness of that leverage.",
+        "This is a tail-risk event for FIG deal flow\u2014rising volatility typically compresses equity caps, narrows M&A spreads, and tightens leverage multiples."
+      ],
+      "topics": [
+        "yen carry trade",
+        "BoJ intervention risk",
+        "equity volatility",
+        "global financial conditions"
+      ],
+      "highlight": "BoJ intervention to defend the yen would force rapid unwinding of carry-trade leverage, potentially triggering sharp U.S. equity selloff with limited warning.",
+      "relevance": 7
+    }
+  },
+  {
     "id": "7842879d9597",
     "title": "The boom in LP-led secondaries",
     "url": "https://www.secondariesinvestor.com/the-boom-in-lp-led-secondaries/",
@@ -2381,31 +2433,6 @@
     }
   },
   {
-    "id": "3bf0e1a5a893",
-    "title": "IBM shares plunge 25% as customers shift spending to AI",
-    "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T16:27:28+00:00",
-    "summary_raw": "Chief executive Arvind Krishna says company \u2018faltered\u2019 as clients raced to buy servers and storage",
-    "summary_ai": {
-      "digest": "IBM stock fell 23% after CEO attributed weakness to customers shifting IT budget spend toward AI infrastructure (servers, storage) rather than traditional enterprise software and services.",
-      "summary_long": "IBM reported earnings that disappointed investors, with CEO Arvind Krishna explicitly citing customer budget reallocation away from the company's traditional business toward AI-capable hardware and infrastructure. The 23% single-day drop reflects investor concern that IBM's legacy enterprise software and managed services\u2014core profit drivers\u2014face structural headwinds as CIOs prioritize capital for AI-readiness (GPUs, data center expansion, cloud infra). This is not a cyclical earnings miss but a shift in enterprise IT spending patterns. For FIG, the signal is that banks and financial institutions face similar budget pressure: CIO capex is flowing to AI/compute, not necessarily to core banking modernization or wealth-tech platforms.",
-      "talking_points": [
-        "IBM's 23% drop is a visceral signal that enterprise IT budgets are rotating hard into AI infrastructure\u2014servers, GPUs, storage\u2014at the expense of traditional software licensing and services.",
-        "CEOs publicly acknowledging customers are delaying or cutting non-AI spending; this is structural, not cyclical, and likely hitting other enterprise software and services vendors too.",
-        "For financial institutions specifically: FIG tech budgets may face similar compression, with CIO capex flowing to core AI (risk models, fraud detection, lending engines) rather than discretionary platform upgrades or new fintech integrations."
-      ],
-      "topics": [
-        "enterprise IT spending rotation",
-        "AI capex prioritization",
-        "software services headwinds"
-      ],
-      "highlight": "Customer budget reallocation to AI infrastructure (not a cyclical slowdown) is eroding demand for legacy enterprise software\u2014a pattern that will ripple through banking tech vendors and fintech partnerships.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "063a73a8c9fb",
     "title": "Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people",
     "url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
@@ -2484,53 +2511,27 @@
     }
   },
   {
-    "id": "454411a22fe4",
-    "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
-    "url": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
-    "source": "MarketWatch",
+    "id": "3bf0e1a5a893",
+    "title": "IBM shares plunge 25% as customers shift spending to AI",
+    "url": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
+    "source": "Financial Times Markets",
     "section": "Markets & Macro",
-    "date": "2026-07-14T19:08:00+00:00",
-    "summary_raw": "Americans got some relief at the gas pump in recent weeks, enough to slow down inflation. That might not last long as the U.S. and Iran continue to vie for control of the Strait of Hormuz.",
+    "date": "2026-07-14T20:11:17+00:00",
+    "summary_raw": "Chief executive Arvind Krishna says company \u2018faltered\u2019 as clients raced to buy servers and storage",
     "summary_ai": {
-      "digest": "Oil prices risk a sharp spike if U.S.-Iran tensions escalate around the Strait of Hormuz, potentially reversing recent inflation relief and affecting bank funding costs and credit conditions.",
-      "summary_long": "The article flags geopolitical risk to crude prices amid U.S.-Iran tensions in the Strait of Hormuz, one of the world's critical oil-transit chokepoints. Recent oil-price softness has helped cool headline inflation, but a supply disruption could reverse those gains and push prices back to $4+ per gallon. For FIG, a sudden oil spike would tighten credit spreads, raise refinancing costs for energy-sector borrowers (a material exposure in regional bank loan books), and shift the Fed's policy calculus on rate cuts. The piece notes this is a tail risk, not base case, but one that could materially reset the macro backdrop for deal flow and bank margins.",
+      "digest": "IBM stock fell 23% after CEO attributed weakness to customers shifting IT budget spend toward AI infrastructure (servers, storage) rather than traditional enterprise software and services.",
+      "summary_long": "IBM reported earnings that disappointed investors, with CEO Arvind Krishna explicitly citing customer budget reallocation away from the company's traditional business toward AI-capable hardware and infrastructure. The 23% single-day drop reflects investor concern that IBM's legacy enterprise software and managed services\u2014core profit drivers\u2014face structural headwinds as CIOs prioritize capital for AI-readiness (GPUs, data center expansion, cloud infra). This is not a cyclical earnings miss but a shift in enterprise IT spending patterns. For FIG, the signal is that banks and financial institutions face similar budget pressure: CIO capex is flowing to AI/compute, not necessarily to core banking modernization or wealth-tech platforms.",
       "talking_points": [
-        "Strait of Hormuz disruption could push WTI back above $100, reversing disinflation and forcing Fed to hold or hike longer\u2014tightening the window for M&A and capital raise activity.",
-        "Energy sector credit stress would hit regional banks hardest; any geopolitical shock that spikes oil could trigger forced asset sales and accelerate consolidation in lending syndication.",
-        "Even a low-probability tail risk like this reshuffles the base case for fintech lending platforms and specialty finance plays in the energy/midstream space."
+        "IBM's 23% drop is a visceral signal that enterprise IT budgets are rotating hard into AI infrastructure\u2014servers, GPUs, storage\u2014at the expense of traditional software licensing and services.",
+        "CEOs publicly acknowledging customers are delaying or cutting non-AI spending; this is structural, not cyclical, and likely hitting other enterprise software and services vendors too.",
+        "For financial institutions specifically: FIG tech budgets may face similar compression, with CIO capex flowing to core AI (risk models, fraud detection, lending engines) rather than discretionary platform upgrades or new fintech integrations."
       ],
       "topics": [
-        "oil-price-geopolitics",
-        "inflation-fed-policy",
-        "regional-bank-energy-exposure",
-        "credit-conditions"
+        "enterprise IT spending rotation",
+        "AI capex prioritization",
+        "software services headwinds"
       ],
-      "highlight": "Strait of Hormuz controls ~20% of global oil supply; a brief disruption could spike WTI $20\u201330 and force the Fed to pause rate cuts, compressing deal spreads and refinancing capacity.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "f86593d23913",
-    "title": "Global oil prices notch back-to-back rise, remain \u2018tethered to the Hormuz narrative\u2019",
-    "url": "https://www.marketwatch.com/story/oil-prices-see-largest-two-day-percentage-gain-in-four-months-on-u-s-iran-fighting-040d7163?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T19:17:00+00:00",
-    "summary_raw": "Global oil prices on Tuesday notched their largest two-day rise since mid-March, buoyed by further escalation in the U.S.-Iran conflict.",
-    "summary_ai": {
-      "digest": "Oil prices up sharply on U.S.-Iran tensions despite Trump walking back Hormuz tariff threat; geopolitical premium now dominates price action.",
-      "summary_long": "Crude futures posted their largest two-day gain since mid-March on escalating U.S.-Iran conflict rhetoric, even as Trump reversed course on his threatened 20% tariff on Hormuz shipping. The Strait of Hormuz\u2014through which ~21% of global oil transits\u2014has become the primary price driver, replacing traditional supply/demand or Fed-rate narratives. Trump's reversal removes one tail risk but leaves underlying geopolitical stress intact. For FIG investors, this signals persistent oil-price volatility tied to non-economic shocks, which pressures energy-sector lending, hedging costs, and corporate spreads in commodities-linked sectors.",
-      "talking_points": [
-        "Oil up ~5\u20136% in two days on Iran escalation; Hormuz strait premium is now the price anchor, not Fed policy or demand.",
-        "Trump backed off the Hormuz tariff, reducing one shock, but geopolitical risk remains\u2014energy corporates and banks with energy exposure face sustained margin pressure.",
-        "For specialty finance and regional banks with energy lending: volatility is up, volatility is sticky, and refinancing windows tighten for stressed borrowers."
-      ],
-      "topics": [
-        "oil-volatility",
-        "geopolitical-risk",
-        "energy-credit"
-      ],
-      "highlight": "Hormuz remains tethered to price action despite Trump's tariff reversal\u2014sustained geopolitical premium will pressure energy-sector credit and hedging costs.",
+      "highlight": "Customer budget reallocation to AI infrastructure (not a cyclical slowdown) is eroding demand for legacy enterprise software\u2014a pattern that will ripple through banking tech vendors and fintech partnerships.",
       "relevance": 6
     }
   },
@@ -2540,7 +2541,7 @@
     "url": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html",
     "source": "Dealbook (NYT)",
     "section": "Markets & Macro",
-    "date": "2026-07-14T19:41:35+00:00",
+    "date": "2026-07-14T21:15:05+00:00",
     "summary_raw": "The quarterly results reflect the dichotomy between geopolitical uncertainty and the stable American economy.",
     "summary_ai": {
       "digest": "Major U.S. banks posted record Q2 earnings despite geopolitical tension and inflation, but analysts warn of structural risks ahead.",
@@ -2556,6 +2557,32 @@
         "credit-conditions"
       ],
       "highlight": "Dealbook's vague warning of 'tectonic risks' is a yellow flag\u2014watch bank guidance on net interest margin and credit loss provisions in the next earnings call.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "cdc8d865d2e6",
+    "title": "Louisiana Teachers to explore PE secondaries sale",
+    "url": "https://www.buyoutsinsider.com/louisiana-teachers-to-explore-pe-secondaries-sale/",
+    "source": "Buyouts Insider",
+    "section": "PE & Deals",
+    "date": "2026-07-14T21:32:19+00:00",
+    "summary_raw": "The pension plan is hoping to reduce its allocation to buyout assets, increase its liquidity and cull \u201cinactive\u201d GP relationships.",
+    "summary_ai": {
+      "digest": "Louisiana Teachers pension plan exploring sale of PE secondary stakes to reduce buyout allocation, improve liquidity, and exit underperforming GP relationships.",
+      "summary_long": "Louisiana Teachers Retirement System (LTRS), one of the largest U.S. public pension plans, is considering a broad secondary sale of its private equity holdings. The motivation is threefold: trim excess exposure to buyout assets, unlock dry powder for deployment elsewhere, and exit GPs that have underperformed or become inactive. Secondary sales have become a standard liquidity valve for LPs holding concentrated PE positions, and LTRS's move signals either portfolio rebalancing or pressure on returns. This matters for PE dealflow: large LP secondaries create a new buyer constituency for mid-market fund stakes, can reset GP incentives, and often signal which firms are losing institutional confidence.",
+      "talking_points": [
+        "LTRS exploring secondary sale to reduce PE allocation \u2014 a signal that large public pensions are rotating out of buyout heaviness post-2022 markup compression.",
+        "Secondary deals targeting 'inactive' GP relationships suggests LTRS is consolidating manager count, which pressures smaller or underperforming PE platforms.",
+        "Liquidity angle: pension plans using secondaries as a structural release valve as PE funds extend hold periods and J-curves lengthen."
+      ],
+      "topics": [
+        "PE secondaries",
+        "LP capital allocation",
+        "pension fund liquidity",
+        "GP consolidation"
+      ],
+      "highlight": "LTRS reducing buyout allocation via secondaries sale \u2014 a data point on whether large LPs are rotating out of PE or recalibrating exposure post-markup cycle.",
       "relevance": 6
     }
   },
@@ -3094,53 +3121,76 @@
     }
   },
   {
-    "id": "f48ff271f84f",
-    "title": "Homes are getting more affordable. So how come you still can\u2019t afford to buy one?",
-    "url": "https://www.marketwatch.com/story/homes-are-getting-more-affordable-so-how-come-you-still-cant-afford-to-buy-one-f2d69d02?mod=mw_rss_topstories",
+    "id": "d286e9d0e7d8",
+    "title": "Lucid denies bankruptcy talk, but the stock still sinks to a record low",
+    "url": "https://www.marketwatch.com/story/lucid-denies-bankruptcy-talk-but-the-stock-still-sinks-to-a-record-low-82f87d0d?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-14T18:33:00+00:00",
-    "summary_raw": "Home prices exploded over the past five years. They\u2019re now going up more slowly, but incomes have still not kept up.",
+    "date": "2026-07-14T20:21:00+00:00",
+    "summary_raw": "EV maker\u2019s stock down more than 50% intraday, then pares the bulk of those losses after Lucid says \u2018the rumors are completely false\u2019",
     "summary_ai": {
-      "digest": "Home price growth has slowed, but affordability remains poor because nominal price levels remain elevated while income growth lags. A supply-demand mismatch persists despite moderating appreciation.",
-      "summary_long": "The article observes that while home price appreciation has decelerated from pandemic peaks, absolute price levels remain historically high relative to incomes. Nominal prices have not fallen materially; instead, the pace of increases has simply moderated. Wage growth, even accounting for recent gains, has not closed the gap created during the 2020\u20132023 surge. The piece likely explores regional variation and the mechanics of affordability indices (price-to-income ratios, mortgage payment burdens), which remain stretched. This is a demand-side constraint on housing and, indirectly, on consumer balance sheets and mobility.",
+      "digest": "Lucid Motors stock plunged 50% intraday on bankruptcy rumors, then recovered most losses after the company issued a denial. The intraday volatility underscores liquidity stress in unprofitable EV makers.",
+      "summary_long": "Lucid's stock cratered on social media rumors of imminent bankruptcy filing, suggesting severe cash strain or near-term refinancing risk. The company's denial and partial recovery indicate the market still has some confidence in the denial, but the willingness to crater 50% on rumor alone signals fragile investor sentiment and likely thin equity cushion. For a boutique FIG analyst, this is a stress-test case study: how does an EV maker with no earnings refinance debt or raise equity in a deteriorating credit environment? The stock recovery suggests the denial was credible enough to avoid a true panic, but the initial drop is the real story\u2014it shows how quickly distressed-debt and equity capital can evaporate.",
       "talking_points": [
-        "Home price deceleration \u2260 affordability recovery; nominal prices remain elevated and incomes haven't caught up to the pandemic-era run-up.",
-        "Affordability is a stock problem (price level), not a flow problem (appreciation rate) \u2014 a correction requires either prices to fall or incomes to grow materially faster.",
-        "Housing affordability pressure suppresses consumer discretionary spending and constrains geographic mobility, which has knock-on effects for labor supply and regional bank loan demand."
+        "50% intraday drop on bankruptcy rumor shows how thin the equity risk premium is for cash-burning EV makers in a higher-rate environment.",
+        "The stock's recovery after denial suggests Lucid retains some refinance optionality, but the speed of the initial collapse indicates lenders and equity holders are on a hair trigger.",
+        "This is a live case study in equity-to-credit linkage: watch whether Lucid's bond spreads widen materially in the days after this event\u2014if they don't, refinance risk is truly low; if they do, the equity rout was justified."
       ],
       "topics": [
-        "housing-affordability",
-        "consumer-balance-sheets",
-        "regional-bank-deposits"
+        "EV-maker-distress",
+        "liquidity-stress",
+        "equity-credit-linkage"
       ],
-      "highlight": "Incomes have not kept pace with absolute home price levels, meaning slower appreciation does not translate to improved affordability \u2014 a headwind for consumer spending and regional deposit stability.",
+      "highlight": "The 50% intraday move on an unsubstantiated rumor, followed by a partial recovery on denial, is a precise measure of Lucid's refinance fragility and equity market confidence loss.",
       "relevance": 5
     }
   },
   {
-    "id": "fca76524aa69",
-    "title": "IBM workers pay a $400 million price for investing in company stock",
-    "url": "https://www.marketwatch.com/story/ibm-workers-pay-a-400-million-price-for-investing-in-company-stock-fb02f5fa?mod=mw_rss_topstories",
+    "id": "9eb190964cb5",
+    "title": "Wall Street has set a sky-high bar for companies to clear this earnings season. They just might pull it off.",
+    "url": "https://www.marketwatch.com/story/wall-street-has-set-a-sky-high-bar-for-companies-to-clear-this-earnings-season-they-just-might-pull-it-off-45731862?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-14T19:36:00+00:00",
-    "summary_raw": "Don\u2019t put all your eggs in one basket",
+    "date": "2026-07-14T21:03:00+00:00",
+    "summary_raw": "Analysts have set a sky-high bar for second-quarter earnings. However, Piper Sandler thinks corporate America can still clear it.",
     "summary_ai": {
-      "digest": "IBM employees lost ~$400M in company stock holdings as shares fell; article argues against concentrated single-stock positions in retirement accounts.",
-      "summary_long": "IBM workers who invested heavily in company stock through employee purchase plans or 401(k)s suffered significant losses as IBM's share price declined. The piece uses this as a cautionary tale about concentration risk\u2014the danger of betting too much of a portfolio on a single name, especially an employer whose fortunes are tied to your job security. For financial services professionals, this touches on a broader tension: wealth platforms and custodians (Fidelity, Schwab, etc.) that rely on employee stock plans as a product line often have perverse incentives to encourage rather than limit company-stock concentration. The article doesn't name specific wealth managers but implicitly indicts the practice.",
+      "digest": "Sell-side analysts have raised Q2 earnings expectations sharply; Piper Sandler argues companies will meet or exceed consensus despite the high bar.",
+      "summary_long": "Equity analysts have front-loaded consensus estimates higher ahead of second-quarter earnings season, creating a challenging hurdle rate for companies to beat. Piper Sandler's note suggests that despite these elevated expectations, corporates have the momentum and operational tailwinds to deliver. The piece does not specify which sectors or banks are in focus, but the theme is directionally relevant to credit conditions and refinancing capacity for financial services borrowers. A beat-heavy season would signal continued economic resilience and lower near-term risk of credit stress.",
       "talking_points": [
-        "IBM employee losses illustrate why custodians and RIAs are now emphasizing diversification rules\u2014it's both a compliance and a liability issue.",
-        "Employee stock plan platforms (ESPP, company 401k match) remain a sticky, high-margin business for wealth platforms; look for regulatory tightening or disclosure mandates around concentration risk.",
-        "This is live background for any conversation about wealth-management advisor incentive misalignment or fiduciary duty enforcement."
+        "High analyst expectations create binary risk for equities, but operational momentum may support beats.",
+        "If companies clear a raised bar, that signals economic resilience and lower credit stress for the financial services sector."
       ],
       "topics": [
-        "employee-stock-plans",
-        "concentration-risk",
-        "wealth-management-behavior",
-        "fiduciary-duty"
+        "earnings-expectations",
+        "credit-conditions",
+        "equity-market-signal"
       ],
-      "highlight": "IBM employee losses highlight a structural weakness in wealth platforms' incentives to warn against single-stock concentration in retirement plans.",
+      "highlight": "Piper Sandler's contrarian call that corporates can clear an elevated consensus bar despite tightened margins.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "e1e1df1cc2ea",
+    "title": "What IBM\u2019s profit warning means: Hardware is \u2018eating everyone\u2019s lunch\u2019",
+    "url": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T21:10:00+00:00",
+    "summary_raw": "The company said the shortfall in its software and infrastructure business was tied to clients spending on memory ahead of price hikes.",
+    "summary_ai": {
+      "digest": "IBM issued a profit warning citing client memory purchases ahead of anticipated price increases, signaling broader capex cycles in enterprise infrastructure.",
+      "summary_long": "IBM's guidance miss reflects a timing mismatch: enterprise clients front-loaded semiconductor and memory spending to avoid higher prices, creating a near-term revenue dip in software and infrastructure. This is a classic capex cycle signal\u2014when customers rush to buy before price increases, it often precedes a normalization period. For FIG analysts covering fintech, digital-asset platforms, and specialty finance, this matters because it reflects enterprise IT budget exhaustion and potential CIO budget constraints in the second half of 2026. The article frames this as hardware/semiconductor scarcity driving pricing power and client behavior, not fundamental demand weakness.",
+      "talking_points": [
+        "IBM's miss wasn't demand destruction\u2014it was clients pulling forward capex to beat memory price hikes, a classic cycle signal.",
+        "Enterprise IT budget exhaustion post-purchase suggests tightening discretionary spend in H2 2026, relevant for fintech infrastructure vendors and cloud-dependent financial services.",
+        "Semiconductor pricing power (hardware 'eating everyone's lunch') may constrain margin expansion for tech-heavy financial services over the next 12 months."
+      ],
+      "topics": [
+        "enterprise-capex-cycle",
+        "semiconductor-pricing",
+        "IT-budget-constraints"
+      ],
+      "highlight": "Client memory front-loading ahead of price hikes signals a near-term normalization in enterprise IT spend\u2014relevant read for fintech infrastructure vendors.",
       "relevance": 5
     }
   },
@@ -3643,31 +3693,6 @@
     }
   },
   {
-    "id": "64ef5e831fce",
-    "title": "These are the obstacles still keeping women from retirement security",
-    "url": "https://www.marketwatch.com/story/these-are-the-obstacles-still-keeping-women-from-retirement-security-eea48a95?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T18:23:00+00:00",
-    "summary_raw": "Yes, women still need a \u201cretirement security day.\u201d Here\u2019s why.",
-    "summary_ai": {
-      "digest": "MarketWatch article on structural barriers preventing women from achieving retirement security; focuses on systemic gaps in savings, earnings, and financial planning rather than market conditions.",
-      "summary_long": "The piece examines why women lag men in retirement preparedness despite decades of workforce participation gains. Common themes include: lifetime earnings gaps (women earn 84 cents per dollar), career interruptions for caregiving, lower investment participation rates, and gaps in financial literacy/planning access. The article frames retirement insecurity as a structural issue rooted in labor market dynamics and family economics, not individual behavior. For a FIG analyst, the read-through is sector-adjacent\u2014touches on wealth management, financial advice, and retail investor behavior\u2014but lacks deal flow, regulatory, or capital market implications.",
-      "talking_points": [
-        "Women's retirement gap persists due to 16% lifetime earnings differential and caregiving-driven career breaks, not just investment returns.",
-        "Lower participation in workplace retirement plans and self-directed investing among women signals an underserved market for advisor/platform outreach.",
-        "This is a demographic/labor story, not a market signal\u2014useful context for wealth management and retail fintech positioning, but no immediate deal or macro read-through."
-      ],
-      "topics": [
-        "women-investors",
-        "retirement-planning",
-        "wealth-management-market"
-      ],
-      "highlight": null,
-      "relevance": 4
-    }
-  },
-  {
     "id": "00b96bbb7768",
     "title": "Warren Buffett excludes Gates Foundation from his annual donations of Berkshire stock",
     "url": "https://www.cnbc.com/2026/07/14/warren-buffett-excludes-gates-foundation-from-his-annual-donations-of-berkshire-stock.html",
@@ -3713,6 +3738,30 @@
         "identity-theft"
       ],
       "highlight": "Attackers may be harvesting credentials to pivot to linked bank accounts and payment methods rather than targeting the empty brokerage balance itself.",
+      "relevance": 4
+    }
+  },
+  {
+    "id": "50927d1fcea4",
+    "title": "My GOAT book now has updated software/AI",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/my-goat-book-now-has-updated-software-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=my-goat-book-now-has-updated-software-ai",
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "section": "Learn",
+    "date": "2026-07-14T20:09:02+00:00",
+    "summary_raw": "<p>Generative Book &#8211; GOAT: Who is the Greatest Economist of all Time, and Why Does it Matter?</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/my-goat-book-now-has-updated-software-ai.html\">My GOAT book now has updated software/AI</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "summary_ai": {
+      "digest": "Tyler Cowen has updated his 'GOAT' economics book with new software and AI features, adding interactive or generative elements to the original text.",
+      "summary_long": "Cowen is experimenting with making his economics book dynamic through software and AI integration. The update likely enables readers to explore economic ideas through interactive tools or AI-generated dialogue. This reflects a broader shift toward generative media and personalized learning experiences. For Lucius, the signal is methodological: how economists and thought leaders are adapting canonical texts to leverage AI for engagement and reach. The move sits at the intersection of content, technology, and business model evolution.",
+      "talking_points": [
+        "Leading economists are experimenting with generative AI as a distribution and engagement layer for published work\u2014not just republishing the same text.",
+        "This suggests a future where 'books' are interactive, queryable, and personalized rather than static\u2014a model that could reshape how analysts and portfolio companies think about content monetization."
+      ],
+      "topics": [
+        "ai-tools",
+        "content-distribution",
+        "business-model-innovation"
+      ],
+      "highlight": null,
       "relevance": 4
     }
   },
@@ -3959,6 +4008,52 @@
     }
   },
   {
+    "id": "2babd5580fc1",
+    "title": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+    "url": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T20:15:00+00:00",
+    "summary_raw": "\u201cWhen I pass, all my retirement income is reduced to $30,000 a year.\u201d",
+    "summary_ai": {
+      "digest": "Retiree with $140K pension asks whether delaying Social Security to 70 increases survivor benefits for spouse; MarketWatch advisor addresses claiming strategy and household income replacement.",
+      "summary_long": "A 67-year-old with a $140K annual pension inquires whether deferring Social Security claims from 67 to 70 would materially increase survivor benefits payable to his wife upon his death. The framing hinges on household income adequacy: his pension covers current needs, but survivor benefits drop to $30K annually if he dies before claiming, creating a longevity trade-off. The column walks through break-even age, spousal benefit rules, and the tradeoff between higher individual deferral credits (8% per year to age 70) versus immediate household cash flow and survivor protection. This is a classic Social Security optimization problem relevant to any FIG professional counseling high-net-worth or institutional clients on retirement income structuring.",
+      "talking_points": [
+        "Delaying Social Security to 70 raises the survivor benefit cliff \u2014 but only if the retiree lives past break-even; if he dies before ~80, his wife loses the upside.",
+        "With a $140K pension already covering living expenses, the household can afford to defer and optimize for survivor income, unlike asset-poor retirees forced to claim early.",
+        "Spousal and survivor benefit rules are opaque; an IRA platform or WM firm covering this segment should staff a benefits specialist or embed a calculator into onboarding."
+      ],
+      "topics": [
+        "retirement-income-planning",
+        "social-security-strategy",
+        "survivor-benefits"
+      ],
+      "highlight": "Survivor benefit drops to $30K/year upon death \u2014 deferral to 70 can raise that, but only if retiree survives past actuarial break-even, shifting risk to spouse's longevity.",
+      "relevance": 3
+    }
+  },
+  {
+    "id": "519a6b6f7026",
+    "title": "Three powerful forces are draining family wealth \u2014 and your estate plan is completely unprepared",
+    "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T21:38:00+00:00",
+    "summary_raw": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family\u2019s inheritance and what to do about them.",
+    "summary_ai": {
+      "digest": "MarketWatch opinion on three wealth-draining forces: Medicaid clawbacks, IRA tax treatment, and unspecified third threat. Generic estate-planning advice lacking data, analysis, or actionable framework.",
+      "summary_long": "The piece frames Medicaid policy, tax code provisions, and an unnamed third threat as primary erosion vectors for family wealth. It positions estate planning as inadequate to address these forces but does not quantify the impact, compare severity across income brackets, or provide novel strategic guidance. The framing\u2014'your plan is unprepared'\u2014is tabloid-style clickbait without supporting evidence. No deal flow, regulatory catalyst, or market signal that would inform FIG positioning or M&A activity.",
+      "talking_points": [],
+      "topics": [
+        "estate-planning",
+        "wealth-transfer",
+        "tax-policy"
+      ],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
     "id": "09b18fa419dd",
     "title": "Today\u2019s banks are fueled by technology - 4 strategic recommendations for success",
     "url": "https://www.bankingdive.com/spons/todays-banks-are-fueled-by-technology-4-strategic-recommendations-for-su/824379/",
@@ -3974,29 +4069,6 @@
       ],
       "topics": [
         "bank-technology-strategy"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
-    "id": "983f72441c91",
-    "title": "Legal sector regulator in England and Wales has \u2018lost its way\u2019, review finds",
-    "url": "https://www.ft.com/content/f50a5d70-3160-4844-a6a2-179db3bb7d3c",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T10:00:04+00:00",
-    "summary_raw": "Report into Legal Services Board follows a number of high-profile law firm collapses in recent years",
-    "summary_ai": {
-      "digest": "UK's Legal Services Board faces criticism for losing regulatory direction after recent law firm collapses; report questions institutional effectiveness.",
-      "summary_long": "A formal review of England and Wales's Legal Services Board (LSB) concludes the regulator has 'lost its way' in its oversight mandate, following a series of high-profile law firm failures. The report suggests regulatory gaps and unclear governance may have contributed to recent insolvencies in the sector. While the LSB oversees legal services regulation, this is a broader institutional-accountability finding rather than a response to specific enforcement lapses. The timing reflects growing pressure on UK regulators across sectors to demonstrate competence and control.",
-      "talking_points": [
-        "LSB credibility damaged by high-profile law firm collapses; regulator facing institutional reset questions.",
-        "Regulatory clarity gaps in legal services oversight may create opening for tighter rules on firm capital, client funds, and transparency."
-      ],
-      "topics": [
-        "UK-regulatory-governance",
-        "professional-services-regulation"
       ],
       "highlight": null,
       "relevance": 2
@@ -4199,7 +4271,7 @@
     "url": "https://www.nytimes.com/2026/07/14/business/dealbook/chai-discovery-ai-drug-development.html",
     "source": "Dealbook (NYT)",
     "section": "Markets & Macro",
-    "date": "2026-07-14T14:24:14+00:00",
+    "date": "2026-07-14T14:24:15+00:00",
     "summary_raw": "The fund-raising values the company at $3.8 billion and underscores investor interest in using artificial intelligence to tackle problems like drug discovery.",
     "summary_ai": {
       "digest": "Chai Discovery, an AI drug-discovery startup, raised $400M at a $3.8B valuation, signaling sustained VC appetite for AI-assisted biotech despite macro headwinds.",
@@ -4336,11 +4408,11 @@
   },
   {
     "id": "278906af654d",
-    "title": "IBM\u2019s stock is having its worst day ever after the surprise release of an earnings miss",
+    "title": "IBM\u2019s stock just had its worst day ever after the surprise release of an earnings miss",
     "url": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-14T18:37:00+00:00",
+    "date": "2026-07-14T20:21:00+00:00",
     "summary_raw": "IBM\u2019s stock plunges after a preliminary release of profit and revenue that were well below expectations.",
     "summary_ai": {
       "digest": "IBM stock fell sharply on a preliminary earnings miss with profit and revenue below expectations.",
@@ -4358,27 +4430,26 @@
     }
   },
   {
-    "id": "9abba81f4b27",
-    "title": "The next boost to Apple\u2019s stock could come from an iPhone price hike",
-    "url": "https://www.marketwatch.com/story/the-next-boost-to-apples-stock-could-come-from-an-iphone-price-hike-126150cf?mod=mw_rss_topstories",
+    "id": "b8649ef148ba",
+    "title": "Taco Bell reportedly being investigated by health officials, as cyclosporiasis outbreak spreads",
+    "url": "https://www.marketwatch.com/story/officials-are-reportedly-looking-into-taco-bell-as-source-of-parasite-outbreak-remains-elusive-3ead0a1f?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-14T19:49:00+00:00",
-    "summary_raw": "Morgan Stanley estimates that the iPhone 18 lineup could see a $200 price increase from the previous generation.",
+    "date": "2026-07-14T21:09:00+00:00",
+    "summary_raw": "Shares of Taco Bell parent Yum Brands were down nearly 4% on Tuesday.",
     "summary_ai": {
-      "digest": "Morgan Stanley models a $200 price increase for iPhone 18, citing AI-feature bundling and premium positioning as justification.",
-      "summary_long": "Morgan Stanley's equity research projects Apple will raise iPhone 18 prices by $200 relative to the iPhone 17 lineup, anchored on the premise that on-device AI capabilities and integration with Apple's ecosystem command a premium. The analyst framing assumes consumer acceptance of higher entry prices as feature differentiation justifies the delta. This is a revenue-per-unit lever Apple could pull without volume collapse, particularly if the AI story resonates with upgrade cycles. The implication: smartphone unit economics are shifting from volume-driven to margin-driven, and Apple's installed base and brand moat may allow it to sustain price discipline.",
+      "digest": "Taco Bell faces health investigation over cyclosporiasis outbreak; Yum Brands stock down 4%.",
+      "summary_long": "Health officials are investigating Taco Bell locations in connection with a spreading cyclosporiasis outbreak, a parasitic foodborne illness. Yum Brands shares declined nearly 4% on the news. The outbreak and investigation could trigger food-safety litigation, regulatory fines, or operational disruptions across Taco Bell franchises. For a QSR parent, reputational damage and operational costs from a multi-state outbreak are material near-term risks. This is a stock-specific event rather than a market signal.",
       "talking_points": [
-        "Morgan Stanley models $200 iPhone 18 price increase driven by on-device AI bundling, suggesting Apple will prioritize margin expansion over volume.",
-        "If executed without unit demand destruction, this re-rates smartphone economics from commodity-driven competition to software/AI-bundled feature premiums.",
-        "Consumer acceptance hinges on credible AI differentiation; if features are perceived as table-stakes rather than premium, the price elasticity risk is material."
+        "Cyclosporiasis outbreak tied to Taco Bell is live; Yum down 4% \u2014 watch for litigation risk and franchise impact.",
+        "Food-safety crises typically trigger class-action suits, regulatory penalties, and franchisee pressure \u2014 playbook is known but execution risk is high."
       ],
       "topics": [
-        "apple-pricing",
-        "consumer-tech-margin",
-        "ai-premium"
+        "food-safety-litigation",
+        "QSR-operational-risk",
+        "stock-specific-event"
       ],
-      "highlight": "$200 price increase on iPhone 18 hinges on consumer willingness to pay for on-device AI \u2014 margin expansion only works if perceived as differentiated value, not commoditized feature.",
+      "highlight": "Yum Brands stock down 4% on outbreak investigation \u2014 material near-term downside if outbreak spreads or litigation accelerates.",
       "relevance": 2
     }
   },
@@ -4513,29 +4584,6 @@
     }
   },
   {
-    "id": "3b8bf30d1e12",
-    "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
-    "url": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T19:49:00+00:00",
-    "summary_raw": "\u201cI\u2019m wondering whether I should ask to work with someone closer to our generation.\u201d",
-    "summary_ai": {
-      "digest": "A retiree questions whether a younger adviser's casual speech ('you guyses') signals unprofessionalism or incompetence.",
-      "summary_long": "A MarketWatch advice column addresses a reader's concern about a financial adviser in his 30s who uses colloquial phrasing. The reader, retired, wonders if casual speech reflects lack of expertise or if generational communication styles are simply different. The column likely argues that substance (investment performance, fiduciary behavior, fee structure) matters far more than speech patterns, and that dismissing a competent adviser for linguistic informality is a poor reason to switch. The real question is whether the adviser is managing their portfolio well and communicating strategy clearly.",
-      "talking_points": [
-        "Conflating communication style with competence is a common cognitive bias; performance and process matter infinitely more than generational courtesy norms.",
-        "If the adviser is executing well and delivering returns, speech patterns are noise; if returns are weak, the problem isn't 'you guyses'\u2014it's the strategy."
-      ],
-      "topics": [
-        "adviser-selection",
-        "soft-skills"
-      ],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
     "id": "fe74dd8fd558",
     "title": "Monolithic Power Systems to Report Second Quarter 2026 Results on July 30, 2026",
     "url": "https://www.globenewswire.com/news-release/2026/07/14/3327234/0/en/Monolithic-Power-Systems-to-Report-Second-Quarter-2026-Results-on-July-30-2026.html",
@@ -4544,10 +4592,10 @@
     "date": "2026-07-14T20:01:00+00:00",
     "summary_raw": "<p align=\"justify\">SCHAFFHAUSEN, Switzerland, July  14, 2026  (GLOBE NEWSWIRE) -- Monolithic Power Systems, Inc. (MPS) (Nasdaq: MPWR), a fabless global company that provides high-performance, semiconductor-based power electronics solutions, today announced it will report its second quarter 2026 financial results on Thursday, July 30, 2026 after the market closes. MPS will host a question-and-answer webinar at 2:00 p.m. PT / 5:00 p.m. ET on the same day to discuss the results and business outlook",
     "summary_ai": {
-      "digest": "Monolithic Power Systems (MPWR) will report Q2 2026 earnings on July 30 after market close, with a live Q&A session to follow.",
-      "summary_long": "This is a boilerplate earnings announcement from a semiconductor company. MPS is a fabless power-electronics supplier\u2014not a financial institution, asset manager, bank, or specialty finance player. The announcement contains no M&A, capital raise, regulatory action, or strategic review relevant to FIG. It is a calendar item, not a signal.",
-      "talking_points": [],
-      "topics": [],
+      "digest": "Monolithic Power Systems (MPWR) will report Q2 2026 earnings on July 30 after market close with a live Q&A call.",
+      "summary_long": "MPS, a fabless semiconductor power-electronics company, announced its earnings date and will host a live call with investors and analysts. This is a standard earnings calendar notice with no disclosed deal, capital raise, strategic review, or regulatory action. The company designs and sells high-performance power-conversion chips but is not a financial institution and falls outside FIG coverage scope.",
+      "talking_points": null,
+      "topics": null,
       "highlight": null,
       "relevance": 1
     }
@@ -4574,13 +4622,13 @@
     }
   },
   {
-    "id": "862eb8345949",
-    "title": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
-    "url": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
+    "id": "5ca5547cfa87",
+    "title": "Skip the lettuce, cook your other greens and more advice on avoiding cyclosporiasis",
+    "url": "https://www.marketwatch.com/story/skip-the-lettuce-cook-your-other-greens-and-more-advice-on-avoiding-cyclosporiasis-ec2aed46?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-07-14T19:44:00+00:00",
-    "summary_raw": "\u201cThe hood is bent, the radiator is cracked, and the front bumper is destroyed.\u201d",
+    "date": "2026-07-14T20:22:00+00:00",
+    "summary_raw": "The outbreak of cyclosporiasis, which causes diarrhea, has sickened about 6,700 people since May.",
     "summary_ai": {
       "digest": null,
       "summary_long": null,
