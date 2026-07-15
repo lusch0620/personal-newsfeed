@@ -1376,6 +1376,32 @@
     }
   },
   {
+    "id": "4e8713539fa2",
+    "title": "Vanguard hires ex-Barron's, ex-Fido 'thought leader' and CFP for mission impossible -- to better speak to RIAs after years of viewing third parties (and their fees) suspiciously",
+    "url": "https://riabiz.com/a/2026/7/15/vanguard-hires-ex-barrons-ex-fido-thought-leader-and-cfp-for-mission-impossible-to-better-speak-to-rias-after-years-of-viewing-third-parties-and-their-fees-suspiciously",
+    "source": "RIABiz",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-15T02:03:28+00:00",
+    "summary_raw": "The $12-trillion asset manager stealthily brought Beverly Goodman aboard to cultivate advisors that Jack Bogle was leery of, though his views evolved later in his career.",
+    "summary_ai": {
+      "digest": "Vanguard hired Beverly Goodman (ex-Barron's, ex-Fidelity CFP) to build RIA relationships after decades of institutional skepticism toward third-party advisors and their fee models.",
+      "summary_long": "Vanguard has historically been hostile to RIAs, viewing them as fee-extracting intermediaries at odds with the firm's low-cost ethos\u2014a stance rooted in Jack Bogle's philosophy. The hire of Goodman, a prominent wealth advisor and thought leader, signals a strategic shift: Vanguard now sees RIAs as distribution partners and addressable market, not competitors to be starved. This move reflects consolidation and margin pressure in asset management, where direct-to-consumer and advisory-platform reach have become critical. Goodman's background (Barron's contributor, Fidelity) gives her credibility with advisors and media\u2014valuable for softening Vanguard's institutional messaging. The timing matters: RIA platforms are consolidating (Schwab-TD Ameritrade), wealth managers are raising AUM minimums, and advisors need custodians that will market to them, not ignore them.",
+      "talking_points": [
+        "Vanguard is reversing decades of skepticism toward RIAs\u2014a distribution channel Jack Bogle saw as fee-bloat. This signals real margin pressure in passive management.",
+        "Beverly Goodman's hire (thought leader, CFP, Barron's voice) is a softening campaign: Vanguard needs RIA platforms to adopt its products as alternatives to BlackRock/Schwab in-house suites.",
+        "RIA consolidation and platform consolidation (Schwab, Pershing, Fidelity) have made relationship-building with advisors a competitive necessity, not a compromise."
+      ],
+      "topics": [
+        "RIA distribution strategy",
+        "wealth management hiring",
+        "asset manager competition",
+        "advisory platform consolidation"
+      ],
+      "highlight": "Vanguard's hire reverses Bogle-era skepticism of RIA fees, signaling that advisors are now seen as essential distribution partners\u2014not fee parasites\u2014in a margin-pressured asset management market.",
+      "relevance": 7
+    }
+  },
+  {
     "id": "7842879d9597",
     "title": "The boom in LP-led secondaries",
     "url": "https://www.secondariesinvestor.com/the-boom-in-lp-led-secondaries/",
@@ -1707,57 +1733,6 @@
         "bank NIM pressure"
       ],
       "highlight": "Waller's warning that inflation 'has expanded beyond' energy and tariffs keeps the door open to further hikes, complicating the rate-cut narrative embedded in current bank valuations.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "0408978927ab",
-    "title": "Stocks and bonds drop as mounting US-Iran tensions spook investors",
-    "url": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T20:41:10+00:00",
-    "summary_raw": "Oil rises as US-Iran hostilities escalate and investors go into \u2018risk-off\u2019 mode",
-    "summary_ai": {
-      "digest": "Tech stocks slide globally; memory chipmakers under pressure. Oil rallies on US-Iran tensions; investors rotate to risk-off positioning.",
-      "summary_long": "Asian memory chipmakers (DRAM, NAND) are experiencing sharp declines amid broader tech weakness, likely driven by demand concerns and cyclical headwinds in semiconductor supply chains. Concurrent oil strength reflects geopolitical risk premium as US-Iran hostilities intensify, triggering classic risk-off behavior: equities sold, commodities and safe havens bid. For a FIG analyst, the macro signal is clear: credit spreads will likely widen, volatility will spike, and bank trading revenues may benefit short-term, but loan growth and M&A appetite will cool as risk premiums reset.",
-      "talking_points": [
-        "Memory chip selloff signals demand destruction in tech capex; correlates with bank lending contraction in TMT.",
-        "Oil and geopolitical premium rising into risk-off = widening credit spreads and likely Fed hold/pause extension.",
-        "Tech sector weakness pressures wealth management AUM growth; fintech funding environment tightens."
-      ],
-      "topics": [
-        "market-volatility",
-        "credit-spreads",
-        "geopolitical-risk",
-        "tech-sector-weakness"
-      ],
-      "highlight": "Oil strength on US-Iran escalation + simultaneous tech selloff = textbook risk-off unwind; watch credit spreads for M&A funding impact.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "aa1e3626ea4f",
-    "title": "Wall Street \u2018Super Tuesday\u2019 gives a flavour of earnings to come",
-    "url": "https://www.ft.com/content/7436b5d2-10f9-48a5-b023-fa8e549ab53d",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T04:00:19+00:00",
-    "summary_raw": "Fortunately, the fact that everyone is reporting at once matters ever less",
-    "summary_ai": {
-      "digest": "Major US banks report earnings this week; synchronized reporting reduces individual stock impact as the market prices the sector in aggregate.",
-      "summary_long": "The article notes that six large US banks report earnings in a compressed window\u2014traditionally called 'Super Tuesday' for the banking sector. The key insight is that simultaneous reporting by comparable peers has diminished the market's ability to isolate and react sharply to any single bank's result. This structural change reflects tighter information clustering and quicker consensus-building: when Citi, Goldman, Morgan Stanley, and JPMorgan all report within days, the market treats them as a sector data point rather than discrete alpha opportunities. The author argues this reduces headline volatility around individual bank earnings but may make it harder to spot relative winners or losers.",
-      "talking_points": [
-        "Synchronized bank earnings reduce the market's ability to isolate individual stock moves\u2014the sector reprices as a bloc, not bank-by-bank.",
-        "This timing pattern makes it harder to spot relative outperformers in the cohort based on earnings surprise alone.",
-        "If you're tracking FIG capital positions or M&A readiness, watch for *divergence* in guidance or capital plans, not just earnings beats."
-      ],
-      "topics": [
-        "bank-earnings",
-        "sector-seasonality",
-        "market-structure"
-      ],
-      "highlight": "Simultaneous reporting by major banks reduces the market's ability to react to individual results, pricing the sector in aggregate rather than isolating winners.",
       "relevance": 6
     }
   },
@@ -2535,6 +2510,31 @@
     }
   },
   {
+    "id": "e34297ad188a",
+    "title": "Circle clashed with Tether-backed fund over market manipulation concerns",
+    "url": "https://www.ft.com/content/d2ea75d8-ffe4-406f-a04e-59416ae1ed20",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T23:36:54+00:00",
+    "summary_raw": "New filings detail long-running legal battle between Heka Funds and the $73bn stablecoin group",
+    "summary_ai": {
+      "digest": "Circle and Heka Funds (backed by Tether) are in a legal dispute over allegations of market manipulation involving stablecoin trading. Court filings show tensions between two major players in the digital assets ecosystem.",
+      "summary_long": "Circle, operator of the USDC stablecoin, is locked in litigation with Heka Funds, a trading operation with Tether backing, over claims of market manipulation. The dispute centers on stablecoin trading practices and competitive dynamics in the $73bn stablecoin market. This reflects broader fragmentation and operational friction in digital assets, where regulatory ambiguity has enabled aggressive trading behavior. For FIG-focused investors, it signals rising legal and reputational risk as stablecoin issuers scale and compete. The case also underscores Circle's defensive posture against Tether's market dominance and ecosystem influence.",
+      "talking_points": [
+        "Circle vs. Heka Funds litigation exposes internal friction in stablecoin trading\u2014a space regulators are increasingly scrutinizing.",
+        "Tether-backed fund involvement suggests strategic positioning in digital assets could carry litigation/reputational tail risk.",
+        "USDC's competitive positioning relative to USDT depends partly on operational discipline and legal defensibility, not just technology."
+      ],
+      "topics": [
+        "stablecoin-market-structure",
+        "digital-assets-regulation",
+        "fintech-litigation"
+      ],
+      "highlight": "Tether-backed fund involvement signals that digital asset market share battles are moving into courtrooms as regulatory clarity remains absent.",
+      "relevance": 6
+    }
+  },
+  {
     "id": "ccae916178da",
     "title": "Founded by Netflix payments duo, Dutch startup Nopan bags \u20ac7.2 million",
     "url": "https://www.finextra.com/newsarticle/48086/founded-by-netflix-payments-duo-dutch-startup-nopan-bags-72-million?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -2557,6 +2557,31 @@
         "specialty-finance"
       ],
       "highlight": "Founded by Netflix payments veterans\u2014domain expertise and product rigor signal this could become a strategic asset in the shift from card to account-based payments.",
+      "relevance": 6
+    }
+  },
+  {
+    "id": "454411a22fe4",
+    "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
+    "url": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-15T00:28:00+00:00",
+    "summary_raw": "Americans got some relief at the gas pump in recent weeks, enough to slow down inflation. That might not last long as the U.S. and Iran continue to vie for control of the Strait of Hormuz.",
+    "summary_ai": {
+      "digest": "U.S.-Iran tensions threaten oil supply via Strait of Hormuz; gas prices could spike to $4/gallon, reversing recent inflation relief.",
+      "summary_long": "The article flags geopolitical risk to crude supplies through one of the world's most critical chokepoints, where roughly one-third of seaborne oil transits. Recent weeks saw pump prices ease, helping inflation narrative, but escalation between the U.S. and Iran could reverse that if Hormuz shipments are disrupted. The piece argues this is a material tail risk to the consumer price story and therefore to Fed policy expectations and financial conditions more broadly.",
+      "talking_points": [
+        "If Hormuz is constrained, oil could spike fast\u2014reversing the inflation relief that's been helping the Fed's case for rate cuts.",
+        "One-third of global seaborne oil moves through the Strait; disruption is a real tail risk, not hypothetical.",
+        "A $4 gas spike would reshape consumer spending and credit demand, with knock-on effects for bank deposit behavior and loan demand."
+      ],
+      "topics": [
+        "oil-supply-risk",
+        "inflation-dynamics",
+        "geopolitical-tail-risk"
+      ],
+      "highlight": "A Strait of Hormuz disruption could spike gas to $4 and reverse the inflation relief that's underpinning Fed cut expectations.",
       "relevance": 6
     }
   },
@@ -2658,31 +2683,6 @@
         "tech-displacement"
       ],
       "highlight": "Youth unemployment (20-24) flat since AI boom began\u2014contradicts automation-driven job loss narrative.",
-      "relevance": 5
-    }
-  },
-  {
-    "id": "5c5b29e3cc90",
-    "title": "Shell sells Indian wind and solar business for $1.8bn",
-    "url": "https://www.ft.com/content/e9a826a4-db60-458b-8886-a94a3a111cff",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-13T18:13:33+00:00",
-    "summary_raw": "Aditya Birla Renewables takes on Shell\u2019s renewable assets in India as energy major continues to refocus on oil and gas",
-    "summary_ai": {
-      "digest": "Shell divested its Indian renewable business to Aditya Birla Renewables for $1.8bn, marking a strategic retreat from renewables as the energy major refocuses on oil and gas.",
-      "summary_long": "Shell sold its wind and solar assets in India\u2014a material renewable-energy footprint\u2014to Aditya Birla Renewables in an $1.8bn transaction. This move signals Shell's broader capital reallocation away from energy transition and back toward upstream oil and gas, a reversal of earlier ESG-driven expansion into renewables. The buyer, part of the Aditya Birla conglomerate, is consolidating India's renewable capacity at a time when energy security and fossil-fuel demand remain elevated. The divestiture reflects both Shell's portfolio optimization and shifts in global energy investor appetite. For FIG observers, this is a data point on energy-sector M&A and asset-light strategies, but lacks regulatory, financing, or capital-market mechanics.",
-      "talking_points": [
-        "Shell is actively unwinding renewable exposure globally\u2014this $1.8bn India exit is a data point on energy majors retreating from transition investments.",
-        "Aditya Birla Renewables is consolidating regional renewable capacity, suggesting confidence in India's energy mix and renewable ROI despite global repricing.",
-        "Oil majors are rotating back to upstream and gas; this matters for PE energy funds and M&A brokers tracking energy-transition deal fatigue."
-      ],
-      "topics": [
-        "energy M&A",
-        "asset divestiture",
-        "renewables retrenchment"
-      ],
-      "highlight": "Shell's $1.8bn sale underscores a macro trend: energy majors are rotating away from green-energy capex and back to oil and gas, reshaping deal flow and investor thesis in the sector.",
       "relevance": 5
     }
   },
@@ -3169,6 +3169,31 @@
     }
   },
   {
+    "id": "b6e4b8900c6c",
+    "title": "China-backed copper mine threatens Pakistan shutdown over security risk",
+    "url": "https://www.ft.com/content/0579db3f-3279-43f0-a7a8-85a4b2e81c8f",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-15T01:27:53+00:00",
+    "summary_raw": "Worsening violence in Balochistan imperils Islamabad\u2019s resource ambitions",
+    "summary_ai": {
+      "digest": "Chinese-backed Balochistan Resources Limited, operator of Pakistan's largest copper mine, is threatening to halt operations due to escalating militant attacks in Balochistan province.",
+      "summary_long": "The Saindak copper mine, a key asset in China's Belt and Road Initiative in Pakistan, faces mounting security threats from Baloch separatist groups targeting Chinese nationals and infrastructure. The operator has warned of a potential shutdown if security does not improve, jeopardizing Islamabad's foreign exchange earnings and Beijing's strategic regional investment. The violence reflects broader instability in Balochistan and strains Pakistan's ability to attract foreign capital for resource extraction projects. This directly threatens the viability of major commodity plays and infrastructure financing that depend on political stability in the region.",
+      "talking_points": [
+        "Saindak mine operator is threatening shutdown; security risk to Chinese nationals and assets is the immediate driver.",
+        "Pakistan loses critical FX inflow and Belt and Road credibility if major resource project stalls; geopolitical risk spikes for infrastructure finance in the region.",
+        "Signals broader challenge for commodity and infrastructure PE/debt investors: political instability in emerging markets erodes asset stability and exit optionality."
+      ],
+      "topics": [
+        "emerging-market-infrastructure",
+        "commodity-mining",
+        "geopolitical-risk"
+      ],
+      "highlight": "Saindak mine\u2014Pakistan's largest copper asset and a flagship Belt and Road project\u2014is now at operational risk due to militant violence in Balochistan.",
+      "relevance": 5
+    }
+  },
+  {
     "id": "7b68d9f9bfe2",
     "title": "New Memory ETFs Look to Cache In on DRAM\u2019s Historic Success",
     "url": "https://www.thedailyupside.com/etf/thematics-sectors/new-memory-etfs-look-to-cache-in-on-drams-historic-success/",
@@ -3537,6 +3562,31 @@
         "capital-adequacy"
       ],
       "highlight": null,
+      "relevance": 4
+    }
+  },
+  {
+    "id": "b43ad1a336d8",
+    "title": "How a financial crash created Britain\u2019s first prime minister",
+    "url": "https://www.ft.com/content/c148573c-c6c6-424c-bdbf-e74bc309fb11",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-14T15:24:27+00:00",
+    "summary_raw": "Robert Walpole rescued Britain\u2019s economy \u2013 and pulled himself up with it",
+    "summary_ai": {
+      "digest": "Robert Walpole leveraged a financial crisis to consolidate political power and establish the role of Prime Minister, using economic stabilization as a path to enduring authority.",
+      "summary_long": "The article traces how Walpole capitalized on the aftermath of the South Sea Bubble (1720) to become Britain's first effective Prime Minister. As the crisis unfolded, Walpole positioned himself as the architect of economic recovery\u2014managing the fallout, stabilizing markets, and rebuilding confidence in financial institutions. His success in that crisis gave him the political capital and legitimacy to centralize executive power in ways his predecessors could not. The piece suggests that mastery of financial turmoil, rather than military or diplomatic prowess, became a new route to durable political influence. It's a historical lens on how financial crises reshape institutional power structures.",
+      "talking_points": [
+        "Walpole's rise was built on cleaning up a systemic financial crisis\u2014the template for how finance competence translates to political durability.",
+        "The South Sea Bubble wasn't just a market event; it was a legitimacy crisis for the entire financial system that only a credible political figure could resolve.",
+        "Financial crisis management became the foundation for a new form of executive power\u2014the Prime Minister role itself emerged from the need for centralized crisis authority."
+      ],
+      "topics": [
+        "financial-crisis-history",
+        "institutional-power-structures",
+        "political-economy"
+      ],
+      "highlight": "Walpole's consolidation of power depended on his ability to stabilize markets and restore faith in financial institutions\u2014a model repeated across modern democracies during crises.",
       "relevance": 4
     }
   },
@@ -4336,29 +4386,6 @@
     }
   },
   {
-    "id": "278906af654d",
-    "title": "IBM\u2019s stock just had its worst day ever after the surprise release of an earnings miss",
-    "url": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T20:21:00+00:00",
-    "summary_raw": "IBM\u2019s stock plunges after a preliminary release of profit and revenue that were well below expectations.",
-    "summary_ai": {
-      "digest": "IBM stock fell sharply on a preliminary earnings miss with profit and revenue below expectations.",
-      "summary_long": "IBM released preliminary earnings that disappointed on both the top and bottom line, triggering a significant single-day stock decline. The article does not specify magnitudes, sectors affected, or forward guidance. For a FIG analyst, IBM is a legacy tech/services name with minimal direct relevance to banking, fintech, asset management, or specialty finance. The earnings miss itself has no read-through to credit conditions, bank earnings, or deal flow in financial services.",
-      "talking_points": [
-        "IBM earnings miss is a tech sector event with no direct FIG implications.",
-        "Broader market stress from a blue-chip disappointment may affect liquidity or risk sentiment, but no causation is established in the excerpt."
-      ],
-      "topics": [
-        "tech-earnings",
-        "market-reaction"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
     "id": "b8649ef148ba",
     "title": "Taco Bell reportedly being investigated by health officials, as cyclosporiasis outbreak spreads",
     "url": "https://www.marketwatch.com/story/officials-are-reportedly-looking-into-taco-bell-as-source-of-parasite-outbreak-remains-elusive-3ead0a1f?mod=mw_rss_topstories",
@@ -4593,10 +4620,10 @@
     "date": "2026-07-14T20:01:00+00:00",
     "summary_raw": "<p align=\"justify\">SCHAFFHAUSEN, Switzerland, July  14, 2026  (GLOBE NEWSWIRE) -- Monolithic Power Systems, Inc. (MPS) (Nasdaq: MPWR), a fabless global company that provides high-performance, semiconductor-based power electronics solutions, today announced it will report its second quarter 2026 financial results on Thursday, July 30, 2026 after the market closes. MPS will host a question-and-answer webinar at 2:00 p.m. PT / 5:00 p.m. ET on the same day to discuss the results and business outlook",
     "summary_ai": {
-      "digest": "Monolithic Power Systems will report Q2 2026 earnings on July 30 after market close; no deal, regulatory, or capital event announced.",
-      "summary_long": "MPS, a fabless semiconductor power-electronics company, issued a standard earnings calendar announcement. The notice contains no material information beyond the reporting date and investor call timing. There is no M&A, capital raise, regulatory action, financing event, or strategic pivot disclosed. This is a procedural press release with zero deal or capital implications.",
-      "talking_points": null,
-      "topics": null,
+      "digest": "Monolithic Power Systems will report Q2 2026 earnings on July 30 after market close, with a conference call to follow.",
+      "summary_long": "This is a standard earnings announcement from a semiconductor power-electronics company. MPS, a fabless designer of power conversion and management ICs, is telegraphing its Q2 earnings date and investor call. The announcement contains no forward guidance, deal activity, capital raise, or regulatory action. It is procedural in nature and offers no material signal for FIG deal flow, bank sector dynamics, or financial services.",
+      "talking_points": [],
+      "topics": [],
       "highlight": null,
       "relevance": 1
     }
