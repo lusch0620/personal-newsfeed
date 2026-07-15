@@ -1,175 +1,140 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "Regional bank M&A kicks off with First Hawaiian's $2B TriCo deal, while JPMorgan and Goldman post record revenues on AI-fueled trading and banking; regulatory scrutiny tightens on immigrant lending.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "First Hawaiian acquiring TriCo Bancshares for $2B, closing by year-end\u2014marks Hawaii's largest bank returning to mainland U.S. after BNP Paribas exit.",
+        "text": "First Hawaiian to buy California\u2019s TriCo in $2B deal",
         "refId": "c18074d3e476",
         "source": "Banking Dive"
       },
       {
-        "text": "JPMorgan and Goldman Sachs posted record revenues, with AI-fueled trading and investment banking capturing outsized deal flow on Wall Street.",
-        "refId": "fde400c8fbc9",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Regulators issued guidance requiring banks to identify and control lending risks tied to unauthorized workers\u2014compliance signal that could tighten credit standards for immigrant borrowers.",
-        "refId": "6fdb6e915c0b",
+        "text": "How PayPal may benefit Stripe",
+        "refId": "b35a42bc4ea5",
         "source": "Banking Dive"
       },
       {
-        "text": "JPMorgan's Dimon clarified Mary Erdoes retirement as 'natural change' after board appointed Doug Petno and Troy Rohrbaugh as co-presidents.",
+        "text": "JPMorgan\u2019s Dimon: Lake chose retirement after board named co-presidents",
         "refId": "ee553db4a8ba",
         "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "Mega-deal season in wealth management: CalPERS buys Russell Investments, LPL poaches $2.4B team from U.S. Bank, and Vanguard finally courts RIAs after years of cold shoulder.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "CalPERS acquiring Russell Investments ($580B pension system gets multi-asset manager; Russell ditches debt and goes non-profit, following Vanguard's playbook).",
+        "text": "Russell Investments' sale to CalPERS expands existing ties and paves way for Vanguard-like reputational boost -- not to mention a reprieve from debt albatross, if it plays its cards right, analyst says",
         "refId": "ab39c6cbdb7c",
         "source": "RIABiz"
       },
       {
-        "text": "LPL Financial recruits $2.4B HNW team from U.S. Bank via Quotient OSJ, signaling aggressive poaching in the high-net-worth advisory space.",
+        "text": "LPL Financial Adds $2.4B HNW Team From U.S. Bank",
         "refId": "b826d6a5326f",
         "source": "Wealth Management"
       },
       {
-        "text": "Creative Planning ($710B RIA) buys Lovell Insurance Group to bundle commercial insurance into upper-middle-market advisory offering.",
+        "text": "Creative Planning Acquires Commercial Insurance Firm",
         "refId": "9a92414d60e5",
         "source": "Wealth Management"
-      },
-      {
-        "text": "Vanguard hires Beverly Goodman to build RIA relationships\u2014a significant 180 after decades of institutional skepticism toward third-party advisors and their fees.",
-        "refId": "4e8713539fa2",
-        "source": "RIABiz"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 insurance stories: structural shift toward hybrid capital, M&A in underwriting tech, cyber expansion, UK captive market opening, and regulatory risk in vaping.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Cedents increasingly demanding reinsurers with dual access to traditional + alternative capital\u2014Guy Carpenter's renewal report signals structural market shift in buyer preferences.",
+        "text": "Cedents increasingly seek reinsurers with access to multiple capital sources: Guy Carpenter\u2019s Paretchan",
         "refId": "cb8863e8397a",
         "source": "Reinsurance News"
       },
       {
-        "text": "Duck Creek acquires Send Technology to build agentic underwriting platform\u2014consolidation trend around AI-driven workflows in core insurance ops.",
+        "text": "Business Moves: Duck Creek Buys Send to Create Novel Agentic Solution",
         "refId": "f05b82ad474b",
         "source": "Insurance Journal"
       },
       {
-        "text": "Coalition launches $25M cyber product for enterprises following Allianz partnership expansion\u2014MGAs pushing upmarket on capacity and coverages.",
+        "text": "Coalition Follows Allianz Deal by Expanding Cyber Solution for Large Companies",
         "refId": "dc79e3d411c8",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "UK government advancing captive insurance regulation to compete with US/EU jurisdictions\u2014removes structural disadvantage driving UK entities offshore.",
-        "refId": "1e793a2d16ed",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "Major fintech consolidation bid amid AI investment cautionary notes\u2014Stripe/Advent eye PayPal at $53B while BIS warns of AI bubble risk.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stripe and Advent jointly bid >$53B for PayPal, potentially reshaping fintech's competitive landscape through major consolidation.",
+        "text": "Stripe and Advent table bid for PayPal",
         "refId": "4852ecc23d28",
         "source": "Finextra"
       },
       {
-        "text": "BIS flags $1 trillion AI investment boom as bubble risk with potential systemic spillovers into global finance and real economy.",
+        "text": "SFERs\u2019 strategy weightings, geographical exposure led to private credit misses",
+        "refId": "f04748a45f99",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "AI investment boom could turn to bust, warns BIS paper",
         "refId": "8e11e6e891d7",
-        "source": "Finextra"
-      },
-      {
-        "text": "Emirates NBD goes live on Partior's tokenized settlement network for real-time USD cross-border payments; blockchain infrastructure gaining institutional traction.",
-        "refId": "33499ba7cbd0",
-        "source": "Finextra"
-      },
-      {
-        "text": "Flex, an AI-native private banking platform, raised $70M Series B despite broader warnings about AI valuations and sustainability.",
-        "refId": "70271767324b",
         "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "GP financing innovation and secondary funds gain traction, but mid-market PE shows contraction signals amid evolving LP strategies.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Arctos Partners closes $6.2bn GP financing using 'self-liquidating' strategy\u2014a Keystone structure that recycles capital across fund cycles without LP capital calls, setting a new precedent for GP-to-LP financing.",
+        "text": "\u2018Self-liquidating\u2019 helps Arctos make a $6.2bn GP financing debut",
         "refId": "977cef7c60c1",
         "source": "Secondaries Investor"
       },
       {
-        "text": "Carlyle AlpInvest oversubscribes second single-asset secondary fund at $1.7bn (+70% vs. $1bn target), validating LP appetite for concentrated, thematic secondary vehicles with transparent performance.",
-        "refId": "ad8b53251a2a",
-        "source": "Secondaries Investor"
-      },
-      {
-        "text": "Temasek-backed Vertex scales Growth Fund III to $250M\u2014down 40%+ from prior fund\u2014signaling mid-market financial services PE contraction despite broader institutional push into private markets.",
-        "refId": "89cfab63bb17",
+        "text": "\u2018We\u2019re still near the beginning\u2019: Blackstone\u2019s new EMEA wealth head on the next wave of growth",
+        "refId": "5a93284b568d",
         "source": "Private Equity International"
       },
       {
-        "text": "Blackstone's new EMEA wealth head targets retail-eligible offerings across fragmented European markets as $177trn-controlled institutional capital deepens private allocations.",
-        "refId": "5a93284b568d",
+        "text": "Temasek-linked Vertex scales back ambitions with new growth fund",
+        "refId": "89cfab63bb17",
         "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
-    "lede": "Stripe-Advent's $53bn PayPal bid dominates, but banking earnings may have peaked as geopolitical risks and credit stress mount.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stripe and Advent Capital jointly bid $53bn for PayPal in major fintech consolidation play; shares up 19% pre-market.",
+        "text": "Stripe and Advent make $53bn bid for PayPal",
         "refId": "d6548eac2df0",
         "source": "Financial Times Markets"
       },
       {
-        "text": "U.S. banks posted record Q2 earnings on IB/trading strength, but geopolitical tension, rate-cut expectations, and CRE exposure signal cycle peak.",
+        "text": "As good as it gets in banking?",
         "refId": "2b5e064776d7",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Billionaire Drahi's Altice International faces \u20ac2bn debt default accusations over covenant-violating asset transfers\u2014high-yield bond stress test.",
+        "text": "Billionaire Drahi\u2019s Altice International accused of defaulting on \u20ac2bn of debt",
         "refId": "668765edfee8",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Oil traders warn strategic reserves near depletion as Strait of Hormuz closes again; supply shock cushion is evaporating.",
-        "refId": "08d1fb2fec9c",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "Wall Street banks post record revenues fueled by trading and M&A, while the Fed signals hawkish inflation stance despite cooling June CPI.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Record Wall Street revenues driven by Iran-related trading volatility and elevated M&A activity; investment banking units saw outsized gains.",
+        "text": "Vanguard, Envestnet Team Up to Curb Tax Risks on Model Portfolio Conversions",
+        "refId": "764af9f04088",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Wall Street Takes In Record Haul, Projecting US Economic Health",
         "refId": "80caf6792196",
         "source": "The Daily Upside"
       },
       {
-        "text": "Fed's Kevin Warsh signals hard line on inflation to Congress as June CPI sits at 3.5%\u2014cooling from May but still above the 2% target.",
+        "text": "Fed\u2019s Warsh Promises Congress a Hard Line on Inflation Amid Looming Risks",
         "refId": "006d396b330b",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "iShares SGOV ultra-short bond ETF approaching $100B in assets, poised to become first in its class to hit milestone amid elevated rates.",
-        "refId": "e0291bcefc5b",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Vanguard and Envestnet partner to minimize tax friction in model portfolio conversions, addressing RIA workflow friction point.",
-        "refId": "764af9f04088",
         "source": "The Daily Upside"
       }
     ]
@@ -179,79 +144,79 @@
     "bullets": []
   },
   "Learn": {
-    "lede": "Four stories spanning misaligned incentives in sports, AI infrastructure financing, legacy tech constraints, and OpenAI's platform shift.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Jonathan Ross secured a $20B NVIDIA partnership for Groq via unconventional financing (Grok Bonds) after near-bankruptcy\u2014a masterclass in startup capital creativity during AI infrastructure buildout.",
+        "text": "Incentives matter, installment #1637",
+        "refId": "203d0cad8160",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Jonathan Ross Turned a 3-Week Phone Call Into a $20 Billion NVIDIA Deal. Here Is How He Did It.",
         "refId": "44759bda5801",
-        "source": "The AI Corner"
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "IBM's mainframe cash cow is now a strategic anchor: the legacy franchise generates too much profit to cannibalize with AI products, explaining earnings miss and market concerns.",
-        "refId": "1ae38fd5e63f",
-        "source": "Stratechery"
-      },
-      {
-        "text": "OpenAI rebranded Codex into ChatGPT, signaling a pivot from conversational chat toward a broader productivity super app\u2014watch for competitive implications across enterprise software.",
-        "refId": "6ce90d4cc504",
-        "source": "Stratechery"
+        "text": "Toward a theory of uni-context",
+        "refId": "f60ef4efd705",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "all": {
-    "lede": "Regional bank M&A and fintech consolidation dominate the day\u2014First Hawaiian buys TriCo for $2B while Stripe and Advent jointly bid $53B for PayPal.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "First Hawaiian acquires California's TriCo Bancshares for $2B, closing by year-end. Marks the Hawaii lender's return to mainland U.S. presence after BNP Paribas exit.",
+        "text": "First Hawaiian to buy California\u2019s TriCo in $2B deal",
         "refId": "c18074d3e476",
         "source": "Banking Dive"
       },
       {
-        "text": "Stripe and Advent Capital Partners jointly bid $53B for PayPal; shares surged 19% pre-market. Deal consolidates fintech's two largest payments players under PE backing.",
+        "text": "Stripe and Advent make $53bn bid for PayPal",
         "refId": "d6548eac2df0",
         "source": "Financial Times Markets"
       },
       {
-        "text": "CalPERS acquiring Russell Investments for an undisclosed price, allowing the asset manager to shed debt and adopt non-profit governance on the Vanguard model.",
-        "refId": "ab39c6cbdb7c",
-        "source": "RIABiz"
+        "text": "Stripe and Advent table bid for PayPal",
+        "refId": "4852ecc23d28",
+        "source": "Finextra"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7570.01,
+      "v": 7572.4,
       "base": 7515.34,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26261.877,
+      "v": 26269.227,
       "base": 25873.18,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52661.39,
+      "v": 52658.76,
       "base": 52498.64,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.543,
+      "v": 4.545,
       "base": 4.585,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.78,
+      "v": 15.75,
       "base": 16.5,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 191.4587,
+      "v": 191.8286,
       "base": 186.98,
       "bp": false
     }

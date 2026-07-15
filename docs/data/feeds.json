@@ -59,7 +59,7 @@
     "source": "Finextra",
     "section": "FIG \u2014 Specialty Finance",
     "date": "2026-07-15T08:57:00+00:00",
-    "summary_raw": "Stripe and Advent have made a joint offer to acquire PayPal in a deal that values the beleagured payments company at more than $53 billion.",
+    "summary_raw": "Stripe and Advent have made a joint offer to acquire PayPal in a deal that values the beleaguered payments company at more than $53 billion.",
     "summary_ai": {
       "digest": "Stripe and Advent tabled a joint bid for PayPal at >$53B valuation. Deal would consolidate two of fintech's largest players and reshape the payments competitive landscape.",
       "summary_long": "Stripe, the private payments processor, and Advent (PE firm), have jointly offered to acquire PayPal, valuing it at over $53 billion. This represents a significant move in fintech consolidation, bringing together PayPal's 435M user base and legacy payment rails with Stripe's modern API-first platform and merchant reach. The deal would likely trigger antitrust scrutiny given the combined scale in payments processing and merchant services. A Stripe-PayPal combination would create a formidable competitor to Square/Block and traditional acquirers like FIS/Fiserv, and would signal PE appetite for large fintech consolidation plays. The valuation and structure (PE + strategic buyer) mirrors recent mega-fintech M&A patterns and could set a floor for other large fintech targets.",
@@ -286,32 +286,6 @@
     }
   },
   {
-    "id": "33499ba7cbd0",
-    "title": "Emirates NBD enables blockchain-based cross-border payments on Partior network",
-    "url": "https://www.finextra.com/newsarticle/48087/emirates-nbd-enables-blockchain-based-cross-border-payments-on-partior-network?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-07-14T13:04:00+00:00",
-    "summary_raw": "Emirates NBD has gone live on the Partior network for real-time blockchain-based cross-border US dollar payments.",
-    "summary_ai": {
-      "digest": "Emirates NBD now live on Partior network for real-time blockchain USD cross-border payments; joins growing roster of banks adopting tokenized settlement infrastructure.",
-      "summary_long": "Emirates NBD has activated its participation in Partior, a blockchain-based payment network backed by major central banks and financial institutions, enabling real-time USD transfers across borders. Partior is positioned as an alternative to legacy SWIFT-based correspondent banking, reducing settlement friction and counterparty risk. The move signals institutional adoption of tokenized payment rails in the Middle East and reflects broader banking sector migration toward blockchain infrastructure for high-volume, low-latency settlement. This is a competitive threat to traditional payment processors and a capital-efficient play for participating banks if transaction volumes materialize. Emirates NBD's go-live adds credibility to Partior's network effects argument\u2014adoption begets adoption.",
-      "talking_points": [
-        "Emirates NBD is now settling cross-border USD payments on Partior; this is live infrastructure, not a pilot.",
-        "Partior is backed by major central banks and designed to compete with SWIFT on speed and cost\u2014if adoption accelerates, it reshapes correspondent banking economics.",
-        "Each new Tier-1 bank going live de-risks the network and increases pressure on legacy payment providers to match speed and transparency."
-      ],
-      "topics": [
-        "blockchain-payments",
-        "cross-border-settlement",
-        "fintech-adoption",
-        "central-bank-infrastructure"
-      ],
-      "highlight": "Emirates NBD is operationally live on Partior for real-time USD cross-border payments\u2014this moves tokenized settlement from proof-of-concept to active revenue-generating use.",
-      "relevance": 7
-    }
-  },
-  {
     "id": "8e11e6e891d7",
     "title": "AI investment boom could turn to bust, warns BIS paper",
     "url": "https://www.finextra.com/newsarticle/48088/ai-investment-boom-could-turn-to-bust-warns-bis-paper?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -516,32 +490,6 @@
         "client wallet share"
       ],
       "highlight": "Creative Planning adds commercial insurance advisory through Lovell acquisition, expanding service bundling for upper-middle-market clients.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "fde400c8fbc9",
-    "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-    "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-14T19:50:48+00:00",
-    "summary_raw": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
-    "summary_ai": {
-      "digest": "Goldman Sachs and JPMorgan posted record revenues driven by AI-fueled trading and investment banking activity, signaling Wall Street's outsized capture of AI-boom deal flow.",
-      "summary_long": "Both Goldman and JPMorgan reported earnings driven by elevated trading volumes and advisory fees, with AI adoption accelerating client M&A and capital markets activity. The surge reflects Wall Street's structural advantage in monetizing AI-driven market volatility and corporate restructuring. For regional and specialty finance competitors, this underscores the competitive moat of bulge-bracket distribution and trading infrastructure. The implication: AI-driven deal velocity and trading conditions are benefiting the largest franchises disproportionately, which may constrain deal opportunity for mid-market players and fintech disruptors.",
-      "talking_points": [
-        "Goldman and JPMorgan captured record revenues\u2014largely from trading and advisory\u2014as AI drives client M&A and capital deployment.",
-        "The earnings signal a widening gap between bulge-bracket and regional/boutique platforms in AI-era deal capture and market access.",
-        "Sustained elevated trading and advisory revenues suggest AI is catalyzing, not suppressing, deal flow in the near term."
-      ],
-      "topics": [
-        "bulge-bracket earnings",
-        "AI deal flow",
-        "investment banking revenue",
-        "trading activity"
-      ],
-      "highlight": "Goldman and JPMorgan posted record revenues on AI-driven trading and investment banking volume, underscoring the bulge-bracket advantage in capturing deal flow.",
       "relevance": 7
     }
   },
@@ -906,32 +854,6 @@
         "advisory platform consolidation"
       ],
       "highlight": "Vanguard's hire reverses Bogle-era skepticism of RIA fees, signaling that advisors are now seen as essential distribution partners\u2014not fee parasites\u2014in a margin-pressured asset management market.",
-      "relevance": 7
-    }
-  },
-  {
-    "id": "08d1fb2fec9c",
-    "title": "Oil traders warn market is close to running on empty as Hormuz shuts again",
-    "url": "https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-15T13:02:43+00:00",
-    "summary_raw": "Stockpiles that acted as shock absorbers early in Iran war are running low as key waterway closes once more",
-    "summary_ai": {
-      "digest": "Oil traders report strategic reserves near depletion as the Strait of Hormuz closes again amid Iran tensions; supply cushion that absorbed earlier shocks is evaporating.",
-      "summary_long": "A spike in Iran-related geopolitical risk has triggered renewed closure of the Strait of Hormuz, a critical chokepoint for global oil flows. Early in the conflict cycle, strategic petroleum reserves in the US and elsewhere provided a buffer that dampened price volatility. Those stockpiles are now materially drawn down, leaving traders exposed to acute supply disruption with fewer levers to pull. The market faces a structural vulnerability: if Hormuz stays closed or major production nodes are hit, there is less inventory cushion to smooth the shock. This sets up a potential sharp re-price in energy and credit markets if physical supply tightens further.",
-      "talking_points": [
-        "Strategic reserves that absorbed early Iran-war shocks are now depleted\u2014next supply disruption hits with no buffer.",
-        "Hormuz closure without reserve cover = immediate crude spike and credit-market stress on refiners and downstream.",
-        "Energy volatility will bleed into rates/credit: oil spike = inflation signal + margin pressure on leveraged energy plays."
-      ],
-      "topics": [
-        "geopolitical risk",
-        "oil supply shock",
-        "strategic reserves",
-        "credit-market volatility"
-      ],
-      "highlight": "Strategic petroleum reserves that cushioned early Iran-conflict supply shocks are now depleted, eliminating the market's primary shock absorber for any further Hormuz disruption.",
       "relevance": 7
     }
   },
@@ -1319,6 +1241,58 @@
         "evergreen funds"
       ],
       "highlight": "CalSTRS' $140M pullback signals institutional reassessment of private credit risk-return and evergreen fund structures \u2014 a potential headwind for specialty finance deployment.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "fde400c8fbc9",
+    "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
+    "url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
+    "source": "CNBC Finance",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-15T18:45:53+00:00",
+    "summary_raw": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.",
+    "summary_ai": {
+      "digest": "Goldman Sachs and JPMorgan posted record revenues driven by AI-fueled trading and investment banking activity, signaling Wall Street's outsized capture of AI-boom deal flow.",
+      "summary_long": "Both Goldman and JPMorgan reported earnings driven by elevated trading volumes and advisory fees, with AI adoption accelerating client M&A and capital markets activity. The surge reflects Wall Street's structural advantage in monetizing AI-driven market volatility and corporate restructuring. For regional and specialty finance competitors, this underscores the competitive moat of bulge-bracket distribution and trading infrastructure. The implication: AI-driven deal velocity and trading conditions are benefiting the largest franchises disproportionately, which may constrain deal opportunity for mid-market players and fintech disruptors.",
+      "talking_points": [
+        "Goldman and JPMorgan captured record revenues\u2014largely from trading and advisory\u2014as AI drives client M&A and capital deployment.",
+        "The earnings signal a widening gap between bulge-bracket and regional/boutique platforms in AI-era deal capture and market access.",
+        "Sustained elevated trading and advisory revenues suggest AI is catalyzing, not suppressing, deal flow in the near term."
+      ],
+      "topics": [
+        "bulge-bracket earnings",
+        "AI deal flow",
+        "investment banking revenue",
+        "trading activity"
+      ],
+      "highlight": "Goldman and JPMorgan posted record revenues on AI-driven trading and investment banking volume, underscoring the bulge-bracket advantage in capturing deal flow.",
+      "relevance": 7
+    }
+  },
+  {
+    "id": "08d1fb2fec9c",
+    "title": "Oil traders warn market is close to running on empty as Hormuz shuts again",
+    "url": "https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-15T19:49:20+00:00",
+    "summary_raw": "Stockpiles that acted as shock absorbers early in Iran war are running low as crucial waterway closes again",
+    "summary_ai": {
+      "digest": "Oil traders report strategic reserves near depletion as the Strait of Hormuz closes again amid Iran tensions; supply cushion that absorbed earlier shocks is evaporating.",
+      "summary_long": "A spike in Iran-related geopolitical risk has triggered renewed closure of the Strait of Hormuz, a critical chokepoint for global oil flows. Early in the conflict cycle, strategic petroleum reserves in the US and elsewhere provided a buffer that dampened price volatility. Those stockpiles are now materially drawn down, leaving traders exposed to acute supply disruption with fewer levers to pull. The market faces a structural vulnerability: if Hormuz stays closed or major production nodes are hit, there is less inventory cushion to smooth the shock. This sets up a potential sharp re-price in energy and credit markets if physical supply tightens further.",
+      "talking_points": [
+        "Strategic reserves that absorbed early Iran-war shocks are now depleted\u2014next supply disruption hits with no buffer.",
+        "Hormuz closure without reserve cover = immediate crude spike and credit-market stress on refiners and downstream.",
+        "Energy volatility will bleed into rates/credit: oil spike = inflation signal + margin pressure on leveraged energy plays."
+      ],
+      "topics": [
+        "geopolitical risk",
+        "oil supply shock",
+        "strategic reserves",
+        "credit-market volatility"
+      ],
+      "highlight": "Strategic petroleum reserves that cushioned early Iran-conflict supply shocks are now depleted, eliminating the market's primary shock absorber for any further Hormuz disruption.",
       "relevance": 7
     }
   },
@@ -2454,32 +2428,6 @@
     }
   },
   {
-    "id": "e2284c482fb8",
-    "title": "It\u2019s a buyer\u2019s market for bonds",
-    "url": "https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-15T16:16:00+00:00",
-    "summary_raw": "Bonds are out of fashion with big investors \u2014 which makes them an interesting investment opportunity for the rest of us.",
-    "summary_ai": {
-      "digest": "Bond valuations are attractive as institutional investors have reduced exposure, creating an entry point for retail and smaller institutional investors.",
-      "summary_long": "The article argues that large institutional investors have been pulling back from bonds, leaving valuations elevated and spreads wider than historical norms. This retrenchment \u2014 driven by recent rate volatility, duration risk, and fund outflows \u2014 has created a window for smaller investors and alternative buyers to deploy capital at compelling risk-adjusted returns. The piece frames this as a contrarian positioning opportunity, with the implication that bond prices may rebound once institutional demand normalizes. For FIG practitioners, this signals potential repricing of fixed-income assets and credit conditions that could affect deal financing and bank asset-liability management.",
-      "talking_points": [
-        "Large institutions are still underweighting bonds despite attractive valuations \u2014 suggests further normalization when sentiment shifts.",
-        "Wider spreads and higher yields mean better entry points for credit investors, which could ease refinancing costs for borrowers if sustained.",
-        "The pullback creates opportunity for smaller players and alternative lenders to step in, potentially shifting deal financing dynamics."
-      ],
-      "topics": [
-        "credit-spreads",
-        "bond-valuations",
-        "institutional-positioning",
-        "financing-environment"
-      ],
-      "highlight": "Institutional underweighting has created a window for subordinated players to deploy capital at premium risk-adjusted returns \u2014 relevant to FIG deal financing and collateral conditions.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "2c86fedcda5c",
     "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
     "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
@@ -2501,31 +2449,6 @@
         "mega-cap equity offerings"
       ],
       "highlight": "October IPO target with investor meetings already scheduled\u2014first concrete public-market signal from the AI unicorn tier.",
-      "relevance": 6
-    }
-  },
-  {
-    "id": "98b5d5b38231",
-    "title": "Warsh won\u2019t say if he\u2019s spoken with Trump since taking the Fed\u2019s helm",
-    "url": "https://www.marketwatch.com/story/warsh-wont-say-if-hes-spoken-with-trump-since-taking-the-feds-helm-45dd7d26?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-15T17:27:00+00:00",
-    "summary_raw": "Senate Democrats are uneasy about White House influence at central bank.",
-    "summary_ai": {
-      "digest": "Kevin Warsh, Trump's pick for Fed chair, refused to confirm whether he has spoken with Trump since his confirmation, amid Democratic concerns about White House influence on monetary policy.",
-      "summary_long": "Warsh, a former Fed governor and Trump confidant, was confirmed as Fed chair and immediately faced questions about his independence from the administration. Senate Democrats have expressed discomfort with the appointment, citing concerns that Warsh's known alignment with Trump could compromise the Fed's operational autonomy. His refusal to clarify post-confirmation contact with Trump fuels those concerns. The dynamic is significant because it bears directly on market credibility in Fed policy\u2014any perception of political pressure on rate or credit decisions can distort financial conditions and deal pricing. This is especially material for FIG M&A, where Fed policy on capital, stress testing, and regulatory posture shapes deal feasibility.",
-      "talking_points": [
-        "Warsh's confirmation without clarifying his post-appointment communication with Trump leaves ambiguity on Fed independence\u2014a credibility factor that affects bank capital assumptions and deal financing costs.",
-        "Senate Democrats' unease signals political fragmentation over central-bank autonomy, which could constrain the Fed's ability to adjust policy without triggering partisan backlash.",
-        "For FIG dealmakers, Fed chair credibility is a leverage point: if markets doubt independence, cost of capital rises and regulatory certainty falls\u2014both compress deal spreads and slow consolidation."
-      ],
-      "topics": [
-        "fed-leadership",
-        "central-bank-independence",
-        "regulatory-credibility"
-      ],
-      "highlight": "Warsh's silence on Trump contact, paired with Democratic concern, creates policy-execution risk for banks modeling capital and refinancing costs.",
       "relevance": 6
     }
   },
@@ -2833,6 +2756,23 @@
         "tech-infrastructure"
       ],
       "highlight": "$10bn raise underscores Beijing's strategic bet on semiconductor independence as AI demand outpaces U.S.-allied capacity.",
+      "relevance": 5
+    }
+  },
+  {
+    "id": "7729f4188060",
+    "title": "High NA EUV reaches new readiness milestone with first high-volume Logic product",
+    "url": "https://www.globenewswire.com/news-release/2026/07/15/3327453/0/en/High-NA-EUV-reaches-new-readiness-milestone-with-first-high-volume-Logic-product.html",
+    "source": "GlobeNewswire \u2014 Banking (press releases)",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-15T05:01:00+00:00",
+    "summary_raw": "<p><b>High NA EUV reaches new readiness milestone with first high-volume Logic product </b></p>",
+    "summary_ai": {
+      "digest": "High NA EUV reaches new readiness milestone with first high-volume Logic product",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
       "relevance": 5
     }
   },
@@ -3222,30 +3162,6 @@
     }
   },
   {
-    "id": "2e1b9639ee7b",
-    "title": "SpaceX sell-off wipes $1tn from Musk\u2019s rocket group",
-    "url": "https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-15T17:13:38+00:00",
-    "summary_raw": "Stock trades below $135 for first time since AI and space conglomerate\u2019s Wall Street debut in June",
-    "summary_ai": {
-      "digest": "SpaceX shares dropped below $135 for the first time since its June IPO, erasing ~$1 trillion in market cap from the space/AI conglomerate.",
-      "summary_long": "SpaceX went public in June at a valuation that positioned it as a mega-cap tech/industrial hybrid. The stock has now retreated to trade below $135, marking a sharp pullback from debut levels. The selloff reflects broader pressure on unprofitable growth stories and high-multiple aerospace/defense names in a shifting rate environment. For a regional-bank and fintech-focused analyst, this is primarily a macro/sentiment signal rather than a direct FIG play, though it does indicate tightening conditions for venture-backed and PE-backed tech businesses that might otherwise access capital markets or secondary liquidity.",
-      "talking_points": [
-        "SpaceX IPO valuation compression is a leading indicator of weaker appetite for growth-stage, capital-intensive businesses \u2014 relevant to fintech and specialty finance funding environments.",
-        "A $1 trillion evaporation in a mega-cap just months after IPO signals market discipline on leverage and cash burn, which trickles down to private credit and PE deployment decisions."
-      ],
-      "topics": [
-        "ipo-valuation",
-        "growth-stock-repricing",
-        "venture-funding-environment"
-      ],
-      "highlight": "SpaceX sub-$135 print represents first post-IPO breakdown and signals investor reset on how to price capital-intensive, unprofitable mega-caps.",
-      "relevance": 5
-    }
-  },
-  {
     "id": "235a84c15fa5",
     "title": "Is It Time to Proclaim San Francisco Is Back?",
     "url": "https://www.trepp.com/trepptalk/is-it-time-to-proclaim-san-francisco-is-back",
@@ -3272,27 +3188,19 @@
     }
   },
   {
-    "id": "867338f8b5dd",
-    "title": "Small-cap outperformance is persisting \u2014 and these 15 quality stocks pay rich dividends",
-    "url": "https://www.marketwatch.com/story/small-cap-outperformance-is-persisting-and-these-15-quality-stocks-pay-rich-dividends-5a814386?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-15T17:47:00+00:00",
-    "summary_raw": "Think large caps are still the best bet? The data say you are looking in the wrong place.",
+    "id": "a4ca1b6300ac",
+    "title": "American Beacon, Mercer Launch Model Portfolios",
+    "url": "https://www.wealthmanagement.com/investing-strategies/american-beacon-mercer-launch-model-portfolios",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-15T17:46:29+00:00",
+    "summary_raw": "The suite includes risk-based and income-focused models.",
     "summary_ai": {
-      "digest": "Small-cap equities are outperforming large caps with persistence; article highlights 15 quality dividend-paying names as the trade.",
-      "summary_long": "The piece argues that small-cap outperformance is not a temporary anomaly but a structural trend, supported by relative valuation and earnings momentum data. It positions 15 screened small-cap dividend payers as a tactical allocation away from mega-cap dominance. The article does not isolate the macro or credit drivers of this rotation\u2014whether it reflects Fed policy shifts, sector reallocation, or earnings dispersion. For a FIG analyst, the relevance is indirect: small-cap outperformance can signal risk appetite and credit normalization, which affect fintech funding, regional bank loan demand, and specialty finance opportunity sets.",
-      "talking_points": [
-        "Small-cap persistence suggests a structural reallocation, not tactical noise\u2014may signal sustained appetite for risk assets and credit.",
-        "If small-cap and dividend outperformance holds, regional banks and specialty finance benefit from loan growth and equity capital formation.",
-        "No stated macro or credit-market mechanism; unclear if this is rate-driven, earnings-driven, or liquidity-driven\u2014need underlying reason to size conviction."
-      ],
-      "topics": [
-        "small-cap-rotation",
-        "equity-sector-allocation",
-        "dividend-stocks"
-      ],
-      "highlight": "15 screened names, but no analysis of why small caps are persisting\u2014need the macro trigger to assess durability for FIG positioning.",
+      "digest": "American Beacon, Mercer Launch Model Portfolios",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
       "relevance": 5
     }
   },
@@ -3323,28 +3231,299 @@
     }
   },
   {
-    "id": "220c45d45d47",
-    "title": "Persistent Inequality in Publishing in Economics",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/persistent-inequality-in-publishing-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=persistent-inequality-in-publishing-in-economics",
+    "id": "3b8bf30d1e12",
+    "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
+    "url": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-15T18:01:00+00:00",
+    "summary_raw": "\u201cI\u2019m wondering whether I should ask to work with someone closer to our generation.\u201d",
+    "summary_ai": {
+      "digest": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "bbee30f396f2",
+    "title": "Custodia petitions Supreme Court over Fed access",
+    "url": "https://www.bankingdive.com/news/custodia-petition-supreme-court-fed-master-account/825334/",
+    "source": "Banking Dive",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-15T18:01:09+00:00",
+    "summary_raw": "<figure><div><img src=\"https://imgproxy.divecdn.com/8sUWwgd_ZTPEW6fvAIgsHBVkFa9nh6Z9tr8w8fP6m8I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ3NDg5MjczLmpwZw==.webp\" /></div></figure><p>The Wyoming-based crypto bank has argued unsuccessfully for a Fed master account for years. Now it&rsquo;s calling the central bank&rsquo;s denial a &ldquo;death sentence.&rdquo;</p>",
+    "summary_ai": {
+      "digest": "Custodia petitions Supreme Court over Fed access",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "9b11bab6fd93",
+    "title": "What the launch of SK Hynix leveraged ETFs tells us about the hottest trade on Wall Street",
+    "url": "https://www.marketwatch.com/story/what-the-launch-of-sk-hynix-leveraged-etfs-tells-us-about-the-hottest-trade-on-wall-street-2110c484?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-15T18:02:00+00:00",
+    "summary_raw": "Investors are still enthusiastic about the memory boom, and are looking for new ways to cash in.",
+    "summary_ai": {
+      "digest": "What the launch of SK Hynix leveraged ETFs tells us about the hottest trade on Wall Street",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "1a646dc0d603",
+    "title": "A big dividend cut and a $2 billion charge: Conagra\u2019s results signal more pain ahead for food industry",
+    "url": "https://www.marketwatch.com/story/a-big-dividend-cut-and-a-2-billion-charge-conagras-results-signal-more-pain-ahead-for-food-industry-8613bd71?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-15T18:07:00+00:00",
+    "summary_raw": "Conagra Brands\u2019 stock was up a bit on Thursday, but the company\u2019s results and forecast were the latest dose of bad news for the packaged-food industry.",
+    "summary_ai": {
+      "digest": "A big dividend cut and a $2 billion charge: Conagra\u2019s results signal more pain ahead for food industry",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "e177abb25e99",
+    "title": "Those new service sector jobs",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/those-new-service-sector-jobs-16.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-16",
     "source": "Marginal Revolution (Tyler Cowen)",
     "section": "Learn",
-    "date": "2026-07-13T19:30:13+00:00",
-    "summary_raw": "<p>This paper documents new facts about concentration in publishing in economics. First, the profession grows downward . The number of economists grew almost sixfold since 1990, but new entrants publish in lower-tier journals while incumbents hold the top. Second, there is high and persistent concentration at the top. Along with the downward growth, the top-1% [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/persistent-inequality-in-publishing-in-econo",
+    "date": "2026-07-15T18:31:09+00:00",
+    "summary_raw": "<p>It\u2019s 85 years since Brian O\u2019Nolan, better known as\u00a0Flann O\u2019Brien\u00a0and Myles na gCopaleen, proposed a Book Handling Agency in The Irish Times. On Sunday evening, Flann\u2019s idea became reality. In a\u00a0Berlin\u00a0bar\u2019s back room, Cabinet Magazine, a literary quarterly, assembled a crack team of white-coated literary experts to make your unread books look well-read \u2013 at [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/those-new-service-sector-jobs-16.html\">Those",
     "summary_ai": {
-      "digest": "Economics publishing shows persistent inequality: the profession grew 6x since 1990, but new entrants publish in lower-tier journals while top-1% economists dominate elite outlets. Concentration at the top has hardened, not loosened.",
-      "summary_long": "Tyler Cowen flags a research paper documenting structural barriers in academic economics publishing. While the total number of economists nearly sextupled over three decades, this growth has been almost entirely in lower-tier journals and institutions. Meanwhile, the top 1% of economists have maintained and possibly strengthened their grip on elite publications. This creates a two-tier system where newcomers and mid-career scholars face increasingly difficult odds of breaking into high-prestige venues, regardless of research quality. The finding challenges the assumption that a larger profession automatically democratizes access to influence.",
+      "digest": "Those new service sector jobs",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "fca76524aa69",
+    "title": "IBM employees losing $400 million on the company\u2019s stock should be a wake-up call",
+    "url": "https://www.marketwatch.com/story/ibm-workers-pay-a-400-million-price-for-investing-in-company-stock-fb02f5fa?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-15T18:34:00+00:00",
+    "summary_raw": "Don\u2019t put all your eggs in one basket",
+    "summary_ai": {
+      "digest": "IBM employees losing $400 million on the company\u2019s stock should be a wake-up call",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "29a4f6083709",
+    "title": "DTCC turns tokenisation into reality",
+    "url": "https://www.finextra.com/newsarticle/48102/dtcc-turns-tokenisation-into-reality?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-15T18:48:00+00:00",
+    "summary_raw": "The Depository Trust & Clearing Corporation (DTCC) has brought together a host of Wall Street giants and blockchain players for a day demonstrating its tokenisation bona fides.",
+    "summary_ai": {
+      "digest": "DTCC turns tokenisation into reality",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "aa94c741dc5b",
+    "title": "AI is killing the cover letter \u2014 but here\u2019s when it still pays to send one",
+    "url": "https://www.marketwatch.com/story/ai-is-killing-the-cover-letter-heres-when-it-pays-off-to-send-one-and-when-to-skip-it-e8800ef0?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-15T18:51:00+00:00",
+    "summary_raw": "\u201cFor really everyone other than AI providers, the process is broken.\u201d",
+    "summary_ai": {
+      "digest": "AI is killing the cover letter \u2014 but here\u2019s when it still pays to send one",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "fcc1759c059f",
+    "title": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?",
+    "url": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-15T19:01:00+00:00",
+    "summary_raw": "\u201cSince her death, her bank balance fell to $9,000 from $16,000.\u201d",
+    "summary_ai": {
+      "digest": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "8026c12fc5e1",
+    "title": "This isn\u2019t a plan to save Social Security. It\u2019s a plan to have a plan.",
+    "url": "https://www.marketwatch.com/story/this-isnt-a-plan-to-save-social-security-its-a-plan-to-have-a-plan-d55860af?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-15T19:11:00+00:00",
+    "summary_raw": "A bipartisan group of senators, most of whom are retiring, is trying to move the ball forward just a little.",
+    "summary_ai": {
+      "digest": "This isn\u2019t a plan to save Social Security. It\u2019s a plan to have a plan.",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "cdeed7a5c2ac",
+    "title": "PG&E Says Power Shutoffs Required in California on Wildfire Risk",
+    "url": "https://www.insurancejournal.com/news/west/2026/07/15/877776.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-07-15T19:21:47+00:00",
+    "summary_raw": "PG&#38;E Corp. warned that power shutoffs will be required on Wednesday and Thursday in three California counties as dry conditions and gusty winds increase fire risks. PG&#38;E is taking steps to preemptively shut off electricity to homes and businesses in &#8230;",
+    "summary_ai": {
+      "digest": "PG&E Says Power Shutoffs Required in California on Wildfire Risk",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "2babd5580fc1",
+    "title": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+    "url": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-15T19:30:00+00:00",
+    "summary_raw": "\u201cWhen I pass, all my retirement income is reduced to $30,000 a year.\u201d",
+    "summary_ai": {
+      "digest": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "a9714760018b",
+    "title": "\u2018Self-liquidating\u2019 helps Arctos make a $6.2bn GP financing debut",
+    "url": "https://www.buyoutsinsider.com/self-liquidating-helps-arctos-make-a-6-2bn-gp-financing-debut/",
+    "source": "Buyouts Insider",
+    "section": "PE & Deals",
+    "date": "2026-07-15T19:53:44+00:00",
+    "summary_raw": "The Keystone strategy is expected to remain relevant across fundraising cycles, managing partner Ian Charles and partner Charlie Tingue tell PEI.",
+    "summary_ai": {
+      "digest": "\u2018Self-liquidating\u2019 helps Arctos make a $6.2bn GP financing debut",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "862eb8345949",
+    "title": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+    "url": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-15T20:00:00+00:00",
+    "summary_raw": "\u201cThe hood is bent, the radiator is cracked, and the front bumper is destroyed.\u201d",
+    "summary_ai": {
+      "digest": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "c9cd479d6de2",
+    "title": "Micron Announces Participation in Investor Event",
+    "url": "https://www.globenewswire.com/news-release/2026/07/15/3328084/14450/en/Micron-Announces-Participation-in-Investor-Event.html",
+    "source": "GlobeNewswire \u2014 Banking (press releases)",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-15T20:01:00+00:00",
+    "summary_raw": "<p>BOISE, Idaho, July  15, 2026  (GLOBE NEWSWIRE) -- Micron Technology, Inc. (Nasdaq: MU) announced today that company executives will participate at the KeyBanc Capital Markets Technology Leadership Forum in Deer Valley, Utah, on Monday, August 10, at 8:00 a.m. Mountain Time.\u00a0</p>",
+    "summary_ai": {
+      "digest": "Micron Announces Participation in Investor Event",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "f7ef02855ad1",
+    "title": "Skyworks Sets Date for Third Quarter Fiscal 2026 Earnings Release and Conference Call",
+    "url": "https://www.globenewswire.com/news-release/2026/07/15/3328090/0/en/Skyworks-Sets-Date-for-Third-Quarter-Fiscal-2026-Earnings-Release-and-Conference-Call.html",
+    "source": "GlobeNewswire \u2014 Banking (press releases)",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-15T20:01:00+00:00",
+    "summary_raw": "Skyworks Sets Date for Third Quarter Fiscal 2026 Earnings Release and Conference Call \nJuly 28 at 4:30 p.m. EDT",
+    "summary_ai": {
+      "digest": "Skyworks Sets Date for Third Quarter Fiscal 2026 Earnings Release and Conference Call",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "2e1b9639ee7b",
+    "title": "SpaceX sell-off wipes $1tn from Musk\u2019s rocket group",
+    "url": "https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-15T20:03:01+00:00",
+    "summary_raw": "Stock trades below $135 for first time since AI and space conglomerate\u2019s Wall Street debut in June",
+    "summary_ai": {
+      "digest": "SpaceX shares dropped below $135 for the first time since its June IPO, erasing ~$1 trillion in market cap from the space/AI conglomerate.",
+      "summary_long": "SpaceX went public in June at a valuation that positioned it as a mega-cap tech/industrial hybrid. The stock has now retreated to trade below $135, marking a sharp pullback from debut levels. The selloff reflects broader pressure on unprofitable growth stories and high-multiple aerospace/defense names in a shifting rate environment. For a regional-bank and fintech-focused analyst, this is primarily a macro/sentiment signal rather than a direct FIG play, though it does indicate tightening conditions for venture-backed and PE-backed tech businesses that might otherwise access capital markets or secondary liquidity.",
       "talking_points": [
-        "Economics profession grew 6x since 1990, but publication inequality didn't compress \u2014 it calcified.",
-        "New entrants are systematically relegated to lower-tier journals while incumbents control top outlets.",
-        "Suggests credentialism and network effects in academic publishing may amplify over time, not self-correct."
+        "SpaceX IPO valuation compression is a leading indicator of weaker appetite for growth-stage, capital-intensive businesses \u2014 relevant to fintech and specialty finance funding environments.",
+        "A $1 trillion evaporation in a mega-cap just months after IPO signals market discipline on leverage and cash burn, which trickles down to private credit and PE deployment decisions."
       ],
       "topics": [
-        "academic-publishing",
-        "professional-inequality",
-        "institutional-dynamics"
+        "ipo-valuation",
+        "growth-stock-repricing",
+        "venture-funding-environment"
       ],
-      "highlight": "The top 1% of economists have held their position despite a 6x expansion of the field, suggesting entrenched gatekeeping rather than competitive sorting.",
-      "relevance": 4
+      "highlight": "SpaceX sub-$135 print represents first post-IPO breakdown and signals investor reset on how to price capital-intensive, unprofitable mega-caps.",
+      "relevance": 5
     }
   },
   {
@@ -3671,56 +3850,6 @@
     }
   },
   {
-    "id": "45c954ad3f5d",
-    "title": "America\u2019s oil refiners could more than triple profits as Iran war sparks massive boom",
-    "url": "https://www.marketwatch.com/story/americas-oil-refiners-could-more-than-triple-profits-as-iran-war-sparks-massive-boom-c3ad5d33?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-15T16:14:00+00:00",
-    "summary_raw": "U.S. oil refiners are about to report a historic profit surge as the industry takes advantage of supply disruptions.",
-    "summary_ai": {
-      "digest": "U.S. oil refiners poised for historic profit surge amid Iran conflict and supply disruptions; industry positioned to benefit from margin expansion.",
-      "summary_long": "Geopolitical tension involving Iran is creating supply-side constraints in global oil markets, widening the spread between crude input costs and refined product prices\u2014the classic refiner margin play. U.S. refiners, which operate some of the world's most efficient capacity, are positioned to capture outsized profits as they process crude at favorable margins. The article suggests near-term earnings could be exceptional as these dynamics persist. However, this is a cyclical, commodity-driven windfall rather than a structural business improvement, and refiner profitability is highly sensitive to both geopolitical de-escalation and global demand destruction.",
-      "talking_points": [
-        "Refiner margins expanding sharply on Iran supply disruptions\u2014a temporary but material earnings driver for energy infrastructure players.",
-        "U.S. refinery capacity is world-class on efficiency; spreads widen faster here than peers when crude supply tightens.",
-        "Watch for margin compression if geopolitical risk recedes or demand rolls over\u2014this is a timing play, not a new thesis."
-      ],
-      "topics": [
-        "energy-macro",
-        "refiner-margins",
-        "geopolitical-risk",
-        "commodity-cycles"
-      ],
-      "highlight": "Historic refiner profit cycle driven by Iran supply shock, but inherently time-limited and sensitive to de-escalation.",
-      "relevance": 4
-    }
-  },
-  {
-    "id": "570cd28bf9cd",
-    "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-    "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-15T17:30:00+00:00",
-    "summary_raw": "\u201cI\u2019ve just been ignoring their attempts.\u201d",
-    "summary_ai": {
-      "digest": "A MarketWatch reader reports repeated scam attempts to change email credentials on an empty Robinhood account; the article explores what attackers stand to gain from dormant retail brokerage accounts.",
-      "summary_long": "The piece documents a case of account takeover attempts targeting a Robinhood customer whose account holds no assets. The attacker repeatedly tries to change the registered email, suggesting either credential harvesting for resale on dark web markets, identity theft leverage, or potential use in larger fraud rings targeting the platform itself. The article raises a secondary question about why brokerage platforms remain attractive targets even when empty, and hints at broader retail-investor security vulnerabilities. For someone covering fintech and digital assets, this illustrates the operational/reputational risk lurking in consumer-facing brokerages when account security is breached at scale.",
-      "talking_points": [
-        "Even dormant accounts are valuable to fraudsters\u2014likely for credential resale or as entry points into larger account takeover campaigns.",
-        "Robinhood's apparent lack of aggressive bot detection or multi-factor enforcement on account changes represents a fintech security gap and potential regulatory liability."
-      ],
-      "topics": [
-        "fintech-security",
-        "retail-brokerage-risk",
-        "account-fraud"
-      ],
-      "highlight": "Attackers targeting empty accounts suggests organized credential harvesting or platform infiltration strategy, not individual money theft\u2014a fintech operational-risk story.",
-      "relevance": 4
-    }
-  },
-  {
     "id": "5cba09c5ba7e",
     "title": "Navigating growth equity: a Q&A with PSG Equity\u2019s Peter Wilde",
     "url": "https://www.buyoutsinsider.com/navigating-growth-equity-a-qa-with-psg-equitys-peter-wilde/",
@@ -3805,23 +3934,6 @@
         "LP-advisory",
         "PE-market-structure"
       ],
-      "highlight": null,
-      "relevance": 3
-    }
-  },
-  {
-    "id": "0376423487b1",
-    "title": "The Trust Gap",
-    "url": "https://www.wealthmanagement.com/estate-planning/the-trust-gap",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-14T16:40:58+00:00",
-    "summary_raw": "Why clients don't follow through on estate planning.",
-    "summary_ai": {
-      "digest": "The Trust Gap",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
       "highlight": null,
       "relevance": 3
     }
@@ -4171,7 +4283,7 @@
     "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
     "source": "CNBC Finance",
     "section": "FIG \u2014 Banks",
-    "date": "2026-07-15T16:19:08+00:00",
+    "date": "2026-07-15T19:05:12+00:00",
     "summary_raw": "Part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House Financial Services Committee.",
     "summary_ai": {
       "digest": "Fed Chairman Kevin Warsh testified before the Senate Banking Committee in a congressionally mandated appearance. No specific policy announcements or regulatory actions detailed in the excerpt.",
@@ -4288,29 +4400,6 @@
     }
   },
   {
-    "id": "cb1f8cf376fd",
-    "title": "OpenAI Unaware of \u2018Any Evidence\u2019 Showing Apple Lawsuit Has Merit",
-    "url": "https://www.insurancejournal.com/news/national/2026/07/15/877616.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-07-15T10:35:05+00:00",
-    "summary_raw": "OpenAI said on Tuesday that it&#8217;s &#8220;not aware of any evidence&#8221; that an Apple Inc. lawsuit alleging trade-secret theft has merit. The latest remarks come four days after Apple filed the suit, which claimed that OpenAI took proprietary technology to &#8230;",
-    "summary_ai": {
-      "digest": "Apple sued OpenAI for alleged trade-secret theft; OpenAI denies merit without addressing specifics. No financial terms, regulatory trigger, or M&A implication disclosed.",
-      "summary_long": "Apple filed a lawsuit against OpenAI claiming misappropriation of proprietary technology. OpenAI responded by stating it has no awareness of evidence supporting Apple's claims, but provided no substantive rebuttal of the allegations. The suit appears to center on IP theft rather than capital structure, licensing disputes, or competitive harm that would trigger M&A or regulatory action. Without details on damages sought, injunctive relief, or technology scope, the case reads as standard IP litigation rather than a financial-services sector catalyst. The headline frames this as an Insurance Journal matter, suggesting coverage focus on liability exposure rather than deal flow.",
-      "talking_points": [
-        "Apple-OpenAI IP lawsuit filed; OpenAI denies allegations but has not disclosed damages or scope of claimed trade secrets.",
-        "No regulatory hook, capital raise, or M&A trigger apparent from the available facts."
-      ],
-      "topics": [
-        "litigation-risk",
-        "IP-dispute"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
     "id": "10d0822905a6",
     "title": "Stocks making the biggest moves premarket: BlackRock, PayPal, ASML, Morgan Stanley & more",
     "url": "https://www.cnbc.com/2026/07/15/stocks-making-the-biggest-moves-premarket-blk-pypl-asml.html",
@@ -4402,75 +4491,6 @@
     }
   },
   {
-    "id": "e1a8056113d7",
-    "title": "\u2018I don\u2019t want to sound callous\u2019: Why base your Social Security claim on life expectancy? We could die at any time.",
-    "url": "https://www.marketwatch.com/story/i-dont-want-to-sound-callous-nobody-knows-when-theyll-die-dont-base-when-you-claim-social-security-on-that-53370fad?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-15T17:01:00+00:00",
-    "summary_raw": "\u201cThe actual date of death ultimately affects only the surviving beneficiaries.\u201d",
-    "summary_ai": {
-      "digest": "MarketWatch columnist argues that optimizing Social Security claim timing based on life expectancy ignores volatility and tail risk; the real lever is survivor benefits for dependents, not breakeven analysis.",
-      "summary_long": "The piece challenges the conventional financial-planning framework for Social Security: claiming early vs. late based on actuarial life expectancy. The author's point is that individual death timing is unknowable and can occur at extremes, making breakeven-age optimization a false precision game. More relevantly, he argues that claim timing should hinge on whether you have dependents who benefit from survivor payments (which scale with your Primary Insurance Amount, higher if you delay), not on personal longevity bets. For someone without dependents, the timing math collapses. The framing resets Social Security from a personal annuity problem to a family-protection instrument.",
-      "talking_points": [
-        "Life expectancy tables miss individual tail risk\u2014you could die at 60 or 95, rendering breakeven analysis false precision.",
-        "The real Social Security lever for most people isn't your own retirement income, it's survivor benefits to spouse/children\u2014which rise when you delay claiming.",
-        "If you have no dependents, the timing optimization largely disappears; the decision becomes about consumption smoothing, not longevity."
-      ],
-      "topics": [
-        "social-security-planning",
-        "retirement-income",
-        "behavioral-finance"
-      ],
-      "highlight": "Survivor benefits, not your own payout, should drive the claim-timing decision for anyone with dependents.",
-      "relevance": 2
-    }
-  },
-  {
-    "id": "677ff52f014f",
-    "title": "SpaceX\u2019s stock breaks below its IPO price for the first time. Why it could still fall further.",
-    "url": "https://www.marketwatch.com/story/spacexs-stock-breaks-below-its-ipo-price-for-the-first-time-8826dc9a?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-15T17:34:00+00:00",
-    "summary_raw": "SpaceX has lost more than $800 billion in market value from its closing high seen a month ago.",
-    "summary_ai": {
-      "digest": "SpaceX stock has fallen below its IPO price for the first time, losing $800B in value from its peak a month ago.",
-      "summary_long": "SpaceX shares have declined substantially from their post-IPO highs, now trading below the initial offering price. The article frames this as a potential continuation of broader volatility in high-growth, capital-intensive tech stocks. While SpaceX operates in aerospace and satellite services rather than financial services, the piece appears positioned as a cautionary tale on valuation compression in speculative growth equities. The commentary suggests further downside risk based on fundamentals or technical factors. This has limited relevance to FIG deal flow, fintech valuations, or regional bank exposures.",
-      "talking_points": [
-        "SpaceX stock now trades below IPO price after $800B decline from recent highs\u2014signals broader repricing of high-burn aerospace/tech bets.",
-        "Capital-intensive, pre-profitable growth stories facing headwinds; relevant context if modeling fintech or digital asset platform funding environments."
-      ],
-      "topics": [
-        "growth-stock-volatility",
-        "capital-intensity",
-        "valuation-compression"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
-    "id": "2a21d8e3fff0",
-    "title": "Your Social Security check could go up by $74 a month next year",
-    "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-by-74-a-month-next-year-58877142?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-15T17:45:00+00:00",
-    "summary_raw": "Social Security\u2019s cost-of-living-adjustment could be 3.8% in 2027, as inflation shows signs of cooling.",
-    "summary_ai": {
-      "digest": "Social Security COLA could hit 3.8% in 2027 if inflation continues cooling. This is a macro datapoint with minimal direct FIG relevance.",
-      "summary_long": "MarketWatch reports that Social Security's cost-of-living adjustment (COLA) for 2027 may reach 3.8%, tracking recent inflation trends. COLAs are determined by the Consumer Price Index and announced in October for the following year. While this signals continued disinflation, it has no direct bearing on bank earnings, credit spreads, deal flow, or regulatory capital. It is a consumer-side macro fact that may marginally reduce near-term fiscal pressure but lacks immediate utility for FIG analysis.",
-      "talking_points": [],
-      "topics": [
-        "inflation",
-        "macro-macro"
-      ],
-      "highlight": null,
-      "relevance": 2
-    }
-  },
-  {
     "id": "0d00a7d0a731",
     "title": "Permanent daylight-saving time would be a win for tourism, but other sectors have big concerns",
     "url": "https://www.marketwatch.com/story/permanent-daylight-saving-time-would-be-a-win-for-tourism-but-other-sectors-have-big-concerns-dd3076f8?mod=mw_rss_topstories",
@@ -4493,27 +4513,6 @@
       ],
       "highlight": null,
       "relevance": 2
-    }
-  },
-  {
-    "id": "906f3113d303",
-    "title": "Solitron Devices, Inc. Announces Fiscal 2027 First Quarter Results",
-    "url": "https://www.globenewswire.com/news-release/2026/07/13/3326433/0/en/Solitron-Devices-Inc-Announces-Fiscal-2027-First-Quarter-Results.html",
-    "source": "GlobeNewswire \u2014 Banking (press releases)",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-13T19:33:00+00:00",
-    "summary_raw": "<p>WEST PALM BEACH, Fla., July  13, 2026  (GLOBE NEWSWIRE) -- Solitron Devices, Inc. (OTC Pink: SODI) (\u201cSolitron\u201d or the \u201cCompany\u201d) is pleased to announce fiscal 2027 first quarter results.\u00a0</p>",
-    "summary_ai": {
-      "digest": "Solitron Devices (OTC Pink: SODI) reported fiscal 2027 Q1 results; no deal, regulatory action, or capital event disclosed in excerpt.",
-      "summary_long": "Solitron Devices, a microcap OTC Pink-sheet company, released routine quarterly earnings. The excerpt contains no material detail on earnings performance, capital raises, M&A activity, regulatory findings, or strategic shifts. Without access to the full earnings release, no FIG-relevant signal can be extracted. This appears to be a boilerplate press-release headline with no substantive financial or strategic content.",
-      "talking_points": [
-        "No actionable detail provided in the available excerpt."
-      ],
-      "topics": [
-        "microcap-disclosure"
-      ],
-      "highlight": null,
-      "relevance": 1
     }
   },
   {
@@ -4582,23 +4581,6 @@
     }
   },
   {
-    "id": "7729f4188060",
-    "title": "High NA EUV reaches new readiness milestone with first high-volume Logic product",
-    "url": "https://www.globenewswire.com/news-release/2026/07/15/3327453/0/en/High-NA-EUV-reaches-new-readiness-milestone-with-first-high-volume-Logic-product.html",
-    "source": "GlobeNewswire \u2014 Banking (press releases)",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-15T05:01:00+00:00",
-    "summary_raw": "<p><b>High NA EUV reaches new readiness milestone with first high-volume Logic product </b></p>",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
     "id": "5f234734eb21",
     "title": "Saras Micro Devices Strengthens Senior Leadership Team to Scale Advanced Packaging Technology and Customer Growth",
     "url": "https://www.globenewswire.com/news-release/2026/07/15/3327646/0/en/Saras-Micro-Devices-Strengthens-Senior-Leadership-Team-to-Scale-Advanced-Packaging-Technology-and-Customer-Growth.html",
@@ -4639,23 +4621,6 @@
       "topics": [
         "newsletter-signup"
       ],
-      "highlight": null,
-      "relevance": 1
-    }
-  },
-  {
-    "id": "ea6e00a6b494",
-    "title": "Most Americans don\u2019t know how to prevent dementia. Here\u2019s what you can do.",
-    "url": "https://www.marketwatch.com/story/most-americans-dont-know-how-to-prevent-dementia-heres-what-you-can-do-85fb4bfc?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-15T17:18:00+00:00",
-    "summary_raw": "\u2018Brain health is a lifelong commitment \u2014 it\u2019s never too early or too late to start\u2019",
-    "summary_ai": {
-      "digest": null,
-      "summary_long": null,
-      "talking_points": null,
-      "topics": null,
       "highlight": null,
       "relevance": 1
     }
