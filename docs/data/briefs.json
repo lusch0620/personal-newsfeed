@@ -13,8 +13,8 @@
         "source": "Banking Dive"
       },
       {
-        "text": "JPMorgan\u2019s Dimon: Lake chose retirement after board named co-presidents",
-        "refId": "ee553db4a8ba",
+        "text": "Regulators issue guidance on lending to unauthorized workers",
+        "refId": "6fdb6e915c0b",
         "source": "Banking Dive"
       }
     ]
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Morgan Stanley Hauled in Billions of Wealth Assets From IPOs",
-        "refId": "75b2d557fb3c",
+        "text": "The Impact of Trump\u2019s Regulatory Agenda on Charitable Giving",
+        "refId": "2c3bcafb22c9",
         "source": "Wealth Management"
       },
       {
-        "text": "The Impact of Trump\u2019s Regulatory Agenda on Charitable Giving",
-        "refId": "2c3bcafb22c9",
+        "text": "The Retirement Plan Advisor as Plan Architect",
+        "refId": "9dda6896eccc",
         "source": "Wealth Management"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "New Jersey Insurance Agents Are Not Exempt From Consumer Fraud Act: High Court",
-        "refId": "7f1062eee2c6",
+        "text": "People Moves: MEMIC Expands Northeast Underwriting Team with New Hire Rutledge",
+        "refId": "6573568b6b0a",
         "source": "Insurance Journal"
       },
       {
-        "text": "Florida Regulators Mulling New Rules on Market Conduct Exams, Reporting",
-        "refId": "64e0fdadfaa6",
+        "text": "Iran Warns Strait of Hormuz Is a \u2018Red Line\u2019 and Will Resist Until the End",
+        "refId": "42c6d952aab7",
         "source": "Insurance Journal"
       },
       {
-        "text": "Progressive Q2 2026 Net Income Up 4%",
-        "refId": "cb5438f8d895",
-        "source": "Insurance Journal"
+        "text": "Vantage sees net income more than double to $201.7m in 2025",
+        "refId": "abeda16fe8ba",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Jonathan Ross Turned a 3-Week Phone Call Into a $20 Billion NVIDIA Deal. Here Is How He Did It.",
-        "refId": "44759bda5801",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Toward a theory of uni-context",
         "refId": "f60ef4efd705",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "IBM Misses, IBM\u2019s Mainframe Moat, IBM\u2019s Many AI Problems",
         "refId": "1ae38fd5e63f",
         "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "Wednesday assorted links",
+        "refId": "4a01a0bdadc4",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -186,37 +186,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7560.92,
+      "v": 7551.64,
       "base": 7543.59,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26061.672,
+      "v": 26030.494,
       "base": 26107.01,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52795.84,
+      "v": 52725.92,
       "base": 52508.27,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.588,
+      "v": 4.569,
       "base": 4.545,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.86,
+      "v": 16.03,
       "base": 15.67,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 192.5492,
+      "v": 192.0702,
       "base": 188.94,
       "bp": false
     }
