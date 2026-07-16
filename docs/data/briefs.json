@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "First Hawaiian to buy California\u2019s TriCo in $2B deal",
-        "refId": "c18074d3e476",
-        "source": "Banking Dive"
-      },
-      {
         "text": "How PayPal may benefit Stripe",
         "refId": "b35a42bc4ea5",
         "source": "Banking Dive"
       },
       {
-        "text": "Regulators issue guidance on lending to unauthorized workers",
-        "refId": "6fdb6e915c0b",
+        "text": "Citi flags potential for more severance this year",
+        "refId": "71a4e6e56c81",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "NC\u2019s First Bank to buy SC lender for $166M",
+        "refId": "3729c77dedf5",
         "source": "Banking Dive"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "People Moves: MEMIC Expands Northeast Underwriting Team with New Hire Rutledge",
-        "refId": "6573568b6b0a",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Iran Warns Strait of Hormuz Is a \u2018Red Line\u2019 and Will Resist Until the End",
-        "refId": "42c6d952aab7",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Vantage sees net income more than double to $201.7m in 2025",
         "refId": "abeda16fe8ba",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Willis and Kayna launch embedded insurance program for subcontractors in partnership with Kwant",
+        "refId": "294ff82523d8",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Canopius adds Melanie Brown as Head of US Claims",
+        "refId": "0eaed1ef4b62",
         "source": "Reinsurance News"
       }
     ]
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oil traders warn market is close to running on empty as Hormuz shuts again",
-        "refId": "08d1fb2fec9c",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Big Banks Smash Earnings Records, but \u2018Tectonic\u2019 Risks Loom",
         "refId": "32ef0b9fd2d2",
         "source": "Dealbook (NYT)"
@@ -116,6 +111,11 @@
         "text": "War Risk for Businesses Will Mean Higher Prices No Matter What Happens",
         "refId": "b6da1e224b7e",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "OPEC+ Data Deck (July 2026)",
+        "refId": "665c93f1c70d",
+        "source": "Commodity Context"
       }
     ]
   },
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "First Hawaiian to buy California\u2019s TriCo in $2B deal",
-        "refId": "c18074d3e476",
-        "source": "Banking Dive"
-      },
-      {
         "text": "\u2018We\u2019re still near the beginning\u2019: Blackstone\u2019s new EMEA wealth head on the next wave of growth",
         "refId": "5a93284b568d",
         "source": "Private Equity International"
@@ -180,25 +175,30 @@
         "text": "How PayPal may benefit Stripe",
         "refId": "b35a42bc4ea5",
         "source": "Banking Dive"
+      },
+      {
+        "text": "The Data Behind \u201cProject Kodak\u201d: How CMBS Office Performance is Bifurcating",
+        "refId": "b97bd07435c1",
+        "source": "Trepp Talk"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7551.64,
+      "v": 7537.75,
       "base": 7543.59,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26030.494,
+      "v": 25970.207,
       "base": 26107.01,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52725.92,
+      "v": 52528.51,
       "base": 52508.27,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 16.03,
+      "v": 16.49,
       "base": 15.67,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 192.0702,
+      "v": 190.92,
       "base": 188.94,
       "bp": false
     }
