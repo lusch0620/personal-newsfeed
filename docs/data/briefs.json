@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "The Impact of Trump\u2019s Regulatory Agenda on Charitable Giving",
-        "refId": "2c3bcafb22c9",
+        "text": "The Retirement Plan Advisor as Plan Architect",
+        "refId": "9dda6896eccc",
         "source": "Wealth Management"
       },
       {
-        "text": "The Retirement Plan Advisor as Plan Architect",
-        "refId": "9dda6896eccc",
+        "text": "Wells Fargo, Morgan Stanley Boast Q2 Wealth Revenue Jumps",
+        "refId": "14ad6274576f",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Data Behind \u201cProject Kodak\u201d: How CMBS Office Performance is Bifurcating",
-        "refId": "b97bd07435c1",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Revenue financing fintech Float raises \u20ac4.5 million",
         "refId": "cf4833d4357d",
         "source": "Finextra"
@@ -76,6 +71,11 @@
         "text": "UC Berkeley professor: 'Things are getting weird', even Mitch McConnell photos aren't being trusted",
         "refId": "36c8c19e90f1",
         "source": "Finextra"
+      },
+      {
+        "text": "\u2018Self-liquidating\u2019 helps Arctos make a $6.2bn GP financing debut",
+        "refId": "e14959f46232",
+        "source": "Private Debt Investor"
       }
     ]
   },
@@ -113,9 +113,9 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "OPEC+ Data Deck (July 2026)",
-        "refId": "665c93f1c70d",
-        "source": "Commodity Context"
+        "text": "IBM\u2019s Stock Crash Reignites Fears of A.I. Disruption in Software Sector",
+        "refId": "1ca189b70321",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -177,28 +177,28 @@
         "source": "Banking Dive"
       },
       {
-        "text": "The Data Behind \u201cProject Kodak\u201d: How CMBS Office Performance is Bifurcating",
-        "refId": "b97bd07435c1",
-        "source": "Trepp Talk"
+        "text": "Wall Street Takes In Record Haul, Projecting US Economic Health",
+        "refId": "80caf6792196",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7537.75,
+      "v": 7528.16,
       "base": 7543.59,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25970.207,
+      "v": 25865.021,
       "base": 26107.01,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52528.51,
+      "v": 52489.87,
       "base": 52508.27,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 16.49,
+      "v": 16.93,
       "base": 15.67,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 190.92,
+      "v": 191.3815,
       "base": 188.94,
       "bp": false
     }
