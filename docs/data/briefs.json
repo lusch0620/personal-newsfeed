@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Big Banks Smash Earnings Records, but \u2018Tectonic\u2019 Risks Loom",
-        "refId": "32ef0b9fd2d2",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "War Risk for Businesses Will Mean Higher Prices No Matter What Happens",
         "refId": "b6da1e224b7e",
         "source": "Dealbook (NYT)"
@@ -116,6 +111,11 @@
         "text": "IBM\u2019s Stock Crash Reignites Fears of A.I. Disruption in Software Sector",
         "refId": "1ca189b70321",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "The Re-Industrialization Of The USA Powerhouse",
+        "refId": "dcec3b04b749",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -186,19 +186,19 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7528.16,
+      "v": 7533.77,
       "base": 7543.59,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25865.021,
+      "v": 25881.947,
       "base": 26107.01,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52489.87,
+      "v": 52552.97,
       "base": 52508.27,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 16.93,
+      "v": 16.73,
       "base": 15.67,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 191.3815,
+      "v": 191.7292,
       "base": 188.94,
       "bp": false
     }

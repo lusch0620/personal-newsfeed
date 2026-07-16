@@ -363,31 +363,6 @@
     }
   },
   {
-    "id": "32ef0b9fd2d2",
-    "title": "Big Banks Smash Earnings Records, but \u2018Tectonic\u2019 Risks Loom",
-    "url": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html",
-    "source": "Dealbook (NYT)",
-    "section": "Markets & Macro",
-    "date": "2026-07-14T21:15:05+00:00",
-    "summary_raw": "The quarterly results reflect the dichotomy between geopolitical uncertainty and the stable American economy.",
-    "summary_ai": {
-      "digest": "Major U.S. banks posted record Q2 earnings despite geopolitical tension and inflation, but analysts warn of structural risks ahead.",
-      "summary_long": "The largest U.S. banks delivered strong second-quarter results, driven by trading revenue, dealmaking fees, and improved credit conditions. However, Dealbook flags \"tectonic\" risks\u2014likely referring to persistent rate uncertainty, potential recession signals, or shifts in deposit/funding dynamics\u2014that could pressure profitability in coming quarters. The earnings beat masks forward-looking stress: banks benefited from a favorable near-term environment (higher rates, active M&A) but face structural headwinds if macro conditions deteriorate. For FIG investors and analysts, this is the familiar pattern of lagging indicators: earnings surprise, but consensus revisions and guidance prove the real tell.",
-      "talking_points": [
-        "Q2 earnings beat reflects trading and dealmaking upside in a higher-rate environment, but not a durable earnings driver.",
-        "Unnamed 'tectonic risks' suggest the analyst is flagging either deposit flight, recession risk, or deteriorating credit\u2014the real catalyst for multiple compression.",
-        "Banks guiding for a benign cycle now typically signal caution in the next 2-3 quarters when rates or deal flow shift."
-      ],
-      "topics": [
-        "bank-earnings",
-        "macro-cycle",
-        "credit-conditions"
-      ],
-      "highlight": "Dealbook's vague warning of 'tectonic risks' is a yellow flag\u2014watch bank guidance on net interest margin and credit loss provisions in the next earnings call.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "25c35ad818dc",
     "title": "Thematic ETFs Boosted by SpaceX IPO Lose Altitude",
     "url": "https://www.thedailyupside.com/etf/investing-strategies-etf/thematic-etfs-boosted-by-spacex-ipo-lose-altitude/",
@@ -567,31 +542,6 @@
     }
   },
   {
-    "id": "b6da1e224b7e",
-    "title": "War Risk for Businesses Will Mean Higher Prices No Matter What Happens",
-    "url": "https://www.nytimes.com/2026/07/15/business/economy/iran-war-inflation-supply-chains.html",
-    "source": "Dealbook (NYT)",
-    "section": "Markets & Macro",
-    "date": "2026-07-15T16:10:13+00:00",
-    "summary_raw": "Doing business in a more dangerous and unpredictable world will cost more, pushing up the price of everything from food to electronics.",
-    "summary_ai": {
-      "digest": "Geopolitical risk is raising insurance and logistics costs across supply chains; businesses will pass these costs to consumers regardless of escalation or de-escalation.",
-      "summary_long": "As geopolitical tensions persist (Middle East, Ukraine, Taiwan strait), war-risk insurance premiums, shipping route diversification, and supply-chain redundancy are becoming structural costs rather than cyclical hedges. Companies cannot unwind these expenditures quickly\u2014even if conflict doesn't materialize, the infrastructure and insurance mechanisms remain in place. This creates a persistent inflation floor in food, semiconductors, consumer goods, and energy. The article argues that markets are underpricing this durability: businesses are not treating war risk as temporary, but as a permanent feature of the operating environment, meaning pricing power will persist.",
-      "talking_points": [
-        "War-risk insurance and supply-chain hardening are no longer hedges\u2014they're permanent cost centers that won't reverse even if geopolitical tensions ease.",
-        "Inflation from logistics and risk premiums will stick because companies have already baked these costs into pricing and won't claw them back."
-      ],
-      "topics": [
-        "geopolitical-risk",
-        "supply-chain-inflation",
-        "insurance-pricing",
-        "structural-cost-dynamics"
-      ],
-      "highlight": "War-risk costs are now embedded in the cost of doing business and won't deflate with tension\u2014they're structural, not cyclical.",
-      "relevance": 6
-    }
-  },
-  {
     "id": "2c86fedcda5c",
     "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
     "url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
@@ -694,20 +644,28 @@
     }
   },
   {
-    "id": "cdc8d865d2e6",
-    "title": "Louisiana Teachers to explore PE secondaries sale",
-    "url": "https://www.buyoutsinsider.com/louisiana-teachers-to-explore-pe-secondaries-sale/",
-    "source": "Buyouts Insider",
-    "section": "PE & Deals",
-    "date": "2026-07-14T21:32:19+00:00",
-    "summary_raw": "The pension plan is hoping to reduce its allocation to buyout assets, increase its liquidity and cull \u201cinactive\u201d GP relationships.",
+    "id": "b6da1e224b7e",
+    "title": "War Risk for Businesses Will Mean Higher Prices No Matter What Happens",
+    "url": "https://www.nytimes.com/2026/07/15/business/economy/iran-war-inflation-supply-chains.html",
+    "source": "Dealbook (NYT)",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T20:11:36+00:00",
+    "summary_raw": "Doing business in a more dangerous and unpredictable world will cost more, pushing up the price of everything from food to electronics.",
     "summary_ai": {
-      "digest": "Louisiana Teachers to explore PE secondaries sale",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
+      "digest": "Geopolitical risk is raising insurance and logistics costs across supply chains; businesses will pass these costs to consumers regardless of escalation or de-escalation.",
+      "summary_long": "As geopolitical tensions persist (Middle East, Ukraine, Taiwan strait), war-risk insurance premiums, shipping route diversification, and supply-chain redundancy are becoming structural costs rather than cyclical hedges. Companies cannot unwind these expenditures quickly\u2014even if conflict doesn't materialize, the infrastructure and insurance mechanisms remain in place. This creates a persistent inflation floor in food, semiconductors, consumer goods, and energy. The article argues that markets are underpricing this durability: businesses are not treating war risk as temporary, but as a permanent feature of the operating environment, meaning pricing power will persist.",
+      "talking_points": [
+        "War-risk insurance and supply-chain hardening are no longer hedges\u2014they're permanent cost centers that won't reverse even if geopolitical tensions ease.",
+        "Inflation from logistics and risk premiums will stick because companies have already baked these costs into pricing and won't claw them back."
+      ],
+      "topics": [
+        "geopolitical-risk",
+        "supply-chain-inflation",
+        "insurance-pricing",
+        "structural-cost-dynamics"
+      ],
+      "highlight": "War-risk costs are now embedded in the cost of doing business and won't deflate with tension\u2014they're structural, not cyclical.",
+      "relevance": 6
     }
   },
   {
@@ -846,33 +804,6 @@
       "talking_points": [],
       "topics": [],
       "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "5921c7f2afe2",
-    "title": "Discretionary Gifting Authority in Durable Powers of Attorney",
-    "url": "https://www.wealthmanagement.com/estate-planning/discretionary-gifting-authority-in-durable-powers-of-attorney",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-07-15T15:08:59+00:00",
-    "summary_raw": "Make sure what you authorize is actually what you intend.",
-    "summary_ai": {
-      "digest": "Article reviews legal language in durable powers of attorney (POA) that grants discretionary gifting authority to agents, highlighting the risk of unintended wealth transfer if authorization language is too broad.",
-      "summary_long": "Durable powers of attorney are standard estate-planning documents that authorize an agent to act on behalf of the principal. A critical but often overlooked provision is discretionary gifting authority\u2014the power to make gifts on the principal's behalf. The article warns that imprecise or overly broad language in POA documents can expose principals to unintended wealth transfers, tax inefficiency, or fiduciary abuse. For wealth managers and advisors, this is a compliance and client-protection issue: clients may sign POAs without understanding the scope of gifting power they are granting, creating liability for the advisor if the POA is later contested or misused. The piece emphasizes the importance of precise drafting and client education around what gifting authority actually means in practice.",
-      "talking_points": [
-        "Discretionary gifting authority in POAs is often poorly understood by clients and can expose them to unintended wealth leakage or fiduciary abuse if language is vague.",
-        "Wealth managers and estate attorneys need to align the scope of gifting authority with the client's actual intent\u2014ambiguity creates post-execution disputes and liability.",
-        "This is a risk-management and compliance issue for RIAs and family offices managing client assets and estate plans."
-      ],
-      "topics": [
-        "wealth management",
-        "estate planning",
-        "fiduciary governance",
-        "compliance",
-        "client protection"
-      ],
-      "highlight": "Imprecise POA gifting language can expose principals to unintended wealth transfers and create liability for advisors if authority is later contested.",
       "relevance": 5
     }
   },
@@ -1188,7 +1119,7 @@
     "source": "Finextra",
     "section": "FIG \u2014 Specialty Finance",
     "date": "2026-07-16T00:01:00+00:00",
-    "summary_raw": "Mastercard is opening an agentic AI sandbox in the UK, to help banks and retaillers explore, test and validate use cases before introducing them into production",
+    "summary_raw": "Mastercard is opening an agentic AI sandbox in the UK, to help banks and retailers explore, test and validate use cases before introducing them into production",
     "summary_ai": {
       "digest": "Mastercard picks UK as test environment for agentic AI sandbox",
       "summary_long": "",
@@ -1250,23 +1181,6 @@
     }
   },
   {
-    "id": "700c3115e5c1",
-    "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-    "url": "https://www.ft.com/content/af8f4659-df0c-4c83-9fcc-8239714d0928",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-16T04:00:09+00:00",
-    "summary_raw": "Companies coming to market raise money at fastest pace this century, although many stocks perform poorly later",
-    "summary_ai": {
-      "digest": "Energy IPOs surge as investors hunt for ways to play AI boom",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "4dbc1b219934",
     "title": "Downing Street calls in private equity bosses amid London listing woes",
     "url": "https://www.ft.com/content/c87970fb-9308-4425-ab4a-8919b0726eab?syn-25a6b1a6=1",
@@ -1293,23 +1207,6 @@
     "summary_raw": "Once again rating agencies are the centre of systemic concerns",
     "summary_ai": {
       "digest": "The rating reforms needed to tackle private credit\u2019s vulnerabilities",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "2776000bf06f",
-    "title": "Renewed Hormuz tensions raise chances of a pricey winter",
-    "url": "https://www.ft.com/content/c5a78b59-8c1f-4ae4-90bd-a5063b7c2a7d",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-07-16T04:00:21+00:00",
-    "summary_raw": "Asia and Europe would end up competing for LNG cargoes during their cold season if market is short, pushing up prices",
-    "summary_ai": {
-      "digest": "Renewed Hormuz tensions raise chances of a pricey winter",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2874,57 +2771,6 @@
     }
   },
   {
-    "id": "862eb8345949",
-    "title": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
-    "url": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-16T17:00:00+00:00",
-    "summary_raw": "\u201cThe hood is bent, the radiator is cracked, and the front bumper is destroyed.\u201d",
-    "summary_ai": {
-      "digest": "My wife\u2019s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "fcc1759c059f",
-    "title": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?",
-    "url": "https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-16T17:00:00+00:00",
-    "summary_raw": "\u201cSince her death, her bank balance fell to $9,000 from $16,000.\u201d",
-    "summary_ai": {
-      "digest": "\u2018They cut off online access\u2019: My mother\u2019s bank balance plummeted after her death. What\u2019s going on?",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "801c422dbd8e",
-    "title": "SpaceX\u2019s Starship is set for takeoff \u2014 and its floundering stock could use the lift",
-    "url": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-16T17:01:00+00:00",
-    "summary_raw": "The megarocket\u2019s success is SpaceX\u2019s \u201csingle most important watch item,\u201d one analyst says.",
-    "summary_ai": {
-      "digest": "SpaceX\u2019s Starship is set for takeoff \u2014 and its floundering stock could use the lift",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "66cade0d9945",
     "title": "Florida's Rising Unemployment Is a Migration Story, & So Is the CRE Exposure",
     "url": "https://www.trepp.com/trepptalk/florida-rising-unemployment-cre-exposure",
@@ -2934,23 +2780,6 @@
     "summary_raw": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://www.trepp.com/trepptalk/florida-rising-unemployment-cre-exposure\" title=\"\"> <img alt=\"Florida's Rising Unemployment Is a Migration Story, &amp; So Is the CRE Exposure\" class=\"hs-featured-image\" src=\"https://www.trepp.com/hubfs/Tampa%20Skyline%20Florida%20(min).jpg\" style=\"width: auto !important; float: left; margin: 0 15px 15px 0;\" /> </a> \n</div> \n<p style=\"font-size: 18px; line-height: 1.75;\"><span style=",
     "summary_ai": {
       "digest": "Florida's Rising Unemployment Is a Migration Story, & So Is the CRE Exposure",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "7be85cf80a47",
-    "title": "Palo Alto Networks\u2019 stock has been on a tear \u2014 and it could go even higher, according to these bulls",
-    "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-16T17:42:00+00:00",
-    "summary_raw": "The company\u2019s shares have roughly doubled over the past three months, as investors have warmed to the idea that AI is increasing the need for cybersecurity products.",
-    "summary_ai": {
-      "digest": "Palo Alto Networks\u2019 stock has been on a tear \u2014 and it could go even higher, according to these bulls",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2976,23 +2805,6 @@
     }
   },
   {
-    "id": "ea6e00a6b494",
-    "title": "Most Americans don\u2019t know how to prevent dementia. Here\u2019s what you can do.",
-    "url": "https://www.marketwatch.com/story/most-americans-dont-know-how-to-prevent-dementia-heres-what-you-can-do-85fb4bfc?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-16T17:59:00+00:00",
-    "summary_raw": "\u2018Brain health is a lifelong commitment \u2014 it\u2019s never too early or too late to start\u2019",
-    "summary_ai": {
-      "digest": "Most Americans don\u2019t know how to prevent dementia. Here\u2019s what you can do.",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "41b54b02a092",
     "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
@@ -3010,23 +2822,6 @@
     }
   },
   {
-    "id": "6a27771b3767",
-    "title": "\u2018Respect is important\u2019: If my financial adviser said, \u2018Hey,\u2019 my wife and I would walk out. Where do you draw the line?",
-    "url": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-16T18:00:00+00:00",
-    "summary_raw": "\u201cI met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph.\u201d",
-    "summary_ai": {
-      "digest": "\u2018Respect is important\u2019: If my financial adviser said, \u2018Hey,\u2019 my wife and I would walk out. Where do you draw the line?",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "2d20c92c9980",
     "title": "Crypto.com valuation hits $20bn after investment from Citadel Securities",
     "url": "https://www.ft.com/content/21d76406-b5ae-409b-8120-be8a885c02fd?syn-25a6b1a6=1",
@@ -3036,23 +2831,6 @@
     "summary_raw": "Market-maker\u2019s bet on Singapore-based exchange reflects Wall Street push into digital assets and blockchain technology",
     "summary_ai": {
       "digest": "Crypto.com valuation hits $20bn after investment from Citadel Securities",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "59227a8ef4dd",
-    "title": "Micron has turned into \u2018the most important stock in the market.\u2019 So is it time to worry?",
-    "url": "https://www.marketwatch.com/story/micron-has-turned-into-the-most-important-stock-in-the-market-so-is-it-time-to-worry-71e335bf?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-16T18:01:00+00:00",
-    "summary_raw": "While investors are concerned about a memory peak, analysts say the stock still looks cheap relative to various earnings scenarios.",
-    "summary_ai": {
-      "digest": "Micron has turned into \u2018the most important stock in the market.\u2019 So is it time to worry?",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -3163,40 +2941,6 @@
     }
   },
   {
-    "id": "0bd73e56596c",
-    "title": "Trump\u2019s media company wants traders to pay to get president\u2019s market-moving social-media posts first",
-    "url": "https://www.marketwatch.com/story/trumps-media-company-wants-traders-to-pay-to-get-presidents-market-moving-social-media-posts-first-c4425210?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-16T18:35:00+00:00",
-    "summary_raw": "\u201cTruth API\u201d will be available to institutional customers starting next month.",
-    "summary_ai": {
-      "digest": "Trump\u2019s media company wants traders to pay to get president\u2019s market-moving social-media posts first",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "e2284c482fb8",
-    "title": "It\u2019s a buyer\u2019s market for bonds",
-    "url": "https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-16T18:40:00+00:00",
-    "summary_raw": "Bonds are out of fashion with big investors \u2014 which makes them an interesting investment opportunity for the rest of us.",
-    "summary_ai": {
-      "digest": "It\u2019s a buyer\u2019s market for bonds",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "7fb71465b931",
     "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
     "url": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
@@ -3248,15 +2992,15 @@
     }
   },
   {
-    "id": "a051fc94ea1a",
-    "title": "Wildfire smoke \u2018a growing cardiovascular threat\u2019 as Chicago, Detroit, NYC among world\u2019s most polluted cities today",
-    "url": "https://www.marketwatch.com/story/these-cities-are-blanketed-with-wildfire-smoke-heres-what-to-know-about-bad-air-quality-cd3a8fa7?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-16T19:30:00+00:00",
-    "summary_raw": "\u201cIt is a growing cardiovascular threat\u201d: Chicago, Detroit, Minneapolis and New York City are considered some of the world\u2019s most polluted cities Thursday.",
+    "id": "d8426aa1336c",
+    "title": "Vanguard\u2019s Rachel Aguirre: We Are Still in the Early Days of the AI Cycle",
+    "url": "https://www.wealthmanagement.com/investing-strategies/vanguard-sees-ai-driving-growth-despite-bubble-fears",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-07-16T19:59:58+00:00",
+    "summary_raw": "The company\u2019s head of product and portfolio strategy for financial advisors sees plenty of attractive opportunities for AI investment, but they may not be where advisors think.",
     "summary_ai": {
-      "digest": "Wildfire smoke \u2018a growing cardiovascular threat\u2019 as Chicago, Detroit, NYC among world\u2019s most polluted cities today",
+      "digest": "Vanguard\u2019s Rachel Aguirre: We Are Still in the Early Days of the AI Cycle",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -3265,27 +3009,275 @@
     }
   },
   {
-    "id": "50927d1fcea4",
-    "title": "My GOAT book now has updated software/AI",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/my-goat-book-now-has-updated-software-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=my-goat-book-now-has-updated-software-ai",
+    "id": "53cdcebd858b",
+    "title": "PDF Solutions to Report Second Quarter Fiscal 2026 Financial Results on August 6, 2026",
+    "url": "https://www.globenewswire.com/news-release/2026/07/16/3328775/7239/en/PDF-Solutions-to-Report-Second-Quarter-Fiscal-2026-Financial-Results-on-August-6-2026.html",
+    "source": "GlobeNewswire \u2014 Banking (press releases)",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-16T20:00:00+00:00",
+    "summary_raw": "<p>SANTA CLARA, Calif., July  16, 2026  (GLOBE NEWSWIRE) -- PDF Solutions, Inc. (Nasdaq: PDFS), a leading provider of comprehensive data solutions for the semiconductor ecosystem, announced that it will release Second quarter fiscal 2026 financial results after the market close on Thursday, August 6, 2026. John Kibarian, CEO, and Adnan Raza, CFO, will host a live teleconference on Thursday, August 6, 2026, beginning at 2:00 p.m. Pacific Time / 5:00 p.m. Eastern Time to discuss the results.</p>",
+    "summary_ai": {
+      "digest": "PDF Solutions to Report Second Quarter Fiscal 2026 Financial Results on August 6, 2026",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "52638747e1d3",
+    "title": "Should private credit be public?",
+    "url": "https://www.ft.com/content/bb109ebb-9f60-4771-a8c2-ebfdcb0b457b?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T20:00:00+00:00",
+    "summary_raw": "The case for letting investors into private markets",
+    "summary_ai": {
+      "digest": "Should private credit be public?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "1ad7ceed3f2e",
+    "title": "Governing agentic AI",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/07/governing-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=governing-agentic-ai",
     "source": "Marginal Revolution (Tyler Cowen)",
     "section": "Learn",
-    "date": "2026-07-14T20:09:02+00:00",
-    "summary_raw": "<p>Generative Book &#8211; GOAT: Who is the Greatest Economist of all Time, and Why Does it Matter?</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/my-goat-book-now-has-updated-software-ai.html\">My GOAT book now has updated software/AI</a> appeared first on <a href=\"https://marginalrevolution.com\">Marginal REVOLUTION</a>.</p>",
+    "date": "2026-07-16T20:23:55+00:00",
+    "summary_raw": "<p>From a new paper by Shruti Rajagopalan: AI agents now transact, publish, and act on external systems without contemporaneous human approval, creating new regulatory challenges. A growing literature has responded with proposals for legal personhood. This Article argues that personhood is neither necessary nor sufficient, shifting the question from status to enforcement. The Article first [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/07/governing-agen",
     "summary_ai": {
-      "digest": "Tyler Cowen has updated his 'GOAT' economics book with new software and AI features, adding interactive or generative elements to the original text.",
-      "summary_long": "Cowen is experimenting with making his economics book dynamic through software and AI integration. The update likely enables readers to explore economic ideas through interactive tools or AI-generated dialogue. This reflects a broader shift toward generative media and personalized learning experiences. For Lucius, the signal is methodological: how economists and thought leaders are adapting canonical texts to leverage AI for engagement and reach. The move sits at the intersection of content, technology, and business model evolution.",
-      "talking_points": [
-        "Leading economists are experimenting with generative AI as a distribution and engagement layer for published work\u2014not just republishing the same text.",
-        "This suggests a future where 'books' are interactive, queryable, and personalized rather than static\u2014a model that could reshape how analysts and portfolio companies think about content monetization."
-      ],
-      "topics": [
-        "ai-tools",
-        "content-distribution",
-        "business-model-innovation"
-      ],
+      "digest": "Governing agentic AI",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
       "highlight": null,
-      "relevance": 4
+      "relevance": 5
+    }
+  },
+  {
+    "id": "98a8b7eead12",
+    "title": "OCC terminates Quontic consent order",
+    "url": "https://www.bankingdive.com/news/occ-terminates-quontic-consent-order/825480/",
+    "source": "Banking Dive",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-16T20:26:23+00:00",
+    "summary_raw": "<p>Quontic CEO George Lazaridis said the bank viewed the remediation process &ldquo;as an opportunity to strengthen the foundation of our bank.&rdquo;</p>",
+    "summary_ai": {
+      "digest": "OCC terminates Quontic consent order",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "37564cc4b206",
+    "title": "My Market View and Positions Have Changed",
+    "url": "https://www.capitalflowsresearch.com/p/my-market-view-and-positions-have",
+    "source": "Capital Flows Research",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T20:39:26+00:00",
+    "summary_raw": "IMPORTANT UPDATE",
+    "summary_ai": {
+      "digest": "My Market View and Positions Have Changed",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "e48dce3267bf",
+    "title": "The U.S. stock market is looking like a rubber band ready to snap",
+    "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-looking-like-a-rubber-band-ready-to-snap-ccf8e590?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T20:42:00+00:00",
+    "summary_raw": "The S&amp;P 500 has been treading water for more than a month now, but beneath the surface of the U.S. equity market, big changes are taking shape.",
+    "summary_ai": {
+      "digest": "The U.S. stock market is looking like a rubber band ready to snap",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "2babd5580fc1",
+    "title": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+    "url": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T20:46:00+00:00",
+    "summary_raw": "\u201cWhen I pass, all my retirement income is reduced to $30,000 a year.\u201d",
+    "summary_ai": {
+      "digest": "I\u2019m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "801c422dbd8e",
+    "title": "As SpaceX\u2019s stock notches first close below IPO price, the company is gearing up for a crucial launch",
+    "url": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T20:47:00+00:00",
+    "summary_raw": "The megarocket\u2019s success is SpaceX\u2019s \u201csingle most important watch item,\u201d one analyst says.",
+    "summary_ai": {
+      "digest": "As SpaceX\u2019s stock notches first close below IPO price, the company is gearing up for a crucial launch",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "034703e8d065",
+    "title": "Netflix is getting stingier about its viewing data, and Wall Street isn\u2019t happy",
+    "url": "https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T20:49:00+00:00",
+    "summary_raw": "Netflix\u2019s stock is falling in the wake of mixed earnings and a new plan to cut back on the publication of \u2018What We Watched\u2019 reports.",
+    "summary_ai": {
+      "digest": "Netflix is getting stingier about its viewing data, and Wall Street isn\u2019t happy",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "f019baeb18fd",
+    "title": "Trump Media to sell high-speed access to president\u2019s social media posts",
+    "url": "https://www.ft.com/content/32db576f-4f53-47d2-b00c-2ad4e906952c?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T20:56:38+00:00",
+    "summary_raw": "Family company hopes large trading firms will pay for market-moving social media posts milliseconds early",
+    "summary_ai": {
+      "digest": "Trump Media to sell high-speed access to president\u2019s social media posts",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "c286e3263e87",
+    "title": "10 U.S. metro areas where builders are slashing prices on new homes",
+    "url": "https://www.marketwatch.com/story/10-u-s-metro-areas-where-builders-are-slashing-prices-on-new-homes-1eb19355?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T21:01:00+00:00",
+    "summary_raw": "Existing-home prices just hit a new record high \u2014 but there are plenty of newly built homes selling at a discount, as desperate builders cut prices.",
+    "summary_ai": {
+      "digest": "10 U.S. metro areas where builders are slashing prices on new homes",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "f5f70bda2039",
+    "title": "Semiconductor stocks are on the verge of a bear market. Is the thrill in the chips trade gone?",
+    "url": "https://www.marketwatch.com/story/semiconductor-stocks-are-on-the-verge-of-a-bear-market-is-the-thrill-in-the-chips-trade-gone-592eded7?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T21:02:00+00:00",
+    "summary_raw": "The PHLX Semiconductor Index hit a record high in late June and has since tumbled nearly 20%",
+    "summary_ai": {
+      "digest": "Semiconductor stocks are on the verge of a bear market. Is the thrill in the chips trade gone?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "570cd28bf9cd",
+    "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+    "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T21:15:00+00:00",
+    "summary_raw": "\u201cI\u2019ve just been ignoring their attempts.\u201d",
+    "summary_ai": {
+      "digest": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "7835f804d2bc",
+    "title": "You are missing the bond deal of the decade \u2014 and it is guaranteed to beat inflation",
+    "url": "https://www.marketwatch.com/story/you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflation-0f1d6cf8?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T21:17:00+00:00",
+    "summary_raw": "TIPS are offering a rare gift \u2014 and it is time to lock in a generous payout.",
+    "summary_ai": {
+      "digest": "You are missing the bond deal of the decade \u2014 and it is guaranteed to beat inflation",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "f9294441340b",
+    "title": "Alphabet\u2019s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race",
+    "url": "https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T21:32:00+00:00",
+    "summary_raw": "Alphabet shares fell more than 4% on Thursday, reflecting concerns that the Google parent company is falling further behind in the artificial-intelligence race.",
+    "summary_ai": {
+      "digest": "Alphabet\u2019s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "7dedd5ad79c5",
+    "title": "He backed Tesla and SpaceX before anyone else \u2014 here is the \u2018impossible\u2019 bet Tim Draper is making now",
+    "url": "https://www.marketwatch.com/story/he-backed-tesla-and-spacex-before-anyone-else-here-is-the-impossible-bet-he-is-making-now-025e00ef?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-16T21:45:00+00:00",
+    "summary_raw": "Veteran venture capitalist weighs in on the AI bubble and four huge opportunities he missed.",
+    "summary_ai": {
+      "digest": "He backed Tesla and SpaceX before anyone else \u2014 here is the \u2018impossible\u2019 bet Tim Draper is making now",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
     }
   },
   {
@@ -3539,27 +3531,6 @@
       ],
       "highlight": null,
       "relevance": 2
-    }
-  },
-  {
-    "id": "fe74dd8fd558",
-    "title": "Monolithic Power Systems to Report Second Quarter 2026 Results on July 30, 2026",
-    "url": "https://www.globenewswire.com/news-release/2026/07/14/3327234/0/en/Monolithic-Power-Systems-to-Report-Second-Quarter-2026-Results-on-July-30-2026.html",
-    "source": "GlobeNewswire \u2014 Banking (press releases)",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-07-14T20:01:00+00:00",
-    "summary_raw": "<p align=\"justify\">SCHAFFHAUSEN, Switzerland, July  14, 2026  (GLOBE NEWSWIRE) -- Monolithic Power Systems, Inc. (MPS) (Nasdaq: MPWR), a fabless global company that provides high-performance, semiconductor-based power electronics solutions, today announced it will report its second quarter 2026 financial results on Thursday, July 30, 2026 after the market closes. MPS will host a question-and-answer webinar at 2:00 p.m. PT / 5:00 p.m. ET on the same day to discuss the results and business outlook",
-    "summary_ai": {
-      "digest": "Monolithic Power Systems will report Q2 2026 earnings on July 30 after market close with a live Q&A call.",
-      "summary_long": "MPS, a fabless semiconductor power-electronics company listed on Nasdaq, is announcing its Q2 2026 earnings date and investor call. This is a routine earnings announcement with no deal, capital raise, M&A, or regulatory catalyst visible in the excerpt. The company operates in semiconductor design and power conversion\u2014adjacent to but not core financial services. No FIG-relevant capital event, consolidation signal, or regulatory action is disclosed.",
-      "talking_points": [
-        "Earnings call July 30 after close; no M&A, capital raise, or regulatory news in the announcement."
-      ],
-      "topics": [
-        "earnings-calendar"
-      ],
-      "highlight": null,
-      "relevance": 1
     }
   },
   {
