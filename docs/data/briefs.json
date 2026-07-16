@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Feathery Raises $30M to Develop AI Wealth Management Tools",
-        "refId": "3738fbabcbbe",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Vanguard hires ex-Barron's, ex-Fido 'thought leader' and CFP for mission impossible -- to better speak to RIAs after years of viewing third parties (and their fees) suspiciously",
         "refId": "4e8713539fa2",
         "source": "RIABiz"
@@ -36,6 +31,11 @@
         "text": "Morgan Stanley Hauled in Billions of Wealth Assets From IPOs",
         "refId": "75b2d557fb3c",
         "source": "Wealth Management"
+      },
+      {
+        "text": "The Impact of Trump\u2019s Regulatory Agenda on Charitable Giving",
+        "refId": "2c3bcafb22c9",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "UK Steps Closer to Creating \u2018Internationally Competitive\u2019 Captive Market",
-        "refId": "1e793a2d16ed",
+        "text": "New Jersey Insurance Agents Are Not Exempt From Consumer Fraud Act: High Court",
+        "refId": "7f1062eee2c6",
         "source": "Insurance Journal"
       },
       {
-        "text": "FDA Sued for Allowing Unauthorized Vaping Products",
-        "refId": "6dc4c69656d6",
+        "text": "Florida Regulators Mulling New Rules on Market Conduct Exams, Reporting",
+        "refId": "64e0fdadfaa6",
         "source": "Insurance Journal"
       },
       {
-        "text": "PG&E Says Power Shutoffs Required in California on Wildfire Risk",
-        "refId": "cdeed7a5c2ac",
+        "text": "Progressive Q2 2026 Net Income Up 4%",
+        "refId": "cb5438f8d895",
         "source": "Insurance Journal"
       }
     ]
@@ -63,19 +63,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stripe and Advent table bid for PayPal",
-        "refId": "4852ecc23d28",
-        "source": "Finextra"
-      },
-      {
-        "text": "CalSTRS and Nuveen strike $2bn strategic partnership for debt fund and \u2018adjacent opportunities\u2019",
-        "refId": "73ebed75d936",
-        "source": "Private Debt Investor"
-      },
-      {
         "text": "The Data Behind \u201cProject Kodak\u201d: How CMBS Office Performance is Bifurcating",
         "refId": "b97bd07435c1",
         "source": "Trepp Talk"
+      },
+      {
+        "text": "Revenue financing fintech Float raises \u20ac4.5 million",
+        "refId": "cf4833d4357d",
+        "source": "Finextra"
+      },
+      {
+        "text": "UC Berkeley professor: 'Things are getting weird', even Mitch McConnell photos aren't being trusted",
+        "refId": "36c8c19e90f1",
+        "source": "Finextra"
       }
     ]
   },
@@ -108,13 +108,13 @@
         "source": "Financial Times Markets"
       },
       {
-        "text": "U.S. Workers Are More Productive Than Ever. A.I. Isn\u2019t the Key.",
-        "refId": "498b11c62b56",
+        "text": "Big Banks Smash Earnings Records, but \u2018Tectonic\u2019 Risks Loom",
+        "refId": "32ef0b9fd2d2",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Paramount vs. the States",
-        "refId": "a0dca73f0e61",
+        "text": "War Risk for Businesses Will Mean Higher Prices No Matter What Happens",
+        "refId": "b6da1e224b7e",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -172,52 +172,52 @@
         "source": "Banking Dive"
       },
       {
-        "text": "Stripe and Advent table bid for PayPal",
-        "refId": "4852ecc23d28",
-        "source": "Finextra"
-      },
-      {
         "text": "\u2018We\u2019re still near the beginning\u2019: Blackstone\u2019s new EMEA wealth head on the next wave of growth",
         "refId": "5a93284b568d",
         "source": "Private Equity International"
+      },
+      {
+        "text": "How PayPal may benefit Stripe",
+        "refId": "b35a42bc4ea5",
+        "source": "Banking Dive"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7572.4,
-      "base": 7515.34,
+      "v": 7560.92,
+      "base": 7543.59,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26269.227,
-      "base": 25873.18,
+      "v": 26061.672,
+      "base": 26107.01,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52658.64,
-      "base": 52498.64,
+      "v": 52795.84,
+      "base": 52508.27,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.545,
-      "base": 4.585,
+      "v": 4.588,
+      "base": 4.545,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.17,
+      "v": 15.86,
       "base": 15.67,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 191.836,
-      "base": 186.98,
+      "v": 192.5492,
+      "base": 188.94,
       "bp": false
     }
   ]
