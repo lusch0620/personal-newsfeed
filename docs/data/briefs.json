@@ -8,13 +8,13 @@
         "source": "CNBC Finance"
       },
       {
-        "text": "Custodia petitions Supreme Court over Fed access",
-        "refId": "bbee30f396f2",
-        "source": "Banking Dive"
-      },
-      {
         "text": "Micron Announces Participation in Investor Event",
         "refId": "c9cd479d6de2",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Skyworks Sets Date for Third Quarter Fiscal 2026 Earnings Release and Conference Call",
+        "refId": "f7ef02855ad1",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "\u2018Self-liquidating\u2019 helps Arctos make a $6.2bn GP financing debut",
-        "refId": "a9714760018b",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "Blue Sea Capital launches a fourth fund, eyeing a smaller target",
         "refId": "b0173b428104",
         "source": "Buyouts Insider"
@@ -96,6 +91,11 @@
         "text": "How the top LPs benchmark their PE investments",
         "refId": "38f098c54dfd",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Behind EQT\u2019s VC continuation fund: HarbourVest leads \u20ac526m vehicle",
+        "refId": "759cee168170",
+        "source": "Secondaries Investor"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Those new service sector jobs",
-        "refId": "e177abb25e99",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "My excellent Conversation with Chase Koch",
         "refId": "6e242ccc843d",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -159,6 +154,11 @@
       {
         "text": "Spreading AI to the rest of the world",
         "refId": "465691668185",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The Equal Pay Madness Just Got Madder",
+        "refId": "bed71f186c56",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -177,46 +177,46 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Custodia petitions Supreme Court over Fed access",
-        "refId": "bbee30f396f2",
-        "source": "Banking Dive"
+        "text": "Micron Announces Participation in Investor Event",
+        "refId": "c9cd479d6de2",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7470.62,
+      "v": 7462.23,
       "base": 7572.4,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25595.61,
+      "v": 25552.97,
       "base": 26269.23,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52257.85,
+      "v": 52177.92,
       "base": 52658.64,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.545,
+      "v": 4.541,
       "base": 4.569,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.02,
+      "v": 18.61,
       "base": 16.73,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 189.2023,
+      "v": 188.8645,
       "base": 191.84,
       "bp": false
     }
