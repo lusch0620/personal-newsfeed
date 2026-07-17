@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Vanguard hires ex-Barron's, ex-Fido 'thought leader' and CFP for mission impossible -- to better speak to RIAs after years of viewing third parties (and their fees) suspiciously",
-        "refId": "4e8713539fa2",
-        "source": "RIABiz"
-      },
-      {
-        "text": "The Retirement Plan Advisor as Plan Architect",
-        "refId": "9dda6896eccc",
+        "text": "Wells Fargo, Morgan Stanley Boast Q2 Wealth Revenue Jumps",
+        "refId": "14ad6274576f",
         "source": "Wealth Management"
       },
       {
-        "text": "Wells Fargo, Morgan Stanley Boast Q2 Wealth Revenue Jumps",
-        "refId": "14ad6274576f",
+        "text": "American Beacon, Mercer Launch Model Portfolios",
+        "refId": "a4ca1b6300ac",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "AI 'Arms Race' Starting Up in RIA Sector",
+        "refId": "6aa96ca79044",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China Sends Robots Into the World to Learn How to Be Human",
-        "refId": "c3d86a2bccb2",
+        "text": "New York Approves 22% Workers\u2019 Compensation Cost Reduction",
+        "refId": "98283653427d",
         "source": "Insurance Journal"
       },
       {
-        "text": "Michigan AI Data Center Project Sparks Debate Over Farmland Protection",
-        "refId": "e4429181be2c",
+        "text": "Americans Are Angry About Data Centers and Politicians Are Feeling the Pressure",
+        "refId": "af9049da32f0",
         "source": "Insurance Journal"
       },
       {
-        "text": "People Moves: IMT Adds Hanraads and Cook to Global Risk & Benefits Practice",
-        "refId": "d61533f7d424",
+        "text": "White House Unveils AI Clearinghouse for Cybersecurity Risks",
+        "refId": "150af1e2e3f3",
         "source": "Insurance Journal"
       }
     ]
@@ -108,14 +108,14 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "IBM\u2019s Stock Crash Reignites Fears of A.I. Disruption in Software Sector",
-        "refId": "1ca189b70321",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "The Re-Industrialization Of The USA Powerhouse",
         "refId": "dcec3b04b749",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "Anthropic Inches Toward a Mega-I.P.O.",
+        "refId": "ae8c0d47dcad",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -172,13 +172,13 @@
         "source": "Banking Dive"
       },
       {
-        "text": "Vanguard hires ex-Barron's, ex-Fido 'thought leader' and CFP for mission impossible -- to better speak to RIAs after years of viewing third parties (and their fees) suspiciously",
-        "refId": "4e8713539fa2",
-        "source": "RIABiz"
-      },
-      {
         "text": "Citi flags potential for more severance this year",
         "refId": "71a4e6e56c81",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "NC\u2019s First Bank to buy SC lender for $166M",
+        "refId": "3729c77dedf5",
         "source": "Banking Dive"
       }
     ]
@@ -186,38 +186,38 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7533.77,
-      "base": 7543.59,
+      "v": 7492.92,
+      "base": 7572.4,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25881.947,
-      "base": 26107.01,
+      "v": 25577.984,
+      "base": 26269.23,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52552.97,
-      "base": 52508.27,
+      "v": 52576.13,
+      "base": 52658.64,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.569,
-      "base": 4.545,
+      "v": 4.523,
+      "base": 4.569,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.08,
+      "v": 17.91,
       "base": 16.73,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 191.7292,
-      "base": 188.94,
+      "v": 191.036,
+      "base": 191.84,
       "bp": false
     }
   ]
