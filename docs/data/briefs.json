@@ -8,14 +8,14 @@
         "source": "CNBC Finance"
       },
       {
-        "text": "Micron Announces Participation in Investor Event",
-        "refId": "c9cd479d6de2",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Wells Fargo debuts AI-powered teammate for financial advisers",
+        "refId": "f59ef357f920",
+        "source": "Banking Dive"
       },
       {
-        "text": "Skyworks Sets Date for Third Quarter Fiscal 2026 Earnings Release and Conference Call",
-        "refId": "f7ef02855ad1",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Stocks making the biggest moves premarket: UnitedHealth, TSMC, GE Aerospace, J.B. Hunt & more",
+        "refId": "ae48de7014ec",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -63,30 +63,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Credit manager Serone launches buyout secondaries strategy",
-        "refId": "fc37d66b97b0",
-        "source": "Private Debt Investor"
-      },
-      {
-        "text": "Sagard reaches half its $2bn target in first close on third vintage",
-        "refId": "d53c40539553",
-        "source": "Private Debt Investor"
-      },
-      {
         "text": "Loan Note: Credit dominates Goldman fundraising numbers; Oaktree strikes a real estate partnership",
         "refId": "b9cacf561953",
         "source": "Private Debt Investor"
+      },
+      {
+        "text": "Oaktree adds quartet for new Asia private credit strategy",
+        "refId": "d636d56287db",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "Finance and tech firms unite around Internet payments protocol x402",
+        "refId": "16eb3f52ce81",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Blue Sea Capital launches a fourth fund, eyeing a smaller target",
-        "refId": "b0173b428104",
-        "source": "Buyouts Insider"
-      },
       {
         "text": "How the top LPs benchmark their PE investments",
         "refId": "38f098c54dfd",
@@ -95,6 +90,11 @@
       {
         "text": "Behind EQT\u2019s VC continuation fund: HarbourVest leads \u20ac526m vehicle",
         "refId": "759cee168170",
+        "source": "Secondaries Investor"
+      },
+      {
+        "text": "A rising tide for real estate secondaries",
+        "refId": "85e7c004bfcb",
         "source": "Secondaries Investor"
       }
     ]
@@ -177,28 +177,28 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Micron Announces Participation in Investor Event",
-        "refId": "c9cd479d6de2",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "The Re-Industrialization Of The USA Powerhouse",
+        "refId": "dcec3b04b749",
+        "source": "Capital Flows Research"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7462.23,
+      "v": 7457.69,
       "base": 7572.4,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25552.97,
+      "v": 25520.244,
       "base": 26269.23,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52177.92,
+      "v": 52146.42,
       "base": 52658.64,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 18.61,
+      "v": 18.77,
       "base": 16.73,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.8645,
+      "v": 188.8633,
       "base": 191.84,
       "bp": false
     }
