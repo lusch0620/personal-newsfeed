@@ -3,30 +3,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
-        "refId": "2c86fedcda5c",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
-        "refId": "d7429402aff0",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush",
         "refId": "cf252b46b71f",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Custodia petitions Supreme Court over Fed access",
+        "refId": "bbee30f396f2",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Micron Announces Participation in Investor Event",
+        "refId": "c9cd479d6de2",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "RIA Buyers Predict Valuations to Flatline in Second Half of 2026",
-        "refId": "8fcb8a6a3f21",
-        "source": "Wealth Management"
-      },
       {
         "text": "The Diamond Podcast for Financial Advisors: From Golf Pro to $5B Family Office Partner",
         "refId": "46cac7f73388",
@@ -36,12 +31,22 @@
         "text": "Your Culture Shouldn\u2019t Stay the Same as You Grow\u2014But It Should Stay Yours",
         "refId": "7ab34f744963",
         "source": "Wealth Management"
+      },
+      {
+        "text": "Schwab: Client Referrals, Hiring Lead RIA Priority List in 2026",
+        "refId": "6bb8e7a58307",
+        "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
+      {
+        "text": "Marsh survey finds insurers remain keen on private credit despite growing caution over risks",
+        "refId": "b431fc94ac70",
+        "source": "Reinsurance News"
+      },
       {
         "text": "Aon expands Vlad Bobko\u2019s leadership role across political risk, war risk and crisis management",
         "refId": "2b7606dec250",
@@ -51,22 +56,12 @@
         "text": "Travelers continues positive performance in Q2\u201926 as underwriting and investment portfolio shine",
         "refId": "ef4416dcb867",
         "source": "Reinsurance News"
-      },
-      {
-        "text": "SeyRe Global promotes Dinesh Salgadu to COO",
-        "refId": "2007a9c6d117",
-        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Bay Area pension scrapped private credit plans amid worsening risk-return profile",
-        "refId": "5d24e5d8dd7e",
-        "source": "Private Debt Investor"
-      },
       {
         "text": "Credit manager Serone launches buyout secondaries strategy",
         "refId": "fc37d66b97b0",
@@ -75,6 +70,11 @@
       {
         "text": "Sagard reaches half its $2bn target in first close on third vintage",
         "refId": "d53c40539553",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "Loan Note: Credit dominates Goldman fundraising numbers; Oaktree strikes a real estate partnership",
+        "refId": "b9cacf561953",
         "source": "Private Debt Investor"
       }
     ]
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
-        "refId": "2c86fedcda5c",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
-        "refId": "d7429402aff0",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Star analyst Dan Ives forms Yorkville Ives merchant bank after leaving Wedbush",
         "refId": "cf252b46b71f",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "War Risk for Businesses Will Mean Higher Prices No Matter What Happens",
+        "refId": "b6da1e224b7e",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Custodia petitions Supreme Court over Fed access",
+        "refId": "bbee30f396f2",
+        "source": "Banking Dive"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7476.65,
+      "v": 7470.62,
       "base": 7572.4,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25547.969,
+      "v": 25595.61,
       "base": 26269.23,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52402.81,
+      "v": 52257.85,
       "base": 52658.64,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.537,
+      "v": 4.545,
       "base": 4.569,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.07,
+      "v": 18.02,
       "base": 16.73,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 190.0026,
+      "v": 189.2023,
       "base": 191.84,
       "bp": false
     }
