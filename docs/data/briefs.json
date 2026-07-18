@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-        "refId": "41b54b02a092",
-        "source": "Federal Reserve Press Releases"
-      },
-      {
-        "text": "Short sellers load up against SpaceX as stock drops below IPO price",
-        "refId": "71d9d462d23d",
+        "text": "India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
+        "refId": "004c23850aa2",
         "source": "CNBC Finance"
       },
       {
-        "text": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
-        "refId": "7fb71465b931",
+        "text": "Stocks making the biggest moves premarket: Netflix, SpaceX, Alphabet and more",
+        "refId": "21c414ef7767",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Democrats slam Vought over CFPB \u2018trauma\u2019",
+        "refId": "56d1adb51541",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Five First-Year Lessons from the Industry\u2019s Biggest Breakaway",
-        "refId": "8b83c4c72da5",
+        "text": "Advisor Sentiment Index: Advisors See a Cloudier Economic Future",
+        "refId": "2eb8ce15bda1",
         "source": "Wealth Management"
       },
       {
-        "text": "OneDigital Draws $1.8B Wealth Team from IBD Cetera",
-        "refId": "49d7cda54147",
+        "text": "Deals &amp; Moves: Wealth Enhancement Lands Investment, Wealth Teams Overseeing $993M",
+        "refId": "a22f2c984b3d",
         "source": "Wealth Management"
       },
       {
-        "text": "Vanguard\u2019s Rachel Aguirre: We Are Still in the Early Days of the AI Cycle",
-        "refId": "d8426aa1336c",
+        "text": "Zephyr's Adjusted for Risk: How to Lead M&amp;A with Strategic Growth in Mind",
+        "refId": "4738aa9650f5",
         "source": "Wealth Management"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The next stage in CRE loans post rate shock",
-        "refId": "2d1844727df3",
-        "source": "Private Debt Investor"
-      },
-      {
-        "text": "Visa launches stablecoin platform",
-        "refId": "cd63671ffb2a",
+        "text": "HSBC joins digital gilt pilot as investor depository",
+        "refId": "217ad7232331",
         "source": "Finextra"
       },
       {
-        "text": "HSBC joins digital gilt pilot as investor depository",
-        "refId": "217ad7232331",
+        "text": "Mastercard rolls out service to help developers build mobile wallets",
+        "refId": "ca776ba2861a",
+        "source": "Finextra"
+      },
+      {
+        "text": "H1 global fintech funding grows 23% YoY",
+        "refId": "534f1c2ed0b2",
         "source": "Finextra"
       }
     ]
@@ -83,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Trive Capital sells HIP services provider Kittyhawk",
-        "refId": "53bd90b2735a",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Avathon-backed Summit acquires health-focused continuing education provider Kids Bowel & Bladder",
-        "refId": "33cab676babc",
-        "source": "PE Hub"
-      },
-      {
         "text": "Charterhouse Capital Partners to acquire French building maintenance group Batibig",
         "refId": "c51fdeaba40c",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Charterhouse to acquire emergency building repairs biz; Arrow Global, AnaCap, Mutares bet on properties",
+        "refId": "76913470f162",
+        "source": "PE Hub"
+      },
+      {
+        "text": "PE targets ambulance and medical transport services: 5 deals",
+        "refId": "e72728315be9",
         "source": "PE Hub"
       }
     ]
@@ -103,18 +103,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "War Risk for Businesses Will Mean Higher Prices No Matter What Happens",
-        "refId": "b6da1e224b7e",
+        "text": "A New Blow to Tracking Gun Sales",
+        "refId": "ad0492a62478",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "My Market View and Positions Have Changed",
-        "refId": "37564cc4b206",
-        "source": "Capital Flows Research"
+        "text": "EU set to delay fines for breaking methane rules after US pressure",
+        "refId": "de894a45f417",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "A New Blow to Tracking Gun Sales",
-        "refId": "ad0492a62478",
+        "text": "Poolhouse, a Tech-Infused Pool Hall Start-up, Raises $55 Million",
+        "refId": "b9500e894757",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Governing agentic AI",
-        "refId": "1ad7ceed3f2e",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Book Review: \"Power and Progress\"",
         "refId": "e16629deaafe",
         "source": "Noahpinion (Noah Smith)"
@@ -160,6 +155,11 @@
         "text": "The future belongs to AI maniacs",
         "refId": "eee555518657",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Why crime will decline in (most of) Brazil",
+        "refId": "c964099ba9d4",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "War Risk for Businesses Will Mean Higher Prices No Matter What Happens",
-        "refId": "b6da1e224b7e",
-        "source": "Dealbook (NYT)"
+        "text": "HSBC joins digital gilt pilot as investor depository",
+        "refId": "217ad7232331",
+        "source": "Finextra"
       },
       {
-        "text": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-        "refId": "41b54b02a092",
-        "source": "Federal Reserve Press Releases"
+        "text": "Mastercard rolls out service to help developers build mobile wallets",
+        "refId": "ca776ba2861a",
+        "source": "Finextra"
       },
       {
-        "text": "Five First-Year Lessons from the Industry\u2019s Biggest Breakaway",
-        "refId": "8b83c4c72da5",
-        "source": "Wealth Management"
+        "text": "H1 global fintech funding grows 23% YoY",
+        "refId": "534f1c2ed0b2",
+        "source": "Finextra"
       }
     ]
   },
