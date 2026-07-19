@@ -35,14 +35,8 @@
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Muted CRE Bank Lending Is a Large-Bank Story",
-        "refId": "b6f6e2c927b1",
-        "source": "Trepp Talk"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -52,18 +46,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Moneysupermarket to launch investment platform",
-        "refId": "f47fa878e20b",
+        "text": "The Momentum Trade Unwind and Carry Trade Risks",
+        "refId": "8d159da2331f",
+        "source": "Capital Flows Research"
+      },
+      {
+        "text": "Martin Wolf: the next crash \u2014 why this time might not be different",
+        "refId": "64ed86db790a",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Stocks Sink on Anxiety About Tech and A.I. Spending",
-        "refId": "fb4439b733e9",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Apple briefly leapfrogs Nvidia as world\u2019s most valuable company",
-        "refId": "44da117e4e94",
+        "text": "Oil \u2018wildcatter\u2019 who cracked Alaska looks to Venezuela for repeat success",
+        "refId": "55784a526031",
         "source": "Financial Times Markets"
       }
     ]
@@ -111,19 +105,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Muted CRE Bank Lending Is a Large-Bank Story",
-        "refId": "b6f6e2c927b1",
-        "source": "Trepp Talk"
+        "text": "AI Model Prices Are Falling At The Worst Moment For The U.S. Frontier Labs",
+        "refId": "9564d92aa79f",
+        "source": "Big Technology (Alex Kantrowitz)"
       },
       {
-        "text": "Moneysupermarket to launch investment platform",
-        "refId": "f47fa878e20b",
-        "source": "Financial Times Markets"
+        "text": "The Momentum Trade Unwind and Carry Trade Risks",
+        "refId": "8d159da2331f",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Stocks Sink on Anxiety About Tech and A.I. Spending",
-        "refId": "fb4439b733e9",
-        "source": "Dealbook (NYT)"
+        "text": "*The Odyssey*, the movie (no real spoilers)",
+        "refId": "fbe93b1f6f51",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
