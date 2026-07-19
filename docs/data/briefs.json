@@ -1,112 +1,56 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "SOITEC - HALF-YEAR STATEMENT ON THE IMPLEMENTATION OF THE LIQUIDITY CONTRACT AS OF JUNE 30, 2026",
-        "refId": "e2402c4ae0cd",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+        "refId": "0b97aaa6d1d0",
+        "source": "CNBC Finance"
       },
       {
-        "text": "SOITEC - BILAN SEMESTRIEL DE MISE EN \u0152UVRE DU CONTRAT DE LIQUIDITE AU 30 JUIN 2026",
-        "refId": "c5ce1282c7d1",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "State AGs blow whistle on OppFi, Enova deals",
-        "refId": "bb6412af9e2d",
-        "source": "Banking Dive"
+        "text": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
+        "refId": "61e4eda48fab",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "4 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "A Believer\u2019s Guide to Buying Gold Now",
-        "refId": "bf58dfab0f67",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "WealthStack Roundup: Wells Fargo Rolls Out AI Teammate for Advisors",
-        "refId": "933c76f7a879",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Q&amp;A: How a 12-Year Succession Plan Helped HB Wealth Grow",
-        "refId": "e8ce364015e0",
-        "source": "Wealth Management"
+        "text": "Schwab and Fidelity beat Goldman Sachs to the punch on long/short fund sorcery for RIAs, but the vampire squid is back with  its own offer -- a possible one-up",
+        "refId": "333ee43f3240",
+        "source": "RIABiz"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "New York Sues 3M, DuPont, Other Firms for Funding of PFAS Cleanup",
-        "refId": "5dddc54f5074",
+        "text": "Iran Renews Attacks on Gulf States After Another Night of US strikes",
+        "refId": "a705fbf608aa",
         "source": "Insurance Journal"
-      },
-      {
-        "text": "Rhine Rises After Rain, but Low Levels Continue to Hinder Shipping",
-        "refId": "3efa3bb9c3d0",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Santam Re appoints Izabela Stofberg as CUO",
-        "refId": "2aafa2a096b9",
-        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "PayPal board considers $53bn Stripe-Advent offer inadequate - Reuters",
-        "refId": "93e58021e2de",
-        "source": "Finextra"
-      },
-      {
-        "text": "Trump Media to sell traders instant access to market moving Truth Social posts",
-        "refId": "4db4462f573e",
-        "source": "Finextra"
-      },
-      {
-        "text": "FIS and Anthropic extend partnership",
-        "refId": "b40031074e4a",
-        "source": "Finextra"
+        "text": "Muted CRE Bank Lending Is a Large-Bank Story",
+        "refId": "b6f6e2c927b1",
+        "source": "Trepp Talk"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "3 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Percheron-backed Big Brand Tire & Service to acquire automotive service firm Belle Tire",
-        "refId": "bd00b3239a73",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Granite Creek promotes Pete Pacelli to managing director",
-        "refId": "42201c634c2a",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Borgman invests in concrete production equipment distributor CMW",
-        "refId": "8e45800a9bec",
-        "source": "PE Hub"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Poolhouse, a Tech-Infused Pool Hall Start-up, Raises $55 Million",
-        "refId": "b9500e894757",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "Moneysupermarket to launch investment platform",
         "refId": "f47fa878e20b",
@@ -116,17 +60,17 @@
         "text": "Stocks Sink on Anxiety About Tech and A.I. Spending",
         "refId": "fb4439b733e9",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Apple briefly leapfrogs Nvidia as world\u2019s most valuable company",
+        "refId": "44da117e4e94",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "4 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Ranking Last in Estate Planning, Gen X Risks Unforeseen Consequences",
-        "refId": "f11bc4660e5f",
-        "source": "The Daily Upside"
-      },
       {
         "text": "\u2018Love Is Inflation-Proof\u2019: Americans Shrug Off Record-High Wedding Costs",
         "refId": "537658c4e7c2",
@@ -147,18 +91,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Cataloging Growth: A Re-Evaluation of 1900\u20131990",
-        "refId": "b85ccae346bd",
+        "text": "AI Model Prices Are Falling At The Worst Moment For The U.S. Frontier Labs",
+        "refId": "9564d92aa79f",
+        "source": "Big Technology (Alex Kantrowitz)"
+      },
+      {
+        "text": "*The Odyssey*, the movie (no real spoilers)",
+        "refId": "fbe93b1f6f51",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "2026.29: Mainframes and Main Characters",
-        "refId": "faffd7f7883f",
-        "source": "Stratechery (Ben Thompson)"
-      },
-      {
-        "text": "Friday assorted links",
-        "refId": "5a1662e32bc8",
+        "text": "The small business boom",
+        "refId": "12c4ecaa482b",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -167,19 +111,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "New York Sues 3M, DuPont, Other Firms for Funding of PFAS Cleanup",
-        "refId": "5dddc54f5074",
-        "source": "Insurance Journal"
+        "text": "Muted CRE Bank Lending Is a Large-Bank Story",
+        "refId": "b6f6e2c927b1",
+        "source": "Trepp Talk"
       },
       {
-        "text": "Rhine Rises After Rain, but Low Levels Continue to Hinder Shipping",
-        "refId": "3efa3bb9c3d0",
-        "source": "Insurance Journal"
+        "text": "Moneysupermarket to launch investment platform",
+        "refId": "f47fa878e20b",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Santam Re appoints Izabela Stofberg as CUO",
-        "refId": "2aafa2a096b9",
-        "source": "Reinsurance News"
+        "text": "Stocks Sink on Anxiety About Tech and A.I. Spending",
+        "refId": "fb4439b733e9",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -216,7 +160,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 188.8633,
+      "v": 188.863,
       "base": 191.84,
       "bp": false
     }
