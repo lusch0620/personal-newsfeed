@@ -1,6 +1,6 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
@@ -10,6 +10,11 @@
       {
         "text": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
         "refId": "61e4eda48fab",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "China's car market heads for worst year since 2021 as sales plunge 20%",
+        "refId": "2d48558ce42b",
         "source": "CNBC Finance"
       }
     ]
@@ -25,50 +30,81 @@
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Iran Renews Attacks on Gulf States After Another Night of US strikes",
-        "refId": "a705fbf608aa",
-        "source": "Insurance Journal"
-      },
       {
         "text": "Federal Appeals Court Rules New Jersey\u2019s Assault Weapons Ban Is Unconstitutional",
         "refId": "0e428c3b51d8",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Sightseeing Helicopter Likely Hit Birds Before Crashing Into Hudson River",
+        "refId": "caaec91e371a",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Tropical Storm Watches Posted Across Florida\u2019s Panhandle Region",
+        "refId": "5a688685715e",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Lumin Digital raises $70 million from its clients",
         "refId": "5bcc8c817454",
         "source": "Finextra"
+      },
+      {
+        "text": "Georgia's five largest banks to modernise treasury operations with Nasdaq Calypso",
+        "refId": "f7d9b2c6be43",
+        "source": "Finextra"
+      },
+      {
+        "text": "Stablecoin infrastructure startup Cyclops raises $20 million",
+        "refId": "58ecf479c41f",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Private funds face ongoing regulatory pressure, says McDermott Will & Schulte",
+        "refId": "dcbab7d97920",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "CVC DIF to acquire medical waste business EcoEridania",
+        "refId": "64026f9cc1c0",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Exclusive: Peak Rock to test buyout market for private-label food company Berner, sources say",
+        "refId": "e22c25b215a6",
+        "source": "PE Hub"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Land of the Waning Sun",
-        "refId": "65d170a03b6d",
-        "source": "Doomberg"
+        "text": "Weekend Intelligence Brief: The Depth Of Field",
+        "refId": "a88cd877a6d9",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Chips are nearly five times as volatile as the broader market",
-        "refId": "7b2c9440525e",
-        "source": "Financial Times Markets"
+        "text": "America Caught World Cup Fever. His Job Is to Capitalize on It.",
+        "refId": "1995b49a55ee",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Traders are increasingly betting against SpaceX just weeks after IPO",
-        "refId": "0e90cc8ee4d8",
+        "text": "US day traders flock to \u2018the most dangerous product in crypto\u2019",
+        "refId": "198bb3ff0225",
         "source": "Financial Times Markets"
       }
     ]
@@ -101,18 +137,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What should I ask Luis Garicano?",
-        "refId": "2e7d350cb616",
+        "text": "Saturday assorted links",
+        "refId": "f8e68de62fe5",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "America's political economy is pretty bleak right now",
-        "refId": "2578d9ec9897",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Anthropic Raised $580M With No Product. Here Is the Deck",
+        "refId": "558af402ed04",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "Trial Lawyers Lobby Against Autonomous Vehicles",
-        "refId": "ea3cb73d4824",
+        "text": "How does social media change people?",
+        "refId": "ac149233eb73",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -121,19 +157,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What should I ask Luis Garicano?",
-        "refId": "2e7d350cb616",
+        "text": "Saturday assorted links",
+        "refId": "f8e68de62fe5",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Land of the Waning Sun",
-        "refId": "65d170a03b6d",
-        "source": "Doomberg"
+        "text": "Schwab and Fidelity beat Goldman Sachs to the punch on long/short fund sorcery for RIAs, but the vampire squid is back with  its own offer -- a possible one-up",
+        "refId": "333ee43f3240",
+        "source": "RIABiz"
       },
       {
-        "text": "Chips are nearly five times as volatile as the broader market",
-        "refId": "7b2c9440525e",
-        "source": "Financial Times Markets"
+        "text": "Anthropic Raised $580M With No Product. Here Is the Deck",
+        "refId": "558af402ed04",
+        "source": "The AI Corner (Ruben Dominguez)"
       }
     ]
   },
@@ -158,14 +194,14 @@
     },
     {
       "nm": "US 10Y",
-      "v": 4.541,
-      "base": 4.569,
+      "v": 4.564,
+      "base": 4.541,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.77,
-      "base": 16.73,
+      "v": 18.17,
+      "base": 18.77,
       "bp": false
     },
     {
