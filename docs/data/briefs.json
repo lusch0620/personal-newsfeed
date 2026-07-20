@@ -25,18 +25,29 @@
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "1 story in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
         "text": "Iran Renews Attacks on Gulf States After Another Night of US strikes",
         "refId": "a705fbf608aa",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "Federal Appeals Court Rules New Jersey\u2019s Assault Weapons Ban Is Unconstitutional",
+        "refId": "0e428c3b51d8",
+        "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "1 story in this lane today.",
+    "bullets": [
+      {
+        "text": "Lumin Digital raises $70 million from its clients",
+        "refId": "5bcc8c817454",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -46,24 +57,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Momentum Trade Unwind and Carry Trade Risks",
-        "refId": "8d159da2331f",
-        "source": "Capital Flows Research"
+        "text": "Land of the Waning Sun",
+        "refId": "65d170a03b6d",
+        "source": "Doomberg"
       },
       {
-        "text": "Martin Wolf: the next crash \u2014 why this time might not be different",
-        "refId": "64ed86db790a",
+        "text": "Chips are nearly five times as volatile as the broader market",
+        "refId": "7b2c9440525e",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Oil \u2018wildcatter\u2019 who cracked Alaska looks to Venezuela for repeat success",
-        "refId": "55784a526031",
+        "text": "Traders are increasingly betting against SpaceX just weeks after IPO",
+        "refId": "0e90cc8ee4d8",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "\u2018Love Is Inflation-Proof\u2019: Americans Shrug Off Record-High Wedding Costs",
@@ -73,6 +84,11 @@
       {
         "text": "REIT Bargains Still Exist If You Know Where to Look",
         "refId": "9b716332f0dd",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Bearish Investors Give Elon Musk the Boot From Trillionaire Club",
+        "refId": "a7a5ffe9bc01",
         "source": "The Daily Upside"
       }
     ]
@@ -85,18 +101,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AI Model Prices Are Falling At The Worst Moment For The U.S. Frontier Labs",
-        "refId": "9564d92aa79f",
-        "source": "Big Technology (Alex Kantrowitz)"
-      },
-      {
-        "text": "*The Odyssey*, the movie (no real spoilers)",
-        "refId": "fbe93b1f6f51",
+        "text": "What should I ask Luis Garicano?",
+        "refId": "2e7d350cb616",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The small business boom",
-        "refId": "12c4ecaa482b",
+        "text": "America's political economy is pretty bleak right now",
+        "refId": "2578d9ec9897",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Trial Lawyers Lobby Against Autonomous Vehicles",
+        "refId": "ea3cb73d4824",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -105,19 +121,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AI Model Prices Are Falling At The Worst Moment For The U.S. Frontier Labs",
-        "refId": "9564d92aa79f",
-        "source": "Big Technology (Alex Kantrowitz)"
-      },
-      {
-        "text": "The Momentum Trade Unwind and Carry Trade Risks",
-        "refId": "8d159da2331f",
-        "source": "Capital Flows Research"
-      },
-      {
-        "text": "*The Odyssey*, the movie (no real spoilers)",
-        "refId": "fbe93b1f6f51",
+        "text": "What should I ask Luis Garicano?",
+        "refId": "2e7d350cb616",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Land of the Waning Sun",
+        "refId": "65d170a03b6d",
+        "source": "Doomberg"
+      },
+      {
+        "text": "Chips are nearly five times as volatile as the broader market",
+        "refId": "7b2c9440525e",
+        "source": "Financial Times Markets"
       }
     ]
   },
