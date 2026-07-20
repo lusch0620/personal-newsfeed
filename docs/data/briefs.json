@@ -20,12 +20,22 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "1 story in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Schwab and Fidelity beat Goldman Sachs to the punch on long/short fund sorcery for RIAs, but the vampire squid is back with  its own offer -- a possible one-up",
-        "refId": "333ee43f3240",
-        "source": "RIABiz"
+        "text": "Dual-Class ETFs, Mutual Funds Could Reshape 401(k) Landscape",
+        "refId": "4763b95bf51e",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Cetera CEO Sees Succession Planning Momentum in RIA Channel",
+        "refId": "7e04e432171c",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Zephyr's Adjusted for Risk: How to Identify Winning Opportunities in a Bond Picker's Market",
+        "refId": "020edc4b9a2a",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -33,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Federal Appeals Court Rules New Jersey\u2019s Assault Weapons Ban Is Unconstitutional",
-        "refId": "0e428c3b51d8",
+        "text": "UK Financial Services Firms Sharpen Staff Scrutiny as New Misconduct Regime Looms",
+        "refId": "572b5be06204",
         "source": "Insurance Journal"
       },
       {
-        "text": "Sightseeing Helicopter Likely Hit Birds Before Crashing Into Hudson River",
-        "refId": "caaec91e371a",
-        "source": "Insurance Journal"
+        "text": "Gallagher Re appoints Sisouda Dayre as Operations Director, APAC",
+        "refId": "b8d5e7f8f86d",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Tropical Storm Watches Posted Across Florida\u2019s Panhandle Region",
-        "refId": "5a688685715e",
-        "source": "Insurance Journal"
+        "text": "Aon names Liang as Executive Chairman of Reinsurance, Greater China",
+        "refId": "24938c3428b5",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -63,8 +73,8 @@
         "source": "Finextra"
       },
       {
-        "text": "Stablecoin infrastructure startup Cyclops raises $20 million",
-        "refId": "58ecf479c41f",
+        "text": "HSBC joins EPAA agentic AI working group as founding member",
+        "refId": "d105a2e129d8",
         "source": "Finextra"
       }
     ]
@@ -78,13 +88,13 @@
         "source": "Private Equity International"
       },
       {
-        "text": "CVC DIF to acquire medical waste business EcoEridania",
-        "refId": "64026f9cc1c0",
+        "text": "Wind Point-backed Assisi Pet Care acquires Forthglade from IK Partners",
+        "refId": "7cb7d71dac67",
         "source": "PE Hub"
       },
       {
-        "text": "Exclusive: Peak Rock to test buyout market for private-label food company Berner, sources say",
-        "refId": "e22c25b215a6",
+        "text": "Bain Capital to acquire European supply chain platform SupplyOn",
+        "refId": "426212949b39",
         "source": "PE Hub"
       }
     ]
@@ -137,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Saturday assorted links",
-        "refId": "f8e68de62fe5",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Anthropic Raised $580M With No Product. Here Is the Deck",
         "refId": "558af402ed04",
         "source": "The AI Corner (Ruben Dominguez)"
@@ -150,6 +155,11 @@
         "text": "How does social media change people?",
         "refId": "ac149233eb73",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Cross-ethnic casting",
+        "refId": "1163ee677b52",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -157,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Saturday assorted links",
-        "refId": "f8e68de62fe5",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Schwab and Fidelity beat Goldman Sachs to the punch on long/short fund sorcery for RIAs, but the vampire squid is back with  its own offer -- a possible one-up",
-        "refId": "333ee43f3240",
-        "source": "RIABiz"
-      },
-      {
         "text": "Anthropic Raised $580M With No Product. Here Is the Deck",
         "refId": "558af402ed04",
         "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+        "refId": "0b97aaa6d1d0",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Weekend Intelligence Brief: The Depth Of Field",
+        "refId": "a88cd877a6d9",
+        "source": "Capital Flows Research"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7457.69,
-      "base": 7572.4,
+      "v": 7492.92,
+      "base": 7533.77,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25520.244,
-      "base": 26269.23,
+      "v": 25747.666,
+      "base": 25881.95,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52146.42,
-      "base": 52658.64,
+      "v": 52071.35,
+      "base": 52552.97,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.564,
+      "v": 4.594,
       "base": 4.541,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.17,
+      "v": 17.65,
       "base": 18.77,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.863,
-      "base": 191.84,
+      "v": 187.654,
+      "base": 191.73,
       "bp": false
     }
   ]
