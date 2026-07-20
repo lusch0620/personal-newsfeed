@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-        "refId": "0b97aaa6d1d0",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
         "refId": "61e4eda48fab",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "China's car market heads for worst year since 2021 as sales plunge 20%",
         "refId": "2d48558ce42b",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "The future of banking growth is decision intelligence",
+        "refId": "12008b10da50",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -88,13 +88,13 @@
         "source": "Private Equity International"
       },
       {
-        "text": "Wind Point-backed Assisi Pet Care acquires Forthglade from IK Partners",
-        "refId": "7cb7d71dac67",
+        "text": "Bain Capital to acquire European supply chain platform SupplyOn",
+        "refId": "426212949b39",
         "source": "PE Hub"
       },
       {
-        "text": "Bain Capital to acquire European supply chain platform SupplyOn",
-        "refId": "426212949b39",
+        "text": "Greenbelt invests Bowe & Gant Electrical Services",
+        "refId": "8d3823118c74",
         "source": "PE Hub"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropic Raised $580M With No Product. Here Is the Deck",
-        "refId": "558af402ed04",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "How does social media change people?",
         "refId": "ac149233eb73",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Cross-ethnic casting",
         "refId": "1163ee677b52",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Building luxury homes is good for the poor",
+        "refId": "51ebe7b39695",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropic Raised $580M With No Product. Here Is the Deck",
-        "refId": "558af402ed04",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-        "refId": "0b97aaa6d1d0",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Weekend Intelligence Brief: The Depth Of Field",
         "refId": "a88cd877a6d9",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "America Caught World Cup Fever. His Job Is to Capitalize on It.",
+        "refId": "1995b49a55ee",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "\u2018Love Is Inflation-Proof\u2019: Americans Shrug Off Record-High Wedding Costs",
+        "refId": "537658c4e7c2",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7492.92,
+      "v": 7454.16,
       "base": 7533.77,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25747.666,
+      "v": 25570.135,
       "base": 25881.95,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52071.35,
+      "v": 51843.37,
       "base": 52552.97,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.594,
+      "v": 4.6,
       "base": 4.541,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.65,
+      "v": 18.05,
       "base": 18.77,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.654,
+      "v": 186.9488,
       "base": 191.73,
       "bp": false
     }
