@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Dual-Class ETFs, Mutual Funds Could Reshape 401(k) Landscape",
-        "refId": "4763b95bf51e",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Cetera CEO Sees Succession Planning Momentum in RIA Channel",
-        "refId": "7e04e432171c",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Zephyr's Adjusted for Risk: How to Identify Winning Opportunities in a Bond Picker's Market",
         "refId": "020edc4b9a2a",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Miami Is Losing Its Claim to a Cheaper Cost of Living Than NYC",
+        "refId": "e4877f5c27d3",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Trump Accounts Bring Windfall for Babies\u2014and Also This One Fund",
+        "refId": "db6854b94f97",
         "source": "Wealth Management"
       }
     ]
@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Cyclosporiasis Cases in Michigan Climb Above 6,000, State Health Officials Say",
-        "refId": "310a232b3985",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "People Moves: MacLean Named VP, Head of Surety at Frankenmuth",
         "refId": "ba62cdfb9105",
         "source": "Insurance Journal"
@@ -55,6 +50,11 @@
       {
         "text": "Insurance Woes Amid US-Iran War Stall Airlines\u2019 Return to Dubai",
         "refId": "82ceb88f7940",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Red Sea War Insurance Costs Rise After Houthi Blockade, Sources Say",
+        "refId": "ff5f24a06342",
         "source": "Insurance Journal"
       }
     ]
@@ -108,13 +108,13 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Oil touches $90 after Iran hits tankers",
-        "refId": "061ebfb5436e",
-        "source": "Financial Times Markets"
+        "text": "U.S. Inflation Is Not Really Slowing",
+        "refId": "7dfb6cfe5310",
+        "source": "The Overshoot (Matthew Klein)"
       },
       {
-        "text": "US probes insurers owned by billionaire Mark Walter over asset disclosures",
-        "refId": "2134b3ab2686",
+        "text": "London Stock Exchange plans to launch round-the-clock trading next year",
+        "refId": "29ea2ba9c841",
         "source": "Financial Times Markets"
       }
     ]
@@ -147,18 +147,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "a80eb13f03b1",
+        "text": "Markets in everything?",
+        "refId": "8dff052c12c6",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "China just open-sourced Opus-level intelligence. Here is the playbook",
-        "refId": "774e4c2d63eb",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "Emergent Ventures winners, 56th cohort",
+        "refId": "2febde374cfc",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Markets in everything?",
-        "refId": "8dff052c12c6",
+        "text": "Democrats are more politically segregated than are Republicans",
+        "refId": "15cb1277994e",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "a80eb13f03b1",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "China just open-sourced Opus-level intelligence. Here is the playbook",
-        "refId": "774e4c2d63eb",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Markets in everything?",
         "refId": "8dff052c12c6",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Lumin Digital raises $70 million from its clients",
+        "refId": "5bcc8c817454",
+        "source": "Finextra"
+      },
+      {
+        "text": "Bearish Investors Give Elon Musk the Boot From Trillionaire Club",
+        "refId": "a7a5ffe9bc01",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7509.39,
+      "v": 7509.84,
       "base": 7457.69,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25847.61,
+      "v": 25865.082,
       "base": 25520.24,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52266.15,
+      "v": 52224.31,
       "base": 52146.42,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.626,
+      "v": 4.63,
       "base": 4.598,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.21,
+      "v": 17.05,
       "base": 18.65,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.5107,
+      "v": 188.4084,
       "base": 188.86,
       "bp": false
     }
