@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
-        "refId": "61e4eda48fab",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "China's car market heads for worst year since 2021 as sales plunge 20%",
         "refId": "2d48558ce42b",
         "source": "CNBC Finance"
@@ -15,6 +10,11 @@
       {
         "text": "The future of banking growth is decision intelligence",
         "refId": "12008b10da50",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "From legacy to leading edge: DXC CoreIgnite bridges the banking innovation gap",
+        "refId": "48549377a90d",
         "source": "Banking Dive"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "New York City Braces for Heavy Rain Tuesday After Weekend Floods",
-        "refId": "9db0c47fd7e3",
+        "text": "Berry Producer Driscoll\u2019s Sued Over Alleged Greenwashing, Use of Forever Chemicals",
+        "refId": "9e6703e415cd",
         "source": "Insurance Journal"
       },
       {
-        "text": "Models Stripped of Insurance Cover for Club\u2019s Unauthorized Use of Their Images",
-        "refId": "f2d74898ff7a",
+        "text": "Texas Heat to Challenge State Grid\u2019s Power Demand Record",
+        "refId": "5d744e4553bf",
         "source": "Insurance Journal"
       },
       {
-        "text": "Rokstone to launch specialist Autotransporter solution backed by Lloyd\u2019s capacity",
-        "refId": "a60b99a33cb7",
-        "source": "Reinsurance News"
+        "text": "Cyclosporiasis Cases in Michigan Climb Above 6,000, State Health Officials Say",
+        "refId": "310a232b3985",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Known worries and unknown unknowns \ud83d\ude2c",
-        "refId": "ed6b4cdff83e",
-        "source": "TKer (Sam Ro)"
-      },
-      {
         "text": "American A.I. Giants Like Alphabet Face Fresh Tests",
         "refId": "635f0bd50372",
         "source": "Dealbook (NYT)"
@@ -115,6 +110,11 @@
       {
         "text": "Oil touches $90 after Iran hits tankers",
         "refId": "061ebfb5436e",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "US probes insurers owned by billionaire Mark Walter over asset disclosures",
+        "refId": "2134b3ab2686",
         "source": "Financial Times Markets"
       }
     ]
@@ -167,18 +167,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
-        "refId": "61e4eda48fab",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Known worries and unknown unknowns \ud83d\ude2c",
-        "refId": "ed6b4cdff83e",
-        "source": "TKer (Sam Ro)"
-      },
-      {
         "text": "Sunday assorted links",
         "refId": "a80eb13f03b1",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "China just open-sourced Opus-level intelligence. Here is the playbook",
+        "refId": "774e4c2d63eb",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Markets in everything?",
+        "refId": "8dff052c12c6",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -186,38 +186,38 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7443.28,
-      "base": 7533.77,
+      "v": 7491.55,
+      "base": 7457.69,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25508.072,
-      "base": 25881.95,
+      "v": 25791.521,
+      "base": 25520.24,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51839.26,
-      "base": 52552.97,
+      "v": 52087.64,
+      "base": 52146.42,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.598,
+      "v": 4.626,
       "base": 4.598,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.79,
+      "v": 17.48,
       "base": 18.65,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.9239,
-      "base": 191.73,
+      "v": 187.5541,
+      "base": 188.86,
       "bp": false
     }
   ]
