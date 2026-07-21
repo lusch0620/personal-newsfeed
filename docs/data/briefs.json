@@ -8,13 +8,13 @@
         "source": "CNBC Finance"
       },
       {
-        "text": "The future of banking growth is decision intelligence",
-        "refId": "12008b10da50",
+        "text": "From legacy to leading edge: DXC CoreIgnite bridges the banking innovation gap",
+        "refId": "48549377a90d",
         "source": "Banking Dive"
       },
       {
-        "text": "From legacy to leading edge: DXC CoreIgnite bridges the banking innovation gap",
-        "refId": "48549377a90d",
+        "text": "The future of banking growth is decision intelligence",
+        "refId": "12008b10da50",
         "source": "Banking Dive"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Berry Producer Driscoll\u2019s Sued Over Alleged Greenwashing, Use of Forever Chemicals",
-        "refId": "9e6703e415cd",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Texas Heat to Challenge State Grid\u2019s Power Demand Record",
-        "refId": "5d744e4553bf",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Cyclosporiasis Cases in Michigan Climb Above 6,000, State Health Officials Say",
         "refId": "310a232b3985",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "People Moves: MacLean Named VP, Head of Surety at Frankenmuth",
+        "refId": "ba62cdfb9105",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Insurance Woes Amid US-Iran War Stall Airlines\u2019 Return to Dubai",
+        "refId": "82ceb88f7940",
         "source": "Insurance Journal"
       }
     ]
@@ -88,7 +88,7 @@
         "source": "Private Equity International"
       },
       {
-        "text": "KPS Asia unit eyes Japan take-privates, carve-outs",
+        "text": "KPS Asia unit eyes Japan take-privates, carve-outs \u2013 updated",
         "refId": "3c3fdf9802cc",
         "source": "Private Equity International"
       },
@@ -186,19 +186,19 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7491.55,
+      "v": 7509.39,
       "base": 7457.69,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25791.521,
+      "v": 25847.61,
       "base": 25520.24,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52087.64,
+      "v": 52266.15,
       "base": 52146.42,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 17.48,
+      "v": 17.21,
       "base": 18.65,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.5541,
+      "v": 188.5107,
       "base": 188.86,
       "bp": false
     }
