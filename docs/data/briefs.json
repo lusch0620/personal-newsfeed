@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Zephyr's Adjusted for Risk: How to Identify Winning Opportunities in a Bond Picker's Market",
-        "refId": "020edc4b9a2a",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Miami Is Losing Its Claim to a Cheaper Cost of Living Than NYC",
-        "refId": "e4877f5c27d3",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Trump Accounts Bring Windfall for Babies\u2014and Also This One Fund",
         "refId": "db6854b94f97",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Americans Pull Back on Retirement Savings as Everyday Expenses Climb",
+        "refId": "4069f78adcf4",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "The Role of the Financial Controller",
+        "refId": "2122a55133ab",
         "source": "Wealth Management"
       }
     ]
@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "People Moves: MacLean Named VP, Head of Surety at Frankenmuth",
-        "refId": "ba62cdfb9105",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Insurance Woes Amid US-Iran War Stall Airlines\u2019 Return to Dubai",
         "refId": "82ceb88f7940",
         "source": "Insurance Journal"
@@ -55,6 +50,11 @@
       {
         "text": "Red Sea War Insurance Costs Rise After Houthi Blockade, Sources Say",
         "refId": "ff5f24a06342",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Rising Professional Boxer Killed in Texas Bicycle Incident",
+        "refId": "3203fe061f37",
         "source": "Insurance Journal"
       }
     ]
@@ -113,9 +113,9 @@
         "source": "The Overshoot (Matthew Klein)"
       },
       {
-        "text": "London Stock Exchange plans to launch round-the-clock trading next year",
-        "refId": "29ea2ba9c841",
-        "source": "Financial Times Markets"
+        "text": "How Close Are We To A Cliff In Equities?",
+        "refId": "d62e95882f91",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Markets in everything?",
-        "refId": "8dff052c12c6",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Emergent Ventures winners, 56th cohort",
         "refId": "2febde374cfc",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,17 +155,17 @@
         "text": "Democrats are more politically segregated than are Republicans",
         "refId": "15cb1277994e",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The UK is a cautionary tale for the U.S.",
+        "refId": "aa567764f974",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Markets in everything?",
-        "refId": "8dff052c12c6",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "Lumin Digital raises $70 million from its clients",
         "refId": "5bcc8c817454",
@@ -180,43 +175,48 @@
         "text": "Bearish Investors Give Elon Musk the Boot From Trillionaire Club",
         "refId": "a7a5ffe9bc01",
         "source": "The Daily Upside"
+      },
+      {
+        "text": "Battered Energy Markets Brace for Second Wartime Disruption",
+        "refId": "fd17bbaa8849",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7509.84,
+      "v": 7509.2,
       "base": 7457.69,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25865.082,
+      "v": 25837.207,
       "base": 25520.24,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52224.31,
+      "v": 52224.64,
       "base": 52146.42,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.63,
+      "v": 4.628,
       "base": 4.598,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.05,
+      "v": 16.91,
       "base": 18.65,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.4084,
+      "v": 188.7532,
       "base": 188.86,
       "bp": false
     }
