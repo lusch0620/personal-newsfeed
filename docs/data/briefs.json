@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves midday: AMD, Archer Aviation, SpaceX, Iren & more",
-        "refId": "e101a582ab34",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Citizens to exit agreements with CoreCivic, GEO",
         "refId": "536aa43c711b",
         "source": "Banking Dive"
@@ -16,6 +11,11 @@
         "text": "Capital One bet big on Discover. Now it must prove the gamble was worth it",
         "refId": "ec9bb21a5910",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Ex-CFO sentenced to 36-month prison term for $4.3M loan scheme",
+        "refId": "b18ed51cec7c",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -23,19 +23,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Schwab and Fidelity beat Goldman Sachs to the punch on long/short fund sorcery for RIAs, but the vampire squid is back with  its own offer -- a possible one-up",
-        "refId": "333ee43f3240",
+        "text": "LPL gets blasted by upstart co-founder for its Commonwealth staff slash as its CEO Wayne Bloom expresses 'melancholy' over the cuts but stands by sale to LPL -- 'sustainability' is paramount, he says",
+        "refId": "31de14fb1048",
         "source": "RIABiz"
       },
       {
-        "text": "13 Investment Must Reads for This Week (July 21, 2026)",
-        "refId": "86715c68bb69",
+        "text": "Interpreting PPLI Illustrations",
+        "refId": "563845f368d7",
         "source": "Wealth Management"
       },
       {
-        "text": "Elevated Markets and the Investor Dilemma",
-        "refId": "0b2317941548",
-        "source": "Wealth Management"
+        "text": "Rick Wurster discloses sweeping Schwab plan to flip up to 31% of its self-directed book of business into its RIA, Schwab Wealth Advisory, calling house retail clients 'unmatched conversion funnel'",
+        "refId": "ee29c6e60ac0",
+        "source": "RIABiz"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Insurer Interest in AI Exclusions Growing as Risk Becomes Omnipresent",
-        "refId": "7e1f3280dc3a",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Texas Flood Destroyed 135 Homes in Kerr County, Governor Says",
-        "refId": "2459824474a0",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Families of Men Switched at Birth Sue North Dakota Hospital",
         "refId": "1affa094c8d7",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "CRM Software for Insurance Vs. AMS",
+        "refId": "dae316c52d8e",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Lloyd\u2019s of London Says Former CEO Neal Breached Compliance Rules",
+        "refId": "a71e855b576a",
         "source": "Insurance Journal"
       }
     ]
@@ -68,13 +68,13 @@
         "source": "Trepp Talk"
       },
       {
-        "text": "Affirm to provide installment payments for Amazon Business customers",
-        "refId": "e8ff195b748d",
+        "text": "Ant International raises $1.2 billion in Series A round",
+        "refId": "1bd3f6836990",
         "source": "Finextra"
       },
       {
-        "text": "Ant International raises $1.2 billion in Series A round",
-        "refId": "1bd3f6836990",
+        "text": "Bank of Ireland hires Citigroup's Prag Sharma as chief AI officer",
+        "refId": "4442d6cbae2b",
         "source": "Finextra"
       }
     ]
@@ -83,19 +83,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Side Letter: Tech trepidation",
-        "refId": "99366beaad43",
+        "text": "Investor Intentions: WRS issues RFP for investment consulting services",
+        "refId": "77c3ae3f3089",
         "source": "Private Equity International"
       },
       {
-        "text": "Private real estate rides the recap wave",
-        "refId": "3dde64e53ae5",
+        "text": "Download: Secondaries fundraising surpasses $50bn in first half",
+        "refId": "0ad2110793d3",
         "source": "Secondaries Investor"
       },
       {
-        "text": "DOWNLOAD: Private equity fundraising grows to three-year high in H1",
-        "refId": "29740c598e77",
-        "source": "Buyouts Insider"
+        "text": "Clipway soars past target to reach $6.4bn for debut fund",
+        "refId": "2ee65e628b99",
+        "source": "Secondaries Investor"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Side Letter: Tech trepidation",
-        "refId": "99366beaad43",
-        "source": "Private Equity International"
+        "text": "Citizens to exit agreements with CoreCivic, GEO",
+        "refId": "536aa43c711b",
+        "source": "Banking Dive"
       },
       {
-        "text": "Private real estate rides the recap wave",
-        "refId": "3dde64e53ae5",
-        "source": "Secondaries Investor"
+        "text": "Monday assorted links",
+        "refId": "cced942ad94f",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Stocks making the biggest moves midday: AMD, Archer Aviation, SpaceX, Iren & more",
-        "refId": "e101a582ab34",
-        "source": "CNBC Finance"
+        "text": "Everything You Need to Know About Kimi K3, the Latest Model From China to Shake Up AI",
+        "refId": "e6b322d2842b",
+        "source": "Big Technology (Alex Kantrowitz)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7499.41,
+      "v": 7522.63,
       "base": 7443.28,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25720.44,
+      "v": 25833.994,
       "base": 25508.07,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52272.19,
+      "v": 52393.1,
       "base": 51839.26,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.657,
+      "v": 4.646,
       "base": 4.628,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.25,
+      "v": 16.77,
       "base": 17.05,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.1733,
+      "v": 189.1243,
       "base": 186.92,
       "bp": false
     }
