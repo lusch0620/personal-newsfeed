@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Citizens to exit agreements with CoreCivic, GEO",
-        "refId": "536aa43c711b",
-        "source": "Banking Dive"
-      },
-      {
         "text": "Capital One bet big on Discover. Now it must prove the gamble was worth it",
         "refId": "ec9bb21a5910",
         "source": "CNBC Finance"
       },
       {
-        "text": "Ex-CFO sentenced to 36-month prison term for $4.3M loan scheme",
-        "refId": "b18ed51cec7c",
-        "source": "Banking Dive"
+        "text": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+        "refId": "ec1dc38423fe",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Dragonfly Energy Appoints Transportation Industry Veteran Robert Keller to Lead National Fleet Sales",
+        "refId": "a07d2fc3405a",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -28,25 +28,20 @@
         "source": "RIABiz"
       },
       {
-        "text": "Interpreting PPLI Illustrations",
-        "refId": "563845f368d7",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Rick Wurster discloses sweeping Schwab plan to flip up to 31% of its self-directed book of business into its RIA, Schwab Wealth Advisory, calling house retail clients 'unmatched conversion funnel'",
         "refId": "ee29c6e60ac0",
         "source": "RIABiz"
+      },
+      {
+        "text": "Tips From the Pros: Reacting to a Client\u2019s Use of AI Means Never Having to Say You\u2019re Sorry",
+        "refId": "6c0730976afd",
+        "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Families of Men Switched at Birth Sue North Dakota Hospital",
-        "refId": "1affa094c8d7",
-        "source": "Insurance Journal"
-      },
       {
         "text": "CRM Software for Insurance Vs. AMS",
         "refId": "dae316c52d8e",
@@ -56,17 +51,17 @@
         "text": "Lloyd\u2019s of London Says Former CEO Neal Breached Compliance Rules",
         "refId": "a71e855b576a",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "EU Insurance Regulator Demands Long-Term View From Private Equity Buyers",
+        "refId": "02a2c5f281ea",
+        "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Consumer Spending Question is a Financing Question",
-        "refId": "284d9308cad6",
-        "source": "Trepp Talk"
-      },
       {
         "text": "Ant International raises $1.2 billion in Series A round",
         "refId": "1bd3f6836990",
@@ -75,6 +70,11 @@
       {
         "text": "Bank of Ireland hires Citigroup's Prag Sharma as chief AI officer",
         "refId": "4442d6cbae2b",
+        "source": "Finextra"
+      },
+      {
+        "text": "Revolut secures Australian banking licence",
+        "refId": "85e27c12e936",
         "source": "Finextra"
       }
     ]
@@ -147,18 +147,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Monday assorted links",
-        "refId": "cced942ad94f",
+        "text": "Words of wisdom on Chinese AI and our responses",
+        "refId": "601ffff110d6",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Everything You Need to Know About Kimi K3, the Latest Model From China to Shake Up AI",
-        "refId": "e6b322d2842b",
-        "source": "Big Technology (Alex Kantrowitz)"
+        "text": "Is America ruled by an oligarchy?",
+        "refId": "fb922adaa01f",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Words of wisdom on Chinese AI and our responses",
-        "refId": "601ffff110d6",
+        "text": "The economic effects of GLP-1s",
+        "refId": "b366ca57ffa5",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Citizens to exit agreements with CoreCivic, GEO",
-        "refId": "536aa43c711b",
-        "source": "Banking Dive"
+        "text": "Capital One bet big on Discover. Now it must prove the gamble was worth it",
+        "refId": "ec9bb21a5910",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Monday assorted links",
-        "refId": "cced942ad94f",
+        "text": "Words of wisdom on Chinese AI and our responses",
+        "refId": "601ffff110d6",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Everything You Need to Know About Kimi K3, the Latest Model From China to Shake Up AI",
-        "refId": "e6b322d2842b",
-        "source": "Big Technology (Alex Kantrowitz)"
+        "text": "U.S. Inflation Is Not Really Slowing",
+        "refId": "7dfb6cfe5310",
+        "source": "The Overshoot (Matthew Klein)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7522.63,
+      "v": 7508.26,
       "base": 7443.28,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25833.994,
+      "v": 25745.982,
       "base": 25508.07,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52393.1,
+      "v": 52295.33,
       "base": 51839.26,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.646,
+      "v": 4.654,
       "base": 4.628,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.77,
+      "v": 16.81,
       "base": 17.05,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 189.1243,
+      "v": 188.9602,
       "base": 186.92,
       "bp": false
     }
