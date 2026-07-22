@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Capital One bet big on Discover. Now it must prove the gamble was worth it",
-        "refId": "ec9bb21a5910",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
         "refId": "ec1dc38423fe",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "Dragonfly Energy Appoints Transportation Industry Veteran Robert Keller to Lead National Fleet Sales",
         "refId": "a07d2fc3405a",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: General Motors, 3M, Novartis, Nebius & more",
+        "refId": "25c8cf28d5b1",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -33,8 +33,8 @@
         "source": "RIABiz"
       },
       {
-        "text": "Tips From the Pros: Reacting to a Client\u2019s Use of AI Means Never Having to Say You\u2019re Sorry",
-        "refId": "6c0730976afd",
+        "text": "Using Excess GST Tax Exemption Before It\u2019s Lost",
+        "refId": "4155b8125b85",
         "source": "Wealth Management"
       }
     ]
@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "CRM Software for Insurance Vs. AMS",
-        "refId": "dae316c52d8e",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Lloyd\u2019s of London Says Former CEO Neal Breached Compliance Rules",
         "refId": "a71e855b576a",
         "source": "Insurance Journal"
@@ -55,6 +50,11 @@
       {
         "text": "EU Insurance Regulator Demands Long-Term View From Private Equity Buyers",
         "refId": "02a2c5f281ea",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Three Tankers Carrying Saudi Crude Make U-Turns in Red Sea After Houthi Warning",
+        "refId": "1a165fe77001",
         "source": "Insurance Journal"
       }
     ]
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Capital One bet big on Discover. Now it must prove the gamble was worth it",
-        "refId": "ec9bb21a5910",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Words of wisdom on Chinese AI and our responses",
         "refId": "601ffff110d6",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -180,31 +175,36 @@
         "text": "U.S. Inflation Is Not Really Slowing",
         "refId": "7dfb6cfe5310",
         "source": "The Overshoot (Matthew Klein)"
+      },
+      {
+        "text": "How Close Are We To A Cliff In Equities?",
+        "refId": "d62e95882f91",
+        "source": "Capital Flows Research"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7508.26,
+      "v": 7498.96,
       "base": 7443.28,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25745.982,
+      "v": 25690.902,
       "base": 25508.07,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52295.33,
+      "v": 52218.58,
       "base": 51839.26,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.654,
+      "v": 4.657,
       "base": 4.628,
       "bp": true
     },
@@ -216,7 +216,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 188.9602,
+      "v": 189.2516,
       "base": 186.92,
       "bp": false
     }
