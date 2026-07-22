@@ -43,30 +43,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Lloyd\u2019s governance overhaul accelerates after investigation finds former CEO\u2019s conduct fell below leadership standards",
-        "refId": "a4c6f3c3edcb",
-        "source": "Reinsurance News"
+        "text": "Lloyd\u2019s of London Says Former CEO Neal Breached Compliance Rules",
+        "refId": "a71e855b576a",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Re/insurers seek more advanced PVT risk models for data centres: Synthetik\u2019s Tim Brewer",
-        "refId": "6f0d81793cbb",
-        "source": "Reinsurance News"
+        "text": "EU Insurance Regulator Demands Long-Term View From Private Equity Buyers",
+        "refId": "02a2c5f281ea",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Bousselam promoted to CUO of TransRe Europe",
-        "refId": "5b496e2aecc9",
-        "source": "Reinsurance News"
+        "text": "Three Tankers Carrying Saudi Crude Make U-Turns in Red Sea After Houthi Warning",
+        "refId": "1a165fe77001",
+        "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Ant International raises $1.2 billion in Series A round",
-        "refId": "1bd3f6836990",
-        "source": "Finextra"
-      },
       {
         "text": "Bank of Ireland hires Citigroup's Prag Sharma as chief AI officer",
         "refId": "4442d6cbae2b",
@@ -76,6 +71,11 @@
         "text": "Revolut secures Australian banking licence",
         "refId": "85e27c12e936",
         "source": "Finextra"
+      },
+      {
+        "text": "Investor Intentions: SJCERA issues request for proposal for investment consulting",
+        "refId": "5cec6ba93ac2",
+        "source": "Private Debt Investor"
       }
     ]
   },
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "U.S. Inflation Is Not Really Slowing",
-        "refId": "7dfb6cfe5310",
-        "source": "The Overshoot (Matthew Klein)"
-      },
-      {
         "text": "How Close Are We To A Cliff In Equities?",
         "refId": "d62e95882f91",
         "source": "Capital Flows Research"
@@ -115,6 +110,11 @@
       {
         "text": "A New Blow to Tracking Gun Sales",
         "refId": "ad0492a62478",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Will the U.S. and China Build Walls Around A.I.?",
+        "refId": "dabd43cd7b75",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "U.S. Inflation Is Not Really Slowing",
-        "refId": "7dfb6cfe5310",
-        "source": "The Overshoot (Matthew Klein)"
-      },
-      {
         "text": "How Close Are We To A Cliff In Equities?",
         "refId": "d62e95882f91",
         "source": "Capital Flows Research"
@@ -179,6 +174,11 @@
       {
         "text": "AMC\u2019s \u2018Odyssey\u2019 Toward Epic Comeback",
         "refId": "25366d455ad4",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Electric Aircraft Outshine Boeing, Airbus Deals as Farnborough Air Show Kicks Off",
+        "refId": "c16c22e90d38",
         "source": "The Daily Upside"
       }
     ]
