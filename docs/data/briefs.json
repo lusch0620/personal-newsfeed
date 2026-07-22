@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Coinbase trading results may fall short of expectations, according to prediction markets",
-        "refId": "293abb4439a4",
+        "text": "Stocks making the biggest moves midday: AMD, Archer Aviation, SpaceX, Iren & more",
+        "refId": "e101a582ab34",
         "source": "CNBC Finance"
       },
       {
-        "text": "Microsoft to Deploy Next-Gen AMD Instinct and AMD EPYC Processors as the Companies Expand Their Long-Term Strategic Partnership",
-        "refId": "fe9869b8810b",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Citizens to exit agreements with CoreCivic, GEO",
+        "refId": "536aa43c711b",
+        "source": "Banking Dive"
       },
       {
-        "text": "Stocks making the biggest moves premarket: AMD, SpaceX, Domino's Pizza, Alibaba & more",
-        "refId": "fa8634dba924",
+        "text": "Capital One bet big on Discover. Now it must prove the gamble was worth it",
+        "refId": "ec9bb21a5910",
         "source": "CNBC Finance"
       }
     ]
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Americans Pull Back on Retirement Savings as Everyday Expenses Climb",
-        "refId": "4069f78adcf4",
+        "text": "Schwab and Fidelity beat Goldman Sachs to the punch on long/short fund sorcery for RIAs, but the vampire squid is back with  its own offer -- a possible one-up",
+        "refId": "333ee43f3240",
+        "source": "RIABiz"
+      },
+      {
+        "text": "13 Investment Must Reads for This Week (July 21, 2026)",
+        "refId": "86715c68bb69",
         "source": "Wealth Management"
       },
       {
-        "text": "The Role of the Financial Controller",
-        "refId": "2122a55133ab",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "How Do You Advise Children Whose Parents Have Already Won?",
-        "refId": "9e2bcd58df28",
+        "text": "Elevated Markets and the Investor Dilemma",
+        "refId": "0b2317941548",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Report: Arizona Vehicle Thefts Continued to Decline in First Half of Year",
-        "refId": "f5b35caacf65",
+        "text": "Insurer Interest in AI Exclusions Growing as Risk Becomes Omnipresent",
+        "refId": "7e1f3280dc3a",
         "source": "Insurance Journal"
       },
       {
-        "text": "Hybrids Boom as EVs Fall Out of Favor Even in California",
-        "refId": "86ccfa74e5ae",
+        "text": "Texas Flood Destroyed 135 Homes in Kerr County, Governor Says",
+        "refId": "2459824474a0",
         "source": "Insurance Journal"
       },
       {
-        "text": "Trump Administration Probing Harvard\u2019s Financial Aid for International Students",
-        "refId": "751009c65b34",
+        "text": "Families of Men Switched at Birth Sue North Dakota Hospital",
+        "refId": "1affa094c8d7",
         "source": "Insurance Journal"
       }
     ]
@@ -62,11 +62,6 @@
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Chief Economist's Weekly Watch \u2013 July 20 2026: Regional Bank and Consumer Lender Earnings, & Housing & Business Activity",
-        "refId": "24484fb60194",
-        "source": "Trepp Talk"
-      },
       {
         "text": "The Consumer Spending Question is a Financing Question",
         "refId": "284d9308cad6",
@@ -76,6 +71,11 @@
         "text": "Affirm to provide installment payments for Amazon Business customers",
         "refId": "e8ff195b748d",
         "source": "Finextra"
+      },
+      {
+        "text": "Ant International raises $1.2 billion in Series A round",
+        "refId": "1bd3f6836990",
+        "source": "Finextra"
       }
     ]
   },
@@ -83,30 +83,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "KPS Asia unit eyes Japan take-privates, carve-outs \u2013 updated",
-        "refId": "3c3fdf9802cc",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Investor Intentions: SJCERA issues request for proposal for investment consulting",
-        "refId": "ba9a3d4fbd55",
-        "source": "Private Equity International"
-      },
-      {
         "text": "Side Letter: Tech trepidation",
         "refId": "99366beaad43",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Private real estate rides the recap wave",
+        "refId": "3dde64e53ae5",
+        "source": "Secondaries Investor"
+      },
+      {
+        "text": "DOWNLOAD: Private equity fundraising grows to three-year high in H1",
+        "refId": "29740c598e77",
+        "source": "Buyouts Insider"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "American A.I. Giants Like Alphabet Face Fresh Tests",
-        "refId": "635f0bd50372",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "U.S. Inflation Is Not Really Slowing",
         "refId": "7dfb6cfe5310",
@@ -116,6 +111,11 @@
         "text": "How Close Are We To A Cliff In Equities?",
         "refId": "d62e95882f91",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "A New Blow to Tracking Gun Sales",
+        "refId": "ad0492a62478",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Perplexity's Founder Found AGI Risk in a 2,000-Year-Old Epic",
-        "refId": "c8e657fc6164",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Monday assorted links",
         "refId": "cced942ad94f",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Everything You Need to Know About Kimi K3, the Latest Model From China to Shake Up AI",
         "refId": "e6b322d2842b",
         "source": "Big Technology (Alex Kantrowitz)"
+      },
+      {
+        "text": "Words of wisdom on Chinese AI and our responses",
+        "refId": "601ffff110d6",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "American A.I. Giants Like Alphabet Face Fresh Tests",
-        "refId": "635f0bd50372",
-        "source": "Dealbook (NYT)"
+        "text": "Side Letter: Tech trepidation",
+        "refId": "99366beaad43",
+        "source": "Private Equity International"
       },
       {
-        "text": "Coinbase trading results may fall short of expectations, according to prediction markets",
-        "refId": "293abb4439a4",
+        "text": "Private real estate rides the recap wave",
+        "refId": "3dde64e53ae5",
+        "source": "Secondaries Investor"
+      },
+      {
+        "text": "Stocks making the biggest moves midday: AMD, Archer Aviation, SpaceX, Iren & more",
+        "refId": "e101a582ab34",
         "source": "CNBC Finance"
-      },
-      {
-        "text": "Microsoft to Deploy Next-Gen AMD Instinct and AMD EPYC Processors as the Companies Expand Their Long-Term Strategic Partnership",
-        "refId": "fe9869b8810b",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7509.2,
-      "base": 7457.69,
+      "v": 7499.41,
+      "base": 7443.28,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25837.207,
-      "base": 25520.24,
+      "v": 25720.44,
+      "base": 25508.07,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52224.64,
-      "base": 52146.42,
+      "v": 52272.19,
+      "base": 51839.26,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.628,
+      "v": 4.657,
       "base": 4.628,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.65,
+      "v": 17.25,
       "base": 17.05,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.7532,
-      "base": 188.86,
+      "v": 188.1733,
+      "base": 186.92,
       "bp": false
     }
   ]
