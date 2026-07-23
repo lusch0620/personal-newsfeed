@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-        "refId": "ced712985d2d",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "RIBER: FIRST-HALF 2026 BUSINESS ACTIVITY Business growth, resilient order book and continued rollout of ROSIE",
         "refId": "2d1c974c403b",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -16,6 +11,11 @@
         "text": "RIBER : ACTIVIT\u00c9 DU PREMIER SEMESTRE 2026 Croissance de l'activit\u00e9, carnet de commandes r\u00e9silient et poursuite du d\u00e9ploiement de ROSIE",
         "refId": "dff741cee762",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "How Bank of America\u2019s rewards program courts Gen Z",
+        "refId": "1af07b69c786",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Zephyr's PSN: Inside SMAs - An Exclusive Look Into Invesco",
-        "refId": "7446cb813cbd",
+        "text": "The Trend Towards Global Mobility",
+        "refId": "f45f4dee3de7",
         "source": "Wealth Management"
       },
       {
-        "text": "Contingent Supplemental Needs Trusts",
-        "refId": "14b5b96b402d",
+        "text": "Green, Yellow or Red Zone Client?",
+        "refId": "73c7c05fcb0c",
         "source": "Wealth Management"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Mendocino County frets over liquidity risk as it considers PE allocation",
-        "refId": "72140f2604b1",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "Alaska Permanent latest to mull PE benchmark review",
         "refId": "bf7bc1f2b6a6",
         "source": "Private Equity International"
@@ -95,6 +90,11 @@
       {
         "text": "Lead Edge and Hamilton Lane lead Summit Partners\u2019 $625m deal for NinjaOne",
         "refId": "dbebf06ecc20",
+        "source": "Secondaries Investor"
+      },
+      {
+        "text": "Townsend raises $2bn for real estate secondaries",
+        "refId": "725da2dc634d",
         "source": "Secondaries Investor"
       }
     ]
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Mendocino County frets over liquidity risk as it considers PE allocation",
-        "refId": "72140f2604b1",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
-        "refId": "ced712985d2d",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Capital One open sources VulnHunter, an AI security tool that thinks like a hacker",
         "refId": "b41be63d41b4",
         "source": "Finextra"
+      },
+      {
+        "text": "Natural raises $30 million to build AI agent payments stack",
+        "refId": "84f149f9af8b",
+        "source": "Finextra"
+      },
+      {
+        "text": "Hedge Fund Positioning Is Growing Increasingly Fragile",
+        "refId": "79d4ea68357b",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 19.2,
+      "v": 18.7,
       "base": 16.64,
       "bp": false
     },
