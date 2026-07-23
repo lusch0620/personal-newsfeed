@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves premarket: General Motors, 3M, Novartis, Nebius & more",
-        "refId": "25c8cf28d5b1",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
-        "refId": "50e687291c2a",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "CFPB nominee Johnson agrees to Capital One recusal",
         "refId": "abac67bb93ee",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Fed bans former Illinois bank exec",
+        "refId": "5935af5626f8",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Celsius founders to pay FTC $16.5M",
+        "refId": "bea048d0d4ea",
         "source": "Banking Dive"
       }
     ]
@@ -33,8 +33,8 @@
         "source": "RIABiz"
       },
       {
-        "text": "What Clients Should Know About NYC\u2019s New Pied-\u00e0-Terre Tax",
-        "refId": "30e2a61b5e83",
+        "text": "IRS Issues New Guidance on AI in Federal Tax Practice",
+        "refId": "352938d5da77",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "OpenAI Models Hacked Another Company\u2019s Systems by Mistake",
-        "refId": "66d0cdc7a0d6",
+        "text": "Uber, Lyft Win Court Block on NYC Law Requiring Notice Before Firing Drivers",
+        "refId": "1e306c1e45e8",
         "source": "Insurance Journal"
       },
       {
-        "text": "Insurer Rewards Can Boost Climate Resilience Spending, Aon Says",
-        "refId": "20ace7081e95",
+        "text": "Man Tied to $100 Million NJ Deli Scam Gets 21 Months in Prison",
+        "refId": "2b092be9ad1c",
         "source": "Insurance Journal"
       },
       {
-        "text": "People Moves: Grange Names Conte Chief Distribution Officer; McCabe to Succeed Wilcox as EVP and COO, Personal Lines, at Encova",
-        "refId": "327cf2320d1b",
+        "text": "Majority of Small Business Are Underinsured as Other Expenses Prioritized",
+        "refId": "e818160d1436",
         "source": "Insurance Journal"
       }
     ]
@@ -62,11 +62,6 @@
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Chime launches investment services",
-        "refId": "c49800339151",
-        "source": "Finextra"
-      },
       {
         "text": "Retail CRE Isn\u2019t Buying the Sentiment Collapse",
         "refId": "5ebbb4cdea98",
@@ -76,6 +71,11 @@
         "text": "Monroe and AIP close $643m aviation securitisation",
         "refId": "100c0d6240f8",
         "source": "Private Debt Investor"
+      },
+      {
+        "text": "The debate rages over insurance risk in private credit",
+        "refId": "2eda566b12a3",
+        "source": "Private Debt Investor"
       }
     ]
   },
@@ -83,30 +83,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AI secondaries firm Clipway collects $6.4bn for debut fund",
-        "refId": "f10515989a8b",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Side Letter: Fundraising\u2019s big picture",
-        "refId": "1e94ec978834",
-        "source": "Private Equity International"
-      },
-      {
         "text": "Mendocino County frets over liquidity risk as it considers PE allocation",
         "refId": "72140f2604b1",
         "source": "Buyouts Insider"
+      },
+      {
+        "text": "Alaska Permanent latest to mull PE benchmark review",
+        "refId": "bf7bc1f2b6a6",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Lead Edge and Hamilton Lane lead Summit Partners\u2019 $625m deal for NinjaOne",
+        "refId": "dbebf06ecc20",
+        "source": "Secondaries Investor"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Will the U.S. and China Build Walls Around A.I.?",
-        "refId": "dabd43cd7b75",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "Hedge Fund Positioning Is Growing Increasingly Fragile",
         "refId": "79d4ea68357b",
@@ -116,6 +111,11 @@
         "text": "Trump\u2019s New Trade Fights (and Deals)",
         "refId": "ab81dc5005af",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "A sneak preview of Wall Street's outlook for stocks in 2027 \ud83d\udd2d",
+        "refId": "195bcd7d3c6e",
+        "source": "TKer (Sam Ro)"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Most AI Startups Are Pricing Themselves to Death",
-        "refId": "ca4fb427aa65",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Tuesday assorted links",
         "refId": "6131cfd4610b",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Betting markets in everything",
         "refId": "b14aa0895948",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Alec Stapp on the new Science report from Michael Kratsios",
+        "refId": "a9fd88cc3f9f",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AI secondaries firm Clipway collects $6.4bn for debut fund",
-        "refId": "f10515989a8b",
-        "source": "Private Equity International"
+        "text": "Retail CRE Isn\u2019t Buying the Sentiment Collapse",
+        "refId": "5ebbb4cdea98",
+        "source": "Trepp Talk"
       },
       {
-        "text": "Will the U.S. and China Build Walls Around A.I.?",
-        "refId": "dabd43cd7b75",
-        "source": "Dealbook (NYT)"
+        "text": "CFPB nominee Johnson agrees to Capital One recusal",
+        "refId": "abac67bb93ee",
+        "source": "Banking Dive"
       },
       {
-        "text": "Side Letter: Fundraising\u2019s big picture",
-        "refId": "1e94ec978834",
-        "source": "Private Equity International"
+        "text": "Monroe and AIP close $643m aviation securitisation",
+        "refId": "100c0d6240f8",
+        "source": "Private Debt Investor"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7498.96,
-      "base": 7443.28,
+      "v": 7400.54,
+      "base": 7509.2,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25690.902,
-      "base": 25508.07,
+      "v": 25056.342,
+      "base": 25837.21,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52218.58,
-      "base": 51839.26,
+      "v": 51686.09,
+      "base": 52224.64,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.657,
-      "base": 4.628,
+      "v": 4.705,
+      "base": 4.657,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.13,
+      "v": 19.06,
       "base": 16.64,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 189.2516,
-      "base": 186.92,
+      "v": 186.6434,
+      "base": 188.75,
       "bp": false
     }
   ]
