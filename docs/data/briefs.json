@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Lloyd\u2019s of London Says Former CEO Neal Breached Compliance Rules",
-        "refId": "a71e855b576a",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "EU Insurance Regulator Demands Long-Term View From Private Equity Buyers",
         "refId": "02a2c5f281ea",
         "source": "Insurance Journal"
@@ -56,6 +51,11 @@
         "text": "Three Tankers Carrying Saudi Crude Make U-Turns in Red Sea After Houthi Warning",
         "refId": "1a165fe77001",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "Lloyd\u2019s governance overhaul accelerates after investigation finds former CEO\u2019s conduct fell below leadership standards",
+        "refId": "a4c6f3c3edcb",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How Close Are We To A Cliff In Equities?",
-        "refId": "d62e95882f91",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "A New Blow to Tracking Gun Sales",
         "refId": "ad0492a62478",
         "source": "Dealbook (NYT)"
@@ -116,6 +111,11 @@
         "text": "Will the U.S. and China Build Walls Around A.I.?",
         "refId": "dabd43cd7b75",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Hedge Fund Positioning Is Growing Increasingly Fragile",
+        "refId": "79d4ea68357b",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AMC\u2019s \u2018Odyssey\u2019 Toward Epic Comeback",
-        "refId": "25366d455ad4",
+        "text": "OpenAI Doubles Agentic User Base as Cheaper Chinese Models Threaten US Dominance",
+        "refId": "c844a468ac79",
         "source": "The Daily Upside"
       },
       {
-        "text": "Electric Aircraft Outshine Boeing, Airbus Deals as Farnborough Air Show Kicks Off",
-        "refId": "c16c22e90d38",
+        "text": "Charles Schwab Says Retail Investing Boom Powered by More Than SpaceX IPO Trading Bump",
+        "refId": "59f4ca37b1b1",
         "source": "The Daily Upside"
       },
       {
-        "text": "Moonshot, Alibaba Train Spotlight on AI\u2019s Affordability",
-        "refId": "d86ca4a2616c",
+        "text": "Novo Nordisk Takes Rival Eli Lilly to Court Over Weight-Loss Ad Claims",
+        "refId": "b32327eb6cf3",
         "source": "The Daily Upside"
       }
     ]
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How Close Are We To A Cliff In Equities?",
-        "refId": "d62e95882f91",
-        "source": "Capital Flows Research"
+        "text": "Is America ruled by an oligarchy?",
+        "refId": "fb922adaa01f",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "AMC\u2019s \u2018Odyssey\u2019 Toward Epic Comeback",
-        "refId": "25366d455ad4",
-        "source": "The Daily Upside"
+        "text": "A New Blow to Tracking Gun Sales",
+        "refId": "ad0492a62478",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Electric Aircraft Outshine Boeing, Airbus Deals as Farnborough Air Show Kicks Off",
-        "refId": "c16c22e90d38",
-        "source": "The Daily Upside"
+        "text": "The economic effects of GLP-1s",
+        "refId": "b366ca57ffa5",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
