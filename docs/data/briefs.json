@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive",
-        "refId": "68fda71b05df",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
         "refId": "ced712985d2d",
         "source": "CNBC Finance"
@@ -15,6 +10,11 @@
       {
         "text": "RIBER: FIRST-HALF 2026 BUSINESS ACTIVITY Business growth, resilient order book and continued rollout of ROSIE",
         "refId": "2d1c974c403b",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "RIBER : ACTIVIT\u00c9 DU PREMIER SEMESTRE 2026 Croissance de l'activit\u00e9, carnet de commandes r\u00e9silient et poursuite du d\u00e9ploiement de ROSIE",
+        "refId": "dff741cee762",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Where the Second-Half 2026 CMBS Refinance Gap Is Hiding",
-        "refId": "040cbb1513ca",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Capital One open sources VulnHunter, an AI security tool that thinks like a hacker",
         "refId": "b41be63d41b4",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "Natural raises $30 million to build AI agent payments stack",
         "refId": "84f149f9af8b",
+        "source": "Finextra"
+      },
+      {
+        "text": "Mitigram acquires Export Enterprises to connect banks with businesses for trade finance",
+        "refId": "39f94a337853",
         "source": "Finextra"
       }
     ]
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Where the Second-Half 2026 CMBS Refinance Gap Is Hiding",
-        "refId": "040cbb1513ca",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "Bets against SpaceX grow to 32% of float as Elon Musk warns short sellers won't survive",
-        "refId": "68fda71b05df",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Mendocino County frets over liquidity risk as it considers PE allocation",
         "refId": "72140f2604b1",
         "source": "Buyouts Insider"
+      },
+      {
+        "text": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+        "refId": "ced712985d2d",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Capital One open sources VulnHunter, an AI security tool that thinks like a hacker",
+        "refId": "b41be63d41b4",
+        "source": "Finextra"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7392.1,
+      "v": 7408.3,
       "base": 7509.2,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25082.63,
+      "v": 25137.693,
       "base": 25837.21,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51610.53,
+      "v": 51711.65,
       "base": 52224.64,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.701,
+      "v": 4.703,
       "base": 4.657,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 19.36,
+      "v": 19.2,
       "base": 16.64,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.5625,
+      "v": 187.4378,
       "base": 188.75,
       "bp": false
     }
