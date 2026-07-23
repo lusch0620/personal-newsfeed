@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-        "refId": "ec1dc38423fe",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Dragonfly Energy Appoints Transportation Industry Veteran Robert Keller to Lead National Fleet Sales",
-        "refId": "a07d2fc3405a",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
         "text": "Stocks making the biggest moves premarket: General Motors, 3M, Novartis, Nebius & more",
         "refId": "25c8cf28d5b1",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
+        "refId": "50e687291c2a",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "CFPB nominee Johnson agrees to Capital One recusal",
+        "refId": "abac67bb93ee",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "EU Insurance Regulator Demands Long-Term View From Private Equity Buyers",
-        "refId": "02a2c5f281ea",
+        "text": "OpenAI Models Hacked Another Company\u2019s Systems by Mistake",
+        "refId": "66d0cdc7a0d6",
         "source": "Insurance Journal"
       },
       {
-        "text": "Three Tankers Carrying Saudi Crude Make U-Turns in Red Sea After Houthi Warning",
-        "refId": "1a165fe77001",
+        "text": "Insurer Rewards Can Boost Climate Resilience Spending, Aon Says",
+        "refId": "20ace7081e95",
         "source": "Insurance Journal"
       },
       {
-        "text": "Lloyd\u2019s governance overhaul accelerates after investigation finds former CEO\u2019s conduct fell below leadership standards",
-        "refId": "a4c6f3c3edcb",
-        "source": "Reinsurance News"
+        "text": "People Moves: Grange Names Conte Chief Distribution Officer; McCabe to Succeed Wilcox as EVP and COO, Personal Lines, at Encova",
+        "refId": "327cf2320d1b",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bank of Ireland hires Citigroup's Prag Sharma as chief AI officer",
-        "refId": "4442d6cbae2b",
+        "text": "Chime launches investment services",
+        "refId": "c49800339151",
         "source": "Finextra"
       },
       {
-        "text": "Revolut secures Australian banking licence",
-        "refId": "85e27c12e936",
-        "source": "Finextra"
+        "text": "Retail CRE Isn\u2019t Buying the Sentiment Collapse",
+        "refId": "5ebbb4cdea98",
+        "source": "Trepp Talk"
       },
       {
-        "text": "Investor Intentions: SJCERA issues request for proposal for investment consulting",
-        "refId": "5cec6ba93ac2",
+        "text": "Monroe and AIP close $643m aviation securitisation",
+        "refId": "100c0d6240f8",
         "source": "Private Debt Investor"
       }
     ]
@@ -83,30 +83,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Investor Intentions: WRS issues RFP for investment consulting services",
-        "refId": "77c3ae3f3089",
+        "text": "AI secondaries firm Clipway collects $6.4bn for debut fund",
+        "refId": "f10515989a8b",
         "source": "Private Equity International"
       },
       {
-        "text": "Download: Secondaries fundraising surpasses $50bn in first half",
-        "refId": "0ad2110793d3",
-        "source": "Secondaries Investor"
+        "text": "Side Letter: Fundraising\u2019s big picture",
+        "refId": "1e94ec978834",
+        "source": "Private Equity International"
       },
       {
-        "text": "Clipway soars past target to reach $6.4bn for debut fund",
-        "refId": "2ee65e628b99",
-        "source": "Secondaries Investor"
+        "text": "Mendocino County frets over liquidity risk as it considers PE allocation",
+        "refId": "72140f2604b1",
+        "source": "Buyouts Insider"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "A New Blow to Tracking Gun Sales",
-        "refId": "ad0492a62478",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "Will the U.S. and China Build Walls Around A.I.?",
         "refId": "dabd43cd7b75",
@@ -116,6 +111,11 @@
         "text": "Hedge Fund Positioning Is Growing Increasingly Fragile",
         "refId": "79d4ea68357b",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "Trump\u2019s New Trade Fights (and Deals)",
+        "refId": "ab81dc5005af",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Is America ruled by an oligarchy?",
-        "refId": "fb922adaa01f",
+        "text": "Most AI Startups Are Pricing Themselves to Death",
+        "refId": "ca4fb427aa65",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Tuesday assorted links",
+        "refId": "6131cfd4610b",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The economic effects of GLP-1s",
-        "refId": "b366ca57ffa5",
+        "text": "Betting markets in everything",
+        "refId": "b14aa0895948",
         "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Netflix Earnings, Is Netflix Washed?, Additional Notes",
-        "refId": "2932d28cb6ce",
-        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Is America ruled by an oligarchy?",
-        "refId": "fb922adaa01f",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "AI secondaries firm Clipway collects $6.4bn for debut fund",
+        "refId": "f10515989a8b",
+        "source": "Private Equity International"
       },
       {
-        "text": "A New Blow to Tracking Gun Sales",
-        "refId": "ad0492a62478",
+        "text": "Will the U.S. and China Build Walls Around A.I.?",
+        "refId": "dabd43cd7b75",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "The economic effects of GLP-1s",
-        "refId": "b366ca57ffa5",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Side Letter: Fundraising\u2019s big picture",
+        "refId": "1e94ec978834",
+        "source": "Private Equity International"
       }
     ]
   },
@@ -210,8 +210,8 @@
     },
     {
       "nm": "VIX",
-      "v": 16.64,
-      "base": 17.05,
+      "v": 18.13,
+      "base": 16.64,
       "bp": false
     },
     {
