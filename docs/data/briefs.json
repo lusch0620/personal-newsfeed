@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "RIBER: FIRST-HALF 2026 BUSINESS ACTIVITY Business growth, resilient order book and continued rollout of ROSIE",
-        "refId": "2d1c974c403b",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Ohio\u2019s First Financial expands Chicago footprint in $208M deal",
+        "refId": "889ab8aa4718",
+        "source": "Banking Dive"
       },
       {
-        "text": "RIBER : ACTIVIT\u00c9 DU PREMIER SEMESTRE 2026 Croissance de l'activit\u00e9, carnet de commandes r\u00e9silient et poursuite du d\u00e9ploiement de ROSIE",
-        "refId": "dff741cee762",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Ramp, FIS make AI moves",
+        "refId": "2f413b0b3ba7",
+        "source": "Banking Dive"
       },
       {
-        "text": "Stocks making the biggest moves premarket: Super Micro Computer, GE Vernova, Rocket Lab and more",
-        "refId": "915a6efc9bed",
+        "text": "Kalshi launches election hub for prediction markets ahead of midterms",
+        "refId": "02a3145374de",
         "source": "CNBC Finance"
       }
     ]
@@ -22,11 +22,6 @@
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Rick Wurster discloses sweeping Schwab plan to flip up to 31% of its self-directed book of business into its RIA, Schwab Wealth Advisory, calling house retail clients 'unmatched conversion funnel'",
-        "refId": "ee29c6e60ac0",
-        "source": "RIABiz"
-      },
       {
         "text": "The Trend Towards Global Mobility",
         "refId": "f45f4dee3de7",
@@ -36,6 +31,11 @@
         "text": "Green, Yellow or Red Zone Client?",
         "refId": "73c7c05fcb0c",
         "source": "Wealth Management"
+      },
+      {
+        "text": "Note From the Editor: July/August 2026",
+        "refId": "57975c7dd648",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Santam Syndicate 1918 expands underwriting expertise with senior London Market hires",
-        "refId": "b7a620315765",
-        "source": "Reinsurance News"
+        "text": "War Risk Insurance Costs Surge for Southern Red Sea Voyages After Houthi Attacks",
+        "refId": "bc81b45ba417",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Reinsurers need to use the soft market to position for the next hard market: Oxbow Partners",
-        "refId": "bd7d744ae571",
-        "source": "Reinsurance News"
+        "text": "People Moves: Brown & Riding Names Kane to National Casualty Practice",
+        "refId": "62c19c145bf7",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Kemper appoints Eric Kappler as EVP and President, P&C",
-        "refId": "ffa53676e61e",
-        "source": "Reinsurance News"
+        "text": "Mapfre to Acquire Safety Insurance for $1.54 Billion in Cash Deal",
+        "refId": "f7b23e5e8abc",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Mitigram acquires Export Enterprises to connect banks with businesses for trade finance",
-        "refId": "39f94a337853",
+        "text": "Augustus secures $180 million Series B",
+        "refId": "2b406b3724cb",
         "source": "Finextra"
       },
       {
-        "text": "AllianceBernstein installs APAC head of insurance solutions",
-        "refId": "cb8d8d2539f7",
-        "source": "Private Debt Investor"
+        "text": "Retail CRE Follows Property Mix More Than Local Consumer Strength",
+        "refId": "2bfded942ed6",
+        "source": "Trepp Talk"
       },
       {
-        "text": "Anthropic to support AI tests in FCA's Supercharged Sandbox",
-        "refId": "73711943683d",
+        "text": "Nubank to acquire Banco Porto Real de Investimentos, strengthen Brazil operation",
+        "refId": "df71ec6fc7e8",
         "source": "Finextra"
       }
     ]
@@ -83,30 +83,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Alaska Permanent latest to mull PE benchmark review",
-        "refId": "bf7bc1f2b6a6",
+        "text": "DOWNLOAD: Private equity allocations stabilise in H1 2026",
+        "refId": "e07925125a28",
         "source": "Private Equity International"
       },
       {
-        "text": "Lead Edge and Hamilton Lane lead Summit Partners\u2019 $625m deal for NinjaOne",
-        "refId": "dbebf06ecc20",
-        "source": "Secondaries Investor"
+        "text": "Total Portfolio Approach: Overcoming the data gap",
+        "refId": "a123a8a705f1",
+        "source": "Buyouts Insider"
       },
       {
-        "text": "Townsend raises $2bn for real estate secondaries",
-        "refId": "725da2dc634d",
-        "source": "Secondaries Investor"
+        "text": "Total Portfolio Approach: Overcoming the data gap",
+        "refId": "9c933e7d8668",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Trump\u2019s New Trade Fights (and Deals)",
-        "refId": "ab81dc5005af",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "A sneak preview of Wall Street's outlook for stocks in 2027 \ud83d\udd2d",
         "refId": "195bcd7d3c6e",
@@ -116,6 +111,11 @@
         "text": "Laredo\u2019s Future Rides on Trump\u2019s Next Trade Move",
         "refId": "bdeb24fbde1c",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Treasury Markets Are Compressing For A Move",
+        "refId": "b5e3d3f411ff",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Betting markets in everything",
-        "refId": "b14aa0895948",
+        "text": "Wednesday assorted links",
+        "refId": "24f53447d872",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Alec Stapp on the new Science report from Michael Kratsios",
-        "refId": "a9fd88cc3f9f",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Google just made agents 3x cheaper to run. Here is the playbook",
+        "refId": "772cdfddc4bf",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "Who was the worst monster of the 20th century?",
-        "refId": "32a65df47961",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Brazil fact of the day",
+        "refId": "03553bd99ab8",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Betting markets in everything",
-        "refId": "b14aa0895948",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Augustus secures $180 million Series B",
+        "refId": "2b406b3724cb",
+        "source": "Finextra"
       },
       {
-        "text": "RIBER: FIRST-HALF 2026 BUSINESS ACTIVITY Business growth, resilient order book and continued rollout of ROSIE",
-        "refId": "2d1c974c403b",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "DOWNLOAD: Private equity allocations stabilise in H1 2026",
+        "refId": "e07925125a28",
+        "source": "Private Equity International"
       },
       {
-        "text": "RIBER : ACTIVIT\u00c9 DU PREMIER SEMESTRE 2026 Croissance de l'activit\u00e9, carnet de commandes r\u00e9silient et poursuite du d\u00e9ploiement de ROSIE",
-        "refId": "dff741cee762",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Total Portfolio Approach: Overcoming the data gap",
+        "refId": "a123a8a705f1",
+        "source": "Buyouts Insider"
       }
     ]
   },
@@ -210,8 +210,8 @@
     },
     {
       "nm": "VIX",
-      "v": 18.7,
-      "base": 16.64,
+      "v": 18.89,
+      "base": 18.7,
       "bp": false
     },
     {
