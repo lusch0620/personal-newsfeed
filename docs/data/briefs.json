@@ -13,20 +13,15 @@
         "source": "CNBC Finance"
       },
       {
-        "text": "Stocks making the biggest moves premarket: Lockheed Martin, Tesla, Alphabet & more",
-        "refId": "60cf77b9576b",
-        "source": "CNBC Finance"
+        "text": "STMicroelectronics Reports Q2 2026 Financial Results",
+        "refId": "2bc9eab24413",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Q&amp;A: Natalie Wolfsen on Orion's AI Strategy and Platform Growth",
-        "refId": "5aa4aeb9168b",
-        "source": "Wealth Management"
-      },
       {
         "text": "CFP Board Weighs Changes To How It Considers Expunged Convictions",
         "refId": "1b3fdbd773ec",
@@ -35,6 +30,11 @@
       {
         "text": "Advyzon Launches AI System Built Into Platform",
         "refId": "b97f46fcc33c",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "SEC Enforcement Deputy Director To Leave Agency",
+        "refId": "93d0da4f447f",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Retail CRE Spreads: The Middle of the Stack Just Got Cheaper",
-        "refId": "67692666152a",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Bank of America embeds generative AI into customer service tools",
         "refId": "9921340ccb83",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "Deutsche Bank runs global AI hackathon",
         "refId": "6b108686d552",
+        "source": "Finextra"
+      },
+      {
+        "text": "BitMEX shuts down operations",
+        "refId": "06d6961d68ea",
         "source": "Finextra"
       }
     ]
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Laredo\u2019s Future Rides on Trump\u2019s Next Trade Move",
-        "refId": "bdeb24fbde1c",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Treasury Markets Are Compressing For A Move",
         "refId": "b5e3d3f411ff",
         "source": "Capital Flows Research"
@@ -116,6 +111,11 @@
         "text": "Google Sets the Pace on Hefty A.I. Spending",
         "refId": "571e6561771e",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Global Oil Data Deck (July 2026)",
+        "refId": "45705cedfde0",
+        "source": "Commodity Context"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Solve for the equilibrium",
-        "refId": "153c57b3c65b",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "My excellent Conversation with Andrew Graham-Dixon",
         "refId": "12ff141b1e06",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "What should I ask Gita Gopinath?",
         "refId": "cde107ee250b",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Alex Tabarrok on the Economic Analysis of Crime",
+        "refId": "d64e420ba586",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Solve for the equilibrium",
-        "refId": "153c57b3c65b",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Q&amp;A: Natalie Wolfsen on Orion's AI Strategy and Platform Growth",
-        "refId": "5aa4aeb9168b",
+        "text": "CFP Board Weighs Changes To How It Considers Expunged Convictions",
+        "refId": "1b3fdbd773ec",
         "source": "Wealth Management"
       },
       {
-        "text": "Retail CRE Spreads: The Middle of the Stack Just Got Cheaper",
-        "refId": "67692666152a",
-        "source": "Trepp Talk"
+        "text": "Allianz GI PE head departs for 26North",
+        "refId": "6455b58da9e6",
+        "source": "Buyouts Insider"
+      },
+      {
+        "text": "Advyzon Launches AI System Built Into Platform",
+        "refId": "b97f46fcc33c",
+        "source": "Wealth Management"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7430.75,
+      "v": 7411.98,
       "base": 7498.96,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25085.725,
+      "v": 24975.824,
       "base": 25690.9,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51989.91,
+      "v": 51947.25,
       "base": 52218.58,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 18.01,
+      "v": 18.71,
       "base": 18.7,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.283,
+      "v": 188.2718,
       "base": 189.25,
       "bp": false
     }
