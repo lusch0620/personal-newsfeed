@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ohio\u2019s First Financial expands Chicago footprint in $208M deal",
-        "refId": "889ab8aa4718",
-        "source": "Banking Dive"
-      },
-      {
         "text": "Ramp, FIS make AI moves",
         "refId": "2f413b0b3ba7",
         "source": "Banking Dive"
@@ -16,17 +11,17 @@
         "text": "Kalshi launches election hub for prediction markets ahead of midterms",
         "refId": "02a3145374de",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Soitec Reports First Quarter Revenue of Fiscal Year 2027",
+        "refId": "0b41d7ab9ec5",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Trend Towards Global Mobility",
-        "refId": "f45f4dee3de7",
-        "source": "Wealth Management"
-      },
       {
         "text": "Green, Yellow or Red Zone Client?",
         "refId": "73c7c05fcb0c",
@@ -36,6 +31,11 @@
         "text": "Note From the Editor: July/August 2026",
         "refId": "57975c7dd648",
         "source": "Wealth Management"
+      },
+      {
+        "text": "On the Cover: July/August 2026",
+        "refId": "2f3937e329cc",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "War Risk Insurance Costs Surge for Southern Red Sea Voyages After Houthi Attacks",
-        "refId": "bc81b45ba417",
+        "text": "Report: Claims Severity Reaches All-Time High, Frequency Declines",
+        "refId": "5c4521f639c1",
         "source": "Insurance Journal"
       },
       {
-        "text": "People Moves: Brown & Riding Names Kane to National Casualty Practice",
-        "refId": "62c19c145bf7",
+        "text": "People Moves: AIPSO Appoints Willis President and CEO; Canopius Names HSBC\u2019s Alioto as Group COO; Doubtless Adds to North American Leadership",
+        "refId": "ffc0bb4693af",
         "source": "Insurance Journal"
       },
       {
-        "text": "Mapfre to Acquire Safety Insurance for $1.54 Billion in Cash Deal",
-        "refId": "f7b23e5e8abc",
+        "text": "WCIRB: California Comp Premium Leveled off, But CT Claims Frequency Rose",
+        "refId": "26c6045f15a6",
         "source": "Insurance Journal"
       }
     ]
@@ -62,11 +62,6 @@
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Augustus secures $180 million Series B",
-        "refId": "2b406b3724cb",
-        "source": "Finextra"
-      },
       {
         "text": "Retail CRE Follows Property Mix More Than Local Consumer Strength",
         "refId": "2bfded942ed6",
@@ -76,6 +71,11 @@
         "text": "Nubank to acquire Banco Porto Real de Investimentos, strengthen Brazil operation",
         "refId": "df71ec6fc7e8",
         "source": "Finextra"
+      },
+      {
+        "text": "S3 Capital details next platform targets following $10bn milestone",
+        "refId": "11182a6c8c59",
+        "source": "Private Debt Investor"
       }
     ]
   },
@@ -83,19 +83,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "DOWNLOAD: Private equity allocations stabilise in H1 2026",
-        "refId": "e07925125a28",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Total Portfolio Approach: Overcoming the data gap",
-        "refId": "a123a8a705f1",
+        "text": "Allianz GI PE head departs for 26North",
+        "refId": "6455b58da9e6",
         "source": "Buyouts Insider"
       },
       {
-        "text": "Total Portfolio Approach: Overcoming the data gap",
-        "refId": "9c933e7d8668",
-        "source": "Private Equity International"
+        "text": "Partners Group wraps up debut infra secondaries fundraising effort with $5.5bn raised",
+        "refId": "040adf2c4fa9",
+        "source": "Secondaries Investor"
+      },
+      {
+        "text": "LLCP closes fourth lower mid-market fund at $2bn",
+        "refId": "afe22e97c664",
+        "source": "Buyouts Insider"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Augustus secures $180 million Series B",
-        "refId": "2b406b3724cb",
+        "text": "Ramp, FIS make AI moves",
+        "refId": "2f413b0b3ba7",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Retail CRE Follows Property Mix More Than Local Consumer Strength",
+        "refId": "2bfded942ed6",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Nubank to acquire Banco Porto Real de Investimentos, strengthen Brazil operation",
+        "refId": "df71ec6fc7e8",
         "source": "Finextra"
-      },
-      {
-        "text": "DOWNLOAD: Private equity allocations stabilise in H1 2026",
-        "refId": "e07925125a28",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Total Portfolio Approach: Overcoming the data gap",
-        "refId": "a123a8a705f1",
-        "source": "Buyouts Insider"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7408.3,
-      "base": 7509.2,
+      "v": 7399.87,
+      "base": 7498.96,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25137.693,
-      "base": 25837.21,
+      "v": 24927.33,
+      "base": 25690.9,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51711.65,
-      "base": 52224.64,
+      "v": 51713.91,
+      "base": 52218.58,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.703,
-      "base": 4.657,
+      "v": 4.667,
+      "base": 4.703,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.89,
+      "v": 18.39,
       "base": 18.7,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.4378,
-      "base": 188.75,
+      "v": 187.1567,
+      "base": 189.25,
       "bp": false
     }
   ]
