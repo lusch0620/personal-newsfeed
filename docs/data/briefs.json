@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Capital One open sources VulnHunter, an AI security tool that thinks like a hacker",
-        "refId": "b41be63d41b4",
-        "source": "Finextra"
-      },
-      {
         "text": "Mitigram acquires Export Enterprises to connect banks with businesses for trade finance",
         "refId": "39f94a337853",
         "source": "Finextra"
@@ -76,6 +71,11 @@
         "text": "AllianceBernstein installs APAC head of insurance solutions",
         "refId": "cb8d8d2539f7",
         "source": "Private Debt Investor"
+      },
+      {
+        "text": "Anthropic to support AI tests in FCA's Supercharged Sandbox",
+        "refId": "73711943683d",
+        "source": "Finextra"
       }
     ]
   },
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Hedge Fund Positioning Is Growing Increasingly Fragile",
-        "refId": "79d4ea68357b",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "Trump\u2019s New Trade Fights (and Deals)",
         "refId": "ab81dc5005af",
         "source": "Dealbook (NYT)"
@@ -116,6 +111,11 @@
         "text": "A sneak preview of Wall Street's outlook for stocks in 2027 \ud83d\udd2d",
         "refId": "195bcd7d3c6e",
         "source": "TKer (Sam Ro)"
+      },
+      {
+        "text": "Laredo\u2019s Future Rides on Trump\u2019s Next Trade Move",
+        "refId": "bdeb24fbde1c",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "OpenAI Doubles Agentic User Base as Cheaper Chinese Models Threaten US Dominance",
-        "refId": "c844a468ac79",
+        "text": "Trump\u2019s 100% Tariffs on Generic Meds Threaten Headaches at Drugstore Checkouts",
+        "refId": "b3702c6f87ac",
         "source": "The Daily Upside"
       },
       {
-        "text": "Charles Schwab Says Retail Investing Boom Powered by More Than SpaceX IPO Trading Bump",
-        "refId": "59f4ca37b1b1",
+        "text": "Google Touts Flashy Plan for Cheaper AI as Capital Spending Reaches $45 Billion",
+        "refId": "741852464379",
         "source": "The Daily Upside"
       },
       {
-        "text": "Novo Nordisk Takes Rival Eli Lilly to Court Over Weight-Loss Ad Claims",
-        "refId": "b32327eb6cf3",
+        "text": "Kalshi Bets Election Fever Will Drive Platform Growth",
+        "refId": "0c84879291b9",
         "source": "The Daily Upside"
       }
     ]
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Capital One open sources VulnHunter, an AI security tool that thinks like a hacker",
-        "refId": "b41be63d41b4",
-        "source": "Finextra"
+        "text": "Betting markets in everything",
+        "refId": "b14aa0895948",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Hedge Fund Positioning Is Growing Increasingly Fragile",
-        "refId": "79d4ea68357b",
-        "source": "Capital Flows Research"
+        "text": "RIBER: FIRST-HALF 2026 BUSINESS ACTIVITY Business growth, resilient order book and continued rollout of ROSIE",
+        "refId": "2d1c974c403b",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "OpenAI Doubles Agentic User Base as Cheaper Chinese Models Threaten US Dominance",
-        "refId": "c844a468ac79",
-        "source": "The Daily Upside"
+        "text": "RIBER : ACTIVIT\u00c9 DU PREMIER SEMESTRE 2026 Croissance de l'activit\u00e9, carnet de commandes r\u00e9silient et poursuite du d\u00e9ploiement de ROSIE",
+        "refId": "dff741cee762",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
