@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more",
-        "refId": "4819a5c77368",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "John Paulson says we are in the early stages of a long-term bull market for gold",
         "refId": "26817bab8234",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "STMicroelectronics Reports Q2 2026 Financial Results",
         "refId": "2bc9eab24413",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "STMicroelectronics annonce ses r\u00e9sultats financiers du deuxi\u00e8me trimestre 2026",
+        "refId": "cbf1583dedf5",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -23,19 +23,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "CFP Board Weighs Changes To How It Considers Expunged Convictions",
-        "refId": "1b3fdbd773ec",
-        "source": "Wealth Management"
+        "text": "Citing Strong Recruitment, Raymond James Posts Record 3Q Results",
+        "refId": "c921684f9120",
+        "source": "Financial Advisor Magazine"
       },
       {
-        "text": "Advyzon Launches AI System Built Into Platform",
-        "refId": "b97f46fcc33c",
-        "source": "Wealth Management"
+        "text": "Ousted Davidson Kempner Partner Claims He's Owed $80 Million",
+        "refId": "e5355760c32d",
+        "source": "Financial Advisor Magazine"
       },
       {
-        "text": "SEC Enforcement Deputy Director To Leave Agency",
-        "refId": "93d0da4f447f",
-        "source": "Wealth Management"
+        "text": "Private Credit Ditches 'Semi-Liquid' Term After Redemption Wave",
+        "refId": "80dc4be4b457",
+        "source": "Financial Advisor Magazine"
       }
     ]
   },
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Allianz GI PE head departs for 26North",
-        "refId": "6455b58da9e6",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "Partners Group wraps up debut infra secondaries fundraising effort with $5.5bn raised",
         "refId": "040adf2c4fa9",
         "source": "Secondaries Investor"
@@ -96,6 +91,11 @@
         "text": "LLCP closes fourth lower mid-market fund at $2bn",
         "refId": "afe22e97c664",
         "source": "Buyouts Insider"
+      },
+      {
+        "text": "At London Investor Council, members say: \u2018We\u2019re risk-on, but you\u2019d better earn it\u2019",
+        "refId": "05c98f8e1121",
+        "source": "Private Equity International"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "CFP Board Weighs Changes To How It Considers Expunged Convictions",
-        "refId": "1b3fdbd773ec",
-        "source": "Wealth Management"
+        "text": "John Paulson says we are in the early stages of a long-term bull market for gold",
+        "refId": "26817bab8234",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Allianz GI PE head departs for 26North",
-        "refId": "6455b58da9e6",
-        "source": "Buyouts Insider"
+        "text": "Bank of America embeds generative AI into customer service tools",
+        "refId": "9921340ccb83",
+        "source": "Finextra"
       },
       {
-        "text": "Advyzon Launches AI System Built Into Platform",
-        "refId": "b97f46fcc33c",
-        "source": "Wealth Management"
+        "text": "Treasury Markets Are Compressing For A Move",
+        "refId": "b5e3d3f411ff",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 18.71,
+      "v": 18.58,
       "base": 18.7,
       "bp": false
     },
