@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AAI 2026: AMD Delivers Full-Stack Compute for the Agentic AI Era",
-        "refId": "868fede6b723",
+        "text": "U.S., other nations back open-source AI with 'strong security' at China summit",
+        "refId": "62fb75b3bf0b",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Multibeam d\u00e9croche sa premi\u00e8re commande \u00e0 Ta\u00efwan pour sa nouvelle plateforme MBX \u2013 le syst\u00e8me de lithographie par faisceau d\u2019\u00e9lectrons multi-colonnes de deuxi\u00e8me g\u00e9n\u00e9ration de l\u2019entreprise",
+        "refId": "cc159a4a8d50",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
-        "refId": "36453f0ae96d",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Stocks making the biggest moves after hours: Intel, AMD, Boston Beer, Deckers & more",
-        "refId": "409bfed955f7",
-        "source": "CNBC Finance"
+        "text": "Multibeam sichert sich ersten Auftrag aus Taiwan f\u00fcr die neu eingef\u00fchrte MBX-Plattform \u2013 das Multis\u00e4ulen-Elektronenstrahllithografiesystem der zweiten Generation des Unternehmens",
+        "refId": "21de6dbb2ee1",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Raymond James Lures $1B Califoria Team From Stifel",
-        "refId": "f69919702c14",
+        "text": "Deals &amp; Moves: RFG Advisory Caps Record Recruiting Run With Farther Advisor",
+        "refId": "a9a141847606",
         "source": "Wealth Management"
       },
       {
-        "text": "Direct Indexing, Structured Notes Help Advisors Manage Index Fund Concentration Risk",
-        "refId": "ec4887f73cda",
+        "text": "20 Questions to Ask in Every WealthTech AI Demo",
+        "refId": "7064e541cd5b",
         "source": "Wealth Management"
       },
       {
-        "text": "The WealthStack Podcast: Helping Advisors Serve Business Owners with RISR\u2019s Jason Early",
-        "refId": "69d8d678ec9b",
+        "text": "Adjusted for Risk: How to Make Work Optional",
+        "refId": "7a7fee60c508",
         "source": "Wealth Management"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Loan Sizing 101: How Lenders Set the Number on Every CRE Loan",
-        "refId": "e74138bca38d",
-        "source": "Trepp Talk"
+        "text": "Verifone patents tech that lets payment terminals detect tampering",
+        "refId": "0a4a7ce1ebef",
+        "source": "Finextra"
       },
       {
-        "text": "Blackstone credit inflows slow in Q2",
-        "refId": "e6c821549a1e",
+        "text": "Sun Life\u2019s Asia asset management chief exits",
+        "refId": "fa21185ba3cb",
         "source": "Private Debt Investor"
       },
       {
-        "text": "Verifone patents tech that lets payment terminals detect tampering",
-        "refId": "0a4a7ce1ebef",
+        "text": "Alipay+ partners with Hong Kong's Hang Seng Bank for cross-border QR code payments",
+        "refId": "594611efcd90",
         "source": "Finextra"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "When stratospheric net worth meets LP-GP alignment",
-        "refId": "18dfcfff1bd0",
-        "source": "Private Equity International"
-      },
-      {
         "text": "GTCR sets Fund XV target, reports muscular realizations activity",
         "refId": "26d7e0dc2406",
         "source": "Buyouts Insider"
@@ -95,6 +90,11 @@
       {
         "text": "Investindustrial agrees to invest in Italian flavors and fragrances maker PA Aromatics",
         "refId": "ec39421cd59b",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Nazca Capital picks up immersive experience operator; Camden\u2019s Triumph acquires Spanish culinary institute",
+        "refId": "4dd073988070",
         "source": "PE Hub"
       }
     ]
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AAI 2026: AMD Delivers Full-Stack Compute for the Agentic AI Era",
-        "refId": "868fede6b723",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Verifone patents tech that lets payment terminals detect tampering",
+        "refId": "0a4a7ce1ebef",
+        "source": "Finextra"
       },
       {
-        "text": "When stratospheric net worth meets LP-GP alignment",
-        "refId": "18dfcfff1bd0",
-        "source": "Private Equity International"
+        "text": "U.S., other nations back open-source AI with 'strong security' at China summit",
+        "refId": "62fb75b3bf0b",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Raymond James Lures $1B Califoria Team From Stifel",
-        "refId": "f69919702c14",
-        "source": "Wealth Management"
+        "text": "S&P500 Selling Pressure Today",
+        "refId": "4f03ca1869a0",
+        "source": "Capital Flows Research"
       }
     ]
   },
