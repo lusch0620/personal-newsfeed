@@ -1,81 +1,40 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "OCC rejects Wise\u2019s trust charter application over \u2018deficiencies\u2019",
-        "refId": "b3a864c3f15c",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Upstart nabs conditional bank charter",
-        "refId": "f2068b79ea47",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Democrats grill CFPB nominee over CapOne, staff-cut plan",
-        "refId": "2b758114324b",
-        "source": "Banking Dive"
+        "text": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+        "refId": "b058d4ccd463",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "4 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Adjusted for Risk: How to Make Work Optional",
-        "refId": "7a7fee60c508",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "WealthStack Roundup: Zeplyn Launches AI Advisor Coaching Feature",
-        "refId": "8cda0e9187e4",
-        "source": "Wealth Management"
-      },
       {
         "text": "Respecting Tradition While Moving Forward",
         "refId": "7856405f8965",
         "source": "Wealth Management"
+      },
+      {
+        "text": "Vanguard takes first step to democratize private investments with 'soft' launch of branded funds \u2013 so soft  Merrill Lynch and BoA private bankers get exclusive rights to sell them \u2013 RIAs are cut out, for now",
+        "refId": "dc69351bd953",
+        "source": "RIABiz"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Allianz to acquire HSBC Life Singapore",
-        "refId": "ebff3435782d",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "People Moves: Executive Changes at Hudson Insurance",
-        "refId": "d46a8d3d56bf",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Tesla Expands Robotaxi Service to Orlando, Tampa",
-        "refId": "6992e405db06",
-        "source": "Insurance Journal"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "4 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Swiss private bank invests into Mbanq's new note listed on D\u00fcsseldorf Stock Exchange",
-        "refId": "43e6237347d1",
-        "source": "Finextra"
-      },
-      {
-        "text": "Marqeta and zerohash make stablecoins spendable on cards",
-        "refId": "6c9c261fc0d6",
-        "source": "Finextra"
-      },
-      {
-        "text": "Private credit \u2018a more structurally aligned solution\u2019 to missing middle: CREO",
-        "refId": "b5e02e9e5b74",
-        "source": "Private Debt Investor"
+        "text": "Community Bank Retail CRE: It's Composition, Not Concentration",
+        "refId": "84376aff5915",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -98,24 +57,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Meta faces higher borrowing costs in latest $12bn data centre financing",
-        "refId": "62cfeddf3166",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Ship insurers restrict war coverage for Saudi Arabian cargoes in Red Sea",
-        "refId": "f78d5e413409",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Oil Context Weekly (W30)",
         "refId": "5b66d8ce9e0a",
         "source": "Commodity Context"
+      },
+      {
+        "text": "Macro Positioning and Crude Risk",
+        "refId": "5b00a0f7ff75",
+        "source": "Capital Flows Research"
+      },
+      {
+        "text": "Mexico\u2019s Sheinbaum puts faith in petrol price cap",
+        "refId": "2d01cc54e68a",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "3 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
         "text": "\u2018Modelmaxxing\u2019 Replaces \u2018Tokenmaxxing\u2019 for Firms Grappling With AI Costs",
@@ -126,11 +85,6 @@
         "text": "Wall Street Wants Alternatives in 401(k)s. Advisors Aren\u2019t Convinced",
         "refId": "f67552a341cf",
         "source": "The Daily Upside"
-      },
-      {
-        "text": "PayPal, Declined",
-        "refId": "7a59f202e599",
-        "source": "Net Interest (Marc Rubinstein)"
       }
     ]
   },
@@ -142,19 +96,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Friday assorted links",
-        "refId": "b5b234392788",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "2026.30: The Copium Wars",
-        "refId": "0c577711dacf",
-        "source": "Stratechery (Ben Thompson)"
-      },
-      {
         "text": "Anthropic just cut the price of frontier intelligence in half",
         "refId": "95216e982efa",
         "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "The Decision, the sequel",
+        "refId": "76737168b730",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Crypto markets in everything? (moo)",
+        "refId": "61bf5546f635",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -162,19 +116,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Adjusted for Risk: How to Make Work Optional",
-        "refId": "7a7fee60c508",
+        "text": "Respecting Tradition While Moving Forward",
+        "refId": "7856405f8965",
         "source": "Wealth Management"
       },
       {
-        "text": "WealthStack Roundup: Zeplyn Launches AI Advisor Coaching Feature",
-        "refId": "8cda0e9187e4",
-        "source": "Wealth Management"
+        "text": "Community Bank Retail CRE: It's Composition, Not Concentration",
+        "refId": "84376aff5915",
+        "source": "Trepp Talk"
       },
       {
-        "text": "Allianz to acquire HSBC Life Singapore",
-        "refId": "ebff3435782d",
-        "source": "Reinsurance News"
+        "text": "GTCR-backed Dentalcorp snaps up Northstar Dental Partners",
+        "refId": "390ce62a3715",
+        "source": "PE Hub"
       }
     ]
   },
@@ -211,7 +165,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 188.2718,
+      "v": 188.272,
       "base": 189.25,
       "bp": false
     }
