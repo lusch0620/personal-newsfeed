@@ -10,13 +10,8 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
-      {
-        "text": "Respecting Tradition While Moving Forward",
-        "refId": "7856405f8965",
-        "source": "Wealth Management"
-      },
       {
         "text": "Vanguard takes first step to democratize private investments with 'soft' launch of branded funds \u2013 so soft  Merrill Lynch and BoA private bankers get exclusive rights to sell them \u2013 RIAs are cut out, for now",
         "refId": "dc69351bd953",
@@ -29,46 +24,29 @@
     "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Community Bank Retail CRE: It's Composition, Not Concentration",
-        "refId": "84376aff5915",
-        "source": "Trepp Talk"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
-    "lede": "2 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "GTCR-backed Dentalcorp snaps up Northstar Dental Partners",
-        "refId": "390ce62a3715",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Longshore invests in health tech firm Prochant",
-        "refId": "4b028bc96e73",
-        "source": "PE Hub"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oil Context Weekly (W30)",
-        "refId": "5b66d8ce9e0a",
-        "source": "Commodity Context"
-      },
-      {
-        "text": "Macro Positioning and Crude Risk",
-        "refId": "5b00a0f7ff75",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "Mexico\u2019s Sheinbaum puts faith in petrol price cap",
         "refId": "2d01cc54e68a",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Dropping quarterly company reports in US may not be a bad thing",
+        "refId": "663280947294",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "India and South Africa lead push to amass emergency fuel stockpiles",
+        "refId": "f330ca068c72",
         "source": "Financial Times Markets"
       }
     ]
@@ -96,19 +74,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropic just cut the price of frontier intelligence in half",
-        "refId": "95216e982efa",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "The Decision, the sequel",
-        "refId": "76737168b730",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Crypto markets in everything? (moo)",
         "refId": "61bf5546f635",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "A natural experiment in economics",
+        "refId": "90a4e21f7853",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Reading List 07/25/26",
+        "refId": "07afcb5c534c",
+        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
@@ -116,19 +94,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Respecting Tradition While Moving Forward",
-        "refId": "7856405f8965",
-        "source": "Wealth Management"
+        "text": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+        "refId": "b058d4ccd463",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Community Bank Retail CRE: It's Composition, Not Concentration",
-        "refId": "84376aff5915",
-        "source": "Trepp Talk"
+        "text": "Mexico\u2019s Sheinbaum puts faith in petrol price cap",
+        "refId": "2d01cc54e68a",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "GTCR-backed Dentalcorp snaps up Northstar Dental Partners",
-        "refId": "390ce62a3715",
-        "source": "PE Hub"
+        "text": "Dropping quarterly company reports in US may not be a bad thing",
+        "refId": "663280947294",
+        "source": "Financial Times Markets"
       }
     ]
   },
