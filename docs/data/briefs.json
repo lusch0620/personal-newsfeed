@@ -1,68 +1,104 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
-  },
-  "FIG \u2014 Asset & Wealth Management": {
-    "lede": "1 story in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Vanguard takes first step to democratize private investments with 'soft' launch of branded funds \u2013 so soft  Merrill Lynch and BoA private bankers get exclusive rights to sell them \u2013 RIAs are cut out, for now",
-        "refId": "dc69351bd953",
-        "source": "RIABiz"
+        "text": "Stocks making the biggest moves premarket: Micron Technology, Forte Biosciences, ExxonMobil, Baker Hughes & more",
+        "refId": "1d18380c0369",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "ASML reports transactions under its current share buyback program",
+        "refId": "38014d7c12e1",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "STMicroelectronics announces status of common share repurchase program",
+        "refId": "b42b526d0a65",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
+  },
+  "FIG \u2014 Asset & Wealth Management": {
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "When E&O and D&O Lines Start to Blur",
-        "refId": "07bab27ca025",
+        "text": "People Moves: Lara Appoints California Statewide Advisory Board Members",
+        "refId": "027c229eef2c",
         "source": "Insurance Journal"
       },
       {
-        "text": "US P/C Industry Books Best Result in a Decade, but Not All Lines Enjoy Success",
-        "refId": "103c5505bd97",
+        "text": "People Moves: World Insurance Names Erfurt National Leader; Landis Joins Ironpeak",
+        "refId": "d5bf60e13470",
         "source": "Insurance Journal"
       },
       {
-        "text": "Cedents Find Competitive Market Conditions at Midyear Reinsurance Renewals: Brokers",
-        "refId": "30a1e251c962",
+        "text": "Why Wildfires Pose Multiple Threats to US West Power Sector: Maguire",
+        "refId": "7adbd6f3b308",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Insurtech Corgi hits $4 billion valuation on latest raise",
         "refId": "00403c16f2dc",
         "source": "Finextra"
+      },
+      {
+        "text": "Private credit\u2019s asset-backed pivot",
+        "refId": "010d8fe7ad2d",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "Upstart wins preliminary approval to establish US bank",
+        "refId": "3e380733a140",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Ridgeview in \u00a3545m take-private offer for automotive software company Pinewood; Bridgepoint to acquire asset intelligence biz",
+        "refId": "ec67495853a5",
+        "source": "PE Hub"
+      },
+      {
+        "text": "MidEuropa to acquire construction software platform in Czechia",
+        "refId": "20a9a8ebb1f5",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Bridgepoint to acquire Lansweeper",
+        "refId": "c1ef211ce575",
+        "source": "PE Hub"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal",
-        "refId": "f8f3a9dcb850",
-        "source": "Financial Times Markets"
+        "text": "Weekly Intelligence Brief: A System Running Out of Slack",
+        "refId": "a6dd527fb407",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Blockbuster I.P.O.s Are Creating New Millionaires. Philanthropies Want a Cut.",
-        "refId": "7ed2be64870f",
-        "source": "Dealbook (NYT)"
+        "text": "4 cynical things I think that are arguably bullish for stocks\ud83d\ude1e",
+        "refId": "a6b8d23b2375",
+        "source": "TKer (Sam Ro)"
       },
       {
-        "text": "Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites",
-        "refId": "0418e0415b1c",
+        "text": "European start-up with SpaceX ambitions aims for a $2bn valuation",
+        "refId": "8a3884330bc7",
         "source": "Financial Times Markets"
       }
     ]
@@ -95,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Crypto markets in everything? (moo)",
-        "refId": "61bf5546f635",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "A natural experiment in economics",
-        "refId": "90a4e21f7853",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Reading List 07/25/26",
         "refId": "07afcb5c534c",
         "source": "Construction Physics (Brian Potter)"
+      },
+      {
+        "text": "AI Made Bug Bounties a Six-Figure Skill Overnight",
+        "refId": "06d5b442312f",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Saturday assorted links",
+        "refId": "5c29f2b1474e",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -115,57 +151,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Crypto markets in everything? (moo)",
-        "refId": "61bf5546f635",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Reading List 07/25/26",
+        "refId": "07afcb5c534c",
+        "source": "Construction Physics (Brian Potter)"
       },
       {
-        "text": "A natural experiment in economics",
-        "refId": "90a4e21f7853",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "AI Made Bug Bounties a Six-Figure Skill Overnight",
+        "refId": "06d5b442312f",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal",
-        "refId": "f8f3a9dcb850",
-        "source": "Financial Times Markets"
+        "text": "Saturday assorted links",
+        "refId": "5c29f2b1474e",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7411.98,
-      "base": 7498.96,
+      "v": 7467.57,
+      "base": 7408.3,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24975.824,
-      "base": 25690.9,
+      "v": 25185.19,
+      "base": 25137.69,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51947.25,
-      "base": 52218.58,
+      "v": 52539.46,
+      "base": 51711.65,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.679,
-      "base": 4.703,
+      "v": 4.647,
+      "base": 4.679,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.58,
-      "base": 18.7,
+      "v": 17.7,
+      "base": 18.58,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.272,
-      "base": 189.25,
+      "v": 190.4557,
+      "base": 187.44,
       "bp": false
     }
   ]
