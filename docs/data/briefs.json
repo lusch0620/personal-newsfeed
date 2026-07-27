@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Weekly Intelligence Brief: A System Running Out of Slack",
-        "refId": "a6dd527fb407",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "4 cynical things I think that are arguably bullish for stocks\ud83d\ude1e",
         "refId": "a6b8d23b2375",
         "source": "TKer (Sam Ro)"
@@ -115,6 +110,11 @@
       {
         "text": "TeamSystem\u2019s private equity owners discuss stake sale at \u20ac8bn valuation",
         "refId": "43597eea4e04",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "UK lenders accuse Bank of England of ignoring Wall Street\u2019s capital edge",
+        "refId": "22f0c11acee8",
         "source": "Financial Times Markets"
       }
     ]
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Weekly Intelligence Brief: A System Running Out of Slack",
-        "refId": "a6dd527fb407",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "\u2018Modelmaxxing\u2019 Replaces \u2018Tokenmaxxing\u2019 for Firms Grappling With AI Costs",
         "refId": "849866769e76",
         "source": "The Daily Upside"
@@ -179,6 +174,11 @@
       {
         "text": "The common sense of Fareed Zakaria",
         "refId": "9599f87754b7",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The demand for human enhancement technologies",
+        "refId": "98eb6d5df218",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 18.78,
+      "v": 18.67,
       "base": 18.58,
       "bp": false
     },
