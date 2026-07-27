@@ -20,25 +20,41 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "The Fiduciary Tsunami About to Hit Healthcare Plans",
+        "refId": "1b7aaba45921",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Adjusted for Risk: Managing Risk Through Long-Short ETFs",
+        "refId": "2e7755f56518",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Goldman, T. Rowe Debut Their First Interval Fund for the Masses",
+        "refId": "c75f57c591c1",
+        "source": "Wealth Management"
+      }
+    ]
   },
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "People Moves: Lara Appoints California Statewide Advisory Board Members",
-        "refId": "027c229eef2c",
+        "text": "Trump\u2019s New Tariffs Prompt Lawsuit From Small Businesses",
+        "refId": "ac48ce2994fb",
         "source": "Insurance Journal"
       },
       {
-        "text": "People Moves: World Insurance Names Erfurt National Leader; Landis Joins Ironpeak",
-        "refId": "d5bf60e13470",
-        "source": "Insurance Journal"
+        "text": "Selective Insurance Q2\u201926 net income increases to $127.1m",
+        "refId": "88ebbb69abd7",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Why Wildfires Pose Multiple Threats to US West Power Sector: Maguire",
-        "refId": "7adbd6f3b308",
+        "text": "Why El Ni\u00f1o\u2019s Promise of Quieter Hurricane Season May Not Be Good News for Insurers",
+        "refId": "0d212e90ac6f",
         "source": "Insurance Journal"
       }
     ]
@@ -67,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ridgeview in \u00a3545m take-private offer for automotive software company Pinewood; Bridgepoint to acquire asset intelligence biz",
-        "refId": "ec67495853a5",
-        "source": "PE Hub"
+        "text": "Morgan Stanley IM appoints Asia insurance solutions lead",
+        "refId": "c8776246bf6b",
+        "source": "Private Equity International"
       },
       {
-        "text": "MidEuropa to acquire construction software platform in Czechia",
-        "refId": "20a9a8ebb1f5",
-        "source": "PE Hub"
+        "text": "Side Letter: The cost of \u2018democratisation\u2019",
+        "refId": "603fd9bafbb3",
+        "source": "Private Equity International"
       },
       {
-        "text": "Bridgepoint to acquire Lansweeper",
-        "refId": "c1ef211ce575",
+        "text": "TransDigm to acquire IGP-backed Prince & Izant for over $1bn",
+        "refId": "51126a2eb6c1",
         "source": "PE Hub"
       }
     ]
@@ -97,8 +113,8 @@
         "source": "TKer (Sam Ro)"
       },
       {
-        "text": "European start-up with SpaceX ambitions aims for a $2bn valuation",
-        "refId": "8a3884330bc7",
+        "text": "Asian private credit fundraising sinks to 12-year low amid bankruptcy fears",
+        "refId": "80471c7afe35",
         "source": "Financial Times Markets"
       }
     ]
@@ -131,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Reading List 07/25/26",
-        "refId": "07afcb5c534c",
-        "source": "Construction Physics (Brian Potter)"
-      },
-      {
-        "text": "AI Made Bug Bounties a Six-Figure Skill Overnight",
-        "refId": "06d5b442312f",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "Saturday assorted links",
-        "refId": "5c29f2b1474e",
+        "text": "The common sense of Fareed Zakaria",
+        "refId": "9599f87754b7",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The demand for human enhancement technologies",
+        "refId": "98eb6d5df218",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "What will more intelligence actually do for us?",
+        "refId": "4dbba6fa9645",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -151,18 +167,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Reading List 07/25/26",
-        "refId": "07afcb5c534c",
-        "source": "Construction Physics (Brian Potter)"
+        "text": "Weekly Intelligence Brief: A System Running Out of Slack",
+        "refId": "a6dd527fb407",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "AI Made Bug Bounties a Six-Figure Skill Overnight",
-        "refId": "06d5b442312f",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "\u2018Modelmaxxing\u2019 Replaces \u2018Tokenmaxxing\u2019 for Firms Grappling With AI Costs",
+        "refId": "849866769e76",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Saturday assorted links",
-        "refId": "5c29f2b1474e",
+        "text": "The common sense of Fareed Zakaria",
+        "refId": "9599f87754b7",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -170,37 +186,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7467.57,
+      "v": 7394.57,
       "base": 7408.3,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25185.19,
+      "v": 24860.008,
       "base": 25137.69,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52539.46,
+      "v": 52061.67,
       "base": 51711.65,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.647,
+      "v": 4.633,
       "base": 4.679,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.7,
+      "v": 19.08,
       "base": 18.58,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 190.4557,
+      "v": 187.5226,
       "base": 187.44,
       "bp": false
     }
