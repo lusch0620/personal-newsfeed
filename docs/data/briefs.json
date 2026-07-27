@@ -93,8 +93,8 @@
         "source": "Private Equity International"
       },
       {
-        "text": "TransDigm to acquire IGP-backed Prince & Izant for over $1bn",
-        "refId": "51126a2eb6c1",
+        "text": "Exclusive: Arlington closes $1.45bn sale of Riverpoint Medical to Novanta",
+        "refId": "6093f959b8de",
         "source": "PE Hub"
       }
     ]
@@ -186,37 +186,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7395.36,
+      "v": 7413.18,
       "base": 7408.3,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24846.273,
+      "v": 24932.082,
       "base": 25137.69,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52070.07,
+      "v": 52210.08,
       "base": 51711.65,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.647,
+      "v": 4.641,
       "base": 4.679,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 19.23,
+      "v": 18.78,
       "base": 18.58,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.2571,
+      "v": 188.2164,
       "base": 187.44,
       "bp": false
     }
