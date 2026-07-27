@@ -1394,6 +1394,23 @@
     }
   },
   {
+    "id": "dbe8ad1ce59f",
+    "title": "Huntington banks on fee growth amid deposit cost competition",
+    "url": "https://www.bankingdive.com/news/huntington-banks-fee-growth-amid-deposit-cost-competition/826247/",
+    "source": "Banking Dive",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-07-27T15:08:39+00:00",
+    "summary_raw": "<figure><div><img src=\"https://imgproxy.divecdn.com/BK-Ghfi1ik67olza725hnTfGeHn3Uq4Iy4C9fHTltYQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUlBDUkowLmpwZw==.webp\" /></div></figure><p>As the regional lender&rsquo;s deposit costs edge up, strong fee revenue can offset the bank&rsquo;s slightly lower than expected net interest income, CFO Zach Wasserman said.</p>",
+    "summary_ai": {
+      "digest": "Huntington banks on fee growth amid deposit cost competition",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
     "id": "1d999dde7ba2",
     "title": "Bill to Curb Staged Accidents Introduced in Senate",
     "url": "https://www.insurancejournal.com/news/national/2026/07/27/879190.htm",
@@ -1853,23 +1870,6 @@
     }
   },
   {
-    "id": "90eda0ab27e8",
-    "title": "\u2018I\u2019m still confused\u2019: I sold $80,000 in shares on June 30, so why didn\u2019t I receive my dividend?",
-    "url": "https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-27T20:30:00+00:00",
-    "summary_raw": "\u201cTo my surprise, the proceeds from the sale were credited to my money-market settlement fund.\u201d",
-    "summary_ai": {
-      "digest": "\u2018I\u2019m still confused\u2019: I sold $80,000 in shares on June 30, so why didn\u2019t I receive my dividend?",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "ecc4293b89a9",
     "title": "Profit margins are still going up \ud83d\udcc8",
     "url": "https://www.tker.co/p/sp500-record-profit-margins-q2-2026",
@@ -1879,23 +1879,6 @@
     "summary_raw": "The most surprising business story of the past five years persists &#128170;",
     "summary_ai": {
       "digest": "Profit margins are still going up \ud83d\udcc8",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "0e85f282aca0",
-    "title": "Micron and other chip stocks fall as China steals the spotlight",
-    "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-fall-as-china-steals-the-spotlight-cff9d73c?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-07-27T20:33:00+00:00",
-    "summary_raw": "CXMT had a strong public debut in Shanghai, and now investors are weighing the prospect of a manufacturing breakthrough that could make China\u2019s chip industry more competitive.",
-    "summary_ai": {
-      "digest": "Micron and other chip stocks fall as China steals the spotlight",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2100,6 +2083,74 @@
     "summary_raw": "Investors are fretting over a report that Nvidia could backstop an OpenAI data-center lease, in what would be the largest such arrangement yet.",
     "summary_ai": {
       "digest": "Nvidia\u2019s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "61480bafb46e",
+    "title": "\u2018It\u2019s a high price to pay\u2019: My adviser says I don\u2019t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
+    "url": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-27T22:00:00+00:00",
+    "summary_raw": "\u201cHis proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.\u201d",
+    "summary_ai": {
+      "digest": "\u2018It\u2019s a high price to pay\u2019: My adviser says I don\u2019t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "e76195606e7a",
+    "title": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+    "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-07-27T22:30:00+00:00",
+    "summary_raw": "\u201cInvestors frequently receive only a small fraction of the shares they request \u2014 if they receive any at all.\u201d",
+    "summary_ai": {
+      "digest": "\u2018Time will tell whether that was a good bet\u2019: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "1c87401d2166",
+    "title": "FOMC Risk and AI Flows",
+    "url": "https://www.capitalflowsresearch.com/p/fomc-risk-and-ai-flows",
+    "source": "Capital Flows Research",
+    "section": "Markets & Macro",
+    "date": "2026-07-27T22:54:37+00:00",
+    "summary_raw": "LIVESTREAM/PROPIETARY REPORT",
+    "summary_ai": {
+      "digest": "FOMC Risk and AI Flows",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "11dc66f87566",
+    "title": "Circle buys IBM's blockchain patent portfolio",
+    "url": "https://www.finextra.com/newsarticle/48152/circle-buys-ibms-blockchain-patent-portfolio?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-07-28T00:01:00+00:00",
+    "summary_raw": "Stablecoin issuer Circle Internet Finance has acquired nearly 1000 blockchain-related patents from IBM.",
+    "summary_ai": {
+      "digest": "Circle buys IBM's blockchain patent portfolio",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
