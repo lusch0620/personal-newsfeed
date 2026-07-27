@@ -1,13 +1,7 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-        "refId": "b058d4ccd463",
-        "source": "CNBC Finance"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "1 story in this lane today.",
@@ -20,12 +14,34 @@
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "When E&O and D&O Lines Start to Blur",
+        "refId": "07bab27ca025",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "US P/C Industry Books Best Result in a Decade, but Not All Lines Enjoy Success",
+        "refId": "103c5505bd97",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Cedents Find Competitive Market Conditions at Midyear Reinsurance Renewals: Brokers",
+        "refId": "30a1e251c962",
+        "source": "Insurance Journal"
+      }
+    ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "1 story in this lane today.",
+    "bullets": [
+      {
+        "text": "Insurtech Corgi hits $4 billion valuation on latest raise",
+        "refId": "00403c16f2dc",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -35,24 +51,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Mexico\u2019s Sheinbaum puts faith in petrol price cap",
-        "refId": "2d01cc54e68a",
+        "text": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal",
+        "refId": "f8f3a9dcb850",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Dropping quarterly company reports in US may not be a bad thing",
-        "refId": "663280947294",
-        "source": "Financial Times Markets"
+        "text": "Blockbuster I.P.O.s Are Creating New Millionaires. Philanthropies Want a Cut.",
+        "refId": "7ed2be64870f",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "India and South Africa lead push to amass emergency fuel stockpiles",
-        "refId": "f330ca068c72",
+        "text": "Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites",
+        "refId": "0418e0415b1c",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "\u2018Modelmaxxing\u2019 Replaces \u2018Tokenmaxxing\u2019 for Firms Grappling With AI Costs",
@@ -62,6 +78,11 @@
       {
         "text": "Wall Street Wants Alternatives in 401(k)s. Advisors Aren\u2019t Convinced",
         "refId": "f67552a341cf",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "OpenAI Models Going Rogue Fuels Debate on Cybersecurity",
+        "refId": "2d79d71957e1",
         "source": "The Daily Upside"
       }
     ]
@@ -94,18 +115,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-        "refId": "b058d4ccd463",
-        "source": "CNBC Finance"
+        "text": "Crypto markets in everything? (moo)",
+        "refId": "61bf5546f635",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Mexico\u2019s Sheinbaum puts faith in petrol price cap",
-        "refId": "2d01cc54e68a",
-        "source": "Financial Times Markets"
+        "text": "A natural experiment in economics",
+        "refId": "90a4e21f7853",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Dropping quarterly company reports in US may not be a bad thing",
-        "refId": "663280947294",
+        "text": "Blackstone, KKR and Brookfield take Kuwait pipelines stake in $16bn deal",
+        "refId": "f8f3a9dcb850",
         "source": "Financial Times Markets"
       }
     ]
