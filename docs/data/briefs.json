@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "In relative terms, maybe children do not cost more than before?",
-        "refId": "24537e9b3d0d",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "The Decline in the Transmission of Scientific Ideas",
         "refId": "11728a526881",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,17 +155,17 @@
         "text": "Could our preoccupation with mental health be part of the problem?",
         "refId": "81f72141ed01",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Vacation: Week of July 27",
+        "refId": "db4a1160d12c",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "In relative terms, maybe children do not cost more than before?",
-        "refId": "24537e9b3d0d",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "OpenAI Models Going Rogue Fuels Debate on Cybersecurity",
         "refId": "2d79d71957e1",
@@ -179,6 +174,11 @@
       {
         "text": "Mounting US Budget Deficit Complicates Fed\u2019s Interest Rate Choices",
         "refId": "99a99eb1e1a2",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Meta, Microsoft and Amazon Test Limits of Investor Appetite for AI Spending",
+        "refId": "20e4a160fed4",
         "source": "The Daily Upside"
       }
     ]
