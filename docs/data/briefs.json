@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Robert R. Coyne, Jr. to succeed Daniel R. Westcott as President of Berkley Re America",
-        "refId": "f62528b766ad",
+        "text": "MNK International launches International Energy division with appointment of new MD",
+        "refId": "880f510440d7",
         "source": "Reinsurance News"
       },
       {
-        "text": "Zurich CEO Says Staff Let Go as Regulator Finma Imposes Partial Sales Ban",
-        "refId": "f9bfdbe30e83",
-        "source": "Insurance Journal"
+        "text": "Cincinnati\u2019s net income jumps 83% to $1.26bn in Q2\u201926",
+        "refId": "f932b939cb43",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Tankers Divert to Egypt as Houthi Threat Upends Red Sea Trade",
-        "refId": "7338fa4da42b",
-        "source": "Insurance Journal"
+        "text": "Integra and Congregational select Hadron as UK underwriting partner",
+        "refId": "4baf5b433ff4",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -68,13 +68,13 @@
         "source": "Private Debt Investor"
       },
       {
-        "text": "Objectway enters negotiations to acquire BNP Paribas and Natixis joint venture Slib",
-        "refId": "8150f4275436",
-        "source": "Finextra"
-      },
-      {
         "text": "Loan Note: Allocation caution in H1; InPact eyes real estate debt",
         "refId": "8aa67583412e",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "Default interest and tender under the spotlight in landmark case",
+        "refId": "e69de61f5629",
         "source": "Private Debt Investor"
       }
     ]
@@ -108,14 +108,14 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Oil price tumbles as Iran and US pause strikes over Strait of Hormuz",
-        "refId": "823074fdb948",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Profit margins are still going up \ud83d\udcc8",
         "refId": "ecc4293b89a9",
         "source": "TKer (Sam Ro)"
+      },
+      {
+        "text": "FOMC Risk and AI Flows",
+        "refId": "1c87401d2166",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -147,18 +147,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "8b2663515df5",
+        "text": "Further progress in South America",
+        "refId": "904e102141ff",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "38,000 companies are hiding in plain sight. Here is the AI system to find them",
-        "refId": "8c07b1b865d5",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "In relative terms, maybe children do not cost more than before?",
+        "refId": "24537e9b3d0d",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Further progress in South America",
-        "refId": "904e102141ff",
+        "text": "The Decline in the Transmission of Scientific Ideas",
+        "refId": "11728a526881",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "8b2663515df5",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "38,000 companies are hiding in plain sight. Here is the AI system to find them",
-        "refId": "8c07b1b865d5",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Further progress in South America",
         "refId": "904e102141ff",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "In relative terms, maybe children do not cost more than before?",
+        "refId": "24537e9b3d0d",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "OpenAI Models Going Rogue Fuels Debate on Cybersecurity",
+        "refId": "2d79d71957e1",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7419.42,
+      "v": 7433.36,
       "base": 7411.98,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24802.996,
+      "v": 24889.955,
       "base": 24975.82,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52670.68,
+      "v": 52804.37,
       "base": 51947.25,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.618,
+      "v": 4.602,
       "base": 4.641,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.45,
+      "v": 18.27,
       "base": 18.67,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.2051,
-      "base": 188.22,
+      "v": 188.5864,
+      "base": 188.27,
       "bp": false
     }
   ]
