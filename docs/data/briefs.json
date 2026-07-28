@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Further progress in South America",
-        "refId": "904e102141ff",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "In relative terms, maybe children do not cost more than before?",
         "refId": "24537e9b3d0d",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,17 +155,17 @@
         "text": "The Decline in the Transmission of Scientific Ideas",
         "refId": "11728a526881",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Could our preoccupation with mental health be part of the problem?",
+        "refId": "81f72141ed01",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Further progress in South America",
-        "refId": "904e102141ff",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "In relative terms, maybe children do not cost more than before?",
         "refId": "24537e9b3d0d",
@@ -180,43 +175,48 @@
         "text": "OpenAI Models Going Rogue Fuels Debate on Cybersecurity",
         "refId": "2d79d71957e1",
         "source": "The Daily Upside"
+      },
+      {
+        "text": "Mounting US Budget Deficit Complicates Fed\u2019s Interest Rate Choices",
+        "refId": "99a99eb1e1a2",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7433.36,
+      "v": 7428.78,
       "base": 7411.98,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24889.955,
+      "v": 24876.912,
       "base": 24975.82,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52804.37,
+      "v": 52747.32,
       "base": 51947.25,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.602,
+      "v": 4.604,
       "base": 4.641,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.27,
+      "v": 18.19,
       "base": 18.67,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.5864,
+      "v": 188.9675,
       "base": 188.27,
       "bp": false
     }
