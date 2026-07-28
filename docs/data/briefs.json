@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Two Sentenced for Transporting Stolen \u2018Muscle\u2019 Cars to \u2018Street Takeovers\u2019",
-        "refId": "719e8d08b80d",
+        "text": "Robert R. Coyne, Jr. to succeed Daniel R. Westcott as President of Berkley Re America",
+        "refId": "f62528b766ad",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Zurich CEO Says Staff Let Go as Regulator Finma Imposes Partial Sales Ban",
+        "refId": "f9bfdbe30e83",
         "source": "Insurance Journal"
       },
       {
-        "text": "Missouri Contractor Ordered to Pay $267K Over Fraud Scheme",
-        "refId": "08e7fab99fea",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Police Detained 15-Year-Old After Deadly Shooting in Seattle",
-        "refId": "787ad36bdb76",
+        "text": "Tankers Divert to Egypt as Houthi Threat Upends Red Sea Trade",
+        "refId": "7338fa4da42b",
         "source": "Insurance Journal"
       }
     ]
@@ -63,19 +63,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Insurtech Corgi hits $4 billion valuation on latest raise",
-        "refId": "00403c16f2dc",
-        "source": "Finextra"
-      },
-      {
         "text": "Private credit\u2019s asset-backed pivot",
         "refId": "010d8fe7ad2d",
         "source": "Private Debt Investor"
       },
       {
-        "text": "Upstart wins preliminary approval to establish US bank",
-        "refId": "3e380733a140",
+        "text": "Objectway enters negotiations to acquire BNP Paribas and Natixis joint venture Slib",
+        "refId": "8150f4275436",
         "source": "Finextra"
+      },
+      {
+        "text": "Loan Note: Allocation caution in H1; InPact eyes real estate debt",
+        "refId": "8aa67583412e",
+        "source": "Private Debt Investor"
       }
     ]
   },
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "4 cynical things I think that are arguably bullish for stocks\ud83d\ude1e",
-        "refId": "a6b8d23b2375",
-        "source": "TKer (Sam Ro)"
-      },
-      {
         "text": "The A.I. Debate That\u2019s Driving a Wedge Through Big Tech",
         "refId": "aa1b62e1d38b",
         "source": "Dealbook (NYT)"
@@ -116,6 +111,11 @@
         "text": "Oil price tumbles as Iran and US pause strikes over Strait of Hormuz",
         "refId": "823074fdb948",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "Profit margins are still going up \ud83d\udcc8",
+        "refId": "ecc4293b89a9",
+        "source": "TKer (Sam Ro)"
       }
     ]
   },
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "4 cynical things I think that are arguably bullish for stocks\ud83d\ude1e",
-        "refId": "a6b8d23b2375",
-        "source": "TKer (Sam Ro)"
-      },
-      {
         "text": "Sunday assorted links",
         "refId": "8b2663515df5",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -180,44 +175,49 @@
         "text": "38,000 companies are hiding in plain sight. Here is the AI system to find them",
         "refId": "8c07b1b865d5",
         "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Further progress in South America",
+        "refId": "904e102141ff",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7413.18,
-      "base": 7408.3,
+      "v": 7419.42,
+      "base": 7411.98,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24932.082,
-      "base": 25137.69,
+      "v": 24802.996,
+      "base": 24975.82,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52210.08,
-      "base": 51711.65,
+      "v": 52670.68,
+      "base": 51947.25,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.63,
+      "v": 4.618,
       "base": 4.641,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.66,
+      "v": 18.45,
       "base": 18.67,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.216,
-      "base": 187.44,
+      "v": 188.2051,
+      "base": 188.22,
       "bp": false
     }
   ]
