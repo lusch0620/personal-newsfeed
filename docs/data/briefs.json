@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Trump\u2019s New Tariffs Prompt Lawsuit From Small Businesses",
-        "refId": "ac48ce2994fb",
+        "text": "Two Sentenced for Transporting Stolen \u2018Muscle\u2019 Cars to \u2018Street Takeovers\u2019",
+        "refId": "719e8d08b80d",
         "source": "Insurance Journal"
       },
       {
-        "text": "Selective Insurance Q2\u201926 net income increases to $127.1m",
-        "refId": "88ebbb69abd7",
-        "source": "Reinsurance News"
+        "text": "Missouri Contractor Ordered to Pay $267K Over Fraud Scheme",
+        "refId": "08e7fab99fea",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Why El Ni\u00f1o\u2019s Promise of Quieter Hurricane Season May Not Be Good News for Insurers",
-        "refId": "0d212e90ac6f",
+        "text": "Police Detained 15-Year-Old After Deadly Shooting in Seattle",
+        "refId": "787ad36bdb76",
         "source": "Insurance Journal"
       }
     ]
@@ -93,9 +93,9 @@
         "source": "Private Equity International"
       },
       {
-        "text": "Exclusive: Arlington closes $1.45bn sale of Riverpoint Medical to Novanta",
-        "refId": "6093f959b8de",
-        "source": "PE Hub"
+        "text": "High-conviction deals gained favour from secondaries investors in H1",
+        "refId": "26f11f30fe61",
+        "source": "Secondaries Investor"
       }
     ]
   },
@@ -108,13 +108,13 @@
         "source": "TKer (Sam Ro)"
       },
       {
-        "text": "UK lenders accuse Bank of England of ignoring Wall Street\u2019s capital edge",
-        "refId": "22f0c11acee8",
-        "source": "Financial Times Markets"
+        "text": "The A.I. Debate That\u2019s Driving a Wedge Through Big Tech",
+        "refId": "aa1b62e1d38b",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Beware the shimmer of holographic markets",
-        "refId": "d515ee88d225",
+        "text": "Oil price tumbles as Iran and US pause strikes over Strait of Hormuz",
+        "refId": "823074fdb948",
         "source": "Financial Times Markets"
       }
     ]
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "\u2018Modelmaxxing\u2019 Replaces \u2018Tokenmaxxing\u2019 for Firms Grappling With AI Costs",
-        "refId": "849866769e76",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Wall Street Wants Alternatives in 401(k)s. Advisors Aren\u2019t Convinced",
-        "refId": "f67552a341cf",
-        "source": "The Daily Upside"
-      },
-      {
         "text": "OpenAI Models Going Rogue Fuels Debate on Cybersecurity",
         "refId": "2d79d71957e1",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Mounting US Budget Deficit Complicates Fed\u2019s Interest Rate Choices",
+        "refId": "99a99eb1e1a2",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Meta, Microsoft and Amazon Test Limits of Investor Appetite for AI Spending",
+        "refId": "20e4a160fed4",
         "source": "The Daily Upside"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The common sense of Fareed Zakaria",
-        "refId": "9599f87754b7",
+        "text": "Sunday assorted links",
+        "refId": "8b2663515df5",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The demand for human enhancement technologies",
-        "refId": "98eb6d5df218",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "38,000 companies are hiding in plain sight. Here is the AI system to find them",
+        "refId": "8c07b1b865d5",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "What will more intelligence actually do for us?",
-        "refId": "4dbba6fa9645",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Further progress in South America",
+        "refId": "904e102141ff",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "\u2018Modelmaxxing\u2019 Replaces \u2018Tokenmaxxing\u2019 for Firms Grappling With AI Costs",
-        "refId": "849866769e76",
-        "source": "The Daily Upside"
+        "text": "4 cynical things I think that are arguably bullish for stocks\ud83d\ude1e",
+        "refId": "a6b8d23b2375",
+        "source": "TKer (Sam Ro)"
       },
       {
-        "text": "The common sense of Fareed Zakaria",
-        "refId": "9599f87754b7",
+        "text": "Sunday assorted links",
+        "refId": "8b2663515df5",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The demand for human enhancement technologies",
-        "refId": "98eb6d5df218",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "38,000 companies are hiding in plain sight. Here is the AI system to find them",
+        "refId": "8c07b1b865d5",
+        "source": "The AI Corner (Ruben Dominguez)"
       }
     ]
   },
@@ -204,19 +204,19 @@
     },
     {
       "nm": "US 10Y",
-      "v": 4.641,
-      "base": 4.679,
+      "v": 4.63,
+      "base": 4.641,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.67,
-      "base": 18.58,
+      "v": 18.66,
+      "base": 18.67,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.2164,
+      "v": 188.216,
       "base": 187.44,
       "bp": false
     }
