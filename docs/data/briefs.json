@@ -3,30 +3,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves premarket: Micron Technology, Forte Biosciences, ExxonMobil, Baker Hughes & more",
-        "refId": "1d18380c0369",
+        "text": "Steve Eisman is starting to have doubts about AI. The 'Big Short' investor just sold a key tech stock",
+        "refId": "3d4037dab79f",
         "source": "CNBC Finance"
       },
       {
-        "text": "ASML reports transactions under its current share buyback program",
-        "refId": "38014d7c12e1",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Banco Popular CEO to retire",
+        "refId": "de8c35356026",
+        "source": "Banking Dive"
       },
       {
-        "text": "STMicroelectronics announces status of common share repurchase program",
-        "refId": "b42b526d0a65",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Huntington banks on fee growth amid deposit cost competition",
+        "refId": "dbe8ad1ce59f",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Fiduciary Tsunami About to Hit Healthcare Plans",
-        "refId": "1b7aaba45921",
-        "source": "Wealth Management"
-      },
       {
         "text": "Adjusted for Risk: Managing Risk Through Long-Short ETFs",
         "refId": "2e7755f56518",
@@ -36,6 +31,11 @@
         "text": "Goldman, T. Rowe Debut Their First Interval Fund for the Masses",
         "refId": "c75f57c591c1",
         "source": "Wealth Management"
+      },
+      {
+        "text": "So, You Think You Know the Fed?",
+        "refId": "3466acb94087",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "MNK International launches International Energy division with appointment of new MD",
-        "refId": "880f510440d7",
-        "source": "Reinsurance News"
+        "text": "People Moves: NFP Names Chamberlain to Upstate New York Team",
+        "refId": "1ea9dba456fe",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Cincinnati\u2019s net income jumps 83% to $1.26bn in Q2\u201926",
-        "refId": "f932b939cb43",
-        "source": "Reinsurance News"
+        "text": "Kin Expands Launches Condo and Flood Insurance Options in California",
+        "refId": "de2a33f0ea6f",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Integra and Congregational select Hadron as UK underwriting partner",
-        "refId": "4baf5b433ff4",
-        "source": "Reinsurance News"
+        "text": "Ride-Hailing Policies in New Jersey Must Provide PIP Benefits for Injured Pedestrians",
+        "refId": "f958867dc019",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -63,19 +63,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Private credit\u2019s asset-backed pivot",
-        "refId": "010d8fe7ad2d",
+        "text": "Chief Economist's Weekly Watch \u2013 July 27 2026: FOMC Decision, Issuance, & CMBS Credit Performance",
+        "refId": "80ae64ac38fd",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "GCM Grosvenor closes credit secondaries fund on $1.2bn",
+        "refId": "d666fe4a96d0",
         "source": "Private Debt Investor"
       },
       {
-        "text": "Loan Note: Allocation caution in H1; InPact eyes real estate debt",
-        "refId": "8aa67583412e",
-        "source": "Private Debt Investor"
-      },
-      {
-        "text": "Default interest and tender under the spotlight in landmark case",
-        "refId": "e69de61f5629",
-        "source": "Private Debt Investor"
+        "text": "The Grocery-Anchored Maturity Wave Has an Anchor-Lease Problem",
+        "refId": "a7acd3bc1cd6",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -83,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Morgan Stanley IM appoints Asia insurance solutions lead",
-        "refId": "c8776246bf6b",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Side Letter: The cost of \u2018democratisation\u2019",
-        "refId": "603fd9bafbb3",
-        "source": "Private Equity International"
-      },
-      {
         "text": "High-conviction deals gained favour from secondaries investors in H1",
         "refId": "26f11f30fe61",
+        "source": "Secondaries Investor"
+      },
+      {
+        "text": "Uplift Investors collects $670m for debut fund",
+        "refId": "7cbcc624c6cf",
+        "source": "Buyouts Insider"
+      },
+      {
+        "text": "StepStone leads on Cabot\u2019s \u00a3140m CV for Premier Modular",
+        "refId": "41b397a43e74",
         "source": "Secondaries Investor"
       }
     ]
@@ -102,11 +102,6 @@
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The A.I. Debate That\u2019s Driving a Wedge Through Big Tech",
-        "refId": "aa1b62e1d38b",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "Profit margins are still going up \ud83d\udcc8",
         "refId": "ecc4293b89a9",
@@ -116,6 +111,11 @@
         "text": "FOMC Risk and AI Flows",
         "refId": "1c87401d2166",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "Gibson Dunn Hires Rival Wachtell Lipton\u2019s Co-Chair",
+        "refId": "bebf3da692aa",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "OpenAI Models Going Rogue Fuels Debate on Cybersecurity",
-        "refId": "2d79d71957e1",
+        "text": "YouTube\u2019s Peacock Partnership is a Streaming Bundle Breakthrough",
+        "refId": "c059a21c89b1",
         "source": "The Daily Upside"
       },
       {
-        "text": "Mounting US Budget Deficit Complicates Fed\u2019s Interest Rate Choices",
-        "refId": "99a99eb1e1a2",
+        "text": "SpaceX Rival Rocket Lab Scores Record Contract in as Space Race Engines Roar",
+        "refId": "cd5324235c2c",
         "source": "The Daily Upside"
       },
       {
-        "text": "Meta, Microsoft and Amazon Test Limits of Investor Appetite for AI Spending",
-        "refId": "20e4a160fed4",
+        "text": "China\u2019s Making Memory with its New Biggest Company",
+        "refId": "436946c4322d",
         "source": "The Daily Upside"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Decline in the Transmission of Scientific Ideas",
-        "refId": "11728a526881",
+        "text": "Claude Cowork now runs a $10,000/month SEO agency from your desktop. Free with your plan",
+        "refId": "b8a1eed10920",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Monday assorted links",
+        "refId": "b1ef5903ecaf",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Could our preoccupation with mental health be part of the problem?",
-        "refId": "81f72141ed01",
+        "text": "*Liberal Worlds: James Bryce and the Democratic Intellect*",
+        "refId": "5b0b6987d105",
         "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Vacation: Week of July 27",
-        "refId": "db4a1160d12c",
-        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "OpenAI Models Going Rogue Fuels Debate on Cybersecurity",
-        "refId": "2d79d71957e1",
-        "source": "The Daily Upside"
+        "text": "High-conviction deals gained favour from secondaries investors in H1",
+        "refId": "26f11f30fe61",
+        "source": "Secondaries Investor"
       },
       {
-        "text": "Mounting US Budget Deficit Complicates Fed\u2019s Interest Rate Choices",
-        "refId": "99a99eb1e1a2",
-        "source": "The Daily Upside"
+        "text": "Claude Cowork now runs a $10,000/month SEO agency from your desktop. Free with your plan",
+        "refId": "b8a1eed10920",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "Meta, Microsoft and Amazon Test Limits of Investor Appetite for AI Spending",
-        "refId": "20e4a160fed4",
-        "source": "The Daily Upside"
+        "text": "Steve Eisman is starting to have doubts about AI. The 'Big Short' investor just sold a key tech stock",
+        "refId": "3d4037dab79f",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -204,14 +204,14 @@
     },
     {
       "nm": "US 10Y",
-      "v": 4.604,
-      "base": 4.641,
+      "v": 4.627,
+      "base": 4.604,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.21,
-      "base": 18.67,
+      "v": 18.74,
+      "base": 18.21,
       "bp": false
     },
     {
