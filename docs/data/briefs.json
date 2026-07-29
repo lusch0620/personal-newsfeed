@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
-        "refId": "684631737ec5",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Stocks making the biggest moves midday: ASML, SK Hynix, SAP, Forte Bio, Brown-Forman & more",
-        "refId": "a777458acfeb",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Stocks making the biggest moves after hours: Cadence Design Systems, Rambus, Welltower and more",
         "refId": "2e18aa2fa55e",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: Coca-Cola, Sherwin-Williams, Johnson & Johnson & more",
+        "refId": "1a88615f78a1",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
+        "refId": "5b2de62e34a5",
         "source": "CNBC Finance"
       }
     ]
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Waverly Advisors Acquires InVista, Adding $332M in AUM",
-        "refId": "82f0257bfe1e",
-        "source": "Wealth Management"
+        "text": "LPL CEO Rich Steinmeier finally unveils AI-powered 'LPL Latitude' to show his firm's solidly in the artificial intelligence game and ready to counter Altruist's Hazel after months of stock-price depression",
+        "refId": "edc491351672",
+        "source": "RIABiz"
       },
       {
-        "text": "Trusts &amp; Estates: July/August 2026 Digital Edition",
-        "refId": "983bd5536962",
+        "text": "$11B F.L.Putnam Lands Minority Investment from Bixby Wealth",
+        "refId": "807cc4fbdcc8",
         "source": "Wealth Management"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "*Liberal Worlds: James Bryce and the Democratic Intellect*",
-        "refId": "5b0b6987d105",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Roundup #85: Most policy is also industrial policy",
         "refId": "f6eeb94a9abe",
         "source": "Noahpinion (Noah Smith)"
@@ -160,6 +155,11 @@
         "text": "The Confucian fertility paradox",
         "refId": "08cf3b00638b",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The AEA presidential election",
+        "refId": "07144a7bdfdf",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
-        "refId": "684631737ec5",
-        "source": "CNBC Finance"
+        "text": "Profit margins are still going up \ud83d\udcc8",
+        "refId": "ecc4293b89a9",
+        "source": "TKer (Sam Ro)"
       },
       {
-        "text": "Stocks making the biggest moves midday: ASML, SK Hynix, SAP, Forte Bio, Brown-Forman & more",
-        "refId": "a777458acfeb",
-        "source": "CNBC Finance"
+        "text": "Jonathan Bock resigns as BCRED co-CEO",
+        "refId": "4e75f6ccd7c4",
+        "source": "Private Debt Investor"
       },
       {
-        "text": "*Liberal Worlds: James Bryce and the Democratic Intellect*",
-        "refId": "5b0b6987d105",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Stocks making the biggest moves after hours: Cadence Design Systems, Rambus, Welltower and more",
+        "refId": "2e18aa2fa55e",
+        "source": "CNBC Finance"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7417.07,
+      "v": 7316.15,
       "base": 7413.18,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24884.514,
+      "v": 24442.941,
       "base": 24932.08,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52153.3,
+      "v": 51594.14,
       "base": 52210.08,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.639,
+      "v": 4.622,
       "base": 4.604,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 19.58,
+      "v": 20.22,
       "base": 18.21,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.5628,
+      "v": 183.9221,
       "base": 188.22,
       "bp": false
     }
