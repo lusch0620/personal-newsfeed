@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves after hours: Cadence Design Systems, Rambus, Welltower and more",
-        "refId": "2e18aa2fa55e",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Stocks making the biggest moves premarket: Coca-Cola, Sherwin-Williams, Johnson & Johnson & more",
         "refId": "1a88615f78a1",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
         "refId": "5b2de62e34a5",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "ASM reports second quarter 2026 results",
+        "refId": "0cfcaffec1fa",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Jonathan Bock resigns as BCRED co-CEO",
-        "refId": "4e75f6ccd7c4",
-        "source": "Private Debt Investor"
-      },
-      {
         "text": "Standard Chartered names CTO for India and South Asia",
         "refId": "c7656e4fc829",
         "source": "Finextra"
@@ -76,17 +71,17 @@
         "text": "IMF issues crypto asset warning to Brazil",
         "refId": "6a1045a970df",
         "source": "Finextra"
+      },
+      {
+        "text": "PEX secures $160m to scale payments, credit and finance automation platform",
+        "refId": "f04105d4aa3f",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Uplift Investors collects $670m for debut fund",
-        "refId": "7cbcc624c6cf",
-        "source": "Buyouts Insider"
-      },
       {
         "text": "StepStone leads on Cabot\u2019s \u00a3140m CV for Premier Modular",
         "refId": "41b397a43e74",
@@ -96,17 +91,17 @@
         "text": "Asia\u2019s Affinity loses another senior exec",
         "refId": "7719b695fdab",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Side Letter: Aligning GPs\u2019 pockets?",
+        "refId": "6a7ed4dd715c",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Profit margins are still going up \ud83d\udcc8",
-        "refId": "ecc4293b89a9",
-        "source": "TKer (Sam Ro)"
-      },
       {
         "text": "FOMC Risk and AI Flows",
         "refId": "1c87401d2166",
@@ -115,6 +110,11 @@
       {
         "text": "Gibson Dunn Hires Rival Wachtell Lipton\u2019s Co-Chair",
         "refId": "bebf3da692aa",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "The Chips Rout Goes Global",
+        "refId": "5be450f6443d",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Profit margins are still going up \ud83d\udcc8",
-        "refId": "ecc4293b89a9",
-        "source": "TKer (Sam Ro)"
+        "text": "FOMC Risk and AI Flows",
+        "refId": "1c87401d2166",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Jonathan Bock resigns as BCRED co-CEO",
-        "refId": "4e75f6ccd7c4",
-        "source": "Private Debt Investor"
+        "text": "Roundup #85: Most policy is also industrial policy",
+        "refId": "f6eeb94a9abe",
+        "source": "Noahpinion (Noah Smith)"
       },
       {
-        "text": "Stocks making the biggest moves after hours: Cadence Design Systems, Rambus, Welltower and more",
-        "refId": "2e18aa2fa55e",
-        "source": "CNBC Finance"
+        "text": "Merrill Lynch's  'Hail Mary' attempt to compel Dynasty into arbitration over OpenArc breakaway fell yards short after a federal judge blocked the effort -- with a whole series of ramifications",
+        "refId": "4a8b1011866a",
+        "source": "RIABiz"
       }
     ]
   },
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 20.22,
+      "v": 20.66,
       "base": 18.21,
       "bp": false
     },
