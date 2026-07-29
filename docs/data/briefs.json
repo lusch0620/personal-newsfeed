@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Steve Eisman is starting to have doubts about AI. The 'Big Short' investor just sold a key tech stock",
-        "refId": "3d4037dab79f",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Banco Popular CEO to retire",
-        "refId": "de8c35356026",
-        "source": "Banking Dive"
-      },
-      {
         "text": "Huntington banks on fee growth amid deposit cost competition",
         "refId": "dbe8ad1ce59f",
         "source": "Banking Dive"
+      },
+      {
+        "text": "BitMEX to shutter after 11 years",
+        "refId": "156dbd40f89d",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "CME launches single stock futures enabling investors to trade SpaceX, Micron and others 23 hours a day",
+        "refId": "684631737ec5",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Adjusted for Risk: Managing Risk Through Long-Short ETFs",
-        "refId": "2e7755f56518",
+        "text": "Merrill Lynch's  'Hail Mary' attempt to compel Dynasty into arbitration over OpenArc breakaway fell yards short after a federal judge blocked the effort -- with a whole series of ramifications",
+        "refId": "4a8b1011866a",
+        "source": "RIABiz"
+      },
+      {
+        "text": "Corient Acquires $4.9B New York Multi-Family Office",
+        "refId": "36b4395e16f1",
         "source": "Wealth Management"
       },
       {
-        "text": "Goldman, T. Rowe Debut Their First Interval Fund for the Masses",
-        "refId": "c75f57c591c1",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "So, You Think You Know the Fed?",
-        "refId": "3466acb94087",
+        "text": "The Father of the 401(k) Has a New Savings Plan",
+        "refId": "564beb1d45e9",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "People Moves: NFP Names Chamberlain to Upstate New York Team",
-        "refId": "1ea9dba456fe",
+        "text": "Arkansas Hospital to Pay $105K for Discrimination Against Male Employee",
+        "refId": "43c4de3eff37",
         "source": "Insurance Journal"
       },
       {
-        "text": "Kin Expands Launches Condo and Flood Insurance Options in California",
-        "refId": "de2a33f0ea6f",
+        "text": "Minnesota Restaurant Owes $614K in Back Wages",
+        "refId": "7b04994e97a3",
         "source": "Insurance Journal"
       },
       {
-        "text": "Ride-Hailing Policies in New Jersey Must Provide PIP Benefits for Injured Pedestrians",
-        "refId": "f958867dc019",
+        "text": "Louisiana Woman Arrested for Insurance Fraud Following Fire Investigation",
+        "refId": "537f79ae9d0a",
         "source": "Insurance Journal"
       }
     ]
@@ -62,11 +62,6 @@
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Chief Economist's Weekly Watch \u2013 July 27 2026: FOMC Decision, Issuance, & CMBS Credit Performance",
-        "refId": "80ae64ac38fd",
-        "source": "Trepp Talk"
-      },
       {
         "text": "GCM Grosvenor closes credit secondaries fund on $1.2bn",
         "refId": "d666fe4a96d0",
@@ -76,17 +71,17 @@
         "text": "The Grocery-Anchored Maturity Wave Has an Anchor-Lease Problem",
         "refId": "a7acd3bc1cd6",
         "source": "Trepp Talk"
+      },
+      {
+        "text": "Jonathan Bock resigns as BCRED co-CEO",
+        "refId": "4e75f6ccd7c4",
+        "source": "Private Debt Investor"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "High-conviction deals gained favour from secondaries investors in H1",
-        "refId": "26f11f30fe61",
-        "source": "Secondaries Investor"
-      },
       {
         "text": "Uplift Investors collects $670m for debut fund",
         "refId": "7cbcc624c6cf",
@@ -96,6 +91,11 @@
         "text": "StepStone leads on Cabot\u2019s \u00a3140m CV for Premier Modular",
         "refId": "41b397a43e74",
         "source": "Secondaries Investor"
+      },
+      {
+        "text": "Asia\u2019s Affinity loses another senior exec",
+        "refId": "7719b695fdab",
+        "source": "Private Equity International"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Claude Cowork now runs a $10,000/month SEO agency from your desktop. Free with your plan",
-        "refId": "b8a1eed10920",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Monday assorted links",
         "refId": "b1ef5903ecaf",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "*Liberal Worlds: James Bryce and the Democratic Intellect*",
         "refId": "5b0b6987d105",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Roundup #85: Most policy is also industrial policy",
+        "refId": "f6eeb94a9abe",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "High-conviction deals gained favour from secondaries investors in H1",
-        "refId": "26f11f30fe61",
-        "source": "Secondaries Investor"
+        "text": "Huntington banks on fee growth amid deposit cost competition",
+        "refId": "dbe8ad1ce59f",
+        "source": "Banking Dive"
       },
       {
-        "text": "Claude Cowork now runs a $10,000/month SEO agency from your desktop. Free with your plan",
-        "refId": "b8a1eed10920",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "GCM Grosvenor closes credit secondaries fund on $1.2bn",
+        "refId": "d666fe4a96d0",
+        "source": "Private Debt Investor"
       },
       {
-        "text": "Steve Eisman is starting to have doubts about AI. The 'Big Short' investor just sold a key tech stock",
-        "refId": "3d4037dab79f",
-        "source": "CNBC Finance"
+        "text": "Monday assorted links",
+        "refId": "b1ef5903ecaf",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7428.78,
+      "v": 7374.54,
       "base": 7413.18,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24876.912,
+      "v": 24660.867,
       "base": 24932.08,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52747.32,
+      "v": 51922.33,
       "base": 52210.08,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.627,
+      "v": 4.639,
       "base": 4.604,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.74,
+      "v": 19.89,
       "base": 18.21,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.9675,
+      "v": 186.6694,
       "base": 188.22,
       "bp": false
     }
