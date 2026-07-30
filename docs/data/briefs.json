@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "PNC names CISO, while Truist powers up in wealth",
-        "refId": "72a75da4b0ff",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Rent fintech Flex applies for ILC charter",
-        "refId": "3ad2f35c8f7e",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
-        "refId": "3601b502f751",
+        "text": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
+        "refId": "7c5c46025a62",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves after hours: Ford, Teradyne, Visa, KLA Corp and more",
+        "refId": "88f633da32f0",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Melexis Q2 2026 results",
+        "refId": "f4df217416c2",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "401(k) Real Talk Episode 203: July 29, 2026",
-        "refId": "220a217b3d68",
+        "text": "Five Core Truths About Donor-Advised Funds",
+        "refId": "3cd9052fcee3",
         "source": "Wealth Management"
       },
       {
-        "text": "Celebrity Estates: Taylor Swift, Travis Kelce and Prenuptial Agreements",
-        "refId": "411469806e13",
+        "text": "$3B Berger Financial Sells Majority Stake to Bahrain-based Investcorp",
+        "refId": "542d5acfdecd",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Utica National Teams Up With NFL\u2019s Buffalo Bills",
-        "refId": "e303d772ea1d",
+        "text": "US Sanctions Iran\u2019s \u2018Extortion Network\u2019 Over Hormuz Tolls",
+        "refId": "387f30ca609a",
         "source": "Insurance Journal"
       },
       {
-        "text": "6 in 10 New Jerseyans Want Regulations Around AI and Mental Health: Rutgers",
-        "refId": "ffbb1d4642cf",
+        "text": "Drone Strike Near Suez Canal in Egypt Raises New Security Threat in Widening War",
+        "refId": "1181c57ff83a",
         "source": "Insurance Journal"
       },
       {
-        "text": "Trump Asks Supreme Court to Toss $83 Million Carroll Verdict",
-        "refId": "02f1c9d06a7f",
+        "text": "Japan Earthquake\u2019s Insurance Claims May Top $1.1 Billion: Bloomberg Intelligence",
+        "refId": "6047553cb14e",
         "source": "Insurance Journal"
       }
     ]
@@ -63,19 +63,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Where Multifamily Values Tracked or Diverged from Single-Family Home Prices",
-        "refId": "2cf16067e5df",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "Tailwinds supporting mid-market borrowers begin to fade",
-        "refId": "a70e8e1b0374",
-        "source": "Private Debt Investor"
-      },
-      {
         "text": "What a Hawkish Fed Surprise Means for Commercial Real Estate Credit",
         "refId": "33befe708000",
         "source": "Trepp Talk"
+      },
+      {
+        "text": "Barings, North Carolina pension manager in $2.1bn partnership",
+        "refId": "4ec08c61caa4",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "Ebanx and Pagaleve blend Pix and BNPL to expand access to instalment plans in Brazil",
+        "refId": "92a80ca72dc4",
+        "source": "Finextra"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Tuesday assorted links",
-        "refId": "eae7130655ff",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Everything You Need to Know to Master Claude's Fable 5",
         "refId": "c4a24372ff66",
         "source": "The AI Corner (Ruben Dominguez)"
@@ -160,6 +155,11 @@
         "text": "Congratulations to Ross D. and others",
         "refId": "4f510a905a95",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "You will learn to love AI writing",
+        "refId": "f080be57caa4",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "PNC names CISO, while Truist powers up in wealth",
-        "refId": "72a75da4b0ff",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Rent fintech Flex applies for ILC charter",
-        "refId": "3ad2f35c8f7e",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
-        "refId": "3601b502f751",
+        "text": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
+        "refId": "7c5c46025a62",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Everything You Need to Know to Master Claude's Fable 5",
+        "refId": "c4a24372ff66",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Gibson Dunn Hires Rival Wachtell Lipton\u2019s Co-Chair",
+        "refId": "bebf3da692aa",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7384.46,
+      "v": 7425.64,
       "base": 7428.78,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24977.525,
+      "v": 25080.83,
       "base": 24876.91,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51736.8,
+      "v": 52139.56,
       "base": 52747.32,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.661,
+      "v": 4.671,
       "base": 4.622,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.6,
+      "v": 17.94,
       "base": 20.66,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 184.9695,
+      "v": 186.6821,
       "base": 188.97,
       "bp": false
     }
