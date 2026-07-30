@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
-        "refId": "7c5c46025a62",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Stocks making the biggest moves after hours: Ford, Teradyne, Visa, KLA Corp and more",
         "refId": "88f633da32f0",
         "source": "CNBC Finance"
@@ -15,6 +10,11 @@
       {
         "text": "Melexis Q2 2026 results",
         "refId": "f4df217416c2",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Multibeam Signs $140 Million Letter of Intent with the U.S. Department of Commerce",
+        "refId": "fa7f80758f10",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Five Core Truths About Donor-Advised Funds",
-        "refId": "3cd9052fcee3",
+        "text": "IRS Issues Transitional Guidance on Qualified Opportunity Zones",
+        "refId": "e435219d3fd1",
         "source": "Wealth Management"
       },
       {
-        "text": "$3B Berger Financial Sells Majority Stake to Bahrain-based Investcorp",
-        "refId": "542d5acfdecd",
+        "text": "Proceeds From Seattle Seahawks Sale to Fund Charitable Foundations",
+        "refId": "cee95abe3c4e",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What a Hawkish Fed Surprise Means for Commercial Real Estate Credit",
-        "refId": "33befe708000",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Barings, North Carolina pension manager in $2.1bn partnership",
         "refId": "4ec08c61caa4",
         "source": "Private Debt Investor"
@@ -75,6 +70,11 @@
       {
         "text": "Ebanx and Pagaleve blend Pix and BNPL to expand access to instalment plans in Brazil",
         "refId": "92a80ca72dc4",
+        "source": "Finextra"
+      },
+      {
+        "text": "Singapore's central bank convenes AI-Driven Cyber and Technology Risk Taskforce",
+        "refId": "2a35369176ed",
         "source": "Finextra"
       }
     ]
@@ -103,18 +103,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Gibson Dunn Hires Rival Wachtell Lipton\u2019s Co-Chair",
-        "refId": "bebf3da692aa",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "The Chips Rout Goes Global",
-        "refId": "5be450f6443d",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Big Tech Turmoil Clouds the A.I. Earnings Picture",
         "refId": "251c4d09ad05",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Will Warsh Crash The Stock Market?",
+        "refId": "7ab5f53ff340",
+        "source": "Capital Flows Research"
+      },
+      {
+        "text": "Sick of A.I.-Generated Content? The \u2018Slop Janitor\u2019 Is Here to Help.",
+        "refId": "a044ff602313",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Everything You Need to Know to Master Claude's Fable 5",
-        "refId": "c4a24372ff66",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Congratulations to Ross D. and others",
         "refId": "4f510a905a95",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "You will learn to love AI writing",
         "refId": "f080be57caa4",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Data on Chinese innovation",
+        "refId": "c1bcf6b00f4d",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "44 states are aligned on one thing in their fight against prediction markets. It's about sports wagering",
-        "refId": "7c5c46025a62",
+        "text": "Barings, North Carolina pension manager in $2.1bn partnership",
+        "refId": "4ec08c61caa4",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "Stocks making the biggest moves after hours: Ford, Teradyne, Visa, KLA Corp and more",
+        "refId": "88f633da32f0",
         "source": "CNBC Finance"
       },
       {
-        "text": "Everything You Need to Know to Master Claude's Fable 5",
-        "refId": "c4a24372ff66",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "Gibson Dunn Hires Rival Wachtell Lipton\u2019s Co-Chair",
-        "refId": "bebf3da692aa",
-        "source": "Dealbook (NYT)"
+        "text": "Congratulations to Ross D. and others",
+        "refId": "4f510a905a95",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7425.64,
+      "v": 7437.63,
       "base": 7428.78,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25080.83,
+      "v": 25122.178,
       "base": 24876.91,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52139.56,
+      "v": 52208.06,
       "base": 52747.32,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.671,
+      "v": 4.663,
       "base": 4.622,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.94,
+      "v": 17.46,
       "base": 20.66,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.6821,
+      "v": 186.78,
       "base": 188.97,
       "bp": false
     }
