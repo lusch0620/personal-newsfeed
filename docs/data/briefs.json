@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves after hours: Ford, Teradyne, Visa, KLA Corp and more",
-        "refId": "88f633da32f0",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Melexis Q2 2026 results",
         "refId": "f4df217416c2",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -16,6 +11,11 @@
         "text": "Multibeam Signs $140 Million Letter of Intent with the U.S. Department of Commerce",
         "refId": "fa7f80758f10",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: Biogen, Vertiv, GE HealthCare, Generac & more",
+        "refId": "7b2ada3d3f30",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "IRS Issues Transitional Guidance on Qualified Opportunity Zones",
-        "refId": "e435219d3fd1",
+        "text": "Proceeds From Seattle Seahawks Sale to Fund Charitable Foundations",
+        "refId": "cee95abe3c4e",
         "source": "Wealth Management"
       },
       {
-        "text": "Proceeds From Seattle Seahawks Sale to Fund Charitable Foundations",
-        "refId": "cee95abe3c4e",
+        "text": "ACA Group: AI Skyrockets as Firms\u2019 Top Compliance Concern",
+        "refId": "abc1d735b51f",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Barings, North Carolina pension manager in $2.1bn partnership",
-        "refId": "4ec08c61caa4",
-        "source": "Private Debt Investor"
-      },
-      {
         "text": "Ebanx and Pagaleve blend Pix and BNPL to expand access to instalment plans in Brazil",
         "refId": "92a80ca72dc4",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "Singapore's central bank convenes AI-Driven Cyber and Technology Risk Taskforce",
         "refId": "2a35369176ed",
+        "source": "Finextra"
+      },
+      {
+        "text": "Private market fund accounting platform LemonEdge raises $21 million",
+        "refId": "d669ae694c93",
         "source": "Finextra"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Congratulations to Ross D. and others",
-        "refId": "4f510a905a95",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "You will learn to love AI writing",
         "refId": "f080be57caa4",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Data on Chinese innovation",
         "refId": "c1bcf6b00f4d",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Every Tech Company Is Falling Into A Layoff Trap",
+        "refId": "aadd957c4bed",
+        "source": "The AI Corner (Ruben Dominguez)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Barings, North Carolina pension manager in $2.1bn partnership",
-        "refId": "4ec08c61caa4",
-        "source": "Private Debt Investor"
+        "text": "Ebanx and Pagaleve blend Pix and BNPL to expand access to instalment plans in Brazil",
+        "refId": "92a80ca72dc4",
+        "source": "Finextra"
       },
       {
-        "text": "Stocks making the biggest moves after hours: Ford, Teradyne, Visa, KLA Corp and more",
-        "refId": "88f633da32f0",
-        "source": "CNBC Finance"
+        "text": "Visa Lays Off 7% of Workforce, Charging AI With Some Tasks",
+        "refId": "153323f83c5a",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Congratulations to Ross D. and others",
-        "refId": "4f510a905a95",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Can China Replace Lithography Powerhouse ASML?",
+        "refId": "f7e715c83187",
+        "source": "The Daily Upside"
       }
     ]
   },
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 17.46,
+      "v": 17.09,
       "base": 20.66,
       "bp": false
     },
