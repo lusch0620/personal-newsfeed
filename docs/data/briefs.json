@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Bloomberg to Buy Private Markets Data Platform Canoe Intelligence",
-        "refId": "5f8789604c14",
+        "text": "401(k) Real Talk Episode 203: July 29, 2026",
+        "refId": "220a217b3d68",
         "source": "Wealth Management"
       },
       {
-        "text": "401(k) Real Talk Episode 203: July 29, 2026",
-        "refId": "220a217b3d68",
+        "text": "Celebrity Estates: Taylor Swift, Travis Kelce and Prenuptial Agreements",
+        "refId": "411469806e13",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Brown & Brown Estimates Cost of Howden-Driven Talent War Could Hit $60M in 2026",
-        "refId": "ed19cbcd293f",
+        "text": "Utica National Teams Up With NFL\u2019s Buffalo Bills",
+        "refId": "e303d772ea1d",
         "source": "Insurance Journal"
       },
       {
-        "text": "Verisk Buys McKenzie Intelligence Services, a UK-Based Catastrophe Analysis Firm",
-        "refId": "f3ef977416cf",
+        "text": "6 in 10 New Jerseyans Want Regulations Around AI and Mental Health: Rutgers",
+        "refId": "ffbb1d4642cf",
         "source": "Insurance Journal"
       },
       {
-        "text": "Inszone Insurance Acquires Pennsylvania Hospitality Specialist Progress Brokerage",
-        "refId": "9655be664d7a",
+        "text": "Trump Asks Supreme Court to Toss $83 Million Carroll Verdict",
+        "refId": "02f1c9d06a7f",
         "source": "Insurance Journal"
       }
     ]
@@ -73,9 +73,9 @@
         "source": "Private Debt Investor"
       },
       {
-        "text": "Tech jobs go as Visa cuts workforce by 7%",
-        "refId": "e7643a0a8063",
-        "source": "Finextra"
+        "text": "What a Hawkish Fed Surprise Means for Commercial Real Estate Credit",
+        "refId": "33befe708000",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -83,19 +83,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Side Letter: Aligning GPs\u2019 pockets?",
-        "refId": "6a7ed4dd715c",
-        "source": "Private Equity International"
+        "text": "GTCR closes debut capital solutions fund as GPs seize on hybrid strategies",
+        "refId": "c5561e075772",
+        "source": "Buyouts Insider"
       },
       {
-        "text": "Family office GreenBear reducing PE exposure, favours SMAs",
-        "refId": "0ec030f31fe6",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Family office GreenBear taps secondaries in portfolio revamp",
-        "refId": "7b2627518fb8",
+        "text": "Details of FoxPath\u2019s debut credit secondaries fund disclosed",
+        "refId": "4eabeedae608",
         "source": "Secondaries Investor"
+      },
+      {
+        "text": "Side Letter: Keeping an AI out",
+        "refId": "6dc4f4421577",
+        "source": "Private Equity International"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Side Letter: Aligning GPs\u2019 pockets?",
-        "refId": "6a7ed4dd715c",
-        "source": "Private Equity International"
+        "text": "PNC names CISO, while Truist powers up in wealth",
+        "refId": "72a75da4b0ff",
+        "source": "Banking Dive"
       },
       {
-        "text": "Family office GreenBear reducing PE exposure, favours SMAs",
-        "refId": "0ec030f31fe6",
-        "source": "Private Equity International"
+        "text": "Rent fintech Flex applies for ILC charter",
+        "refId": "3ad2f35c8f7e",
+        "source": "Banking Dive"
       },
       {
-        "text": "Family office GreenBear taps secondaries in portfolio revamp",
-        "refId": "7b2627518fb8",
-        "source": "Secondaries Investor"
+        "text": "The future of Wall Street is here as startups and brokers build AI agents to trade 24/7",
+        "refId": "3601b502f751",
+        "source": "CNBC Finance"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7316.15,
-      "base": 7413.18,
+      "v": 7384.46,
+      "base": 7428.78,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24442.941,
-      "base": 24932.08,
+      "v": 24977.525,
+      "base": 24876.91,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51594.14,
-      "base": 52210.08,
+      "v": 51736.8,
+      "base": 52747.32,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.622,
+      "v": 4.661,
       "base": 4.622,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 19.02,
+      "v": 18.6,
       "base": 20.66,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 183.9221,
-      "base": 188.22,
+      "v": 184.9695,
+      "base": 188.97,
       "bp": false
     }
   ]
