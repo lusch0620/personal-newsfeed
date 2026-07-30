@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves premarket: Coca-Cola, Sherwin-Williams, Johnson & Johnson & more",
-        "refId": "1a88615f78a1",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Visa is cutting 7% of employees in efficiency push as AI reshapes work",
         "refId": "5b2de62e34a5",
         "source": "CNBC Finance"
@@ -16,17 +11,17 @@
         "text": "PNC names CISO, while Truist powers up in wealth",
         "refId": "72a75da4b0ff",
         "source": "Banking Dive"
+      },
+      {
+        "text": "Rent fintech Flex applies for ILC charter",
+        "refId": "3ad2f35c8f7e",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Merrill Lynch's  'Hail Mary' attempt to compel Dynasty into arbitration over OpenArc breakaway fell yards short after a federal judge blocked the effort -- with a whole series of ramifications",
-        "refId": "4a8b1011866a",
-        "source": "RIABiz"
-      },
       {
         "text": "LPL CEO Rich Steinmeier finally unveils AI-powered 'LPL Latitude' to show his firm's solidly in the artificial intelligence game and ready to counter Altruist's Hazel after months of stock-price depression",
         "refId": "edc491351672",
@@ -35,6 +30,11 @@
       {
         "text": "$11B F.L.Putnam Lands Minority Investment from Bixby Wealth",
         "refId": "807cc4fbdcc8",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Bloomberg to Buy Private Markets Data Platform Canoe Intelligence",
+        "refId": "5f8789604c14",
         "source": "Wealth Management"
       }
     ]
@@ -113,8 +113,8 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "AI isn\u2019t taking jobs, yet",
-        "refId": "462274907708",
+        "text": "What\u2019s up with CCC-rated bond spreads?",
+        "refId": "b7bacea4203f",
         "source": "Financial Times Markets"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Roundup #85: Most policy is also industrial policy",
-        "refId": "f6eeb94a9abe",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
         "text": "The Confucian fertility paradox",
         "refId": "08cf3b00638b",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "The AEA presidential election",
         "refId": "07144a7bdfdf",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The Apples and Oranges Tribunal",
+        "refId": "6ea3c59e54b0",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,18 +167,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Roundup #85: Most policy is also industrial policy",
-        "refId": "f6eeb94a9abe",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
-        "text": "Merrill Lynch's  'Hail Mary' attempt to compel Dynasty into arbitration over OpenArc breakaway fell yards short after a federal judge blocked the effort -- with a whole series of ramifications",
-        "refId": "4a8b1011866a",
-        "source": "RIABiz"
-      },
-      {
         "text": "YouTube\u2019s Peacock Partnership is a Streaming Bundle Breakthrough",
         "refId": "c059a21c89b1",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "SpaceX Rival Rocket Lab Scores Record Contract in as Space Race Engines Roar",
+        "refId": "cd5324235c2c",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "China\u2019s Making Memory with its New Biggest Company",
+        "refId": "436946c4322d",
         "source": "The Daily Upside"
       }
     ]
