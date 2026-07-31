@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "July 2026 FOMC Meeting: The Fed Holds With a Hike Still on the Table",
-        "refId": "aeff51e35f76",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "NatWest teams with Uinsure to deliver home insurance quotes in seconds",
         "refId": "717b31db525d",
         "source": "Finextra"
@@ -76,17 +71,17 @@
         "text": "Freehand raises $75m for AI agents that manage supply chain spend",
         "refId": "9c5f80d8e7a9",
         "source": "Finextra"
+      },
+      {
+        "text": "Lloyds aims for a further \u00a32 billion in cost savings with AI to the fore",
+        "refId": "39321d0852cc",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "TJC eyes November final close for seventh flagship",
-        "refId": "78601937e1f1",
-        "source": "Private Equity International"
-      },
       {
         "text": "Evercore bets on APAC secondaries growth with team overhaul",
         "refId": "69dabb7cf4e2",
@@ -96,6 +91,11 @@
         "text": "Hamilton Lane leads single-asset CV for wealth management asset",
         "refId": "1d1ae4a3018b",
         "source": "Secondaries Investor"
+      },
+      {
+        "text": "Side Letter: CVC\u2019s biggest flagship yet?",
+        "refId": "1bc57b159d47",
+        "source": "Private Equity International"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "TJC eyes November final close for seventh flagship",
-        "refId": "78601937e1f1",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "July 2026 FOMC Meeting: The Fed Holds With a Hike Still on the Table",
-        "refId": "aeff51e35f76",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Silicon Motion Announces Results for the Quarterly Period Ended June 30, 2026",
         "refId": "5fcbdf63fde2",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "The U.S. wants Asia to use its AI \u2014 but China dominates cheaper models",
+        "refId": "1021056b4646",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "NatWest teams with Uinsure to deliver home insurance quotes in seconds",
+        "refId": "717b31db525d",
+        "source": "Finextra"
       }
     ]
   },
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 16.05,
+      "v": 15.99,
       "base": 17.09,
       "bp": false
     },
