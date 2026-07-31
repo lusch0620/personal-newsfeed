@@ -3,30 +3,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Melexis Q2 2026 results",
-        "refId": "f4df217416c2",
+        "text": "Eliyan Achieves Unicorn Status with $145 Million Series C to Advance Electro-optical Interconnects for AI Infrastructure",
+        "refId": "11767394263d",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Multibeam Signs $140 Million Letter of Intent with the U.S. Department of Commerce",
-        "refId": "fa7f80758f10",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "PNC\u2019s wealth unit targets mass-affluent clients with lending option",
+        "refId": "8883a165d37f",
+        "source": "Banking Dive"
       },
       {
-        "text": "Stocks making the biggest moves premarket: Biogen, Vertiv, GE HealthCare, Generac & more",
-        "refId": "7b2ada3d3f30",
-        "source": "CNBC Finance"
+        "text": "Ex-CFPB official tapped to lead NJ consumer affairs unit",
+        "refId": "ccf0d07e9a5d",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "LPL CEO Rich Steinmeier finally unveils AI-powered 'LPL Latitude' to show his firm's solidly in the artificial intelligence game and ready to counter Altruist's Hazel after months of stock-price depression",
-        "refId": "edc491351672",
-        "source": "RIABiz"
-      },
       {
         "text": "Proceeds From Seattle Seahawks Sale to Fund Charitable Foundations",
         "refId": "cee95abe3c4e",
@@ -36,6 +31,11 @@
         "text": "ACA Group: AI Skyrockets as Firms\u2019 Top Compliance Concern",
         "refId": "abc1d735b51f",
         "source": "Wealth Management"
+      },
+      {
+        "text": "FINRA: RBC\u2019s AML Rules Risked Missing Red Flags",
+        "refId": "17ff66a93331",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Drone Strike Near Suez Canal in Egypt Raises New Security Threat in Widening War",
-        "refId": "1181c57ff83a",
+        "text": "AM Best Lifts Mid-Hudson Group\u2019s Outlooks to Stable",
+        "refId": "f77055d1b657",
         "source": "Insurance Journal"
       },
       {
-        "text": "Japan Earthquake\u2019s Insurance Claims May Top $1.1 Billion: Bloomberg Intelligence",
-        "refId": "6047553cb14e",
+        "text": "People Moves: UCA Names Balakrishnan Controller, Makes Lemon VP of Underwriting",
+        "refId": "8cef492a8caf",
         "source": "Insurance Journal"
       },
       {
-        "text": "The Baldwin Group says softer property market offers opportunities despite ongoing casualty pressures",
-        "refId": "8501769fa49b",
-        "source": "Reinsurance News"
+        "text": "Insurer Says Virginia Law Blocks Payment of $10M Punitive Damages for \u2018Intentional\u2019 Acts",
+        "refId": "5c08e91b213b",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Private market fund accounting platform LemonEdge raises $21 million",
-        "refId": "d669ae694c93",
-        "source": "Finextra"
-      },
-      {
-        "text": "Bloomberg to buy Canoe Intelligence for private markets push",
-        "refId": "af342a4f3eff",
-        "source": "Finextra"
-      },
-      {
         "text": "Details of FoxPath\u2019s debut credit secondaries fund disclosed",
         "refId": "cd27bbb3ac0a",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "Q2 2026 Bank Earnings: C&I Growth Came From Private Credit Share Gains, Not AI",
+        "refId": "c3931cc12367",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Ohio Police & Fire adopts aggressive private credit pacing plan",
+        "refId": "373909eb0d19",
         "source": "Private Debt Investor"
       }
     ]
@@ -83,30 +83,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "GTCR closes debut capital solutions fund as GPs seize on hybrid strategies",
-        "refId": "c5561e075772",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "Details of FoxPath\u2019s debut credit secondaries fund disclosed",
-        "refId": "4eabeedae608",
+        "text": "Secondaries funds punch above their weight in real estate fundraising",
+        "refId": "a1831dd907b6",
         "source": "Secondaries Investor"
       },
       {
-        "text": "Side Letter: Keeping an AI out",
-        "refId": "6dc4f4421577",
+        "text": "Number Crunch: The UK remains private equity\u2019s cup of tea",
+        "refId": "0aeac59da943",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Family office GreenBear reducing PE exposure, favors SMAs",
+        "refId": "b23ae4859a1e",
+        "source": "Buyouts Insider"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Big Tech Turmoil Clouds the A.I. Earnings Picture",
-        "refId": "251c4d09ad05",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "Will Warsh Crash The Stock Market?",
         "refId": "7ab5f53ff340",
@@ -115,6 +110,11 @@
       {
         "text": "Sick of A.I.-Generated Content? The \u2018Slop Janitor\u2019 Is Here to Help.",
         "refId": "a044ff602313",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Apple\u2019s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
+        "refId": "a5438e8aa5c4",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "You will learn to love AI writing",
-        "refId": "f080be57caa4",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Data on Chinese innovation",
-        "refId": "c1bcf6b00f4d",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Every Tech Company Is Falling Into A Layoff Trap",
         "refId": "aadd957c4bed",
         "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Wednesday assorted links",
+        "refId": "cc7eead0b206",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "What should I ask Jared Diamond?",
+        "refId": "a66e1862b67e",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "You will learn to love AI writing",
-        "refId": "f080be57caa4",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Melexis Q2 2026 results",
-        "refId": "f4df217416c2",
+        "text": "Eliyan Achieves Unicorn Status with $145 Million Series C to Advance Electro-optical Interconnects for AI Infrastructure",
+        "refId": "11767394263d",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "LPL CEO Rich Steinmeier finally unveils AI-powered 'LPL Latitude' to show his firm's solidly in the artificial intelligence game and ready to counter Altruist's Hazel after months of stock-price depression",
-        "refId": "edc491351672",
-        "source": "RIABiz"
+        "text": "Secondaries funds punch above their weight in real estate fundraising",
+        "refId": "a1831dd907b6",
+        "source": "Secondaries Investor"
+      },
+      {
+        "text": "Number Crunch: The UK remains private equity\u2019s cup of tea",
+        "refId": "0aeac59da943",
+        "source": "Private Equity International"
       }
     ]
   },
@@ -204,14 +204,14 @@
     },
     {
       "nm": "US 10Y",
-      "v": 4.663,
-      "base": 4.622,
+      "v": 4.692,
+      "base": 4.663,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.09,
-      "base": 20.66,
+      "v": 17.21,
+      "base": 17.09,
       "bp": false
     },
     {
