@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Eliyan Achieves Unicorn Status with $145 Million Series C to Advance Electro-optical Interconnects for AI Infrastructure",
-        "refId": "11767394263d",
+        "text": "Soitec held its 2026 Annual General Meeting",
+        "refId": "17417d5d7802",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "PNC\u2019s wealth unit targets mass-affluent clients with lending option",
-        "refId": "8883a165d37f",
-        "source": "Banking Dive"
+        "text": "Tenue de l\u2019Assembl\u00e9e G\u00e9n\u00e9rale Annuelle 2026 de Soitec",
+        "refId": "e6ac9f28f588",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Ex-CFPB official tapped to lead NJ consumer affairs unit",
-        "refId": "ccf0d07e9a5d",
+        "text": "Banc of California sees surprise $251.3M loss",
+        "refId": "a6185c521b2a",
         "source": "Banking Dive"
       }
     ]
@@ -23,19 +23,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Proceeds From Seattle Seahawks Sale to Fund Charitable Foundations",
-        "refId": "cee95abe3c4e",
+        "text": "China Announces Landmark Rules on Offshore Trusts",
+        "refId": "012b9ba99d98",
         "source": "Wealth Management"
       },
       {
-        "text": "ACA Group: AI Skyrockets as Firms\u2019 Top Compliance Concern",
-        "refId": "abc1d735b51f",
+        "text": "Mercer Advisors Launches Second Generation of Aspen Unified Operating Platform",
+        "refId": "b9315466ddca",
         "source": "Wealth Management"
       },
       {
-        "text": "FINRA: RBC\u2019s AML Rules Risked Missing Red Flags",
-        "refId": "17ff66a93331",
-        "source": "Wealth Management"
+        "text": "JP Morgan, Fidelity, and Schwab (and the like) are set to rake in billion of dollars in fees, charging people to use their own data; that might sound bad, but experts say the banks mostly wear white hats on this issue",
+        "refId": "ed1501b2a42f",
+        "source": "RIABiz"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AM Best Lifts Mid-Hudson Group\u2019s Outlooks to Stable",
-        "refId": "f77055d1b657",
+        "text": "CBIZ Brokerage to Be Spun Off, Backed by Private Equity, After $5B Grant Thornton Deal",
+        "refId": "0780e149df36",
         "source": "Insurance Journal"
       },
       {
-        "text": "People Moves: UCA Names Balakrishnan Controller, Makes Lemon VP of Underwriting",
-        "refId": "8cef492a8caf",
+        "text": "Musk\u2019s xAI Sues Minnesota Over Ban on Nudification Technology",
+        "refId": "2662f81c0a09",
         "source": "Insurance Journal"
       },
       {
-        "text": "Insurer Says Virginia Law Blocks Payment of $10M Punitive Damages for \u2018Intentional\u2019 Acts",
-        "refId": "5c08e91b213b",
+        "text": "Texas Ban on Several THC Products Goes Into Effect",
+        "refId": "4669d61b0b71",
         "source": "Insurance Journal"
       }
     ]
@@ -62,11 +62,6 @@
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Details of FoxPath\u2019s debut credit secondaries fund disclosed",
-        "refId": "cd27bbb3ac0a",
-        "source": "Private Debt Investor"
-      },
       {
         "text": "Q2 2026 Bank Earnings: C&I Growth Came From Private Credit Share Gains, Not AI",
         "refId": "c3931cc12367",
@@ -76,6 +71,11 @@
         "text": "Ohio Police & Fire adopts aggressive private credit pacing plan",
         "refId": "373909eb0d19",
         "source": "Private Debt Investor"
+      },
+      {
+        "text": "July 2026 FOMC Meeting: The Fed Holds With a Hike Still on the Table",
+        "refId": "aeff51e35f76",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -83,19 +83,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Secondaries funds punch above their weight in real estate fundraising",
-        "refId": "a1831dd907b6",
-        "source": "Secondaries Investor"
-      },
-      {
-        "text": "Number Crunch: The UK remains private equity\u2019s cup of tea",
-        "refId": "0aeac59da943",
-        "source": "Private Equity International"
-      },
-      {
         "text": "Family office GreenBear reducing PE exposure, favors SMAs",
         "refId": "b23ae4859a1e",
         "source": "Buyouts Insider"
+      },
+      {
+        "text": "TJC eyes November final close for seventh flagship",
+        "refId": "78601937e1f1",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Evercore bets on APAC secondaries growth with team overhaul",
+        "refId": "69dabb7cf4e2",
+        "source": "Secondaries Investor"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Every Tech Company Is Falling Into A Layoff Trap",
-        "refId": "aadd957c4bed",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Wednesday assorted links",
         "refId": "cc7eead0b206",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "What should I ask Jared Diamond?",
         "refId": "a66e1862b67e",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Forty interesting facts about Australia",
+        "refId": "a659eea251d8",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Eliyan Achieves Unicorn Status with $145 Million Series C to Advance Electro-optical Interconnects for AI Infrastructure",
-        "refId": "11767394263d",
+        "text": "Soitec held its 2026 Annual General Meeting",
+        "refId": "17417d5d7802",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Secondaries funds punch above their weight in real estate fundraising",
-        "refId": "a1831dd907b6",
-        "source": "Secondaries Investor"
+        "text": "Tenue de l\u2019Assembl\u00e9e G\u00e9n\u00e9rale Annuelle 2026 de Soitec",
+        "refId": "e6ac9f28f588",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Number Crunch: The UK remains private equity\u2019s cup of tea",
-        "refId": "0aeac59da943",
-        "source": "Private Equity International"
+        "text": "Wednesday assorted links",
+        "refId": "cc7eead0b206",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7437.63,
-      "base": 7428.78,
+      "v": 7444.19,
+      "base": 7316.15,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25122.178,
-      "base": 24876.91,
+      "v": 25177.824,
+      "base": 24442.94,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52208.06,
-      "base": 52747.32,
+      "v": 52314.19,
+      "base": 51594.14,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.692,
+      "v": 4.731,
       "base": 4.663,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.21,
+      "v": 17.45,
       "base": 17.09,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.78,
-      "base": 188.97,
+      "v": 187.427,
+      "base": 183.92,
       "bp": false
     }
   ]
