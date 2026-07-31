@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Soitec held its 2026 Annual General Meeting",
-        "refId": "17417d5d7802",
+        "text": "FormFactor, Inc. Reports 2026 Second Quarter Results",
+        "refId": "c6f8800422d9",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Tenue de l\u2019Assembl\u00e9e G\u00e9n\u00e9rale Annuelle 2026 de Soitec",
-        "refId": "e6ac9f28f588",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Stocks making the biggest moves after hours: Microsoft, Meta, Starbucks, Carvana and more",
+        "refId": "1313ab3a9a53",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Banc of California sees surprise $251.3M loss",
-        "refId": "a6185c521b2a",
-        "source": "Banking Dive"
+        "text": "Silicon Motion Announces Results for the Quarterly Period Ended June 30, 2026",
+        "refId": "5fcbdf63fde2",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -23,19 +23,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China Announces Landmark Rules on Offshore Trusts",
-        "refId": "012b9ba99d98",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Mercer Advisors Launches Second Generation of Aspen Unified Operating Platform",
-        "refId": "b9315466ddca",
-        "source": "Wealth Management"
-      },
-      {
         "text": "JP Morgan, Fidelity, and Schwab (and the like) are set to rake in billion of dollars in fees, charging people to use their own data; that might sound bad, but experts say the banks mostly wear white hats on this issue",
         "refId": "ed1501b2a42f",
         "source": "RIABiz"
+      },
+      {
+        "text": "The Diamond Podcast for Financial Advisors: Which Independent Model Is Right for Financial Advisors?",
+        "refId": "390789758c1c",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Adjusted for Risk: How to Get Upside Gains Without the Heavy Risk",
+        "refId": "4cd60afe4f68",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Q2 2026 Bank Earnings: C&I Growth Came From Private Credit Share Gains, Not AI",
-        "refId": "c3931cc12367",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Ohio Police & Fire adopts aggressive private credit pacing plan",
         "refId": "373909eb0d19",
         "source": "Private Debt Investor"
@@ -76,6 +71,11 @@
         "text": "July 2026 FOMC Meeting: The Fed Holds With a Hike Still on the Table",
         "refId": "aeff51e35f76",
         "source": "Trepp Talk"
+      },
+      {
+        "text": "NatWest teams with Uinsure to deliver home insurance quotes in seconds",
+        "refId": "717b31db525d",
+        "source": "Finextra"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Wednesday assorted links",
-        "refId": "cc7eead0b206",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "What should I ask Jared Diamond?",
         "refId": "a66e1862b67e",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Forty interesting facts about Australia",
         "refId": "a659eea251d8",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "An experiment for our schools",
+        "refId": "ac5e5043150e",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Soitec held its 2026 Annual General Meeting",
-        "refId": "17417d5d7802",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "Tenue de l\u2019Assembl\u00e9e G\u00e9n\u00e9rale Annuelle 2026 de Soitec",
-        "refId": "e6ac9f28f588",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "Wednesday assorted links",
-        "refId": "cc7eead0b206",
+        "text": "What should I ask Jared Diamond?",
+        "refId": "a66e1862b67e",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Ohio Police & Fire adopts aggressive private credit pacing plan",
+        "refId": "373909eb0d19",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "Family office GreenBear reducing PE exposure, favors SMAs",
+        "refId": "b23ae4859a1e",
+        "source": "Buyouts Insider"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7444.19,
+      "v": 7481.23,
       "base": 7316.15,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25177.824,
+      "v": 25314.908,
       "base": 24442.94,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52314.19,
+      "v": 52516.77,
       "base": 51594.14,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.731,
+      "v": 4.741,
       "base": 4.663,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.45,
+      "v": 16.65,
       "base": 17.09,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.427,
+      "v": 187.121,
       "base": 183.92,
       "bp": false
     }
