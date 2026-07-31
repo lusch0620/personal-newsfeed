@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "FormFactor, Inc. Reports 2026 Second Quarter Results",
-        "refId": "c6f8800422d9",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "Stocks making the biggest moves after hours: Microsoft, Meta, Starbucks, Carvana and more",
-        "refId": "1313ab3a9a53",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Silicon Motion Announces Results for the Quarterly Period Ended June 30, 2026",
         "refId": "5fcbdf63fde2",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "The U.S. wants Asia to use its AI \u2014 but China dominates cheaper models",
+        "refId": "1021056b4646",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations",
+        "refId": "3cf75a481481",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "The Diamond Podcast for Financial Advisors: Which Independent Model Is Right for Financial Advisors?",
-        "refId": "390789758c1c",
+        "text": "WealthStack Roundup: Worthy Analyzes $1B in Client Income as Tax Tech Grows",
+        "refId": "9d109274df59",
         "source": "Wealth Management"
       },
       {
-        "text": "Adjusted for Risk: How to Get Upside Gains Without the Heavy Risk",
-        "refId": "4cd60afe4f68",
+        "text": "&amp;Partners Adds $1.8B Team From Wells Fargo Advisors",
+        "refId": "603bdfb8334e",
         "source": "Wealth Management"
       }
     ]
@@ -42,11 +42,6 @@
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "CBIZ Brokerage to Be Spun Off, Backed by Private Equity, After $5B Grant Thornton Deal",
-        "refId": "0780e149df36",
-        "source": "Insurance Journal"
-      },
       {
         "text": "Musk\u2019s xAI Sues Minnesota Over Ban on Nudification Technology",
         "refId": "2662f81c0a09",
@@ -56,17 +51,17 @@
         "text": "Texas Ban on Several THC Products Goes Into Effect",
         "refId": "4669d61b0b71",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "State Farm to Begin Issuing Dividend Payments to Louisiana Drivers",
+        "refId": "7fa506a52ef2",
+        "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Ohio Police & Fire adopts aggressive private credit pacing plan",
-        "refId": "373909eb0d19",
-        "source": "Private Debt Investor"
-      },
       {
         "text": "July 2026 FOMC Meeting: The Fed Holds With a Hike Still on the Table",
         "refId": "aeff51e35f76",
@@ -76,17 +71,17 @@
         "text": "NatWest teams with Uinsure to deliver home insurance quotes in seconds",
         "refId": "717b31db525d",
         "source": "Finextra"
+      },
+      {
+        "text": "Freehand raises $75m for AI agents that manage supply chain spend",
+        "refId": "9c5f80d8e7a9",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Family office GreenBear reducing PE exposure, favors SMAs",
-        "refId": "b23ae4859a1e",
-        "source": "Buyouts Insider"
-      },
       {
         "text": "TJC eyes November final close for seventh flagship",
         "refId": "78601937e1f1",
@@ -95,6 +90,11 @@
       {
         "text": "Evercore bets on APAC secondaries growth with team overhaul",
         "refId": "69dabb7cf4e2",
+        "source": "Secondaries Investor"
+      },
+      {
+        "text": "Hamilton Lane leads single-asset CV for wealth management asset",
+        "refId": "1d1ae4a3018b",
         "source": "Secondaries Investor"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What should I ask Jared Diamond?",
-        "refId": "a66e1862b67e",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Forty interesting facts about Australia",
         "refId": "a659eea251d8",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "An experiment for our schools",
         "refId": "ac5e5043150e",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Why did South Korean stocks just crash?",
+        "refId": "b6ed6636e63a",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What should I ask Jared Diamond?",
-        "refId": "a66e1862b67e",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "TJC eyes November final close for seventh flagship",
+        "refId": "78601937e1f1",
+        "source": "Private Equity International"
       },
       {
-        "text": "Ohio Police & Fire adopts aggressive private credit pacing plan",
-        "refId": "373909eb0d19",
-        "source": "Private Debt Investor"
+        "text": "July 2026 FOMC Meeting: The Fed Holds With a Hike Still on the Table",
+        "refId": "aeff51e35f76",
+        "source": "Trepp Talk"
       },
       {
-        "text": "Family office GreenBear reducing PE exposure, favors SMAs",
-        "refId": "b23ae4859a1e",
-        "source": "Buyouts Insider"
+        "text": "Silicon Motion Announces Results for the Quarterly Period Ended June 30, 2026",
+        "refId": "5fcbdf63fde2",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7481.23,
+      "v": 7489.72,
       "base": 7316.15,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25314.908,
+      "v": 25373.854,
       "base": 24442.94,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52516.77,
+      "v": 52485.03,
       "base": 51594.14,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.741,
+      "v": 4.745,
       "base": 4.663,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.65,
+      "v": 16.05,
       "base": 17.09,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.121,
+      "v": 187.026,
       "base": 183.92,
       "bp": false
     }
