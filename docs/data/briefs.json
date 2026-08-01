@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Monolithic Power Systems Reports Second Quarter Results on July 30, 2026",
-        "refId": "58c819c852c2",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "Stocks making the biggest moves after hours: Apple, Amazon, Rivian, Reddit & more",
-        "refId": "9a05150fd7f4",
+        "text": "China\u2019s U.S.-bound shipments fall in July after brief recovery, survey shows",
+        "refId": "c7880b6d966c",
         "source": "CNBC Finance"
       },
       {
-        "text": "China\u2019s U.S.-bound shipments fall in July after brief recovery, survey shows",
-        "refId": "c7880b6d966c",
+        "text": "More consumer companies are staying private for longer, avoiding the IPO road",
+        "refId": "512104e13273",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: Replimune, Chevron, Apple, Amazon, Moderna & more",
+        "refId": "d09d7c4ae864",
         "source": "CNBC Finance"
       }
     ]
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Savant Wealth Secures Stake From Hamilton Lane, Which Keeps Cynosure Invested",
-        "refId": "02c05a136207",
+        "text": "LPL shares soar after hours on earnings and good news about 'Commonwealth' unit -- projected $25-million 'run-rate' uptick, and details from CEO about why 85% rep retention should climb to 90%",
+        "refId": "3c2c23955641",
+        "source": "RIABiz"
+      },
+      {
+        "text": "LPL Financial Recruited Assets Jump 35% in Q2",
+        "refId": "47301285ff78",
         "source": "Wealth Management"
       },
       {
-        "text": "RIA Edge Podcast: Growing a $6B RIA Without M&amp;A with Gregg George",
-        "refId": "87ad4fe3c68d",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Cerulli: Wealth Allocations to Alts Could Reach $4T within Five Years",
-        "refId": "c143fd971af6",
+        "text": "Deals &amp; Moves: Wealth Enhancement Plants Flag in Alabama with $462M RIA",
+        "refId": "6b5da09d920f",
         "source": "Wealth Management"
       }
     ]
@@ -83,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "KKR\u2019s record realizations quarter fuels pushback on industry anxiety",
-        "refId": "18b834cfe5e1",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "The shorter the hold, the higher the burden",
-        "refId": "362ebb3bc007",
-        "source": "Secondaries Investor"
-      },
-      {
         "text": "Apheon-backed Haudecoeur acquires Natur Food and Heliadis in European push",
         "refId": "6407ab46b285",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Palladian invests in UK leasing company Global Vehicle Group",
+        "refId": "f7f77307ee53",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Palladian invests in Global Vehicle Group as H2 exits; Apheon-backed Haudecoeur adds two food businesses",
+        "refId": "3c45feacc0e2",
         "source": "PE Hub"
       }
     ]
@@ -103,19 +103,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bond Investors\u2019 Inflation Angst Rises on Fed\u2019s Lack of Guidance",
-        "refId": "c64a1ce4f0d2",
+        "text": "Geopolitical Checkers",
+        "refId": "fbbd8d125209",
+        "source": "Doomberg"
+      },
+      {
+        "text": "What a Hedge Fund\u2019s Implosion Says About the A.I. Trade",
+        "refId": "f8ef0fb63b50",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Video Breakdown: Will Warsh Crash The Stock Market?",
-        "refId": "3ae80c5c4dec",
-        "source": "Capital Flows Research"
-      },
-      {
-        "text": "Why an A.I. Bubble Might Not Be a Bad Thing",
-        "refId": "6d437bb9bf25",
-        "source": "Dealbook (NYT)"
+        "text": "US nuclear reactor company Westinghouse files for IPO",
+        "refId": "b8fe0af9d70a",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Anatomy of Cyber Risk",
-        "refId": "9392cd96852f",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "The wisdom of Eli Dourado",
         "refId": "6b2008c293cf",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "An unprecedented weapon?",
         "refId": "3c28d3e0e736",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Friday assorted links",
+        "refId": "2e57e2e366e3",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Anatomy of Cyber Risk",
-        "refId": "9392cd96852f",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "China\u2019s U.S.-bound shipments fall in July after brief recovery, survey shows",
+        "refId": "c7880b6d966c",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Savant Wealth Secures Stake From Hamilton Lane, Which Keeps Cynosure Invested",
-        "refId": "02c05a136207",
-        "source": "Wealth Management"
+        "text": "NatWest appoints LSEG's Triona O\u2019Keeffe chief data and analytics officer",
+        "refId": "7e1e409b8f52",
+        "source": "Finextra"
       },
       {
-        "text": "RIA Edge Podcast: Growing a $6B RIA Without M&amp;A with Gregg George",
-        "refId": "87ad4fe3c68d",
-        "source": "Wealth Management"
+        "text": "Revolut offers customers free ChatGPT Go access",
+        "refId": "a36853d8d55c",
+        "source": "Finextra"
       }
     ]
   },
