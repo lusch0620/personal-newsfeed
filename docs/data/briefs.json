@@ -1,97 +1,72 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "Citi hires away FinCEN chief for compliance role",
-        "refId": "c6a5e113d08e",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
-        "refId": "f12528576bb4",
+        "text": "Investors may want to focus on front end of yield curve \u2014 as Street anticipates next Fed meetings",
+        "refId": "9230ceb2e62e",
         "source": "CNBC Finance"
       },
       {
-        "text": "Why Situational Awareness hedge fund imploded, even in a tame stock market",
-        "refId": "79b839eae722",
+        "text": "How Leopold Aschenbrenner built a $45 billion AI hedge fund \u2014 and lost most of it in days",
+        "refId": "fb241fda2223",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+        "refId": "172b0bd6b87e",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "5 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
       {
-        "text": "Deals &amp; Moves: Wealth Enhancement Plants Flag in Alabama with $462M RIA",
-        "refId": "6b5da09d920f",
+        "text": "Merrill Lands $13B Team from Morgan Stanley's Graystone Consulting",
+        "refId": "2e940e45526e",
         "source": "Wealth Management"
       },
       {
-        "text": "Rational and Irrational FORO",
-        "refId": "ee361598bb8a",
+        "text": "People Moves: Cetera Hires RIA Execs from Raymond James, Primerica",
+        "refId": "4eb3885a6c8d",
         "source": "Wealth Management"
       },
       {
-        "text": "Fidelis Capital on Breaking Away to a 'Different Path'",
-        "refId": "2c308269134b",
-        "source": "Wealth Management"
+        "text": "Orion and Goldman Sachs deepen their two-way custody and tech ties with a new AI onboarding tool, but shared large RIA clients may still prefer to build their own API pipes",
+        "refId": "c4ae0b05bbd8",
+        "source": "RIABiz"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Supply Chain Insurance Is \u2018Must-Have\u2019 Cover During Geopolitical Tensions: GlobalData",
-        "refId": "069cbe08229c",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Fairfax\u2019s P&C operating income grows driven by underwriting profit",
-        "refId": "2eaeb448ee6c",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Florida Woman Sentenced in $6 Million Force-Placed Insurance Scheme",
-        "refId": "88c48035d038",
+        "text": "Trump Blames Minnesota Cyberattack on Governor, Not Iran",
+        "refId": "e6d7db5f71df",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Appli signs Connect Credit Union",
-        "refId": "2fcd9aa9e99e",
-        "source": "Finextra"
+        "text": "Ares posts strong fundraising, deployment in Q2 despite BDC withdrawals",
+        "refId": "09b1914a694a",
+        "source": "Private Debt Investor"
       },
       {
-        "text": "Circle granted New York trust charter",
-        "refId": "f71942454cd2",
-        "source": "Finextra"
-      },
-      {
-        "text": "CMBS Delinquency Rate Increased 51 Basis Points in July 2026",
-        "refId": "6d10c60c0fae",
-        "source": "Trepp Talk"
+        "text": "Blue Owl Capital fundraising lags, for credit and firmwide",
+        "refId": "56981ed1db85",
+        "source": "Private Debt Investor"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "3 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
-      {
-        "text": "Fresh signs of bifurcation in private equity fundraising",
-        "refId": "24dd8a65f942",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "AEA Enterprise-backed Meritus acquires industrial gases distributor Metroplex Welding Supply",
-        "refId": "9d25f807a701",
-        "source": "PE Hub"
-      },
       {
         "text": "Sterling Group sells manufacturer Tangent Technologies",
         "refId": "66a8a12c881b",
@@ -108,13 +83,13 @@
         "source": "Commodity Context"
       },
       {
-        "text": "KKR nears $4bn deal to buy medical device maker Integer Holdings",
-        "refId": "8fee194b6981",
+        "text": "Citadel\u2019s swoop on Situational Awareness helped stem a $3tn AI rout",
+        "refId": "8b547da36d17",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Citadel\u2019s swoop on Situational Awareness helped stem a $3tn AI rout",
-        "refId": "8b547da36d17",
+        "text": "Why South Korea\u2019s won was one of world\u2019s best performers in July",
+        "refId": "251c8daecd93",
         "source": "Financial Times Markets"
       }
     ]
@@ -142,19 +117,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Friday assorted links",
-        "refId": "2e57e2e366e3",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "*Redefining Global Health in the 21st Century*",
-        "refId": "5e270af0e291",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "When Artificial Intelligence Is Too Valuable To Sell",
         "refId": "52733289e9f8",
         "source": "Big Technology (Alex Kantrowitz)"
+      },
+      {
+        "text": "Someone just ran a 2.78-trillion-parameter model on a laptop. The memory wall is breaking",
+        "refId": "a4896af0fa31",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Emergent Ventures India, 18th cohort",
+        "refId": "cd35abb39b79",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -162,19 +137,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Deals &amp; Moves: Wealth Enhancement Plants Flag in Alabama with $462M RIA",
-        "refId": "6b5da09d920f",
+        "text": "Merrill Lands $13B Team from Morgan Stanley's Graystone Consulting",
+        "refId": "2e940e45526e",
         "source": "Wealth Management"
       },
       {
-        "text": "Supply Chain Insurance Is \u2018Must-Have\u2019 Cover During Geopolitical Tensions: GlobalData",
-        "refId": "069cbe08229c",
-        "source": "Insurance Journal"
+        "text": "Sterling Group sells manufacturer Tangent Technologies",
+        "refId": "66a8a12c881b",
+        "source": "PE Hub"
       },
       {
-        "text": "Fairfax\u2019s P&C operating income grows driven by underwriting profit",
-        "refId": "2eaeb448ee6c",
-        "source": "Reinsurance News"
+        "text": "Investors may want to focus on front end of yield curve \u2014 as Street anticipates next Fed meetings",
+        "refId": "9230ceb2e62e",
+        "source": "CNBC Finance"
       }
     ]
   },
