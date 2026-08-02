@@ -1,37 +1,17 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Investors may want to focus on front end of yield curve \u2014 as Street anticipates next Fed meetings",
-        "refId": "9230ceb2e62e",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "How Leopold Aschenbrenner built a $45 billion AI hedge fund \u2014 and lost most of it in days",
-        "refId": "fb241fda2223",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-        "refId": "172b0bd6b87e",
+        "text": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
+        "refId": "de4c963b215e",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "3 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
-      {
-        "text": "Merrill Lands $13B Team from Morgan Stanley's Graystone Consulting",
-        "refId": "2e940e45526e",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "People Moves: Cetera Hires RIA Execs from Raymond James, Primerica",
-        "refId": "4eb3885a6c8d",
-        "source": "Wealth Management"
-      },
       {
         "text": "Orion and Goldman Sachs deepen their two-way custody and tech ties with a new AI onboarding tool, but shared large RIA clients may still prefer to build their own API pipes",
         "refId": "c4ae0b05bbd8",
@@ -43,53 +23,36 @@
     "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Trump Blames Minnesota Cyberattack on Governor, Not Iran",
-        "refId": "e6d7db5f71df",
+        "text": "New York\u2019s Heavy Rains Lead to Water Rescues, Grist Mill Destruction",
+        "refId": "15317baa2968",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "2 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Ares posts strong fundraising, deployment in Q2 despite BDC withdrawals",
-        "refId": "09b1914a694a",
-        "source": "Private Debt Investor"
-      },
-      {
-        "text": "Blue Owl Capital fundraising lags, for credit and firmwide",
-        "refId": "56981ed1db85",
-        "source": "Private Debt Investor"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Sterling Group sells manufacturer Tangent Technologies",
-        "refId": "66a8a12c881b",
-        "source": "PE Hub"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oil Context Weekly (W31)",
-        "refId": "7e234074f8c8",
-        "source": "Commodity Context"
-      },
-      {
-        "text": "Citadel\u2019s swoop on Situational Awareness helped stem a $3tn AI rout",
-        "refId": "8b547da36d17",
+        "text": "Why South Korea\u2019s won was one of world\u2019s best performers in July",
+        "refId": "251c8daecd93",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Why South Korea\u2019s won was one of world\u2019s best performers in July",
-        "refId": "251c8daecd93",
+        "text": "The age of \u2018The Magnificent 7\u2019 is over",
+        "refId": "96f307ed7001",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Is Lloyds Bank\u2019s techie boss a secret AI contrarian?",
+        "refId": "6ab96fa4eec2",
         "source": "Financial Times Markets"
       }
     ]
@@ -117,18 +80,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "When Artificial Intelligence Is Too Valuable To Sell",
-        "refId": "52733289e9f8",
-        "source": "Big Technology (Alex Kantrowitz)"
-      },
-      {
-        "text": "Someone just ran a 2.78-trillion-parameter model on a laptop. The memory wall is breaking",
-        "refId": "a4896af0fa31",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Emergent Ventures India, 18th cohort",
         "refId": "cd35abb39b79",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Immigration and Macroeconomic Outcomes in OECD Countries",
+        "refId": "655b467c5e00",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "More math breakthroughs from  GPT models",
+        "refId": "773e681e59f7",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -137,19 +100,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Merrill Lands $13B Team from Morgan Stanley's Graystone Consulting",
-        "refId": "2e940e45526e",
-        "source": "Wealth Management"
+        "text": "Orion and Goldman Sachs deepen their two-way custody and tech ties with a new AI onboarding tool, but shared large RIA clients may still prefer to build their own API pipes",
+        "refId": "c4ae0b05bbd8",
+        "source": "RIABiz"
       },
       {
-        "text": "Sterling Group sells manufacturer Tangent Technologies",
-        "refId": "66a8a12c881b",
-        "source": "PE Hub"
+        "text": "Why South Korea\u2019s won was one of world\u2019s best performers in July",
+        "refId": "251c8daecd93",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Investors may want to focus on front end of yield curve \u2014 as Street anticipates next Fed meetings",
-        "refId": "9230ceb2e62e",
-        "source": "CNBC Finance"
+        "text": "The age of \u2018The Magnificent 7\u2019 is over",
+        "refId": "96f307ed7001",
+        "source": "Financial Times Markets"
       }
     ]
   },
