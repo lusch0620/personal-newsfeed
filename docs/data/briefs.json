@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Who needs junior markets like Aim anyway?",
-        "refId": "5052d7bc4b4e",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Morgan Stanley\u2019s IPO after-party: a wealth management bonanza",
         "refId": "3392da76b8bd",
         "source": "Financial Times Markets"
@@ -116,6 +111,11 @@
         "text": "Will July\u2019s US employment data prompt a rethink on rates?",
         "refId": "0eaf836f7db9",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "3 brilliant quotes on the challenge of valuing companies \ud83e\uddd0",
+        "refId": "2405b88f7cbb",
+        "source": "TKer (Sam Ro)"
       }
     ]
   },
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Who needs junior markets like Aim anyway?",
-        "refId": "5052d7bc4b4e",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "From iPads to XBoxes, Device Prices Soar as AI Hoards Memory Chips",
         "refId": "6cfd6c9658f6",
         "source": "The Daily Upside"
@@ -179,6 +174,11 @@
       {
         "text": "Mexico (Taiwan) fact of the day",
         "refId": "dac630d10e53",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Taiwan fact of the day",
+        "refId": "93373ee0a785",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 15.77,
+      "v": 15.86,
       "base": 15.99,
       "bp": false
     },
