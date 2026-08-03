@@ -20,25 +20,41 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Wealth Management\u2019s AI Strategy Has a Foundation Problem",
+        "refId": "9bfb4985b6f1",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Wealth Management Invest: Model Portfolio Trends with Invesco\u2019s Karl Desmond",
+        "refId": "01cafb096e28",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Adjusted for Risk: The Right Way to Use ETFs for Success",
+        "refId": "3cda939de666",
+        "source": "Wealth Management"
+      }
+    ]
   },
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "New York\u2019s Heavy Rains Lead to Water Rescues, Grist Mill Destruction",
-        "refId": "15317baa2968",
+        "text": "3 technology must-haves to build distribution velocity",
+        "refId": "8c4f1eb3192e",
         "source": "Insurance Journal"
       },
       {
-        "text": "Silicon Valley Enclave Most Expensive US ZIP as AI Wealth Surges",
-        "refId": "4b3f16f3ee44",
+        "text": "Viewpoint: Extreme Heat Increases Risk of Workplace Injuries Across Canada",
+        "refId": "6e3aae82d1cc",
         "source": "Insurance Journal"
       },
       {
-        "text": "Maine Moves to Strengthen Mobile Home Park Oversight",
-        "refId": "6f649e39bcdc",
+        "text": "Europe\u2019s Key Rivers Are Drying Up as Extreme Heat Impact Widens",
+        "refId": "e5ca19bb36e9",
         "source": "Insurance Journal"
       }
     ]
@@ -87,18 +103,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The High-Stakes Battle for Invisible Real Estate in Space",
-        "refId": "0cb570a199f9",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "US Treasury undertakes historic intervention in yen market",
-        "refId": "3a101588c61e",
+        "text": "Australian farmers in trade dispute over pineapple import plan",
+        "refId": "e0eff559dcce",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Australian farmers in trade dispute over pineapple import plan",
-        "refId": "e0eff559dcce",
+        "text": "Who needs junior markets like Aim anyway?",
+        "refId": "5052d7bc4b4e",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Morgan Stanley\u2019s IPO after-party: a wealth management bonanza",
+        "refId": "3392da76b8bd",
         "source": "Financial Times Markets"
       }
     ]
@@ -131,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Saturday assorted links",
-        "refId": "f8a35e8cb464",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Rothko show in Florence",
         "refId": "675c0b78f5e2",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -144,6 +155,11 @@
         "text": "Mexico (Taiwan) fact of the day",
         "refId": "dac630d10e53",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Taiwan fact of the day",
+        "refId": "93373ee0a785",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -151,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The High-Stakes Battle for Invisible Real Estate in Space",
-        "refId": "0cb570a199f9",
-        "source": "Dealbook (NYT)"
+        "text": "Rothko show in Florence",
+        "refId": "675c0b78f5e2",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "US Treasury undertakes historic intervention in yen market",
-        "refId": "3a101588c61e",
+        "text": "Australian farmers in trade dispute over pineapple import plan",
+        "refId": "e0eff559dcce",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Saturday assorted links",
-        "refId": "f8a35e8cb464",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Who needs junior markets like Aim anyway?",
+        "refId": "5052d7bc4b4e",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7529.96,
+      "v": 7587.65,
       "base": 7437.63,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25469.088,
+      "v": 25881.148,
       "base": 25122.18,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53151.4,
+      "v": 52962.83,
       "base": 52208.06,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.688,
+      "v": 4.69,
       "base": 4.745,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.0,
+      "v": 15.61,
       "base": 15.99,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.7685,
+      "v": 187.0684,
       "base": 186.78,
       "bp": false
     }
