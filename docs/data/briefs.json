@@ -1,6 +1,6 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
@@ -8,8 +8,13 @@
         "source": "CNBC Finance"
       },
       {
-        "text": "Frost CEO warns of \u2018race to the bottom\u2019 on Texas loan structure",
-        "refId": "6ad33860ca6b",
+        "text": "IS32FL3761: Configurable 33\u00d712 Matrix LED Driver for High Pixel Count Automotive Intelligent Signaling Displays",
+        "refId": "10c28fcfb187",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "When AI overwhelms the human in the loop",
+        "refId": "3bf2c37f0fd5",
         "source": "Banking Dive"
       }
     ]
@@ -19,17 +24,27 @@
     "bullets": []
   },
   "FIG \u2014 Insurance": {
-    "lede": "1 story in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "New York\u2019s Heavy Rains Lead to Water Rescues, Grist Mill Destruction",
         "refId": "15317baa2968",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "Silicon Valley Enclave Most Expensive US ZIP as AI Wealth Surges",
+        "refId": "4b3f16f3ee44",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Maine Moves to Strengthen Mobile Home Park Oversight",
+        "refId": "6f649e39bcdc",
+        "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "BofA to buy UK cybersecurity firm MDSec Consulting",
@@ -40,29 +55,50 @@
         "text": "Partior and OpenAssets PoC proves stablecoins and tokenised deposits can settle atomically",
         "refId": "fb743abb0fdb",
         "source": "Finextra"
+      },
+      {
+        "text": "Ripple invests in UK digital assets platform Licuido",
+        "refId": "f3de7e02c4cb",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Six things to know about the world\u2019s newest listed alts trusts",
+        "refId": "2ab0944cb581",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Top commercial law firms consider PE investment amid AI worries, says Lincoln; Castlelake PUSU deadline for Easyjet extended",
+        "refId": "346914d88142",
+        "source": "PE Hub"
+      },
+      {
+        "text": "PE Club turns former private equity executives\u2019 network into LP platform",
+        "refId": "b91b684eaf72",
+        "source": "Private Equity International"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Warsh spooks long bonds",
-        "refId": "56bd96c365b5",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "The Fight Over the World\u2019s Oldest Bank",
-        "refId": "812df3ef423c",
+        "text": "The High-Stakes Battle for Invisible Real Estate in Space",
+        "refId": "0cb570a199f9",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Massive US tungsten discovery could run into Nasa roadblock",
-        "refId": "758eca4aea74",
+        "text": "US Treasury undertakes historic intervention in yen market",
+        "refId": "3a101588c61e",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Australian farmers in trade dispute over pineapple import plan",
+        "refId": "e0eff559dcce",
         "source": "Financial Times Markets"
       }
     ]
@@ -95,18 +131,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Emergent Ventures India, 18th cohort",
-        "refId": "cd35abb39b79",
+        "text": "Saturday assorted links",
+        "refId": "f8a35e8cb464",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Immigration and Macroeconomic Outcomes in OECD Countries",
-        "refId": "655b467c5e00",
+        "text": "Rothko show in Florence",
+        "refId": "675c0b78f5e2",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "More math breakthroughs from  GPT models",
-        "refId": "773e681e59f7",
+        "text": "Mexico (Taiwan) fact of the day",
+        "refId": "dac630d10e53",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -115,57 +151,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Emergent Ventures India, 18th cohort",
-        "refId": "cd35abb39b79",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "The High-Stakes Battle for Invisible Real Estate in Space",
+        "refId": "0cb570a199f9",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Immigration and Macroeconomic Outcomes in OECD Countries",
-        "refId": "655b467c5e00",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Warsh spooks long bonds",
-        "refId": "56bd96c365b5",
+        "text": "US Treasury undertakes historic intervention in yen market",
+        "refId": "3a101588c61e",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "Saturday assorted links",
+        "refId": "f8a35e8cb464",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7489.72,
-      "base": 7316.15,
+      "v": 7529.96,
+      "base": 7437.63,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25373.854,
-      "base": 24442.94,
+      "v": 25469.088,
+      "base": 25122.18,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52485.03,
-      "base": 51594.14,
+      "v": 53151.4,
+      "base": 52208.06,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.745,
-      "base": 4.663,
+      "v": 4.688,
+      "base": 4.745,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.99,
-      "base": 17.09,
+      "v": 16.0,
+      "base": 15.99,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.026,
-      "base": 183.92,
+      "v": 187.7685,
+      "base": 186.78,
       "bp": false
     }
   ]
