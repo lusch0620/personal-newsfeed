@@ -1,23 +1,22 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "1 story in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
         "text": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
         "refId": "de4c963b215e",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Frost CEO warns of \u2018race to the bottom\u2019 on Texas loan structure",
+        "refId": "6ad33860ca6b",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Orion and Goldman Sachs deepen their two-way custody and tech ties with a new AI onboarding tool, but shared large RIA clients may still prefer to build their own API pipes",
-        "refId": "c4ae0b05bbd8",
-        "source": "RIABiz"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Insurance": {
     "lede": "1 story in this lane today.",
@@ -30,8 +29,19 @@
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "2 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "BofA to buy UK cybersecurity firm MDSec Consulting",
+        "refId": "860c06d426b1",
+        "source": "Finextra"
+      },
+      {
+        "text": "Partior and OpenAssets PoC proves stablecoins and tokenised deposits can settle atomically",
+        "refId": "fb743abb0fdb",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -41,24 +51,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Why South Korea\u2019s won was one of world\u2019s best performers in July",
-        "refId": "251c8daecd93",
+        "text": "Warsh spooks long bonds",
+        "refId": "56bd96c365b5",
         "source": "Financial Times Markets"
       },
       {
-        "text": "The age of \u2018The Magnificent 7\u2019 is over",
-        "refId": "96f307ed7001",
-        "source": "Financial Times Markets"
+        "text": "The Fight Over the World\u2019s Oldest Bank",
+        "refId": "812df3ef423c",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Is Lloyds Bank\u2019s techie boss a secret AI contrarian?",
-        "refId": "6ab96fa4eec2",
+        "text": "Massive US tungsten discovery could run into Nasa roadblock",
+        "refId": "758eca4aea74",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "From iPads to XBoxes, Device Prices Soar as AI Hoards Memory Chips",
@@ -68,6 +78,11 @@
       {
         "text": "Has Index Investing Gone Too Far?",
         "refId": "0a7767635fea",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Can Palantir\u2019s Sizzling Growth Win Over Market Bears?",
+        "refId": "db8e5ad6966e",
         "source": "The Daily Upside"
       }
     ]
@@ -100,18 +115,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Orion and Goldman Sachs deepen their two-way custody and tech ties with a new AI onboarding tool, but shared large RIA clients may still prefer to build their own API pipes",
-        "refId": "c4ae0b05bbd8",
-        "source": "RIABiz"
+        "text": "Emergent Ventures India, 18th cohort",
+        "refId": "cd35abb39b79",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Why South Korea\u2019s won was one of world\u2019s best performers in July",
-        "refId": "251c8daecd93",
-        "source": "Financial Times Markets"
+        "text": "Immigration and Macroeconomic Outcomes in OECD Countries",
+        "refId": "655b467c5e00",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The age of \u2018The Magnificent 7\u2019 is over",
-        "refId": "96f307ed7001",
+        "text": "Warsh spooks long bonds",
+        "refId": "56bd96c365b5",
         "source": "Financial Times Markets"
       }
     ]
