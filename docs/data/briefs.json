@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "3 technology must-haves to build distribution velocity",
-        "refId": "8c4f1eb3192e",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Viewpoint: Extreme Heat Increases Risk of Workplace Injuries Across Canada",
-        "refId": "6e3aae82d1cc",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Europe\u2019s Key Rivers Are Drying Up as Extreme Heat Impact Widens",
         "refId": "e5ca19bb36e9",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "Gallagher Re appoints Luc Morement MD, Facultative, APAC",
+        "refId": "95da5ede4bf9",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "J.P. Morgan says reinsurance pricing unlikely to stabilise before 2027",
+        "refId": "65bc4661f96e",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Australian farmers in trade dispute over pineapple import plan",
-        "refId": "e0eff559dcce",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Who needs junior markets like Aim anyway?",
         "refId": "5052d7bc4b4e",
         "source": "Financial Times Markets"
@@ -115,6 +110,11 @@
       {
         "text": "Morgan Stanley\u2019s IPO after-party: a wealth management bonanza",
         "refId": "3392da76b8bd",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Will July\u2019s US employment data prompt a rethink on rates?",
+        "refId": "0eaf836f7db9",
         "source": "Financial Times Markets"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Rothko show in Florence",
-        "refId": "675c0b78f5e2",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Mexico (Taiwan) fact of the day",
         "refId": "dac630d10e53",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Taiwan fact of the day",
         "refId": "93373ee0a785",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Slopulism is taking over America",
+        "refId": "7509d2eb2ffa",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Rothko show in Florence",
-        "refId": "675c0b78f5e2",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Australian farmers in trade dispute over pineapple import plan",
-        "refId": "e0eff559dcce",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Who needs junior markets like Aim anyway?",
         "refId": "5052d7bc4b4e",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "From iPads to XBoxes, Device Prices Soar as AI Hoards Memory Chips",
+        "refId": "6cfd6c9658f6",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Mexico (Taiwan) fact of the day",
+        "refId": "dac630d10e53",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7587.65,
+      "v": 7600.5,
       "base": 7437.63,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25881.148,
+      "v": 25913.896,
       "base": 25122.18,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52962.83,
+      "v": 53178.41,
       "base": 52208.06,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.69,
+      "v": 4.686,
       "base": 4.745,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.61,
+      "v": 15.77,
       "base": 15.99,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.0684,
+      "v": 188.8783,
       "base": 186.78,
       "bp": false
     }
