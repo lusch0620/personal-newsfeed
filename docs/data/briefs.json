@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
-        "refId": "de4c963b215e",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "IS32FL3761: Configurable 33\u00d712 Matrix LED Driver for High Pixel Count Automotive Intelligent Signaling Displays",
         "refId": "10c28fcfb187",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -15,6 +10,11 @@
       {
         "text": "When AI overwhelms the human in the loop",
         "refId": "3bf2c37f0fd5",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Frost CEO warns of \u2018race to the bottom\u2019 on Texas loan structure",
+        "refId": "6ad33860ca6b",
         "source": "Banking Dive"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Parasite Outbreak Tied to Two Deaths in Michigan, CDC Says",
-        "refId": "2650c6f9ac66",
+        "text": "California High Court Rules for Gilead, Says Drugmakers Don\u2019t Have \u2018Duty to Innovate\u2019",
+        "refId": "1dca18c4a2c8",
         "source": "Insurance Journal"
       },
       {
-        "text": "Wildfires Fan Record Sales of Catastrophe Bonds to Backstop Risk",
-        "refId": "6513a1f84074",
+        "text": "New Jersey Settles Trucker Misclassification Claims for $2.7 Million",
+        "refId": "3123c332289a",
         "source": "Insurance Journal"
       },
       {
-        "text": "Texas Hair Styling College Settles Discrimination Lawsuit",
-        "refId": "0cdb57d2f4a6",
+        "text": "Product-Defect Presumption Lives On: Florida Appeals Court Upholds $103M vs. Ford",
+        "refId": "c16942a753af",
         "source": "Insurance Journal"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "On the Acemoglu-Autor et.al. fertility result",
-        "refId": "7a05307d6fc5",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "The $10K Etsy niche nobody is running with Claude yet",
-        "refId": "12a8cc54b2b4",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Sunday assorted links",
         "refId": "5f61225ef061",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "*Rome\u2019s Age of Revolution*",
+        "refId": "f8f982667d51",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Meta Earnings, Meta\u2019s Timing Problems, The Financial Tail",
+        "refId": "c88722bb7cbb",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
-        "refId": "de4c963b215e",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "On the Acemoglu-Autor et.al. fertility result",
-        "refId": "7a05307d6fc5",
+        "text": "Sunday assorted links",
+        "refId": "5f61225ef061",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The $10K Etsy niche nobody is running with Claude yet",
-        "refId": "12a8cc54b2b4",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "BofA to buy UK cybersecurity firm MDSec Consulting",
+        "refId": "860c06d426b1",
+        "source": "Finextra"
+      },
+      {
+        "text": "Partior and OpenAssets PoC proves stablecoins and tokenised deposits can settle atomically",
+        "refId": "fb743abb0fdb",
+        "source": "Finextra"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7600.5,
-      "base": 7437.63,
+      "v": 7695.92,
+      "base": 7489.72,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25913.896,
-      "base": 25122.18,
+      "v": 26385.955,
+      "base": 25373.85,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53178.41,
-      "base": 52208.06,
+      "v": 53974.58,
+      "base": 52485.03,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.661,
+      "v": 4.641,
       "base": 4.686,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.62,
+      "v": 15.9,
       "base": 15.86,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.8783,
-      "base": 186.78,
+      "v": 192.2906,
+      "base": 187.03,
       "bp": false
     }
   ]
