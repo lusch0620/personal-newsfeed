@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Wealth Management\u2019s AI Strategy Has a Foundation Problem",
-        "refId": "9bfb4985b6f1",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Wealth Management Invest: Model Portfolio Trends with Invesco\u2019s Karl Desmond",
-        "refId": "01cafb096e28",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Adjusted for Risk: The Right Way to Use ETFs for Success",
         "refId": "3cda939de666",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "How to Avoid AI-Generated Estate Plans that Look Brilliant, But Are Completely Wrong",
+        "refId": "df7bfc91951a",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Are PEPs a Fad, Niche or Mainstream?",
+        "refId": "02f7892e6550",
         "source": "Wealth Management"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "California High Court Rules for Gilead, Says Drugmakers Don\u2019t Have \u2018Duty to Innovate\u2019",
-        "refId": "1dca18c4a2c8",
+        "text": "China Signals Nation Is Ready to Lead Global Climate Action",
+        "refId": "06bcefa3d079",
         "source": "Insurance Journal"
       },
       {
-        "text": "New Jersey Settles Trucker Misclassification Claims for $2.7 Million",
-        "refId": "3123c332289a",
+        "text": "Hormuz Traffic at a Trickle as Ship Attacks Heighten Concerns",
+        "refId": "e4255f879f10",
         "source": "Insurance Journal"
       },
       {
-        "text": "Product-Defect Presumption Lives On: Florida Appeals Court Upholds $103M vs. Ford",
-        "refId": "c16942a753af",
-        "source": "Insurance Journal"
+        "text": "Lincoln Financial sees strong Q2\u201926 with net income reaching $1.3bn",
+        "refId": "71f9353f8205",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "5f61225ef061",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "*Rome\u2019s Age of Revolution*",
         "refId": "f8f982667d51",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,17 +155,17 @@
         "text": "Meta Earnings, Meta\u2019s Timing Problems, The Financial Tail",
         "refId": "c88722bb7cbb",
         "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "What should I ask Nick Bostrom?",
+        "refId": "1c7135a2a24a",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Sunday assorted links",
-        "refId": "5f61225ef061",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "BofA to buy UK cybersecurity firm MDSec Consulting",
         "refId": "860c06d426b1",
@@ -180,43 +175,48 @@
         "text": "Partior and OpenAssets PoC proves stablecoins and tokenised deposits can settle atomically",
         "refId": "fb743abb0fdb",
         "source": "Finextra"
+      },
+      {
+        "text": "The Misdirection Play: Warsh and Bessent's Unspoken Pact to Fund AI Dominance",
+        "refId": "9f6eedb79e89",
+        "source": "Capital Flows Research"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7695.92,
+      "v": 7747.62,
       "base": 7489.72,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26385.955,
+      "v": 26615.994,
       "base": 25373.85,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53974.58,
+      "v": 54199.5,
       "base": 52485.03,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.641,
+      "v": 4.631,
       "base": 4.686,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.9,
+      "v": 16.53,
       "base": 15.86,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 192.2906,
+      "v": 192.2324,
       "base": 187.03,
       "bp": false
     }
