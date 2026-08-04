@@ -3,6 +3,11 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
+        "text": "IS32FL3761: Configurable 33\u00d712 Matrix LED Driver for High Pixel Count Automotive Intelligent Signaling Displays",
+        "refId": "10c28fcfb187",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
         "text": "When AI overwhelms the human in the loop",
         "refId": "3bf2c37f0fd5",
         "source": "Banking Dive"
@@ -11,11 +16,6 @@
         "text": "Frost CEO warns of \u2018race to the bottom\u2019 on Texas loan structure",
         "refId": "6ad33860ca6b",
         "source": "Banking Dive"
-      },
-      {
-        "text": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending",
-        "refId": "f955fde6a323",
-        "source": "CNBC Finance"
       }
     ]
   },
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 16.39,
+      "v": 16.5,
       "base": 15.86,
       "bp": false
     },
