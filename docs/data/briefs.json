@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "IS32FL3761: Configurable 33\u00d712 Matrix LED Driver for High Pixel Count Automotive Intelligent Signaling Displays",
-        "refId": "10c28fcfb187",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
         "text": "When AI overwhelms the human in the loop",
         "refId": "3bf2c37f0fd5",
         "source": "Banking Dive"
@@ -16,6 +11,11 @@
         "text": "Frost CEO warns of \u2018race to the bottom\u2019 on Texas loan structure",
         "refId": "6ad33860ca6b",
         "source": "Banking Dive"
+      },
+      {
+        "text": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending",
+        "refId": "f955fde6a323",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -186,37 +186,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7747.62,
+      "v": 7736.52,
       "base": 7489.72,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26615.994,
+      "v": 26584.992,
       "base": 25373.85,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 54199.5,
+      "v": 54085.88,
       "base": 52485.03,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.631,
+      "v": 4.627,
       "base": 4.686,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.53,
+      "v": 16.39,
       "base": 15.86,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 192.2324,
+      "v": 191.3859,
       "base": 187.03,
       "bp": false
     }
