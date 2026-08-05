@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves after hours: Palantir, On Semiconductor, Snap & more",
-        "refId": "0ad4b8aa908a",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "NXP Trimension Ultra-Wideband Powers BMW Group\u2019s Digital Key Plus and Presence Detection",
         "refId": "902d5d42a399",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -16,6 +11,11 @@
         "text": "Tower Semiconductor Announces Record Results for Revenue and Profitability for the Second Quarter 2026 with Third Quarter 2026 Record Revenue Guidance",
         "refId": "ffdaf8a98440",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: McDonald's, Caterpillar, Palantir, Merck & more",
+        "refId": "50ce79bdad2c",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "SLOOS Signals Modest Multifamily Easing, but Multifamily Price Competition Is Already Advanced",
-        "refId": "2c2a7004441f",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Pan-African payments fintech Moment raises $22 million",
         "refId": "be96b6c39a2b",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "Accenture acquires IBM's stake in technology JV with UniCredit",
         "refId": "dfbb06dbfa52",
+        "source": "Finextra"
+      },
+      {
+        "text": "Triodos Bank and Ethex collaboration to boost UK's direct impact investment",
+        "refId": "6129d8c682d1",
         "source": "Finextra"
       }
     ]
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Misdirection Play: Full Livestream Breakdown",
-        "refId": "023c1d2e9a9c",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "Why Wall Street Is Feeling So Bullish",
         "refId": "af8a578d1804",
         "source": "Dealbook (NYT)"
@@ -116,6 +111,11 @@
         "text": "FX Positioning And The Suppression Of Volatility",
         "refId": "a66af9cbc793",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "Banks to offload $15bn of debt for Anthropic data centre backed by Google",
+        "refId": "6386f460a7d2",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "SLOOS Signals Modest Multifamily Easing, but Multifamily Price Competition Is Already Advanced",
-        "refId": "2c2a7004441f",
-        "source": "Trepp Talk"
+        "text": "Rick Wurster discloses sweeping Schwab plan to flip up to 31% of its self-directed book of business into its RIA, Schwab Wealth Advisory, calling house retail clients 'unmatched conversion funnel'",
+        "refId": "ee29c6e60ac0",
+        "source": "RIABiz"
       },
       {
-        "text": "Stocks making the biggest moves after hours: Palantir, On Semiconductor, Snap & more",
-        "refId": "0ad4b8aa908a",
-        "source": "CNBC Finance"
+        "text": "Merrill Lynch's  'Hail Mary' attempt to compel Dynasty into arbitration over OpenArc breakaway fell yards short after a federal judge blocked the effort -- with a whole series of ramifications",
+        "refId": "4a8b1011866a",
+        "source": "RIABiz"
       },
       {
-        "text": "The Misdirection Play: Full Livestream Breakdown",
-        "refId": "023c1d2e9a9c",
-        "source": "Capital Flows Research"
+        "text": "Zach Dell (Yes, That Dell) Charges Up a $13 Billion Backyard Battery Startup",
+        "refId": "ac2aa3d20744",
+        "source": "The Daily Upside"
       }
     ]
   },
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 15.83,
+      "v": 15.81,
       "base": 16.5,
       "bp": false
     },
