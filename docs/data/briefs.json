@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
-        "refId": "70d92ff93588",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Stocks making the biggest moves after hours: Palantir, On Semiconductor, Snap & more",
         "refId": "0ad4b8aa908a",
         "source": "CNBC Finance"
@@ -15,6 +10,11 @@
       {
         "text": "NXP Trimension Ultra-Wideband Powers BMW Group\u2019s Digital Key Plus and Presence Detection",
         "refId": "902d5d42a399",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Tower Semiconductor Announces Record Results for Revenue and Profitability for the Second Quarter 2026 with Third Quarter 2026 Record Revenue Guidance",
+        "refId": "ffdaf8a98440",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AI Now Fuels Over Half of Africa\u2019s Cybercrime, Study Finds",
-        "refId": "12eec923997c",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "German DHL Cargo Plane Hits Object as Drone Found at Leipzig Airport",
         "refId": "0028b6652e9a",
         "source": "Insurance Journal"
@@ -56,6 +51,11 @@
         "text": "More standardisation of terms, but reinsurance retentions held in H1\u201926: Hiscox CUO",
         "refId": "c07da57c1561",
         "source": "Reinsurance News"
+      },
+      {
+        "text": "Law Restricts Her From Reducing \u2018Excessive\u2019 $91M Injured Worker Award, Judge Finds",
+        "refId": "4d29094c6c61",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -83,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "DOWNLOAD: Nearly one-third of public pensions cut PE allocation in H1",
-        "refId": "b48eab3f9554",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "New Jersey\u2019s CIO: System \u2018hasn\u2019t missed a beat\u2019 in PE investment despite turnover",
-        "refId": "958b129cadcf",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "PEI\u2019s Data Dive: The changing shape of private equity\u2019s biggest allocators",
         "refId": "71cbceded890",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Adams Street doubles fund size with latest flagship secondaries raise",
+        "refId": "c3250674ba14",
+        "source": "Secondaries Investor"
+      },
+      {
+        "text": "Side Letter: On good terms",
+        "refId": "7779f883a641",
         "source": "Private Equity International"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How does the market regard stablecoins?",
-        "refId": "35deaca62aad",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Jensen Huang Bet Wrong, Told the Truth, and Built a $5 Trillion Company",
-        "refId": "6d367e5c8f9b",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Emergent Ventures winners, 57th cohort",
         "refId": "16ba8f60a9a0",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The economics of H-1B immigration",
+        "refId": "0d2b6db4ca50",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The end of the age of heroes",
+        "refId": "84768687b91f",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,44 +167,44 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How does the market regard stablecoins?",
-        "refId": "35deaca62aad",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "SLOOS Signals Modest Multifamily Easing, but Multifamily Price Competition Is Already Advanced",
+        "refId": "2c2a7004441f",
+        "source": "Trepp Talk"
       },
       {
-        "text": "Jensen Huang Bet Wrong, Told the Truth, and Built a $5 Trillion Company",
-        "refId": "6d367e5c8f9b",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
-        "refId": "70d92ff93588",
+        "text": "Stocks making the biggest moves after hours: Palantir, On Semiconductor, Snap & more",
+        "refId": "0ad4b8aa908a",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "The Misdirection Play: Full Livestream Breakdown",
+        "refId": "023c1d2e9a9c",
+        "source": "Capital Flows Research"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7743.06,
+      "v": 7723.55,
       "base": 7600.5,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26460.535,
+      "v": 26363.44,
       "base": 25913.9,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 54545.22,
+      "v": 54349.12,
       "base": 53178.41,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.621,
+      "v": 4.617,
       "base": 4.627,
       "bp": true
     },
@@ -216,7 +216,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 192.736,
+      "v": 192.0681,
       "base": 188.88,
       "bp": false
     }
