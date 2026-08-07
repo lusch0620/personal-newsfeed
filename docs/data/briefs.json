@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Augustus gets FDIC nod to launch bank",
-        "refId": "8e7e94cd23e0",
-        "source": "Banking Dive"
-      },
-      {
         "text": "AMSC Reports First Quarter Fiscal Year 2026\u00a0Financial Results and Business Outlook",
         "refId": "48b728ce3747",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -15,6 +10,11 @@
       {
         "text": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
         "refId": "69611fa02c28",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+        "refId": "6a76387c89a9",
         "source": "CNBC Finance"
       }
     ]
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Advisors Must Master Retiretech to Guide Plan Sponsors",
-        "refId": "43eaae033fd1",
+        "text": "The Diamond Podcast for Financial Advisors: Ryan Belanger on Why AI Matters Now to RIAs",
+        "refId": "dfe6d9ec7d29",
         "source": "Wealth Management"
       },
       {
-        "text": "Perigon Wealth Management: Building a Tech Stack Through Partnerships",
-        "refId": "f782a84dad2d",
+        "text": "RIAs Need a Holistic Marketing Plan Now More Than Ever",
+        "refId": "2171d5028fb6",
         "source": "Wealth Management"
       }
     ]
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Augustus gets FDIC nod to launch bank",
-        "refId": "8e7e94cd23e0",
-        "source": "Banking Dive"
-      },
-      {
         "text": "BlackRock\u2019s Treasury Fund TLT Falls to 22-Year Low",
         "refId": "a572d8d64ae1",
         "source": "The Daily Upside"
@@ -180,43 +175,48 @@
         "text": "AMSC Reports First Quarter Fiscal Year 2026\u00a0Financial Results and Business Outlook",
         "refId": "48b728ce3747",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
+        "refId": "69611fa02c28",
+        "source": "CNBC Finance"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7745.76,
+      "v": 7751.66,
       "base": 7723.55,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26602.703,
+      "v": 26650.133,
       "base": 26363.44,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53978.54,
+      "v": 54051.35,
       "base": 54349.12,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.652,
+      "v": 4.66,
       "base": 4.67,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.01,
+      "v": 14.83,
       "base": 15.15,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 189.9954,
+      "v": 189.9763,
       "base": 192.07,
       "bp": false
     }
