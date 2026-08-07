@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Visa, Mastercard join another stablecoin group",
-        "refId": "2f305ac42d4f",
-        "source": "Banking Dive"
+        "text": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+        "refId": "876811540462",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Fed approves Santander-Webster deal",
-        "refId": "c2de729cf596",
-        "source": "Banking Dive"
+        "text": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
+        "refId": "139855773ab1",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Stablecoin firm Dakota applies for OCC trust banking charter",
-        "refId": "77e4d8348515",
+        "text": "Bank of America, USAA ink patent agreement",
+        "refId": "40fe8978af66",
         "source": "Banking Dive"
       }
     ]
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Q&amp;A: Corient CEO Kurt MacAlpine on Changing the Economics of the RIA",
-        "refId": "a96d94eda12a",
-        "source": "Wealth Management"
-      },
-      {
         "text": "No-constraints Corient's $21-billion RIA  buy -- right after three deals closed with $19 billion -- is more of a harbinger than a harvest, says CEO, as integration completions coincide with deal closings",
         "refId": "e0943f51e278",
         "source": "RIABiz"
       },
       {
-        "text": "Morningstar: Investors Miss Out on 12% of Fund Returns Over Decade",
-        "refId": "56915fa8192c",
+        "text": "Advisors Must Master Retiretech to Guide Plan Sponsors",
+        "refId": "43eaae033fd1",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Perigon Wealth Management: Building a Tech Stack Through Partnerships",
+        "refId": "f782a84dad2d",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Republican Senators Propose Repealing California Emissions Rules",
-        "refId": "d34ff7668c6e",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "California Sees Second Straight Year of Vehicle Theft Declines",
-        "refId": "7ec80bccdfa9",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Chipwich Maker Withdraws Lawsuit Against Insurance Agency",
         "refId": "3159d53a8a54",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "People Moves: Ames & Gough Names Partners Lynch and Maxwell as Senior VPs",
+        "refId": "7fa4e3475f3b",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Medical Marijuana Card Does Not Bar Firefighter\u2019s Suspension, Florida Court Says",
+        "refId": "d2e55c327a61",
         "source": "Insurance Journal"
       }
     ]
@@ -83,30 +83,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Carlyle realisations drive strong earnings quarter",
-        "refId": "b52e68db6be3",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Cyclical tailwinds buoying secondaries will persist for \u2018next several years\u2019 \u2013 Carlyle\u2019s Schwartz",
-        "refId": "47331c7c7551",
-        "source": "Secondaries Investor"
-      },
-      {
         "text": "New Jersey sees opportunity in slow exit market",
         "refId": "5358ee86aeaf",
         "source": "Buyouts Insider"
+      },
+      {
+        "text": "Investor Intentions: Korea Post Insurance seeks domestic blind-pool VC funds for 2026",
+        "refId": "4504fe00dc47",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "New Jersey sees opportunity in slow exit market",
+        "refId": "01a5fab01d0f",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Beijing Swing, Part 1: Crude Oil",
-        "refId": "73b05a959726",
-        "source": "Commodity Context"
-      },
       {
         "text": "What the Stock Market\u2019s Record Rally Has to Do With Rescuing the Yen",
         "refId": "647bee069264",
@@ -116,6 +111,11 @@
         "text": "The Current State Of The Global Economy",
         "refId": "0b18d02d29f8",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "The No. 1 reason why I look forward to earnings season \ud83c\udfc6",
+        "refId": "793ab6050085",
+        "source": "TKer (Sam Ro)"
       }
     ]
   },
@@ -123,7 +123,7 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Blackrock\u2019s Treasury Fund TLT Falls to 22-Year Low",
+        "text": "BlackRock\u2019s Treasury Fund TLT Falls to 22-Year Low",
         "refId": "a572d8d64ae1",
         "source": "The Daily Upside"
       },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Wednesday assorted links",
-        "refId": "c7da50c1e023",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Sam Altman: 3 months of work now takes 7 minutes",
         "refId": "dea478900b49",
         "source": "The AI Corner (Ruben Dominguez)"
@@ -160,6 +155,11 @@
         "text": "Who Pays for Unions?",
         "refId": "4cccb019ccb3",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Will U.S. cities face a knock-on fiscal crisis from the feds?",
+        "refId": "9bdf90b01c82",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Visa, Mastercard join another stablecoin group",
-        "refId": "2f305ac42d4f",
-        "source": "Banking Dive"
+        "text": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+        "refId": "876811540462",
+        "source": "CNBC Finance"
       },
       {
-        "text": "The Beijing Swing, Part 1: Crude Oil",
-        "refId": "73b05a959726",
-        "source": "Commodity Context"
+        "text": "What the Stock Market\u2019s Record Rally Has to Do With Rescuing the Yen",
+        "refId": "647bee069264",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Fed approves Santander-Webster deal",
-        "refId": "c2de729cf596",
-        "source": "Banking Dive"
+        "text": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
+        "refId": "139855773ab1",
+        "source": "CNBC Finance"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7729.52,
+      "v": 7756.43,
       "base": 7723.55,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26522.346,
+      "v": 26690.717,
       "base": 26363.44,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53971.7,
+      "v": 53970.36,
       "base": 54349.12,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.627,
+      "v": 4.652,
       "base": 4.67,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.1,
+      "v": 14.94,
       "base": 15.15,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 189.2419,
+      "v": 189.5575,
       "base": 192.07,
       "bp": false
     }
