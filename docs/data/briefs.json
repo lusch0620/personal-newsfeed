@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AMSC Reports First Quarter Fiscal Year 2026\u00a0Financial Results and Business Outlook",
-        "refId": "48b728ce3747",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
-        "refId": "69611fa02c28",
+        "text": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+        "refId": "6a76387c89a9",
         "source": "CNBC Finance"
       },
       {
-        "text": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
-        "refId": "6a76387c89a9",
+        "text": "Stocks making the biggest moves premarket: Zillow, Peloton, Sandisk, Moderna & more",
+        "refId": "eb0c5280ea58",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
+        "refId": "08ee85ea85e6",
         "source": "CNBC Finance"
       }
     ]
@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "NOAA Maintains Forecast for Below-Normal Atlantic Hurricane Season",
-        "refId": "ec4d85e95e20",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Proposed Hormuz Passage Deal Not Feasible for Shipping Industry, Sources Say",
         "refId": "3ff8b04a7f10",
         "source": "Insurance Journal"
@@ -55,6 +50,11 @@
       {
         "text": "AXA XL to Acquire Corporate Intelligence and Cybersecurity Consultancy, S-RM",
         "refId": "333bf5fc182f",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Munich Re Posts Better-Than-Expected Profit Amid Low Loss Claims",
+        "refId": "5a0691935b7f",
         "source": "Insurance Journal"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "New Jersey sees opportunity in slow exit market",
-        "refId": "5358ee86aeaf",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "Investor Intentions: Korea Post Insurance seeks domestic blind-pool VC funds for 2026",
         "refId": "4504fe00dc47",
         "source": "Private Equity International"
@@ -95,6 +90,11 @@
       {
         "text": "New Jersey sees opportunity in slow exit market",
         "refId": "01a5fab01d0f",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Side Letter: Learnings from earnings",
+        "refId": "abd895664a1e",
         "source": "Private Equity International"
       }
     ]
@@ -123,11 +123,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "BlackRock\u2019s Treasury Fund TLT Falls to 22-Year Low",
-        "refId": "a572d8d64ae1",
-        "source": "The Daily Upside"
-      },
-      {
         "text": "Disney Embraces Fan Content in Groundbreaking TikTok Deal",
         "refId": "081f36e33044",
         "source": "The Daily Upside"
@@ -135,6 +130,11 @@
       {
         "text": "Uber Promises to Spend $10 Billion On Robotaxis as Growth Disappoints Investors",
         "refId": "140c31c0099e",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Citadel\u2019s Flagship Fund Delivers Standout Gains After Buying Situational\u2019s Distressed Book",
+        "refId": "03c9051ac2e4",
         "source": "The Daily Upside"
       }
     ]
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "BlackRock\u2019s Treasury Fund TLT Falls to 22-Year Low",
-        "refId": "a572d8d64ae1",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "AMSC Reports First Quarter Fiscal Year 2026\u00a0Financial Results and Business Outlook",
-        "refId": "48b728ce3747",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
-        "refId": "69611fa02c28",
+        "text": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+        "refId": "6a76387c89a9",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Wells Fargo to roll out tokenised deposits for corporate clients",
+        "refId": "042ccc66fb44",
+        "source": "Finextra"
+      },
+      {
+        "text": "The Current State Of The Global Economy",
+        "refId": "0b18d02d29f8",
+        "source": "Capital Flows Research"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7751.66,
+      "v": 7757.64,
       "base": 7723.55,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26650.133,
+      "v": 26690.615,
       "base": 26363.44,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 54051.35,
+      "v": 54036.93,
       "base": 54349.12,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 14.83,
+      "v": 14.9,
       "base": 15.15,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 189.9763,
+      "v": 189.9919,
       "base": 192.07,
       "bp": false
     }
