@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves premarket: SpaceX, AMD, Eli Lilly, Disney & more",
-        "refId": "f5acb1ad67d3",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Ex-regulator frets over OCC brain drain",
-        "refId": "4b00de10edf3",
+        "text": "Visa, Mastercard join another stablecoin group",
+        "refId": "2f305ac42d4f",
         "source": "Banking Dive"
       },
       {
-        "text": "Visa, Mastercard join another stablecoin group",
-        "refId": "2f305ac42d4f",
+        "text": "Fed approves Santander-Webster deal",
+        "refId": "c2de729cf596",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Stablecoin firm Dakota applies for OCC trust banking charter",
+        "refId": "77e4d8348515",
         "source": "Banking Dive"
       }
     ]
@@ -22,11 +22,6 @@
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Wealth Management CTO Think Tank: Strategic Insights for Wealth Technology Leaders",
-        "refId": "a0c7dfedc2f5",
-        "source": "Wealth Management"
-      },
       {
         "text": "Q&amp;A: Corient CEO Kurt MacAlpine on Changing the Economics of the RIA",
         "refId": "a96d94eda12a",
@@ -36,6 +31,11 @@
         "text": "No-constraints Corient's $21-billion RIA  buy -- right after three deals closed with $19 billion -- is more of a harbinger than a harvest, says CEO, as integration completions coincide with deal closings",
         "refId": "e0943f51e278",
         "source": "RIABiz"
+      },
+      {
+        "text": "Morningstar: Investors Miss Out on 12% of Fund Returns Over Decade",
+        "refId": "56915fa8192c",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Climate Change Made Canada\u2019s Forests Much More Likely to Burn: Report",
-        "refId": "8d87ea61651a",
+        "text": "Republican Senators Propose Repealing California Emissions Rules",
+        "refId": "d34ff7668c6e",
         "source": "Insurance Journal"
       },
       {
-        "text": "California Hotel Paying $2.75M for Pandemic Return-to-Work Law Violations",
-        "refId": "18585683b068",
+        "text": "California Sees Second Straight Year of Vehicle Theft Declines",
+        "refId": "7ec80bccdfa9",
         "source": "Insurance Journal"
       },
       {
-        "text": "Virginia Moves Toward Regulating Self-Driving Vehicles Amid Safety, Liability Concerns",
-        "refId": "c9ed767fba82",
+        "text": "Chipwich Maker Withdraws Lawsuit Against Insurance Agency",
+        "refId": "3159d53a8a54",
         "source": "Insurance Journal"
       }
     ]
@@ -62,11 +62,6 @@
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Apollo\u2019s capital solutions business drives record fees in Q2",
-        "refId": "4d364d771292",
-        "source": "Private Debt Investor"
-      },
       {
         "text": "Freezing the Rent: How Expenses Impact the Multifamily Investor",
         "refId": "f5443f1a88ee",
@@ -76,17 +71,17 @@
         "text": "Wells Fargo to roll out tokenised deposits for corporate clients",
         "refId": "042ccc66fb44",
         "source": "Finextra"
+      },
+      {
+        "text": "Carlyle realisations drives strong earnings quarter",
+        "refId": "524744ca1951",
+        "source": "Private Debt Investor"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "DraftKings seed investor is raising a VC secondaries fund",
-        "refId": "415cb0205c6c",
-        "source": "Secondaries Investor"
-      },
       {
         "text": "Carlyle realisations drive strong earnings quarter",
         "refId": "b52e68db6be3",
@@ -96,17 +91,17 @@
         "text": "Cyclical tailwinds buoying secondaries will persist for \u2018next several years\u2019 \u2013 Carlyle\u2019s Schwartz",
         "refId": "47331c7c7551",
         "source": "Secondaries Investor"
+      },
+      {
+        "text": "New Jersey sees opportunity in slow exit market",
+        "refId": "5358ee86aeaf",
+        "source": "Buyouts Insider"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Winners of Trump\u2019s A.I. Safety Plan",
-        "refId": "c496bc3a9ee4",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "The Beijing Swing, Part 1: Crude Oil",
         "refId": "73b05a959726",
@@ -116,6 +111,11 @@
         "text": "What the Stock Market\u2019s Record Rally Has to Do With Rescuing the Yen",
         "refId": "647bee069264",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "The Current State Of The Global Economy",
+        "refId": "0b18d02d29f8",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves premarket: SpaceX, AMD, Eli Lilly, Disney & more",
-        "refId": "f5acb1ad67d3",
-        "source": "CNBC Finance"
+        "text": "Visa, Mastercard join another stablecoin group",
+        "refId": "2f305ac42d4f",
+        "source": "Banking Dive"
       },
       {
-        "text": "Apollo\u2019s capital solutions business drives record fees in Q2",
-        "refId": "4d364d771292",
-        "source": "Private Debt Investor"
+        "text": "The Beijing Swing, Part 1: Crude Oil",
+        "refId": "73b05a959726",
+        "source": "Commodity Context"
       },
       {
-        "text": "The Winners of Trump\u2019s A.I. Safety Plan",
-        "refId": "c496bc3a9ee4",
-        "source": "Dealbook (NYT)"
+        "text": "Fed approves Santander-Webster deal",
+        "refId": "c2de729cf596",
+        "source": "Banking Dive"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7709.96,
-      "base": 7736.52,
+      "v": 7729.52,
+      "base": 7723.55,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26348.352,
-      "base": 26584.99,
+      "v": 26522.346,
+      "base": 26363.44,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53885.1,
-      "base": 54085.88,
+      "v": 53971.7,
+      "base": 54349.12,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.67,
-      "base": 4.617,
+      "v": 4.627,
+      "base": 4.67,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.22,
+      "v": 15.1,
       "base": 15.15,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 189.6696,
-      "base": 191.39,
+      "v": 189.2419,
+      "base": 192.07,
       "bp": false
     }
   ]
