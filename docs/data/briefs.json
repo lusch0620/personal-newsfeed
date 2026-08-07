@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
-        "refId": "876811540462",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
-        "refId": "139855773ab1",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Bank of America, USAA ink patent agreement",
-        "refId": "40fe8978af66",
+        "text": "Augustus gets FDIC nod to launch bank",
+        "refId": "8e7e94cd23e0",
         "source": "Banking Dive"
+      },
+      {
+        "text": "AMSC Reports First Quarter Fiscal Year 2026\u00a0Financial Results and Business Outlook",
+        "refId": "48b728ce3747",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
+        "refId": "69611fa02c28",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Chipwich Maker Withdraws Lawsuit Against Insurance Agency",
-        "refId": "3159d53a8a54",
+        "text": "NOAA Maintains Forecast for Below-Normal Atlantic Hurricane Season",
+        "refId": "ec4d85e95e20",
         "source": "Insurance Journal"
       },
       {
-        "text": "People Moves: Ames & Gough Names Partners Lynch and Maxwell as Senior VPs",
-        "refId": "7fa4e3475f3b",
+        "text": "Proposed Hormuz Passage Deal Not Feasible for Shipping Industry, Sources Say",
+        "refId": "3ff8b04a7f10",
         "source": "Insurance Journal"
       },
       {
-        "text": "Medical Marijuana Card Does Not Bar Firefighter\u2019s Suspension, Florida Court Says",
-        "refId": "d2e55c327a61",
+        "text": "AXA XL to Acquire Corporate Intelligence and Cybersecurity Consultancy, S-RM",
+        "refId": "333bf5fc182f",
         "source": "Insurance Journal"
       }
     ]
@@ -62,11 +62,6 @@
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Freezing the Rent: How Expenses Impact the Multifamily Investor",
-        "refId": "f5443f1a88ee",
-        "source": "Trepp Talk"
-      },
       {
         "text": "Wells Fargo to roll out tokenised deposits for corporate clients",
         "refId": "042ccc66fb44",
@@ -76,6 +71,11 @@
         "text": "Carlyle realisations drives strong earnings quarter",
         "refId": "524744ca1951",
         "source": "Private Debt Investor"
+      },
+      {
+        "text": "ABN Amro signs frontier AI deal with Mistral AI",
+        "refId": "deecf74e761e",
+        "source": "Finextra"
       }
     ]
   },
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What the Stock Market\u2019s Record Rally Has to Do With Rescuing the Yen",
-        "refId": "647bee069264",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "The Current State Of The Global Economy",
         "refId": "0b18d02d29f8",
         "source": "Capital Flows Research"
@@ -116,6 +111,11 @@
         "text": "The No. 1 reason why I look forward to earnings season \ud83c\udfc6",
         "refId": "793ab6050085",
         "source": "TKer (Sam Ro)"
+      },
+      {
+        "text": "What\u2019s Behind the A.I. Shake-Up at Google",
+        "refId": "ff2ca470c5fd",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sam Altman: 3 months of work now takes 7 minutes",
-        "refId": "dea478900b49",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Who Pays for Unions?",
         "refId": "4cccb019ccb3",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Will U.S. cities face a knock-on fiscal crisis from the feds?",
         "refId": "9bdf90b01c82",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Are the Democrats going to save us this time?",
+        "refId": "87f189eb0443",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
-        "refId": "876811540462",
-        "source": "CNBC Finance"
+        "text": "Augustus gets FDIC nod to launch bank",
+        "refId": "8e7e94cd23e0",
+        "source": "Banking Dive"
       },
       {
-        "text": "What the Stock Market\u2019s Record Rally Has to Do With Rescuing the Yen",
-        "refId": "647bee069264",
-        "source": "Dealbook (NYT)"
+        "text": "BlackRock\u2019s Treasury Fund TLT Falls to 22-Year Low",
+        "refId": "a572d8d64ae1",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
-        "refId": "139855773ab1",
-        "source": "CNBC Finance"
+        "text": "AMSC Reports First Quarter Fiscal Year 2026\u00a0Financial Results and Business Outlook",
+        "refId": "48b728ce3747",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7756.43,
+      "v": 7745.76,
       "base": 7723.55,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26690.717,
+      "v": 26602.703,
       "base": 26363.44,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53970.36,
+      "v": 53978.54,
       "base": 54349.12,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 14.94,
+      "v": 15.01,
       "base": 15.15,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 189.5575,
+      "v": 189.9954,
       "base": 192.07,
       "bp": false
     }
