@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves premarket: Zillow, Peloton, Sandisk, Moderna & more",
-        "refId": "eb0c5280ea58",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
-        "refId": "08ee85ea85e6",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Northwest Bank overhauls C-suite to drive transformation",
         "refId": "768f8d9c0c4b",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026",
+        "refId": "46760d097cf5",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Chime\u2019s CFO is stepping down",
+        "refId": "444f40953b3b",
         "source": "Banking Dive"
       }
     ]
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "No-constraints Corient's $21-billion RIA  buy -- right after three deals closed with $19 billion -- is more of a harbinger than a harvest, says CEO, as integration completions coincide with deal closings",
-        "refId": "e0943f51e278",
-        "source": "RIABiz"
-      },
-      {
-        "text": "The Diamond Podcast for Financial Advisors: Ryan Belanger on Why AI Matters Now to RIAs",
-        "refId": "dfe6d9ec7d29",
+        "text": "RIAs Need a Holistic Marketing Plan Now More Than Ever",
+        "refId": "2171d5028fb6",
         "source": "Wealth Management"
       },
       {
-        "text": "RIAs Need a Holistic Marketing Plan Now More Than Ever",
-        "refId": "2171d5028fb6",
+        "text": "The Valuation Gap in RIA M&amp;A",
+        "refId": "f335c2c28ddd",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "A Lingua Franca for Advisors on AI",
+        "refId": "50fe8bb0a820",
         "source": "Wealth Management"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Wells Fargo to roll out tokenised deposits for corporate clients",
-        "refId": "042ccc66fb44",
-        "source": "Finextra"
-      },
-      {
-        "text": "Carlyle realisations drives strong earnings quarter",
-        "refId": "524744ca1951",
+        "text": "The dangers of being dogmatic about PIK",
+        "refId": "ebf736f75805",
         "source": "Private Debt Investor"
       },
       {
-        "text": "ABN Amro signs frontier AI deal with Mistral AI",
-        "refId": "deecf74e761e",
+        "text": "Austin Multifamily Stress Is Building on the Watchlist",
+        "refId": "9360751fe6b0",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Monzo tops one million business accounts",
+        "refId": "4cf2604a99cf",
         "source": "Finextra"
       }
     ]
@@ -83,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Investor Intentions: Korea Post Insurance seeks domestic blind-pool VC funds for 2026",
-        "refId": "4504fe00dc47",
+        "text": "Investor Intentions: MMAA seeks domestic blind-pool PE/VC funds for 2026",
+        "refId": "90a8bb7639bb",
         "source": "Private Equity International"
       },
       {
-        "text": "New Jersey sees opportunity in slow exit market",
-        "refId": "01a5fab01d0f",
-        "source": "Private Equity International"
+        "text": "Industriens Pension mulls adding more infra secondaries exposure",
+        "refId": "128ee3c95413",
+        "source": "Secondaries Investor"
       },
       {
-        "text": "Side Letter: Learnings from earnings",
-        "refId": "abd895664a1e",
+        "text": "Investor Intentions: ENPAV releases RFP for private equity",
+        "refId": "5369dfb01dc2",
         "source": "Private Equity International"
       }
     ]
@@ -102,11 +102,6 @@
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Current State Of The Global Economy",
-        "refId": "0b18d02d29f8",
-        "source": "Capital Flows Research"
-      },
       {
         "text": "The No. 1 reason why I look forward to earnings season \ud83c\udfc6",
         "refId": "793ab6050085",
@@ -116,6 +111,11 @@
         "text": "What\u2019s Behind the A.I. Shake-Up at Google",
         "refId": "ff2ca470c5fd",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "The Golden Era Of Finance and Tracking Equity Flows",
+        "refId": "71346ef4c3ae",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Disney Embraces Fan Content in Groundbreaking TikTok Deal",
-        "refId": "081f36e33044",
+        "text": "The Father of the 4% Rule Has New Ideas About Retirement Income",
+        "refId": "2cfc23555cab",
         "source": "The Daily Upside"
       },
       {
-        "text": "Uber Promises to Spend $10 Billion On Robotaxis as Growth Disappoints Investors",
-        "refId": "140c31c0099e",
+        "text": "Vistra Earnings Offer Window Into Power Generation Ramp-Up for AI Data Centers",
+        "refId": "0eba88debf01",
         "source": "The Daily Upside"
       },
       {
-        "text": "Citadel\u2019s Flagship Fund Delivers Standout Gains After Buying Situational\u2019s Distressed Book",
-        "refId": "03c9051ac2e4",
+        "text": "For Moderna\u2019s Greenlit mRNA Flu Vaccine, Payoff Is a Ways Off",
+        "refId": "1c33d24c9b38",
         "source": "The Daily Upside"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Who Pays for Unions?",
-        "refId": "4cccb019ccb3",
+        "text": "Thursday assorted links",
+        "refId": "f214bd0f0edb",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Will U.S. cities face a knock-on fiscal crisis from the feds?",
-        "refId": "9bdf90b01c82",
+        "text": "Solve for the (Refine) equilibrium",
+        "refId": "46bcc89163e7",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Are the Democrats going to save us this time?",
-        "refId": "87f189eb0443",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "My excellent Conversation with Julia Ioffe",
+        "refId": "23244935a79a",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Wells Fargo to roll out tokenised deposits for corporate clients",
-        "refId": "042ccc66fb44",
-        "source": "Finextra"
+        "text": "The dangers of being dogmatic about PIK",
+        "refId": "ebf736f75805",
+        "source": "Private Debt Investor"
       },
       {
-        "text": "The Current State Of The Global Economy",
-        "refId": "0b18d02d29f8",
-        "source": "Capital Flows Research"
+        "text": "Investor Intentions: MMAA seeks domestic blind-pool PE/VC funds for 2026",
+        "refId": "90a8bb7639bb",
+        "source": "Private Equity International"
       },
       {
-        "text": "No-constraints Corient's $21-billion RIA  buy -- right after three deals closed with $19 billion -- is more of a harbinger than a harvest, says CEO, as integration completions coincide with deal closings",
-        "refId": "e0943f51e278",
-        "source": "RIABiz"
+        "text": "RIAs Need a Holistic Marketing Plan Now More Than Ever",
+        "refId": "2171d5028fb6",
+        "source": "Wealth Management"
       }
     ]
   },
