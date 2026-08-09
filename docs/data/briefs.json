@@ -1,92 +1,72 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Solo develops reusable customer-vetting tool for banks, fintechs",
-        "refId": "cd0c681a9b57",
-        "source": "Banking Dive"
+        "text": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+        "refId": "38309e2ac650",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Warren wants United Texas Bank\u2019s charter revoked",
-        "refId": "0d1e65e92a49",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "INFORMATION MENSUELLE RELATIVE AU NOMBRE TOTAL D\u2019ACTIONS ET DE DROITS DE VOTE COMPOSANT LE CAPITAL SOCIAL",
-        "refId": "06ed32a6c826",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+        "refId": "a060e5c1967c",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "5 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
       {
-        "text": "Schwab CEO said his company would be a 'premier destination' for private markets, on July 21 -- a day later, Andy Rachleff blogged why private investments are stacked against retail investors",
-        "refId": "03b4fe18ae73",
+        "text": "Investcorp\u2019s First RIA Play Focused on \u2018Mass Affluent\u2019",
+        "refId": "4c7698beff70",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Rockefeller Recruits $2B Merrill Team in Ohio",
+        "refId": "54ce2549d0cc",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Schwab is nixing FDIC backing on brokerage sweep cash as soon as Sept. 8 by moving it all under SIPC -- with clear drawbacks for investors, say analysts",
+        "refId": "7d6016fce6f6",
         "source": "RIABiz"
-      },
-      {
-        "text": "Deals &amp; Moves: AlphaCore Seeds New Jersey Hub With $700M RIA",
-        "refId": "6d0438446ace",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Financial Planning Fraternity Gains Traction",
-        "refId": "a6de51d016ff",
-        "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Allstate Introduces Large Language Model, ALLIE",
-        "refId": "595b16a3036e",
+        "text": "Meta Ordered to Pay $567 Million In New Mexico for Teen Mental Health Fund",
+        "refId": "7f26c42714bb",
         "source": "Insurance Journal"
       },
       {
-        "text": "Cytora and Octave partner to strengthen AI-powered operations for MGAs",
-        "refId": "278690677140",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "HCI Group net income rises 19% to $83m in Q2\u201926",
-        "refId": "5df97661f80a",
+        "text": "Berkshire Hathaway P&C reinsurance boosted by Tokio Marine deal, as property volumes fall",
+        "refId": "78f587c9da54",
         "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Financial data group ION missed rent payments on three offices - FT",
-        "refId": "a9684b011c18",
-        "source": "Finextra"
-      },
-      {
-        "text": "Less Room for Error \u2013 Why Recent-Vintage Multifamily CMBS Is Seasoning So Poorly",
-        "refId": "bb375f28d61f",
+        "text": "New Supply Drives Occupancy Divide Across Apartment Markets",
+        "refId": "f7ec63961f4f",
         "source": "Trepp Talk"
       },
       {
-        "text": "Hamilton Lane: \u2018Evergreen hesitancy only temporary\u2019",
-        "refId": "6f2eb2d5f003",
+        "text": "Hercules reports record $2.7bn originations in H1",
+        "refId": "32d258091240",
         "source": "Private Debt Investor"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "3 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Accel-KKR, Bain, Knox Lane bet on clinical workforce services; Tech advances drive Nordic\u2019s $800m take-private of BWXT\u2019s nuclear med biz",
-        "refId": "255d03b2ac85",
-        "source": "PE Hub"
-      },
       {
         "text": "Eir Partners invests in ClaimsBridge, supports add-on of DialysisPPO",
         "refId": "21a05d90fbb5",
@@ -103,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Passing the Clarity Act on digital assets is a matter of national security",
-        "refId": "506da4a6bcd0",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Oil Context Weekly (W32)",
         "refId": "365a9c79c3d1",
         "source": "Commodity Context"
@@ -115,6 +90,11 @@
       {
         "text": "Iran\u2019s oil exports stall and Kharg Island idles under US blockade",
         "refId": "9248ee38da66",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "A short history of valuing stocks",
+        "refId": "28b1a61c2bc8",
         "source": "Financial Times Markets"
       }
     ]
@@ -142,19 +122,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropic Deleted 80% of Claude Code's Prompt. It Got Smarter",
-        "refId": "46f14bb32499",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "Friday assorted links",
-        "refId": "afc2aac53656",
+        "text": "What I\u2019ve been reading",
+        "refId": "f48f6bcaa5ce",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "2026.32: Earnings and Learnings",
-        "refId": "529343a399b8",
-        "source": "Stratechery (Ben Thompson)"
+        "text": "*Restoring Childhood: How to Set Kids Free in the Age of Anxiety*",
+        "refId": "41a69e478d4b",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Banning data centers would blow up the U.S. economy",
+        "refId": "aa28a30e8138",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -162,19 +142,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Accel-KKR, Bain, Knox Lane bet on clinical workforce services; Tech advances drive Nordic\u2019s $800m take-private of BWXT\u2019s nuclear med biz",
-        "refId": "255d03b2ac85",
-        "source": "PE Hub"
+        "text": "Investcorp\u2019s First RIA Play Focused on \u2018Mass Affluent\u2019",
+        "refId": "4c7698beff70",
+        "source": "Wealth Management"
       },
       {
-        "text": "Schwab CEO said his company would be a 'premier destination' for private markets, on July 21 -- a day later, Andy Rachleff blogged why private investments are stacked against retail investors",
-        "refId": "03b4fe18ae73",
-        "source": "RIABiz"
+        "text": "Rockefeller Recruits $2B Merrill Team in Ohio",
+        "refId": "54ce2549d0cc",
+        "source": "Wealth Management"
       },
       {
-        "text": "Allstate Introduces Large Language Model, ALLIE",
-        "refId": "595b16a3036e",
-        "source": "Insurance Journal"
+        "text": "New Supply Drives Occupancy Divide Across Apartment Markets",
+        "refId": "f7ec63961f4f",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -211,7 +191,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 189.9919,
+      "v": 189.992,
       "base": 192.07,
       "bp": false
     }
