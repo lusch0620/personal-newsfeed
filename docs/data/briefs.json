@@ -15,18 +15,8 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "3 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
-      {
-        "text": "Investcorp\u2019s First RIA Play Focused on \u2018Mass Affluent\u2019",
-        "refId": "4c7698beff70",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Rockefeller Recruits $2B Merrill Team in Ohio",
-        "refId": "54ce2549d0cc",
-        "source": "Wealth Management"
-      },
       {
         "text": "Schwab is nixing FDIC backing on brokerage sweep cash as soon as Sept. 8 by moving it all under SIPC -- with clear drawbacks for investors, say analysts",
         "refId": "7d6016fce6f6",
@@ -35,13 +25,8 @@
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
-      {
-        "text": "Meta Ordered to Pay $567 Million In New Mexico for Teen Mental Health Fund",
-        "refId": "7f26c42714bb",
-        "source": "Insurance Journal"
-      },
       {
         "text": "Berkshire Hathaway P&C reinsurance boosted by Tokio Marine deal, as property volumes fall",
         "refId": "78f587c9da54",
@@ -50,51 +35,29 @@
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "2 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "New Supply Drives Occupancy Divide Across Apartment Markets",
-        "refId": "f7ec63961f4f",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "Hercules reports record $2.7bn originations in H1",
-        "refId": "32d258091240",
-        "source": "Private Debt Investor"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
-    "lede": "2 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Eir Partners invests in ClaimsBridge, supports add-on of DialysisPPO",
-        "refId": "21a05d90fbb5",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Wise Equity inks agreement to acquire E-Pharma Trento",
-        "refId": "e8c8de5f8ff0",
-        "source": "PE Hub"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oil Context Weekly (W32)",
-        "refId": "365a9c79c3d1",
-        "source": "Commodity Context"
-      },
-      {
-        "text": "Iran\u2019s oil exports stall and Kharg Island idles under US blockade",
-        "refId": "9248ee38da66",
+        "text": "A short history of valuing stocks",
+        "refId": "28b1a61c2bc8",
         "source": "Financial Times Markets"
       },
       {
-        "text": "A short history of valuing stocks",
-        "refId": "28b1a61c2bc8",
+        "text": "The US bares its financial weak spot",
+        "refId": "db520e62199e",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Currency interventions have a mixed record",
+        "refId": "4520ab74ef86",
         "source": "Financial Times Markets"
       }
     ]
@@ -142,19 +105,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Investcorp\u2019s First RIA Play Focused on \u2018Mass Affluent\u2019",
-        "refId": "4c7698beff70",
-        "source": "Wealth Management"
+        "text": "Schwab is nixing FDIC backing on brokerage sweep cash as soon as Sept. 8 by moving it all under SIPC -- with clear drawbacks for investors, say analysts",
+        "refId": "7d6016fce6f6",
+        "source": "RIABiz"
       },
       {
-        "text": "Rockefeller Recruits $2B Merrill Team in Ohio",
-        "refId": "54ce2549d0cc",
-        "source": "Wealth Management"
+        "text": "A short history of valuing stocks",
+        "refId": "28b1a61c2bc8",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "New Supply Drives Occupancy Divide Across Apartment Markets",
-        "refId": "f7ec63961f4f",
-        "source": "Trepp Talk"
+        "text": "The US bares its financial weak spot",
+        "refId": "db520e62199e",
+        "source": "Financial Times Markets"
       }
     ]
   },
