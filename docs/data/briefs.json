@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-        "refId": "a060e5c1967c",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "ASM announces start of \u20ac150 million share buyback program",
         "refId": "9e28e0f8523d",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -16,11 +11,16 @@
         "text": "Allocating digital asset exposure",
         "refId": "40739496ed78",
         "source": "Banking Dive"
+      },
+      {
+        "text": "Silicon Motion Technology Corporation Announces Proposed Offering of 0.00% Convertible Senior Notes due 2031",
+        "refId": "0a0cde5acccf",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
         "text": "Schwab is nixing FDIC backing on brokerage sweep cash as soon as Sept. 8 by moving it all under SIPC -- with clear drawbacks for investors, say analysts",
@@ -31,6 +31,11 @@
         "text": "Should Financial Planning Be an Employee Benefit?",
         "refId": "9853f1874d4c",
         "source": "Wealth Management"
+      },
+      {
+        "text": "When Family Is the Succession Plan",
+        "refId": "3328c52c03b5",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -38,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Body Found in California Home Burned by Wildfire Believed Started by Chain Saw",
-        "refId": "6d2e6436a990",
+        "text": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns",
+        "refId": "15c1be593ffc",
         "source": "Insurance Journal"
       },
       {
-        "text": "New York Strengthens Law on Inspections of Cooling Towers in City",
-        "refId": "1864f691c80c",
+        "text": "How the Hard Reality of Climate Change Hit Europe\u2019s Economy This Summer",
+        "refId": "b45d22938c91",
         "source": "Insurance Journal"
       },
       {
-        "text": "Teva Seeks to Keep Israel Ties From Philadelphia Jury, Cites Gaza War",
-        "refId": "1591239300a2",
+        "text": "eMaxx Broadens Access to Excess Variable Cost Captive Insurance Program through eMaxx Reciprocal Insurance Exchange",
+        "refId": "ded3e06fb6c5",
         "source": "Insurance Journal"
       }
     ]
@@ -68,8 +73,8 @@
         "source": "Finextra"
       },
       {
-        "text": "Sidbi deploys MonetaGo secure financing across MSME lending operations",
-        "refId": "a871b3ac3117",
+        "text": "Robinhood launches crypto trading in the UK",
+        "refId": "cf9a168589d1",
         "source": "Finextra"
       }
     ]
@@ -142,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Saturday assorted links",
-        "refId": "fbb343738f6e",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "The future of warfare? (from my email)",
         "refId": "99ef26348dc4",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -155,6 +155,11 @@
         "text": "Is there a Balkan fertility paradox? (from my email)",
         "refId": "abdaff52c0e4",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "One of the better pro-natalist Lieder",
+        "refId": "64cab54c4160",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -162,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-        "refId": "a060e5c1967c",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Saturday assorted links",
-        "refId": "fbb343738f6e",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "End Of Week Breakdown and Recap Of Flows",
         "refId": "c6788d89b43d",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "The future of warfare? (from my email)",
+        "refId": "99ef26348dc4",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Think It\u2019s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
+        "refId": "f9dddd64dd7a",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7765.46,
+      "v": 7762.84,
       "base": 7709.96,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26698.594,
+      "v": 26643.736,
       "base": 26348.35,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53932.16,
+      "v": 53998.07,
       "base": 53885.1,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.688,
+      "v": 4.692,
       "base": 4.66,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.19,
+      "v": 15.23,
       "base": 14.9,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 190.3083,
+      "v": 190.3923,
       "base": 189.67,
       "bp": false
     }
