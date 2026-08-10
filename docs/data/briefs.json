@@ -15,14 +15,8 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Schwab is nixing FDIC backing on brokerage sweep cash as soon as Sept. 8 by moving it all under SIPC -- with clear drawbacks for investors, say analysts",
-        "refId": "7d6016fce6f6",
-        "source": "RIABiz"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Insurance": {
     "lede": "1 story in this lane today.",
@@ -35,8 +29,19 @@
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "2 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Hackers target PE firms with old-school vishing attacks - Google researchers",
+        "refId": "6ebbdf99624a",
+        "source": "Finextra"
+      },
+      {
+        "text": "BofA and USAA ink patent cross-license agreement",
+        "refId": "22026aaf9686",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -105,11 +110,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Schwab is nixing FDIC backing on brokerage sweep cash as soon as Sept. 8 by moving it all under SIPC -- with clear drawbacks for investors, say analysts",
-        "refId": "7d6016fce6f6",
-        "source": "RIABiz"
-      },
-      {
         "text": "A short history of valuing stocks",
         "refId": "28b1a61c2bc8",
         "source": "Financial Times Markets"
@@ -118,6 +118,11 @@
         "text": "The US bares its financial weak spot",
         "refId": "db520e62199e",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "What I\u2019ve been reading",
+        "refId": "f48f6bcaa5ce",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
