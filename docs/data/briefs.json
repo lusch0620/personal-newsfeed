@@ -1,6 +1,6 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
@@ -11,25 +11,46 @@
         "text": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
         "refId": "a060e5c1967c",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "ASM announces start of \u20ac150 million share buyback program",
+        "refId": "9e28e0f8523d",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
-  },
-  "FIG \u2014 Insurance": {
     "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Berkshire Hathaway P&C reinsurance boosted by Tokio Marine deal, as property volumes fall",
-        "refId": "78f587c9da54",
-        "source": "Reinsurance News"
+        "text": "Schwab is nixing FDIC backing on brokerage sweep cash as soon as Sept. 8 by moving it all under SIPC -- with clear drawbacks for investors, say analysts",
+        "refId": "7d6016fce6f6",
+        "source": "RIABiz"
+      }
+    ]
+  },
+  "FIG \u2014 Insurance": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Body Found in California Home Burned by Wildfire Believed Started by Chain Saw",
+        "refId": "6d2e6436a990",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "New York Strengthens Law on Inspections of Cooling Towers in City",
+        "refId": "1864f691c80c",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Teva Seeks to Keep Israel Ties From Philadelphia Jury, Cites Gaza War",
+        "refId": "1591239300a2",
+        "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Hackers target PE firms with old-school vishing attacks - Google researchers",
@@ -40,35 +61,56 @@
         "text": "BofA and USAA ink patent cross-license agreement",
         "refId": "22026aaf9686",
         "source": "Finextra"
+      },
+      {
+        "text": "Sidbi deploys MonetaGo secure financing across MSME lending operations",
+        "refId": "a871b3ac3117",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Entrepreneurial ecosystem draws dealmakers to Spanish mid-market",
+        "refId": "3e79e60e624f",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Spain a \u2018value destination\u2019 for mid-market investors; Wise Equity to acquire E-Pharma Trento",
+        "refId": "723254c152d5",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Investor Intentions: Korea\u2019s Employment Insurance Fund seeks blind-pool PE/VC funds for 2026",
+        "refId": "e68d539010f4",
+        "source": "Private Equity International"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "A short history of valuing stocks",
-        "refId": "28b1a61c2bc8",
-        "source": "Financial Times Markets"
+        "text": "Sign Up for DealBook",
+        "refId": "c7eece17793a",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "The US bares its financial weak spot",
-        "refId": "db520e62199e",
-        "source": "Financial Times Markets"
+        "text": "End Of Week Breakdown and Recap Of Flows",
+        "refId": "c6788d89b43d",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Currency interventions have a mixed record",
-        "refId": "4520ab74ef86",
-        "source": "Financial Times Markets"
+        "text": "Think It\u2019s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
+        "refId": "f9dddd64dd7a",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "With SEO Rizz Fading, Brands Compete For Chatbot Love",
@@ -78,6 +120,11 @@
       {
         "text": "\u2018Die with Zero\u2019 May Be Unrealistic, But That\u2019s Not Stopping Retirees From Trying",
         "refId": "a92443d02114",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Morgan Stanley Just Undercut Ethereum, Solana ETF Markets",
+        "refId": "14f5c5fe3ba6",
         "source": "The Daily Upside"
       }
     ]
@@ -90,19 +137,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What I\u2019ve been reading",
-        "refId": "f48f6bcaa5ce",
+        "text": "Reading List 08/08/2026",
+        "refId": "7e2ce6a89b8e",
+        "source": "Construction Physics (Brian Potter)"
+      },
+      {
+        "text": "Saturday assorted links",
+        "refId": "fbb343738f6e",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "*Restoring Childhood: How to Set Kids Free in the Age of Anxiety*",
-        "refId": "41a69e478d4b",
+        "text": "The future of warfare? (from my email)",
+        "refId": "99ef26348dc4",
         "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Banning data centers would blow up the U.S. economy",
-        "refId": "aa28a30e8138",
-        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -110,19 +157,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "A short history of valuing stocks",
-        "refId": "28b1a61c2bc8",
-        "source": "Financial Times Markets"
+        "text": "Reading List 08/08/2026",
+        "refId": "7e2ce6a89b8e",
+        "source": "Construction Physics (Brian Potter)"
       },
       {
-        "text": "The US bares its financial weak spot",
-        "refId": "db520e62199e",
-        "source": "Financial Times Markets"
+        "text": "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
+        "refId": "38309e2ac650",
+        "source": "CNBC Finance"
       },
       {
-        "text": "What I\u2019ve been reading",
-        "refId": "f48f6bcaa5ce",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
+        "refId": "a060e5c1967c",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -153,8 +200,8 @@
     },
     {
       "nm": "VIX",
-      "v": 14.9,
-      "base": 15.15,
+      "v": 15.46,
+      "base": 14.9,
       "bp": false
     },
     {
