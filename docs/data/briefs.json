@@ -103,18 +103,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "End Of Week Breakdown and Recap Of Flows",
-        "refId": "c6788d89b43d",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "Think It\u2019s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
         "refId": "f9dddd64dd7a",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Investors return to European stocks as strong earnings lift Iran war gloom",
-        "refId": "e9e7954ccd6a",
+        "text": "Impatient yacht owners make for a hot new asset class",
+        "refId": "f042059f9bdd",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Asian carmakers cash in as high petrol prices lift US demand for hybrids",
+        "refId": "8a1aed39f7af",
         "source": "Financial Times Markets"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The future of warfare? (from my email)",
-        "refId": "99ef26348dc4",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Is there a Balkan fertility paradox? (from my email)",
         "refId": "abdaff52c0e4",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "One of the better pro-natalist Lieder",
         "refId": "64cab54c4160",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Sunday assorted links",
+        "refId": "fce15d7c60c0",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "End Of Week Breakdown and Recap Of Flows",
-        "refId": "c6788d89b43d",
-        "source": "Capital Flows Research"
-      },
-      {
-        "text": "The future of warfare? (from my email)",
-        "refId": "99ef26348dc4",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Think It\u2019s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
         "refId": "f9dddd64dd7a",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Impatient yacht owners make for a hot new asset class",
+        "refId": "f042059f9bdd",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "With SEO Rizz Fading, Brands Compete For Chatbot Love",
+        "refId": "06f8714f7b8d",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7750.73,
+      "v": 7752.61,
       "base": 7709.96,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26588.457,
+      "v": 26616.934,
       "base": 26348.35,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53899.58,
+      "v": 53901.53,
       "base": 53885.1,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.7,
+      "v": 4.699,
       "base": 4.66,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.27,
+      "v": 15.45,
       "base": 14.9,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 190.0204,
+      "v": 190.3466,
       "base": 189.67,
       "bp": false
     }
