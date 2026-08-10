@@ -20,7 +20,7 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "4 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Schwab is nixing FDIC backing on brokerage sweep cash as soon as Sept. 8 by moving it all under SIPC -- with clear drawbacks for investors, say analysts",
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "OpenAI Pauses Some Work on New Astra Model on Cyber Concerns",
-        "refId": "15c1be593ffc",
+        "text": "People Moves: Augment Risk Promotes Cripps to New Role of Group Head of Growth and Broking; Fidelis Partnership Taps Ascot\u2019s Donovan as Head of U/W, Property Binders",
+        "refId": "2b9328a2b3de",
         "source": "Insurance Journal"
       },
       {
-        "text": "How the Hard Reality of Climate Change Hit Europe\u2019s Economy This Summer",
-        "refId": "b45d22938c91",
+        "text": "Markets/Coverages: Rokstone\u2019s Athena Cyber Division Launches Supply Chain Extension",
+        "refId": "b05909222d28",
         "source": "Insurance Journal"
       },
       {
-        "text": "eMaxx Broadens Access to Excess Variable Cost Captive Insurance Program through eMaxx Reciprocal Insurance Exchange",
-        "refId": "ded3e06fb6c5",
-        "source": "Insurance Journal"
+        "text": "AXA XL Re appoints two Senior Underwriters to Marine & Energy team",
+        "refId": "8c0ca95de8f6",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -113,8 +113,8 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "The bank behind China\u2019s AI listings bonanza",
-        "refId": "e50df4ba8839",
+        "text": "Investors return to European stocks as strong earnings lift Iran war gloom",
+        "refId": "e9e7954ccd6a",
         "source": "Financial Times Markets"
       }
     ]
@@ -186,37 +186,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7762.84,
+      "v": 7750.73,
       "base": 7709.96,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26643.736,
+      "v": 26588.457,
       "base": 26348.35,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53998.07,
+      "v": 53899.58,
       "base": 53885.1,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.692,
+      "v": 4.7,
       "base": 4.66,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.23,
+      "v": 15.27,
       "base": 14.9,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 190.3923,
+      "v": 190.0204,
       "base": 189.67,
       "bp": false
     }
