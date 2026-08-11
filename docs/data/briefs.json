@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "When Family Is the Succession Plan",
-        "refId": "3328c52c03b5",
+        "text": "CFO4Life's Leaders Accuse Focus Financial of 'Bullying' Tactics",
+        "refId": "33d3792f3b3d",
         "source": "Wealth Management"
       },
       {
-        "text": "Philanthropy in the Age of AI",
-        "refId": "03701ca3592a",
+        "text": "Consumer Groups Warn AI Provision In Crypto Bill Could Weaken State Regulators",
+        "refId": "1e4a975fea2c",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "FCA welcomes five fintechs into Scale-up Unit",
-        "refId": "bd3903ec10b7",
-        "source": "Finextra"
-      },
-      {
         "text": "Revolut awarded full-fat European banking licence",
         "refId": "e381d474caaa",
         "source": "Finextra"
@@ -76,6 +71,11 @@
         "text": "Loan Note: Key moves for Blue Owl in Japan; last call for Rising Stars",
         "refId": "6e4fd4f94396",
         "source": "Private Debt Investor"
+      },
+      {
+        "text": "OCC rejects Bunq's bank charter application",
+        "refId": "9fb9301f670a",
+        "source": "Finextra"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Should we \"pace\" AI self-improvement?",
-        "refId": "14ee7fcf3613",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
         "text": "Act like it is science",
         "refId": "c76d2e4c8470",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,17 +155,17 @@
         "text": "Do Faculty Affect Student Partisanship?",
         "refId": "9986b7121382",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Apple Earnings, More on Amazon\u2019s Earnings",
+        "refId": "65bf83f929b9",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Should we \"pace\" AI self-improvement?",
-        "refId": "14ee7fcf3613",
-        "source": "Noahpinion (Noah Smith)"
-      },
       {
         "text": "Capital Flows Livestream Tomorrow",
         "refId": "1c068534dd7d",
@@ -180,43 +175,48 @@
         "text": "Morgan Stanley Just Undercut Ethereum, Solana ETF Markets",
         "refId": "14f5c5fe3ba6",
         "source": "The Daily Upside"
+      },
+      {
+        "text": "Here\u2019s Where Active Investing Is Actually Beating Passive",
+        "refId": "57ea22316327",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7734.87,
+      "v": 7725.19,
       "base": 7757.64,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26464.65,
+      "v": 26449.055,
       "base": 26690.62,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53887.64,
+      "v": 53760.44,
       "base": 54036.93,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.688,
+      "v": 4.684,
       "base": 4.699,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.36,
+      "v": 15.25,
       "base": 15.46,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 191.402,
+      "v": 190.905,
       "base": 189.99,
       "bp": false
     }
