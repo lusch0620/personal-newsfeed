@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Should Financial Planning Be an Employee Benefit?",
-        "refId": "9853f1874d4c",
+        "text": "When Family Is the Succession Plan",
+        "refId": "3328c52c03b5",
         "source": "Wealth Management"
       },
       {
-        "text": "When Family Is the Succession Plan",
-        "refId": "3328c52c03b5",
+        "text": "Philanthropy in the Age of AI",
+        "refId": "03701ca3592a",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Tour Boat Operator Charged in Fatal Capsizing in New York Harbor",
-        "refId": "1a243b1bae3d",
+        "text": "Oman Says Spill From Grounded Shadow Oil Tanker Covers 400 Square Kilometers",
+        "refId": "ca191c1ca4cb",
         "source": "Insurance Journal"
       },
       {
-        "text": "Lawsuit Not Allowed for Heat-Stricken Worker Despite Previous Death, NC Court Says",
-        "refId": "ba0a4665e1be",
+        "text": "5 Strategic Tradeoffs MGAs Are Navigating",
+        "refId": "ccbb854bfa4a",
         "source": "Insurance Journal"
       },
       {
-        "text": "Appeals Court Says Lobstermen\u2019s Defamation Suit Raises First Amendment Questions",
-        "refId": "30afbf8d1bef",
+        "text": "\u2018Chronic\u2019 Heat Risk in Europe Draws Warning From Swiss Re",
+        "refId": "815858958803",
         "source": "Insurance Journal"
       }
     ]
@@ -62,11 +62,6 @@
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Robinhood launches crypto trading in the UK",
-        "refId": "cf9a168589d1",
-        "source": "Finextra"
-      },
       {
         "text": "FCA welcomes five fintechs into Scale-up Unit",
         "refId": "bd3903ec10b7",
@@ -76,6 +71,11 @@
         "text": "Revolut awarded full-fat European banking licence",
         "refId": "e381d474caaa",
         "source": "Finextra"
+      },
+      {
+        "text": "Loan Note: Key moves for Blue Owl in Japan; last call for Rising Stars",
+        "refId": "6e4fd4f94396",
+        "source": "Private Debt Investor"
       }
     ]
   },
@@ -186,37 +186,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7745.51,
+      "v": 7734.87,
       "base": 7757.64,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26520.105,
+      "v": 26464.65,
       "base": 26690.62,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53949.09,
+      "v": 53887.64,
       "base": 54036.93,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.692,
+      "v": 4.688,
       "base": 4.699,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.34,
+      "v": 15.36,
       "base": 15.46,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 190.947,
+      "v": 191.402,
       "base": 189.99,
       "bp": false
     }
