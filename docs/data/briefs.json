@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Schwab is nixing FDIC backing on brokerage sweep cash as soon as Sept. 8 by moving it all under SIPC -- with clear drawbacks for investors, say analysts",
-        "refId": "7d6016fce6f6",
-        "source": "RIABiz"
-      },
-      {
         "text": "CFO4Life's Leaders Accuse Focus Financial of 'Bullying' Tactics",
         "refId": "33d3792f3b3d",
         "source": "Wealth Management"
@@ -35,6 +30,11 @@
       {
         "text": "Consumer Groups Warn AI Provision In Crypto Bill Could Weaken State Regulators",
         "refId": "1e4a975fea2c",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Developers, Advisors Position for Opportunity Zone 2.0 Investments",
+        "refId": "3b83db67e3b6",
         "source": "Wealth Management"
       }
     ]
@@ -186,19 +186,19 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7725.19,
+      "v": 7728.2,
       "base": 7757.64,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26449.055,
+      "v": 26445.445,
       "base": 26690.62,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53760.44,
+      "v": 53791.85,
       "base": 54036.93,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 15.25,
+      "v": 15.28,
       "base": 15.46,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 190.905,
+      "v": 191.162,
       "base": 189.99,
       "bp": false
     }
