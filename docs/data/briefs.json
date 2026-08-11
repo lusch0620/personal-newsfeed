@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Delaware Judge Orders Verisk to Proceed With $2.35 Billion AccuLynx Deal",
-        "refId": "724569d5edbe",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Montana Auditor Suspends Producer License of Bail Bondsman Accused of Exploitation",
-        "refId": "2ad8db9b3fe2",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Tour Boat Operator Charged in Fatal Capsizing in New York Harbor",
         "refId": "1a243b1bae3d",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Lawsuit Not Allowed for Heat-Stricken Worker Despite Previous Death, NC Court Says",
+        "refId": "ba0a4665e1be",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Appeals Court Says Lobstermen\u2019s Defamation Suit Raises First Amendment Questions",
+        "refId": "30afbf8d1bef",
         "source": "Insurance Journal"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "fce15d7c60c0",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Should we \"pace\" AI self-improvement?",
         "refId": "14ee7fcf3613",
         "source": "Noahpinion (Noah Smith)"
@@ -160,17 +155,17 @@
         "text": "Act like it is science",
         "refId": "c76d2e4c8470",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Do Faculty Affect Student Partisanship?",
+        "refId": "9986b7121382",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Sunday assorted links",
-        "refId": "fce15d7c60c0",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "Should we \"pace\" AI self-improvement?",
         "refId": "14ee7fcf3613",
@@ -180,43 +175,48 @@
         "text": "Capital Flows Livestream Tomorrow",
         "refId": "1c068534dd7d",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "Morgan Stanley Just Undercut Ethereum, Solana ETF Markets",
+        "refId": "14f5c5fe3ba6",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7759.68,
+      "v": 7745.51,
       "base": 7757.64,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26609.578,
+      "v": 26520.105,
       "base": 26690.62,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 54045.97,
+      "v": 53949.09,
       "base": 54036.93,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.678,
+      "v": 4.692,
       "base": 4.699,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.5,
+      "v": 15.34,
       "base": 15.46,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 190.332,
+      "v": 190.947,
       "base": 189.99,
       "bp": false
     }
