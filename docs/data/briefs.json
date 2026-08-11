@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Judge Approves $106M Settlement Over Hard Rock Hotel Collapse in New Orleans",
-        "refId": "564512fcaf8f",
+        "text": "Delaware Judge Orders Verisk to Proceed With $2.35 Billion AccuLynx Deal",
+        "refId": "724569d5edbe",
         "source": "Insurance Journal"
       },
       {
-        "text": "Illinois Lawsuit Alleges Companies Violated Environmental Laws at Chicago Site",
-        "refId": "e78adcf266e7",
+        "text": "Montana Auditor Suspends Producer License of Bail Bondsman Accused of Exploitation",
+        "refId": "2ad8db9b3fe2",
         "source": "Insurance Journal"
       },
       {
-        "text": "Oregon Scam Targeting Spanish-Speaking Injured Workers May Include Fake Judges",
-        "refId": "2a3eb0759a58",
+        "text": "Tour Boat Operator Charged in Fatal Capsizing in New York Harbor",
+        "refId": "1a243b1bae3d",
         "source": "Insurance Journal"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Hackers target PE firms with old-school vishing attacks - Google researchers",
-        "refId": "6ebbdf99624a",
-        "source": "Finextra"
-      },
-      {
-        "text": "BofA and USAA ink patent cross-license agreement",
-        "refId": "22026aaf9686",
-        "source": "Finextra"
-      },
-      {
         "text": "Robinhood launches crypto trading in the UK",
         "refId": "cf9a168589d1",
+        "source": "Finextra"
+      },
+      {
+        "text": "FCA welcomes five fintechs into Scale-up Unit",
+        "refId": "bd3903ec10b7",
+        "source": "Finextra"
+      },
+      {
+        "text": "Revolut awarded full-fat European banking licence",
+        "refId": "e381d474caaa",
         "source": "Finextra"
       }
     ]
@@ -103,30 +103,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Seek more context when you hear these popular words and phrases about markets \ud83d\udcdc",
-        "refId": "08d6e2e7bf72",
-        "source": "TKer (Sam Ro)"
-      },
-      {
         "text": "Capital Flows Livestream Tomorrow",
         "refId": "1c068534dd7d",
         "source": "Capital Flows Research"
       },
       {
-        "text": "Barrick and Newmont gold mining truce clears way for IPO",
-        "refId": "afdeb24f95de",
-        "source": "Financial Times Markets"
+        "text": "North American Oil Data Deck (August 2026)",
+        "refId": "54914ecc6922",
+        "source": "Commodity Context"
+      },
+      {
+        "text": "Why Meta Is Betting Big on Open A.I.",
+        "refId": "d4619c48ecd3",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "Newsletters": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "\u2018Die with Zero\u2019 May Be Unrealistic, But That\u2019s Not Stopping Retirees From Trying",
-        "refId": "a92443d02114",
-        "source": "The Daily Upside"
-      },
       {
         "text": "Morgan Stanley Just Undercut Ethereum, Solana ETF Markets",
         "refId": "14f5c5fe3ba6",
@@ -135,6 +130,11 @@
       {
         "text": "Here\u2019s Where Active Investing Is Actually Beating Passive",
         "refId": "57ea22316327",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "The DRAMa Behind Wall Street\u2019s Fastest Selling ETF",
+        "refId": "5c46369f1af9",
         "source": "The Daily Upside"
       }
     ]
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "\u2018Die with Zero\u2019 May Be Unrealistic, But That\u2019s Not Stopping Retirees From Trying",
-        "refId": "a92443d02114",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Seek more context when you hear these popular words and phrases about markets \ud83d\udcdc",
-        "refId": "08d6e2e7bf72",
-        "source": "TKer (Sam Ro)"
-      },
-      {
         "text": "Sunday assorted links",
         "refId": "fce15d7c60c0",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Should we \"pace\" AI self-improvement?",
+        "refId": "14ee7fcf3613",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Capital Flows Livestream Tomorrow",
+        "refId": "1c068534dd7d",
+        "source": "Capital Flows Research"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7753.11,
-      "base": 7709.96,
+      "v": 7759.68,
+      "base": 7757.64,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26605.357,
-      "base": 26348.35,
+      "v": 26609.578,
+      "base": 26690.62,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53975.98,
-      "base": 53885.1,
+      "v": 54045.97,
+      "base": 54036.93,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.699,
-      "base": 4.66,
+      "v": 4.678,
+      "base": 4.699,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.49,
+      "v": 15.5,
       "base": 15.46,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 190.458,
-      "base": 189.67,
+      "v": 190.332,
+      "base": 189.99,
       "bp": false
     }
   ]
