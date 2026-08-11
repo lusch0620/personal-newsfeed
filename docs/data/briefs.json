@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "People Moves: Augment Risk Promotes Cripps to New Role of Group Head of Growth and Broking; Fidelis Partnership Taps Ascot\u2019s Donovan as Head of U/W, Property Binders",
-        "refId": "2b9328a2b3de",
+        "text": "Judge Approves $106M Settlement Over Hard Rock Hotel Collapse in New Orleans",
+        "refId": "564512fcaf8f",
         "source": "Insurance Journal"
       },
       {
-        "text": "Markets/Coverages: Rokstone\u2019s Athena Cyber Division Launches Supply Chain Extension",
-        "refId": "b05909222d28",
+        "text": "Illinois Lawsuit Alleges Companies Violated Environmental Laws at Chicago Site",
+        "refId": "e78adcf266e7",
         "source": "Insurance Journal"
       },
       {
-        "text": "AXA XL Re appoints two Senior Underwriters to Marine & Energy team",
-        "refId": "8c0ca95de8f6",
-        "source": "Reinsurance News"
+        "text": "Oregon Scam Targeting Spanish-Speaking Injured Workers May Include Fake Judges",
+        "refId": "2a3eb0759a58",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -83,19 +83,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Entrepreneurial ecosystem draws dealmakers to Spanish mid-market",
-        "refId": "3e79e60e624f",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Spain a \u2018value destination\u2019 for mid-market investors; Wise Equity to acquire E-Pharma Trento",
-        "refId": "723254c152d5",
-        "source": "PE Hub"
-      },
-      {
         "text": "Investor Intentions: Korea\u2019s Employment Insurance Fund seeks blind-pool PE/VC funds for 2026",
         "refId": "e68d539010f4",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Side Letter: Secondaries divergence",
+        "refId": "8cb8c9db4d9c",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "StepStone surpasses $20bn in private wealth AUM",
+        "refId": "2e8de1a32ea7",
+        "source": "Secondaries Investor"
       }
     ]
   },
@@ -113,8 +113,8 @@
         "source": "Capital Flows Research"
       },
       {
-        "text": "London plots digital gold pivot to protect bullion trading",
-        "refId": "d74260aab44d",
+        "text": "Barrick and Newmont gold mining truce clears way for IPO",
+        "refId": "afdeb24f95de",
         "source": "Financial Times Markets"
       }
     ]
@@ -123,11 +123,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "With SEO Rizz Fading, Brands Compete For Chatbot Love",
-        "refId": "06f8714f7b8d",
-        "source": "The Daily Upside"
-      },
-      {
         "text": "\u2018Die with Zero\u2019 May Be Unrealistic, But That\u2019s Not Stopping Retirees From Trying",
         "refId": "a92443d02114",
         "source": "The Daily Upside"
@@ -135,6 +130,11 @@
       {
         "text": "Morgan Stanley Just Undercut Ethereum, Solana ETF Markets",
         "refId": "14f5c5fe3ba6",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Here\u2019s Where Active Investing Is Actually Beating Passive",
+        "refId": "57ea22316327",
         "source": "The Daily Upside"
       }
     ]
@@ -147,18 +147,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Is there a Balkan fertility paradox? (from my email)",
-        "refId": "abdaff52c0e4",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "One of the better pro-natalist Lieder",
-        "refId": "64cab54c4160",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Sunday assorted links",
         "refId": "fce15d7c60c0",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Should we \"pace\" AI self-improvement?",
+        "refId": "14ee7fcf3613",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Act like it is science",
+        "refId": "c76d2e4c8470",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -167,18 +167,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "With SEO Rizz Fading, Brands Compete For Chatbot Love",
-        "refId": "06f8714f7b8d",
+        "text": "\u2018Die with Zero\u2019 May Be Unrealistic, But That\u2019s Not Stopping Retirees From Trying",
+        "refId": "a92443d02114",
         "source": "The Daily Upside"
       },
       {
-        "text": "Is there a Balkan fertility paradox? (from my email)",
-        "refId": "abdaff52c0e4",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Seek more context when you hear these popular words and phrases about markets \ud83d\udcdc",
+        "refId": "08d6e2e7bf72",
+        "source": "TKer (Sam Ro)"
       },
       {
-        "text": "One of the better pro-natalist Lieder",
-        "refId": "64cab54c4160",
+        "text": "Sunday assorted links",
+        "refId": "fce15d7c60c0",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -210,8 +210,8 @@
     },
     {
       "nm": "VIX",
-      "v": 15.46,
-      "base": 14.9,
+      "v": 15.49,
+      "base": 15.46,
       "bp": false
     },
     {
