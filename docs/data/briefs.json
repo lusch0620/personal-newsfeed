@@ -8,14 +8,14 @@
         "source": "CNBC Finance"
       },
       {
-        "text": "Stocks making the biggest moves premarket: Riot Platforms, Hims & Hers Health, Intel & more",
-        "refId": "d046e44f0c33",
-        "source": "CNBC Finance"
+        "text": "Silicon Motion Technology Corporation Prices Upsized Offering of $1.0 Billion Convertible Senior Notes due 2031",
+        "refId": "9541d801c842",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Illinois\u2019 HBT to buy in-state Tri-County Financial for $204.6M",
-        "refId": "32c3a1604f5d",
-        "source": "Banking Dive"
+        "text": "OpenLight and Tower Semiconductor Expand PH18DA Photonics Ecosystem to Accelerate Photonic IC Development",
+        "refId": "4e7a3f63bc36",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "SAVE Borrowers Need to Decide Now",
-        "refId": "8f3217d3fce8",
+        "text": "Edward Jones Posts Record $5B in Quarterly Revenue",
+        "refId": "19fb284b5744",
         "source": "Wealth Management"
       },
       {
-        "text": "iCapital: Advisor Demand for Alts Stays Strong, but Allocations Are Shifting",
-        "refId": "7303a4f2d367",
+        "text": "Edelman Snags Retirement Advisory Team Leader Formerly of OneDigital, Alera Group",
+        "refId": "ddea407837b6",
         "source": "Wealth Management"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Contrarian energy investor Kimmeridge hits market with latest E&P fund",
-        "refId": "dafb3ae9a676",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "Apollo, Pantheon and SQ Capital co-lead on Exponent\u2019s \u20ac750m CV",
         "refId": "81759fd934c6",
         "source": "Secondaries Investor"
@@ -96,17 +91,17 @@
         "text": "Investor Intentions: Plymouth County Retirement Association issues RFP for private equity manager",
         "refId": "15f6406e729e",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Medical education gap presents an opportunity for private equity",
+        "refId": "51d2bc506dfb",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Currency Wars and The Repricing Of FX Volatility",
-        "refId": "9a740e429c15",
-        "source": "Capital Flows Research"
-      },
       {
         "text": "The Perils of Wall St.\u2019s Race to Pour Billions More Into A.I.",
         "refId": "c77bf875e3c7",
@@ -115,6 +110,11 @@
       {
         "text": "Ari Emanuel\u2019s Company to Acquire 7 Broadway Theaters and 10 in the West End",
         "refId": "49d2a5690020",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "As Credit Card Debt Mounts, Home Becomes a Piggy Bank",
+        "refId": "8554d712d1ee",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Contrarian energy investor Kimmeridge hits market with latest E&P fund",
-        "refId": "dafb3ae9a676",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "Currency Wars and The Repricing Of FX Volatility",
-        "refId": "9a740e429c15",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are \u2018investable asset\u2019",
         "refId": "45f19a97f19d",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Silicon Motion Technology Corporation Prices Upsized Offering of $1.0 Billion Convertible Senior Notes due 2031",
+        "refId": "9541d801c842",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Zuck Wants to Hand AI Power to the People. That Makes More Sense for Meta Than Its Rivals",
+        "refId": "230a1fdda2ef",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7745.47,
+      "v": 7748.5,
       "base": 7753.11,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26576.193,
+      "v": 26588.488,
       "base": 26605.36,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53757.87,
+      "v": 53770.27,
       "base": 53975.98,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 14.39,
+      "v": 14.55,
       "base": 15.28,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 193.094,
+      "v": 193.215,
       "base": 190.46,
       "bp": false
     }
