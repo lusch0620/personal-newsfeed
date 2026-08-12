@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "STMicroelectronics announces status of common share repurchase program",
-        "refId": "e6f54b50a355",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Bunq rejected for OCC bank charter",
+        "refId": "ebe22f3ec2bf",
+        "source": "Banking Dive"
       },
       {
-        "text": "ASML reports transactions under its current share buyback program",
-        "refId": "2b98087f380a",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "U.S. Bank flags potential blowback from debanking inquiries",
+        "refId": "e22194276b92",
+        "source": "Banking Dive"
       },
       {
-        "text": "Stocks making the biggest moves premarket: Intel, GameStop, Archer Aviation, Berkshire and more",
-        "refId": "2f6a665355cf",
+        "text": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
+        "refId": "ac2e5fe557dc",
         "source": "CNBC Finance"
       }
     ]
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Consumer Groups Warn AI Provision In Crypto Bill Could Weaken State Regulators",
-        "refId": "1e4a975fea2c",
+        "text": "SEIA Launches Tax Division, Expands Family Office Services",
+        "refId": "a8dd5c3a4eda",
         "source": "Wealth Management"
       },
       {
-        "text": "Developers, Advisors Position for Opportunity Zone 2.0 Investments",
-        "refId": "3b83db67e3b6",
+        "text": "MissionSquare Retirement Expands Wealth Options",
+        "refId": "8bbd341669f8",
         "source": "Wealth Management"
       },
       {
-        "text": "Leveraged ETF Boom Creates New Ways to Profit From Sudden Bursts of Volatility",
-        "refId": "ae2c7e06b66e",
+        "text": "AlTi Global Takes $20M Loss on External Manager",
+        "refId": "aea46a99ee5d",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Inszone Insurance Acquires Two Fong\u2019s in California",
-        "refId": "3cd88e904cac",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Massachusetts High Court Says Mag Mutual Must Defend Doctor Accused of Stalking",
-        "refId": "c5c12eff5fdd",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "German Drivers Accelerate Switch to EVs Due to Middle East War",
         "refId": "3a6c060046b9",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Delta Probing Unauthorized Wi-Fi on Flight After Hacker Event",
+        "refId": "fc0a922b8121",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Rhine River Shipping Stalls as Water Level Hits Record Low",
+        "refId": "1cb2627073b2",
         "source": "Insurance Journal"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "New Jersey CIO stresses credit underwriting amid retail inflows",
-        "refId": "c11be3924c20",
-        "source": "Private Debt Investor"
-      },
-      {
         "text": "CMBS Special Servicing Rate Declined in July 2026, Led by Office & Lodging Improvement",
         "refId": "599f55a28c90",
         "source": "Trepp Talk"
       },
       {
-        "text": "Banks facing AI concentration risk",
-        "refId": "d8f32ba7069e",
+        "text": "Fund DPIs down from post GFC heyday",
+        "refId": "ca641d4d1d21",
+        "source": "Private Debt Investor"
+      },
+      {
+        "text": "Brazil to expand Pix payment system",
+        "refId": "65a7a8dab2d1",
         "source": "Finextra"
       }
     ]
@@ -82,11 +82,6 @@
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Side Letter: Secondaries divergence",
-        "refId": "8cb8c9db4d9c",
-        "source": "Private Equity International"
-      },
       {
         "text": "StepStone surpasses $20bn in private wealth AUM",
         "refId": "2e8de1a32ea7",
@@ -96,6 +91,11 @@
         "text": "StepStone surpasses $20bn in private wealth AUM",
         "refId": "594610793b76",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Contrarian energy investor Kimmeridge hits market with latest E&P fund",
+        "refId": "dafb3ae9a676",
+        "source": "Buyouts Insider"
       }
     ]
   },
@@ -103,19 +103,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "North American Oil Data Deck (August 2026)",
-        "refId": "54914ecc6922",
-        "source": "Commodity Context"
-      },
-      {
-        "text": "Why Meta Is Betting Big on Open A.I.",
-        "refId": "d4619c48ecd3",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Currency Wars and The Repricing Of FX Volatility",
         "refId": "9a740e429c15",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "The Perils of Wall St.\u2019s Race to Pour Billions More Into A.I.",
+        "refId": "c77bf875e3c7",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Ari Emanuel\u2019s Company to Acquire 7 Broadway Theaters and 10 in the West End",
+        "refId": "49d2a5690020",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Face Behind Anthropic\u2019s Success",
-        "refId": "b8cb98e5d4ea",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Monday assorted links",
         "refId": "910a9119b151",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Who enters Congress?",
         "refId": "e405236b8fb4",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "How well does AI peer review work?",
+        "refId": "b9ea0bd36fb2",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "STMicroelectronics announces status of common share repurchase program",
-        "refId": "e6f54b50a355",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Bunq rejected for OCC bank charter",
+        "refId": "ebe22f3ec2bf",
+        "source": "Banking Dive"
       },
       {
-        "text": "ASML reports transactions under its current share buyback program",
-        "refId": "2b98087f380a",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Monday assorted links",
+        "refId": "910a9119b151",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "North American Oil Data Deck (August 2026)",
-        "refId": "54914ecc6922",
-        "source": "Commodity Context"
+        "text": "StepStone surpasses $20bn in private wealth AUM",
+        "refId": "2e8de1a32ea7",
+        "source": "Secondaries Investor"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7728.2,
-      "base": 7757.64,
+      "v": 7746.26,
+      "base": 7753.11,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26445.445,
-      "base": 26690.62,
+      "v": 26604.596,
+      "base": 26605.36,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53791.85,
-      "base": 54036.93,
+      "v": 53783.13,
+      "base": 53975.98,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.684,
-      "base": 4.699,
+      "v": 4.664,
+      "base": 4.684,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.39,
+      "v": 14.77,
       "base": 15.28,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 191.162,
-      "base": 189.99,
+      "v": 192.252,
+      "base": 190.46,
       "bp": false
     }
   ]
