@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves midday: NetApp, Intel, Apple, Doximity, Verisk Analytics & more",
-        "refId": "aa54fb58a714",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are \u2018investable asset\u2019",
         "refId": "45f19a97f19d",
         "source": "CNBC Finance"
       },
       {
-        "text": "Silicon Motion Technology Corporation Prices Upsized Offering of $1.0 Billion Convertible Senior Notes due 2031",
-        "refId": "9541d801c842",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Stocks making the biggest moves premarket: Riot Platforms, Hims & Hers Health, Intel & more",
+        "refId": "d046e44f0c33",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Illinois\u2019 HBT to buy in-state Tri-County Financial for $204.6M",
+        "refId": "32c3a1604f5d",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "14 Investment Must Reads for This Week (Aug. 11, 2026)",
-        "refId": "9290b99d9161",
+        "text": "SAVE Borrowers Need to Decide Now",
+        "refId": "8f3217d3fce8",
         "source": "Wealth Management"
       },
       {
-        "text": "The Long Game: Enterprise Value Creation",
-        "refId": "42f1a61a43b0",
+        "text": "iCapital: Advisor Demand for Alts Stays Strong, but Allocations Are Shifting",
+        "refId": "7303a4f2d367",
         "source": "Wealth Management"
       }
     ]
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves midday: NetApp, Intel, Apple, Doximity, Verisk Analytics & more",
-        "refId": "aa54fb58a714",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Contrarian energy investor Kimmeridge hits market with latest E&P fund",
         "refId": "dafb3ae9a676",
         "source": "Buyouts Insider"
@@ -180,43 +175,48 @@
         "text": "Currency Wars and The Repricing Of FX Volatility",
         "refId": "9a740e429c15",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are \u2018investable asset\u2019",
+        "refId": "45f19a97f19d",
+        "source": "CNBC Finance"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7751.88,
+      "v": 7745.47,
       "base": 7753.11,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26605.871,
+      "v": 26576.193,
       "base": 26605.36,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53822.07,
+      "v": 53757.87,
       "base": 53975.98,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.67,
+      "v": 4.682,
       "base": 4.684,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.63,
+      "v": 14.39,
       "base": 15.28,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 192.607,
+      "v": 193.094,
       "base": 190.46,
       "bp": false
     }
