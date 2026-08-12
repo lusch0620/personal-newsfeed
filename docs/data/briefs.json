@@ -3,30 +3,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "ASM announces start of \u20ac150 million share buyback program",
-        "refId": "9e28e0f8523d",
+        "text": "STMicroelectronics announces status of common share repurchase program",
+        "refId": "e6f54b50a355",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Allocating digital asset exposure",
-        "refId": "40739496ed78",
-        "source": "Banking Dive"
+        "text": "ASML reports transactions under its current share buyback program",
+        "refId": "2b98087f380a",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Silicon Motion Technology Corporation Announces Proposed Offering of 0.00% Convertible Senior Notes due 2031",
-        "refId": "0a0cde5acccf",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Stocks making the biggest moves premarket: Intel, GameStop, Archer Aviation, Berkshire and more",
+        "refId": "2f6a665355cf",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "CFO4Life's Leaders Accuse Focus Financial of 'Bullying' Tactics",
-        "refId": "33d3792f3b3d",
-        "source": "Wealth Management"
-      },
       {
         "text": "Consumer Groups Warn AI Provision In Crypto Bill Could Weaken State Regulators",
         "refId": "1e4a975fea2c",
@@ -36,6 +31,11 @@
         "text": "Developers, Advisors Position for Opportunity Zone 2.0 Investments",
         "refId": "3b83db67e3b6",
         "source": "Wealth Management"
+      },
+      {
+        "text": "Leveraged ETF Boom Creates New Ways to Profit From Sudden Bursts of Volatility",
+        "refId": "ae2c7e06b66e",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oman Says Spill From Grounded Shadow Oil Tanker Covers 400 Square Kilometers",
-        "refId": "ca191c1ca4cb",
+        "text": "Inszone Insurance Acquires Two Fong\u2019s in California",
+        "refId": "3cd88e904cac",
         "source": "Insurance Journal"
       },
       {
-        "text": "5 Strategic Tradeoffs MGAs Are Navigating",
-        "refId": "ccbb854bfa4a",
+        "text": "Massachusetts High Court Says Mag Mutual Must Defend Doctor Accused of Stalking",
+        "refId": "c5c12eff5fdd",
         "source": "Insurance Journal"
       },
       {
-        "text": "\u2018Chronic\u2019 Heat Risk in Europe Draws Warning From Swiss Re",
-        "refId": "815858958803",
+        "text": "German Drivers Accelerate Switch to EVs Due to Middle East War",
+        "refId": "3a6c060046b9",
         "source": "Insurance Journal"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Loan Note: Key moves for Blue Owl in Japan; last call for Rising Stars",
-        "refId": "6e4fd4f94396",
-        "source": "Private Debt Investor"
-      },
-      {
         "text": "New Jersey CIO stresses credit underwriting amid retail inflows",
         "refId": "c11be3924c20",
         "source": "Private Debt Investor"
       },
       {
-        "text": "New bank targeting 'innovation economy' closes in on $1.5bn funding round",
-        "refId": "b4481fd4a254",
+        "text": "CMBS Special Servicing Rate Declined in July 2026, Led by Office & Lodging Improvement",
+        "refId": "599f55a28c90",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Banks facing AI concentration risk",
+        "refId": "d8f32ba7069e",
         "source": "Finextra"
       }
     ]
@@ -82,11 +82,6 @@
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Investor Intentions: Korea\u2019s Employment Insurance Fund seeks blind-pool PE/VC funds for 2026",
-        "refId": "e68d539010f4",
-        "source": "Private Equity International"
-      },
       {
         "text": "Side Letter: Secondaries divergence",
         "refId": "8cb8c9db4d9c",
@@ -96,6 +91,11 @@
         "text": "StepStone surpasses $20bn in private wealth AUM",
         "refId": "2e8de1a32ea7",
         "source": "Secondaries Investor"
+      },
+      {
+        "text": "StepStone surpasses $20bn in private wealth AUM",
+        "refId": "594610793b76",
+        "source": "Private Equity International"
       }
     ]
   },
@@ -113,9 +113,9 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Glencore-backed group looks to rescue cobalt refiner Sherritt",
-        "refId": "0e65d7422c37",
-        "source": "Financial Times Markets"
+        "text": "Currency Wars and The Repricing Of FX Volatility",
+        "refId": "9a740e429c15",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Morgan Stanley Just Undercut Ethereum, Solana ETF Markets",
-        "refId": "14f5c5fe3ba6",
+        "text": "Zuck Wants to Hand AI Power to the People. That Makes More Sense for Meta Than Its Rivals",
+        "refId": "230a1fdda2ef",
         "source": "The Daily Upside"
       },
       {
-        "text": "Here\u2019s Where Active Investing Is Actually Beating Passive",
-        "refId": "57ea22316327",
+        "text": "All Aboard: Boeing Sells Three Subsidiaries to Air Taxi Rival Archer for a Stake",
+        "refId": "66062842c370",
         "source": "The Daily Upside"
       },
       {
-        "text": "The DRAMa Behind Wall Street\u2019s Fastest Selling ETF",
-        "refId": "5c46369f1af9",
+        "text": "Apple\u2019s Supply Chain Woes Threaten All-Glass iPhone",
+        "refId": "70967823b328",
         "source": "The Daily Upside"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Act like it is science",
-        "refId": "c76d2e4c8470",
+        "text": "The Face Behind Anthropic\u2019s Success",
+        "refId": "b8cb98e5d4ea",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Monday assorted links",
+        "refId": "910a9119b151",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Do Faculty Affect Student Partisanship?",
-        "refId": "9986b7121382",
+        "text": "Who enters Congress?",
+        "refId": "e405236b8fb4",
         "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Apple Earnings, More on Amazon\u2019s Earnings",
-        "refId": "65bf83f929b9",
-        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Morgan Stanley Just Undercut Ethereum, Solana ETF Markets",
-        "refId": "14f5c5fe3ba6",
-        "source": "The Daily Upside"
+        "text": "STMicroelectronics announces status of common share repurchase program",
+        "refId": "e6f54b50a355",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Here\u2019s Where Active Investing Is Actually Beating Passive",
-        "refId": "57ea22316327",
-        "source": "The Daily Upside"
+        "text": "ASML reports transactions under its current share buyback program",
+        "refId": "2b98087f380a",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "The DRAMa Behind Wall Street\u2019s Fastest Selling ETF",
-        "refId": "5c46369f1af9",
-        "source": "The Daily Upside"
+        "text": "North American Oil Data Deck (August 2026)",
+        "refId": "54914ecc6922",
+        "source": "Commodity Context"
       }
     ]
   },
@@ -210,8 +210,8 @@
     },
     {
       "nm": "VIX",
-      "v": 15.28,
-      "base": 15.46,
+      "v": 15.39,
+      "base": 15.28,
       "bp": false
     },
     {
