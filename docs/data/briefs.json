@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bunq rejected for OCC bank charter",
-        "refId": "ebe22f3ec2bf",
-        "source": "Banking Dive"
-      },
-      {
         "text": "U.S. Bank flags potential blowback from debanking inquiries",
         "refId": "e22194276b92",
         "source": "Banking Dive"
@@ -16,17 +11,17 @@
         "text": "Three reasons Goldman's co-head of global banking and markets says to stay invested",
         "refId": "ac2e5fe557dc",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves midday: NetApp, Intel, Apple, Doximity, Verisk Analytics & more",
+        "refId": "aa54fb58a714",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "SEIA Launches Tax Division, Expands Family Office Services",
-        "refId": "a8dd5c3a4eda",
-        "source": "Wealth Management"
-      },
       {
         "text": "MissionSquare Retirement Expands Wealth Options",
         "refId": "8bbd341669f8",
@@ -36,6 +31,11 @@
         "text": "AlTi Global Takes $20M Loss on External Manager",
         "refId": "aea46a99ee5d",
         "source": "Wealth Management"
+      },
+      {
+        "text": "RIA Edge 100: Wescott Financial's Psych Profiles Pay Dividends",
+        "refId": "6eb3d4a8fcd1",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "German Drivers Accelerate Switch to EVs Due to Middle East War",
-        "refId": "3a6c060046b9",
+        "text": "AI\u2019s Volatile Power Demand Is Damaging Its Own Data Centers",
+        "refId": "eb553ba06f5f",
         "source": "Insurance Journal"
       },
       {
-        "text": "Delta Probing Unauthorized Wi-Fi on Flight After Hacker Event",
-        "refId": "fc0a922b8121",
+        "text": "HSBC Global Insurance Business Head Moncreiffe to Leave, Sources Say",
+        "refId": "68464185a3c3",
         "source": "Insurance Journal"
       },
       {
-        "text": "Rhine River Shipping Stalls as Water Level Hits Record Low",
-        "refId": "1cb2627073b2",
+        "text": "First Cap Property Insurance Solutions Continues Expanding California Homeowners Insurance",
+        "refId": "2320092cdca7",
         "source": "Insurance Journal"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Monday assorted links",
-        "refId": "910a9119b151",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Who enters Congress?",
         "refId": "e405236b8fb4",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "How well does AI peer review work?",
         "refId": "b9ea0bd36fb2",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The poverty of anti-tech thought",
+        "refId": "c189cef30990",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bunq rejected for OCC bank charter",
-        "refId": "ebe22f3ec2bf",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Monday assorted links",
-        "refId": "910a9119b151",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "StepStone surpasses $20bn in private wealth AUM",
         "refId": "2e8de1a32ea7",
         "source": "Secondaries Investor"
+      },
+      {
+        "text": "U.S. Bank flags potential blowback from debanking inquiries",
+        "refId": "e22194276b92",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "StepStone surpasses $20bn in private wealth AUM",
+        "refId": "594610793b76",
+        "source": "Private Equity International"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7746.26,
+      "v": 7741.14,
       "base": 7753.11,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26604.596,
+      "v": 26552.152,
       "base": 26605.36,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53783.13,
+      "v": 53790.45,
       "base": 53975.98,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.664,
+      "v": 4.67,
       "base": 4.684,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.77,
+      "v": 14.79,
       "base": 15.28,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 192.252,
+      "v": 192.875,
       "base": 190.46,
       "bp": false
     }
