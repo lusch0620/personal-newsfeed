@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Capital Flows Livestream Tomorrow",
-        "refId": "1c068534dd7d",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "North American Oil Data Deck (August 2026)",
         "refId": "54914ecc6922",
         "source": "Commodity Context"
@@ -116,6 +111,11 @@
         "text": "Why Meta Is Betting Big on Open A.I.",
         "refId": "d4619c48ecd3",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Glencore-backed group looks to rescue cobalt refiner Sherritt",
+        "refId": "0e65d7422c37",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Capital Flows Livestream Tomorrow",
-        "refId": "1c068534dd7d",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "Morgan Stanley Just Undercut Ethereum, Solana ETF Markets",
         "refId": "14f5c5fe3ba6",
         "source": "The Daily Upside"
@@ -179,6 +174,11 @@
       {
         "text": "Here\u2019s Where Active Investing Is Actually Beating Passive",
         "refId": "57ea22316327",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "The DRAMa Behind Wall Street\u2019s Fastest Selling ETF",
+        "refId": "5c46369f1af9",
         "source": "The Daily Upside"
       }
     ]
