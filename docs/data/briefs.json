@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves premarket: Riot Platforms, Hims & Hers Health, Intel & more",
-        "refId": "d046e44f0c33",
+        "text": "Louisiana bank agrees to FDIC consent order over credit quality",
+        "refId": "10dd79545b38",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
+        "refId": "4c218c27b0fa",
         "source": "CNBC Finance"
       },
       {
-        "text": "UC Berkeley to Join Applied Materials\u2019 EPIC Center to Speed Chip Innovation",
-        "refId": "395164675c5f",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "Illinois\u2019 HBT to buy in-state Tri-County Financial for $204.6M",
-        "refId": "32c3a1604f5d",
-        "source": "Banking Dive"
+        "text": "Why JPMorgan is investing big in the 2028 LA Olympics",
+        "refId": "95fa66e91807",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -28,14 +28,14 @@
         "source": "RIABiz"
       },
       {
-        "text": "Edelman Snags Retirement Advisory Team Leader Formerly of OneDigital, Alera Group",
-        "refId": "ddea407837b6",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Schwab is nixing FDIC backing on Schwab One sweep cash to 'Investor Checking' as soon as Sept. 8 by moving it all under SIPC -- with clear drawbacks for investors, say analysts",
         "refId": "ba34b2ff00a8",
         "source": "RIABiz"
+      },
+      {
+        "text": "Merit Financial Advisors Acquires $900M Commonwealth Team",
+        "refId": "5db225ac82c5",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Norman joins Gallagher Re as Divisional Director within its Facultative team",
-        "refId": "8f317bb9d85d",
-        "source": "Reinsurance News"
+        "text": "Amynta Group Buys Virginia-Based Southern States Underwriters MGU",
+        "refId": "32f8b8574de9",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Suncorp\u2019s exec leadership changes to set insurer for next phase of strategy",
-        "refId": "a6a84ded67cf",
-        "source": "Reinsurance News"
+        "text": "WV Fire Commission Has Failed to Make Plan to Address High Fire Death Rate",
+        "refId": "be5a02a97015",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Green Shield Expands Non-Admitted High-Value HO Program to California and Colorado",
-        "refId": "a8e114fc1115",
+        "text": "Atlanta Airport Taps Munis for $1.1 Billion Mega Bond Sale",
+        "refId": "8d69cc655e89",
         "source": "Insurance Journal"
       }
     ]
@@ -68,13 +68,13 @@
         "source": "Trepp Talk"
       },
       {
-        "text": "Amex Ventures invests in autonomous finance startup Fazeshift",
-        "refId": "e537089fec3f",
+        "text": "Itau Unibanco joins Brazilian tokenisation pilot",
+        "refId": "af6d1d2a6666",
         "source": "Finextra"
       },
       {
-        "text": "Coinbase to launch tokenisation hub in Abu Dhabi",
-        "refId": "9459bef5423f",
+        "text": "RBI governor tells Indian banks to control AI",
+        "refId": "84dad6f0eb1c",
         "source": "Finextra"
       }
     ]
@@ -82,11 +82,6 @@
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Medical education gap presents an opportunity for private equity",
-        "refId": "51d2bc506dfb",
-        "source": "Private Equity International"
-      },
       {
         "text": "Hollyport maintains independence with stake sale to Blue Owl",
         "refId": "42a56c5cfdab",
@@ -96,17 +91,17 @@
         "text": "LAFPP reaffirms conviction in lower mid-market, emerging managers despite portfolio underperformance",
         "refId": "d057a1e37c52",
         "source": "Buyouts Insider"
+      },
+      {
+        "text": "US investors raise questions over credit secondaries valuations",
+        "refId": "d252f8958bcb",
+        "source": "Secondaries Investor"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Perils of Wall St.\u2019s Race to Pour Billions More Into A.I.",
-        "refId": "c77bf875e3c7",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "Ari Emanuel\u2019s Company to Acquire 7 Broadway Theaters and 10 in the West End",
         "refId": "49d2a5690020",
@@ -115,6 +110,11 @@
       {
         "text": "As Credit Card Debt Mounts, Home Becomes a Piggy Bank",
         "refId": "8554d712d1ee",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate",
+        "refId": "34a380f053a9",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves premarket: Riot Platforms, Hims & Hers Health, Intel & more",
-        "refId": "d046e44f0c33",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "The Perils of Wall St.\u2019s Race to Pour Billions More Into A.I.",
-        "refId": "c77bf875e3c7",
+        "text": "Ari Emanuel\u2019s Company to Acquire 7 Broadway Theaters and 10 in the West End",
+        "refId": "49d2a5690020",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Medical education gap presents an opportunity for private equity",
-        "refId": "51d2bc506dfb",
-        "source": "Private Equity International"
+        "text": "Altruist promises 'NASA-like precision' with sweep-cash funded margin loans, aiming to solve the tax-aware long-short SMA bottleneck frustrating RIAs at Schwab and Fidelity",
+        "refId": "be8c707da7bc",
+        "source": "RIABiz"
+      },
+      {
+        "text": "Tuesday assorted links",
+        "refId": "6d28d32bdc1f",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7748.5,
-      "base": 7753.11,
+      "v": 7806.88,
+      "base": 7728.2,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26588.488,
-      "base": 26605.36,
+      "v": 26849.646,
+      "base": 26445.45,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53770.27,
-      "base": 53975.98,
+      "v": 53954.79,
+      "base": 53791.85,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.682,
-      "base": 4.684,
+      "v": 4.625,
+      "base": 4.682,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.57,
+      "v": 14.64,
       "base": 14.55,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 193.215,
-      "base": 190.46,
+      "v": 193.9339,
+      "base": 191.16,
       "bp": false
     }
   ]
