@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Louisiana bank agrees to FDIC consent order over credit quality",
-        "refId": "10dd79545b38",
-        "source": "Banking Dive"
-      },
-      {
         "text": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
         "refId": "4c218c27b0fa",
         "source": "CNBC Finance"
       },
       {
-        "text": "Why JPMorgan is investing big in the 2028 LA Olympics",
-        "refId": "95fa66e91807",
+        "text": "Why Jensen Huang\u2019s $500 billion AI financing plan faces a big risk from China",
+        "refId": "0ae6bd41538f",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves after hours: Super Micro Computer, CoreWeave, H&R Block and more",
+        "refId": "9d408e360f5f",
         "source": "CNBC Finance"
       }
     ]
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Vanguard Launches Custom Model Portfolios",
-        "refId": "944eaafc1b60",
+        "text": "The Greatest Risk to Family Wealth Isn't Market Volatility",
+        "refId": "b20e5e12754e",
         "source": "Wealth Management"
       },
       {
-        "text": "Goldman Sachs to Acquire ETF Provider Neos in $2.3B Deal",
-        "refId": "b6925db0f06f",
+        "text": "Set Up a Client Care Program to Regularly Review Estate Documents",
+        "refId": "c84db526141d",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Atlanta Airport Taps Munis for $1.1 Billion Mega Bond Sale",
-        "refId": "8d69cc655e89",
+        "text": "Inside the Risk & Insurance Education Alliance\u2019s Workforce Strategy: What We Learned About Leading a Remote Team",
+        "refId": "e069177b4e2f",
         "source": "Insurance Journal"
       },
       {
-        "text": "Homeowners Insurance Market Reaches \u2018Fragmented Phase,\u2019 Says S&P GMI",
-        "refId": "5bfc6da6a4b0",
+        "text": "Iran Battles Oil Spill Near Key Persian Gulf Island of Qeshm",
+        "refId": "45fca6f71d71",
         "source": "Insurance Journal"
       },
       {
-        "text": "Australia Sets \u2018World-Leading\u2019 Minimum Pay, Insurance Rules for Gig Delivery Workers",
-        "refId": "f10410581f73",
+        "text": "Experts Race to Salvage Leaking Oil Tanker Grounded Off Oman",
+        "refId": "053f8795b7c5",
         "source": "Insurance Journal"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Hollyport maintains independence with stake sale to Blue Owl",
-        "refId": "42a56c5cfdab",
-        "source": "Secondaries Investor"
-      },
-      {
         "text": "LAFPP reaffirms conviction in lower mid-market, emerging managers despite portfolio underperformance",
         "refId": "d057a1e37c52",
         "source": "Buyouts Insider"
@@ -96,17 +91,17 @@
         "text": "US investors raise questions over credit secondaries valuations",
         "refId": "d252f8958bcb",
         "source": "Secondaries Investor"
+      },
+      {
+        "text": "Side Letter: On your marks",
+        "refId": "a82de651974f",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "As Credit Card Debt Mounts, Home Becomes a Piggy Bank",
-        "refId": "8554d712d1ee",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate",
         "refId": "34a380f053a9",
@@ -116,6 +111,11 @@
         "text": "Inflation Risk In The Global Economy",
         "refId": "8566e491551a",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "OPEC+ Data Deck (August 2026)",
+        "refId": "9b753a821ee3",
+        "source": "Commodity Context"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Tuesday assorted links",
-        "refId": "6d28d32bdc1f",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "How much will cybersecurity costs rise?",
         "refId": "ac399db21e25",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Immigrant Earnings Assimilation, 1981\u20132021",
         "refId": "4993a03fe907",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "What makes people happy?",
+        "refId": "8dff997ad8a9",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Tuesday assorted links",
-        "refId": "6d28d32bdc1f",
+        "text": "Office Deals Led CMBS Growth Through July 2026, & Data Centers Arrived",
+        "refId": "2837496cf97a",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "How much will cybersecurity costs rise?",
+        "refId": "ac399db21e25",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Louisiana bank agrees to FDIC consent order over credit quality",
-        "refId": "10dd79545b38",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Hollyport maintains independence with stake sale to Blue Owl",
-        "refId": "42a56c5cfdab",
-        "source": "Secondaries Investor"
+        "text": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
+        "refId": "4c218c27b0fa",
+        "source": "CNBC Finance"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7781.47,
+      "v": 7791.69,
       "base": 7728.2,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26736.547,
+      "v": 26791.977,
       "base": 26445.45,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53702.72,
+      "v": 53748.52,
       "base": 53791.85,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.641,
+      "v": 4.645,
       "base": 4.682,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.76,
+      "v": 14.73,
       "base": 14.55,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 192.7908,
+      "v": 193.0717,
       "base": 191.16,
       "bp": false
     }
