@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
-        "refId": "4c218c27b0fa",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Why Jensen Huang\u2019s $500 billion AI financing plan faces a big risk from China",
         "refId": "0ae6bd41538f",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "Stocks making the biggest moves after hours: Super Micro Computer, CoreWeave, H&R Block and more",
         "refId": "9d408e360f5f",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Ambarella Announces Second Quarter Fiscal Year 2027 Earnings Conference Call to be Held September 3, 2026",
+        "refId": "583bd87d92e0",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Office Deals Led CMBS Growth Through July 2026, & Data Centers Arrived",
-        "refId": "2837496cf97a",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Itau Unibanco joins Brazilian tokenisation pilot",
         "refId": "af6d1d2a6666",
         "source": "Finextra"
@@ -76,17 +71,17 @@
         "text": "RBI governor tells Indian banks to control AI",
         "refId": "84dad6f0eb1c",
         "source": "Finextra"
+      },
+      {
+        "text": "M&T Bank appoints head of AI engineering",
+        "refId": "2c2cbac999db",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "LAFPP reaffirms conviction in lower mid-market, emerging managers despite portfolio underperformance",
-        "refId": "d057a1e37c52",
-        "source": "Buyouts Insider"
-      },
       {
         "text": "US investors raise questions over credit secondaries valuations",
         "refId": "d252f8958bcb",
@@ -96,17 +91,17 @@
         "text": "Side Letter: On your marks",
         "refId": "a82de651974f",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Ex-APG PE veteran on how pensions can better assess performance",
+        "refId": "82b986df4088",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate",
-        "refId": "34a380f053a9",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "Inflation Risk In The Global Economy",
         "refId": "8566e491551a",
@@ -116,6 +111,11 @@
         "text": "OPEC+ Data Deck (August 2026)",
         "refId": "9b753a821ee3",
         "source": "Commodity Context"
+      },
+      {
+        "text": "The Hidden Mechanics Behind Interest Rates",
+        "refId": "00a7c507ed19",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How much will cybersecurity costs rise?",
-        "refId": "ac399db21e25",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Immigrant Earnings Assimilation, 1981\u20132021",
         "refId": "4993a03fe907",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "What makes people happy?",
         "refId": "8dff997ad8a9",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Roundup #86: Unintended consequences",
+        "refId": "294f8f37765f",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Office Deals Led CMBS Growth Through July 2026, & Data Centers Arrived",
-        "refId": "2837496cf97a",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "How much will cybersecurity costs rise?",
-        "refId": "ac399db21e25",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
-        "refId": "4c218c27b0fa",
+        "text": "Why Jensen Huang\u2019s $500 billion AI financing plan faces a big risk from China",
+        "refId": "0ae6bd41538f",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves after hours: Super Micro Computer, CoreWeave, H&R Block and more",
+        "refId": "9d408e360f5f",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Schwab is nixing FDIC backing on Schwab One sweep cash to 'Investor Checking' as soon as Sept. 8 by moving it all under SIPC -- with clear drawbacks for investors, say analysts",
+        "refId": "ba34b2ff00a8",
+        "source": "RIABiz"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7791.69,
+      "v": 7796.75,
       "base": 7728.2,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26791.977,
+      "v": 26808.518,
       "base": 26445.45,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53748.52,
+      "v": 53811.76,
       "base": 53791.85,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.645,
+      "v": 4.641,
       "base": 4.682,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.73,
+      "v": 14.68,
       "base": 14.55,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 193.0717,
+      "v": 192.9421,
       "base": 191.16,
       "bp": false
     }
