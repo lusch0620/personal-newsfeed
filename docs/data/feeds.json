@@ -1,39 +1,5 @@
 [
   {
-    "id": "0ae6bd41538f",
-    "title": "Why Jensen Huang\u2019s $500 billion AI financing plan faces a big risk from China",
-    "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-08-11T21:01:13+00:00",
-    "summary_raw": "Nvidia CEO Jensen Huang is pitching GPUs as long-term collateral to unlock $500 billion in funding. The question is how fast will his chips depreciate?",
-    "summary_ai": {
-      "digest": "Why Jensen Huang\u2019s $500 billion AI financing plan faces a big risk from China",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "9d408e360f5f",
-    "title": "Stocks making the biggest moves after hours: Super Micro Computer, CoreWeave, H&R Block and more",
-    "url": "https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-after-hours-smci-crwv-hrb.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-08-11T21:18:44+00:00",
-    "summary_raw": "These are the stocks posting the largest moves in extended trading.",
-    "summary_ai": {
-      "digest": "Stocks making the biggest moves after hours: Super Micro Computer, CoreWeave, H&R Block and more",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "ba34b2ff00a8",
     "title": "Schwab is nixing FDIC backing on Schwab One sweep cash to 'Investor Checking' as soon as Sept. 8 by moving it all under SIPC -- with clear drawbacks for investors, say analysts",
     "url": "https://riabiz.com/a/2026/8/8/schwab-is-nixing-fdic-backing-on-schwab-one-sweep-cash-to-investor-checking-as-soon-as-sept-8-by-moving-it-all-under-sipc-with-clear-drawbacks-for-investors-say-analysts",
@@ -451,23 +417,6 @@
     "summary_raw": "Internal asset class evaluations and specific goal assessments are key when looking at performance, John Renkema, who spent more than two decades at the Dutch pension giant, tells PEI.",
     "summary_ai": {
       "digest": "Ex-APG PE veteran on how pensions can better assess performance",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "22b2d918337d",
-    "title": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
-    "url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-08-12T14:14:10+00:00",
-    "summary_raw": "The exchange is partnering with Silicon Data to introduce two compute futures contracts on Oct. 5, pending regulatory review.",
-    "summary_ai": {
-      "digest": "AI computing power is becoming a tradable asset class as CME launches futures contracts",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -995,74 +944,6 @@
     "summary_raw": "Schwab RIA custody exec Elyn Davis lands at Raymond James where she'll lead 'client experience' as hybrid-RIA battle heats up among major IBDs.",
     "summary_ai": {
       "digest": "Raymond James poaches top Schwab RIA custody exec, as LPL, Cetera put pressure on IBDs to get RIA-hybrid competitive",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "d5e67798a0a6",
-    "title": "Rio Tinto gets $1.8bn bailout for Australia\u2019s biggest aluminium smelter",
-    "url": "https://www.ft.com/content/92f69c81-f15f-409f-877d-0cc61f4ef697?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-08-13T03:15:34+00:00",
-    "summary_raw": "Taxpayer funding follows similar deals by Anthony Albanese\u2019s government to save vulnerable industrial operations",
-    "summary_ai": {
-      "digest": "Rio Tinto gets $1.8bn bailout for Australia\u2019s biggest aluminium smelter",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "f3f6e40b498f",
-    "title": "Zambia\u2019s election becomes battle over copper windfall",
-    "url": "https://www.ft.com/content/69e53395-303f-4652-aae1-3469a164b946?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-08-13T04:00:04+00:00",
-    "summary_raw": "Polls on Thursday will test whether African nation\u2019s voters believe they have benefited from mining boom",
-    "summary_ai": {
-      "digest": "Zambia\u2019s election becomes battle over copper windfall",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "b00ea250e4ce",
-    "title": "US race to compete with China on lithium runs into water battles",
-    "url": "https://www.ft.com/content/7b3ca0ab-4253-4447-84da-5af93f6d296d?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-08-13T04:00:04+00:00",
-    "summary_raw": "Trump-backed plans to build production of critical element undercut by community resistance",
-    "summary_ai": {
-      "digest": "US race to compete with China on lithium runs into water battles",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "f8c93919c372",
-    "title": "How Aston Martin showed bondholders the hard shoulder",
-    "url": "https://www.ft.com/content/e07b9e5e-2970-438b-8997-986f00346f45?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-08-13T04:00:13+00:00",
-    "summary_raw": "The low price of the company\u2019s bonds suggests even senior creditors are gloomy about their prospects",
-    "summary_ai": {
-      "digest": "How Aston Martin showed bondholders the hard shoulder",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -1853,23 +1734,6 @@
     }
   },
   {
-    "id": "031a84b2715a",
-    "title": "Netdania adds Fenics FX options data",
-    "url": "https://www.finextra.com/pressarticle/110642/netdania-adds-fenics-fx-options-data?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-08-13T13:19:00+00:00",
-    "summary_raw": "Netdania, part of United Fintech, has added institutional FX Options data from Fenics Market Data & Analytics to its APIs, giving the financial institutions it serves direct access to trusted pricing and volatility data across more than 400 currency pairs.",
-    "summary_ai": {
-      "digest": "Netdania adds Fenics FX options data",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "d12458c9597c",
     "title": "Hawaii Faces More Tropical Threats From El Ni\u00f1o-Charged Pacific",
     "url": "https://www.insurancejournal.com/news/west/2026/08/13/881374.htm",
@@ -2108,23 +1972,6 @@
     }
   },
   {
-    "id": "8670517b7a94",
-    "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-    "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-08-13T14:30:00+00:00",
-    "summary_raw": "\u201cSome readers \u2014 and couples \u2014 would be grateful to retire on half that amount.\u201d",
-    "summary_ai": {
-      "digest": "Is $1 million enough for a household to retire? The answer keeps changing.",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "c24bd99fdd47",
     "title": "People Moves: $34B Fiduciary Trust Hires Former Wilmington Trust CEO",
     "url": "https://www.wealthmanagement.com/career-moves/people-moves-farther-taps-former-kestra-coo-barragan-as-executive-in-residence",
@@ -2134,23 +1981,6 @@
     "summary_raw": "Also, Farther and Dynasty add executives-in-residence, Arden Trust hires a president and Catalyst adds to its RIA distribution team.",
     "summary_ai": {
       "digest": "People Moves: $34B Fiduciary Trust Hires Former Wilmington Trust CEO",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "7111674cf979",
-    "title": "These workers have charisma, confidence \u2014 and no fear of AI taking their jobs. They\u2019re the personality hires.",
-    "url": "https://www.marketwatch.com/story/these-workers-have-charisma-confidence-and-no-fear-of-ai-taking-their-jobs-theyre-the-personality-hires-3235c187?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-08-13T14:49:00+00:00",
-    "summary_raw": "Employers are looking for \u201ccoachability, curiosity, reliability and comfort asking for clarification.\u201d",
-    "summary_ai": {
-      "digest": "These workers have charisma, confidence \u2014 and no fear of AI taking their jobs. They\u2019re the personality hires.",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2202,40 +2032,6 @@
     "summary_raw": "<p>New property-level data reveals how fire spreads between homes, offering insurers and homeowners a critical opportunity to identify extra steps that can be taken to reduce risk and enhance resilience, according to a recent Cotality report. Cotality&#8217;s 2026 Wildfire Risk Report found that over 2.5 million properties across the 10 most exposed states in the [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/new-data-creates-opportunity-for-insurers-to-protect-properties-more-e",
     "summary_ai": {
       "digest": "New data creates opportunity for insurers to protect properties more effectively against wildfires: Cotality",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "6b0d4c513d09",
-    "title": "Your prescription drugs shouldn\u2019t cost more than your mortgage. Inside the broken math that got us here.",
-    "url": "https://www.marketwatch.com/story/your-prescription-drugs-shouldnt-cost-more-than-your-mortgage-inside-the-broken-math-that-got-us-here-b5a2c4aa?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-08-13T15:01:00+00:00",
-    "summary_raw": "We will never make medicine affordable if how to tie a drug\u2019s price to its value is solely determined by the companies creating the drugs.",
-    "summary_ai": {
-      "digest": "Your prescription drugs shouldn\u2019t cost more than your mortgage. Inside the broken math that got us here.",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "b3ba67dce204",
-    "title": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
-    "url": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-08-13T15:08:00+00:00",
-    "summary_raw": "The cost of plane tickets has soared over the past year, but consumer demand has yet to slow down during this summer travel season.",
-    "summary_ai": {
-      "digest": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2355,23 +2151,6 @@
     "summary_raw": "Robinhood cut the time from fund inception to launch from less than a year to six months, with plans to continue accelerating the pace.",
     "summary_ai": {
       "digest": "Robinhood Plans to Speed Up Debuts for Publicly Traded Funds",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "4f9fba024456",
-    "title": "These nontech stocks can ride the AI build-out for years",
-    "url": "https://www.marketwatch.com/story/these-nontech-stocks-can-ride-the-ai-build-out-for-years-67e2e39b?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-08-13T15:48:00+00:00",
-    "summary_raw": "Massive spending on data centers and AI infrastructure can benefit \u201cHALO\u201d companies: hard assets, low obsolescence.",
-    "summary_ai": {
-      "digest": "These nontech stocks can ride the AI build-out for years",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2618,40 +2397,6 @@
     }
   },
   {
-    "id": "4f44e36484d8",
-    "title": "Sandisk\u2019s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-    "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-08-13T16:58:00+00:00",
-    "summary_raw": "The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.",
-    "summary_ai": {
-      "digest": "Sandisk\u2019s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "c7ab35a2cb6c",
-    "title": "Why September is the worst month of the year for the stock market",
-    "url": "https://www.marketwatch.com/story/why-september-is-the-worst-month-of-the-year-for-the-stock-market-59285c78?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-08-13T17:06:00+00:00",
-    "summary_raw": "The introduction of pumpkin-spice lattes to menus means the end of summer is approaching, along with positive vibes",
-    "summary_ai": {
-      "digest": "Why September is the worst month of the year for the stock market",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "9467d136de0b",
     "title": "Nearly 14,000 crypto holders face security risk after data breach",
     "url": "https://www.ft.com/content/a91356ef-67bd-4bd9-947b-b272423f1318?syn-25a6b1a6=1",
@@ -2771,15 +2516,15 @@
     }
   },
   {
-    "id": "79a576926266",
-    "title": "The 10 housing markets where the most sellers have listed their homes for less than what they paid",
-    "url": "https://www.marketwatch.com/story/the-10-housing-markets-where-the-most-sellers-have-listed-their-homes-for-less-than-what-they-paid-acd4c8da?mod=mw_rss_topstories",
-    "source": "MarketWatch",
+    "id": "63c4c14101ec",
+    "title": "EY vaults from bottom to top of Big Four US audit quality league table",
+    "url": "https://www.ft.com/content/2f713878-37c6-4224-9b60-0082bb79290f?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
     "section": "Markets & Macro",
-    "date": "2026-08-13T19:23:00+00:00",
-    "summary_raw": "In some Sun Belt areas, nearly 1 in 5 sellers are asking for less than what they paid.",
+    "date": "2026-08-13T19:26:16+00:00",
+    "summary_raw": "Inspectors cited fewer flaws in the work of the biggest firms in latest accounting board survey",
     "summary_ai": {
-      "digest": "The 10 housing markets where the most sellers have listed their homes for less than what they paid",
+      "digest": "EY vaults from bottom to top of Big Four US audit quality league table",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2822,6 +2567,142 @@
     }
   },
   {
+    "id": "b3ba67dce204",
+    "title": "Rich Americans are propping up the travel economy as airfares soar 25% from a year ago",
+    "url": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-08-13T19:51:00+00:00",
+    "summary_raw": "The cost of plane tickets has soared over the past year, but consumer demand has yet to slow down during this summer travel season.",
+    "summary_ai": {
+      "digest": "Rich Americans are propping up the travel economy as airfares soar 25% from a year ago",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "4f44e36484d8",
+    "title": "Sandisk\u2019s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+    "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-08-13T19:52:00+00:00",
+    "summary_raw": "The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.",
+    "summary_ai": {
+      "digest": "Sandisk\u2019s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "e59d65590841",
+    "title": "The average car loan is now $785 a month \u2014 and lasts for almost 6 years",
+    "url": "https://www.marketwatch.com/story/the-average-car-loan-is-now-785-a-month-and-lasts-for-almost-6-years-a950c80c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-08-13T19:54:00+00:00",
+    "summary_raw": "Americans borrowed a record $211 billion to pay for their cars last quarter.",
+    "summary_ai": {
+      "digest": "The average car loan is now $785 a month \u2014 and lasts for almost 6 years",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "ec77b72388da",
+    "title": "Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI",
+    "url": "https://www.globenewswire.com/news-release/2026/08/13/3344886/14450/en/micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai.html",
+    "source": "GlobeNewswire \u2014 Banking (press releases)",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-08-13T20:01:00+00:00",
+    "summary_raw": "<p align=\"left\">BOISE, Idaho, Aug.  13, 2026  (GLOBE NEWSWIRE) -- Micron Technology, Inc. (Nasdaq: MU) today launched the Micron Ventures Paradigm Fund, a $250 million investment vehicle built to partner with the companies shaping the future of AI. Micron Ventures\u2019 third and largest fund to date, the Paradigm Fund will invest across the full AI technology stack, from model architectures and compute infrastructure to enterprise applications and physical AI.</p>",
+    "summary_ai": {
+      "digest": "Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "e75ad62a42c3",
+    "title": "Applied Materials Announces Third Quarter 2026 Results",
+    "url": "https://www.globenewswire.com/news-release/2026/08/13/3344890/0/en/applied-materials-announces-third-quarter-2026-results.html",
+    "source": "GlobeNewswire \u2014 Banking (press releases)",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-08-13T20:01:00+00:00",
+    "summary_raw": "<p>SANTA CLARA, Calif., Aug.  13, 2026  (GLOBE NEWSWIRE) -- Applied Materials, Inc. (NASDAQ: AMAT) today reported results for its third quarter ended July 26, 2026.</p>",
+    "summary_ai": {
+      "digest": "Applied Materials Announces Third Quarter 2026 Results",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "d0e82fe7629a",
+    "title": "FBI seized phone of Guggenheim executive in probe of Mark Walter\u2019s business empire",
+    "url": "https://www.ft.com/content/c92400d8-15d8-44fb-a069-37c29141c5ae?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-08-13T20:04:52+00:00",
+    "summary_raw": "US scrutiny of billionaire\u2019s sprawling finance holdings reached beyond insurers into securities and asset management giant",
+    "summary_ai": {
+      "digest": "FBI seized phone of Guggenheim executive in probe of Mark Walter\u2019s business empire",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "951d2ad95902",
+    "title": "SpaceX set an IPO record. Now there\u2019s hope that Anthropic could shatter it.",
+    "url": "https://www.marketwatch.com/story/spacex-set-an-ipo-record-now-theres-hope-that-anthropic-could-shatter-it-ea44b12a?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-08-13T20:20:00+00:00",
+    "summary_raw": "A new report says that some Anthropic investors expect the company to seek a $2 trillion to $3 trillion valuation, above SpaceX\u2019s $1.7 trillion milestone.",
+    "summary_ai": {
+      "digest": "SpaceX set an IPO record. Now there\u2019s hope that Anthropic could shatter it.",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "b782e75ea2ac",
+    "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
+    "url": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
+    "source": "CNBC Finance",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-08-13T20:21:51+00:00",
+    "summary_raw": "Recent FactSet data show that the rise in earnings is not coming from sales growth alone.",
+    "summary_ai": {
+      "digest": "These charts show why stocks keep rallying. Profit margins are the highest on record",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
     "id": "c52c9a6f165f",
     "title": "Airwallex partners Affirm for US BNPL roll out",
     "url": "https://www.finextra.com/pressarticle/110644/airwallex-partners-affirm-for-us-bnpl-roll-out?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -2831,6 +2712,125 @@
     "summary_raw": "Airwallex, a leading global financial platform for modern businesses, and Affirm (NASDAQ: AFRM), the payment network that empowers consumers and helps merchants drive growth, today announced that merchants on Airwallex can now provide Affirm's flexible payment options at checkout to their eligible US customers.",
     "summary_ai": {
       "digest": "Airwallex partners Affirm for US BNPL roll out",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "36347363b9c8",
+    "title": "New Zealand\u2019s Sterling lands funding to run finance on autopilot",
+    "url": "https://www.finextra.com/pressarticle/110645/new-zealands-sterling-lands-funding-to-run-finance-on-autopilot?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-08-13T21:09:00+00:00",
+    "summary_raw": "Sterling, the New Zealand AI startup building an autopilot for finance teams, has raised $3.8 million (NZD) in a round led by trans-Tasman venture capital firm Blackbird.",
+    "summary_ai": {
+      "digest": "New Zealand\u2019s Sterling lands funding to run finance on autopilot",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "b34908356ddf",
+    "title": "More than half of Gen Z redirected money away from investing and toward sports betting over the past year",
+    "url": "https://www.marketwatch.com/story/more-than-half-of-gen-z-redirected-money-away-from-investing-and-toward-sports-betting-over-the-past-year-937a366c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-08-13T21:11:00+00:00",
+    "summary_raw": "The results of a recent survey from wealth-management platform Betterment are making America\u2019s financial advisers cringe.",
+    "summary_ai": {
+      "digest": "More than half of Gen Z redirected money away from investing and toward sports betting over the past year",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "99d9b06cae3e",
+    "title": "\u2018I didn\u2019t know what else to do:\u2019 Patients take their health-insurance battles to Facebook and LinkedIn",
+    "url": "https://www.marketwatch.com/story/i-didnt-know-what-else-to-do-patients-take-their-health-insurance-battles-to-facebook-and-linkedin-500bda58?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-08-13T21:14:00+00:00",
+    "summary_raw": "Pushed to their limits, patients are turning to social media to plead for help getting their medical care covered.",
+    "summary_ai": {
+      "digest": "\u2018I didn\u2019t know what else to do:\u2019 Patients take their health-insurance battles to Facebook and LinkedIn",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "3665739ba96e",
+    "title": "The Dangerous Risk Building In Stocks",
+    "url": "https://www.capitalflowsresearch.com/p/the-dangerous-risk-building-in-stocks",
+    "source": "Capital Flows Research",
+    "section": "Markets & Macro",
+    "date": "2026-08-13T21:17:46+00:00",
+    "summary_raw": "LIVESTREAM/PROPIETARY REPORT",
+    "summary_ai": {
+      "digest": "The Dangerous Risk Building In Stocks",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "128d2d850bfa",
+    "title": "US sells 30-year bonds at highest borrowing costs since 2001",
+    "url": "https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-08-13T21:21:32+00:00",
+    "summary_raw": "Yields have jumped amid concerns over mounting public debt and persistently high inflation",
+    "summary_ai": {
+      "digest": "US sells 30-year bonds at highest borrowing costs since 2001",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "1ba5c89d653b",
+    "title": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
+    "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-08-13T21:30:00+00:00",
+    "summary_raw": "\u201cI would like to offer a piece of advice for women who are or have been married.\u201d",
+    "summary_ai": {
+      "digest": "Can I claim 50% of my husband\u2019s Social Security now \u2014 and switch to my higher benefit at 70?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "0c214b57fd74",
+    "title": "Workday\u2019s stock sees a record surge. Could a buyout spark a software revival?",
+    "url": "https://www.marketwatch.com/story/workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-f2bd9219?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-08-13T21:34:00+00:00",
+    "summary_raw": "Shares of the HR software company rose 18% on Thursday on reports of a potential private-equity acquisition.",
+    "summary_ai": {
+      "digest": "Workday\u2019s stock sees a record surge. Could a buyout spark a software revival?",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2899,6 +2899,23 @@
     "summary_raw": "Hollyport Capital has chosen to remain independent, accepting the backing of Blue Owl in a move that reflects how the industry's growth is likely to be fuelled.",
     "summary_ai": {
       "digest": "New and old faces",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 3
+    }
+  },
+  {
+    "id": "7e07c0eb20b3",
+    "title": "Hot Stoxx summer",
+    "url": "https://www.ft.com/content/c76aac48-affb-43c6-924f-bcf532117e0f?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-08-13T20:00:00+00:00",
+    "summary_raw": "European equities finally match US exuberance",
+    "summary_ai": {
+      "digest": "Hot Stoxx summer",
       "summary_long": "",
       "talking_points": [],
       "topics": [],

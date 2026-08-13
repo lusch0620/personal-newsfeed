@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Why Jensen Huang\u2019s $500 billion AI financing plan faces a big risk from China",
-        "refId": "0ae6bd41538f",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Stocks making the biggest moves after hours: Super Micro Computer, CoreWeave, H&R Block and more",
-        "refId": "9d408e360f5f",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Ambarella Announces Second Quarter Fiscal Year 2027 Earnings Conference Call to be Held September 3, 2026",
         "refId": "583bd87d92e0",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Tower Semiconductor to Participate in August and September Investor Conferences",
+        "refId": "f13d350e099d",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "New York City Council announces probe into prediction market platforms\u2019 marketing strategies",
+        "refId": "a76c3824cf07",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Why Jensen Huang\u2019s $500 billion AI financing plan faces a big risk from China",
-        "refId": "0ae6bd41538f",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Stocks making the biggest moves after hours: Super Micro Computer, CoreWeave, H&R Block and more",
-        "refId": "9d408e360f5f",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Schwab is nixing FDIC backing on Schwab One sweep cash to 'Investor Checking' as soon as Sept. 8 by moving it all under SIPC -- with clear drawbacks for investors, say analysts",
         "refId": "ba34b2ff00a8",
         "source": "RIABiz"
+      },
+      {
+        "text": "Inflation Risk In The Global Economy",
+        "refId": "8566e491551a",
+        "source": "Capital Flows Research"
+      },
+      {
+        "text": "Ambarella Announces Second Quarter Fiscal Year 2027 Earnings Conference Call to be Held September 3, 2026",
+        "refId": "583bd87d92e0",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7796.75,
+      "v": 7798.99,
       "base": 7728.2,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26808.518,
+      "v": 26803.025,
       "base": 26445.45,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53811.76,
+      "v": 53839.99,
       "base": 53791.85,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 14.68,
+      "v": 14.63,
       "base": 14.55,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 192.9421,
+      "v": 193.0133,
       "base": 191.16,
       "bp": false
     }
