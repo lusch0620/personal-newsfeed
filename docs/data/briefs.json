@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
-        "refId": "7c62839cb861",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "FormFactor Announces Participation at Upcoming Conferences",
         "refId": "9942891a0f7c",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -16,6 +11,11 @@
         "text": "Stocks making the biggest moves after hours: Cisco, Jack in the Box, Cerebras, StubHub & more",
         "refId": "2128a0c38095",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "EVs dominate China\u2019s car market: 5 takeaways from the country's latest auto sales data",
+        "refId": "9bcbf19336dd",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Parents Could Shield Up to $2,500 From Taxes With Trump Accounts",
-        "refId": "cf1ccb1956ab",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Stop Measuring What You Won\u2019t Change",
-        "refId": "291bc15930d1",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Public Alternative Asset Managers See Wealth AUM Rise",
         "refId": "a51a7803dd1f",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Raymond James poaches top Schwab RIA custody exec, as LPL, Cetera put pressure on IBDs to get RIA-hybrid competitive",
+        "refId": "3ef03cbf6e69",
+        "source": "RIABiz"
+      },
+      {
+        "text": "Apex Launches Prediction Markets Platform Powered by Kalshi",
+        "refId": "8fdd63ccd4a4",
         "source": "Wealth Management"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Mistakes in financial economics",
-        "refId": "15e8708ca8c0",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "My very interesting Conversation with Daron Acemoglu",
         "refId": "b69827c737a2",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Thursday assorted links",
         "refId": "9ef70b0f256e",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Saplings: Unstable Ground",
+        "refId": "4d032bdd58c1",
+        "source": "The Generalist (Mario Gabriele)"
       }
     ]
   },
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Parents Could Shield Up to $2,500 From Taxes With Trump Accounts",
-        "refId": "cf1ccb1956ab",
+        "text": "Public Alternative Asset Managers See Wealth AUM Rise",
+        "refId": "a51a7803dd1f",
         "source": "Wealth Management"
       },
       {
-        "text": "Stop Measuring What You Won\u2019t Change",
-        "refId": "291bc15930d1",
-        "source": "Wealth Management"
+        "text": "FormFactor Announces Participation at Upcoming Conferences",
+        "refId": "9942891a0f7c",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Mistakes in financial economics",
-        "refId": "15e8708ca8c0",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Stocks making the biggest moves after hours: Cisco, Jack in the Box, Cerebras, StubHub & more",
+        "refId": "2128a0c38095",
+        "source": "CNBC Finance"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7777.43,
+      "v": 7783.42,
       "base": 7748.5,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26680.385,
+      "v": 26708.182,
       "base": 26588.49,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53701.89,
+      "v": 53759.03,
       "base": 53770.27,
       "bp": false
     },
@@ -216,7 +216,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 193.2913,
+      "v": 193.9357,
       "base": 193.21,
       "bp": false
     }
