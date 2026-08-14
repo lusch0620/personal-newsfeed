@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Regions Bank names next chief administrative officer",
-        "refId": "3cf859989231",
-        "source": "Banking Dive"
-      },
-      {
         "text": "Goldman Sachs to buy ETF provider NEOS for up to $2.25B",
         "refId": "febf0904e5c0",
         "source": "Banking Dive"
@@ -16,6 +11,11 @@
         "text": "Bank of America pledges $250B toward US infrastructure update",
         "refId": "07db22a44184",
         "source": "Banking Dive"
+      },
+      {
+        "text": "Stocks making the biggest moves midday: Wendy's, H&R Block, Quantinuum, CoreWeave, Cava & more",
+        "refId": "211a0e33f247",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Lindberg\u2019s Right-Hand Man Sentenced to Two Years After Cooperating With Prosecutors",
-        "refId": "4bdc564b1196",
+        "text": "Almost All Top US Companies Had Board Diversity Rules. Now Most Are Gone",
+        "refId": "14d86ab14786",
         "source": "Insurance Journal"
       },
       {
-        "text": "Aon\u2019s NFP Buys Cannabis Business From Frontier Risk",
-        "refId": "587dac013241",
+        "text": "US Climate Prediction Center Sees 69% Chance of Historic El Ni\u00f1o",
+        "refId": "cd6493539648",
         "source": "Insurance Journal"
       },
       {
-        "text": "Cargo Thefts Drop in Q2 but Losses More Than Double",
-        "refId": "63c89e2f8c48",
+        "text": "Tornado Alley\u2019s on the Move and Creating New Risk Concerns, Modeler Says",
+        "refId": "1e70bb413099",
         "source": "Insurance Journal"
       }
     ]
@@ -83,30 +83,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ex-APG PE veteran on how pensions can better assess performance",
-        "refId": "82b986df4088",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "LA Fire and Police Pension reaffirms conviction in lower mid-market, emerging managers",
-        "refId": "ba1112b28be2",
-        "source": "Private Equity International"
-      },
-      {
         "text": "Continuim Equity closes Fund III in just 32 days",
         "refId": "6c37f48a3077",
         "source": "Buyouts Insider"
+      },
+      {
+        "text": "SEC zeroes in on private funds valuations",
+        "refId": "990fff75338b",
+        "source": "Secondaries Investor"
+      },
+      {
+        "text": "Korea\u2019s NPS posts 12% rise in PE AUM as growth slows",
+        "refId": "4971b8cf1aa6",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "OPEC+ Data Deck (August 2026)",
-        "refId": "9b753a821ee3",
-        "source": "Commodity Context"
-      },
       {
         "text": "The Hidden Mechanics Behind Interest Rates",
         "refId": "00a7c507ed19",
@@ -115,6 +110,11 @@
       {
         "text": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
         "refId": "b86081f29ff2",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Will Paramount\u2019s Brinkmanship Work?",
+        "refId": "b41db147634e",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ex-APG PE veteran on how pensions can better assess performance",
-        "refId": "82b986df4088",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "LA Fire and Police Pension reaffirms conviction in lower mid-market, emerging managers",
-        "refId": "ba1112b28be2",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Regions Bank names next chief administrative officer",
-        "refId": "3cf859989231",
+        "text": "Goldman Sachs to buy ETF provider NEOS for up to $2.25B",
+        "refId": "febf0904e5c0",
         "source": "Banking Dive"
+      },
+      {
+        "text": "Wednesday assorted links",
+        "refId": "799b9f59fc42",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Grady-White Boats Owner Gifts $400M Enterprise to Purpose Trust in Lieu of Sale",
+        "refId": "c08e9670d75a",
+        "source": "Wealth Management"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7808.49,
+      "v": 7780.41,
       "base": 7748.5,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26826.26,
+      "v": 26664.873,
       "base": 26588.49,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53826.8,
+      "v": 53718.49,
       "base": 53770.27,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.659,
+      "v": 4.684,
       "base": 4.641,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.57,
+      "v": 14.56,
       "base": 14.63,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 193.8857,
+      "v": 193.6427,
       "base": 193.21,
       "bp": false
     }
