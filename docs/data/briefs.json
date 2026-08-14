@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Goldman Sachs to buy ETF provider NEOS for up to $2.25B",
-        "refId": "febf0904e5c0",
-        "source": "Banking Dive"
+        "text": "SpaceX short sellers are running out of bullets as stock rebounds more than 40% off low",
+        "refId": "7c62839cb861",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Bank of America pledges $250B toward US infrastructure update",
-        "refId": "07db22a44184",
-        "source": "Banking Dive"
+        "text": "FormFactor Announces Participation at Upcoming Conferences",
+        "refId": "9942891a0f7c",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Stocks making the biggest moves midday: Wendy's, H&R Block, Quantinuum, CoreWeave, Cava & more",
-        "refId": "211a0e33f247",
+        "text": "Stocks making the biggest moves after hours: Cisco, Jack in the Box, Cerebras, StubHub & more",
+        "refId": "2128a0c38095",
         "source": "CNBC Finance"
       }
     ]
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Grady-White Boats Owner Gifts $400M Enterprise to Purpose Trust in Lieu of Sale",
-        "refId": "c08e9670d75a",
+        "text": "Parents Could Shield Up to $2,500 From Taxes With Trump Accounts",
+        "refId": "cf1ccb1956ab",
         "source": "Wealth Management"
       },
       {
-        "text": "Private Markets Roundup: Alto Launches Private Deal Room; CAZ Teams with SoFi",
-        "refId": "7146b2631f4c",
+        "text": "Stop Measuring What You Won\u2019t Change",
+        "refId": "291bc15930d1",
         "source": "Wealth Management"
       },
       {
-        "text": "Sports Betting Is Gaining Ground in Gen Z's Long-Term Wealth Plans",
-        "refId": "393841e949b0",
+        "text": "Public Alternative Asset Managers See Wealth AUM Rise",
+        "refId": "a51a7803dd1f",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Almost All Top US Companies Had Board Diversity Rules. Now Most Are Gone",
-        "refId": "14d86ab14786",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "US Climate Prediction Center Sees 69% Chance of Historic El Ni\u00f1o",
-        "refId": "cd6493539648",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Tornado Alley\u2019s on the Move and Creating New Risk Concerns, Modeler Says",
         "refId": "1e70bb413099",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "How Small Agencies Can Win in Commercial Lines Quoting",
+        "refId": "32fa0f5d8ada",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "France Evacuates 525 People as New Wildfire Hits Pine Woods in Southwest",
+        "refId": "28e5f5a2f9fe",
         "source": "Insurance Journal"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Investors Priced Four Data Center CMBS Deals 55 Basis Points Apart",
-        "refId": "27e604f26af0",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "S&P Global data integrated into Microsoft 365 Copilot",
         "refId": "c96ef84b8663",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "Klarna boosts membership perks and removes service fees",
         "refId": "78fcd2fa41a9",
+        "source": "Finextra"
+      },
+      {
+        "text": "CFTC orders Kalshi to keep operating in response to New York lawsuit",
+        "refId": "27e1e451f948",
         "source": "Finextra"
       }
     ]
@@ -147,18 +147,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Wednesday assorted links",
-        "refId": "799b9f59fc42",
+        "text": "Mistakes in financial economics",
+        "refId": "15e8708ca8c0",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "While Everyone is Waiting for the Next Model, Your Agent Can Learn Tonight",
-        "refId": "ce4e621e6443",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "My very interesting Conversation with Daron Acemoglu",
+        "refId": "b69827c737a2",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Mistakes in financial economics",
-        "refId": "15e8708ca8c0",
+        "text": "Thursday assorted links",
+        "refId": "9ef70b0f256e",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Goldman Sachs to buy ETF provider NEOS for up to $2.25B",
-        "refId": "febf0904e5c0",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Wednesday assorted links",
-        "refId": "799b9f59fc42",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Grady-White Boats Owner Gifts $400M Enterprise to Purpose Trust in Lieu of Sale",
-        "refId": "c08e9670d75a",
+        "text": "Parents Could Shield Up to $2,500 From Taxes With Trump Accounts",
+        "refId": "cf1ccb1956ab",
         "source": "Wealth Management"
+      },
+      {
+        "text": "Stop Measuring What You Won\u2019t Change",
+        "refId": "291bc15930d1",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Mistakes in financial economics",
+        "refId": "15e8708ca8c0",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7780.41,
+      "v": 7777.43,
       "base": 7748.5,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26664.873,
+      "v": 26680.385,
       "base": 26588.49,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53718.49,
+      "v": 53701.89,
       "base": 53770.27,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.684,
+      "v": 4.696,
       "base": 4.641,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.56,
+      "v": 14.33,
       "base": 14.63,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 193.6427,
+      "v": 193.2913,
       "base": 193.21,
       "bp": false
     }
