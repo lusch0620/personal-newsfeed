@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Continuim Equity closes Fund III in just 32 days",
-        "refId": "6c37f48a3077",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "SEC zeroes in on private funds valuations",
         "refId": "990fff75338b",
         "source": "Secondaries Investor"
@@ -96,17 +91,17 @@
         "text": "Korea\u2019s NPS posts 12% rise in PE AUM as growth slows",
         "refId": "4971b8cf1aa6",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Side Letter: Variations on a theme",
+        "refId": "f7604da54c9c",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Hidden Mechanics Behind Interest Rates",
-        "refId": "00a7c507ed19",
-        "source": "Capital Flows Research"
-      },
       {
         "text": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
         "refId": "b86081f29ff2",
@@ -115,6 +110,11 @@
       {
         "text": "Will Paramount\u2019s Brinkmanship Work?",
         "refId": "b41db147634e",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Inside the $12.5 Billion Deal for the Lakers",
+        "refId": "7f4b3fecc182",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Continuim Equity closes Fund III in just 32 days",
-        "refId": "6c37f48a3077",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "The Hidden Mechanics Behind Interest Rates",
-        "refId": "00a7c507ed19",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "S&P Global data integrated into Microsoft 365 Copilot",
         "refId": "c96ef84b8663",
         "source": "Finextra"
+      },
+      {
+        "text": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
+        "refId": "7c598fab4114",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
+        "refId": "b86081f29ff2",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
