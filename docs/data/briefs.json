@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ambarella Announces Second Quarter Fiscal Year 2027 Earnings Conference Call to be Held September 3, 2026",
-        "refId": "583bd87d92e0",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
         "text": "Tower Semiconductor to Participate in August and September Investor Conferences",
         "refId": "f13d350e099d",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -15,6 +10,11 @@
       {
         "text": "New York City Council announces probe into prediction market platforms\u2019 marketing strategies",
         "refId": "a76c3824cf07",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: CoreWeave, Super Micro Computer, Nebius, Cava & more",
+        "refId": "33d9a0ab69c9",
         "source": "CNBC Finance"
       }
     ]
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Inflation Risk In The Global Economy",
-        "refId": "8566e491551a",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "OPEC+ Data Deck (August 2026)",
         "refId": "9b753a821ee3",
         "source": "Commodity Context"
@@ -116,6 +111,11 @@
         "text": "The Hidden Mechanics Behind Interest Rates",
         "refId": "00a7c507ed19",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
+        "refId": "b86081f29ff2",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -167,18 +167,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Inflation Risk In The Global Economy",
-        "refId": "8566e491551a",
-        "source": "Capital Flows Research"
-      },
-      {
-        "text": "Ambarella Announces Second Quarter Fiscal Year 2027 Earnings Conference Call to be Held September 3, 2026",
-        "refId": "583bd87d92e0",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
         "text": "Premium Sneaker Brand On\u2019s Stock Tumbles Amid Push to Keep \u2018Full Price\u2019 Power",
         "refId": "43a0bfb86460",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Apollo Places $2.6 Billion Bet on New York Yankees",
+        "refId": "af15b6632ab8",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Nvidia Underscores Support for Open-Source AI, a Boon for Hardware Spending",
+        "refId": "6ec2ce4cde96",
         "source": "The Daily Upside"
       }
     ]
@@ -198,7 +198,7 @@
     },
     {
       "nm": "Dow",
-      "v": 53839.99,
+      "v": 53840.0,
       "base": 53791.85,
       "bp": false
     },
