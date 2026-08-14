@@ -3,30 +3,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "FormFactor Announces Participation at Upcoming Conferences",
-        "refId": "9942891a0f7c",
+        "text": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
+        "refId": "7c598fab4114",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "POET Technologies Reports Second Quarter 2026 Results: Revenue Up 112% Year-Over-Year in Sixth Consecutive Quarter of Sequential Growth",
+        "refId": "382dfb407580",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Stocks making the biggest moves after hours: Cisco, Jack in the Box, Cerebras, StubHub & more",
-        "refId": "2128a0c38095",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "EVs dominate China\u2019s car market: 5 takeaways from the country's latest auto sales data",
-        "refId": "9bcbf19336dd",
-        "source": "CNBC Finance"
+        "text": "Smartkem Welcomes Appointment of Allen Palmiere as Executive Director and Chief Operating Officer of Ferrox",
+        "refId": "b48ff19640ed",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Public Alternative Asset Managers See Wealth AUM Rise",
-        "refId": "a51a7803dd1f",
-        "source": "Wealth Management"
-      },
       {
         "text": "Raymond James poaches top Schwab RIA custody exec, as LPL, Cetera put pressure on IBDs to get RIA-hybrid competitive",
         "refId": "3ef03cbf6e69",
@@ -35,6 +30,11 @@
       {
         "text": "Apex Launches Prediction Markets Platform Powered by Kalshi",
         "refId": "8fdd63ccd4a4",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "The Diamond Podcast for Financial Advisors: From Breakaway to Transaction in 3 Years",
+        "refId": "7cdad85ebe71",
         "source": "Wealth Management"
       }
     ]
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Public Alternative Asset Managers See Wealth AUM Rise",
-        "refId": "a51a7803dd1f",
-        "source": "Wealth Management"
+        "text": "Continuim Equity closes Fund III in just 32 days",
+        "refId": "6c37f48a3077",
+        "source": "Buyouts Insider"
       },
       {
-        "text": "FormFactor Announces Participation at Upcoming Conferences",
-        "refId": "9942891a0f7c",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "The Hidden Mechanics Behind Interest Rates",
+        "refId": "00a7c507ed19",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Stocks making the biggest moves after hours: Cisco, Jack in the Box, Cerebras, StubHub & more",
-        "refId": "2128a0c38095",
-        "source": "CNBC Finance"
+        "text": "S&P Global data integrated into Microsoft 365 Copilot",
+        "refId": "c96ef84b8663",
+        "source": "Finextra"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7783.42,
+      "v": 7785.76,
       "base": 7748.5,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26708.182,
+      "v": 26729.164,
       "base": 26588.49,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53759.03,
+      "v": 53732.41,
       "base": 53770.27,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 14.33,
+      "v": 14.25,
       "base": 14.63,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 193.9357,
+      "v": 193.9115,
       "base": 193.21,
       "bp": false
     }
