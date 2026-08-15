@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bill Ackman buys Netflix again four years after exit, says it has won the streaming wars",
-        "refId": "fd51c062a7a1",
+        "text": "Silicon Motion Technology Corporation Announces Closing of Upsized Offering of $1,150,000,000 of 0.00% Convertible Senior Notes due 2031",
+        "refId": "69320a47abdc",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
+        "refId": "c75bd38270c0",
         "source": "CNBC Finance"
       },
       {
-        "text": "Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI",
-        "refId": "ec77b72388da",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "Applied Materials Announces Third Quarter 2026 Results",
-        "refId": "e75ad62a42c3",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Stocks making the biggest moves premarket: Reddit, Applied Materials, Sandisk, Wayfair & more",
+        "refId": "286195a91b8f",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "New Zealand\u2019s Sterling lands funding to run finance on autopilot",
-        "refId": "36347363b9c8",
-        "source": "Finextra"
-      },
-      {
         "text": "MUFG trials blockchain settlement for Japanese Government Bond repo trades",
         "refId": "7abff587601e",
         "source": "Finextra"
@@ -76,17 +71,17 @@
         "text": "BofA to buy 49.9% stake in Indian digital lender Jio Credit",
         "refId": "129a14a12cc0",
         "source": "Finextra"
+      },
+      {
+        "text": "Cashflows makes strategic investment in Tap & Go, supporting growth",
+        "refId": "2fa3f3382298",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Bernhard-backed Optimum Energy picks up Hussung Mechanical Contractors and HMC Service Company,",
-        "refId": "9e2e5aadf089",
-        "source": "PE Hub"
-      },
       {
         "text": "AI infra demand drives deal momentum in engineering; Cube Infrastructure to sell Firstcolo to CVC DIF",
         "refId": "0b6a38602cbb",
@@ -96,17 +91,17 @@
         "text": "Providence Equity agrees to acquire property valuation data firm Hometrack",
         "refId": "960b48180c14",
         "source": "PE Hub"
+      },
+      {
+        "text": "PE targets opportunities in nutraceuticals: 7 deals",
+        "refId": "6dbdc43db0da",
+        "source": "PE Hub"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Dangerous Risk Building In Stocks",
-        "refId": "3665739ba96e",
-        "source": "Capital Flows Research"
-      },
       {
         "text": "Farage aide Cottrell had secret Polymarket account that placed bets on Trump victory",
         "refId": "d41fca24944d",
@@ -115,6 +110,11 @@
       {
         "text": "JPMorgan debanked Polymarket over regulatory concerns",
         "refId": "291c34fd24f9",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "The trillion-dollar IPO vibes continue",
+        "refId": "34e2659e661e",
         "source": "Financial Times Markets"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Google Senior AI Leader\u2019s Loop Engineering Masterclass: How to Build AI Systems That Improve Their Own Work",
-        "refId": "17cc54208469",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "Those old (new?) service sector jobs",
-        "refId": "1de3cf31bd2a",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "23 low-regret recommendations for AI policy",
         "refId": "c3747f47ff0d",
         "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Intergenerational mobility of immigrants in 15 destination countries",
+        "refId": "29f171c56b8c",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The Economics of a Shrinking World",
+        "refId": "99eda74acbe2",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bill Ackman buys Netflix again four years after exit, says it has won the streaming wars",
-        "refId": "fd51c062a7a1",
-        "source": "CNBC Finance"
+        "text": "Silicon Motion Technology Corporation Announces Closing of Upsized Offering of $1,150,000,000 of 0.00% Convertible Senior Notes due 2031",
+        "refId": "69320a47abdc",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Google Senior AI Leader\u2019s Loop Engineering Masterclass: How to Build AI Systems That Improve Their Own Work",
-        "refId": "17cc54208469",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "MUFG trials blockchain settlement for Japanese Government Bond repo trades",
+        "refId": "7abff587601e",
+        "source": "Finextra"
       },
       {
-        "text": "Those old (new?) service sector jobs",
-        "refId": "1de3cf31bd2a",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "BofA to buy 49.9% stake in Indian digital lender Jio Credit",
+        "refId": "129a14a12cc0",
+        "source": "Finextra"
       }
     ]
   },
