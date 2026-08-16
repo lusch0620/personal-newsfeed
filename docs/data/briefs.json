@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Silicon Motion Technology Corporation Announces Closing of Upsized Offering of $1,150,000,000 of 0.00% Convertible Senior Notes due 2031",
-        "refId": "69320a47abdc",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Custodia gets a hand from lawmakers, trade groups at high court",
+        "refId": "0c95ba2540dd",
+        "source": "Banking Dive"
       },
       {
-        "text": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
-        "refId": "c75bd38270c0",
-        "source": "CNBC Finance"
+        "text": "Bank of America won\u2019t let employees work remotely 2 days in a row",
+        "refId": "8226404d9710",
+        "source": "Banking Dive"
       },
       {
-        "text": "Stocks making the biggest moves premarket: Reddit, Applied Materials, Sandisk, Wayfair & more",
-        "refId": "286195a91b8f",
+        "text": "Regulators and banks step up scrutiny of prediction markets",
+        "refId": "7d8b48aad542",
         "source": "CNBC Finance"
       }
     ]
@@ -22,11 +22,6 @@
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The WealthStack Podcast: Building the Foundation for Enterprise AI with Dynasty\u2019s Leslie Norman",
-        "refId": "af2e59da15eb",
-        "source": "Wealth Management"
-      },
       {
         "text": "2026 Midyear Outlook",
         "refId": "751aedac939c",
@@ -36,6 +31,11 @@
         "text": "Mesirow Pushes Further Into Workplace Plans With flexPATH's 3(38) Business",
         "refId": "5130e89579a4",
         "source": "Wealth Management"
+      },
+      {
+        "text": "Deals &amp; Moves: Cetera Snags Commonwealth Duo Overseeing $420M",
+        "refId": "b983a1849ca3",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,58 +43,53 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Tornado Alley\u2019s on the Move and Creating New Risk Concerns, Modeler Says",
-        "refId": "1e70bb413099",
+        "text": "Two Slicks Appear in Gulf as Huge Oil Spill off Oman Threatens Disaster",
+        "refId": "e3621b8edb78",
         "source": "Insurance Journal"
       },
       {
-        "text": "How Small Agencies Can Win in Commercial Lines Quoting",
-        "refId": "32fa0f5d8ada",
-        "source": "Insurance Journal"
+        "text": "Gallagher Re reports multi-billion-dollar loss from early August US severe weather outbreak",
+        "refId": "0912f222f860",
+        "source": "Reinsurance News"
       },
       {
-        "text": "France Evacuates 525 People as New Wildfire Hits Pine Woods in Southwest",
-        "refId": "28e5f5a2f9fe",
-        "source": "Insurance Journal"
+        "text": "Hiscox announces current return estimates for Syndicates 33 and 6104",
+        "refId": "3c8ee023d39c",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "MUFG trials blockchain settlement for Japanese Government Bond repo trades",
-        "refId": "7abff587601e",
+        "text": "JPMorgan debanked Polymarket - FT",
+        "refId": "0a27fd3db95c",
         "source": "Finextra"
       },
       {
-        "text": "BofA to buy 49.9% stake in Indian digital lender Jio Credit",
-        "refId": "129a14a12cc0",
-        "source": "Finextra"
-      },
-      {
-        "text": "Cashflows makes strategic investment in Tap & Go, supporting growth",
-        "refId": "2fa3f3382298",
-        "source": "Finextra"
+        "text": "What\u2019s Behind the July Multifamily CMBS Delinquency Uptick?",
+        "refId": "7a0d2156f197",
+        "source": "Trepp Talk"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "AI infra demand drives deal momentum in engineering; Cube Infrastructure to sell Firstcolo to CVC DIF",
-        "refId": "0b6a38602cbb",
+        "text": "Butterfly, Graham, Wise Equity target nutraceuticals; Demand for antimicrobial testing drives Astorg\u2019s $1bn carve-out of Thermo Fishers\u2019 microbiology biz",
+        "refId": "d618c9047b96",
         "source": "PE Hub"
       },
       {
-        "text": "Providence Equity agrees to acquire property valuation data firm Hometrack",
-        "refId": "960b48180c14",
-        "source": "PE Hub"
+        "text": "Investor Intentions: Weymouth Retirement Board issues RFP for private equity co-investment managers",
+        "refId": "3d6ad12d4462",
+        "source": "Private Equity International"
       },
       {
-        "text": "PE targets opportunities in nutraceuticals: 7 deals",
-        "refId": "6dbdc43db0da",
+        "text": "Battery Ventures backs vet practices\u2019 AI operating system",
+        "refId": "77eb8a460c9e",
         "source": "PE Hub"
       }
     ]
@@ -103,38 +98,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Farage aide Cottrell had secret Polymarket account that placed bets on Trump victory",
-        "refId": "d41fca24944d",
+        "text": "Investors pile back into US stocks as bullishness returns to Wall Street",
+        "refId": "bdbe24c35e0d",
         "source": "Financial Times Markets"
       },
       {
-        "text": "JPMorgan debanked Polymarket over regulatory concerns",
-        "refId": "291c34fd24f9",
-        "source": "Financial Times Markets"
+        "text": "The stock market may already be adjusting to a future with slower earnings growth \ud83e\udd14",
+        "refId": "a2b71154f923",
+        "source": "TKer (Sam Ro)"
       },
       {
-        "text": "The trillion-dollar IPO vibes continue",
-        "refId": "34e2659e661e",
+        "text": "Bezos-backed group strikes deal for stake in Liverpool FC",
+        "refId": "a47f5104d63f",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "5 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ackman\u2019s Pershing Touts Value Investing Amid Bid to Stir Demand for Funds",
-        "refId": "2a61a13bf713",
+        "text": "Financing the AI Boom 3",
+        "refId": "a1095c17542f",
+        "source": "Net Interest (Marc Rubinstein)"
+      },
+      {
+        "text": "Malls Regain Rizz as Gen Z Embraces Style of Yesteryear\u2019s Teens",
+        "refId": "0cd84a75cfa2",
         "source": "The Daily Upside"
       },
       {
-        "text": "Growth at Fast Food Joints Like Wendy\u2019s Looks Soggy Next to Casual-Dining Chains",
-        "refId": "e632e1260c31",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Anthropic\u2019s $6 Billion Deal Talks With Decart Show Focus on Cost Efficiency",
-        "refId": "7a71d0841bfd",
+        "text": "Clients Are Craving Income. Here\u2019s How Advisors Are Delivering",
+        "refId": "9a6e5e519238",
         "source": "The Daily Upside"
       }
     ]
@@ -147,19 +142,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "23 low-regret recommendations for AI policy",
-        "refId": "c3747f47ff0d",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
-        "text": "Intergenerational mobility of immigrants in 15 destination countries",
-        "refId": "29f171c56b8c",
+        "text": "Adding to the barrel of finance fallacies",
+        "refId": "ec3cd83d62c2",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The Economics of a Shrinking World",
-        "refId": "99eda74acbe2",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "The Claude Prompts That Close Rounds in 2026",
+        "refId": "6668ef784145",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "2026.33: The CapEx Train Keeps Rolling",
+        "refId": "da9c0c835ed0",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -167,19 +162,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Silicon Motion Technology Corporation Announces Closing of Upsized Offering of $1,150,000,000 of 0.00% Convertible Senior Notes due 2031",
-        "refId": "69320a47abdc",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Butterfly, Graham, Wise Equity target nutraceuticals; Demand for antimicrobial testing drives Astorg\u2019s $1bn carve-out of Thermo Fishers\u2019 microbiology biz",
+        "refId": "d618c9047b96",
+        "source": "PE Hub"
       },
       {
-        "text": "MUFG trials blockchain settlement for Japanese Government Bond repo trades",
-        "refId": "7abff587601e",
-        "source": "Finextra"
+        "text": "2026 Midyear Outlook",
+        "refId": "751aedac939c",
+        "source": "Wealth Management"
       },
       {
-        "text": "BofA to buy 49.9% stake in Indian digital lender Jio Credit",
-        "refId": "129a14a12cc0",
-        "source": "Finextra"
+        "text": "Mesirow Pushes Further Into Workplace Plans With flexPATH's 3(38) Business",
+        "refId": "5130e89579a4",
+        "source": "Wealth Management"
       }
     ]
   },
