@@ -1,20 +1,10 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Regulators and banks step up scrutiny of prediction markets",
-        "refId": "7d8b48aad542",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Goldman\u2019s latest cash cow is all about funding the AI infrastructure boom",
-        "refId": "2b3f3ad3f60e",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
-        "refId": "2bcea7bd6263",
+        "text": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports",
+        "refId": "6a3f0ccbc1dc",
         "source": "CNBC Finance"
       }
     ]
@@ -39,14 +29,8 @@
     "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "What\u2019s Behind the July Multifamily CMBS Delinquency Uptick?",
-        "refId": "7a0d2156f197",
-        "source": "Trepp Talk"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -56,11 +40,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oil Context Weekly (W33)",
-        "refId": "9efbbbee8303",
-        "source": "Commodity Context"
-      },
-      {
         "text": "US\u00a0regulator grants banking licence to Trump family crypto venture",
         "refId": "03830b3d4236",
         "source": "Financial Times Markets"
@@ -68,6 +47,11 @@
       {
         "text": "OpenAI upheaval mounts as Sam Altman readies IPO push",
         "refId": "0e406fdc2445",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Traders are spoiling for a fight over the yen",
+        "refId": "1e59d066d76d",
         "source": "Financial Times Markets"
       }
     ]
@@ -95,11 +79,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Friday assorted links",
-        "refId": "77a4d462224f",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "That was then, this is now",
         "refId": "9cd252f54da6",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -108,6 +87,11 @@
         "text": "A Conservative Case for Liberal Immigration",
         "refId": "a8d4c350cd5c",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Reading List \u2014 08/15/2026",
+        "refId": "b64f16570eed",
+        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
@@ -115,19 +99,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What\u2019s Behind the July Multifamily CMBS Delinquency Uptick?",
-        "refId": "7a0d2156f197",
-        "source": "Trepp Talk"
+        "text": "US\u00a0regulator grants banking licence to Trump family crypto venture",
+        "refId": "03830b3d4236",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Friday assorted links",
-        "refId": "77a4d462224f",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "CAIS lands $170-million from Vista Equity at $2-billion valuation, double the last raise, but amount rekindles questions about whether private equity firms pay premium for 'alts platforms' with preferred-distribution payback in mind",
+        "refId": "0032172124ff",
+        "source": "RIABiz"
       },
       {
-        "text": "Regulators and banks step up scrutiny of prediction markets",
-        "refId": "7d8b48aad542",
-        "source": "CNBC Finance"
+        "text": "OpenAI upheaval mounts as Sam Altman readies IPO push",
+        "refId": "0e406fdc2445",
+        "source": "Financial Times Markets"
       }
     ]
   },
