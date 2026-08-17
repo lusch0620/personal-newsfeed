@@ -1,6 +1,6 @@
 # Research Notes
 *Personal annotations from the newsfeed. Injected into scoring context each pipeline run.*
-*Last updated: 2026-08-17 15:17 UTC*
+*Last updated: 2026-08-17 17:17 UTC*
 
 ---
 

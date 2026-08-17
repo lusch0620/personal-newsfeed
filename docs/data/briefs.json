@@ -8,8 +8,8 @@
         "source": "CNBC Finance"
       },
       {
-        "text": "Five things every bank should know about AI before making their next technology investment",
-        "refId": "fdce7973c0a3",
+        "text": "5 things every bank should know about AI before making their next technology investment",
+        "refId": "d92a995b5494",
         "source": "Banking Dive"
       },
       {
@@ -20,7 +20,7 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "3 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "FINNY AI Rolls Out 'Pay-as-You-Grow' Pricing Model",
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "US Ready to \u2018Take Any Actions Necessary\u2019 to Fight EU ESG Rules",
-        "refId": "08cc38bf17bd",
-        "source": "Insurance Journal"
+        "text": "PERILS decreases insured loss estimate for extratropical windstorm Nils to \u20ac695m",
+        "refId": "02dcff83b1f7",
+        "source": "Reinsurance News"
       },
       {
-        "text": "FTC Probes Health Records Giant Epic Systems, Sources Say",
-        "refId": "d77d0fe80ab1",
-        "source": "Insurance Journal"
+        "text": "Orbital Sentry secures new capital to bring continuous satellite monitoring for wildfire risk",
+        "refId": "e41a356b4009",
+        "source": "Reinsurance News"
       },
       {
-        "text": "UK Steps Up Scrutiny of Defense Supply Chain After China Scare",
-        "refId": "bf51fd110223",
+        "text": "SEC to Keep Hands Off Shareholder Proposals, Worrying Activists",
+        "refId": "6d415b253d36",
         "source": "Insurance Journal"
       }
     ]
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "When Will The Bond Market Stop Crashing?",
-        "refId": "c410fec4b5c8",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "World\u2019s largest carmakers seek to avert motor oil crisis",
         "refId": "5b94dffb6ef7",
         "source": "Financial Times Markets"
@@ -116,6 +111,11 @@
         "text": "Big Tech\u2019s data centre boom poised to drive up carbon emissions",
         "refId": "08ab46ca1ed5",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "24 quick thoughts on the markets and the economy \ud83d\udccb",
+        "refId": "a32570710037",
+        "source": "TKer (Sam Ro)"
       }
     ]
   },
@@ -147,10 +147,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Saturday assorted links",
-        "refId": "25f503c68138",
+        "text": "Sarah Guo Is Betting Nearly a Billion Dollars That the AI Labs Cannot Build Everything",
+        "refId": "02a4fd57264e",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Adolfo Bioy Casares delay",
+        "refId": "c1cd813d437e",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
+      {
+        "text": "Another rationale for sticky prices?",
+        "refId": "3a9372fe1971",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
       {
         "text": "Sarah Guo Is Betting Nearly a Billion Dollars That the AI Labs Cannot Build Everything",
         "refId": "02a4fd57264e",
@@ -160,63 +175,48 @@
         "text": "Adolfo Bioy Casares delay",
         "refId": "c1cd813d437e",
         "source": "Marginal Revolution (Tyler Cowen)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Saturday assorted links",
-        "refId": "25f503c68138",
-        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "When Will The Bond Market Stop Crashing?",
-        "refId": "c410fec4b5c8",
-        "source": "Capital Flows Research"
-      },
-      {
-        "text": "Sarah Guo Is Betting Nearly a Billion Dollars That the AI Labs Cannot Build Everything",
-        "refId": "02a4fd57264e",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "World\u2019s largest carmakers seek to avert motor oil crisis",
+        "refId": "5b94dffb6ef7",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7777.28,
+      "v": 7763.12,
       "base": 7798.99,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26779.379,
+      "v": 26673.025,
       "base": 26803.03,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53551.72,
+      "v": 53537.69,
       "base": 53839.99,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.702,
+      "v": 4.71,
       "base": 4.696,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.96,
+      "v": 15.21,
       "base": 14.25,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 194.4249,
+      "v": 194.7021,
       "base": 193.01,
       "bp": false
     }
