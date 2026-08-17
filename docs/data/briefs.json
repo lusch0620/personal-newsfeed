@@ -25,12 +25,39 @@
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Insurers Must Defend Hotels Accused of Sex Trafficking of Minors",
+        "refId": "05bba12eb209",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Mapfre to Acquire Safety Insurance for $1.54 Billion in Cash Deal",
+        "refId": "9eba6484bf19",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Musk\u2019s xAI Sues Minnesota Over Ban on Nudification Technology",
+        "refId": "244dcb8eb5bb",
+        "source": "Insurance Journal"
+      }
+    ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "2 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Western Union gets New York nod for Intermax acquisition; still face California hurdles",
+        "refId": "dce05e56c704",
+        "source": "Finextra"
+      },
+      {
+        "text": "Polygon joins BofE's Digital Pound Lab to test cross-border settlement",
+        "refId": "493fb908e40c",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -40,11 +67,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "US\u00a0regulator grants banking licence to Trump family crypto venture",
-        "refId": "03830b3d4236",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "OpenAI upheaval mounts as Sam Altman readies IPO push",
         "refId": "0e406fdc2445",
         "source": "Financial Times Markets"
@@ -52,6 +74,11 @@
       {
         "text": "Traders are spoiling for a fight over the yen",
         "refId": "1e59d066d76d",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "South Korea\u2019s inverse correlation",
+        "refId": "ec904368ced8",
         "source": "Financial Times Markets"
       }
     ]
@@ -99,11 +126,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "US\u00a0regulator grants banking licence to Trump family crypto venture",
-        "refId": "03830b3d4236",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "CAIS lands $170-million from Vista Equity at $2-billion valuation, double the last raise, but amount rekindles questions about whether private equity firms pay premium for 'alts platforms' with preferred-distribution payback in mind",
         "refId": "0032172124ff",
         "source": "RIABiz"
@@ -111,6 +133,11 @@
       {
         "text": "OpenAI upheaval mounts as Sam Altman readies IPO push",
         "refId": "0e406fdc2445",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Traders are spoiling for a fight over the yen",
+        "refId": "1e59d066d76d",
         "source": "Financial Times Markets"
       }
     ]
