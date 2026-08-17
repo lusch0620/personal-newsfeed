@@ -147,18 +147,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sarah Guo Is Betting Nearly a Billion Dollars That the AI Labs Cannot Build Everything",
-        "refId": "02a4fd57264e",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "Adolfo Bioy Casares delay",
-        "refId": "c1cd813d437e",
+        "text": "Another rationale for sticky prices?",
+        "refId": "3a9372fe1971",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Another rationale for sticky prices?",
-        "refId": "3a9372fe1971",
+        "text": "The end of an era for China's economy",
+        "refId": "e7f3dbd68b9b",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Sunday assorted links",
+        "refId": "354059ca159b",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sarah Guo Is Betting Nearly a Billion Dollars That the AI Labs Cannot Build Everything",
-        "refId": "02a4fd57264e",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "Adolfo Bioy Casares delay",
-        "refId": "c1cd813d437e",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "World\u2019s largest carmakers seek to avert motor oil crisis",
         "refId": "5b94dffb6ef7",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "Malls Regain Rizz as Gen Z Embraces Style of Yesteryear\u2019s Teens",
+        "refId": "0cd84a75cfa2",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Another rationale for sticky prices?",
+        "refId": "3a9372fe1971",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7763.12,
+      "v": 7753.97,
       "base": 7798.99,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26673.025,
+      "v": 26655.117,
       "base": 26803.03,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53537.69,
+      "v": 53512.41,
       "base": 53839.99,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.71,
+      "v": 4.724,
       "base": 4.696,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.21,
+      "v": 15.19,
       "base": 14.25,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 194.7021,
+      "v": 193.7338,
       "base": 193.01,
       "bp": false
     }
