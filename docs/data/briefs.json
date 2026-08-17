@@ -1,25 +1,25 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "1 story in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
         "text": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports",
         "refId": "6a3f0ccbc1dc",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Five things every bank should know about AI before making their next technology investment",
+        "refId": "fdce7973c0a3",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "CAIS lands $170-million from Vista Equity at $2-billion valuation, double the last raise, but amount rekindles questions about whether private equity firms pay premium for 'alts platforms' with preferred-distribution payback in mind",
-        "refId": "0032172124ff",
-        "source": "RIABiz"
-      },
-      {
-        "text": "The T&amp;E Inner Circle |The Intrigue and Potential of AI",
-        "refId": "79b849649f75",
+        "text": "FINNY AI Rolls Out 'Pay-as-You-Grow' Pricing Model",
+        "refId": "bf1cc0c558ec",
         "source": "Wealth Management"
       }
     ]
@@ -28,24 +28,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Insurers Must Defend Hotels Accused of Sex Trafficking of Minors",
-        "refId": "05bba12eb209",
-        "source": "Insurance Journal"
+        "text": "Relation Insurance appoints Julio Bermudez to lead private equity and transactional risk unit",
+        "refId": "399f7a48662a",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Mapfre to Acquire Safety Insurance for $1.54 Billion in Cash Deal",
-        "refId": "9eba6484bf19",
-        "source": "Insurance Journal"
+        "text": "Kin Q2\u201926 revenue increases to $68m",
+        "refId": "e73dc07af27b",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Musk\u2019s xAI Sues Minnesota Over Ban on Nudification Technology",
-        "refId": "244dcb8eb5bb",
-        "source": "Insurance Journal"
+        "text": "ABIR names new Treasurer and Finance Committee members",
+        "refId": "96b854036670",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Western Union gets New York nod for Intermax acquisition; still face California hurdles",
@@ -56,35 +56,56 @@
         "text": "Polygon joins BofE's Digital Pound Lab to test cross-border settlement",
         "refId": "493fb908e40c",
         "source": "Finextra"
+      },
+      {
+        "text": "Ebanx expands leadership team",
+        "refId": "d1f3f57ddbee",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "BNPP AM Prime\u2019s Pascal Christory: \u2018There won\u2019t be enough capital for everybody\u2019",
+        "refId": "51d4946ed557",
+        "source": "PE Hub"
+      },
+      {
+        "text": "BNPP AM Prime eyes up to five European GP stakes from current vintage; Providence to acquire valuation and property risk data biz",
+        "refId": "aee60a8b381f",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Blurred lines: How fund finance is reinventing the sub-line",
+        "refId": "4db9912dd149",
+        "source": "Private Equity International"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "OpenAI upheaval mounts as Sam Altman readies IPO push",
-        "refId": "0e406fdc2445",
-        "source": "Financial Times Markets"
+        "text": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness",
+        "refId": "ec56e5c62f47",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Traders are spoiling for a fight over the yen",
-        "refId": "1e59d066d76d",
-        "source": "Financial Times Markets"
+        "text": "Sign Up for DealBook",
+        "refId": "c7eece17793a",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "South Korea\u2019s inverse correlation",
-        "refId": "ec904368ced8",
-        "source": "Financial Times Markets"
+        "text": "When Will The Bond Market Stop Crashing?",
+        "refId": "c410fec4b5c8",
+        "source": "Capital Flows Research"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Malls Regain Rizz as Gen Z Embraces Style of Yesteryear\u2019s Teens",
@@ -94,6 +115,11 @@
       {
         "text": "Clients Are Craving Income. Here\u2019s How Advisors Are Delivering",
         "refId": "9a6e5e519238",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "China\u2019s Aerospace Industry Gains Altitude Slowly After Taking Flight",
+        "refId": "7e3a2d17a959",
         "source": "The Daily Upside"
       }
     ]
@@ -106,19 +132,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "That was then, this is now",
-        "refId": "9cd252f54da6",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "A Conservative Case for Liberal Immigration",
-        "refId": "a8d4c350cd5c",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Reading List \u2014 08/15/2026",
         "refId": "b64f16570eed",
         "source": "Construction Physics (Brian Potter)"
+      },
+      {
+        "text": "Saturday assorted links",
+        "refId": "25f503c68138",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Sarah Guo Is Betting Nearly a Billion Dollars That the AI Labs Cannot Build Everything",
+        "refId": "02a4fd57264e",
+        "source": "The AI Corner (Ruben Dominguez)"
       }
     ]
   },
@@ -126,19 +152,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "CAIS lands $170-million from Vista Equity at $2-billion valuation, double the last raise, but amount rekindles questions about whether private equity firms pay premium for 'alts platforms' with preferred-distribution payback in mind",
-        "refId": "0032172124ff",
-        "source": "RIABiz"
+        "text": "The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness",
+        "refId": "ec56e5c62f47",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "OpenAI upheaval mounts as Sam Altman readies IPO push",
-        "refId": "0e406fdc2445",
-        "source": "Financial Times Markets"
+        "text": "Reading List \u2014 08/15/2026",
+        "refId": "b64f16570eed",
+        "source": "Construction Physics (Brian Potter)"
       },
       {
-        "text": "Traders are spoiling for a fight over the yen",
-        "refId": "1e59d066d76d",
-        "source": "Financial Times Markets"
+        "text": "Sign Up for DealBook",
+        "refId": "c7eece17793a",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -169,8 +195,8 @@
     },
     {
       "nm": "VIX",
-      "v": 14.25,
-      "base": 14.63,
+      "v": 14.91,
+      "base": 14.25,
       "bp": false
     },
     {
