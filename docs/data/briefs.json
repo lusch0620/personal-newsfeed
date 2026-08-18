@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Paramount Seeks $1.9 Billion Bond From States in Merger Lawsuit",
-        "refId": "b9fd23c8672a",
+        "text": "Death Toll From Indiana Floods Up to 7 as Recovery Gets Underway",
+        "refId": "c4a49052bed5",
         "source": "Insurance Journal"
       },
       {
-        "text": "Lala Leaves One Dead in Hawaii With Heavy Rain, Wind to Come",
-        "refId": "92b6330ac7de",
+        "text": "People Moves: OneShield Appoints Becker SVP, New Products",
+        "refId": "13187a21836d",
         "source": "Insurance Journal"
       },
       {
-        "text": "Lightning Sparks Fire at Massive US Fuel Depot on Key Pipeline System",
-        "refId": "f96ad0447713",
+        "text": "Russia Is Already Waging Hybrid War in Europe, Latvia Says",
+        "refId": "a70e29d8443f",
         "source": "Insurance Journal"
       }
     ]
@@ -68,13 +68,13 @@
         "source": "Finextra"
       },
       {
-        "text": "Polygon joins BofE's Digital Pound Lab to test cross-border settlement",
-        "refId": "493fb908e40c",
+        "text": "Asic warns of surge in deepfake scams",
+        "refId": "fea142553fac",
         "source": "Finextra"
       },
       {
-        "text": "Asic warns of surge in deepfake scams",
-        "refId": "fea142553fac",
+        "text": "Companies prefer cash over digital payments - ECB",
+        "refId": "fb4a8873dc74",
         "source": "Finextra"
       }
     ]
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Consensus: long gold, short bonds",
-        "refId": "97d482d12390",
-        "source": "fx:macro"
-      },
-      {
         "text": "People are worried about America\u2019s solvency",
         "refId": "7984058cac01",
         "source": "Financial Times Markets"
@@ -116,6 +111,11 @@
         "text": "Mark Cuban and Other Founders Wade Into Wealth Tax Debate",
         "refId": "f4892ca535b0",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "US tech stock correction likely, warn ECB economists",
+        "refId": "d5bc6852611b",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "354059ca159b",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Things you cannot buy in America?",
         "refId": "7a3cd87699d7",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "What I\u2019ve been reading",
         "refId": "a3e4731c1f71",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Somalia facts of the day",
+        "refId": "e09ea84a449f",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "354059ca159b",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Consensus: long gold, short bonds",
-        "refId": "97d482d12390",
-        "source": "fx:macro"
-      },
-      {
         "text": "Things you cannot buy in America?",
         "refId": "7a3cd87699d7",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Western Union gets New York nod for Intermax acquisition; still faces California hurdles",
+        "refId": "2d139888b9d4",
+        "source": "Finextra"
+      },
+      {
+        "text": "China\u2019s Aerospace Industry Gains Altitude Slowly After Taking Flight",
+        "refId": "7e3a2d17a959",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7695.01,
+      "v": 7703.51,
       "base": 7785.76,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26289.307,
+      "v": 26343.006,
       "base": 26729.16,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53322.66,
+      "v": 53376.76,
       "base": 53732.41,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.714,
+      "v": 4.712,
       "base": 4.724,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.77,
+      "v": 15.65,
       "base": 15.19,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 191.6294,
+      "v": 191.9167,
       "base": 193.91,
       "bp": false
     }
