@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "FINNY AI Rolls Out 'Pay-as-You-Grow' Pricing Model",
-        "refId": "bf1cc0c558ec",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Ten Estate Planning Topics Financial Advisors Should Discuss With Clients",
         "refId": "928cf93d07c5",
         "source": "Wealth Management"
@@ -35,6 +30,11 @@
       {
         "text": "Celebrity Estates: The Murdoch Family Trust and Irrevocable Planning with Mark Parthemer",
         "refId": "8c64d77fd361",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Adjusted for Risk: Why Insider 'Skin in the Game' May Beat the S&amp;P 500",
+        "refId": "26cf41545c4f",
         "source": "Wealth Management"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Things you cannot buy in America?",
-        "refId": "7a3cd87699d7",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "What I\u2019ve been reading",
         "refId": "a3e4731c1f71",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,17 +155,17 @@
         "text": "Somalia facts of the day",
         "refId": "e09ea84a449f",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
+        "refId": "8121e0510650",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Things you cannot buy in America?",
-        "refId": "7a3cd87699d7",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "Western Union gets New York nod for Intermax acquisition; still faces California hurdles",
         "refId": "2d139888b9d4",
@@ -180,43 +175,48 @@
         "text": "China\u2019s Aerospace Industry Gains Altitude Slowly After Taking Flight",
         "refId": "7e3a2d17a959",
         "source": "The Daily Upside"
+      },
+      {
+        "text": "Big Box Earnings Preview: Walmart, Target Poised to Benefit From Value Shoppers",
+        "refId": "459882b2bb71",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7703.51,
+      "v": 7698.06,
       "base": 7785.76,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26343.006,
+      "v": 26288.031,
       "base": 26729.16,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53376.76,
+      "v": 53405.78,
       "base": 53732.41,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.712,
+      "v": 4.706,
       "base": 4.724,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.65,
+      "v": 15.67,
       "base": 15.19,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 191.9167,
+      "v": 192.1897,
       "base": 193.91,
       "bp": false
     }
