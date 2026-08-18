@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ten Estate Planning Topics Financial Advisors Should Discuss With Clients",
-        "refId": "928cf93d07c5",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Celebrity Estates: The Murdoch Family Trust and Irrevocable Planning with Mark Parthemer",
-        "refId": "8c64d77fd361",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Adjusted for Risk: Why Insider 'Skin in the Game' May Beat the S&amp;P 500",
         "refId": "26cf41545c4f",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Drive Planning CEO Gets 20 Years for $380M Ponzi Scheme",
+        "refId": "6007899ac9da",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "SMAs Emerge as Wealth Management's Next Frontier",
+        "refId": "18e87c0beec9",
         "source": "Wealth Management"
       }
     ]
@@ -103,18 +103,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "People are worried about America\u2019s solvency",
-        "refId": "7984058cac01",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Mark Cuban and Other Founders Wade Into Wealth Tax Debate",
         "refId": "f4892ca535b0",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "US tech stock correction likely, warn ECB economists",
-        "refId": "d5bc6852611b",
+        "text": "Monzo chair Gary Hoffman to step down months after shareholder revolt",
+        "refId": "d3e6fb7e6ad5",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "ExxonMobil advances Mozambique gas project despite terrorist threat",
+        "refId": "86b1dd04ab12",
         "source": "Financial Times Markets"
       }
     ]
@@ -186,19 +186,19 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7698.06,
+      "v": 7691.76,
       "base": 7785.76,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26288.031,
+      "v": 26289.71,
       "base": 26729.16,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53405.78,
+      "v": 53343.4,
       "base": 53732.41,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 15.67,
+      "v": 15.84,
       "base": 15.19,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 192.1897,
+      "v": 192.2718,
       "base": 193.91,
       "bp": false
     }
