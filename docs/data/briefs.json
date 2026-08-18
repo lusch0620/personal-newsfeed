@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports",
-        "refId": "6a3f0ccbc1dc",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "5 things every bank should know about AI before making their next technology investment",
         "refId": "d92a995b5494",
         "source": "Banking Dive"
@@ -16,6 +11,11 @@
         "text": "Dragonfly Energy Partners with Sphere Energy to Develop Next-Generation AI-Enhanced Battery Technology",
         "refId": "a80d5b366b96",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: Alibaba, Intel, Sandisk & more",
+        "refId": "f07c022ba375",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Business Moves: FM Acquires Wildfire Intelligence Firm FortressFire",
-        "refId": "8a792d5add99",
+        "text": "10 New Firms Join Insurance Journal\u2019s Top 100 Independent Agencies",
+        "refId": "87619a31dec7",
         "source": "Insurance Journal"
       },
       {
-        "text": "Davis & Towle Acquires New Hampshire\u2019s Allied Insurance Agency",
-        "refId": "5a3949dc669a",
+        "text": "France Pledges \u20ac100 Million in Wildfire Aid for Homes and Firms",
+        "refId": "1842bb09ca4d",
         "source": "Insurance Journal"
       },
       {
-        "text": "Medical Firm to Build $600M Pharmaceutical Manufacturing Site in North Carolina",
-        "refId": "38e81129c699",
+        "text": "\u2018Horrific\u2019 Conditions Grip UK Hospitals Unprepared for Heat",
+        "refId": "3fa54ef0e76f",
         "source": "Insurance Journal"
       }
     ]
@@ -103,30 +103,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "24 quick thoughts on the markets and the economy \ud83d\udccb",
-        "refId": "a32570710037",
-        "source": "TKer (Sam Ro)"
-      },
-      {
         "text": "Consensus: long gold, short bonds",
         "refId": "97d482d12390",
         "source": "fx:macro"
       },
       {
-        "text": "Private credit under strain as troubled loans swell",
-        "refId": "7a5a212ab6ce",
+        "text": "People are worried about America\u2019s solvency",
+        "refId": "7984058cac01",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "Mark Cuban and Other Founders Wade Into Wealth Tax Debate",
+        "refId": "f4892ca535b0",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "Newsletters": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Clients Are Craving Income. Here\u2019s How Advisors Are Delivering",
-        "refId": "9a6e5e519238",
-        "source": "The Daily Upside"
-      },
       {
         "text": "China\u2019s Aerospace Industry Gains Altitude Slowly After Taking Flight",
         "refId": "7e3a2d17a959",
@@ -135,6 +130,11 @@
       {
         "text": "Big Box Earnings Preview: Walmart, Target Poised to Benefit From Value Shoppers",
         "refId": "459882b2bb71",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Janus Henderson\u2019s JAAA Just Topped $30B. What\u2019s Next For CLOs?",
+        "refId": "54aef022c728",
         "source": "The Daily Upside"
       }
     ]
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports",
-        "refId": "6a3f0ccbc1dc",
-        "source": "CNBC Finance"
+        "text": "Sunday assorted links",
+        "refId": "354059ca159b",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Clients Are Craving Income. Here\u2019s How Advisors Are Delivering",
-        "refId": "9a6e5e519238",
-        "source": "The Daily Upside"
+        "text": "Consensus: long gold, short bonds",
+        "refId": "97d482d12390",
+        "source": "fx:macro"
       },
       {
-        "text": "24 quick thoughts on the markets and the economy \ud83d\udccb",
-        "refId": "a32570710037",
-        "source": "TKer (Sam Ro)"
+        "text": "Things you cannot buy in America?",
+        "refId": "7a3cd87699d7",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7745.06,
-      "base": 7798.99,
+      "v": 7708.7,
+      "base": 7785.76,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26644.91,
-      "base": 26803.03,
+      "v": 26358.78,
+      "base": 26729.16,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53459.78,
-      "base": 53839.99,
+      "v": 53334.79,
+      "base": 53732.41,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.724,
-      "base": 4.696,
+      "v": 4.74,
+      "base": 4.724,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.77,
+      "v": 15.82,
       "base": 15.19,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 192.9682,
-      "base": 193.01,
+      "v": 193.2765,
+      "base": 193.91,
       "bp": false
     }
   ]
