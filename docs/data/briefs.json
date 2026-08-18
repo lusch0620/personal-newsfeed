@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "PERILS decreases insured loss estimate for extratropical windstorm Nils to \u20ac695m",
-        "refId": "02dcff83b1f7",
-        "source": "Reinsurance News"
+        "text": "Business Moves: FM Acquires Wildfire Intelligence Firm FortressFire",
+        "refId": "8a792d5add99",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Orbital Sentry secures new capital to bring continuous satellite monitoring for wildfire risk",
-        "refId": "e41a356b4009",
-        "source": "Reinsurance News"
+        "text": "Davis & Towle Acquires New Hampshire\u2019s Allied Insurance Agency",
+        "refId": "5a3949dc669a",
+        "source": "Insurance Journal"
       },
       {
-        "text": "TFP successfully prices $2.04bn refinancing, replacing its Term Loan B facility",
-        "refId": "c68929081bc8",
-        "source": "Reinsurance News"
+        "text": "Medical Firm to Build $600M Pharmaceutical Manufacturing Site in North Carolina",
+        "refId": "38e81129c699",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -83,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "BNPP AM Prime\u2019s Pascal Christory: \u2018There won\u2019t be enough capital for everybody\u2019",
-        "refId": "51d4946ed557",
-        "source": "PE Hub"
-      },
-      {
-        "text": "BNPP AM Prime eyes up to five European GP stakes from current vintage; Providence to acquire valuation and property risk data biz",
-        "refId": "aee60a8b381f",
-        "source": "PE Hub"
-      },
-      {
         "text": "Blurred lines: How fund finance is reinventing the sub-line",
         "refId": "4db9912dd149",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "What Novo Holdings\u2019 Asia head wants from CVs",
+        "refId": "9c2a95042e99",
+        "source": "Secondaries Investor"
+      },
+      {
+        "text": "Side Letter: Sector selectors",
+        "refId": "931f5fbf2662",
         "source": "Private Equity International"
       }
     ]
@@ -102,11 +102,6 @@
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Big Tech\u2019s data centre boom poised to drive up carbon emissions",
-        "refId": "08ab46ca1ed5",
-        "source": "Financial Times Markets"
-      },
       {
         "text": "24 quick thoughts on the markets and the economy \ud83d\udccb",
         "refId": "a32570710037",
@@ -116,17 +111,17 @@
         "text": "Consensus: long gold, short bonds",
         "refId": "97d482d12390",
         "source": "fx:macro"
+      },
+      {
+        "text": "Private credit under strain as troubled loans swell",
+        "refId": "7a5a212ab6ce",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Malls Regain Rizz as Gen Z Embraces Style of Yesteryear\u2019s Teens",
-        "refId": "0cd84a75cfa2",
-        "source": "The Daily Upside"
-      },
       {
         "text": "Clients Are Craving Income. Here\u2019s How Advisors Are Delivering",
         "refId": "9a6e5e519238",
@@ -135,6 +130,11 @@
       {
         "text": "China\u2019s Aerospace Industry Gains Altitude Slowly After Taking Flight",
         "refId": "7e3a2d17a959",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Big Box Earnings Preview: Walmart, Target Poised to Benefit From Value Shoppers",
+        "refId": "459882b2bb71",
         "source": "The Daily Upside"
       }
     ]
@@ -147,18 +147,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Another rationale for sticky prices?",
-        "refId": "3a9372fe1971",
+        "text": "Sunday assorted links",
+        "refId": "354059ca159b",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The end of an era for China's economy",
-        "refId": "e7f3dbd68b9b",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Things you cannot buy in America?",
+        "refId": "7a3cd87699d7",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Sunday assorted links",
-        "refId": "354059ca159b",
+        "text": "What I\u2019ve been reading",
+        "refId": "a3e4731c1f71",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Malls Regain Rizz as Gen Z Embraces Style of Yesteryear\u2019s Teens",
-        "refId": "0cd84a75cfa2",
+        "text": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports",
+        "refId": "6a3f0ccbc1dc",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Clients Are Craving Income. Here\u2019s How Advisors Are Delivering",
+        "refId": "9a6e5e519238",
         "source": "The Daily Upside"
       },
       {
-        "text": "Another rationale for sticky prices?",
-        "refId": "3a9372fe1971",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "The end of an era for China's economy",
-        "refId": "e7f3dbd68b9b",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "24 quick thoughts on the markets and the economy \ud83d\udccb",
+        "refId": "a32570710037",
+        "source": "TKer (Sam Ro)"
       }
     ]
   },
@@ -210,8 +210,8 @@
     },
     {
       "nm": "VIX",
-      "v": 15.19,
-      "base": 14.25,
+      "v": 15.77,
+      "base": 15.19,
       "bp": false
     },
     {
