@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "10 New Firms Join Insurance Journal\u2019s Top 100 Independent Agencies",
-        "refId": "87619a31dec7",
+        "text": "Paramount Seeks $1.9 Billion Bond From States in Merger Lawsuit",
+        "refId": "b9fd23c8672a",
         "source": "Insurance Journal"
       },
       {
-        "text": "France Pledges \u20ac100 Million in Wildfire Aid for Homes and Firms",
-        "refId": "1842bb09ca4d",
+        "text": "Lala Leaves One Dead in Hawaii With Heavy Rain, Wind to Come",
+        "refId": "92b6330ac7de",
         "source": "Insurance Journal"
       },
       {
-        "text": "\u2018Horrific\u2019 Conditions Grip UK Hospitals Unprepared for Heat",
-        "refId": "3fa54ef0e76f",
+        "text": "Lightning Sparks Fire at Massive US Fuel Depot on Key Pipeline System",
+        "refId": "f96ad0447713",
         "source": "Insurance Journal"
       }
     ]
@@ -186,37 +186,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7708.7,
+      "v": 7695.01,
       "base": 7785.76,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26358.78,
+      "v": 26289.307,
       "base": 26729.16,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53334.79,
+      "v": 53322.66,
       "base": 53732.41,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.74,
+      "v": 4.714,
       "base": 4.724,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.82,
+      "v": 15.77,
       "base": 15.19,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 193.2765,
+      "v": 191.6294,
       "base": 193.91,
       "bp": false
     }
