@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "People Moves: Carson Hires Recruiter from Osaic for Indie Channel",
-        "refId": "79ab8b856841",
+        "text": "SEC Unveils Crypto Plan as Agency Moves Ahead on Digital Assets",
+        "refId": "411fad482f3f",
         "source": "Wealth Management"
       },
       {
-        "text": "MAI's Post-Carlyle Deal Spree Continues, Adding Two Firms with Combined $1B+ AUM",
-        "refId": "3e133f89ac5c",
+        "text": "Ex-Morgan Stanley Advisor Alleges Firm 'Circled The Wagons' After Misconduct Claims",
+        "refId": "ae0ae1f9ed29",
         "source": "Wealth Management"
       },
       {
-        "text": "Invesco Revamps, Expands Platform for Custom Strategies",
-        "refId": "fcaf5a7d0a83",
+        "text": "Kestra Financial Hires Wealth Management Head from BlackRock",
+        "refId": "b16677c8f083",
         "source": "Wealth Management"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Off-duty: Corsair\u2019s Gunnar Overstrom on piscine cocktails, Steely Dan\u2019s Aja and the GFC\u2019s upside",
-        "refId": "f0881ce8d0e8",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "Aussie superfund Hesta loses unlisted assets head",
         "refId": "ed5522608d54",
         "source": "Private Equity International"
@@ -96,17 +91,17 @@
         "text": "Denmark\u2019s Novo Holdings seeks Asian managers in regional push",
         "refId": "88b976b9323d",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Side Letter: Rare stakes",
+        "refId": "dc1572402736",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
-        "refId": "f63411c19c5e",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "The Next Stage Of Macro Trading",
         "refId": "ccfe41ee84e2",
@@ -116,6 +111,11 @@
         "text": "Is Silicon Valley in the Justice Dept.\u2019s Sights?",
         "refId": "0294778d27fc",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "A note on the equity risk premium with help from TKer's newsletter archive \ud83d\udd0d",
+        "refId": "5bbe67cd0eef",
+        "source": "TKer (Sam Ro)"
       }
     ]
   },
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Off-duty: Corsair\u2019s Gunnar Overstrom on piscine cocktails, Steely Dan\u2019s Aja and the GFC\u2019s upside",
-        "refId": "f0881ce8d0e8",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
-        "refId": "f63411c19c5e",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "\u2018Crying Wolf\u2019: Norway\u2019s Sovereign Wealth Fund CEO Issues Dire Warning After Record Profit",
         "refId": "d5389452d4c0",
         "source": "The Daily Upside"
+      },
+      {
+        "text": "Stripe agrees $7bn takeover of AI firm OpenRouter - Bloomberg",
+        "refId": "646645ae6c4d",
+        "source": "Finextra"
+      },
+      {
+        "text": "The Next Stage Of Macro Trading",
+        "refId": "ccfe41ee84e2",
+        "source": "Capital Flows Research"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7717.47,
+      "v": 7707.98,
       "base": 7745.06,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26354.637,
+      "v": 26331.09,
       "base": 26644.91,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53458.36,
+      "v": 53463.05,
       "base": 53459.78,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 14.99,
+      "v": 14.89,
       "base": 15.84,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.445,
+      "v": 187.646,
       "base": 192.97,
       "bp": false
     }
