@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "ASM share buyback update August 10 \u2013 14, 2026",
-        "refId": "b3a704c8b711",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Prediction market traders see roughly 1-in-4 odds Paramount\u2019s bid to buy Warner Bros. Discovery fails",
+        "refId": "dad8015b76d4",
+        "source": "CNBC Finance"
       },
       {
-        "text": "NC lender to acquire Blue Ridge Bank for $448M",
-        "refId": "94d8dfe5d7a6",
-        "source": "Banking Dive"
+        "text": "Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout",
+        "refId": "51761833dad6",
+        "source": "CNBC Finance"
       },
       {
-        "text": "World Liberty nabs conditional OCC charter",
-        "refId": "6910b1aa69c0",
-        "source": "Banking Dive"
+        "text": "Stocks making the biggest moves midday: EyePoint, Intuitive Machines, Workday, JetBlue & more",
+        "refId": "c82ee4360751",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Billionaire Mark Cuban Blasts \u2018Insane\u2019 Ro Khanna Wealth Tax Proposal",
-        "refId": "137859f2a978",
+        "text": "Trust, Not Capital, Limits ETF Growth",
+        "refId": "5a5c95f0b9d7",
         "source": "Wealth Management"
       },
       {
-        "text": "NJ Man Pleads Guilty to $47M Fraud Targeting Orthodox Jewish Community",
-        "refId": "e15d9580f6e5",
+        "text": "Specialty Structure Funds Gain Momentum Amid Evergreen Adoption",
+        "refId": "f2f572e6f34c",
         "source": "Wealth Management"
       },
       {
-        "text": "Good Stock Picks, Bad Trading: Why Active Funds Still Lagged",
-        "refId": "dc80b8829b73",
+        "text": "13 Investment Must Reads for This Week (Aug. 18, 2026)",
+        "refId": "ffb54b9896f1",
         "source": "Wealth Management"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "People Moves: Aon Appoints Leadership for N.A. Middle Market, Names Hammond Global Exec Chairman of Middle Market; Guy Carpenter Promotes New Global P/C Leaders",
-        "refId": "e2cdb0d33df6",
+        "text": "Lockton appoints Jules Okai as Global Solutions Practice Leader for the US",
+        "refId": "525a69f3eaea",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Data Center Gas Plants to Boost US Power Emissions by 20%",
+        "refId": "fc65898fd867",
         "source": "Insurance Journal"
       },
       {
-        "text": "AI vs. Automation: The Shift That\u2019s Changing Agency Workflows",
-        "refId": "e51788783456",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Canadian Firms Have $360 Billion of Private Credit Exposure, Mostly in US",
-        "refId": "6353fc5295cd",
-        "source": "Insurance Journal"
+        "text": "China\u2019s non-life insurance sector remains broadly stable in H1\u201926: Fitch",
+        "refId": "c6f82df9d4b4",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What should I ask Roman Mars?",
-        "refId": "5eae85b9f0a1",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Monday assorted links",
         "refId": "22ade355eea7",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "How economics is changing",
         "refId": "2c87db47efcc",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Morocco facts of the day, Morocco is not hopeless",
+        "refId": "a59c39724dbb",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What should I ask Roman Mars?",
-        "refId": "5eae85b9f0a1",
+        "text": "Prediction market traders see roughly 1-in-4 odds Paramount\u2019s bid to buy Warner Bros. Discovery fails",
+        "refId": "dad8015b76d4",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout",
+        "refId": "51761833dad6",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Monday assorted links",
+        "refId": "22ade355eea7",
         "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "ASM share buyback update August 10 \u2013 14, 2026",
-        "refId": "b3a704c8b711",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "NC lender to acquire Blue Ridge Bank for $448M",
-        "refId": "94d8dfe5d7a6",
-        "source": "Banking Dive"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7732.3,
+      "v": 7717.12,
       "base": 7745.06,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26391.326,
+      "v": 26338.637,
       "base": 26644.91,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53581.67,
+      "v": 53454.77,
       "base": 53459.78,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.653,
+      "v": 4.664,
       "base": 4.706,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.13,
+      "v": 15.19,
       "base": 15.84,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 189.428,
+      "v": 189.0337,
       "base": 192.97,
       "bp": false
     }
