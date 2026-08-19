@@ -3,9 +3,9 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Citi scoops up rewards fintech Kard",
-        "refId": "b3b8a1ed5177",
-        "source": "Banking Dive"
+        "text": "ASM share buyback update August 10 \u2013 14, 2026",
+        "refId": "b3a704c8b711",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
         "text": "NC lender to acquire Blue Ridge Bank for $448M",
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Drive Planning CEO Gets 20 Years for $380M Ponzi Scheme",
-        "refId": "6007899ac9da",
+        "text": "Billionaire Mark Cuban Blasts \u2018Insane\u2019 Ro Khanna Wealth Tax Proposal",
+        "refId": "137859f2a978",
         "source": "Wealth Management"
       },
       {
-        "text": "SMAs Emerge as Wealth Management's Next Frontier",
-        "refId": "18e87c0beec9",
+        "text": "NJ Man Pleads Guilty to $47M Fraud Targeting Orthodox Jewish Community",
+        "refId": "e15d9580f6e5",
         "source": "Wealth Management"
       },
       {
-        "text": "The 'Bedsore' Approach to Advisor Retirement Marketing",
-        "refId": "a36076825a72",
+        "text": "Good Stock Picks, Bad Trading: Why Active Funds Still Lagged",
+        "refId": "dc80b8829b73",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "People Moves: Lindberg Whistleblower Obusek to Retire After 30 Years With NCDOI",
-        "refId": "d04bfee35153",
+        "text": "People Moves: Aon Appoints Leadership for N.A. Middle Market, Names Hammond Global Exec Chairman of Middle Market; Guy Carpenter Promotes New Global P/C Leaders",
+        "refId": "e2cdb0d33df6",
         "source": "Insurance Journal"
       },
       {
-        "text": "Climate Damage: The Next Hit to Europe\u2019s Public Finances",
-        "refId": "17fa38173a63",
+        "text": "AI vs. Automation: The Shift That\u2019s Changing Agency Workflows",
+        "refId": "e51788783456",
         "source": "Insurance Journal"
       },
       {
-        "text": "Death of Irish Teens in Crash Prompts Social Media Warning",
-        "refId": "eaae4245a000",
+        "text": "Canadian Firms Have $360 Billion of Private Credit Exposure, Mostly in US",
+        "refId": "6353fc5295cd",
         "source": "Insurance Journal"
       }
     ]
@@ -62,11 +62,6 @@
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Chief Economist's Weekly Watch \u2013 August 17 2026: Retailer Earnings, Multifamily Construction, & FOMC Minutes",
-        "refId": "65515966ef27",
-        "source": "Trepp Talk"
-      },
       {
         "text": "Office Loan LTVs Recover From 2023 Lows, Remain Below 2019 Levels",
         "refId": "dd68e302633d",
@@ -76,17 +71,17 @@
         "text": "Stripe agrees $7bn takeover of AI firm OpenRouter - Bloomberg",
         "refId": "646645ae6c4d",
         "source": "Finextra"
+      },
+      {
+        "text": "Would I lie to you? ANZ warns of troubling \u2018scam-coaching\u2019 trend",
+        "refId": "0bb6485d5fea",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Investor Intentions: Quincy Retirement System issues RFP for private equity manager",
-        "refId": "caf39cb09b6c",
-        "source": "Private Equity International"
-      },
       {
         "text": "Off-duty: Corsair\u2019s Gunnar Overstrom on piscine cocktails, Steely Dan\u2019s Aja and the GFC\u2019s upside",
         "refId": "f0881ce8d0e8",
@@ -95,6 +90,11 @@
       {
         "text": "Aussie superfund Hesta loses unlisted assets head",
         "refId": "ed5522608d54",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Denmark\u2019s Novo Holdings seeks Asian managers in regional push",
+        "refId": "88b976b9323d",
         "source": "Private Equity International"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sam Altman: OpenAI's Best 12 Months Start Now",
-        "refId": "6f91e9997104",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "What should I ask Roman Mars?",
         "refId": "5eae85b9f0a1",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Monday assorted links",
         "refId": "22ade355eea7",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "How economics is changing",
+        "refId": "2c87db47efcc",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Investor Intentions: Quincy Retirement System issues RFP for private equity manager",
-        "refId": "caf39cb09b6c",
-        "source": "Private Equity International"
+        "text": "What should I ask Roman Mars?",
+        "refId": "5eae85b9f0a1",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Chief Economist's Weekly Watch \u2013 August 17 2026: Retailer Earnings, Multifamily Construction, & FOMC Minutes",
-        "refId": "65515966ef27",
-        "source": "Trepp Talk"
+        "text": "ASM share buyback update August 10 \u2013 14, 2026",
+        "refId": "b3a704c8b711",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Sam Altman: OpenAI's Best 12 Months Start Now",
-        "refId": "6f91e9997104",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "NC lender to acquire Blue Ridge Bank for $448M",
+        "refId": "94d8dfe5d7a6",
+        "source": "Banking Dive"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7719.82,
+      "v": 7732.3,
       "base": 7745.06,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26349.863,
+      "v": 26391.326,
       "base": 26644.91,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53447.82,
+      "v": 53581.67,
       "base": 53459.78,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.641,
+      "v": 4.653,
       "base": 4.706,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.15,
+      "v": 15.13,
       "base": 15.84,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 191.0424,
+      "v": 189.428,
       "base": 192.97,
       "bp": false
     }
