@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "5 things every bank should know about AI before making their next technology investment",
-        "refId": "d92a995b5494",
-        "source": "Banking Dive"
-      },
-      {
         "text": "Dragonfly Energy Partners with Sphere Energy to Develop Next-Generation AI-Enhanced Battery Technology",
         "refId": "a80d5b366b96",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -16,17 +11,17 @@
         "text": "Stocks making the biggest moves premarket: Alibaba, Intel, Sandisk & more",
         "refId": "f07c022ba375",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "STMicroelectronics announces status of common share repurchase program",
+        "refId": "11b62abc72c6",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Adjusted for Risk: Why Insider 'Skin in the Game' May Beat the S&amp;P 500",
-        "refId": "26cf41545c4f",
-        "source": "Wealth Management"
-      },
       {
         "text": "Drive Planning CEO Gets 20 Years for $380M Ponzi Scheme",
         "refId": "6007899ac9da",
@@ -36,6 +31,11 @@
         "text": "SMAs Emerge as Wealth Management's Next Frontier",
         "refId": "18e87c0beec9",
         "source": "Wealth Management"
+      },
+      {
+        "text": "The 'Bedsore' Approach to Advisor Retirement Marketing",
+        "refId": "a36076825a72",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "People Moves: OneShield Appoints Becker SVP, New Products",
-        "refId": "13187a21836d",
+        "text": "Trump Agencies to Set Crypto Policy as Bill Stalls, Limiting Industry\u2019s Gains",
+        "refId": "87d2f2b903bf",
         "source": "Insurance Journal"
       },
       {
-        "text": "Russia Is Already Waging Hybrid War in Europe, Latvia Says",
-        "refId": "a70e29d8443f",
+        "text": "People Moves: Aon CFO Reese Steps Down After 2 Years, Succeeded by Virana in Interim Role; Miller Bermuda Taps Gallagher\u2019s Vickers as Senior Director, Property",
+        "refId": "85a91e650912",
         "source": "Insurance Journal"
       },
       {
-        "text": "Bird Remains Found in Engine After Ryanair Window Blowout",
-        "refId": "87f7474e3193",
+        "text": "Luigi Mangione\u2019s State Murder Trial Postponed Indefinitely",
+        "refId": "5263ea61d18d",
         "source": "Insurance Journal"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Revolut to open network of airport lounges across Europe",
-        "refId": "e17eda20881f",
-        "source": "Finextra"
-      },
-      {
         "text": "Chief Economist's Weekly Watch \u2013 August 17 2026: Retailer Earnings, Multifamily Construction, & FOMC Minutes",
         "refId": "65515966ef27",
         "source": "Trepp Talk"
       },
       {
-        "text": "Trump-linked World Liberty Financial gets conditional bank charter approval",
-        "refId": "a644391f6602",
+        "text": "Office Loan LTVs Recover From 2023 Lows, Remain Below 2019 Levels",
+        "refId": "dd68e302633d",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Stripe agrees $7bn takeover of AI firm OpenRouter - Bloomberg",
+        "refId": "646645ae6c4d",
         "source": "Finextra"
       }
     ]
@@ -83,19 +83,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Blurred lines: How fund finance is reinventing the sub-line",
-        "refId": "4db9912dd149",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "What Novo Holdings\u2019 Asia head wants from CVs",
-        "refId": "9c2a95042e99",
-        "source": "Secondaries Investor"
-      },
-      {
         "text": "Side Letter: Sector selectors",
         "refId": "931f5fbf2662",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Investor Intentions: Quincy Retirement System issues RFP for private equity manager",
+        "refId": "caf39cb09b6c",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Off-duty: Corsair\u2019s Gunnar Overstrom on piscine cocktails, Steely Dan\u2019s Aja and the GFC\u2019s upside",
+        "refId": "f0881ce8d0e8",
+        "source": "Buyouts Insider"
       }
     ]
   },
@@ -113,9 +113,9 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Copper overtakes iron ore in annual profits at world\u2019s biggest miner",
-        "refId": "ad167cdacfe6",
-        "source": "Financial Times Markets"
+        "text": "The Next Stage Of Macro Trading",
+        "refId": "ccfe41ee84e2",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China\u2019s Aerospace Industry Gains Altitude Slowly After Taking Flight",
-        "refId": "7e3a2d17a959",
+        "text": "\u2018Crying Wolf\u2019: Norway\u2019s Sovereign Wealth Fund CEO Issues Dire Warning After Record Profit",
+        "refId": "d5389452d4c0",
         "source": "The Daily Upside"
       },
       {
-        "text": "Big Box Earnings Preview: Walmart, Target Poised to Benefit From Value Shoppers",
-        "refId": "459882b2bb71",
+        "text": "Nestle\u2019s Protein-Packed Comeback Is AI-Tailored to GLP-1 Users",
+        "refId": "395156f1119c",
         "source": "The Daily Upside"
       },
       {
-        "text": "Janus Henderson\u2019s JAAA Just Topped $30B. What\u2019s Next For CLOs?",
-        "refId": "54aef022c728",
+        "text": "Peter Thiel Places Big Bets on Energy, Amazon in Revamped Portfolio",
+        "refId": "e06ccfe6ae99",
         "source": "The Daily Upside"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What I\u2019ve been reading",
-        "refId": "a3e4731c1f71",
+        "text": "Sam Altman: OpenAI's Best 12 Months Start Now",
+        "refId": "6f91e9997104",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "What should I ask Roman Mars?",
+        "refId": "5eae85b9f0a1",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Somalia facts of the day",
-        "refId": "e09ea84a449f",
+        "text": "Monday assorted links",
+        "refId": "22ade355eea7",
         "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
-        "refId": "8121e0510650",
-        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China\u2019s Aerospace Industry Gains Altitude Slowly After Taking Flight",
-        "refId": "7e3a2d17a959",
-        "source": "The Daily Upside"
+        "text": "Dragonfly Energy Partners with Sphere Energy to Develop Next-Generation AI-Enhanced Battery Technology",
+        "refId": "a80d5b366b96",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Big Box Earnings Preview: Walmart, Target Poised to Benefit From Value Shoppers",
-        "refId": "459882b2bb71",
-        "source": "The Daily Upside"
+        "text": "Stocks making the biggest moves premarket: Alibaba, Intel, Sandisk & more",
+        "refId": "f07c022ba375",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Janus Henderson\u2019s JAAA Just Topped $30B. What\u2019s Next For CLOs?",
-        "refId": "54aef022c728",
-        "source": "The Daily Upside"
+        "text": "Side Letter: Sector selectors",
+        "refId": "931f5fbf2662",
+        "source": "Private Equity International"
       }
     ]
   },
@@ -210,8 +210,8 @@
     },
     {
       "nm": "VIX",
-      "v": 15.84,
-      "base": 15.19,
+      "v": 15.76,
+      "base": 15.84,
       "bp": false
     },
     {
