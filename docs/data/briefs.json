@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Death Toll From Indiana Floods Up to 7 as Recovery Gets Underway",
-        "refId": "c4a49052bed5",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "People Moves: OneShield Appoints Becker SVP, New Products",
         "refId": "13187a21836d",
         "source": "Insurance Journal"
@@ -55,6 +50,11 @@
       {
         "text": "Russia Is Already Waging Hybrid War in Europe, Latvia Says",
         "refId": "a70e29d8443f",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Bird Remains Found in Engine After Ryanair Window Blowout",
+        "refId": "87f7474e3193",
         "source": "Insurance Journal"
       }
     ]
@@ -108,14 +108,14 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "ExxonMobil advances Mozambique gas project despite terrorist threat",
-        "refId": "86b1dd04ab12",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
         "refId": "f63411c19c5e",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Copper overtakes iron ore in annual profits at world\u2019s biggest miner",
+        "refId": "ad167cdacfe6",
+        "source": "Financial Times Markets"
       }
     ]
   },
