@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Dragonfly Energy Partners with Sphere Energy to Develop Next-Generation AI-Enhanced Battery Technology",
-        "refId": "a80d5b366b96",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Citi scoops up rewards fintech Kard",
+        "refId": "b3b8a1ed5177",
+        "source": "Banking Dive"
       },
       {
-        "text": "Stocks making the biggest moves premarket: Alibaba, Intel, Sandisk & more",
-        "refId": "f07c022ba375",
-        "source": "CNBC Finance"
+        "text": "NC lender to acquire Blue Ridge Bank for $448M",
+        "refId": "94d8dfe5d7a6",
+        "source": "Banking Dive"
       },
       {
-        "text": "STMicroelectronics announces status of common share repurchase program",
-        "refId": "11b62abc72c6",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "World Liberty nabs conditional OCC charter",
+        "refId": "6910b1aa69c0",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Trump Agencies to Set Crypto Policy as Bill Stalls, Limiting Industry\u2019s Gains",
-        "refId": "87d2f2b903bf",
+        "text": "People Moves: Lindberg Whistleblower Obusek to Retire After 30 Years With NCDOI",
+        "refId": "d04bfee35153",
         "source": "Insurance Journal"
       },
       {
-        "text": "People Moves: Aon CFO Reese Steps Down After 2 Years, Succeeded by Virana in Interim Role; Miller Bermuda Taps Gallagher\u2019s Vickers as Senior Director, Property",
-        "refId": "85a91e650912",
+        "text": "Climate Damage: The Next Hit to Europe\u2019s Public Finances",
+        "refId": "17fa38173a63",
         "source": "Insurance Journal"
       },
       {
-        "text": "Luigi Mangione\u2019s State Murder Trial Postponed Indefinitely",
-        "refId": "5263ea61d18d",
+        "text": "Death of Irish Teens in Crash Prompts Social Media Warning",
+        "refId": "eaae4245a000",
         "source": "Insurance Journal"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Side Letter: Sector selectors",
-        "refId": "931f5fbf2662",
-        "source": "Private Equity International"
-      },
-      {
         "text": "Investor Intentions: Quincy Retirement System issues RFP for private equity manager",
         "refId": "caf39cb09b6c",
         "source": "Private Equity International"
@@ -96,17 +91,17 @@
         "text": "Off-duty: Corsair\u2019s Gunnar Overstrom on piscine cocktails, Steely Dan\u2019s Aja and the GFC\u2019s upside",
         "refId": "f0881ce8d0e8",
         "source": "Buyouts Insider"
+      },
+      {
+        "text": "Aussie superfund Hesta loses unlisted assets head",
+        "refId": "ed5522608d54",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Mark Cuban and Other Founders Wade Into Wealth Tax Debate",
-        "refId": "f4892ca535b0",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
         "refId": "f63411c19c5e",
@@ -116,6 +111,11 @@
         "text": "The Next Stage Of Macro Trading",
         "refId": "ccfe41ee84e2",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "Is Silicon Valley in the Justice Dept.\u2019s Sights?",
+        "refId": "0294778d27fc",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Dragonfly Energy Partners with Sphere Energy to Develop Next-Generation AI-Enhanced Battery Technology",
-        "refId": "a80d5b366b96",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "Stocks making the biggest moves premarket: Alibaba, Intel, Sandisk & more",
-        "refId": "f07c022ba375",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Side Letter: Sector selectors",
-        "refId": "931f5fbf2662",
+        "text": "Investor Intentions: Quincy Retirement System issues RFP for private equity manager",
+        "refId": "caf39cb09b6c",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Chief Economist's Weekly Watch \u2013 August 17 2026: Retailer Earnings, Multifamily Construction, & FOMC Minutes",
+        "refId": "65515966ef27",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Sam Altman: OpenAI's Best 12 Months Start Now",
+        "refId": "6f91e9997104",
+        "source": "The AI Corner (Ruben Dominguez)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7691.76,
-      "base": 7785.76,
+      "v": 7719.82,
+      "base": 7745.06,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26289.71,
-      "base": 26729.16,
+      "v": 26349.863,
+      "base": 26644.91,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53343.4,
-      "base": 53732.41,
+      "v": 53447.82,
+      "base": 53459.78,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.706,
-      "base": 4.724,
+      "v": 4.641,
+      "base": 4.706,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.76,
+      "v": 15.15,
       "base": 15.84,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 192.2718,
-      "base": 193.91,
+      "v": 191.0424,
+      "base": 192.97,
       "bp": false
     }
   ]
