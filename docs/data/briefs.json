@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Prediction market traders see roughly 1-in-4 odds Paramount\u2019s bid to buy Warner Bros. Discovery fails",
-        "refId": "dad8015b76d4",
+        "text": "Himax WiseEye Palm Vein Biometric Authentication Technology Powers WAFERLOCK L322 Smart Lock",
+        "refId": "b42366db69bc",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",
+        "refId": "9fe8638e8458",
         "source": "CNBC Finance"
       },
       {
-        "text": "Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout",
-        "refId": "51761833dad6",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Stocks making the biggest moves midday: EyePoint, Intuitive Machines, Workday, JetBlue & more",
-        "refId": "c82ee4360751",
-        "source": "CNBC Finance"
+        "text": "Old Glory Bank, SPAC scrap merger plans",
+        "refId": "f19ff60ed7bc",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Trust, Not Capital, Limits ETF Growth",
-        "refId": "5a5c95f0b9d7",
+        "text": "People Moves: Carson Hires Recruiter from Osaic for Indie Channel",
+        "refId": "79ab8b856841",
         "source": "Wealth Management"
       },
       {
-        "text": "Specialty Structure Funds Gain Momentum Amid Evergreen Adoption",
-        "refId": "f2f572e6f34c",
+        "text": "MAI's Post-Carlyle Deal Spree Continues, Adding Two Firms with Combined $1B+ AUM",
+        "refId": "3e133f89ac5c",
         "source": "Wealth Management"
       },
       {
-        "text": "13 Investment Must Reads for This Week (Aug. 18, 2026)",
-        "refId": "ffb54b9896f1",
+        "text": "Invesco Revamps, Expands Platform for Custom Strategies",
+        "refId": "fcaf5a7d0a83",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Office Loan LTVs Recover From 2023 Lows, Remain Below 2019 Levels",
-        "refId": "dd68e302633d",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Stripe agrees $7bn takeover of AI firm OpenRouter - Bloomberg",
         "refId": "646645ae6c4d",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "Would I lie to you? ANZ warns of troubling \u2018scam-coaching\u2019 trend",
         "refId": "0bb6485d5fea",
+        "source": "Finextra"
+      },
+      {
+        "text": "Lloyds customers suffer online and mobile outage",
+        "refId": "301148d3001e",
         "source": "Finextra"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Monday assorted links",
-        "refId": "22ade355eea7",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "How economics is changing",
         "refId": "2c87db47efcc",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Morocco facts of the day, Morocco is not hopeless",
         "refId": "a59c39724dbb",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Where to eat in San Francisco",
+        "refId": "e8397e1d144e",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Prediction market traders see roughly 1-in-4 odds Paramount\u2019s bid to buy Warner Bros. Discovery fails",
-        "refId": "dad8015b76d4",
-        "source": "CNBC Finance"
+        "text": "Off-duty: Corsair\u2019s Gunnar Overstrom on piscine cocktails, Steely Dan\u2019s Aja and the GFC\u2019s upside",
+        "refId": "f0881ce8d0e8",
+        "source": "Buyouts Insider"
       },
       {
-        "text": "Stanley Druckenmiller loaded up on Amazon and chip stocks before July rout",
-        "refId": "51761833dad6",
-        "source": "CNBC Finance"
+        "text": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
+        "refId": "f63411c19c5e",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Monday assorted links",
-        "refId": "22ade355eea7",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "\u2018Crying Wolf\u2019: Norway\u2019s Sovereign Wealth Fund CEO Issues Dire Warning After Record Profit",
+        "refId": "d5389452d4c0",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7717.12,
+      "v": 7717.47,
       "base": 7745.06,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26338.637,
+      "v": 26354.637,
       "base": 26644.91,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53454.77,
+      "v": 53458.36,
       "base": 53459.78,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.664,
+      "v": 4.653,
       "base": 4.706,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.19,
+      "v": 14.99,
       "base": 15.84,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 189.0337,
+      "v": 187.445,
       "base": 192.97,
       "bp": false
     }
