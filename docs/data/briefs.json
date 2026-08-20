@@ -23,19 +23,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ex-Morgan Stanley Advisor Alleges Firm 'Circled The Wagons' After Misconduct Claims",
-        "refId": "ae0ae1f9ed29",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Kestra Financial Hires Wealth Management Head from BlackRock",
-        "refId": "b16677c8f083",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Salim Ramji (strategically) bends to the will of RIAs by allowing them latitude to remodel Vanguard model portfolios and let three favorite RIA partners -- Orion, Black Diamond and Vestmark \u2014 get a cut of the action",
         "refId": "7344688989be",
         "source": "RIABiz"
+      },
+      {
+        "text": "The Healthy Advisor: Living Authentically After Transitioning with Max Kulyk",
+        "refId": "7cab4dcd7b66",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Help Clients Plan Who Inherits Their Vacation Home",
+        "refId": "a2f95b5dfbae",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Report Shows Growing Silicosis Epidemic Among Quartz Countertop Workers",
-        "refId": "1dd54ecd0b1a",
+        "text": "Progressive Boosts Exposure With Football Field Logos at 13 Universities",
+        "refId": "597de5892c39",
         "source": "Insurance Journal"
       },
       {
-        "text": "CIAB Survey: Overall Soft Market Conditions Continue in Q2",
-        "refId": "9b0c0af72ff4",
+        "text": "People Moves: Rhyner to Lead AXIS\u2019 N.A. Financial Lines, Programs",
+        "refId": "dfd89e61b3cd",
         "source": "Insurance Journal"
       },
       {
-        "text": "North Carolina Banned Litigation Funding but Other States Not Following Suit",
-        "refId": "2a04374827a1",
+        "text": "The Modern Insurance Agency Management System: Essential Features for Growth",
+        "refId": "a2b02fdf495b",
         "source": "Insurance Journal"
       }
     ]
@@ -73,8 +73,8 @@
         "source": "Finextra"
       },
       {
-        "text": "Stablecoins offer little cost or speed advantage for remittances - Banca d'Italia",
-        "refId": "7a42b2074c5d",
+        "text": "How investors can find genuine asset class parity with nature-based solutions",
+        "refId": "0b4e9be7b90c",
         "source": "Finextra"
       }
     ]
@@ -82,11 +82,6 @@
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Ardian\u2019s Mark Benedetti: Infra secondaries a mispricing bright spot within private markets",
-        "refId": "38581113d095",
-        "source": "Secondaries Investor"
-      },
       {
         "text": "UBS taps DC Advisory for director hire in latest boost to EMEA advisory",
         "refId": "cfd86a6b3c46",
@@ -96,6 +91,11 @@
         "text": "Francisco Partners\u2019 DJ Deb: \u2018Exits will come back, but it may take a little time\u2019",
         "refId": "b4c04a4a648b",
         "source": "Buyouts Insider"
+      },
+      {
+        "text": "MassPRIM targets smaller buyouts amid PE underperformance",
+        "refId": "6df7381f9c96",
+        "source": "Private Equity International"
       }
     ]
   },
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ardian\u2019s Mark Benedetti: Infra secondaries a mispricing bright spot within private markets",
-        "refId": "38581113d095",
-        "source": "Secondaries Investor"
-      },
-      {
         "text": "Old Glory Bank, SPAC scrap merger plans",
         "refId": "f19ff60ed7bc",
         "source": "Banking Dive"
@@ -180,43 +175,48 @@
         "text": "Tuesday assorted links",
         "refId": "7bcfc62ffa67",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Lawmakers counter World Liberty approval with anti-corruption bill",
+        "refId": "3e57264ad690",
+        "source": "Banking Dive"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7689.65,
+      "v": 7682.1,
       "base": 7691.76,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26239.123,
+      "v": 26112.1,
       "base": 26289.71,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53097.18,
+      "v": 53107.89,
       "base": 53343.4,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.7,
+      "v": 4.692,
       "base": 4.653,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.92,
+      "v": 15.76,
       "base": 14.89,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.579,
+      "v": 186.755,
       "base": 192.27,
       "bp": false
     }
