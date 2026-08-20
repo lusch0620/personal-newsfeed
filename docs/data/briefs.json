@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves after hours: Toll Brothers, Keysight Technologies, La-Z-Boy & more",
-        "refId": "bc5170ddd116",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Lakers governor Jeanie Buss says siblings cannot sell family\u2019s stake to Bob Iger, Joshua Kushner",
         "refId": "e12b16441fc3",
         "source": "CNBC Finance"
@@ -15,6 +10,11 @@
       {
         "text": "What Chinese liquor maker Moutai's slump says about the country's economy",
         "refId": "ff71ad1d5d76",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Goldman studied where AI is squeezing labor markets. Here's what it found",
+        "refId": "8f9198631d02",
         "source": "CNBC Finance"
       }
     ]
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Mark Walter Is an Owner Sports Leagues Covet. But There\u2019s a Catch",
-        "refId": "dad0f08a94ed",
+        "text": "$1.5B RIA Platform Brookwood Hires Four Executives in Partnership Model",
+        "refId": "d1e8396ee0b5",
         "source": "Wealth Management"
       },
       {
-        "text": "$1.5B RIA Platform Brookwood Hires Four Executives in Partnership Model",
-        "refId": "d1e8396ee0b5",
+        "text": "Best of the Best 2026",
+        "refId": "38450da10adb",
         "source": "Wealth Management"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Francisco Partners\u2019 DJ Deb: \u2018Exits will come back, but it may take a little time\u2019",
-        "refId": "b4c04a4a648b",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "MassPRIM targets smaller buyouts amid PE underperformance",
         "refId": "6df7381f9c96",
         "source": "Private Equity International"
@@ -96,17 +91,17 @@
         "text": "Side Letter: SAA it ain\u2019t so",
         "refId": "c973b4bd3536",
         "source": "Private Equity International"
+      },
+      {
+        "text": "ICG backs Onex\u2019s Ryan again in CV-on-CV process",
+        "refId": "3b4227a69f99",
+        "source": "Secondaries Investor"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "A note on the equity risk premium with help from TKer's newsletter archive \ud83d\udd0d",
-        "refId": "5bbe67cd0eef",
-        "source": "TKer (Sam Ro)"
-      },
       {
         "text": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
         "refId": "2f2ef9ce2883",
@@ -116,6 +111,11 @@
         "text": "AI, Productivity, and Rates: Part 2",
         "refId": "9069b20234bb",
         "source": "The Overshoot (Matthew Klein)"
+      },
+      {
+        "text": "Equity Positioning Is Setting Up The Next Move In Stocks",
+        "refId": "d27cbd41acc3",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "A note on the equity risk premium with help from TKer's newsletter archive \ud83d\udd0d",
-        "refId": "5bbe67cd0eef",
-        "source": "TKer (Sam Ro)"
-      },
-      {
-        "text": "Francisco Partners\u2019 DJ Deb: \u2018Exits will come back, but it may take a little time\u2019",
-        "refId": "b4c04a4a648b",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "Stocks making the biggest moves after hours: Toll Brothers, Keysight Technologies, La-Z-Boy & more",
-        "refId": "bc5170ddd116",
+        "text": "Lakers governor Jeanie Buss says siblings cannot sell family\u2019s stake to Bob Iger, Joshua Kushner",
+        "refId": "e12b16441fc3",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
+        "refId": "2f2ef9ce2883",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "AI, Productivity, and Rates: Part 2",
+        "refId": "9069b20234bb",
+        "source": "The Overshoot (Matthew Klein)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7653.98,
+      "v": 7641.16,
       "base": 7691.76,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26078.916,
+      "v": 26067.166,
       "base": 26289.71,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52838.75,
+      "v": 52759.21,
       "base": 53343.4,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 16.09,
+      "v": 16.01,
       "base": 14.89,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 185.033,
+      "v": 184.147,
       "base": 192.27,
       "bp": false
     }
