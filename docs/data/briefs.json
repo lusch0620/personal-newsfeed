@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",
-        "refId": "9fe8638e8458",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Old Glory Bank, SPAC scrap merger plans",
         "refId": "f19ff60ed7bc",
         "source": "Banking Dive"
@@ -16,17 +11,17 @@
         "text": "Lawmakers counter World Liberty approval with anti-corruption bill",
         "refId": "3e57264ad690",
         "source": "Banking Dive"
+      },
+      {
+        "text": "Goldman Sachs to buy real estate investment firm for $410M",
+        "refId": "d294ec612776",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "SEC Unveils Crypto Plan as Agency Moves Ahead on Digital Assets",
-        "refId": "411fad482f3f",
-        "source": "Wealth Management"
-      },
       {
         "text": "Ex-Morgan Stanley Advisor Alleges Firm 'Circled The Wagons' After Misconduct Claims",
         "refId": "ae0ae1f9ed29",
@@ -36,6 +31,11 @@
         "text": "Kestra Financial Hires Wealth Management Head from BlackRock",
         "refId": "b16677c8f083",
         "source": "Wealth Management"
+      },
+      {
+        "text": "Salim Ramji (strategically) bends to the will of RIAs by allowing them latitude to remodel Vanguard model portfolios and let three favorite RIA partners -- Orion, Black Diamond and Vestmark \u2014 get a cut of the action",
+        "refId": "7344688989be",
+        "source": "RIABiz"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Burst of New Solar Power Makes Midwest Grid the Biggest in US",
-        "refId": "54181967af3a",
+        "text": "Report Shows Growing Silicosis Epidemic Among Quartz Countertop Workers",
+        "refId": "1dd54ecd0b1a",
         "source": "Insurance Journal"
       },
       {
-        "text": "Amazon to Expand Drone Deliveries to Suburban Chicago, Atlanta",
-        "refId": "81045fa1be29",
+        "text": "CIAB Survey: Overall Soft Market Conditions Continue in Q2",
+        "refId": "9b0c0af72ff4",
         "source": "Insurance Journal"
       },
       {
-        "text": "Texas to Audit Data Center Projects",
-        "refId": "24f6b3179f41",
+        "text": "North Carolina Banned Litigation Funding but Other States Not Following Suit",
+        "refId": "2a04374827a1",
         "source": "Insurance Journal"
       }
     ]
@@ -68,13 +68,13 @@
         "source": "Trepp Talk"
       },
       {
-        "text": "Noggin HQ raises \u00a32.3m and secures credit referencing authorisation",
-        "refId": "4488e69941e7",
+        "text": "Westpac to reshape software engineering with Amp Frontier Corporation",
+        "refId": "48b5b5840f1d",
         "source": "Finextra"
       },
       {
-        "text": "Westpac to reshape software engineering with Amp Frontier Corporation",
-        "refId": "48b5b5840f1d",
+        "text": "Stablecoins offer little cost or speed advantage for remittances - Banca d'Italia",
+        "refId": "7a42b2074c5d",
         "source": "Finextra"
       }
     ]
@@ -83,30 +83,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Investor Intentions: SEMA seeks domestic blind-pool PE/VC funds for 2026",
-        "refId": "80d6c34b716c",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Hollyport backs Viking Growth\u2019s \u20ac160m CV for Talentech",
-        "refId": "1064fd3c21e9",
-        "source": "Secondaries Investor"
-      },
-      {
         "text": "Ardian\u2019s Mark Benedetti: Infra secondaries a mispricing bright spot within private markets",
         "refId": "38581113d095",
         "source": "Secondaries Investor"
+      },
+      {
+        "text": "UBS taps DC Advisory for director hire in latest boost to EMEA advisory",
+        "refId": "cfd86a6b3c46",
+        "source": "Secondaries Investor"
+      },
+      {
+        "text": "Francisco Partners\u2019 DJ Deb: \u2018Exits will come back, but it may take a little time\u2019",
+        "refId": "b4c04a4a648b",
+        "source": "Buyouts Insider"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Is Silicon Valley in the Justice Dept.\u2019s Sights?",
-        "refId": "0294778d27fc",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "A note on the equity risk premium with help from TKer's newsletter archive \ud83d\udd0d",
         "refId": "5bbe67cd0eef",
@@ -116,6 +111,11 @@
         "text": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
         "refId": "2f2ef9ce2883",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "AI, Productivity, and Rates: Part 2",
+        "refId": "9069b20234bb",
+        "source": "The Overshoot (Matthew Klein)"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "38x in Ten Months: Inside One of Fintech\u2019s Fastest-Growing Infrastructure Companies (Farooq Malik, CEO of Rain)",
-        "refId": "45178d365356",
-        "source": "The Generalist (Mario Gabriele)"
-      },
-      {
         "text": "Tuesday assorted links",
         "refId": "7bcfc62ffa67",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Some fertility and AI forecasts",
         "refId": "7ca278aefd23",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Capitalizing untethered AI agents",
+        "refId": "9e3d243ad750",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",
-        "refId": "9fe8638e8458",
-        "source": "CNBC Finance"
+        "text": "Ardian\u2019s Mark Benedetti: Infra secondaries a mispricing bright spot within private markets",
+        "refId": "38581113d095",
+        "source": "Secondaries Investor"
       },
       {
-        "text": "38x in Ten Months: Inside One of Fintech\u2019s Fastest-Growing Infrastructure Companies (Farooq Malik, CEO of Rain)",
-        "refId": "45178d365356",
-        "source": "The Generalist (Mario Gabriele)"
+        "text": "Old Glory Bank, SPAC scrap merger plans",
+        "refId": "f19ff60ed7bc",
+        "source": "Banking Dive"
       },
       {
-        "text": "Investor Intentions: SEMA seeks domestic blind-pool PE/VC funds for 2026",
-        "refId": "80d6c34b716c",
-        "source": "Private Equity International"
+        "text": "Tuesday assorted links",
+        "refId": "7bcfc62ffa67",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7707.98,
-      "base": 7745.06,
+      "v": 7689.65,
+      "base": 7691.76,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26331.09,
-      "base": 26644.91,
+      "v": 26239.123,
+      "base": 26289.71,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53463.05,
-      "base": 53459.78,
+      "v": 53097.18,
+      "base": 53343.4,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.653,
-      "base": 4.706,
+      "v": 4.7,
+      "base": 4.653,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.14,
+      "v": 15.92,
       "base": 14.89,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.646,
-      "base": 192.97,
+      "v": 186.579,
+      "base": 192.27,
       "bp": false
     }
   ]
