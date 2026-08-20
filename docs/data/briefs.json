@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Himax WiseEye Palm Vein Biometric Authentication Technology Powers WAFERLOCK L322 Smart Lock",
-        "refId": "b42366db69bc",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
         "text": "Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",
         "refId": "9fe8638e8458",
         "source": "CNBC Finance"
@@ -15,6 +10,11 @@
       {
         "text": "Old Glory Bank, SPAC scrap merger plans",
         "refId": "f19ff60ed7bc",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Lawmakers counter World Liberty approval with anti-corruption bill",
+        "refId": "3e57264ad690",
         "source": "Banking Dive"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Lockton appoints Jules Okai as Global Solutions Practice Leader for the US",
-        "refId": "525a69f3eaea",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Data Center Gas Plants to Boost US Power Emissions by 20%",
-        "refId": "fc65898fd867",
+        "text": "Burst of New Solar Power Makes Midwest Grid the Biggest in US",
+        "refId": "54181967af3a",
         "source": "Insurance Journal"
       },
       {
-        "text": "China\u2019s non-life insurance sector remains broadly stable in H1\u201926: Fitch",
-        "refId": "c6f82df9d4b4",
-        "source": "Reinsurance News"
+        "text": "Amazon to Expand Drone Deliveries to Suburban Chicago, Atlanta",
+        "refId": "81045fa1be29",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Texas to Audit Data Center Projects",
+        "refId": "24f6b3179f41",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Would I lie to you? ANZ warns of troubling \u2018scam-coaching\u2019 trend",
-        "refId": "0bb6485d5fea",
+        "text": "Why Multifamily Property Values Reset Even as Cash Flow Grew",
+        "refId": "569fb13f3423",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Noggin HQ raises \u00a32.3m and secures credit referencing authorisation",
+        "refId": "4488e69941e7",
         "source": "Finextra"
       },
       {
-        "text": "Lloyds customers suffer online and mobile outage",
-        "refId": "301148d3001e",
-        "source": "Finextra"
-      },
-      {
-        "text": "Visa and Mastercard back new Agentic Payments Alliance",
-        "refId": "ca014ef27f8b",
+        "text": "Westpac to reshape software engineering with Amp Frontier Corporation",
+        "refId": "48b5b5840f1d",
         "source": "Finextra"
       }
     ]
@@ -83,30 +83,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Aussie superfund Hesta loses unlisted assets head",
-        "refId": "ed5522608d54",
+        "text": "Investor Intentions: SEMA seeks domestic blind-pool PE/VC funds for 2026",
+        "refId": "80d6c34b716c",
         "source": "Private Equity International"
       },
       {
-        "text": "Denmark\u2019s Novo Holdings seeks Asian managers in regional push",
-        "refId": "88b976b9323d",
-        "source": "Private Equity International"
+        "text": "Hollyport backs Viking Growth\u2019s \u20ac160m CV for Talentech",
+        "refId": "1064fd3c21e9",
+        "source": "Secondaries Investor"
       },
       {
-        "text": "Side Letter: Rare stakes",
-        "refId": "dc1572402736",
-        "source": "Private Equity International"
+        "text": "Ardian\u2019s Mark Benedetti: Infra secondaries a mispricing bright spot within private markets",
+        "refId": "38581113d095",
+        "source": "Secondaries Investor"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Next Stage Of Macro Trading",
-        "refId": "ccfe41ee84e2",
-        "source": "Capital Flows Research"
-      },
       {
         "text": "Is Silicon Valley in the Justice Dept.\u2019s Sights?",
         "refId": "0294778d27fc",
@@ -116,6 +111,11 @@
         "text": "A note on the equity risk premium with help from TKer's newsletter archive \ud83d\udd0d",
         "refId": "5bbe67cd0eef",
         "source": "TKer (Sam Ro)"
+      },
+      {
+        "text": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
+        "refId": "2f2ef9ce2883",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Nestle\u2019s Protein-Packed Comeback Is AI-Tailored to GLP-1 Users",
-        "refId": "395156f1119c",
+        "text": "Upvoted Into S&P 500, Is Reddit Getting Ratioed?",
+        "refId": "7d9f150aeb3d",
         "source": "The Daily Upside"
       },
       {
-        "text": "Peter Thiel Places Big Bets on Energy, Amazon in Revamped Portfolio",
-        "refId": "e06ccfe6ae99",
+        "text": "Goldman Targets Asset Management Growth With $410M Deal for \u2018Hands-Off\u2019 Real Estate Firm",
+        "refId": "0f5d8c949b85",
         "source": "The Daily Upside"
       },
       {
-        "text": "Sandisk Leads Memory Chip Rally as July Selloff Fades Into History",
-        "refId": "f387959ec875",
+        "text": "Bond Market Drives Long-Term Treasury Yields to 19-Year High, Shrugging Off Hesitant Fed",
+        "refId": "f20381126d93",
         "source": "The Daily Upside"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How economics is changing",
-        "refId": "2c87db47efcc",
+        "text": "38x in Ten Months: Inside One of Fintech\u2019s Fastest-Growing Infrastructure Companies (Farooq Malik, CEO of Rain)",
+        "refId": "45178d365356",
+        "source": "The Generalist (Mario Gabriele)"
+      },
+      {
+        "text": "Tuesday assorted links",
+        "refId": "7bcfc62ffa67",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Morocco facts of the day, Morocco is not hopeless",
-        "refId": "a59c39724dbb",
+        "text": "Some fertility and AI forecasts",
+        "refId": "7ca278aefd23",
         "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Where to eat in San Francisco",
-        "refId": "e8397e1d144e",
-        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Next Stage Of Macro Trading",
-        "refId": "ccfe41ee84e2",
-        "source": "Capital Flows Research"
+        "text": "Stocks making the biggest moves premarket: Home Depot, Tesla, Fabrinet, Duolingo & more",
+        "refId": "9fe8638e8458",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Aussie superfund Hesta loses unlisted assets head",
-        "refId": "ed5522608d54",
+        "text": "38x in Ten Months: Inside One of Fintech\u2019s Fastest-Growing Infrastructure Companies (Farooq Malik, CEO of Rain)",
+        "refId": "45178d365356",
+        "source": "The Generalist (Mario Gabriele)"
+      },
+      {
+        "text": "Investor Intentions: SEMA seeks domestic blind-pool PE/VC funds for 2026",
+        "refId": "80d6c34b716c",
         "source": "Private Equity International"
-      },
-      {
-        "text": "Nestle\u2019s Protein-Packed Comeback Is AI-Tailored to GLP-1 Users",
-        "refId": "395156f1119c",
-        "source": "The Daily Upside"
       }
     ]
   },
@@ -210,8 +210,8 @@
     },
     {
       "nm": "VIX",
-      "v": 14.89,
-      "base": 15.84,
+      "v": 15.14,
+      "base": 14.89,
       "bp": false
     },
     {
