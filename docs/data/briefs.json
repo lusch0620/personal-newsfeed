@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Lakers governor Jeanie Buss says siblings cannot sell family\u2019s stake to Bob Iger, Joshua Kushner",
-        "refId": "e12b16441fc3",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "What Chinese liquor maker Moutai's slump says about the country's economy",
         "refId": "ff71ad1d5d76",
         "source": "CNBC Finance"
@@ -15,6 +10,11 @@
       {
         "text": "Goldman studied where AI is squeezing labor markets. Here's what it found",
         "refId": "8f9198631d02",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
+        "refId": "a879c4c31592",
         "source": "CNBC Finance"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Westpac to reshape software engineering with Amp Frontier Corporation",
-        "refId": "48b5b5840f1d",
-        "source": "Finextra"
-      },
-      {
-        "text": "How investors can find genuine asset class parity with nature-based solutions",
-        "refId": "0b4e9be7b90c",
-        "source": "Finextra"
-      },
-      {
         "text": "Klarna shares dip on revised guidance",
         "refId": "cb1ed64618af",
+        "source": "Finextra"
+      },
+      {
+        "text": "HSBC and Standard Chartered execute first live transaction on Swift's blockchain-based ledger",
+        "refId": "68b089f18533",
+        "source": "Finextra"
+      },
+      {
+        "text": "Monzo deploys backup bank in face of outage",
+        "refId": "30d9b6f62c61",
         "source": "Finextra"
       }
     ]
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
-        "refId": "2f2ef9ce2883",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "AI, Productivity, and Rates: Part 2",
         "refId": "9069b20234bb",
         "source": "The Overshoot (Matthew Klein)"
@@ -116,6 +111,11 @@
         "text": "Equity Positioning Is Setting Up The Next Move In Stocks",
         "refId": "d27cbd41acc3",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "The Rising Stakes of the Global Bond Rout",
+        "refId": "f52bbcc52cb8",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Lakers governor Jeanie Buss says siblings cannot sell family\u2019s stake to Bob Iger, Joshua Kushner",
-        "refId": "e12b16441fc3",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
-        "refId": "2f2ef9ce2883",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "AI, Productivity, and Rates: Part 2",
         "refId": "9069b20234bb",
         "source": "The Overshoot (Matthew Klein)"
+      },
+      {
+        "text": "What Chinese liquor maker Moutai's slump says about the country's economy",
+        "refId": "ff71ad1d5d76",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Equity Positioning Is Setting Up The Next Move In Stocks",
+        "refId": "d27cbd41acc3",
+        "source": "Capital Flows Research"
       }
     ]
   },
