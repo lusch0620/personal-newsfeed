@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Focused on the Future: How Advisors Can Better Serve Underserved Communities with Louis Barajas",
-        "refId": "d546290313ee",
+        "text": "Mark Walter Is an Owner Sports Leagues Covet. But There\u2019s a Catch",
+        "refId": "dad0f08a94ed",
         "source": "Wealth Management"
       },
       {
-        "text": "Stone Point, Genstar Take Joint Ownership of $1.3T Workplace Savings Provider Ascensus",
-        "refId": "a879bee8fc43",
+        "text": "$1.5B RIA Platform Brookwood Hires Four Executives in Partnership Model",
+        "refId": "d1e8396ee0b5",
         "source": "Wealth Management"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Some fertility and AI forecasts",
-        "refId": "7ca278aefd23",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Capitalizing untethered AI agents",
         "refId": "9e3d243ad750",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,17 +155,17 @@
         "text": "Apple Settles With E.U., U.S. App Store Fees, ATT Rules in Germany",
         "refId": "5f968fcc1598",
         "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "How much can you consistently care about animal welfare?",
+        "refId": "33d90064c39f",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Some fertility and AI forecasts",
-        "refId": "7ca278aefd23",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "A note on the equity risk premium with help from TKer's newsletter archive \ud83d\udd0d",
         "refId": "5bbe67cd0eef",
@@ -180,43 +175,48 @@
         "text": "Francisco Partners\u2019 DJ Deb: \u2018Exits will come back, but it may take a little time\u2019",
         "refId": "b4c04a4a648b",
         "source": "Buyouts Insider"
+      },
+      {
+        "text": "Stocks making the biggest moves after hours: Toll Brothers, Keysight Technologies, La-Z-Boy & more",
+        "refId": "bc5170ddd116",
+        "source": "CNBC Finance"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7666.55,
+      "v": 7653.98,
       "base": 7691.76,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26085.166,
+      "v": 26078.916,
       "base": 26289.71,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52963.39,
+      "v": 52838.75,
       "base": 53343.4,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.698,
+      "v": 4.696,
       "base": 4.653,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.64,
+      "v": 16.09,
       "base": 14.89,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.091,
+      "v": 185.033,
       "base": 192.27,
       "bp": false
     }
