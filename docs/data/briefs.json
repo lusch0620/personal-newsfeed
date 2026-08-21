@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Minutes of the Federal Open Market Committee, July 28\u201329, 2026",
-        "refId": "fea2bf2e81f0",
-        "source": "Federal Reserve Press Releases"
+        "text": "AMD Appoints Tim Ryan to Board of Directors",
+        "refId": "6554301e416d",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Klarna CFO, CMO to leave early next year",
-        "refId": "012ca27377e7",
-        "source": "Banking Dive"
+        "text": "STMicroelectronics publishes its IFRS 2026 Semi Annual Accounts",
+        "refId": "5814a2d950fa",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-        "refId": "e5c6f566e938",
-        "source": "CNBC Finance"
+        "text": "STMicroelectronics publie son rapport financier IFRS pour le premier semestre 2026",
+        "refId": "b182b7bc285e",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "WealthStack Roundup: Organic Growth Platform VastAdvisor Closes $1M Funding Round",
-        "refId": "10a2459c9c81",
+        "text": "Tax Law Update: September 2026",
+        "refId": "cb41f49b3e32",
         "source": "Wealth Management"
       },
       {
-        "text": "Twelve Reminders for Clients with DAF Accounts",
-        "refId": "5b723d10b055",
+        "text": "What\u2019s Next for Older Americans?",
+        "refId": "6d16c6022656",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How Acquisition & Refinance Underwriting Diverged in the 2021-2022 CMBS Vintages",
-        "refId": "b3338a113178",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Revolut applies for banking licence in Finland",
         "refId": "728a8880613f",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "EIB launches fintech fund in Poland",
         "refId": "ab639125f5fa",
+        "source": "Finextra"
+      },
+      {
+        "text": "Prosus invests $100m in Indian fintech Navi",
+        "refId": "619270a0658d",
         "source": "Finextra"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Declining Occupations and Career Outcomes in the United States",
-        "refId": "e388dd4cacb9",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Economists should be worried about birth rates",
         "refId": "c8a1e6f40ef8",
         "source": "Noahpinion (Noah Smith)"
@@ -160,6 +155,11 @@
         "text": "My excellent Conversation with Luke Burgis",
         "refId": "3755021a0e0a",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Did UBI make people happier?",
+        "refId": "486056eb8aa3",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Minutes of the Federal Open Market Committee, July 28\u201329, 2026",
-        "refId": "fea2bf2e81f0",
-        "source": "Federal Reserve Press Releases"
+        "text": "AMD Appoints Tim Ryan to Board of Directors",
+        "refId": "6554301e416d",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Klarna CFO, CMO to leave early next year",
-        "refId": "012ca27377e7",
-        "source": "Banking Dive"
+        "text": "STMicroelectronics publishes its IFRS 2026 Semi Annual Accounts",
+        "refId": "5814a2d950fa",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "How Acquisition & Refinance Underwriting Diverged in the 2021-2022 CMBS Vintages",
-        "refId": "b3338a113178",
-        "source": "Trepp Talk"
+        "text": "STMicroelectronics publie son rapport financier IFRS pour le premier semestre 2026",
+        "refId": "b182b7bc285e",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -192,31 +192,31 @@
     },
     {
       "nm": "Nasdaq",
-      "v": 26199.129,
+      "v": 26182.857,
       "base": 26331.09,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53172.76,
+      "v": 53326.73,
       "base": 53463.05,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.734,
+      "v": 4.738,
       "base": 4.696,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.34,
+      "v": 15.26,
       "base": 16.01,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 184.9941,
+      "v": 186.0647,
       "base": 187.65,
       "bp": false
     }
