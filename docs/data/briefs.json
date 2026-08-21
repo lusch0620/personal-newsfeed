@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AMD Appoints Tim Ryan to Board of Directors",
-        "refId": "6554301e416d",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "China is defying the global bond yield surge, boosting its diversification appeal",
+        "refId": "2e4bd34a95c9",
+        "source": "CNBC Finance"
       },
       {
-        "text": "STMicroelectronics publishes its IFRS 2026 Semi Annual Accounts",
-        "refId": "5814a2d950fa",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Stripe, OpenRouter finally strike a deal",
+        "refId": "7fde7b608e31",
+        "source": "Banking Dive"
       },
       {
-        "text": "STMicroelectronics publie son rapport financier IFRS pour le premier semestre 2026",
-        "refId": "b182b7bc285e",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Stocks making the biggest moves premarket: Walmart, Coinbase, Moderna, Alibaba & more",
+        "refId": "4b8cd92a9512",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Tax Law Update: September 2026",
-        "refId": "cb41f49b3e32",
+        "text": "What\u2019s Next for Older Americans?",
+        "refId": "6d16c6022656",
         "source": "Wealth Management"
       },
       {
-        "text": "What\u2019s Next for Older Americans?",
-        "refId": "6d16c6022656",
+        "text": "Rescuing Unused Exemption With Upstream GPOA Planning",
+        "refId": "39e373c1bc03",
         "source": "Wealth Management"
       }
     ]
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AMD Appoints Tim Ryan to Board of Directors",
-        "refId": "6554301e416d",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "MassPRIM laments PE\u2019s stark underperformance for the year",
+        "refId": "163060e1cace",
+        "source": "Buyouts Insider"
       },
       {
-        "text": "STMicroelectronics publishes its IFRS 2026 Semi Annual Accounts",
-        "refId": "5814a2d950fa",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Economists should be worried about birth rates",
+        "refId": "c8a1e6f40ef8",
+        "source": "Noahpinion (Noah Smith)"
       },
       {
-        "text": "STMicroelectronics publie son rapport financier IFRS pour le premier semestre 2026",
-        "refId": "b182b7bc285e",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "China is defying the global bond yield surge, boosting its diversification appeal",
+        "refId": "2e4bd34a95c9",
+        "source": "CNBC Finance"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7679.57,
+      "v": 7674.37,
       "base": 7707.98,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26182.857,
+      "v": 26180.455,
       "base": 26331.09,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53326.73,
+      "v": 53277.01,
       "base": 53463.05,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 15.26,
+      "v": 15.13,
       "base": 16.01,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.0647,
+      "v": 185.9535,
       "base": 187.65,
       "bp": false
     }
