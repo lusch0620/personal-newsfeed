@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Veritex alum scouts for more Texas M&A",
-        "refId": "84223d0cc6d2",
-        "source": "Banking Dive"
-      },
-      {
         "text": "Stocks making the biggest moves midday: Moderna, Pilgrim's Pride, Target, gold miners & more",
         "refId": "a9feef6b5176",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "SEC proposes crypto rules amid Clarity stall",
         "refId": "9affd78c1dfb",
         "source": "Banking Dive"
+      },
+      {
+        "text": "Minutes of the Federal Open Market Committee, July 28\u201329, 2026",
+        "refId": "fea2bf2e81f0",
+        "source": "Federal Reserve Press Releases"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Advisor Sentiment Index: Advisors Remain Optimistic, For Now",
-        "refId": "34f39a9d948e",
+        "text": "Note From the Editor: September 2026",
+        "refId": "377ddb0e48d8",
         "source": "Wealth Management"
       },
       {
-        "text": "Pontera Adds Non-Discretionary Option for Advisors to Guide 401(k) Allocations",
-        "refId": "a15e0c4ea870",
+        "text": "The Diamond Podcast for Financial Advisors: Building Around the Advisor Experience with Shannon Spotswood",
+        "refId": "36d3c5537550",
         "source": "Wealth Management"
       },
       {
-        "text": "$6M 'Gift' Prompts Advisor Concern Over Forbes Rankings",
-        "refId": "262ef319cf09",
+        "text": "Advisor Wellness Matters",
+        "refId": "b03a71903017",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Romania Destroys Marine Drone Near Neptun Deep Gas Project: Minister",
-        "refId": "b15db7f43896",
+        "text": "West Texas Oil Producers Pushing Power Demand \u2018Through the Roof\u2019",
+        "refId": "da955d2fe4a6",
         "source": "Insurance Journal"
       },
       {
-        "text": "Four Patients Affected, One Paralyzed, After Drug Mix-up at Nashville Hospital",
-        "refId": "ed71a164c9f2",
+        "text": "Specialize Your Expertise: Alliance Programs for Construction, Restaurant, Workers Compensation, Cyber, and Environmental Risks",
+        "refId": "75a1968d4928",
         "source": "Insurance Journal"
       },
       {
-        "text": "Viewpoint: If AI Compute Is an Investable Asset, AI Agency Must Become Insurable",
-        "refId": "62d6000f3e2a",
+        "text": "Australia\u2019s Steadfast Agrees to $5.51B Buyout Bid by KKR-Backed Consortium",
+        "refId": "bded1013b57a",
         "source": "Insurance Journal"
       }
     ]
@@ -113,8 +113,8 @@
         "source": "Capital Flows Research"
       },
       {
-        "text": "Quant funds rocked as Treasury boosts buybacks and Moderna shares leap",
-        "refId": "8d28fc7804b1",
+        "text": "What is Bessent doing \u2014 and will it work?",
+        "refId": "04503ae6c686",
         "source": "Financial Times Markets"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How much can you consistently care about animal welfare?",
-        "refId": "33d90064c39f",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Why Most Self-Improving AI Loops Fail and How to Build One That Works",
-        "refId": "59f9598e74be",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Wednesday assorted links",
         "refId": "e8f7f93a551f",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Declining Occupations and Career Outcomes in the United States",
+        "refId": "e388dd4cacb9",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Economists should be worried about birth rates",
+        "refId": "c8a1e6f40ef8",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Veritex alum scouts for more Texas M&A",
-        "refId": "84223d0cc6d2",
-        "source": "Banking Dive"
+        "text": "Stocks making the biggest moves midday: Moderna, Pilgrim's Pride, Target, gold miners & more",
+        "refId": "a9feef6b5176",
+        "source": "CNBC Finance"
       },
       {
-        "text": "How much can you consistently care about animal welfare?",
-        "refId": "33d90064c39f",
+        "text": "Wednesday assorted links",
+        "refId": "e8f7f93a551f",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Why Most Self-Improving AI Loops Fail and How to Build One That Works",
-        "refId": "59f9598e74be",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "SEC proposes crypto rules amid Clarity stall",
+        "refId": "9affd78c1dfb",
+        "source": "Banking Dive"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7668.54,
+      "v": 7677.14,
       "base": 7707.98,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26111.84,
+      "v": 26165.863,
       "base": 26331.09,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53066.63,
+      "v": 53152.25,
       "base": 53463.05,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.712,
+      "v": 4.728,
       "base": 4.696,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.51,
+      "v": 15.36,
       "base": 16.01,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.0728,
+      "v": 185.1213,
       "base": 187.65,
       "bp": false
     }
