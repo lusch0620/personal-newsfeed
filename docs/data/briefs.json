@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China is defying the global bond yield surge, boosting its diversification appeal",
-        "refId": "2e4bd34a95c9",
-        "source": "CNBC Finance"
+        "text": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+        "refId": "447daef9d9de",
+        "source": "Federal Reserve Press Releases"
       },
       {
-        "text": "Stripe, OpenRouter finally strike a deal",
-        "refId": "7fde7b608e31",
+        "text": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+        "refId": "32c553684c59",
+        "source": "Federal Reserve Press Releases"
+      },
+      {
+        "text": "CAMELS commenters seek clarity on \u2018material financial risk\u2019",
+        "refId": "b73198138c76",
         "source": "Banking Dive"
-      },
-      {
-        "text": "Stocks making the biggest moves premarket: Walmart, Coinbase, Moderna, Alibaba & more",
-        "refId": "4b8cd92a9512",
-        "source": "CNBC Finance"
       }
     ]
   },
@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Former NFL QB Hasselbeck on Frontier: Diagnosing CTE Disease in the Living",
-        "refId": "7e1809965ba4",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Malaysian Re drives 76.3% of MNRB\u2019s profit after tax in Q1 FY\u201927",
         "refId": "ba1a08da4289",
         "source": "Reinsurance News"
@@ -56,6 +51,11 @@
         "text": "Rhode Spill: Summer Heat Turns Truckload of Spilled Squid Into Unappetizing Mess",
         "refId": "2037d166c9e8",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "Skyward Group sets out CFO succession plan ahead of Mark Haushill\u2019s retirement",
+        "refId": "e7fb0a54bbcf",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -63,19 +63,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Revolut applies for banking licence in Finland",
-        "refId": "728a8880613f",
+        "text": "Experian lets Brits check credit score within ChatGPT",
+        "refId": "7e5c9f11973d",
         "source": "Finextra"
       },
       {
-        "text": "EIB launches fintech fund in Poland",
-        "refId": "ab639125f5fa",
+        "text": "Binance unveils platform that lets AI agents make trades for users",
+        "refId": "df96ba552aac",
         "source": "Finextra"
       },
       {
-        "text": "Prosus invests $100m in Indian fintech Navi",
-        "refId": "619270a0658d",
-        "source": "Finextra"
+        "text": "Two Fifths of the Performing Office Loans With Sub-Breakeven DSCRs Are on Well-Occupied Buildings",
+        "refId": "174318b7ee60",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -83,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Korean LPs embrace PE secondaries, mid-market amid credit controversy",
-        "refId": "dca365097020",
+        "text": "The end of blind faith",
+        "refId": "68c756dd65d8",
         "source": "Private Equity International"
       },
       {
-        "text": "Side Letter: The value vintage?",
-        "refId": "5fc04a9b2e10",
-        "source": "Private Equity International"
+        "text": "OceanSound Partners-backed Certerra acquires Skyrise Engineering and Testing in Florida",
+        "refId": "bb8fd49ae518",
+        "source": "PE Hub"
       },
       {
-        "text": "Behind the $400m CFO formed by Churchill and Temasek\u2019s Seviora",
-        "refId": "c25175359bf0",
+        "text": "Secondaries builds the infrastructure",
+        "refId": "e38d58048d59",
         "source": "Secondaries Investor"
       }
     ]
@@ -113,29 +113,19 @@
         "source": "Capital Flows Research"
       },
       {
-        "text": "Japanese inflation rises as central bank weighs rate increase",
-        "refId": "e6aa80383c50",
-        "source": "Financial Times Markets"
+        "text": "Can Bessent\u2019s \u2018Big Tool Kit\u2019 Calm Bond Investors?",
+        "refId": "b8dcdabe9ac3",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "Newsletters": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Just How Useful Are Human-Looking Robots? Very, Unitree Robotics Investors Hope",
-        "refId": "c592a4d5881e",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Amazon Aims to Spread Drone Delivery Fleet Across America",
-        "refId": "546012c52b83",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Moderna Soars as Vaccine-Drug Combo Slows Recurrence of Melanoma",
-        "refId": "af1980f6c491",
-        "source": "The Daily Upside"
+        "text": "Great Scott",
+        "refId": "b86c53c58fc7",
+        "source": "Net Interest (Marc Rubinstein)"
       }
     ]
   },
@@ -147,18 +137,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Economists should be worried about birth rates",
-        "refId": "c8a1e6f40ef8",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "How to 8x Your Code Output Using Context Engineering",
+        "refId": "f9321e84f3a2",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "My excellent Conversation with Luke Burgis",
-        "refId": "3755021a0e0a",
+        "text": "Thursday assorted links",
+        "refId": "04adadc37d2e",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Did UBI make people happier?",
-        "refId": "486056eb8aa3",
+        "text": "Indian documentary covers EV winners",
+        "refId": "b8b7248dfa35",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -167,19 +157,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Economists should be worried about birth rates",
-        "refId": "c8a1e6f40ef8",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Did Bessent Put the Fed in a Bind?",
+        "refId": "f1abfbbd28d2",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "China is defying the global bond yield surge, boosting its diversification appeal",
-        "refId": "2e4bd34a95c9",
-        "source": "CNBC Finance"
+        "text": "Experian lets Brits check credit score within ChatGPT",
+        "refId": "7e5c9f11973d",
+        "source": "Finextra"
       },
       {
-        "text": "Korean LPs embrace PE secondaries, mid-market amid credit controversy",
-        "refId": "dca365097020",
-        "source": "Private Equity International"
+        "text": "How to 8x Your Code Output Using Context Engineering",
+        "refId": "f9321e84f3a2",
+        "source": "The AI Corner (Ruben Dominguez)"
       }
     ]
   },
