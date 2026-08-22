@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-        "refId": "73f47612eeaa",
-        "source": "Federal Reserve Press Releases"
-      },
-      {
-        "text": "Stocks making the biggest moves midday: Walmart, Deere, CrowdStrike, Moderna & more",
-        "refId": "dc44fd4b7b53",
+        "text": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target",
+        "refId": "4f30cbf7a309",
         "source": "CNBC Finance"
       },
       {
-        "text": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target",
-        "refId": "4f30cbf7a309",
+        "text": "Samsung plans up to $80 billion in shareholder returns after SK Hynix buyback",
+        "refId": "6aa3ca1da19d",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Chinese humanoid robots' biggest obstacle: Humans are still (mostly) better",
+        "refId": "13f9d36c7902",
         "source": "CNBC Finance"
       }
     ]
@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Charles Schwab & Co. took out full-page WSJ ad promising to 'hire thousands more financial consultants' last week; this week it said RIAs will no longer receive sub-$5-million referrals in 2027 -- an implied toll bridge collapses, says one analyst",
-        "refId": "fb03ef9a1ec3",
-        "source": "RIABiz"
-      },
-      {
         "text": "What\u2019s Next for Older Americans?",
         "refId": "6d16c6022656",
         "source": "Wealth Management"
@@ -35,6 +30,11 @@
       {
         "text": "Rescuing Unused Exemption With Upstream GPOA Planning",
         "refId": "39e373c1bc03",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Why Today's Private Credit Headlines Miss the Bigger Story",
+        "refId": "17b9873c8105",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Two Fifths of the Performing Office Loans With Sub-Breakeven DSCRs Are on Well-Occupied Buildings",
-        "refId": "174318b7ee60",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Visa partners _able and Onafriq to expand credit access in Africa",
         "refId": "22fd3d135912",
         "source": "Finextra"
@@ -76,6 +71,11 @@
         "text": "Global banks sign for Ant International AI forecasting model",
         "refId": "12118a83727a",
         "source": "Finextra"
+      },
+      {
+        "text": "FE fundinfo adds Irish tax modelling to Nexus for Financial Advisers",
+        "refId": "3aee3f214a8b",
+        "source": "Finextra"
       }
     ]
   },
@@ -83,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Vesey Street-backed Orthopaedic Solutions Management picks up Orlando Orthopaedic Center",
-        "refId": "43fec0633e98",
+        "text": "Phoenix Equity, Thoma Bravo among firms betting on Ireland; BNPP AM Prime featured in They Said It",
+        "refId": "418122b73309",
         "source": "PE Hub"
       },
       {
-        "text": "Huron Capital\u2019s Albireo Energy completes acquisition of Powers\u2019 regional divisions",
-        "refId": "5c23c2da536c",
-        "source": "PE Hub"
+        "text": "Charlesbank transitions leadership amid fundraise as CEO steps back",
+        "refId": "80112df787b0",
+        "source": "Buyouts Insider"
       },
       {
-        "text": "Battle Investment Group completes sale of TRS Services to Allied Power Group",
-        "refId": "1c9e325db93e",
+        "text": "PE backs specialty-focused healthcare RCM services: 8 deals",
+        "refId": "21a9b1a7e3ee",
         "source": "PE Hub"
       }
     ]
@@ -102,11 +102,6 @@
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "How Bessent Is Establishing A New Monetary Order",
-        "refId": "dd8213b0c55f",
-        "source": "Capital Flows Research"
-      },
       {
         "text": "Can Bessent\u2019s \u2018Big Tool Kit\u2019 Calm Bond Investors?",
         "refId": "b8dcdabe9ac3",
@@ -116,17 +111,17 @@
         "text": "Global Oil Data Deck (August 2026)",
         "refId": "b006d86e87cb",
         "source": "Commodity Context"
+      },
+      {
+        "text": "The bond scare and the balance of power",
+        "refId": "2e10d4220663",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The AI-Powered Income Planning Revolution Has Arrived",
-        "refId": "5a6f69bcc328",
-        "source": "The Daily Upside"
-      },
       {
         "text": "Deere Gets Rolling as AI Buildout Fuels Construction Sales Boom",
         "refId": "dd3a3e951715",
@@ -135,6 +130,11 @@
       {
         "text": "Bitcoin Bears Get Short-Squeezed by Rebounding Crypto Optimism",
         "refId": "41e0741a7d97",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "For Walmart Investors, Sagging Same-Store Sales Growth Overshadows Bottom-Line Beat",
+        "refId": "389f09614978",
         "source": "The Daily Upside"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Indian documentary covers EV winners",
-        "refId": "b8b7248dfa35",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "More evidence on the effects of recent tariffs",
         "refId": "229fb6780d46",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Green shoots for the UK?",
         "refId": "9822937425ed",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Rick Rubin podcasts with me",
+        "refId": "6b2d1219fac2",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Vesey Street-backed Orthopaedic Solutions Management picks up Orlando Orthopaedic Center",
-        "refId": "43fec0633e98",
-        "source": "PE Hub"
+        "text": "Visa partners _able and Onafriq to expand credit access in Africa",
+        "refId": "22fd3d135912",
+        "source": "Finextra"
       },
       {
-        "text": "Two Fifths of the Performing Office Loans With Sub-Breakeven DSCRs Are on Well-Occupied Buildings",
-        "refId": "174318b7ee60",
-        "source": "Trepp Talk"
+        "text": "Global banks sign for Ant International AI forecasting model",
+        "refId": "12118a83727a",
+        "source": "Finextra"
       },
       {
-        "text": "How Bessent Is Establishing A New Monetary Order",
-        "refId": "dd8213b0c55f",
-        "source": "Capital Flows Research"
+        "text": "Deere Gets Rolling as AI Buildout Fuels Construction Sales Boom",
+        "refId": "dd3a3e951715",
+        "source": "The Daily Upside"
       }
     ]
   },
