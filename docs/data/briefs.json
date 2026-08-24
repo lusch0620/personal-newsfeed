@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
-        "refId": "6549055a939e",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "STMicroelectronics and NUS launch Corporate Lab to power the future of Edge AI in Singapore",
         "refId": "5dfc40ee59f1",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -16,16 +11,26 @@
         "text": "STMicroelectronics et l'Universit\u00e9 nationale de Singapour (NUS) lancent un Corporate Lab pour le futur de l\u2019Edge AI \u00e0 Singapour",
         "refId": "525688bf4c0e",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+        "refId": "416346a0a0d3",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "1 story in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
         "text": "After dominating Forbes rankings for years, Morgan Stanley suspends participation over $6-million editor scandal -- forcing RIAs and wirehouses to weigh whether 'rented credibility' is worth regulatory and reputational risk",
         "refId": "72c3947198a7",
         "source": "RIABiz"
+      },
+      {
+        "text": "Foundations for Capturing Ideal Clients When Confidence Is Falling",
+        "refId": "c6856833a632",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -33,18 +38,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "After Alex Jones\u2019 $40M Texas Court Win, He Still Faces More Than $1B in Damages",
-        "refId": "42f97fed2d18",
+        "text": "People Moves: Causey Names Myers New Deputy Chief at NCDOI",
+        "refId": "77092ceb3e15",
         "source": "Insurance Journal"
       },
       {
-        "text": "California Cancels Talks With Paramount Over Warner Bros Merger, NYT Reports",
-        "refId": "73439238fa39",
+        "text": "TikTok Agrees to $400 Million Children\u2019s Privacy Settlement",
+        "refId": "485ff284a2e7",
         "source": "Insurance Journal"
       },
       {
-        "text": "People Moves: Alliant Adds Johnson as Northwest Employee Benefits Team VP",
-        "refId": "807dbf65d7b4",
+        "text": "Trump\u2019s Environmental Rollbacks Are Being Struck Down by Courts",
+        "refId": "4597c8fc53ee",
         "source": "Insurance Journal"
       }
     ]
@@ -137,18 +142,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Saturday assorted links",
-        "refId": "acd196a98442",
+        "text": "Has the European turnaround finally arrived?",
+        "refId": "c7b7b9378ff7",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Hassabis Bet His Job on AGI by 2030. Here Is What He Knows.",
-        "refId": "d198cfa0a84f",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "The new agentic O-ring world",
+        "refId": "96bbd2ee4a93",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Has the European turnaround finally arrived?",
-        "refId": "c7b7b9378ff7",
+        "text": "My recent visit to Anthropic",
+        "refId": "429736ffbc3b",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -157,56 +162,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Saturday assorted links",
-        "refId": "acd196a98442",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Hassabis Bet His Job on AGI by 2030. Here Is What He Knows.",
-        "refId": "d198cfa0a84f",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Has the European turnaround finally arrived?",
         "refId": "c7b7b9378ff7",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "After dominating Forbes rankings for years, Morgan Stanley suspends participation over $6-million editor scandal -- forcing RIAs and wirehouses to weigh whether 'rented credibility' is worth regulatory and reputational risk",
+        "refId": "72c3947198a7",
+        "source": "RIABiz"
+      },
+      {
+        "text": "Shein, a Fast-Fashion Giant, Struggles to Grow Ahead of a Much-Delayed IPO",
+        "refId": "070ed5191bca",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7646.48,
+      "v": 7655.73,
       "base": 7641.16,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25980.596,
+      "v": 26056.664,
       "base": 26067.17,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53381.13,
+      "v": 53434.0,
       "base": 52759.21,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.714,
+      "v": 4.698,
       "base": 4.738,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.85,
+      "v": 15.89,
       "base": 15.13,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.5153,
+      "v": 187.2783,
       "base": 184.15,
       "bp": false
     }
