@@ -30,39 +30,66 @@
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "1 story in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
       {
         "text": "Piracy Observer Says Somali Incidents Rising as Navies Stretched",
         "refId": "9918e24dd562",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "Judge Narrows Ben & Jerry\u2019s Suit Accusing Unilever of Silencing Social Activism",
+        "refId": "eef56bda20ef",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Cleanup Underway After Tornadoes Touch Down in Delaware and New York\u2019s Long Island",
+        "refId": "81142c7401a2",
+        "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "2 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Egypt's CIB scores preliminary approval for new digital bank",
+        "refId": "5ecc2fb972bd",
+        "source": "Finextra"
+      },
+      {
+        "text": "UK fintech funding hits lowest level in a decade",
+        "refId": "dc0f293bae1f",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "1 story in this lane today.",
+    "bullets": [
+      {
+        "text": "Why Australia\u2019s MLC is betting big on emerging managers",
+        "refId": "516b55af040b",
+        "source": "Private Equity International"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bitcoin and gold surge as Bessent\u2019s intervention in bond market hits dollar",
-        "refId": "5306f478316c",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "\u2018Betrayal\u2019: US ranchers lash out at Trump\u2019s plan to cut tax on beef imports",
-        "refId": "11bda22b47a2",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "How Germany\u2019s doctors, lawyers and dentists got burnt by private markets bets",
         "refId": "3d87382a0f8c",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "EU slips further behind US in race for critical minerals",
+        "refId": "a4140675f3e1",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Qatar cuts state spending at home and abroad as war shrinks economy",
+        "refId": "35313ac9ef86",
         "source": "Financial Times Markets"
       }
     ]
@@ -90,11 +117,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Are we watching the U.S. go bankrupt?",
-        "refId": "9450138e3d3c",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
         "text": "What should I ask Annie Lowrey?",
         "refId": "e1dc2d984ccd",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -103,6 +125,11 @@
         "text": "The End of Friday Nights with Friends",
         "refId": "15c98214b004",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Reading List 08/22/26",
+        "refId": "a0e855bea9fd",
+        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
@@ -110,19 +137,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bitcoin and gold surge as Bessent\u2019s intervention in bond market hits dollar",
-        "refId": "5306f478316c",
+        "text": "How Germany\u2019s doctors, lawyers and dentists got burnt by private markets bets",
+        "refId": "3d87382a0f8c",
         "source": "Financial Times Markets"
       },
       {
-        "text": "\u2018Betrayal\u2019: US ranchers lash out at Trump\u2019s plan to cut tax on beef imports",
-        "refId": "11bda22b47a2",
+        "text": "EU slips further behind US in race for critical minerals",
+        "refId": "a4140675f3e1",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Are we watching the U.S. go bankrupt?",
-        "refId": "9450138e3d3c",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Qatar cuts state spending at home and abroad as war shrinks economy",
+        "refId": "35313ac9ef86",
+        "source": "Financial Times Markets"
       }
     ]
   },
