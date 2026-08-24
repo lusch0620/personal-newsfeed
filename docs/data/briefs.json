@@ -33,18 +33,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Piracy Observer Says Somali Incidents Rising as Navies Stretched",
-        "refId": "9918e24dd562",
+        "text": "After Alex Jones\u2019 $40M Texas Court Win, He Still Faces More Than $1B in Damages",
+        "refId": "42f97fed2d18",
         "source": "Insurance Journal"
       },
       {
-        "text": "Judge Narrows Ben & Jerry\u2019s Suit Accusing Unilever of Silencing Social Activism",
-        "refId": "eef56bda20ef",
+        "text": "California Cancels Talks With Paramount Over Warner Bros Merger, NYT Reports",
+        "refId": "73439238fa39",
         "source": "Insurance Journal"
       },
       {
-        "text": "Cleanup Underway After Tornadoes Touch Down in Delaware and New York\u2019s Long Island",
-        "refId": "81142c7401a2",
+        "text": "People Moves: Alliant Adds Johnson as Northwest Employee Benefits Team VP",
+        "refId": "807dbf65d7b4",
         "source": "Insurance Journal"
       }
     ]
@@ -93,11 +93,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sign Up for DealBook",
-        "refId": "c7eece17793a",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Shein, a Fast-Fashion Giant, Struggles to Grow Ahead of a Much-Delayed IPO",
         "refId": "070ed5191bca",
         "source": "Dealbook (NYT)"
@@ -105,6 +100,11 @@
       {
         "text": "Paramount and California to Hold Preliminary Talks on Warner Bros. Deal",
         "refId": "78ef10f857be",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
+        "refId": "623a313cbf50",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -137,10 +137,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Reading List 08/22/26",
-        "refId": "a0e855bea9fd",
-        "source": "Construction Physics (Brian Potter)"
+        "text": "Saturday assorted links",
+        "refId": "acd196a98442",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
+      {
+        "text": "Hassabis Bet His Job on AGI by 2030. Here Is What He Knows.",
+        "refId": "d198cfa0a84f",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Has the European turnaround finally arrived?",
+        "refId": "c7b7b9378ff7",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
       {
         "text": "Saturday assorted links",
         "refId": "acd196a98442",
@@ -150,25 +165,10 @@
         "text": "Hassabis Bet His Job on AGI by 2030. Here Is What He Knows.",
         "refId": "d198cfa0a84f",
         "source": "The AI Corner (Ruben Dominguez)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Reading List 08/22/26",
-        "refId": "a0e855bea9fd",
-        "source": "Construction Physics (Brian Potter)"
       },
       {
-        "text": "Piracy Observer Says Somali Incidents Rising as Navies Stretched",
-        "refId": "9918e24dd562",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Saturday assorted links",
-        "refId": "acd196a98442",
+        "text": "Has the European turnaround finally arrived?",
+        "refId": "c7b7b9378ff7",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -176,38 +176,38 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7674.37,
-      "base": 7707.98,
+      "v": 7646.48,
+      "base": 7641.16,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26180.455,
-      "base": 26331.09,
+      "v": 25980.596,
+      "base": 26067.17,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53277.01,
-      "base": 53463.05,
+      "v": 53381.13,
+      "base": 52759.21,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.738,
-      "base": 4.696,
+      "v": 4.714,
+      "base": 4.738,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.01,
+      "v": 15.85,
       "base": 15.13,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 185.954,
-      "base": 187.65,
+      "v": 187.5153,
+      "base": 184.15,
       "bp": false
     }
   ]
