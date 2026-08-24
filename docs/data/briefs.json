@@ -23,9 +23,9 @@
     "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "After dominating Forbes rankings for years, Morgan Stanley suspends participation over $6-million editor scandal -- forcing RIAs and wirehouses to weigh whether 'rented credibility' is worth regulatory and reputational risk",
-        "refId": "72c3947198a7",
-        "source": "RIABiz"
+        "text": "Adjusted for Risk: Harnessing Market Volatility",
+        "refId": "0260491a68f4",
+        "source": "Wealth Management"
       },
       {
         "text": "Foundations for Capturing Ideal Clients When Confidence Is Falling",
@@ -38,19 +38,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "People Moves: Causey Names Myers New Deputy Chief at NCDOI",
-        "refId": "77092ceb3e15",
-        "source": "Insurance Journal"
+        "text": "AXA XL promotes Steven Lawrence to Head of Fine Art & Specie, UK & Lloyd\u2019s",
+        "refId": "c1f46bb5440b",
+        "source": "Reinsurance News"
       },
       {
-        "text": "TikTok Agrees to $400 Million Children\u2019s Privacy Settlement",
-        "refId": "485ff284a2e7",
-        "source": "Insurance Journal"
+        "text": "Martin Newman named MD, Energy Operations at Alliant Insurance Services",
+        "refId": "021f20b50e86",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Trump\u2019s Environmental Rollbacks Are Being Struck Down by Courts",
-        "refId": "4597c8fc53ee",
-        "source": "Insurance Journal"
+        "text": "AM Best revises AmericanAg\u2019s rating outlook to positive",
+        "refId": "32da5edea0ae",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -142,11 +142,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Has the European turnaround finally arrived?",
-        "refId": "c7b7b9378ff7",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "The new agentic O-ring world",
         "refId": "96bbd2ee4a93",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -155,6 +150,11 @@
         "text": "My recent visit to Anthropic",
         "refId": "429736ffbc3b",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Democracy and Caeserism",
+        "refId": "d7a7c7643a2b",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -162,18 +162,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Has the European turnaround finally arrived?",
-        "refId": "c7b7b9378ff7",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "After dominating Forbes rankings for years, Morgan Stanley suspends participation over $6-million editor scandal -- forcing RIAs and wirehouses to weigh whether 'rented credibility' is worth regulatory and reputational risk",
-        "refId": "72c3947198a7",
-        "source": "RIABiz"
-      },
-      {
         "text": "Shein, a Fast-Fashion Giant, Struggles to Grow Ahead of a Much-Delayed IPO",
         "refId": "070ed5191bca",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Paramount and California to Hold Preliminary Talks on Warner Bros. Deal",
+        "refId": "78ef10f857be",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
+        "refId": "623a313cbf50",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -181,37 +181,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7655.73,
+      "v": 7654.46,
       "base": 7641.16,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26056.664,
+      "v": 26035.098,
       "base": 26067.17,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53434.0,
+      "v": 53361.1,
       "base": 52759.21,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.698,
+      "v": 4.69,
       "base": 4.738,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.89,
+      "v": 15.64,
       "base": 15.13,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.2783,
+      "v": 186.4888,
       "base": 184.15,
       "bp": false
     }
