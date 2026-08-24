@@ -98,19 +98,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Shein, a Fast-Fashion Giant, Struggles to Grow Ahead of a Much-Delayed IPO",
-        "refId": "070ed5191bca",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Paramount and California to Hold Preliminary Talks on Warner Bros. Deal",
-        "refId": "78ef10f857be",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
         "refId": "623a313cbf50",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Coffee chain Blank Street raises funds from General Atlantic to fuel expansion",
+        "refId": "9711fc12f951",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "India\u2019s reliance on Russian oil hits all-time high",
+        "refId": "a2673437f5aa",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -162,56 +162,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Shein, a Fast-Fashion Giant, Struggles to Grow Ahead of a Much-Delayed IPO",
-        "refId": "070ed5191bca",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Paramount and California to Hold Preliminary Talks on Warner Bros. Deal",
-        "refId": "78ef10f857be",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
         "refId": "623a313cbf50",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Coffee chain Blank Street raises funds from General Atlantic to fuel expansion",
+        "refId": "9711fc12f951",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "India\u2019s reliance on Russian oil hits all-time high",
+        "refId": "a2673437f5aa",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7654.46,
+      "v": 7659.48,
       "base": 7641.16,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26035.098,
+      "v": 26035.574,
       "base": 26067.17,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53361.1,
+      "v": 53458.03,
       "base": 52759.21,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.69,
+      "v": 4.704,
       "base": 4.738,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.64,
+      "v": 15.78,
       "base": 15.13,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.4888,
+      "v": 187.1891,
       "base": 184.15,
       "bp": false
     }
