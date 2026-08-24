@@ -20,16 +20,21 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
+      {
+        "text": "AmeriFlex AI Recruiting Tool Aims to Identify RIAs Near Retirement",
+        "refId": "26d99018f702",
+        "source": "Wealth Management"
+      },
       {
         "text": "Adjusted for Risk: Harnessing Market Volatility",
         "refId": "0260491a68f4",
         "source": "Wealth Management"
       },
       {
-        "text": "Foundations for Capturing Ideal Clients When Confidence Is Falling",
-        "refId": "c6856833a632",
+        "text": "Small Businesses and Gig Workers are Redefining Workplace Savings",
+        "refId": "a3a0822650db",
         "source": "Wealth Management"
       }
     ]
@@ -98,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
-        "refId": "623a313cbf50",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Coffee chain Blank Street raises funds from General Atlantic to fuel expansion",
         "refId": "9711fc12f951",
         "source": "Financial Times Markets"
@@ -110,6 +110,11 @@
       {
         "text": "India\u2019s reliance on Russian oil hits all-time high",
         "refId": "a2673437f5aa",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "US buyers snap up Europe\u2019s asset managers at fastest rate in decades",
+        "refId": "9a2e1ff7c3b6",
         "source": "Financial Times Markets"
       }
     ]
@@ -162,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
-        "refId": "623a313cbf50",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Coffee chain Blank Street raises funds from General Atlantic to fuel expansion",
         "refId": "9711fc12f951",
         "source": "Financial Times Markets"
@@ -175,25 +175,30 @@
         "text": "India\u2019s reliance on Russian oil hits all-time high",
         "refId": "a2673437f5aa",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "Spiking Diesel Costs Drive Growing Number of American Family Farms to Bankrutpcy",
+        "refId": "4d8cbe4f5fb8",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7659.48,
+      "v": 7652.86,
       "base": 7641.16,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26035.574,
+      "v": 25980.191,
       "base": 26067.17,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53458.03,
+      "v": 53417.16,
       "base": 52759.21,
       "bp": false
     },
@@ -205,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 15.78,
+      "v": 15.85,
       "base": 15.13,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.1891,
+      "v": 186.9808,
       "base": 184.15,
       "bp": false
     }
