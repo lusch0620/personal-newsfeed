@@ -1,21 +1,21 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "3 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "No. 9/2026 - CeMat A/S raises its financial guidance for 2026",
-        "refId": "a78be5a282c9",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "Nr. 9/2026 - CeMat A/S opjusterer sine finansielle forventninger for 2026",
-        "refId": "ff3131e9bba7",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
       {
         "text": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
         "refId": "6549055a939e",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "STMicroelectronics and NUS launch Corporate Lab to power the future of Edge AI in Singapore",
+        "refId": "5dfc40ee59f1",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "STMicroelectronics et l'Universit\u00e9 nationale de Singapour (NUS) lancent un Corporate Lab pour le futur de l\u2019Edge AI \u00e0 Singapour",
+        "refId": "525688bf4c0e",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -30,7 +30,7 @@
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "3 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Piracy Observer Says Somali Incidents Rising as Navies Stretched",
@@ -50,7 +50,7 @@
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Egypt's CIB scores preliminary approval for new digital bank",
@@ -61,15 +61,30 @@
         "text": "UK fintech funding hits lowest level in a decade",
         "refId": "dc0f293bae1f",
         "source": "Finextra"
+      },
+      {
+        "text": "Responsible Fintech Institute debuts quantum pilot",
+        "refId": "3eebacc5b28a",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "1 story in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Why Australia\u2019s MLC is betting big on emerging managers",
         "refId": "516b55af040b",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "American Industrial Partners aims higher with $8bn target for Fund IX",
+        "refId": "9371b86fa7c4",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "PEI\u2019s Data Dive: How PE is responding to growing cost scrutiny",
+        "refId": "872247609988",
         "source": "Private Equity International"
       }
     ]
@@ -78,24 +93,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How Germany\u2019s doctors, lawyers and dentists got burnt by private markets bets",
-        "refId": "3d87382a0f8c",
-        "source": "Financial Times Markets"
+        "text": "Sign Up for DealBook",
+        "refId": "c7eece17793a",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "EU slips further behind US in race for critical minerals",
-        "refId": "a4140675f3e1",
-        "source": "Financial Times Markets"
+        "text": "Shein, a Fast-Fashion Giant, Struggles to Grow Ahead of a Much-Delayed IPO",
+        "refId": "070ed5191bca",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Qatar cuts state spending at home and abroad as war shrinks economy",
-        "refId": "35313ac9ef86",
-        "source": "Financial Times Markets"
+        "text": "Paramount and California to Hold Preliminary Talks on Warner Bros. Deal",
+        "refId": "78ef10f857be",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Spiking Diesel Costs Drive Growing Number of American Family Farms to Bankrutpcy",
@@ -105,6 +120,11 @@
       {
         "text": "As Bubble Fears Percolate, Advisors Are Bracing for a Crunch",
         "refId": "8b31968ead19",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Dimensional, Allspring Latest Firms to Tack on ETF Share Classes",
+        "refId": "9aa501fa44ea",
         "source": "The Daily Upside"
       }
     ]
@@ -117,19 +137,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What should I ask Annie Lowrey?",
-        "refId": "e1dc2d984ccd",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "The End of Friday Nights with Friends",
-        "refId": "15c98214b004",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Reading List 08/22/26",
         "refId": "a0e855bea9fd",
         "source": "Construction Physics (Brian Potter)"
+      },
+      {
+        "text": "Saturday assorted links",
+        "refId": "acd196a98442",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Hassabis Bet His Job on AGI by 2030. Here Is What He Knows.",
+        "refId": "d198cfa0a84f",
+        "source": "The AI Corner (Ruben Dominguez)"
       }
     ]
   },
@@ -137,19 +157,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How Germany\u2019s doctors, lawyers and dentists got burnt by private markets bets",
-        "refId": "3d87382a0f8c",
-        "source": "Financial Times Markets"
+        "text": "Reading List 08/22/26",
+        "refId": "a0e855bea9fd",
+        "source": "Construction Physics (Brian Potter)"
       },
       {
-        "text": "EU slips further behind US in race for critical minerals",
-        "refId": "a4140675f3e1",
-        "source": "Financial Times Markets"
+        "text": "Piracy Observer Says Somali Incidents Rising as Navies Stretched",
+        "refId": "9918e24dd562",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Qatar cuts state spending at home and abroad as war shrinks economy",
-        "refId": "35313ac9ef86",
-        "source": "Financial Times Markets"
+        "text": "Saturday assorted links",
+        "refId": "acd196a98442",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -180,8 +200,8 @@
     },
     {
       "nm": "VIX",
-      "v": 15.13,
-      "base": 16.01,
+      "v": 16.01,
+      "base": 15.13,
       "bp": false
     },
     {
