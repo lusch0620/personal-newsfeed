@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AXA XL promotes Steven Lawrence to Head of Fine Art & Specie, UK & Lloyd\u2019s",
-        "refId": "c1f46bb5440b",
+        "text": "Despite Risk, Speeding Becoming Normalized AAA Study Finds",
+        "refId": "bb6ad8722803",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Hurricane Lala triggers The Nature Conservancy\u2019s US coral reef insurance policy for first time",
+        "refId": "a9ac6aa03473",
         "source": "Reinsurance News"
       },
       {
-        "text": "Martin Newman named MD, Energy Operations at Alliant Insurance Services",
-        "refId": "021f20b50e86",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "AM Best revises AmericanAg\u2019s rating outlook to positive",
-        "refId": "32da5edea0ae",
+        "text": "Guy Carpenter adds Jessica Ciak to Healthcare team",
+        "refId": "896415b79798",
         "source": "Reinsurance News"
       }
     ]
@@ -103,30 +103,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Coffee chain Blank Street raises funds from General Atlantic to fuel expansion",
-        "refId": "9711fc12f951",
-        "source": "Financial Times Markets"
+        "text": "Trump\u2019s Top Trade Representative Details Offer That Canada Rejected",
+        "refId": "1d4fd27c7928",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "US buyers snap up Europe\u2019s asset managers at fastest rate in decades",
-        "refId": "9a2e1ff7c3b6",
-        "source": "Financial Times Markets"
+        "text": "Canada Is Retaliating Against Trump\u2019s Tariffs. Will Others Follow?",
+        "refId": "e9dbd3410e13",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Occidental tries to free itself from the messy legacy of Anadarko deal",
-        "refId": "4a755dcf99fd",
-        "source": "Financial Times Markets"
+        "text": "Sign Up for DealBook",
+        "refId": "c7eece17793a",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "Newsletters": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Spiking Diesel Costs Drive Growing Number of American Family Farms to Bankrutpcy",
-        "refId": "4d8cbe4f5fb8",
-        "source": "The Daily Upside"
-      },
       {
         "text": "As Bubble Fears Percolate, Advisors Are Bracing for a Crunch",
         "refId": "8b31968ead19",
@@ -135,6 +130,11 @@
       {
         "text": "Dimensional, Allspring Latest Firms to Tack on ETF Share Classes",
         "refId": "9aa501fa44ea",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Why Passive Inflows May be Pulling Down Active Fund Performance",
+        "refId": "f4b47ecd6cdc",
         "source": "The Daily Upside"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The new agentic O-ring world",
-        "refId": "96bbd2ee4a93",
+        "text": "Sunday assorted links",
+        "refId": "43ed66291787",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "My recent visit to Anthropic",
-        "refId": "429736ffbc3b",
+        "text": "I DJ for Rick Rubin about music and patriotism",
+        "refId": "63e1906b468d",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Democracy and Caeserism",
-        "refId": "d7a7c7643a2b",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "What if our biggest problems aren\u2019t economic?",
+        "refId": "85fe27deed7e",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Coffee chain Blank Street raises funds from General Atlantic to fuel expansion",
-        "refId": "9711fc12f951",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Spiking Diesel Costs Drive Growing Number of American Family Farms to Bankrutpcy",
-        "refId": "4d8cbe4f5fb8",
+        "text": "As Bubble Fears Percolate, Advisors Are Bracing for a Crunch",
+        "refId": "8b31968ead19",
         "source": "The Daily Upside"
       },
       {
-        "text": "US buyers snap up Europe\u2019s asset managers at fastest rate in decades",
-        "refId": "9a2e1ff7c3b6",
-        "source": "Financial Times Markets"
+        "text": "Trump\u2019s Top Trade Representative Details Offer That Canada Rejected",
+        "refId": "1d4fd27c7928",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Sunday assorted links",
+        "refId": "43ed66291787",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -198,7 +198,7 @@
     },
     {
       "nm": "Dow",
-      "v": 53417.16,
+      "v": 53417.2,
       "base": 52759.21,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 15.85,
-      "base": 15.13,
+      "v": 15.81,
+      "base": 15.85,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.9808,
+      "v": 186.981,
       "base": 184.15,
       "bp": false
     }
