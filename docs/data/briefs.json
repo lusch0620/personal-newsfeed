@@ -33,8 +33,8 @@
         "source": "Wealth Management"
       },
       {
-        "text": "A New Crop of Players Try to \u201cDemocratize\u201d Venture Capital",
-        "refId": "900b94e9af0e",
+        "text": "Small Businesses and Gig Workers are Redefining Workplace Savings",
+        "refId": "70ad4d655436",
         "source": "Wealth Management"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Harvard to Pay $53 Million Settlement Over Body Parts Sold by Former Morgue Manager",
-        "refId": "b8f16cc9d850",
-        "source": "Insurance Journal"
+        "text": "Non-life reinsurers post improved underwriting profit but sector is \u2018challenging\u2019, says Fitch",
+        "refId": "5a5ba1b80153",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Kentucky High Court Recalculates Employer Attorney Fees, Recovery in Subrogation",
-        "refId": "65f72a0a853b",
-        "source": "Insurance Journal"
+        "text": "Canada Life appoints Dominic Moret as MD, BPA",
+        "refId": "8aa0f5464df1",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Nuclear Verdicts Go Boom, Increase 40.7% in 2025",
-        "refId": "0680f35a6939",
-        "source": "Insurance Journal"
+        "text": "AM Best expects UK captive insurance regime to compare well with established domiciles",
+        "refId": "2322ee36e55a",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "43ed66291787",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "I DJ for Rick Rubin about music and patriotism",
         "refId": "63e1906b468d",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,17 +155,17 @@
         "text": "What if our biggest problems aren\u2019t economic?",
         "refId": "85fe27deed7e",
         "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Childhood Exposure to Joint Custody Reforms and Adult Family Formation",
+        "refId": "0d7778343e8c",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Sunday assorted links",
-        "refId": "43ed66291787",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "Why Australia\u2019s MLC is betting big on emerging managers",
         "refId": "516b55af040b",
@@ -180,43 +175,48 @@
         "text": "American Industrial Partners aims higher with $8bn target for Fund IX",
         "refId": "9371b86fa7c4",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Dimensional, Allspring Latest Firms to Tack on ETF Share Classes",
+        "refId": "9aa501fa44ea",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7670.03,
+      "v": 7669.31,
       "base": 7674.37,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26122.498,
+      "v": 26119.064,
       "base": 26180.46,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53453.31,
+      "v": 53488.62,
       "base": 53277.01,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.649,
+      "v": 4.641,
       "base": 4.704,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.69,
+      "v": 15.51,
       "base": 15.85,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.8506,
+      "v": 187.046,
       "base": 185.95,
       "bp": false
     }
