@@ -33,8 +33,8 @@
         "source": "Wealth Management"
       },
       {
-        "text": "Small Businesses and Gig Workers are Redefining Workplace Savings",
-        "refId": "70ad4d655436",
+        "text": "A New Crop of Players Try to \u201cDemocratize\u201d Venture Capital",
+        "refId": "900b94e9af0e",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Alfalfa Sprouts Linked to Food Poisoning in Minnesota and Wisconsin",
-        "refId": "f435d625bdfe",
+        "text": "Harvard to Pay $53 Million Settlement Over Body Parts Sold by Former Morgue Manager",
+        "refId": "b8f16cc9d850",
         "source": "Insurance Journal"
       },
       {
-        "text": "People Moves: TDI Names Kranes as Deputy Commissioner of Strategy and Performance",
-        "refId": "9629a19d79e0",
+        "text": "Kentucky High Court Recalculates Employer Attorney Fees, Recovery in Subrogation",
+        "refId": "65f72a0a853b",
         "source": "Insurance Journal"
       },
       {
-        "text": "AM Best Upgrades Credit Ratings of Arkansas\u2019 Kinsale",
-        "refId": "9f8aefd0408f",
+        "text": "Nuclear Verdicts Go Boom, Increase 40.7% in 2025",
+        "refId": "0680f35a6939",
         "source": "Insurance Journal"
       }
     ]
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Trump\u2019s Top Trade Representative Details Offer That Canada Rejected",
-        "refId": "1d4fd27c7928",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Canada Is Retaliating Against Trump\u2019s Tariffs. Will Others Follow?",
         "refId": "e9dbd3410e13",
         "source": "Dealbook (NYT)"
@@ -115,6 +110,11 @@
       {
         "text": "How Big Tech Captured American Schools",
         "refId": "ee76b8d04a21",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
+        "refId": "db43ba835414",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Trump\u2019s Top Trade Representative Details Offer That Canada Rejected",
-        "refId": "1d4fd27c7928",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Sunday assorted links",
         "refId": "43ed66291787",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -180,43 +175,48 @@
         "text": "Why Australia\u2019s MLC is betting big on emerging managers",
         "refId": "516b55af040b",
         "source": "Private Equity International"
+      },
+      {
+        "text": "American Industrial Partners aims higher with $8bn target for Fund IX",
+        "refId": "9371b86fa7c4",
+        "source": "Private Equity International"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7683.3,
+      "v": 7670.03,
       "base": 7674.37,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26180.3,
+      "v": 26122.498,
       "base": 26180.46,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53475.63,
+      "v": 53453.31,
       "base": 53277.01,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.66,
+      "v": 4.649,
       "base": 4.704,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.8,
+      "v": 15.69,
       "base": 15.85,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.3404,
+      "v": 186.8506,
       "base": 185.95,
       "bp": false
     }
