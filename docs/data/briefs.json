@@ -20,7 +20,7 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "4 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "AmeriFlex AI Recruiting Tool Aims to Identify RIAs Near Retirement",
@@ -34,7 +34,7 @@
       },
       {
         "text": "Small Businesses and Gig Workers are Redefining Workplace Savings",
-        "refId": "a3a0822650db",
+        "refId": "70ad4d655436",
         "source": "Wealth Management"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Despite Risk, Speeding Becoming Normalized AAA Study Finds",
-        "refId": "bb6ad8722803",
+        "text": "Alfalfa Sprouts Linked to Food Poisoning in Minnesota and Wisconsin",
+        "refId": "f435d625bdfe",
         "source": "Insurance Journal"
       },
       {
-        "text": "Hurricane Lala triggers The Nature Conservancy\u2019s US coral reef insurance policy for first time",
-        "refId": "a9ac6aa03473",
-        "source": "Reinsurance News"
+        "text": "People Moves: TDI Names Kranes as Deputy Commissioner of Strategy and Performance",
+        "refId": "9629a19d79e0",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Guy Carpenter adds Jessica Ciak to Healthcare team",
-        "refId": "896415b79798",
-        "source": "Reinsurance News"
+        "text": "AM Best Upgrades Credit Ratings of Arkansas\u2019 Kinsale",
+        "refId": "9f8aefd0408f",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Egypt's CIB scores preliminary approval for new digital bank",
-        "refId": "5ecc2fb972bd",
-        "source": "Finextra"
-      },
-      {
-        "text": "UK fintech funding hits lowest level in a decade",
-        "refId": "dc0f293bae1f",
-        "source": "Finextra"
-      },
-      {
         "text": "Responsible Fintech Institute debuts quantum pilot",
         "refId": "3eebacc5b28a",
+        "source": "Finextra"
+      },
+      {
+        "text": "Stablecoin platform Fasset hits $1bn valuation",
+        "refId": "48f81cc8bbd0",
+        "source": "Finextra"
+      },
+      {
+        "text": "ADIB appoints first chief AI officer",
+        "refId": "019b48701bad",
         "source": "Finextra"
       }
     ]
@@ -113,8 +113,8 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Sign Up for DealBook",
-        "refId": "c7eece17793a",
+        "text": "How Big Tech Captured American Schools",
+        "refId": "ee76b8d04a21",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -123,11 +123,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "As Bubble Fears Percolate, Advisors Are Bracing for a Crunch",
-        "refId": "8b31968ead19",
-        "source": "The Daily Upside"
-      },
-      {
         "text": "Dimensional, Allspring Latest Firms to Tack on ETF Share Classes",
         "refId": "9aa501fa44ea",
         "source": "The Daily Upside"
@@ -135,6 +130,11 @@
       {
         "text": "Why Passive Inflows May be Pulling Down Active Fund Performance",
         "refId": "f4b47ecd6cdc",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "T. Rowe Price Bets Big on Fixed Income With F/m Deal",
+        "refId": "9fa39772c4ff",
         "source": "The Daily Upside"
       }
     ]
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "As Bubble Fears Percolate, Advisors Are Bracing for a Crunch",
-        "refId": "8b31968ead19",
-        "source": "The Daily Upside"
-      },
-      {
         "text": "Trump\u2019s Top Trade Representative Details Offer That Canada Rejected",
         "refId": "1d4fd27c7928",
         "source": "Dealbook (NYT)"
@@ -180,44 +175,49 @@
         "text": "Sunday assorted links",
         "refId": "43ed66291787",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Why Australia\u2019s MLC is betting big on emerging managers",
+        "refId": "516b55af040b",
+        "source": "Private Equity International"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7652.86,
-      "base": 7641.16,
+      "v": 7683.3,
+      "base": 7674.37,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25980.191,
-      "base": 26067.17,
+      "v": 26180.3,
+      "base": 26180.46,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53417.2,
-      "base": 52759.21,
+      "v": 53475.63,
+      "base": 53277.01,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.704,
-      "base": 4.738,
+      "v": 4.66,
+      "base": 4.704,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.81,
+      "v": 15.8,
       "base": 15.85,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.981,
-      "base": 184.15,
+      "v": 186.3404,
+      "base": 185.95,
       "bp": false
     }
   ]
