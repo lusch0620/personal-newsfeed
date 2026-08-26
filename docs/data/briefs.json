@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "SEC charges 2 former investment bankers with insider trading",
-        "refId": "ffcb99673fd4",
+        "text": "Stocks making the biggest moves premarket: Dick's Sporting Goods, Advanced Micro Devices, Kura Oncology & more",
+        "refId": "df1f7dbff1c3",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Truist doubles down on wealth-transfer opportunity",
+        "refId": "0a4fef1f2ced",
         "source": "Banking Dive"
       },
       {
-        "text": "Citi reports sustainable finance progress, sets new 2030 goals",
-        "refId": "21db442684a3",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Prediction market traders doubtful Bessent\u2019s bond interventions will push yields lower",
-        "refId": "b3ab5ccd041b",
+        "text": "Crypto extends gains after biggest 3-day rally since 2023",
+        "refId": "dc44b32bfde9",
         "source": "CNBC Finance"
       }
     ]
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Adjusted for Risk: Harnessing Market Volatility",
-        "refId": "0260491a68f4",
+        "text": "BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street",
+        "refId": "3973b0ea33f8",
         "source": "Wealth Management"
       },
       {
-        "text": "Small Businesses and Gig Workers are Redefining Workplace Savings",
-        "refId": "70ad4d655436",
+        "text": "15 Investment Must Reads for This Week (Aug. 25, 2026)",
+        "refId": "4cddd8318f47",
         "source": "Wealth Management"
       },
       {
-        "text": "Apex Adds Gemini to Prediction Markets Platform",
-        "refId": "6766752bdbc7",
+        "text": "A New Crop of Players Try to \u201cDemocratize\u201d Venture Capital",
+        "refId": "900b94e9af0e",
         "source": "Wealth Management"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Iran, Oman Push Talks for \u2018Interim\u2019 Reopening of Hormuz",
-        "refId": "1a3139d3bb6c",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Legal & General Says Meta Isn\u2019t Doing Enough to Keep AI Clean",
-        "refId": "47cfbed77fe4",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Reinsurance capital hit record $663bn in 2025 as cat risk budgets fall: AM Best and Guy Carpenter",
         "refId": "ec5dc35bbe91",
         "source": "Reinsurance News"
+      },
+      {
+        "text": "Ex-Meta Staffer Says 99% of Teens Shunned Early Safety Tool",
+        "refId": "97ef893999e6",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Boston Scientific Hit by Cyberattack, Global Operations Affected",
+        "refId": "b8f7f457ad53",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
-        "refId": "db43ba835414",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Melt Up or Melt Down Into End Of 2026?",
         "refId": "77db74e88b56",
         "source": "Capital Flows Research"
@@ -115,6 +110,11 @@
       {
         "text": "This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers",
         "refId": "27f0b03bf022",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "The Heat on Treasury Secretary Scott Bessent Grows",
+        "refId": "72bb12382eb4",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Common sense in charge",
-        "refId": "682b57095957",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "That was then, this is now",
         "refId": "c1f52c84de80",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Do Minimum Wages Help Workers in Poor and Low-Income Families?",
         "refId": "d240f09e41d4",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
+        "refId": "affa7f7eb42d",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "SEC charges 2 former investment bankers with insider trading",
-        "refId": "ffcb99673fd4",
-        "source": "Banking Dive"
+        "text": "Texas Permanent to increase leverage to make more \u2018dry powder\u2019 available",
+        "refId": "8e978956b129",
+        "source": "Buyouts Insider"
       },
       {
-        "text": "Adjusted for Risk: Harnessing Market Volatility",
-        "refId": "0260491a68f4",
-        "source": "Wealth Management"
+        "text": "Melt Up or Melt Down Into End Of 2026?",
+        "refId": "77db74e88b56",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Citi reports sustainable finance progress, sets new 2030 goals",
-        "refId": "21db442684a3",
-        "source": "Banking Dive"
+        "text": "Nvidia Invites Investor Scrutiny of Capital Spending With Perplexity Talks",
+        "refId": "5acd99e7c170",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7669.5,
+      "v": 7681.09,
       "base": 7652.86,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26057.729,
+      "v": 26145.176,
       "base": 25980.19,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53454.79,
+      "v": 53467.66,
       "base": 53417.16,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.664,
+      "v": 4.666,
       "base": 4.639,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.53,
+      "v": 15.43,
       "base": 15.45,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.132,
+      "v": 187.794,
       "base": 186.98,
       "bp": false
     }
