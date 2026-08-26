@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street",
-        "refId": "3973b0ea33f8",
-        "source": "Wealth Management"
-      },
-      {
         "text": "15 Investment Must Reads for This Week (Aug. 25, 2026)",
         "refId": "4cddd8318f47",
         "source": "Wealth Management"
@@ -36,6 +31,11 @@
         "text": "A New Crop of Players Try to \u201cDemocratize\u201d Venture Capital",
         "refId": "900b94e9af0e",
         "source": "Wealth Management"
+      },
+      {
+        "text": "Wild weekend brings rapid-fire legal settlements, admissions, explanations, threats, and a New York Times follow-up to Forbes rankings blow-up after Morgan Stanley bombshell to withdraw from top advisors list",
+        "refId": "02de5c5b3692",
+        "source": "RIABiz"
       }
     ]
   },
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Financial services industry publishes roadmap for equity issuance electronification",
-        "refId": "d9aead596c53",
-        "source": "Finextra"
-      },
-      {
         "text": "Revolut launches dedicated AI research lab built on its own foundation model",
         "refId": "b25b9fa737de",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "Itoflow raises $2.5m for investment research AI agents",
         "refId": "ec347a108700",
+        "source": "Finextra"
+      },
+      {
+        "text": "Scalable Capital opens platform to AI agents like Claude and ChatGPT",
+        "refId": "7e8f5aa58523",
         "source": "Finextra"
       }
     ]
@@ -186,37 +186,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7681.09,
+      "v": 7675.7,
       "base": 7652.86,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26145.176,
+      "v": 26130.197,
       "base": 25980.19,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53467.66,
+      "v": 53463.88,
       "base": 53417.16,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.666,
+      "v": 4.664,
       "base": 4.639,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.43,
+      "v": 15.21,
       "base": 15.45,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.794,
+      "v": 187.696,
       "base": 186.98,
       "bp": false
     }
