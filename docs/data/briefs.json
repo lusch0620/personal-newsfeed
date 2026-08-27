@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "15 Investment Must Reads for This Week (Aug. 25, 2026)",
-        "refId": "4cddd8318f47",
-        "source": "Wealth Management"
-      },
-      {
         "text": "A New Crop of Players Try to \u201cDemocratize\u201d Venture Capital",
         "refId": "900b94e9af0e",
         "source": "Wealth Management"
@@ -36,6 +31,11 @@
         "text": "Wild weekend brings rapid-fire legal settlements, admissions, explanations, threats, and a New York Times follow-up to Forbes rankings blow-up after Morgan Stanley bombshell to withdraw from top advisors list",
         "refId": "02de5c5b3692",
         "source": "RIABiz"
+      },
+      {
+        "text": "Cresset Adds $4B Boca Raton Team From UBS",
+        "refId": "49cdd61802dd",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Revolut launches dedicated AI research lab built on its own foundation model",
-        "refId": "b25b9fa737de",
+        "text": "Multifamily NOI Growth Weakened in 2025 Even as Expense Growth Cooled",
+        "refId": "3bd0f0c1632b",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Google Cloud launches AI platform for financial professionals",
+        "refId": "a9247e2b2df3",
         "source": "Finextra"
       },
       {
-        "text": "Itoflow raises $2.5m for investment research AI agents",
-        "refId": "ec347a108700",
-        "source": "Finextra"
-      },
-      {
-        "text": "Scalable Capital opens platform to AI agents like Claude and ChatGPT",
-        "refId": "7e8f5aa58523",
+        "text": "Visa joins MAS-led project to pilot stablecoin settlement",
+        "refId": "cfa903444421",
         "source": "Finextra"
       }
     ]
@@ -82,11 +82,6 @@
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Texas Permanent to increase leverage to make more \u2018dry powder\u2019 available",
-        "refId": "8e978956b129",
-        "source": "Buyouts Insider"
-      },
       {
         "text": "Seven things to know about India\u2019s first listed GP",
         "refId": "7604f6d7d78c",
@@ -96,17 +91,17 @@
         "text": "Number Crunch: Private equity\u2019s contribution to job creation",
         "refId": "f57ee17ef9b2",
         "source": "Private Equity International"
+      },
+      {
+        "text": "The UK\u2019s proposed tax reform offers clarity to secondaries buyers",
+        "refId": "3027b9961684",
+        "source": "Secondaries Investor"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Melt Up or Melt Down Into End Of 2026?",
-        "refId": "77db74e88b56",
-        "source": "Capital Flows Research"
-      },
       {
         "text": "This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers",
         "refId": "27f0b03bf022",
@@ -116,6 +111,11 @@
         "text": "The Heat on Treasury Secretary Scott Bessent Grows",
         "refId": "72bb12382eb4",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Bessent\u2019s bond intervention puts US Treasury on collision course with Fed",
+        "refId": "7070e371b35e",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Nvidia Invites Investor Scrutiny of Capital Spending With Perplexity Talks",
-        "refId": "5acd99e7c170",
+        "text": "Why Northern Trust Nixed the FlexShares Name",
+        "refId": "f31b911f2ac3",
         "source": "The Daily Upside"
       },
       {
-        "text": "Exxon to Boost Crude Output by Automating Permian Basin Rigs",
-        "refId": "ae65390d36d5",
+        "text": "Lego Sales Surge as Toymaker Shuns Design Help from AI",
+        "refId": "4d0cdd49a2d4",
         "source": "The Daily Upside"
       },
       {
-        "text": "O, Canada: Trade Faceoff With US Snarls Automobile, Steel Markets",
-        "refId": "1f3283ab8435",
+        "text": "United Steps Up Its Game in Competition for Jet-Setting US Travelers",
+        "refId": "58493f614b2f",
         "source": "The Daily Upside"
       }
     ]
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Texas Permanent to increase leverage to make more \u2018dry powder\u2019 available",
-        "refId": "8e978956b129",
-        "source": "Buyouts Insider"
+        "text": "Seven things to know about India\u2019s first listed GP",
+        "refId": "7604f6d7d78c",
+        "source": "Private Equity International"
       },
       {
-        "text": "Melt Up or Melt Down Into End Of 2026?",
-        "refId": "77db74e88b56",
-        "source": "Capital Flows Research"
+        "text": "That was then, this is now",
+        "refId": "c1f52c84de80",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Nvidia Invites Investor Scrutiny of Capital Spending With Perplexity Talks",
-        "refId": "5acd99e7c170",
-        "source": "The Daily Upside"
+        "text": "Do Minimum Wages Help Workers in Poor and Low-Income Families?",
+        "refId": "d240f09e41d4",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
