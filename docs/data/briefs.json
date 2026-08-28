@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bridgehaven to provide long-term capacity to Amiga Specialty",
-        "refId": "2a79a8462621",
-        "source": "Reinsurance News"
-      },
-      {
         "text": "Sedgwick names Jason Rogers Managing Director, Carrier & Captive Solutions",
         "refId": "ee3886d4e91a",
         "source": "Reinsurance News"
@@ -56,6 +51,11 @@
         "text": "Justin Ward appointed CEO of Pacific at Guy Carpenter",
         "refId": "aaae0153ce52",
         "source": "Reinsurance News"
+      },
+      {
+        "text": "MGAA reports continued growth and regulatory engagement across MGA market",
+        "refId": "ef27503db66f",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Japan to form study group for blockchain-based settlement of stock and bonds",
-        "refId": "dc1a87afaa56",
-        "source": "Finextra"
-      },
-      {
-        "text": "Multiplier raises $6m to build AI for asset managers",
-        "refId": "1785f1bb2ed2",
-        "source": "Finextra"
-      },
-      {
         "text": "Lloyds customers suffer another app outage",
         "refId": "18e2b625705e",
+        "source": "Finextra"
+      },
+      {
+        "text": "LifeComps Q2 2026 Total Returns Improved as Appreciation Continued to Drag",
+        "refId": "b93494526884",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Brink's-NCR Atleos deal faces UK competition probe",
+        "refId": "55177d490d0e",
         "source": "Finextra"
       }
     ]
@@ -82,11 +82,6 @@
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "QIC targets shorter plays amid PE\u2019s liquidity crunch",
-        "refId": "1147514a3fbc",
-        "source": "Private Equity International"
-      },
       {
         "text": "Veteran LP Robert Ross to lead private equity at USS",
         "refId": "a40f3b7a2f37",
@@ -96,6 +91,11 @@
         "text": "Side Letter: Leveraging for liquidity",
         "refId": "d19918e6eb39",
         "source": "Private Equity International"
+      },
+      {
+        "text": "ERS Texas increases pacing, puts focus on lower mid-market buyouts",
+        "refId": "ff71bbb74104",
+        "source": "Buyouts Insider"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Lego Sales Surge as Toymaker Shuns Design Help from AI",
-        "refId": "4d0cdd49a2d4",
+        "text": "RevMed\u2019s Life-Saving Pancreatic Cancer Drug Wins Early FDA Approval",
+        "refId": "e44bb86e83ea",
         "source": "The Daily Upside"
       },
       {
-        "text": "United Steps Up Its Game in Competition for Jet-Setting US Travelers",
-        "refId": "58493f614b2f",
+        "text": "Spicy Competition May Cause Heartburn for Nvidia",
+        "refId": "6f076057ca8c",
         "source": "The Daily Upside"
       },
       {
-        "text": "Is Netflix Getting Its Groove Back?",
-        "refId": "afcc2fbb2729",
+        "text": "Sticky Inflation Report Raises Jackson Hole Stakes for Fed\u2019s Warsh",
+        "refId": "44e6294e843f",
         "source": "The Daily Upside"
       }
     ]
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "QIC targets shorter plays amid PE\u2019s liquidity crunch",
-        "refId": "1147514a3fbc",
-        "source": "Private Equity International"
+        "text": "Emergent Ventures winners, 58th cohort",
+        "refId": "9a7857bf9993",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Lego Sales Surge as Toymaker Shuns Design Help from AI",
-        "refId": "4d0cdd49a2d4",
-        "source": "The Daily Upside"
+        "text": "Overreaching causal language in the social sciences",
+        "refId": "e03386bf0c77",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "United Steps Up Its Game in Competition for Jet-Setting US Travelers",
-        "refId": "58493f614b2f",
-        "source": "The Daily Upside"
+        "text": "No. 10/2026 - INTERIM REPORT, H1 2026",
+        "refId": "8243acd83ce9",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
