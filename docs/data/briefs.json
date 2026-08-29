@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Florida Multifamily Insurance Costs Reverse Course After Years of Outsized Growth",
-        "refId": "1d88ee94c05c",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "RQD* Clearing raises $74 million",
         "refId": "407641609c4c",
         "source": "Finextra"
@@ -76,17 +71,17 @@
         "text": "Swift accepts request to extend structured address migration for ISO 20022 messages",
         "refId": "e398c995c991",
         "source": "Finextra"
+      },
+      {
+        "text": "Meta tests consumer-based AI agent for everyday online tasks",
+        "refId": "3289dfcd90bf",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "BV Investment-backed Imagenet acquires data firm Analytica Consulting",
-        "refId": "4912df91ed50",
-        "source": "PE Hub"
-      },
       {
         "text": "Nebraska holds pacing steady after years of weak distributions",
         "refId": "5a99a07b34fd",
@@ -95,6 +90,11 @@
       {
         "text": "Agentic commerce, AI-driven fraud shake up financial services dealmaking",
         "refId": "7750a5902282",
+        "source": "PE Hub"
+      },
+      {
+        "text": "PE backs patient engagement tech: 5 deals",
+        "refId": "bffc0232fd3d",
         "source": "PE Hub"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What should I ask Yiyang Zhuge (\u8bf8\u845b\u4e00\u6768), also known as Zhong Shu (\u4ef2\u6811)?",
-        "refId": "889bc4af3578",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Polling results on capitalism and socialism",
         "refId": "3bd03e96aa2b",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Luke Burgis interviews Patrick Collison on aesthetics",
         "refId": "2db5fb9365d0",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Here\u2019s how we\u2019re all going to die",
+        "refId": "2b4b007a6f49",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "BV Investment-backed Imagenet acquires data firm Analytica Consulting",
-        "refId": "4912df91ed50",
-        "source": "PE Hub"
+        "text": "Osaic Hires Chief AI and Technology Officer",
+        "refId": "aba59f1bc1fd",
+        "source": "Wealth Management"
       },
       {
-        "text": "What should I ask Yiyang Zhuge (\u8bf8\u845b\u4e00\u6768), also known as Zhong Shu (\u4ef2\u6811)?",
-        "refId": "889bc4af3578",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Deals &amp; Moves: Citizens Keeps Up Wealth Push With $1B Tampa Duo",
+        "refId": "021f9f40d914",
+        "source": "Wealth Management"
       },
       {
-        "text": "Florida Multifamily Insurance Costs Reverse Course After Years of Outsized Growth",
-        "refId": "1d88ee94c05c",
-        "source": "Trepp Talk"
+        "text": "Applied Materials Appoints Akash Palkhiwala to Board of Directors",
+        "refId": "e5006b228c52",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
