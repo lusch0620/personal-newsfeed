@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves after hours: Nvidia, Salesforce, CrowdStrike, Urban Outfitters and more",
-        "refId": "967e71912e32",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
         "refId": "0725e721ea8d",
         "source": "CNBC Finance"
@@ -16,17 +11,17 @@
         "text": "SmartKem, Ferrox\uc758 \ud2f0\ubc14\ub2c8 \ud504\ub85c\uc81d\ud2b8 \uac1c\ubc1c \uac00\uc18d\ud654 \uacc4\ud68d \ud658\uc601\u20264\ubd84\uae30 \uc2e4\uc99d \uc0dd\uc0b0 \ubaa9\ud45c",
         "refId": "0193430b922c",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "ICBA CEO: \u2018No middle ground\u2019 on closing Clarity Act\u2019s stablecoin loophole",
+        "refId": "16f0bc8ff834",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "J.P. Morgan Files Contempt Motion Against Ex-Advisor for TRO Violation",
-        "refId": "1ba10a1f5697",
-        "source": "Wealth Management"
-      },
       {
         "text": "WealthStack Roundup: Practifi Pivoting to AI-Driven CRM Called Sentir",
         "refId": "0947fc5ffb5c",
@@ -35,6 +30,11 @@
       {
         "text": "NY Broker Sentenced to 70 Months for $686K Wire Fraud, Identity Theft",
         "refId": "6f757b53d668",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Wells Fargo Steps Up Wealth Hiring After $1.5 Billion Revamp",
+        "refId": "17064208db00",
         "source": "Wealth Management"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "US treasury establishes 'Quantum-Readiness Task Force'",
-        "refId": "71d7efe8e404",
-        "source": "Finextra"
-      },
-      {
-        "text": "Canadian payment processor Helcim raises C$53m",
-        "refId": "b60881fe9dcd",
-        "source": "Finextra"
-      },
-      {
         "text": "UK Government tells Bank of England to support innovation in payment systems",
         "refId": "b286c1aab3b8",
+        "source": "Finextra"
+      },
+      {
+        "text": "Deutsche Bank's Private Bank selects Thought Machine for radical core banking shakeup",
+        "refId": "1c904af9e523",
+        "source": "Finextra"
+      },
+      {
+        "text": "How the banking industry can ensure vulnerable adults don\u2019t remain underbanked",
+        "refId": "3158ac7b7657",
         "source": "Finextra"
       }
     ]
@@ -82,11 +82,6 @@
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Partners Group leans into developed APAC as GP quality diverges",
-        "refId": "692b686d65da",
-        "source": "Private Equity International"
-      },
       {
         "text": "Healthcare private equity weathers the SaaSpocalypse \u2013 Bain report",
         "refId": "553e98fa7b13",
@@ -96,17 +91,17 @@
         "text": "Side Letter: Solid foundations",
         "refId": "4c833c67ffcb",
         "source": "Private Equity International"
+      },
+      {
+        "text": "JPMorgan\u2019s David Sweet talks \u2018battleship defensibility\u2019 of fire safety platforms; KKR\u2019s Industrial Physics scoops up electrical testing firm from Branford Castle",
+        "refId": "761ca75127f3",
+        "source": "PE Hub"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Mamdani Persuades C.E.O.s to Join His Business Advisory Council",
-        "refId": "6bf96b7bb186",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "Did Meta\u2019s Big Settlement Actually Help It?",
         "refId": "1798689a724d",
@@ -116,6 +111,11 @@
         "text": "Meta Projected It Could Spend $10 Billion on Anthropic\u2019s A.I.",
         "refId": "ae9172729c30",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Is it bad when economic data gets revised down?\ud83e\udd14",
+        "refId": "20704f27da9a",
+        "source": "TKer (Sam Ro)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "J.P. Morgan Files Contempt Motion Against Ex-Advisor for TRO Violation",
-        "refId": "1ba10a1f5697",
-        "source": "Wealth Management"
+        "text": "RevMed\u2019s Life-Saving Pancreatic Cancer Drug Wins Early FDA Approval",
+        "refId": "e44bb86e83ea",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Stocks making the biggest moves after hours: Nvidia, Salesforce, CrowdStrike, Urban Outfitters and more",
-        "refId": "967e71912e32",
-        "source": "CNBC Finance"
+        "text": "Spicy Competition May Cause Heartburn for Nvidia",
+        "refId": "6f076057ca8c",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Mamdani Persuades C.E.O.s to Join His Business Advisory Council",
-        "refId": "6bf96b7bb186",
-        "source": "Dealbook (NYT)"
+        "text": "Sticky Inflation Report Raises Jackson Hole Stakes for Fed\u2019s Warsh",
+        "refId": "44e6294e843f",
+        "source": "The Daily Upside"
       }
     ]
   },
