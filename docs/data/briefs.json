@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Applied Materials Appoints Akash Palkhiwala to Board of Directors",
-        "refId": "e5006b228c52",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "Stocks making the biggest moves midday: Nvidia, Okta, Hormel, Veeva, HP, Celsius, Best Buy & more",
-        "refId": "7e0613dc4538",
+        "text": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
+        "refId": "d8ef633561ad",
         "source": "CNBC Finance"
       },
       {
-        "text": "Stocks making the biggest moves after hours: Gap, Workday, Autodesk and more",
-        "refId": "7d9438f122fe",
+        "text": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+        "refId": "ae6979198a93",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: PayPal, Affirm Holdings, Gap, Marvell Technology & more",
+        "refId": "dde72eb63a74",
         "source": "CNBC Finance"
       }
     ]
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Osaic Hires Chief AI and Technology Officer",
-        "refId": "aba59f1bc1fd",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Deals &amp; Moves: Citizens Keeps Up Wealth Push With $1B Tampa Duo",
-        "refId": "021f9f40d914",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Vanguard's Altruist Deal Tells You Where Custody Is Headed",
         "refId": "0c06a563968a",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Pete Dorsey Joins State Street as Wealth CRO",
+        "refId": "dfef24088393",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "SEC Charges 38 Alleged Scammers of False Filings to Lure Retail Investors",
+        "refId": "e2ad22901765",
         "source": "Wealth Management"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Nebraska holds pacing steady after years of weak distributions",
-        "refId": "5a99a07b34fd",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "Agentic commerce, AI-driven fraud shake up financial services dealmaking",
         "refId": "7750a5902282",
         "source": "PE Hub"
@@ -95,6 +90,11 @@
       {
         "text": "PE backs patient engagement tech: 5 deals",
         "refId": "bffc0232fd3d",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Petra- and SharpVue-backed Liberty Restoration acquires Midwest ServiceMaster franchisee",
+        "refId": "c631ede54aea",
         "source": "PE Hub"
       }
     ]
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Osaic Hires Chief AI and Technology Officer",
-        "refId": "aba59f1bc1fd",
-        "source": "Wealth Management"
+        "text": "RQD* Clearing raises $74 million",
+        "refId": "407641609c4c",
+        "source": "Finextra"
       },
       {
-        "text": "Deals &amp; Moves: Citizens Keeps Up Wealth Push With $1B Tampa Duo",
-        "refId": "021f9f40d914",
-        "source": "Wealth Management"
+        "text": "Swift accepts request to extend structured address migration for ISO 20022 messages",
+        "refId": "e398c995c991",
+        "source": "Finextra"
       },
       {
-        "text": "Applied Materials Appoints Akash Palkhiwala to Board of Directors",
-        "refId": "e5006b228c52",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
+        "refId": "d8ef633561ad",
+        "source": "CNBC Finance"
       }
     ]
   },
