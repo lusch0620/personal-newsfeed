@@ -1,32 +1,22 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Corn and wheat prices jump to highest prices in more than three years",
-        "refId": "8b978b02e123",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "NXP Semiconductors Announces Quarterly Dividend",
-        "refId": "e1b7e665c866",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
       {
         "text": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
         "refId": "02420710a1e2",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Analysts like this humanoid supplier, even if the robots remain concepts \u2014 for now",
+        "refId": "acf96f746416",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
-      {
-        "text": "The WealthStack Podcast: How AI Can Uncover Hidden Portfolio Risk With Af Malhotra",
-        "refId": "61efb144cad3",
-        "source": "Wealth Management"
-      },
       {
         "text": "Vanguard Group and Altruist can win RIA hearts, no problem, experts say, but the bro-cultural chasm \u2013 2,700 miles apart and two ways of defining 'client-first' \u2013 will determine if they can make the marriage work",
         "refId": "1ae0db587cf1",
@@ -39,16 +29,11 @@
     "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "$10.7 Billion of Performing Office Loans With Sub-Breakeven DSCRs Reach Hard Maturity by 2029",
-        "refId": "0bee526be33c",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "Swivel lands on Temenos Digital Collector",
-        "refId": "2fb14c67fb3f",
+        "text": "South Korea's Shinhan signs for Visa stablecoin platform",
+        "refId": "700b91660a15",
         "source": "Finextra"
       }
     ]
@@ -61,18 +46,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Trump Updates $15 Billion Libel Lawsuit Against The New York Times",
-        "refId": "f249be147590",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Oil Context Weekly (W35)",
-        "refId": "746d9d429c56",
-        "source": "Commodity Context"
-      },
-      {
         "text": "Glencore threatened with $1.4bn lawsuit from embattled trader Radiant",
         "refId": "ba4c7600001b",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Is the 60-40 portfolio dead?",
+        "refId": "2bd54d93e821",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Alex Gerko earned a record \u00a3895mn from trading firm XTX in 2025",
+        "refId": "00444701ee00",
         "source": "Financial Times Markets"
       }
     ]
@@ -100,11 +85,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Tysons Corner (Alaska) fact of the day",
-        "refId": "73f12e78dcbe",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "*Visions from San Francisco Bay*",
         "refId": "3185d34e9423",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -113,6 +93,11 @@
         "text": "Costco facts of the day",
         "refId": "9d7b842646ec",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Reading List 08/29/26",
+        "refId": "70b8d1a1b00b",
+        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
@@ -120,19 +105,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "$10.7 Billion of Performing Office Loans With Sub-Breakeven DSCRs Reach Hard Maturity by 2029",
-        "refId": "0bee526be33c",
-        "source": "Trepp Talk"
+        "text": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+        "refId": "02420710a1e2",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Swivel lands on Temenos Digital Collector",
-        "refId": "2fb14c67fb3f",
-        "source": "Finextra"
+        "text": "Glencore threatened with $1.4bn lawsuit from embattled trader Radiant",
+        "refId": "ba4c7600001b",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Trump Updates $15 Billion Libel Lawsuit Against The New York Times",
-        "refId": "f249be147590",
-        "source": "Dealbook (NYT)"
+        "text": "*Visions from San Francisco Bay*",
+        "refId": "3185d34e9423",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
