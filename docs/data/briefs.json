@@ -1,140 +1,93 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
-        "refId": "d8ef633561ad",
+        "text": "Corn and wheat prices jump to highest prices in more than three years",
+        "refId": "8b978b02e123",
         "source": "CNBC Finance"
       },
       {
-        "text": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
-        "refId": "ae6979198a93",
-        "source": "CNBC Finance"
+        "text": "NXP Semiconductors Announces Quarterly Dividend",
+        "refId": "e1b7e665c866",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Stocks making the biggest moves premarket: PayPal, Affirm Holdings, Gap, Marvell Technology & more",
-        "refId": "dde72eb63a74",
+        "text": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
+        "refId": "02420710a1e2",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Vanguard's Altruist Deal Tells You Where Custody Is Headed",
-        "refId": "0c06a563968a",
+        "text": "The WealthStack Podcast: How AI Can Uncover Hidden Portfolio Risk With Af Malhotra",
+        "refId": "61efb144cad3",
         "source": "Wealth Management"
       },
       {
-        "text": "Pete Dorsey Joins State Street as Wealth CRO",
-        "refId": "dfef24088393",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "SEC Charges 38 Alleged Scammers of False Filings to Lure Retail Investors",
-        "refId": "e2ad22901765",
-        "source": "Wealth Management"
+        "text": "Vanguard Group and Altruist can win RIA hearts, no problem, experts say, but the bro-cultural chasm \u2013 2,700 miles apart and two ways of defining 'client-first' \u2013 will determine if they can make the marriage work",
+        "refId": "1ae0db587cf1",
+        "source": "RIABiz"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Why Every Commercial-Lines Agency Needs AI Risk Fluency",
-        "refId": "d9d6bc28517a",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Aon to launch $5.5bn Totalis Specialty Group",
-        "refId": "002118561ff4",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Swiss Re appoints Sanghita Nandy and Francesco Atzeni to leadership roles",
-        "refId": "8e8679a083e7",
-        "source": "Reinsurance News"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "RQD* Clearing raises $74 million",
-        "refId": "407641609c4c",
-        "source": "Finextra"
+        "text": "$10.7 Billion of Performing Office Loans With Sub-Breakeven DSCRs Reach Hard Maturity by 2029",
+        "refId": "0bee526be33c",
+        "source": "Trepp Talk"
       },
       {
-        "text": "Swift accepts request to extend structured address migration for ISO 20022 messages",
-        "refId": "e398c995c991",
-        "source": "Finextra"
-      },
-      {
-        "text": "Meta tests consumer-based AI agent for everyday online tasks",
-        "refId": "3289dfcd90bf",
+        "text": "Swivel lands on Temenos Digital Collector",
+        "refId": "2fb14c67fb3f",
         "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Agentic commerce, AI-driven fraud shake up financial services dealmaking",
-        "refId": "7750a5902282",
-        "source": "PE Hub"
-      },
-      {
-        "text": "PE backs patient engagement tech: 5 deals",
-        "refId": "bffc0232fd3d",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Petra- and SharpVue-backed Liberty Restoration acquires Midwest ServiceMaster franchisee",
-        "refId": "c631ede54aea",
-        "source": "PE Hub"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Positioning Into Jackson Hole",
-        "refId": "918330e77328",
-        "source": "Capital Flows Research"
+        "text": "Trump Updates $15 Billion Libel Lawsuit Against The New York Times",
+        "refId": "f249be147590",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Zero-interest convertible bonds set for record year",
-        "refId": "b0c42cdbfd3d",
-        "source": "Financial Times Markets"
+        "text": "Oil Context Weekly (W35)",
+        "refId": "746d9d429c56",
+        "source": "Commodity Context"
       },
       {
-        "text": "The US consumer is showing some strain",
-        "refId": "d6e84a8a1f41",
+        "text": "Glencore threatened with $1.4bn lawsuit from embattled trader Radiant",
+        "refId": "ba4c7600001b",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Act Now or Pay Later: Coalition of Top Companies Tells World to Get Its Act Together on Cybersecurity",
-        "refId": "8055793c7fe1",
+        "text": "Why Is the Job Market so Tough for Younger Workers?",
+        "refId": "48c114f1d696",
         "source": "The Daily Upside"
       },
       {
-        "text": "SaaSpocalypse Is \u2018Nonsense\u2019 Says Salesforce CEO Amid Earnings Beat and Anthropic Partnership",
-        "refId": "da4bf0d13af3",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Best Buy Hikes Outlook After Hot Summer Quarter",
-        "refId": "29daa5a61d7e",
+        "text": "How Financial Planning Can Help Treat the \u2018Financial Toxicity\u2019 of Cancer",
+        "refId": "71baad2f2ae8",
         "source": "The Daily Upside"
       }
     ]
@@ -147,19 +100,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Polling results on capitalism and socialism",
-        "refId": "3bd03e96aa2b",
+        "text": "Tysons Corner (Alaska) fact of the day",
+        "refId": "73f12e78dcbe",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Luke Burgis interviews Patrick Collison on aesthetics",
-        "refId": "2db5fb9365d0",
+        "text": "*Visions from San Francisco Bay*",
+        "refId": "3185d34e9423",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Here\u2019s how we\u2019re all going to die",
-        "refId": "2b4b007a6f49",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Costco facts of the day",
+        "refId": "9d7b842646ec",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +120,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "RQD* Clearing raises $74 million",
-        "refId": "407641609c4c",
+        "text": "$10.7 Billion of Performing Office Loans With Sub-Breakeven DSCRs Reach Hard Maturity by 2029",
+        "refId": "0bee526be33c",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Swivel lands on Temenos Digital Collector",
+        "refId": "2fb14c67fb3f",
         "source": "Finextra"
       },
       {
-        "text": "Swift accepts request to extend structured address migration for ISO 20022 messages",
-        "refId": "e398c995c991",
-        "source": "Finextra"
-      },
-      {
-        "text": "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
-        "refId": "d8ef633561ad",
-        "source": "CNBC Finance"
+        "text": "Trump Updates $15 Billion Libel Lawsuit Against The New York Times",
+        "refId": "f249be147590",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -216,7 +169,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 187.1654,
+      "v": 187.165,
       "base": 187.7,
       "bp": false
     }
