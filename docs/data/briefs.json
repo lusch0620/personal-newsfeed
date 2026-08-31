@@ -20,7 +20,7 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "4 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "$2.1B OSJ Sierra Ridge Joins Cetera From LPL",
@@ -40,7 +40,7 @@
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Aon said close to $17bn acquisition of broking group USI from KKR, WSJ reports",
@@ -48,9 +48,14 @@
         "source": "Reinsurance News"
       },
       {
-        "text": "Aon confirms it will acquire USI for $17bn, to advance its U.S. middle market platform",
-        "refId": "136783d25cc7",
-        "source": "Reinsurance News"
+        "text": "Quandri Named Inaugural Member of Applied Systems\u2019 Vendor Certification Program",
+        "refId": "e65d0212750f",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "China\u2019s Humanoid Robots Aren\u2019t Smart Enough to Take Your Job \u2013 Yet",
+        "refId": "dd3b9561ab7d",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -98,18 +103,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Will financial innovation dethrone the dollar?",
-        "refId": "c9ff47401dfd",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "UK fintech Allica looks to Sweden to kick-start European expansion",
-        "refId": "867295e043e7",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Scramble for gas assets pushes dealmaking to decade high",
         "refId": "29faeb74d02e",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "UK investment trusts struggle to keep up the liquidity illusion",
+        "refId": "720a0a51f22c",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Jane Street\u2019s AI bets go sour",
+        "refId": "d821c717bc39",
         "source": "Financial Times Markets"
       }
     ]
@@ -142,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Saturday assorted links",
-        "refId": "8f296f17f789",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "In defense of Asian American art",
         "refId": "366092fdac95",
         "source": "Noahpinion (Noah Smith)"
@@ -155,17 +155,17 @@
         "text": "China fact of the day",
         "refId": "fd6d8203b8a0",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Sunday assorted links",
+        "refId": "5b3035755b60",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Saturday assorted links",
-        "refId": "8f296f17f789",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "In defense of Asian American art",
         "refId": "366092fdac95",
@@ -175,43 +175,48 @@
         "text": "Why Is the Job Market so Tough for Younger Workers?",
         "refId": "48c114f1d696",
         "source": "The Daily Upside"
+      },
+      {
+        "text": "China fact of the day",
+        "refId": "fd6d8203b8a0",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7680.78,
+      "v": 7686.14,
       "base": 7730.99,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26315.918,
+      "v": 26370.889,
       "base": 26541.35,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53225.43,
+      "v": 53185.9,
       "base": 53569.44,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.756,
+      "v": 4.758,
       "base": 4.72,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.19,
+      "v": 14.92,
       "base": 14.43,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 185.7286,
+      "v": 185.4211,
       "base": 186.64,
       "bp": false
     }
