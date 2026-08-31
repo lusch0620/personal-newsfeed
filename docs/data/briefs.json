@@ -1,15 +1,20 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "2 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
-      {
-        "text": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-        "refId": "02420710a1e2",
-        "source": "CNBC Finance"
-      },
       {
         "text": "Analysts like this humanoid supplier, even if the robots remain concepts \u2014 for now",
         "refId": "acf96f746416",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
+        "refId": "73eaf0bb73d4",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
+        "refId": "28fa35613a78",
         "source": "CNBC Finance"
       }
     ]
@@ -25,8 +30,24 @@
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Aon Close to Acquiring USI Insurance From KKR in $17 Billion Deal, WSJ Reports",
+        "refId": "e11e0fa3e266",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Judge to Hear Recantation of Sexual Abuse Claim Against Ex-Penn State Coach Sandusky",
+        "refId": "07340fc749df",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Oregon Regulators Extend Wildfire Emergency Orders to Pause Insurance Cancellations",
+        "refId": "9fffdd4145f1",
+        "source": "Insurance Journal"
+      }
+    ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "1 story in this lane today.",
@@ -39,31 +60,42 @@
     ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "2 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "ERS Texas increases pacing, puts focus on lower mid-market buyouts",
+        "refId": "4b57440a5855",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "SEC\u2019s reporting overhaul may complicate valuations",
+        "refId": "73e75e52fb3a",
+        "source": "Private Equity International"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Glencore threatened with $1.4bn lawsuit from embattled trader Radiant",
-        "refId": "ba4c7600001b",
+        "text": "Thievery or Innovation? The Music Industry Grapples With A.I.",
+        "refId": "8ad4d3e665b6",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Incoming Swiss banking chief warns against regulatory over-reach",
+        "refId": "5b564b3d224f",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Is the 60-40 portfolio dead?",
-        "refId": "2bd54d93e821",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Alex Gerko earned a record \u00a3895mn from trading firm XTX in 2025",
-        "refId": "00444701ee00",
+        "text": "Anglo Teck up against Glencore\u2019s \u2018hardball\u2019 negotiators to deliver merger gains",
+        "refId": "21c667798ab3",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Why Is the Job Market so Tough for Younger Workers?",
@@ -73,6 +105,11 @@
       {
         "text": "How Financial Planning Can Help Treat the \u2018Financial Toxicity\u2019 of Cancer",
         "refId": "71baad2f2ae8",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Critics Turn the Lens Back On Flock\u2019s Surveillance Cameras",
+        "refId": "b6310c1e6b86",
         "source": "The Daily Upside"
       }
     ]
@@ -85,10 +122,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "*Visions from San Francisco Bay*",
-        "refId": "3185d34e9423",
+        "text": "Costco facts of the day",
+        "refId": "9d7b842646ec",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
+      {
+        "text": "Reading List 08/29/26",
+        "refId": "70b8d1a1b00b",
+        "source": "Construction Physics (Brian Potter)"
+      },
+      {
+        "text": "Martin Casado Says AI Broke Venture's Oldest Rule. Here's the $67 Billion Proof.",
+        "refId": "d879b8ebf635",
+        "source": "The AI Corner (Ruben Dominguez)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
       {
         "text": "Costco facts of the day",
         "refId": "9d7b842646ec",
@@ -98,26 +150,11 @@
         "text": "Reading List 08/29/26",
         "refId": "70b8d1a1b00b",
         "source": "Construction Physics (Brian Potter)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court",
-        "refId": "02420710a1e2",
-        "source": "CNBC Finance"
       },
       {
-        "text": "Glencore threatened with $1.4bn lawsuit from embattled trader Radiant",
-        "refId": "ba4c7600001b",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "*Visions from San Francisco Bay*",
-        "refId": "3185d34e9423",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Vanguard Group and Altruist can win RIA hearts, no problem, experts say, but the bro-cultural chasm \u2013 2,700 miles apart and two ways of defining 'client-first' \u2013 will determine if they can make the marriage work",
+        "refId": "1ae0db587cf1",
+        "source": "RIABiz"
       }
     ]
   },
