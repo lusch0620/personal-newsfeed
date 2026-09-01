@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
-        "refId": "28fa35613a78",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "AMD, Cisco and HUMAIN Expand Saudi Arabia\u2019s AI Infrastructure as AMD Instinct Systems Go Live",
         "refId": "6b9c8f43ebd9",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -16,17 +11,17 @@
         "text": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury",
         "refId": "73eaf0bb73d4",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: Chevron, PG&E, GameStop and more",
+        "refId": "9b4b0d8cc808",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "$2.1B OSJ Sierra Ridge Joins Cetera From LPL",
-        "refId": "817f266cc815",
-        "source": "Wealth Management"
-      },
       {
         "text": "The Quiet Force Reshaping Advisor Product Shelves",
         "refId": "52d40a481754",
@@ -36,6 +31,11 @@
         "text": "Helping Clients Understand the U.S. Debt Problem",
         "refId": "360c2ae85800",
         "source": "Wealth Management"
+      },
+      {
+        "text": "UBS Lures $1.4B Los Angeles Team From Bernstein",
+        "refId": "b11a38dafcca",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Crest Acquiring Tegeler & Associates in Wyoming",
-        "refId": "744f9c2a6993",
+        "text": "Amazon Sued by FTC Over Claims It Misled Advertisers on Pricing",
+        "refId": "298bec683ee6",
         "source": "Insurance Journal"
       },
       {
-        "text": "Judge Throws Out Bulk of Economic Claims Over Baltimore Bridge Tragedy",
-        "refId": "744ac244bb59",
+        "text": "Thailand Shifts Disaster Risk to Insurers With $467 Million Plan",
+        "refId": "2c72bdedb911",
         "source": "Insurance Journal"
       },
       {
-        "text": "Sony, Warner Music Sue Anthropic Over Songs Used in AI Training",
-        "refId": "9c441451587d",
+        "text": "Hormuz Hostilities Pick Up as Two Tankers Reportedly Struck",
+        "refId": "2008b17ce45a",
         "source": "Insurance Journal"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "UBS Asset Management: Growing complexity and industry shifts",
-        "refId": "099ef9a7e25e",
-        "source": "Private Equity International"
-      },
-      {
         "text": "Latham & Watkins on natural problem solvers",
         "refId": "33185b82f2fa",
         "source": "Private Equity International"
@@ -95,6 +90,11 @@
       {
         "text": "StepStone Group on private markets\u2019 analytics revolution",
         "refId": "45e15198cc01",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Download the September 2026 issue of Private Equity International",
+        "refId": "38dcc8cf9b4e",
         "source": "Private Equity International"
       }
     ]
@@ -113,8 +113,8 @@
         "source": "The Overshoot (Matthew Klein)"
       },
       {
-        "text": "A bankruptcy brawl on the golf course",
-        "refId": "b8cf677c98dd",
+        "text": "How Aston Martin\u2019s latest financing sparked a bondholder revolt",
+        "refId": "9fcda0cafd2e",
         "source": "Financial Times Markets"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "5b3035755b60",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Russia markets in everything",
-        "refId": "3e6d58fa558a",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Anthropomorphizing AI?",
         "refId": "a6b02c820314",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Spain fact of the day",
+        "refId": "f6b362ace8dd",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
+        "refId": "6a2531b23120",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "5b3035755b60",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Russia markets in everything",
-        "refId": "3e6d58fa558a",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "South Korea's Shinhan signs for Visa stablecoin platform",
         "refId": "700b91660a15",
         "source": "Finextra"
+      },
+      {
+        "text": "Critics Turn the Lens Back On Flock\u2019s Surveillance Cameras",
+        "refId": "b6310c1e6b86",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Warsh\u2019s \u201cQuiet Fed\u201d Approach Adds a Hawkish Call at Jackson Hole",
+        "refId": "c9d52a3e58a1",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7649.37,
+      "v": 7627.33,
       "base": 7686.14,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26161.115,
-      "base": 26402.42,
+      "v": 26093.31,
+      "base": 26370.89,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52976.03,
-      "base": 53185.9,
+      "v": 52750.41,
+      "base": 53559.99,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.772,
+      "v": 4.796,
       "base": 4.758,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.47,
+      "v": 16.31,
       "base": 14.92,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 185.4852,
+      "v": 183.5922,
       "base": 185.42,
       "bp": false
     }
