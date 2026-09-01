@@ -113,9 +113,9 @@
         "source": "The Overshoot (Matthew Klein)"
       },
       {
-        "text": "How Aston Martin\u2019s latest financing sparked a bondholder revolt",
-        "refId": "9fcda0cafd2e",
-        "source": "Financial Times Markets"
+        "text": "With American Characteristics",
+        "refId": "e3d5afdfdc2a",
+        "source": "Doomberg"
       }
     ]
   },
@@ -186,20 +186,20 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7627.33,
+      "v": 7631.47,
       "base": 7686.14,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26093.31,
+      "v": 26099.773,
       "base": 26370.89,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52750.41,
-      "base": 53559.99,
+      "v": 52766.88,
+      "base": 53185.9,
       "bp": false
     },
     {
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 16.31,
+      "v": 16.34,
       "base": 14.92,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 183.5922,
+      "v": 183.8618,
       "base": 185.42,
       "bp": false
     }
