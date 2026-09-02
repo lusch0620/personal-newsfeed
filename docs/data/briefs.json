@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI",
-        "refId": "88b73963ce71",
+        "text": "Kalshi partners with brokerage Alpaca as it tries to build its international audience",
+        "refId": "7434be56eb0b",
         "source": "CNBC Finance"
       },
       {
-        "text": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
-        "refId": "c7777fc53106",
+        "text": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
+        "refId": "bb8de5058675",
         "source": "CNBC Finance"
       },
       {
-        "text": "ASM share buyback update August 24 \u2013 28, 2026",
-        "refId": "1a9d818ee1c4",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
+        "refId": "6f568a1edbed",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Quiet Force Reshaping Advisor Product Shelves",
-        "refId": "52d40a481754",
+        "text": "Hightower Picks FinTech Dispatch for Onboarding in its Signature Wealth Channel",
+        "refId": "4c12c3c75ab7",
         "source": "Wealth Management"
       },
       {
-        "text": "Helping Clients Understand the U.S. Debt Problem",
-        "refId": "360c2ae85800",
+        "text": "Rise Growth-Backed Grimes Adds Tax Practice, Appoints New COO",
+        "refId": "7cc459c5298b",
         "source": "Wealth Management"
       },
       {
-        "text": "UBS Lures $1.4B Los Angeles Team From Bernstein",
-        "refId": "b11a38dafcca",
+        "text": "Allworth Clears $40B in AUM with Two Deals Worth $947M",
+        "refId": "c0493fe2873a",
         "source": "Wealth Management"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Specialty Insurance Platform Ignyte Acquires InsureMyTrip",
-        "refId": "25e370edd250",
-        "source": "Insurance Journal"
+        "text": "AXA XL Re appoints Augustin Gas as Head of Asia, Reinsurance",
+        "refId": "3c5fe7449363",
+        "source": "Reinsurance News"
       },
       {
-        "text": "US Urges Hands-Off Approach to AI Regulation at G20 Tech Meeting",
-        "refId": "6f62c6a5fbe1",
-        "source": "Insurance Journal"
+        "text": "Reinsurers raise the bar for MGA programmes as focus shifts to sustainable underwriting: Accredited",
+        "refId": "a77cdb419f0e",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Insurance Industry Employee Confidence Tanks on AI Concerns: Report",
-        "refId": "9a5193c5f74c",
-        "source": "Insurance Journal"
+        "text": "John Rice to succeed Peter Zaffino as Chair of AIG Board",
+        "refId": "1c5cfb516e84",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Monday assorted links",
-        "refId": "8745f9715449",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Roundup #87: Technology BAD!!",
         "refId": "5be41e1505e3",
         "source": "Noahpinion (Noah Smith)"
@@ -160,6 +155,11 @@
         "text": "The Hugging Face hack",
         "refId": "f1972727880a",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "More optimistic results on AI and job markets",
+        "refId": "7ac9757b67c0",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI",
-        "refId": "88b73963ce71",
+        "text": "Kalshi partners with brokerage Alpaca as it tries to build its international audience",
+        "refId": "7434be56eb0b",
         "source": "CNBC Finance"
       },
       {
-        "text": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
-        "refId": "c7777fc53106",
+        "text": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
+        "refId": "bb8de5058675",
         "source": "CNBC Finance"
       },
       {
-        "text": "ASM share buyback update August 24 \u2013 28, 2026",
-        "refId": "1a9d818ee1c4",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
+        "refId": "6f568a1edbed",
+        "source": "CNBC Finance"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7675.49,
+      "v": 7667.51,
       "base": 7686.14,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26206.945,
+      "v": 26195.775,
       "base": 26370.89,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53203.61,
+      "v": 53017.78,
       "base": 53185.9,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.794,
+      "v": 4.792,
       "base": 4.796,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.48,
+      "v": 15.24,
       "base": 16.34,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.6928,
+      "v": 186.408,
       "base": 185.42,
       "bp": false
     }
