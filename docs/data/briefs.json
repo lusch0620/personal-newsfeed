@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Kalshi partners with brokerage Alpaca as it tries to build its international audience",
-        "refId": "7434be56eb0b",
+        "text": "Efficient LED Driver Driving Up to 4 RGB Dots While Extending the Device Battery Life",
+        "refId": "0735a0ad452f",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: Nvidia, Robinhood, Novartis & more",
+        "refId": "b29865b96a21",
         "source": "CNBC Finance"
       },
       {
-        "text": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
-        "refId": "bb8de5058675",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
-        "refId": "6f568a1edbed",
-        "source": "CNBC Finance"
+        "text": "FTC Solar\u2019s SUNPATH\u00ae Completes Targeted Technical Evaluation by Enertis Applus+",
+        "refId": "74bc34e62e16",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -23,13 +23,13 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Hightower Picks FinTech Dispatch for Onboarding in its Signature Wealth Channel",
-        "refId": "4c12c3c75ab7",
+        "text": "Rise Growth-Backed Grimes Adds Tax Practice, Appoints New COO",
+        "refId": "7cc459c5298b",
         "source": "Wealth Management"
       },
       {
-        "text": "Rise Growth-Backed Grimes Adds Tax Practice, Appoints New COO",
-        "refId": "7cc459c5298b",
+        "text": "Hightower Picks FinTech Dispatch for Onboarding in its Signature Wealth Channel",
+        "refId": "4c12c3c75ab7",
         "source": "Wealth Management"
       },
       {
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Kalshi partners with brokerage Alpaca as it tries to build its international audience",
-        "refId": "7434be56eb0b",
-        "source": "CNBC Finance"
+        "text": "Download the September 2026 issue of Private Equity International",
+        "refId": "38dcc8cf9b4e",
+        "source": "Private Equity International"
       },
       {
-        "text": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
-        "refId": "bb8de5058675",
-        "source": "CNBC Finance"
+        "text": "KPMG on making the AI roll-out count",
+        "refId": "8148c3cc22da",
+        "source": "Private Equity International"
       },
       {
-        "text": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
-        "refId": "6f568a1edbed",
-        "source": "CNBC Finance"
+        "text": "Middleground Capital: Why AI is the great equaliser",
+        "refId": "e9759a203aa5",
+        "source": "Private Equity International"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7667.51,
+      "v": 7666.6,
       "base": 7686.14,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26195.775,
+      "v": 26217.828,
       "base": 26370.89,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53017.78,
+      "v": 53061.95,
       "base": 53185.9,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.792,
+      "v": 4.796,
       "base": 4.796,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.24,
+      "v": 15.2,
       "base": 16.34,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.408,
+      "v": 186.7676,
       "base": 185.42,
       "bp": false
     }
