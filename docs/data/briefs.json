@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Amazon Sued by FTC Over Claims It Misled Advertisers on Pricing",
-        "refId": "298bec683ee6",
-        "source": "Insurance Journal"
+        "text": "Bamboo Insurance files S-1 for proposed NYSE IPO",
+        "refId": "68e942c43773",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Thailand Shifts Disaster Risk to Insurers With $467 Million Plan",
-        "refId": "2c72bdedb911",
-        "source": "Insurance Journal"
+        "text": "Peak Re names Wattanaumphaipong as Global Head of Distribution & Partnerships",
+        "refId": "4612e37e6f97",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Hormuz Hostilities Pick Up as Two Tankers Reportedly Struck",
-        "refId": "2008b17ce45a",
+        "text": "Guy Carpenter Rebranded as Marsh Re",
+        "refId": "a12a3064de97",
         "source": "Insurance Journal"
       }
     ]
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Critics Turn the Lens Back On Flock\u2019s Surveillance Cameras",
-        "refId": "b6310c1e6b86",
+        "text": "Abbott Introduces America\u2019s First Liquid Baby Formula With Whole Milk",
+        "refId": "4848413f9eed",
         "source": "The Daily Upside"
       },
       {
-        "text": "Warsh\u2019s \u201cQuiet Fed\u201d Approach Adds a Hawkish Call at Jackson Hole",
-        "refId": "c9d52a3e58a1",
+        "text": "OpenAI Notches $1 Billion Ad Milestone",
+        "refId": "7f2d1a6e67f8",
         "source": "The Daily Upside"
       },
       {
-        "text": "Apple Enters Phase 2 of its AI Long Game",
-        "refId": "0d7052c96343",
+        "text": "New US, Iran Strikes Highlight Shrinking US Oil Reserves",
+        "refId": "01e6d669953f",
         "source": "The Daily Upside"
       }
     ]
@@ -147,10 +147,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropomorphizing AI?",
-        "refId": "a6b02c820314",
+        "text": "Spain fact of the day",
+        "refId": "f6b362ace8dd",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
+      {
+        "text": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
+        "refId": "6a2531b23120",
+        "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "AI and Employment: So Far, So Good",
+        "refId": "a3bac834b74d",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
       {
         "text": "Spain fact of the day",
         "refId": "f6b362ace8dd",
@@ -160,26 +175,11 @@
         "text": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
         "refId": "6a2531b23120",
         "source": "Stratechery (Ben Thompson)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Critics Turn the Lens Back On Flock\u2019s Surveillance Cameras",
-        "refId": "b6310c1e6b86",
-        "source": "The Daily Upside"
       },
       {
-        "text": "Warsh\u2019s \u201cQuiet Fed\u201d Approach Adds a Hawkish Call at Jackson Hole",
-        "refId": "c9d52a3e58a1",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Apple Enters Phase 2 of its AI Long Game",
-        "refId": "0d7052c96343",
-        "source": "The Daily Upside"
+        "text": "AMD, Cisco and HUMAIN Expand Saudi Arabia\u2019s AI Infrastructure as AMD Instinct Systems Go Live",
+        "refId": "6b9c8f43ebd9",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
