@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Rise Growth-Backed Grimes Adds Tax Practice, Appoints New COO",
-        "refId": "7cc459c5298b",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Hightower Picks FinTech Dispatch for Onboarding in its Signature Wealth Channel",
         "refId": "4c12c3c75ab7",
         "source": "Wealth Management"
@@ -35,6 +30,11 @@
       {
         "text": "Allworth Clears $40B in AUM with Two Deals Worth $947M",
         "refId": "c0493fe2873a",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Sequoia Financial Acquires $2.3B RIA BSW Wealth Partners, Expanding in Colorado",
+        "refId": "deb164537be0",
         "source": "Wealth Management"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "LSEG collaborates with Payward on tokenised stocks project",
-        "refId": "a3f10fad0716",
-        "source": "Finextra"
-      },
-      {
-        "text": "Canadian fintech investment down by 40% over H1",
-        "refId": "e861faf56208",
-        "source": "Finextra"
-      },
-      {
         "text": "SBI Holdings acquires 20% stake in Indonesian trading app Ajaib",
         "refId": "aad1c2f7deae",
+        "source": "Finextra"
+      },
+      {
+        "text": "IPipeline completes Origo acquisition",
+        "refId": "b1d59737515b",
+        "source": "Finextra"
+      },
+      {
+        "text": "Global banking giants prep stablecoin JV",
+        "refId": "b593c5540406",
         "source": "Finextra"
       }
     ]
