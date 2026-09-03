@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Prediction market traders think job creation rebounded in August",
-        "refId": "1de4c8d977cb",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Stocks making the biggest moves after hours: Dell, MongoDB, GitLab and more",
-        "refId": "923e6ce7bc69",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "InspireSemi Provides Corporate and Financing Updates",
         "refId": "deb2ac013710",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Skyworks Announces Extension of Expiration Date of Exchange Offers for Qorvo\u2019s Senior Notes due 2029 and 2031",
+        "refId": "7d53e76753da",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Hugging Face's new duck robot is selling fast. A Chinese chip powers it",
+        "refId": "0f66f210df86",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "&amp;Partners Recruits Two Teams With $1.5B in AUM",
-        "refId": "05a63efe0196",
-        "source": "Wealth Management"
-      },
-      {
         "text": "After Fidelity shutdown its password-sharing business model last year, Pontera's new tack is a 'non-discretionary service' while it waits out a CFPB decision on bank data-sharing fees and offers APIs to all comers",
         "refId": "0701d8b275f9",
         "source": "RIABiz"
       },
       {
-        "text": "F.L.Putnam Lands Biggest Acquisition to Date With $1B Wisconsin Team",
-        "refId": "e330e6d53320",
+        "text": "Investor New Mountain Exits $63B Broker/Dealer Lincoln Investment",
+        "refId": "df4712a03b27",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Formula Clause Fallout",
+        "refId": "47e56d7ee47f",
         "source": "Wealth Management"
       }
     ]
@@ -42,11 +42,6 @@
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "UN Warns Global Warming Will Exceed 1.5C and Must Be Reversed",
-        "refId": "6f23cb8e2466",
-        "source": "Insurance Journal"
-      },
       {
         "text": "What captive agents underestimate about running their own agencies",
         "refId": "8ee99a7ffbec",
@@ -56,17 +51,17 @@
         "text": "People Moves: Silva to Succeed Retiring Welch as Amica Chief Claims Officer",
         "refId": "7c4f89d7083a",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "What 25 Acquisitions Taught Me About Operational Consistency",
+        "refId": "7767a76ba278",
+        "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "CMBS Delinquency Rate Decreased One Basis Point in August 2026",
-        "refId": "03e3bbb9c911",
-        "source": "Trepp Talk"
-      },
       {
         "text": "Jack Henry falls victim to ransomware attack",
         "refId": "8f04e5517d9c",
@@ -76,6 +71,11 @@
         "text": "F\u00e9lix raises $200m in equity and debt to expand beyond remittances",
         "refId": "00ada8d5b5ed",
         "source": "Finextra"
+      },
+      {
+        "text": "Block opens up its Cash App Score to other lenders",
+        "refId": "fb8b92db830b",
+        "source": "Finextra"
       }
     ]
   },
@@ -83,19 +83,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ocean Avenue targets $750m for sixth independent sponsors fund",
-        "refId": "6f9b2506f614",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "Blue Sea Capital reshapes strategy as co-founder prepares new firm",
-        "refId": "c4cda6370b27",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "Side Letter: Co-investment stranglehold",
         "refId": "d4eaafb4ded6",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Florida SBA appoints John Bradley to head private markets investments",
+        "refId": "d427eabd85dd",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Kimmeridge raises bulk of $1.5bn target for latest oil and gas fund",
+        "refId": "ac6c6fd6c1af",
+        "source": "Buyouts Insider"
       }
     ]
   },
@@ -108,13 +108,13 @@
         "source": "TKer (Sam Ro)"
       },
       {
-        "text": "The new rivalry on Wall Street",
-        "refId": "f914a958af52",
+        "text": "More on the 60/40 portfolio",
+        "refId": "d5ba9b1e31be",
         "source": "Financial Times Markets"
       },
       {
-        "text": "More on the 60/40 portfolio",
-        "refId": "d5ba9b1e31be",
+        "text": "Why does it even matter if SoftBank\u2019s an investment holding company?",
+        "refId": "1b5f78d81dbd",
         "source": "Financial Times Markets"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Who values democracy?",
-        "refId": "30b284948b69",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "The College Wage Premium in the Generative AI Era",
         "refId": "9ff19ec92eb8",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "America is still poised for a data center boom",
         "refId": "1ed81af1ee13",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Fable 5.1, Enterprise Frontier Safeguards",
+        "refId": "5a3909dc6694",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Who values democracy?",
-        "refId": "30b284948b69",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "InspireSemi Provides Corporate and Financing Updates",
+        "refId": "deb2ac013710",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "&amp;Partners Recruits Two Teams With $1.5B in AUM",
-        "refId": "05a63efe0196",
-        "source": "Wealth Management"
+        "text": "Jack Henry falls victim to ransomware attack",
+        "refId": "8f04e5517d9c",
+        "source": "Finextra"
       },
       {
-        "text": "Ocean Avenue targets $750m for sixth independent sponsors fund",
-        "refId": "6f9b2506f614",
-        "source": "Buyouts Insider"
+        "text": "F\u00e9lix raises $200m in equity and debt to expand beyond remittances",
+        "refId": "00ada8d5b5ed",
+        "source": "Finextra"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7755.1,
+      "v": 7747.71,
       "base": 7631.47,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26634.926,
+      "v": 26584.06,
       "base": 26099.77,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53700.75,
+      "v": 53686.11,
       "base": 52766.88,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.756,
+      "v": 4.762,
       "base": 4.796,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.5,
+      "v": 14.32,
       "base": 15.2,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 189.3083,
+      "v": 189.725,
       "base": 183.86,
       "bp": false
     }
