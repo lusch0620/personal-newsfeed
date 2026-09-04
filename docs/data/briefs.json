@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "TD pushes US branch expansion amid AML reform",
-        "refId": "7d78ea70166a",
-        "source": "Banking Dive"
-      },
-      {
         "text": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
         "refId": "727a688f485c",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more",
         "refId": "572831c827ee",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Skyworks to Present at the Goldman Sachs Communacopia and Technology Conference",
+        "refId": "ea7f10c4b6a7",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Schwab Imposes Stricter Limits on Tax-Aware Long-Short Accounts",
-        "refId": "6a882678ffe0",
+        "text": "Transamerica, Great Lakes Advisors Expand Partnership to Managed Accounts",
+        "refId": "ee2dad8be338",
         "source": "Wealth Management"
       },
       {
-        "text": "AI-Enabled Hospitality Is Elevating the Client Experience",
-        "refId": "8febd09af1f7",
+        "text": "The Real Reason Your Best Prospects Say 'We'll Think About It'",
+        "refId": "f49479158450",
         "source": "Wealth Management"
       },
       {
-        "text": "The Diamond Podcast for Financial Advisors: Making the Leap from Northwestern Mutual to a $20B Enterprise",
-        "refId": "d8640b65b608",
+        "text": "People, Process and Profit: A Growth Framework for RIAs",
+        "refId": "c0b4448942e8",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "September 2026 CMBS Hard Maturities Reveal Higher Refinance Risk Despite Smaller Cohort",
-        "refId": "706767a6ea16",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "TabaPay closes $155m financing; agrees to buy a bank",
         "refId": "85b59bf8c172",
         "source": "Finextra"
@@ -76,17 +71,17 @@
         "text": "Amazon shopping assistant now helps users check if a message is a scam",
         "refId": "f48c939d166a",
         "source": "Finextra"
+      },
+      {
+        "text": "Colombian fintech Plenti raises $3 million in Tether-led seed round",
+        "refId": "a53879e65ab3",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Kimmeridge raises bulk of $1.5bn target for latest oil and gas fund",
-        "refId": "ac6c6fd6c1af",
-        "source": "Buyouts Insider"
-      },
       {
         "text": "Manager due diligence 2.0 is already here",
         "refId": "d96f9fc82e1f",
@@ -95,6 +90,11 @@
       {
         "text": "Three AI challenges facing GPs",
         "refId": "aab36eff3f9a",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Where\u2019s the ROI in AI?",
+        "refId": "c23931a4b3f4",
         "source": "Private Equity International"
       }
     ]
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "September 2026 CMBS Hard Maturities Reveal Higher Refinance Risk Despite Smaller Cohort",
-        "refId": "706767a6ea16",
-        "source": "Trepp Talk"
+        "text": "TabaPay closes $155m financing; agrees to buy a bank",
+        "refId": "85b59bf8c172",
+        "source": "Finextra"
       },
       {
-        "text": "TD pushes US branch expansion amid AML reform",
-        "refId": "7d78ea70166a",
-        "source": "Banking Dive"
+        "text": "Amazon shopping assistant now helps users check if a message is a scam",
+        "refId": "f48c939d166a",
+        "source": "Finextra"
       },
       {
-        "text": "Kimmeridge raises bulk of $1.5bn target for latest oil and gas fund",
-        "refId": "ac6c6fd6c1af",
-        "source": "Buyouts Insider"
+        "text": "Manager due diligence 2.0 is already here",
+        "refId": "d96f9fc82e1f",
+        "source": "Private Equity International"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7709.2,
+      "v": 7718.6,
       "base": 7666.6,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26453.795,
+      "v": 26506.99,
       "base": 26217.83,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53376.26,
+      "v": 53414.25,
       "base": 53061.95,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.772,
+      "v": 4.784,
       "base": 4.762,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.21,
+      "v": 14.53,
       "base": 14.32,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 189.76,
+      "v": 189.574,
       "base": 186.77,
       "bp": false
     }
