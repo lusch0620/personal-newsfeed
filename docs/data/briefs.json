@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Banks can question customer activity without disclosing SARs",
-        "refId": "ed76c156878c",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Kansas\u2019 Equity Bank to expand in Iowa with $123.8M deal",
-        "refId": "3b17d5035e72",
-        "source": "Banking Dive"
-      },
-      {
         "text": "Ambarella, Inc. Announces Second Quarter Fiscal Year 2027 Financial Results",
         "refId": "9dd88b707d48",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Ambarella and Macnica Enter a Long-Term Strategic Distribution Agreement to Accelerate Edge AI Infrastructure and Physical AI Adoption",
+        "refId": "7c741b26abb3",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Ambarella Engages Capgemini to Help Accelerate Enterprise Adoption of Edge and Physical AI",
+        "refId": "0799100792c6",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
@@ -23,19 +23,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Real Reason Your Best Prospects Say 'We'll Think About It'",
-        "refId": "f49479158450",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "People, Process and Profit: A Growth Framework for RIAs",
-        "refId": "c0b4448942e8",
-        "source": "Wealth Management"
-      },
-      {
         "text": "DOJ Charges Former Linqto Head For Alleged Pre-IPO Fraud",
         "refId": "dc1501c76e2f",
         "source": "Wealth Management"
+      },
+      {
+        "text": "Can the \u2018Vanguard Effect\u2019 Extend to Wealth Management?",
+        "refId": "f720dd0380a2",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "SEC seeks to rescind 2010 'pay-to-play' rule, paving the way for investment advisors to again bid for public pension contracts while making political donations to officials with influence over pension awards",
+        "refId": "3b8de2d5c11b",
+        "source": "RIABiz"
       }
     ]
   },
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Revolut achieves conditional OCC approval for US national bank status",
-        "refId": "9e182fc5e66d",
-        "source": "Finextra"
-      },
-      {
         "text": "Large New York Loans Are Driving 2026 Office CMBS Origination Volume, and Carrying Lower Debt Yields",
         "refId": "c387859118a8",
         "source": "Trepp Talk"
@@ -76,17 +71,17 @@
         "text": "Anthropic launches AI commerce agents with Visa and Mastercard",
         "refId": "e91349082777",
         "source": "Finextra"
+      },
+      {
+        "text": "BNP Paribas and HSBC complete first corporate treasury transaction on Swift's blockchain ledger",
+        "refId": "1f5380d784d1",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "PE must be a good sport when it comes to sports investing",
-        "refId": "eac1b1226637",
-        "source": "Private Equity International"
-      },
       {
         "text": "Carlyle, Dynasty Equity close minority investments in Seattle Seahawks",
         "refId": "04ca99d41ab8",
@@ -96,6 +91,11 @@
         "text": "Louisiana Teachers adjusts PE pacing to combat buyout overweighting",
         "refId": "495ce113f7e2",
         "source": "Buyouts Insider"
+      },
+      {
+        "text": "KKR to sell minority stake in Nordic Bioscience to company founder",
+        "refId": "8c28d595f207",
+        "source": "PE Hub"
       }
     ]
   },
@@ -103,19 +103,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "North American Oil Data Deck (September 2026)",
-        "refId": "5d527a6c3bfb",
-        "source": "Commodity Context"
-      },
-      {
-        "text": "Rate Rise in Play as Fed Officials Await Inflation Data",
-        "refId": "0e68007aeff1",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "The Athletic Says Dianna Russini\u2019s Relationship With Mike Vrabel Violated Its Standards",
         "refId": "b6d89c71b805",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "More stock ownership, weaker monetary policy?",
+        "refId": "25aa27c82731",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Fear not the bond market skinny dippers",
+        "refId": "d3660960fd12",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "And it begins\u2026(a good start\u2026)",
-        "refId": "78978e355e90",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III",
         "refId": "fb8f0f5fdfe9",
         "source": "Construction Physics (Brian Potter)"
@@ -160,6 +155,11 @@
         "text": "Share price numbers for the Hugging Face incident",
         "refId": "f50f2f207af1",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Shout it from the rooftops (of the data centers)",
+        "refId": "5830a95a995d",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "PE must be a good sport when it comes to sports investing",
-        "refId": "eac1b1226637",
-        "source": "Private Equity International"
+        "text": "Large New York Loans Are Driving 2026 Office CMBS Origination Volume, and Carrying Lower Debt Yields",
+        "refId": "c387859118a8",
+        "source": "Trepp Talk"
       },
       {
-        "text": "North American Oil Data Deck (September 2026)",
-        "refId": "5d527a6c3bfb",
-        "source": "Commodity Context"
+        "text": "DOJ Charges Former Linqto Head For Alleged Pre-IPO Fraud",
+        "refId": "dc1501c76e2f",
+        "source": "Wealth Management"
       },
       {
-        "text": "Banks can question customer activity without disclosing SARs",
-        "refId": "ed76c156878c",
-        "source": "Banking Dive"
+        "text": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III",
+        "refId": "fb8f0f5fdfe9",
+        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
