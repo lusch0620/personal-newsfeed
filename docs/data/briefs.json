@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
-        "refId": "727a688f485c",
-        "source": "CNBC Finance"
+        "text": "Banks can question customer activity without disclosing SARs",
+        "refId": "ed76c156878c",
+        "source": "Banking Dive"
       },
       {
-        "text": "Stocks making the biggest moves premarket: Snowflake, Moderna, Broadcom & more",
-        "refId": "572831c827ee",
-        "source": "CNBC Finance"
+        "text": "Kansas\u2019 Equity Bank to expand in Iowa with $123.8M deal",
+        "refId": "3b17d5035e72",
+        "source": "Banking Dive"
       },
       {
-        "text": "Skyworks to Present at the Goldman Sachs Communacopia and Technology Conference",
-        "refId": "ea7f10c4b6a7",
+        "text": "Ambarella, Inc. Announces Second Quarter Fiscal Year 2027 Financial Results",
+        "refId": "9dd88b707d48",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
@@ -22,11 +22,6 @@
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Transamerica, Great Lakes Advisors Expand Partnership to Managed Accounts",
-        "refId": "ee2dad8be338",
-        "source": "Wealth Management"
-      },
       {
         "text": "The Real Reason Your Best Prospects Say 'We'll Think About It'",
         "refId": "f49479158450",
@@ -36,17 +31,17 @@
         "text": "People, Process and Profit: A Growth Framework for RIAs",
         "refId": "c0b4448942e8",
         "source": "Wealth Management"
+      },
+      {
+        "text": "DOJ Charges Former Linqto Head For Alleged Pre-IPO Fraud",
+        "refId": "dc1501c76e2f",
+        "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "QBE completes sale of Global Trade Credit and Surety unit to Swiss Re Corporate Solutions",
-        "refId": "e1bdc41ffb6c",
-        "source": "Reinsurance News"
-      },
       {
         "text": "EQT agrees to acquire majority stake in McGill and Partners for $2bn from Warburg Pincus",
         "refId": "3eb392343339",
@@ -56,6 +51,11 @@
         "text": "Howden Re and Synthetik launch dedicated SRCC analytics capability, UNREST",
         "refId": "36e74dfbe9fb",
         "source": "Reinsurance News"
+      },
+      {
+        "text": "MS Amlin adds Sarah Reidy to newly created role of Commercial Director",
+        "refId": "a6e98dd113cc",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Colombian fintech Plenti raises $3 million in Tether-led seed round",
-        "refId": "a53879e65ab3",
+        "text": "Revolut achieves conditional OCC approval for US national bank status",
+        "refId": "9e182fc5e66d",
         "source": "Finextra"
       },
       {
-        "text": "RBA concludes no case for retail CBDC in Australia",
-        "refId": "7eddac2192ea",
-        "source": "Finextra"
+        "text": "Large New York Loans Are Driving 2026 Office CMBS Origination Volume, and Carrying Lower Debt Yields",
+        "refId": "c387859118a8",
+        "source": "Trepp Talk"
       },
       {
-        "text": "PensionBee introduces automatic withdrawals",
-        "refId": "62c8cd03d219",
+        "text": "Anthropic launches AI commerce agents with Visa and Mastercard",
+        "refId": "e91349082777",
         "source": "Finextra"
       }
     ]
@@ -83,30 +83,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Manager due diligence 2.0 is already here",
-        "refId": "d96f9fc82e1f",
+        "text": "PE must be a good sport when it comes to sports investing",
+        "refId": "eac1b1226637",
         "source": "Private Equity International"
       },
       {
-        "text": "Three AI challenges facing GPs",
-        "refId": "aab36eff3f9a",
-        "source": "Private Equity International"
+        "text": "Carlyle, Dynasty Equity close minority investments in Seattle Seahawks",
+        "refId": "04ca99d41ab8",
+        "source": "PE Hub"
       },
       {
-        "text": "Where\u2019s the ROI in AI?",
-        "refId": "c23931a4b3f4",
-        "source": "Private Equity International"
+        "text": "Louisiana Teachers adjusts PE pacing to combat buyout overweighting",
+        "refId": "495ce113f7e2",
+        "source": "Buyouts Insider"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Sign Up for DealBook",
-        "refId": "c7eece17793a",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "North American Oil Data Deck (September 2026)",
         "refId": "5d527a6c3bfb",
@@ -116,6 +111,11 @@
         "text": "Rate Rise in Play as Fed Officials Await Inflation Data",
         "refId": "0e68007aeff1",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "The Athletic Says Dianna Russini\u2019s Relationship With Mike Vrabel Violated Its Standards",
+        "refId": "b6d89c71b805",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "NASA Taps Blue Origin for $700 Million Mars Contract, Further Diversifying From SpaceX",
-        "refId": "b104ea2a5e5c",
+        "text": "Severe US Cattle Shortage Eats Into Meatpacker Tyson\u2019s Earnings",
+        "refId": "edf72b05b2d2",
         "source": "The Daily Upside"
       },
       {
-        "text": "Ford, GM Face Off Overseas in Bids to Build British Army\u2019s Next-Generation Vehicle",
-        "refId": "be8ff3f78d19",
+        "text": "Blackstone Private Credit Fund Caps Withdrawals in Fresh Test for Strained Market",
+        "refId": "51f9d6e88d22",
         "source": "The Daily Upside"
       },
       {
-        "text": "Uber, Waymo and Tesla Speed Toward Driverless Future",
-        "refId": "21bb548f51e5",
+        "text": "Nvidia Raises Bet on Open-Source AI With $13B Hugging Face Deal",
+        "refId": "447e6acb86a3",
         "source": "The Daily Upside"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "My excellent Conversation with Michael Moritz",
-        "refId": "2aeb4d8127d1",
+        "text": "And it begins\u2026(a good start\u2026)",
+        "refId": "78978e355e90",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Thursday assorted links",
-        "refId": "4f3b430061a3",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III",
+        "refId": "fb8f0f5fdfe9",
+        "source": "Construction Physics (Brian Potter)"
       },
       {
-        "text": "Why you won\u2019t get a flying car",
-        "refId": "4c09686812e1",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Share price numbers for the Hugging Face incident",
+        "refId": "f50f2f207af1",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Manager due diligence 2.0 is already here",
-        "refId": "d96f9fc82e1f",
+        "text": "PE must be a good sport when it comes to sports investing",
+        "refId": "eac1b1226637",
         "source": "Private Equity International"
       },
       {
-        "text": "Three AI challenges facing GPs",
-        "refId": "aab36eff3f9a",
-        "source": "Private Equity International"
+        "text": "North American Oil Data Deck (September 2026)",
+        "refId": "5d527a6c3bfb",
+        "source": "Commodity Context"
       },
       {
-        "text": "Where\u2019s the ROI in AI?",
-        "refId": "c23931a4b3f4",
-        "source": "Private Equity International"
+        "text": "Banks can question customer activity without disclosing SARs",
+        "refId": "ed76c156878c",
+        "source": "Banking Dive"
       }
     ]
   },
