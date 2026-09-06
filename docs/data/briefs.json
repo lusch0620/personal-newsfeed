@@ -1,12 +1,7 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "2 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
-      {
-        "text": "Stocks making the biggest moves midday: Sandisk, Tesla, Lululemon, Quanex, AMC & more",
-        "refId": "b6d9a57a64ad",
-        "source": "CNBC Finance"
-      },
       {
         "text": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
         "refId": "2c359012fc84",
@@ -15,13 +10,8 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
-      {
-        "text": "Washington State Considers RIA Insurance Mandate",
-        "refId": "b0823a814109",
-        "source": "Wealth Management"
-      },
       {
         "text": "MassMutual helps Flourish find white knight buyer and regain 'standalone' status just months ahead of Phase II rollout that makes its 1,300 RIA clients more like a giant virtual private bank",
         "refId": "d1c70e413714",
@@ -50,14 +40,8 @@
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "ECB explores link between Tips and Brazil's Pix",
-        "refId": "5d406c2e6a77",
-        "source": "Finextra"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -67,19 +51,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
-        "refId": "fe5f522bfe98",
+        "text": "The repo market is the \u2018dark matter\u2019 of finance: powerful and perilous",
+        "refId": "16dc19d5328c",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Complacency Before The Cliff (Bonds)",
-        "refId": "db71b566df1a",
-        "source": "Capital Flows Research"
+        "text": "The gloves are starting to come off in markets",
+        "refId": "7eed923e81fa",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Oil Context Weekly (W36)",
-        "refId": "f0f1d4328ce3",
-        "source": "Commodity Context"
+        "text": "Jefferies fund caught with $500mn exposure to second alleged invoice fraud",
+        "refId": "493a15470931",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -126,18 +110,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves midday: Sandisk, Tesla, Lululemon, Quanex, AMC & more",
-        "refId": "b6d9a57a64ad",
-        "source": "CNBC Finance"
+        "text": "The repo market is the \u2018dark matter\u2019 of finance: powerful and perilous",
+        "refId": "16dc19d5328c",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Washington State Considers RIA Insurance Mandate",
-        "refId": "b0823a814109",
-        "source": "Wealth Management"
+        "text": "The gloves are starting to come off in markets",
+        "refId": "7eed923e81fa",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
-        "refId": "fe5f522bfe98",
+        "text": "Jefferies fund caught with $500mn exposure to second alleged invoice fraud",
+        "refId": "493a15470931",
         "source": "Financial Times Markets"
       }
     ]
