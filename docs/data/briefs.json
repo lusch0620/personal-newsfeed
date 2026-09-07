@@ -1,56 +1,70 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "1 story in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
         "refId": "2c359012fc84",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "ASM to nominate Rutger Wijburg to the Supervisory Board",
+        "refId": "a1a54c0ef6e6",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "China says it will pump $54 billion into banks and insurers \u2014 but their stocks still fell",
+        "refId": "df731cf75779",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "MassMutual helps Flourish find white knight buyer and regain 'standalone' status just months ahead of Phase II rollout that makes its 1,300 RIA clients more like a giant virtual private bank",
-        "refId": "d1c70e413714",
-        "source": "RIABiz"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Cedar Trace obtains in-principle approval from Lloyd\u2019s for new $300m syndicate",
-        "refId": "f8335f0a54e3",
-        "source": "Reinsurance News"
+        "text": "Judge Nixes Uber\u2019s RICO Suit Alleging NY Lawyers, Doctors Conspired on Auto Claims",
+        "refId": "3951f0ca9dd7",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Reinsurer flexibility gives Gallagher Re confidence ahead of Jan 1 renewals: Dowlen, EMEA CEO",
-        "refId": "411e56fc8383",
-        "source": "Reinsurance News"
+        "text": "Ohio City to Pay $4.7M to Family of Teenager Killed by Police",
+        "refId": "2375f3f4784f",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Reinsurance sector set for \u2018controlled descent\u2019 as margins come under pressure: Fitch",
-        "refId": "7b4a5c6e7fea",
-        "source": "Reinsurance News"
+        "text": "Kansas Town Settles Lawsuit Over Controversial Raid of Newspaper",
+        "refId": "b1f10ad50c95",
+        "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "TD Bank COO leaves after less than a year in the job",
         "refId": "302bf4bbad2b",
         "source": "Finextra"
+      },
+      {
+        "text": "EMEA fintech funding declined in H1",
+        "refId": "227b474d29d6",
+        "source": "Finextra"
+      },
+      {
+        "text": "UBS calls for AI literacy from new recruits",
+        "refId": "b24b9ac72b36",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "3 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Investors eye opportunities beyond the padel hype",
@@ -73,19 +87,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Necessary Inventions",
-        "refId": "885549bae113",
-        "source": "Doomberg"
+        "text": "How a Blacklisted Chinese Tech Giant Kept Buying America\u2019s Best A.I. Chips",
+        "refId": "5da8f575b372",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Treasury sell-off piles pressure on weakest US borrowers",
-        "refId": "b9eb573e8776",
+        "text": "Big US university endowments outperform S&P 500 index",
+        "refId": "50ef0068e59c",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Will a data center hurt your home\u2019s value? Research says no. Sellers disagree.",
-        "refId": "b548b3f35cee",
-        "source": "MarketWatch"
+        "text": "FNZ: the Credit Suisse spinout haemorrhaging cash",
+        "refId": "aaa6c1281094",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -117,18 +131,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Mein Ingeborg Bachmann Studium",
-        "refId": "aeca0c48f114",
+        "text": "Short Videos, Big Self-Control Problems",
+        "refId": "d707553752ab",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "America is still beating China in the AI race",
-        "refId": "4babacc65305",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Sunday assorted links",
+        "refId": "dd824080b81b",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The Kalshi Citizen Debt Forecast (CDF)",
-        "refId": "0f1b120edd80",
+        "text": "Insurance price sentences to ponder",
+        "refId": "1b92248d3896",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -137,19 +151,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Mein Ingeborg Bachmann Studium",
-        "refId": "aeca0c48f114",
+        "text": "Short Videos, Big Self-Control Problems",
+        "refId": "d707553752ab",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "America is still beating China in the AI race",
-        "refId": "4babacc65305",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Say Hello to the New CEO. Where Will John Ternus Lead Apple?",
+        "refId": "0132e088c1b6",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Necessary Inventions",
-        "refId": "885549bae113",
-        "source": "Doomberg"
+        "text": "How a Blacklisted Chinese Tech Giant Kept Buying America\u2019s Best A.I. Chips",
+        "refId": "5da8f575b372",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -180,8 +194,8 @@
     },
     {
       "nm": "VIX",
-      "v": 14.53,
-      "base": 14.32,
+      "v": 15.3,
+      "base": 14.53,
       "bp": false
     },
     {
