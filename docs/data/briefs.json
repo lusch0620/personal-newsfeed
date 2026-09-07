@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "\u2018Physical economy is back\u2019 as data centres become strategic infrastructure: Swiss Re",
-        "refId": "0f74c8e31b5a",
-        "source": "Reinsurance News"
-      },
-      {
         "text": "Cedar Trace obtains in-principle approval from Lloyd\u2019s for new $300m syndicate",
         "refId": "f8335f0a54e3",
         "source": "Reinsurance News"
@@ -36,39 +31,66 @@
         "text": "Reinsurer flexibility gives Gallagher Re confidence ahead of Jan 1 renewals: Dowlen, EMEA CEO",
         "refId": "411e56fc8383",
         "source": "Reinsurance News"
+      },
+      {
+        "text": "Reinsurance sector set for \u2018controlled descent\u2019 as margins come under pressure: Fitch",
+        "refId": "7b4a5c6e7fea",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "1 story in this lane today.",
+    "bullets": [
+      {
+        "text": "TD Bank COO leaves after less than a year in the job",
+        "refId": "302bf4bbad2b",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "3 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Investors eye opportunities beyond the padel hype",
+        "refId": "cdbff484d043",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "PE turns its attention to women\u2019s sports",
+        "refId": "7a59277d15e5",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Private equity firms teaming up with athletes as ambassadors",
+        "refId": "b3ff5950daaa",
+        "source": "Private Equity International"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The repo market is the \u2018dark matter\u2019 of finance: powerful and perilous",
-        "refId": "16dc19d5328c",
+        "text": "Necessary Inventions",
+        "refId": "885549bae113",
+        "source": "Doomberg"
+      },
+      {
+        "text": "Treasury sell-off piles pressure on weakest US borrowers",
+        "refId": "b9eb573e8776",
         "source": "Financial Times Markets"
       },
       {
-        "text": "The gloves are starting to come off in markets",
-        "refId": "7eed923e81fa",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Jefferies fund caught with $500mn exposure to second alleged invoice fraud",
-        "refId": "493a15470931",
-        "source": "Financial Times Markets"
+        "text": "Will a data center hurt your home\u2019s value? Research says no. Sellers disagree.",
+        "refId": "b548b3f35cee",
+        "source": "MarketWatch"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Say Hello to the New CEO. Where Will John Ternus Lead Apple?",
@@ -78,6 +100,11 @@
       {
         "text": "Five Signs It\u2019s Time to Reduce Equity Exposure",
         "refId": "3e7380ac3231",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Can YouTube Catch TikTok in the Live Shopping Wars?",
+        "refId": "d468b8b75610",
         "source": "The Daily Upside"
       }
     ]
@@ -90,10 +117,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Is Lichtenstein an actual monarchy?",
-        "refId": "23e981f2d517",
+        "text": "Mein Ingeborg Bachmann Studium",
+        "refId": "aeca0c48f114",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
+      {
+        "text": "America is still beating China in the AI race",
+        "refId": "4babacc65305",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "The Kalshi Citizen Debt Forecast (CDF)",
+        "refId": "0f1b120edd80",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
       {
         "text": "Mein Ingeborg Bachmann Studium",
         "refId": "aeca0c48f114",
@@ -103,26 +145,11 @@
         "text": "America is still beating China in the AI race",
         "refId": "4babacc65305",
         "source": "Noahpinion (Noah Smith)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "The repo market is the \u2018dark matter\u2019 of finance: powerful and perilous",
-        "refId": "16dc19d5328c",
-        "source": "Financial Times Markets"
       },
       {
-        "text": "The gloves are starting to come off in markets",
-        "refId": "7eed923e81fa",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Jefferies fund caught with $500mn exposure to second alleged invoice fraud",
-        "refId": "493a15470931",
-        "source": "Financial Times Markets"
+        "text": "Necessary Inventions",
+        "refId": "885549bae113",
+        "source": "Doomberg"
       }
     ]
   },
