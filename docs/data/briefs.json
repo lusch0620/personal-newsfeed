@@ -20,7 +20,7 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Why Vanguard is Still an Enigma to the 401(k) Industry",
@@ -28,8 +28,13 @@
         "source": "Wealth Management"
       },
       {
-        "text": "The T&amp;E Inner Circle | Planning With Embryos",
-        "refId": "78e567a046d7",
+        "text": "Trusts &amp; Estates: September 2026 Digital Edition",
+        "refId": "14275c079186",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "10 Investment Must Reads for This Week (Sept. 8, 2026)",
+        "refId": "41f495a54c46",
         "source": "Wealth Management"
       }
     ]
@@ -38,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Canada Loses 41,700 Jobs as Employment Shrinks in Finance",
-        "refId": "d10025f16933",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Abundant capacity and volatility are helping the re/insurance market innovate: Aon\u2019s Lyons",
-        "refId": "644505febc04",
+        "text": "MS Re\u2019s Bruniecki says retentions to hold as attachment points stay disciplined",
+        "refId": "87e6aca0471e",
         "source": "Reinsurance News"
       },
       {
-        "text": "Breaking the Mold: The Role of MGA Innovation in Today\u2019s Specialty Market",
-        "refId": "65d4772f880e",
+        "text": "P&I reinsurance rates expected to increase further heading into 27/28 renewals: Gallagher Specialty",
+        "refId": "855adebcd8a1",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "China Injects $45 Billion in Banks, Insurers to Boost Growth",
+        "refId": "e5c72981ff96",
         "source": "Insurance Journal"
       }
     ]
@@ -142,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "dd824080b81b",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Insurance price sentences to ponder",
         "refId": "1b92248d3896",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -155,17 +155,17 @@
         "text": "Emergent Ventures winners, 59th cohort",
         "refId": "a369fd23e671",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Capital gains vs. wealth taxes",
+        "refId": "0902cb0374e0",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Sunday assorted links",
-        "refId": "dd824080b81b",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "Insurance price sentences to ponder",
         "refId": "1b92248d3896",
@@ -175,25 +175,30 @@
         "text": "Investors eye opportunities beyond the padel hype",
         "refId": "cdbff484d043",
         "source": "Private Equity International"
+      },
+      {
+        "text": "PE turns its attention to women\u2019s sports",
+        "refId": "7a59277d15e5",
+        "source": "Private Equity International"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7687.26,
+      "v": 7694.0,
       "base": 7747.71,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26408.283,
+      "v": 26477.02,
       "base": 26584.06,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52807.67,
+      "v": 52903.41,
       "base": 53686.11,
       "bp": false
     },
@@ -205,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 15.5,
+      "v": 15.28,
       "base": 15.3,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.038,
+      "v": 188.6807,
       "base": 189.73,
       "bp": false
     }
