@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
-        "refId": "2c359012fc84",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "ASM to nominate Rutger Wijburg to the Supervisory Board",
         "refId": "a1a54c0ef6e6",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -16,29 +11,45 @@
         "text": "ASML reports transactions under its current share buyback program",
         "refId": "4b0818e2bca2",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "SOITEC - INFORMATION RELATING TO THE TOTAL NUMBER OF VOTING RIGHTS AND SHARES FORMING THE SHARE CAPITAL",
+        "refId": "9e79abddb4c0",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "2 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Why Vanguard is Still an Enigma to the 401(k) Industry",
+        "refId": "b0f8a3782fb4",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "The T&amp;E Inner Circle | Planning With Embryos",
+        "refId": "78e567a046d7",
+        "source": "Wealth Management"
+      }
+    ]
   },
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Judge Nixes Uber\u2019s RICO Suit Alleging NY Lawyers, Doctors Conspired on Auto Claims",
-        "refId": "3951f0ca9dd7",
+        "text": "Canada Loses 41,700 Jobs as Employment Shrinks in Finance",
+        "refId": "d10025f16933",
         "source": "Insurance Journal"
       },
       {
-        "text": "Ohio City to Pay $4.7M to Family of Teenager Killed by Police",
-        "refId": "2375f3f4784f",
-        "source": "Insurance Journal"
+        "text": "Abundant capacity and volatility are helping the re/insurance market innovate: Aon\u2019s Lyons",
+        "refId": "644505febc04",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Kansas Town Settles Lawsuit Over Controversial Raid of Newspaper",
-        "refId": "b1f10ad50c95",
+        "text": "Breaking the Mold: The Role of MGA Innovation in Today\u2019s Specialty Market",
+        "refId": "65d4772f880e",
         "source": "Insurance Journal"
       }
     ]
@@ -47,11 +58,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "TD Bank COO leaves after less than a year in the job",
-        "refId": "302bf4bbad2b",
-        "source": "Finextra"
-      },
-      {
         "text": "EMEA fintech funding declined in H1",
         "refId": "227b474d29d6",
         "source": "Finextra"
@@ -59,6 +65,11 @@
       {
         "text": "UBS calls for AI literacy from new recruits",
         "refId": "b24b9ac72b36",
+        "source": "Finextra"
+      },
+      {
+        "text": "European wealthtech funding drops amid investor caution",
+        "refId": "4054e5429f3a",
         "source": "Finextra"
       }
     ]
@@ -92,25 +103,20 @@
         "source": "Capital Flows Research"
       },
       {
-        "text": "Saudi Aramco oil facilities hit in new strikes",
-        "refId": "360bf20eec8e",
-        "source": "Financial Times Markets"
+        "text": "The first question to ask when someone tells you where stocks are headed \ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f",
+        "refId": "7a3945ec2500",
+        "source": "TKer (Sam Ro)"
       },
       {
-        "text": "Is the stock market open today for Labor Day? What about bond trading and mail delivery?",
-        "refId": "7934073eabde",
-        "source": "MarketWatch"
+        "text": "How a Blacklisted Chinese Tech Giant Kept Buying America\u2019s Best A.I. Chips",
+        "refId": "5da8f575b372",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "Newsletters": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Five Signs It\u2019s Time to Reduce Equity Exposure",
-        "refId": "3e7380ac3231",
-        "source": "The Daily Upside"
-      },
       {
         "text": "Can YouTube Catch TikTok in the Live Shopping Wars?",
         "refId": "d468b8b75610",
@@ -119,6 +125,11 @@
       {
         "text": "Battered Oracle May Be Poised for Rally as Investors Renew Software Bets",
         "refId": "f7bf0aace792",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Chevron Targets $7B Investment in Venezuela",
+        "refId": "b6ad5118e064",
         "source": "The Daily Upside"
       }
     ]
@@ -151,57 +162,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Five Signs It\u2019s Time to Reduce Equity Exposure",
-        "refId": "3e7380ac3231",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
-        "refId": "2c359012fc84",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Sunday assorted links",
         "refId": "dd824080b81b",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Insurance price sentences to ponder",
+        "refId": "1b92248d3896",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Investors eye opportunities beyond the padel hype",
+        "refId": "cdbff484d043",
+        "source": "Private Equity International"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7718.6,
-      "base": 7666.6,
+      "v": 7687.26,
+      "base": 7747.71,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26506.99,
-      "base": 26217.83,
+      "v": 26408.283,
+      "base": 26584.06,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53414.25,
-      "base": 53061.95,
+      "v": 52807.67,
+      "base": 53686.11,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.784,
-      "base": 4.762,
+      "v": 4.792,
+      "base": 4.784,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.3,
-      "base": 14.53,
+      "v": 15.5,
+      "base": 15.3,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 189.574,
-      "base": 186.77,
+      "v": 188.038,
+      "base": 189.73,
       "bp": false
     }
   ]
