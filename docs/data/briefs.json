@@ -53,9 +53,9 @@
         "source": "Reinsurance News"
       },
       {
-        "text": "China Injects $45 Billion in Banks, Insurers to Boost Growth",
-        "refId": "e5c72981ff96",
-        "source": "Insurance Journal"
+        "text": "AXA partners with Publicis Sapient to deploy standardised \u201cGlobal AI Hub\u201d at scale",
+        "refId": "879645cbfd65",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Insurance price sentences to ponder",
-        "refId": "1b92248d3896",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Emergent Ventures winners, 59th cohort",
         "refId": "a369fd23e671",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,17 +155,17 @@
         "text": "Capital gains vs. wealth taxes",
         "refId": "0902cb0374e0",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "AI keeps stubbornly refusing to take our jobs",
+        "refId": "8172cdfe6443",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Insurance price sentences to ponder",
-        "refId": "1b92248d3896",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "Investors eye opportunities beyond the padel hype",
         "refId": "cdbff484d043",
@@ -180,43 +175,48 @@
         "text": "PE turns its attention to women\u2019s sports",
         "refId": "7a59277d15e5",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Private equity firms teaming up with athletes as ambassadors",
+        "refId": "b3ff5950daaa",
+        "source": "Private Equity International"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7694.0,
+      "v": 7673.52,
       "base": 7747.71,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26477.02,
+      "v": 26421.412,
       "base": 26584.06,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52903.41,
+      "v": 52786.07,
       "base": 53686.11,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.792,
+      "v": 4.806,
       "base": 4.784,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.28,
+      "v": 15.72,
       "base": 15.3,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.6807,
+      "v": 187.3661,
       "base": 189.73,
       "bp": false
     }
