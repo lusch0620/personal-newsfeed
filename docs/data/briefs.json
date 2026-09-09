@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "MS Re\u2019s Bruniecki says retentions to hold as attachment points stay disciplined",
-        "refId": "87e6aca0471e",
-        "source": "Reinsurance News"
-      },
-      {
         "text": "P&I reinsurance rates expected to increase further heading into 27/28 renewals: Gallagher Specialty",
         "refId": "855adebcd8a1",
         "source": "Reinsurance News"
@@ -55,6 +50,11 @@
       {
         "text": "AXA partners with Publicis Sapient to deploy standardised \u201cGlobal AI Hub\u201d at scale",
         "refId": "879645cbfd65",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Pacific Life Re completes first asset-intensive reinsurance transaction in Hong Kong",
+        "refId": "3294c6053972",
         "source": "Reinsurance News"
       }
     ]
@@ -83,30 +83,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Investors eye opportunities beyond the padel hype",
-        "refId": "cdbff484d043",
-        "source": "Private Equity International"
+        "text": "Toscafund, Three Hills, Ares consortium agrees $1.4bn buyout of Spire Healthcare",
+        "refId": "1ceacaf890d8",
+        "source": "PE Hub"
       },
       {
-        "text": "PE turns its attention to women\u2019s sports",
-        "refId": "7a59277d15e5",
-        "source": "Private Equity International"
+        "text": "Main buys workforce software provider Orgvue in first platform UK deal; Copilot backs renewable energy software business Green Eagle",
+        "refId": "fdd8d3851d3e",
+        "source": "PE Hub"
       },
       {
-        "text": "Private equity firms teaming up with athletes as ambassadors",
-        "refId": "b3ff5950daaa",
-        "source": "Private Equity International"
+        "text": "Healthcare investing is in critical condition",
+        "refId": "8765ecd72655",
+        "source": "Buyouts Insider"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Great Monetary Escalation",
-        "refId": "129a2889b226",
-        "source": "Capital Flows Research"
-      },
       {
         "text": "The first question to ask when someone tells you where stocks are headed \ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f",
         "refId": "7a3945ec2500",
@@ -116,6 +111,11 @@
         "text": "How a Blacklisted Chinese Tech Giant Kept Buying America\u2019s Best A.I. Chips",
         "refId": "5da8f575b372",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Offshore borrowing in renminbi hits record high of nearly $150bn",
+        "refId": "1ce975bd3c08",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Can YouTube Catch TikTok in the Live Shopping Wars?",
-        "refId": "d468b8b75610",
+        "text": "Foldable Phones Are Back, and They\u2019re Bringing Bad News to Your Billfold",
+        "refId": "10edd92466a8",
         "source": "The Daily Upside"
       },
       {
-        "text": "Battered Oracle May Be Poised for Rally as Investors Renew Software Bets",
-        "refId": "f7bf0aace792",
+        "text": "How Much Longer Can Blue-Chip Companies Keep Up High Performance?",
+        "refId": "e02feb942448",
         "source": "The Daily Upside"
       },
       {
-        "text": "Chevron Targets $7B Investment in Venezuela",
-        "refId": "b6ad5118e064",
+        "text": "Advisors Grow Their Tech Stacks as Clients Demand More",
+        "refId": "ec6b820ecaa1",
         "source": "The Daily Upside"
       }
     ]
@@ -147,9 +147,29 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Emergent Ventures winners, 59th cohort",
-        "refId": "a369fd23e671",
+        "text": "Capital gains vs. wealth taxes",
+        "refId": "0902cb0374e0",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "AI keeps stubbornly refusing to take our jobs",
+        "refId": "8172cdfe6443",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Monday assorted links",
+        "refId": "02b4c2849aa9",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "ASM to nominate Rutger Wijburg to the Supervisory Board",
+        "refId": "a1a54c0ef6e6",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
         "text": "Capital gains vs. wealth taxes",
@@ -160,26 +180,6 @@
         "text": "AI keeps stubbornly refusing to take our jobs",
         "refId": "8172cdfe6443",
         "source": "Noahpinion (Noah Smith)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Investors eye opportunities beyond the padel hype",
-        "refId": "cdbff484d043",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "PE turns its attention to women\u2019s sports",
-        "refId": "7a59277d15e5",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Private equity firms teaming up with athletes as ambassadors",
-        "refId": "b3ff5950daaa",
-        "source": "Private Equity International"
       }
     ]
   },
