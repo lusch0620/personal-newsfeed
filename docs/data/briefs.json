@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Q&amp;A: REITs Posted Strong Q2 Fundamentals",
-        "refId": "07a47fbeba09",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "People Moves: RIA Beacon Pointe Hires Execs from BlackRock, Vanguard",
-        "refId": "61c8963d897e",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Former SEC Commissioner Joins Law Firm as Agency\u2019s Vacancies Persist",
         "refId": "39d0d87b8143",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Merrill Lynch Poaches Morgan Stanley, Truist, Wells Advisors with Combined $1.8B",
+        "refId": "f82ded520ab9",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "RIA Edge Podcast: Building an Integrated Wealth Management Firm with Mike LaMena",
+        "refId": "ae746b00dbc7",
         "source": "Wealth Management"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "South Korean aspirational markets in everything",
-        "refId": "e428f49812f2",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Will new transportation technologies increase urban density?",
         "refId": "505e23371436",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,17 +155,17 @@
         "text": "Ed Elson and Scott Galloway interview me on AI",
         "refId": "45e94823cf78",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "No Doing, No Learning",
+        "refId": "3c59d8dfb3fa",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "South Korean aspirational markets in everything",
-        "refId": "e428f49812f2",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "China says it will pump $54 billion into banks and insurers \u2014 but their stocks still fell",
         "refId": "df731cf75779",
@@ -180,43 +175,48 @@
         "text": "How a Blacklisted Chinese Tech Giant Kept Buying America\u2019s Best A.I. Chips",
         "refId": "5da8f575b372",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Foldable Phones Are Back, and They\u2019re Bringing Bad News to Your Billfold",
+        "refId": "10edd92466a8",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7641.12,
+      "v": 7636.36,
       "base": 7718.6,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26255.516,
+      "v": 26253.34,
       "base": 26506.99,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52458.22,
+      "v": 52380.66,
       "base": 53414.25,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.824,
+      "v": 4.837,
       "base": 4.806,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.15,
+      "v": 16.46,
       "base": 15.72,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 187.251,
+      "v": 187.0729,
       "base": 189.57,
       "bp": false
     }
