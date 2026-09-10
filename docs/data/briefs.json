@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Chime to buy Stride Bank for $590M",
-        "refId": "acd6b846c496",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Stocks making the biggest moves after hours: ServiceTitan, Mission Produce, Chime Financial and more",
-        "refId": "fcadd5e7a559",
+        "text": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
+        "refId": "5777884f7c90",
         "source": "CNBC Finance"
       },
       {
-        "text": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
-        "refId": "5777884f7c90",
+        "text": "China's EV makers shift gears to focus on humanoids as car market slows",
+        "refId": "d36323b7834d",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
+        "refId": "a9685d28d529",
         "source": "CNBC Finance"
       }
     ]
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Views from 6,320: AI Won\u2019t Replace Financial Advisors. It Could Make Them More Human",
-        "refId": "4b8760d49360",
+        "text": "Envestnet to Acquire Wealthtech Provider Vestmark",
+        "refId": "4a86aa9ef54b",
         "source": "Wealth Management"
       },
       {
-        "text": "Envestnet to Acquire Wealthtech Provider Vestmark",
-        "refId": "4a86aa9ef54b",
+        "text": "AI-Native Alts Platform Raises $18.8M Series A",
+        "refId": "d0a78b0a451d",
         "source": "Wealth Management"
       }
     ]
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oil Climbs Toward $100 a Barrel Following Houthi Attacks",
-        "refId": "8764c545c7e1",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Measuring the Cost of Trump\u2019s Multiple Wars",
         "refId": "c5ff2407adc3",
         "source": "Dealbook (NYT)"
@@ -115,6 +110,11 @@
       {
         "text": "The new rainmakers of European private equity",
         "refId": "32f805ceb416",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "High-flying London hedge fund hit by Europe\u2019s thorniest credit trades",
+        "refId": "94d996381c61",
         "source": "Financial Times Markets"
       }
     ]
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oil Climbs Toward $100 a Barrel Following Houthi Attacks",
-        "refId": "8764c545c7e1",
-        "source": "Dealbook (NYT)"
+        "text": "Oregon to cut private equity target",
+        "refId": "9199d989e7f6",
+        "source": "Buyouts Insider"
       },
       {
-        "text": "Chime to buy Stride Bank for $590M",
-        "refId": "acd6b846c496",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Stocks making the biggest moves after hours: ServiceTitan, Mission Produce, Chime Financial and more",
-        "refId": "fcadd5e7a559",
+        "text": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
+        "refId": "5777884f7c90",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Schwab Wealth Advisory (SWA) unveils 'corkage' fee on third-party SMAs, typically .35%, as slew of changes add to 'elegant' master plan to convert DIY book to fees",
+        "refId": "4bc26620620f",
+        "source": "RIABiz"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7596.53,
+      "v": 7591.7,
       "base": 7673.52,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26127.906,
+      "v": 26081.725,
       "base": 26421.41,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52043.48,
+      "v": 52064.1,
       "base": 52786.07,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.934,
+      "v": 4.944,
       "base": 4.837,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.55,
+      "v": 17.84,
       "base": 16.46,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.1953,
+      "v": 186.952,
       "base": 187.37,
       "bp": false
     }
