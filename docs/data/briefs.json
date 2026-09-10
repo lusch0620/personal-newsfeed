@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China says it will pump $54 billion into banks and insurers \u2014 but their stocks still fell",
-        "refId": "df731cf75779",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Pragmatic Semiconductor Appoints Dr. Paul James as Executive Vice President Manufacturing & Operations",
         "refId": "d4e732be529b",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -16,6 +11,11 @@
         "text": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
         "refId": "26339ac174c0",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Crypto platforms have lost over $3.63 billion to cyberattacks \u2014 even though most of them did security checks",
+        "refId": "1143f96ce4b1",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "SIX and Twint join Swiss bank stablecoin project",
-        "refId": "65c1916aedce",
+        "text": "Chief Economist's Weekly Watch \u2013 September 8: Inflation, Industrial Credit, & Space Deman",
+        "refId": "3642534352fa",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Visa makes onchain lending move",
+        "refId": "646c9a66b81b",
         "source": "Finextra"
       },
       {
-        "text": "UniCredit acquires stake in German fintech VC Trade",
-        "refId": "d6c1dcab196b",
-        "source": "Finextra"
-      },
-      {
-        "text": "Circle to buy Singapore-based cross-border payments platform Tazapay",
-        "refId": "174901b995be",
+        "text": "Visa and Revolut carry out passkey-based agentic payment in France",
+        "refId": "d9b574831e6c",
         "source": "Finextra"
       }
     ]
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China says it will pump $54 billion into banks and insurers \u2014 but their stocks still fell",
-        "refId": "df731cf75779",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "How a Blacklisted Chinese Tech Giant Kept Buying America\u2019s Best A.I. Chips",
         "refId": "5da8f575b372",
         "source": "Dealbook (NYT)"
@@ -179,6 +174,11 @@
       {
         "text": "Foldable Phones Are Back, and They\u2019re Bringing Bad News to Your Billfold",
         "refId": "10edd92466a8",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "How Much Longer Can Blue-Chip Companies Keep Up High Performance?",
+        "refId": "e02feb942448",
         "source": "The Daily Upside"
       }
     ]
