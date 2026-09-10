@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sompo Japan partners with ICEYE to enhance flood response capabilities",
-        "refId": "f1f8c66dfa0d",
-        "source": "Reinsurance News"
-      },
-      {
         "text": "US P&C underwriting gains improved in H1\u201926, but performance varied by line of business and geography: Verisk",
         "refId": "85717665cc8d",
         "source": "Reinsurance News"
@@ -55,6 +50,11 @@
       {
         "text": "Reinsurance industry normalising after exceptionally strong period: BCG",
         "refId": "3e0ae364425b",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Eloise Hurley Wellington named Head of Howden Re European Programmes",
+        "refId": "90f3e5c8deeb",
         "source": "Reinsurance News"
       }
     ]
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How a Blacklisted Chinese Tech Giant Kept Buying America\u2019s Best A.I. Chips",
-        "refId": "5da8f575b372",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Consensus: short bonds, long oil and nervous equities",
         "refId": "89e2d2a048db",
         "source": "fx:macro"
@@ -116,6 +111,11 @@
         "text": "The Economic Fallout From a Potential Return to $100 Oil",
         "refId": "27c8bdbfda65",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Oil Climbs Toward $100 a Barrel Following Houthi Attacks",
+        "refId": "8764c545c7e1",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Foldable Phones Are Back, and They\u2019re Bringing Bad News to Your Billfold",
-        "refId": "10edd92466a8",
+        "text": "ASML Inks Advanced EUV Lithography Deals With Chip Titans TSMC, Samsung",
+        "refId": "ceaa60bd8fa2",
         "source": "The Daily Upside"
       },
       {
-        "text": "How Much Longer Can Blue-Chip Companies Keep Up High Performance?",
-        "refId": "e02feb942448",
+        "text": "Lockheed Poised to Benefit as EU Approves Ukraine\u2019s Purchase of Patriot Missiles",
+        "refId": "2ef741db496e",
         "source": "The Daily Upside"
       },
       {
-        "text": "Advisors Grow Their Tech Stacks as Clients Demand More",
-        "refId": "ec6b820ecaa1",
+        "text": "GE Aerospace Makes $12B Play in Clogged Market for Cast Metal Parts",
+        "refId": "294228d6f39e",
         "source": "The Daily Upside"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Will new transportation technologies increase urban density?",
-        "refId": "505e23371436",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Ed Elson and Scott Galloway interview me on AI",
         "refId": "45e94823cf78",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "No Doing, No Learning",
         "refId": "3c59d8dfb3fa",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "An Ex-SpaceX Engineer on Elon Musk, Starship, and Building a $1B-Valued Startup (Scott Morton, Founder & CEO of Revel)",
+        "refId": "281a6462b03a",
+        "source": "The Generalist (Mario Gabriele)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How a Blacklisted Chinese Tech Giant Kept Buying America\u2019s Best A.I. Chips",
-        "refId": "5da8f575b372",
-        "source": "Dealbook (NYT)"
+        "text": "Pragmatic Semiconductor Appoints Dr. Paul James as Executive Vice President Manufacturing & Operations",
+        "refId": "d4e732be529b",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Foldable Phones Are Back, and They\u2019re Bringing Bad News to Your Billfold",
-        "refId": "10edd92466a8",
-        "source": "The Daily Upside"
+        "text": "ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV",
+        "refId": "26339ac174c0",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "How Much Longer Can Blue-Chip Companies Keep Up High Performance?",
-        "refId": "e02feb942448",
-        "source": "The Daily Upside"
+        "text": "Ed Elson and Scott Galloway interview me on AI",
+        "refId": "45e94823cf78",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
