@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Alabama bank blasts investors\u2019 request to join board",
-        "refId": "809ceed53f6c",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Stocks making the biggest moves midday: Meta, Centerspace, Apple, Casey's General Stores, Signet & more",
-        "refId": "743ff682bba4",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Circle to buy Tazapay for $400M",
         "refId": "174988e1e57e",
         "source": "Banking Dive"
+      },
+      {
+        "text": "Introducing Exensio\u00ae Aurora: PDF Solutions Unveils Highly-Scalable Architecture for Exensio Analytics",
+        "refId": "7dc4c0fc9538",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Ant International partners with Visa, Mastercard on developing AI payments",
+        "refId": "35e7c8c6a1fa",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -23,19 +23,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AI-Native Alts Platform Raises $18.8M Series A",
-        "refId": "d0a78b0a451d",
+        "text": "SEI: Advisors Miss Opportunities to Ask Clients to Consolidate Assets",
+        "refId": "558beede4d56",
         "source": "Wealth Management"
       },
       {
-        "text": "Focused on the Future: Why CFP Certification Is Becoming More Important in Financial Planning with Dane Snowden",
-        "refId": "f83774b17dac",
+        "text": "As Senate Crypto Vote Approaches, Industry Weighs Uncertain Future",
+        "refId": "d6ad6d165ac0",
         "source": "Wealth Management"
       },
       {
-        "text": "Edelman Financial Engines Expands Into Small Business Market",
-        "refId": "dedc767702fd",
-        "source": "Wealth Management"
+        "text": "Bain Capital (mostly) funds Envestnet buy of Vestmark to surpass $10 trillion and define 'adaptive modularity' strategy, leaving Orion a clear RIA lane",
+        "refId": "49cbc40a6503",
+        "source": "RIABiz"
       }
     ]
   },
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "People Moves: Burns & Wilcox Adds New West Coast Associate Managing Directors",
-        "refId": "42f26fe1f1f5",
-        "source": "Insurance Journal"
+        "text": "Ascot bolsters US senior leadership team",
+        "refId": "27db61c93623",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Florida Posts New Workers\u2019 Comp Rules on Physician Dispensing, Immigration Forms",
-        "refId": "d8b6744cd0e4",
-        "source": "Insurance Journal"
+        "text": "Significant pressure required to change pricing direction, market remains rate-adequate: Berenberg",
+        "refId": "15717eb88c21",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Lawmakers Call for New AI Rules After Anthropic Researchers\u2019 Safety Warnings",
-        "refId": "f4f483b491a2",
-        "source": "Insurance Journal"
+        "text": "Laura Coppola joins Munich Re Specialty, North America",
+        "refId": "dc0a869b3547",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -147,18 +147,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Max Junestrand (Legora) Says You Don't Need Domain Expertise. In 18 Months He Proved It at $100M ARR.",
-        "refId": "160015fb9b47",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "Wednesday assorted links",
-        "refId": "75f1ffccaf0a",
+        "text": "My very interesting Conversation with Jared Diamond",
+        "refId": "34ed35105b74",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "What should I ask Kevin Roose?",
-        "refId": "aa376aa8bcf0",
+        "text": "Ricardo Reis and the IMF?",
+        "refId": "35c23d18baf3",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Economic Scenarios for Transformative AI",
+        "refId": "fd4ffda17775",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Max Junestrand (Legora) Says You Don't Need Domain Expertise. In 18 Months He Proved It at $100M ARR.",
-        "refId": "160015fb9b47",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "Alabama bank blasts investors\u2019 request to join board",
-        "refId": "809ceed53f6c",
+        "text": "Circle to buy Tazapay for $400M",
+        "refId": "174988e1e57e",
         "source": "Banking Dive"
       },
       {
-        "text": "Wednesday assorted links",
-        "refId": "75f1ffccaf0a",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "August 2026 Rates and Spreads: Tight Spreads Amid Treasury Volatility",
+        "refId": "036d1780768e",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Introducing Exensio\u00ae Aurora: PDF Solutions Unveils Highly-Scalable Architecture for Exensio Analytics",
+        "refId": "7dc4c0fc9538",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7656.85,
+      "v": 7671.7,
       "base": 7636.36,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26343.85,
+      "v": 26388.668,
       "base": 26253.34,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52450.02,
+      "v": 52648.79,
       "base": 52380.66,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.934,
+      "v": 4.955,
       "base": 4.944,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.72,
+      "v": 15.63,
       "base": 17.84,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.602,
+      "v": 188.225,
       "base": 187.07,
       "bp": false
     }
