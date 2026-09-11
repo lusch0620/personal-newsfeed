@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Circle to buy Tazapay for $400M",
-        "refId": "174988e1e57e",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Introducing Exensio\u00ae Aurora: PDF Solutions Unveils Highly-Scalable Architecture for Exensio Analytics",
-        "refId": "7dc4c0fc9538",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
         "text": "Ant International partners with Visa, Mastercard on developing AI payments",
         "refId": "35e7c8c6a1fa",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Himax to Showcase Industry-Leading Automotive Display and Cutting-Edge 3D Sensing Technologies at 2026 SID Vehicle Displays and Interfaces Symposium",
+        "refId": "7c439d1594fe",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Bank FOMO fueling AI spending, Accenture exec says",
+        "refId": "4248b5d3ab46",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -23,19 +23,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "SEI: Advisors Miss Opportunities to Ask Clients to Consolidate Assets",
-        "refId": "558beede4d56",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "As Senate Crypto Vote Approaches, Industry Weighs Uncertain Future",
-        "refId": "d6ad6d165ac0",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Bain Capital (mostly) funds Envestnet buy of Vestmark to surpass $10 trillion and define 'adaptive modularity' strategy, leaving Orion a clear RIA lane",
         "refId": "49cbc40a6503",
         "source": "RIABiz"
+      },
+      {
+        "text": "The Diamond Podcast for Financial Advisors Replay: Why So Many Successful Advisors Feel Stuck",
+        "refId": "bdffed5a9542",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "25 Years Later, Kestra CIO Recalls How 9/11 Shaped Her",
+        "refId": "328499600b4d",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "August 2026 Rates and Spreads: Tight Spreads Amid Treasury Volatility",
-        "refId": "036d1780768e",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "Mastercard to boost digital wallet uptake with Wallet Pay",
-        "refId": "fd3ab3838c11",
+        "text": "Ant International, Visa and Mastercard to develop 'Know-Your-Agent' framework",
+        "refId": "ff4fe5af5c6b",
         "source": "Finextra"
       },
       {
-        "text": "Ant International, Visa and Mastercard to develop 'Know-Your-Agent' framework",
-        "refId": "ff4fe5af5c6b",
+        "text": "Nationwide rips out legacy systems and migrates 15 million customers to new core platform",
+        "refId": "64906399246e",
+        "source": "Finextra"
+      },
+      {
+        "text": "Mexican fintech Kapital raises $100 million in new financing",
+        "refId": "ad09fbeb4b7b",
         "source": "Finextra"
       }
     ]
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Circle to buy Tazapay for $400M",
-        "refId": "174988e1e57e",
-        "source": "Banking Dive"
+        "text": "Ant International partners with Visa, Mastercard on developing AI payments",
+        "refId": "35e7c8c6a1fa",
+        "source": "CNBC Finance"
       },
       {
-        "text": "August 2026 Rates and Spreads: Tight Spreads Amid Treasury Volatility",
-        "refId": "036d1780768e",
-        "source": "Trepp Talk"
+        "text": "Thiel, Andreessen-backed Defense Startup Promises Cheap Missiles as US Rebuilds Arsenal",
+        "refId": "727b42d3b9ee",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Introducing Exensio\u00ae Aurora: PDF Solutions Unveils Highly-Scalable Architecture for Exensio Analytics",
-        "refId": "7dc4c0fc9538",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "NFL Kickoff Heats Up Prediction Market Rivalry",
+        "refId": "a2feeef71dca",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7671.7,
+      "v": 7656.98,
       "base": 7636.36,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26388.668,
+      "v": 26333.035,
       "base": 26253.34,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52648.79,
+      "v": 52573.29,
       "base": 52380.66,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.955,
+      "v": 4.975,
       "base": 4.944,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.63,
+      "v": 15.84,
       "base": 17.84,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.225,
+      "v": 188.057,
       "base": 187.07,
       "bp": false
     }
