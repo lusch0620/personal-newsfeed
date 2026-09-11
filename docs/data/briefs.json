@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China's EV makers shift gears to focus on humanoids as car market slows",
-        "refId": "d36323b7834d",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
         "refId": "a9685d28d529",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "Stocks making the biggest moves premarket: Apple, Casey's General Store, Signet Jewelers & more",
         "refId": "294ef7546d2b",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Block seeks OCC bank charter",
+        "refId": "58e4fdce6711",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Schwab Wealth Advisory (SWA) unveils 'corkage' fee on third-party SMAs, typically .35%, as slew of changes add to 'elegant' master plan to convert DIY book to fees",
-        "refId": "4bc26620620f",
-        "source": "RIABiz"
-      },
-      {
-        "text": "Envestnet to Acquire Wealthtech Provider Vestmark",
-        "refId": "4a86aa9ef54b",
+        "text": "AI-Native Alts Platform Raises $18.8M Series A",
+        "refId": "d0a78b0a451d",
         "source": "Wealth Management"
       },
       {
-        "text": "AI-Native Alts Platform Raises $18.8M Series A",
-        "refId": "d0a78b0a451d",
+        "text": "Focused on the Future: Why CFP Certification Is Becoming More Important in Financial Planning with Dane Snowden",
+        "refId": "f83774b17dac",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Edelman Financial Engines Expands Into Small Business Market",
+        "refId": "dedc767702fd",
         "source": "Wealth Management"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ledger Hires New Security Chief as Crypto Hacks Hit $1.4 Billion",
-        "refId": "4d5b550d391c",
-        "source": "Insurance Journal"
+        "text": "Lloyd\u2019s market delivers solid results for third successive year in 2025: AM Best",
+        "refId": "d4f2d09c203e",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Private Credit Investors Clash Over \u00a336 Billion BHP Dam Collapse Litigation",
-        "refId": "e95da0ea2962",
-        "source": "Insurance Journal"
+        "text": "SEADRIF delivers $2.28m in parametric payouts to Lao PDR & WFP as flood impacts grow",
+        "refId": "114a2cde3f94",
+        "source": "Reinsurance News"
       },
       {
-        "text": "NATO Allies Foil Russian Subsea Cable Sabotage Plot",
-        "refId": "93587cfe5f69",
-        "source": "Insurance Journal"
+        "text": "Insurers urge removal of tax on premiums costing the economy half a billion dollars: ICA",
+        "refId": "87b1b4eb6a80",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -108,13 +108,13 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "The new rainmakers of European private equity",
-        "refId": "32f805ceb416",
+        "text": "Franklin Templeton turns the tide as Western Asset crisis recedes",
+        "refId": "032062a25de0",
         "source": "Financial Times Markets"
       },
       {
-        "text": "High-flying London hedge fund hit by Europe\u2019s thorniest credit trades",
-        "refId": "94d996381c61",
+        "text": "Big Tech has replaced Big Oil as Public Enemy No 1, says US shale boss",
+        "refId": "436f959c4628",
         "source": "Financial Times Markets"
       }
     ]
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "ASML Inks Advanced EUV Lithography Deals With Chip Titans TSMC, Samsung",
-        "refId": "ceaa60bd8fa2",
+        "text": "Thiel, Andreessen-backed Defense Startup Promises Cheap Missiles as US Rebuilds Arsenal",
+        "refId": "727b42d3b9ee",
         "source": "The Daily Upside"
       },
       {
-        "text": "Lockheed Poised to Benefit as EU Approves Ukraine\u2019s Purchase of Patriot Missiles",
-        "refId": "2ef741db496e",
+        "text": "NFL Kickoff Heats Up Prediction Market Rivalry",
+        "refId": "a2feeef71dca",
         "source": "The Daily Upside"
       },
       {
-        "text": "GE Aerospace Makes $12B Play in Clogged Market for Cast Metal Parts",
-        "refId": "294228d6f39e",
+        "text": "Google Invests $15 Billion on Data Center Buildout in \u2018Texas of Europe\u2019",
+        "refId": "a7f18794241b",
         "source": "The Daily Upside"
       }
     ]
@@ -147,9 +147,29 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Reasons to go to college",
-        "refId": "af6427a4f452",
+        "text": "Reading sentences to ponder",
+        "refId": "25352b7f99dc",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Liberalism needs a new philosophy of immigration",
+        "refId": "f25c19042f4d",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
+        "refId": "e5f483744b75",
+        "source": "Stratechery (Ben Thompson)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
+        "refId": "a9685d28d529",
+        "source": "CNBC Finance"
       },
       {
         "text": "Reading sentences to ponder",
@@ -160,26 +180,6 @@
         "text": "Liberalism needs a new philosophy of immigration",
         "refId": "f25c19042f4d",
         "source": "Noahpinion (Noah Smith)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Schwab Wealth Advisory (SWA) unveils 'corkage' fee on third-party SMAs, typically .35%, as slew of changes add to 'elegant' master plan to convert DIY book to fees",
-        "refId": "4bc26620620f",
-        "source": "RIABiz"
-      },
-      {
-        "text": "ASML Inks Advanced EUV Lithography Deals With Chip Titans TSMC, Samsung",
-        "refId": "ceaa60bd8fa2",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Lockheed Poised to Benefit as EU Approves Ukraine\u2019s Purchase of Patriot Missiles",
-        "refId": "2ef741db496e",
-        "source": "The Daily Upside"
       }
     ]
   },
