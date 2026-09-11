@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
-        "refId": "5777884f7c90",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "China's EV makers shift gears to focus on humanoids as car market slows",
         "refId": "d36323b7834d",
         "source": "CNBC Finance"
@@ -15,6 +10,11 @@
       {
         "text": "Adani Enterprises shares jump as airport unit enters into $1 billion fundraising deal",
         "refId": "a9685d28d529",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: Apple, Casey's General Store, Signet Jewelers & more",
+        "refId": "294ef7546d2b",
         "source": "CNBC Finance"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Block files to set up national trust bank",
-        "refId": "66331c9ffaf2",
+        "text": "August 2026 Rates and Spreads: Tight Spreads Amid Treasury Volatility",
+        "refId": "036d1780768e",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Consumer trust in agentic payments continues to lag",
+        "refId": "21916e2701fe",
         "source": "Finextra"
       },
       {
-        "text": "Mastercard moves to help merchants prepare for AI-powered shopping",
-        "refId": "753929ff55d3",
-        "source": "Finextra"
-      },
-      {
-        "text": "PayPal helps developers build application-specific PYUSD-backed stablecoins",
-        "refId": "1d9f41d6e952",
+        "text": "HelmGuard raises $7.3m for agentic GRC platform",
+        "refId": "1e06c0488d9b",
         "source": "Finextra"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oregon to cut private equity target",
-        "refId": "9199d989e7f6",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "Side Letter: Critical condition",
         "refId": "1fcd4c64f523",
         "source": "Private Equity International"
@@ -95,6 +90,11 @@
       {
         "text": "Apollo\u2019s Kleinman: Exits aren\u2019t the problem, pricing is",
         "refId": "eaa2e76904d5",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Mid-market CEOs demand more from GPs",
+        "refId": "972051f19109",
         "source": "Private Equity International"
       }
     ]
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oregon to cut private equity target",
-        "refId": "9199d989e7f6",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "How one hedge-fund manager built his firm to be powered entirely by AI agents",
-        "refId": "5777884f7c90",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Schwab Wealth Advisory (SWA) unveils 'corkage' fee on third-party SMAs, typically .35%, as slew of changes add to 'elegant' master plan to convert DIY book to fees",
         "refId": "4bc26620620f",
         "source": "RIABiz"
+      },
+      {
+        "text": "ASML Inks Advanced EUV Lithography Deals With Chip Titans TSMC, Samsung",
+        "refId": "ceaa60bd8fa2",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Lockheed Poised to Benefit as EU Approves Ukraine\u2019s Purchase of Patriot Missiles",
+        "refId": "2ef741db496e",
+        "source": "The Daily Upside"
       }
     ]
   },
