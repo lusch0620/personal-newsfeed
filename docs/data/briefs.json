@@ -1,12 +1,7 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Stocks making the biggest moves midday: Dell, Skyworks Solutions, GameStop & more",
-        "refId": "92ea0374633c",
-        "source": "CNBC Finance"
-      },
       {
         "text": "Skyworks Announces Extension of Expiration Date of Exchange Offers for Qorvo\u2019s Senior Notes due 2029 and 2031",
         "refId": "64fd032da47d",
@@ -15,6 +10,11 @@
       {
         "text": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks",
         "refId": "2827a0e294f3",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "NFL and midterm elections set up prediction markets for a critical fall season",
+        "refId": "ee42c3266b31",
         "source": "CNBC Finance"
       }
     ]
@@ -34,14 +34,8 @@
     "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "OpenAI launches ChatGPT for Financial Service",
-        "refId": "aa76ee9cfe8e",
-        "source": "Finextra"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -51,18 +45,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oil Context Weekly (W37)",
-        "refId": "95eff25efcd0",
-        "source": "Commodity Context"
-      },
-      {
-        "text": "Saudis Shut Down Crucial Pipeline After Drone Attack From Iraq",
-        "refId": "f4d3e40245ca",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "European investment in LatAm stocks hits 15-year peak",
         "refId": "e2cc63e00ef7",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Windshield megadeal could fix Europe\u2019s broken IPO window",
+        "refId": "329d32d52337",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Nick Train\u2019s trust offers buyback in bid to boost weak share price",
+        "refId": "dd7861d29388",
         "source": "Financial Times Markets"
       }
     ]
@@ -90,11 +84,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "It\u2019s Time to Bring Some Sanity to the AI Risk Conversation",
-        "refId": "73de2a2bb27e",
-        "source": "Big Technology (Alex Kantrowitz)"
-      },
-      {
         "text": "The excess pessimism of early nuclear bomb designers",
         "refId": "8f928a456ded",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -103,6 +92,11 @@
         "text": "Labor reallocation during the Industrial Revolution",
         "refId": "52c282e9d96d",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Get the Middle East out of my politics!",
+        "refId": "7f636a56a40f",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -110,19 +104,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "It\u2019s Time to Bring Some Sanity to the AI Risk Conversation",
-        "refId": "73de2a2bb27e",
-        "source": "Big Technology (Alex Kantrowitz)"
+        "text": "Skyworks Announces Extension of Expiration Date of Exchange Offers for Qorvo\u2019s Senior Notes due 2029 and 2031",
+        "refId": "64fd032da47d",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "Oil Context Weekly (W37)",
-        "refId": "95eff25efcd0",
-        "source": "Commodity Context"
+        "text": "European investment in LatAm stocks hits 15-year peak",
+        "refId": "e2cc63e00ef7",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "OpenAI launches ChatGPT for Financial Service",
-        "refId": "aa76ee9cfe8e",
-        "source": "Finextra"
+        "text": "Windshield megadeal could fix Europe\u2019s broken IPO window",
+        "refId": "329d32d52337",
+        "source": "Financial Times Markets"
       }
     ]
   },
