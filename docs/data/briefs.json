@@ -20,43 +20,22 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "4 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "A Growing Opportunity for Merit Scholarships",
-        "refId": "13aa38e1c23d",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Former LPL CEO Dan Arnold Lands at AI-Native Wealth Firm",
-        "refId": "71a1d7ad1b8c",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "How 9/11 Spurred Advisors' Pro Bono Movement",
-        "refId": "a2024c92187c",
-        "source": "Wealth Management"
+        "text": "Marty Bicknell commits $175 million to install 700 'AI' bots to revolutionize RIA automation; the gamble isn't AI but whether advisors, clients, staff and leadership will embrace the change, analyst says",
+        "refId": "9bba17b2437f",
+        "source": "RIABiz"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Six Convicted in Louisiana Scheme to Obtain Commercial Driver\u2019s Licenses",
-        "refId": "185b0ab5ed37",
-        "source": "Insurance Journal"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
-      {
-        "text": "Multifamily Migration Trends: Why Population Growth Alone Doesn't Predict Revenue Growth",
-        "refId": "9216f5cce6b7",
-        "source": "Trepp Talk"
-      },
       {
         "text": "OpenAI launches ChatGPT for Financial Service",
         "refId": "aa76ee9cfe8e",
@@ -65,33 +44,12 @@
     ]
   },
   "PE & Deals": {
-    "lede": "3 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Bluejay Capital\u2019s Pacific West Acquires Coleman Industrial Construction in Midwest",
-        "refId": "f692adf5b0fc",
-        "source": "PE Hub"
-      },
-      {
-        "text": "InTandem Capital\u2019s Ivy Fertility Acquires Santa Barbara Fertility Center",
-        "refId": "ed2c60be46a2",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Avesi Partners-backed Danforth Health acquires rare disease consultancy Ambit",
-        "refId": "fd7aa249c437",
-        "source": "PE Hub"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Price Of Surviving Monetary Regime Change",
-        "refId": "d82342412890",
-        "source": "Capital Flows Research"
-      },
       {
         "text": "Oil Context Weekly (W37)",
         "refId": "95eff25efcd0",
@@ -101,6 +59,11 @@
         "text": "Saudis Shut Down Crucial Pipeline After Drone Attack From Iraq",
         "refId": "f4d3e40245ca",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "European investment in LatAm stocks hits 15-year peak",
+        "refId": "e2cc63e00ef7",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -127,19 +90,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "2026.37: Duo Threats",
-        "refId": "c22ff83bb2da",
-        "source": "Stratechery (Ben Thompson)"
-      },
-      {
-        "text": "The Allocative Cost of War",
-        "refId": "936e1a0366b4",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "It\u2019s Time to Bring Some Sanity to the AI Risk Conversation",
         "refId": "73de2a2bb27e",
         "source": "Big Technology (Alex Kantrowitz)"
+      },
+      {
+        "text": "The excess pessimism of early nuclear bomb designers",
+        "refId": "8f928a456ded",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Labor reallocation during the Industrial Revolution",
+        "refId": "52c282e9d96d",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -147,19 +110,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "A Growing Opportunity for Merit Scholarships",
-        "refId": "13aa38e1c23d",
-        "source": "Wealth Management"
+        "text": "It\u2019s Time to Bring Some Sanity to the AI Risk Conversation",
+        "refId": "73de2a2bb27e",
+        "source": "Big Technology (Alex Kantrowitz)"
       },
       {
-        "text": "Six Convicted in Louisiana Scheme to Obtain Commercial Driver\u2019s Licenses",
-        "refId": "185b0ab5ed37",
-        "source": "Insurance Journal"
+        "text": "Oil Context Weekly (W37)",
+        "refId": "95eff25efcd0",
+        "source": "Commodity Context"
       },
       {
-        "text": "2026.37: Duo Threats",
-        "refId": "c22ff83bb2da",
-        "source": "Stratechery (Ben Thompson)"
+        "text": "OpenAI launches ChatGPT for Financial Service",
+        "refId": "aa76ee9cfe8e",
+        "source": "Finextra"
       }
     ]
   },
