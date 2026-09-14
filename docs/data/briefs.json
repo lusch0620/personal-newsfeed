@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Mizuho $100M Credit to Radiant World Secured by Allegedly Invalid Invoices: Documents",
-        "refId": "2062a00b0be6",
-        "source": "Insurance Journal"
+        "text": "Reinsurers show first signs of flexibility in T&Cs: Berenberg",
+        "refId": "caae43adfdb8",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Warren Presses Insurance Watchdogs for Answers on Wall Street Influence",
-        "refId": "b69e1bfcda37",
-        "source": "Insurance Journal"
+        "text": "AIG appoints Oliver Dlugosch as Head of Aviation EMEA",
+        "refId": "6e45a5bec4dc",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Baldwin Group to Go Private After $7.7B Investment Deal",
-        "refId": "8996c3e6c0c8",
-        "source": "Insurance Journal"
+        "text": "Zurich\u2019s \u00a38.1bn Beazley acquisition to complete October 1 following regulatory clearance",
+        "refId": "65d8d5b65677",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -93,8 +93,8 @@
         "source": "Private Equity International"
       },
       {
-        "text": "NexPhase Capital makes growth investment in Everywhere Communications platform",
-        "refId": "42f093ed3f4f",
+        "text": "Permira appoints ex-Microsoft executive Julia Liuson as senior adviser",
+        "refId": "93e961b0e828",
         "source": "PE Hub"
       }
     ]
@@ -147,9 +147,29 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The mathematicians rebel against AI",
-        "refId": "5c024bf8a6b3",
+        "text": "A simple model of AI-aided economic growth",
+        "refId": "735e38a31775",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Diversity Is Our Strength?",
+        "refId": "614c4c90d9e4",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Sunday assorted links",
+        "refId": "2c95e972fe1d",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Post-Pandemic, \u2018Living at the Office\u2019 Takes on New (and Lucrative) Meaning",
+        "refId": "5647d402a119",
+        "source": "The Daily Upside"
       },
       {
         "text": "A simple model of AI-aided economic growth",
@@ -163,60 +183,40 @@
       }
     ]
   },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "The mathematicians rebel against AI",
-        "refId": "5c024bf8a6b3",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Post-Pandemic, \u2018Living at the Office\u2019 Takes on New (and Lucrative) Meaning",
-        "refId": "5647d402a119",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "A simple model of AI-aided economic growth",
-        "refId": "735e38a31775",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      }
-    ]
-  },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7634.19,
+      "v": 7619.98,
       "base": 7591.7,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26253.299,
+      "v": 26186.414,
       "base": 26081.72,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52518.0,
+      "v": 52421.2,
       "base": 52064.1,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.947,
+      "v": 4.961,
       "base": 4.975,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.75,
+      "v": 17.1,
       "base": 15.84,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 186.3133,
+      "v": 184.4465,
       "base": 186.95,
       "bp": false
     }
