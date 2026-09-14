@@ -1,31 +1,41 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks",
-        "refId": "2827a0e294f3",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "NFL and midterm elections set up prediction markets for a critical fall season",
-        "refId": "ee42c3266b31",
-        "source": "CNBC Finance"
-      },
       {
         "text": "Goldman picks China healthcare stocks for a post-AI trade",
         "refId": "e6a67efcafc8",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Prediction markets are becoming more professionalized, but also harder to beat",
+        "refId": "2388a70286ac",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "STMicroelectronics introduces automotive image sensor to help scale affordable in-cabin sensing",
+        "refId": "650eede801d9",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "1 story in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Marty Bicknell commits $175 million to install 700 'AI' bots to revolutionize RIA automation; the gamble isn't AI but whether advisors, clients, staff and leadership will embrace the change, analyst says",
-        "refId": "9bba17b2437f",
-        "source": "RIABiz"
+        "text": "Broker/Dealers Race to Build Bridge to Wealth",
+        "refId": "7a3b0e0eba21",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "2026 Wealthies: Rising Stars of the Year",
+        "refId": "4d9448555e04",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "AI-Backed Portfolio Management Platform Pave Finance Raises $15M Series A",
+        "refId": "befbf0f67919",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -33,52 +43,78 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "New York Contractor Charged with $160K Workers\u2019 Comp Insurance Fraud",
-        "refId": "43c372a02f60",
+        "text": "Mizuho $100M Credit to Radiant World Secured by Allegedly Invalid Invoices: Documents",
+        "refId": "2062a00b0be6",
         "source": "Insurance Journal"
       },
       {
-        "text": "Bridgepoint investment in VIPR to help growth in delegated authority insurance",
-        "refId": "3eedf98a9baf",
-        "source": "Reinsurance News"
+        "text": "Warren Presses Insurance Watchdogs for Answers on Wall Street Influence",
+        "refId": "b69e1bfcda37",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Arizona Accuses L\u2019Oreal of Concealing Cancer Risks Linked to Hair Relaxers",
-        "refId": "d3ddc0551540",
+        "text": "Baldwin Group to Go Private After $7.7B Investment Deal",
+        "refId": "8996c3e6c0c8",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Singapore banks complete blockchain-enabled SGD transactions on Swift ledger",
         "refId": "df01b8084010",
         "source": "Finextra"
+      },
+      {
+        "text": "Chift raises \u20ac10.5m to build financial connectivity layer for the AI era",
+        "refId": "3771b47380da",
+        "source": "Finextra"
+      },
+      {
+        "text": "YouLend and Dojo partnership reaches $2bn funding milestone",
+        "refId": "81ad307f2a8d",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Taproot Capital on understanding the seeding opportunity for spin-outs",
+        "refId": "131804c4c458",
+        "source": "Buyouts Insider"
+      },
+      {
+        "text": "Side Letter: Warburg\u2019s war chest",
+        "refId": "7e1ceb2fe591",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "NexPhase Capital makes growth investment in Everywhere Communications platform",
+        "refId": "42f093ed3f4f",
+        "source": "PE Hub"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "After the I.P.O., a Billion-Dollar Bill for Employee Paydays",
-        "refId": "eb806963d8ae",
-        "source": "Dealbook (NYT)"
+        "text": "Is a higher earnings bar really harder to clear? \ud83d\udccf",
+        "refId": "5fd28ff975de",
+        "source": "TKer (Sam Ro)"
       },
       {
-        "text": "Boom-era PE funds will fall short on promises, executives warn",
-        "refId": "25890581d5de",
+        "text": "Euronext open to \u2018big bang\u2019 deal with rival Deutsche B\u00f6rse",
+        "refId": "1c9f00807a0d",
         "source": "Financial Times Markets"
       },
       {
-        "text": "GE HealthCare in talks over $1bn deal for maker of cancer scan chemicals",
-        "refId": "581e6c7662ae",
+        "text": "Tokenised gold could be exempt from fund regulations under FCA proposal",
+        "refId": "29cf93b47530",
         "source": "Financial Times Markets"
       }
     ]
@@ -111,18 +147,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Labor reallocation during the Industrial Revolution",
-        "refId": "52c282e9d96d",
+        "text": "The mathematicians rebel against AI",
+        "refId": "5c024bf8a6b3",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Get the Middle East out of my politics!",
-        "refId": "7f636a56a40f",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "A simple model of AI-aided economic growth",
+        "refId": "735e38a31775",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The Prediction Archive",
-        "refId": "c54cb002e38c",
+        "text": "Diversity Is Our Strength?",
+        "refId": "614c4c90d9e4",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -131,18 +167,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Labor reallocation during the Industrial Revolution",
-        "refId": "52c282e9d96d",
+        "text": "The mathematicians rebel against AI",
+        "refId": "5c024bf8a6b3",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Get the Middle East out of my politics!",
-        "refId": "7f636a56a40f",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Post-Pandemic, \u2018Living at the Office\u2019 Takes on New (and Lucrative) Meaning",
+        "refId": "5647d402a119",
+        "source": "The Daily Upside"
       },
       {
-        "text": "The Prediction Archive",
-        "refId": "c54cb002e38c",
+        "text": "A simple model of AI-aided economic growth",
+        "refId": "735e38a31775",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -150,38 +186,38 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7656.98,
-      "base": 7636.36,
+      "v": 7634.19,
+      "base": 7591.7,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26333.035,
-      "base": 26253.34,
+      "v": 26253.299,
+      "base": 26081.72,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52573.29,
-      "base": 52380.66,
+      "v": 52518.0,
+      "base": 52064.1,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.975,
-      "base": 4.944,
+      "v": 4.947,
+      "base": 4.975,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.84,
-      "base": 17.84,
+      "v": 16.75,
+      "base": 15.84,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 188.057,
-      "base": 187.07,
+      "v": 186.3133,
+      "base": 186.95,
       "bp": false
     }
   ]
