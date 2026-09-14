@@ -3,11 +3,6 @@
     "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "Skyworks Announces Extension of Expiration Date of Exchange Offers for Qorvo\u2019s Senior Notes due 2029 and 2031",
-        "refId": "64fd032da47d",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
         "text": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks",
         "refId": "2827a0e294f3",
         "source": "CNBC Finance"
@@ -15,6 +10,11 @@
       {
         "text": "NFL and midterm elections set up prediction markets for a critical fall season",
         "refId": "ee42c3266b31",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Goldman picks China healthcare stocks for a post-AI trade",
+        "refId": "e6a67efcafc8",
         "source": "CNBC Finance"
       }
     ]
@@ -30,12 +30,34 @@
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "New York Contractor Charged with $160K Workers\u2019 Comp Insurance Fraud",
+        "refId": "43c372a02f60",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Bridgepoint investment in VIPR to help growth in delegated authority insurance",
+        "refId": "3eedf98a9baf",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Arizona Accuses L\u2019Oreal of Concealing Cancer Risks Linked to Hair Relaxers",
+        "refId": "d3ddc0551540",
+        "source": "Insurance Journal"
+      }
+    ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "1 story in this lane today.",
+    "bullets": [
+      {
+        "text": "Singapore banks complete blockchain-enabled SGD transactions on Swift ledger",
+        "refId": "df01b8084010",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -45,24 +67,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "European investment in LatAm stocks hits 15-year peak",
-        "refId": "e2cc63e00ef7",
+        "text": "After the I.P.O., a Billion-Dollar Bill for Employee Paydays",
+        "refId": "eb806963d8ae",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Boom-era PE funds will fall short on promises, executives warn",
+        "refId": "25890581d5de",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Windshield megadeal could fix Europe\u2019s broken IPO window",
-        "refId": "329d32d52337",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Nick Train\u2019s trust offers buyback in bid to boost weak share price",
-        "refId": "dd7861d29388",
+        "text": "GE HealthCare in talks over $1bn deal for maker of cancer scan chemicals",
+        "refId": "581e6c7662ae",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Post-Pandemic, \u2018Living at the Office\u2019 Takes on New (and Lucrative) Meaning",
@@ -72,6 +94,11 @@
       {
         "text": "Dimensional\u2019s David Booth Discusses the State of ETFs, Investing and More",
         "refId": "5c918625710a",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Wall Street Bets on Rate Hike From a Fed Hemmed In by Persistent Inflation",
+        "refId": "b91e15d99171",
         "source": "The Daily Upside"
       }
     ]
@@ -84,10 +111,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The excess pessimism of early nuclear bomb designers",
-        "refId": "8f928a456ded",
+        "text": "Labor reallocation during the Industrial Revolution",
+        "refId": "52c282e9d96d",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
+      {
+        "text": "Get the Middle East out of my politics!",
+        "refId": "7f636a56a40f",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "The Prediction Archive",
+        "refId": "c54cb002e38c",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
       {
         "text": "Labor reallocation during the Industrial Revolution",
         "refId": "52c282e9d96d",
@@ -97,26 +139,11 @@
         "text": "Get the Middle East out of my politics!",
         "refId": "7f636a56a40f",
         "source": "Noahpinion (Noah Smith)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Skyworks Announces Extension of Expiration Date of Exchange Offers for Qorvo\u2019s Senior Notes due 2029 and 2031",
-        "refId": "64fd032da47d",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "European investment in LatAm stocks hits 15-year peak",
-        "refId": "e2cc63e00ef7",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Windshield megadeal could fix Europe\u2019s broken IPO window",
-        "refId": "329d32d52337",
-        "source": "Financial Times Markets"
+        "text": "The Prediction Archive",
+        "refId": "c54cb002e38c",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
