@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Broker/Dealers Race to Build Bridge to Wealth",
-        "refId": "7a3b0e0eba21",
+        "text": "Anthropic Launches Claude for Financial Advisors",
+        "refId": "9be1758ed0d8",
         "source": "Wealth Management"
       },
       {
-        "text": "2026 Wealthies: Rising Stars of the Year",
-        "refId": "4d9448555e04",
+        "text": "The Estate Planning Documents Clients Need At Every Life Stage",
+        "refId": "2260faeed86a",
         "source": "Wealth Management"
       },
       {
-        "text": "AI-Backed Portfolio Management Platform Pave Finance Raises $15M Series A",
-        "refId": "befbf0f67919",
+        "text": "Over-Focusing on Estate Taxes Creates Tunnel Vision",
+        "refId": "c8b1e6a000eb",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Trump Dismisses AI Safety Alarm, Says US Already Has Tools to Police Industry",
-        "refId": "fb5293e1822d",
+        "text": "Carney Calls for Global Tech Body to Boost AI Guardrails",
+        "refId": "6d304527ea1e",
         "source": "Insurance Journal"
       },
       {
-        "text": "People Moves: Ascot Aligns US Business for Next Phase of Growth",
-        "refId": "a0fb2a3cb049",
+        "text": "Business Moves: Miller Launches Miller Malaysia, Building Regional Footprint; MNK Group Buys Danish Insurer ETU Forsikring",
+        "refId": "cceb99a33280",
         "source": "Insurance Journal"
       },
       {
-        "text": "British Hedge Fund Founder Odey Loses Appeal Against Industry Ban",
-        "refId": "8167bae0466e",
+        "text": "People Moves: Ames & Gough Appoints 2 in DC",
+        "refId": "d4f7c44f131a",
         "source": "Insurance Journal"
       }
     ]
@@ -62,11 +62,6 @@
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Saudi fintech Tabby raises $233m",
-        "refId": "914c0f02bfdd",
-        "source": "Finextra"
-      },
       {
         "text": "Revolut hit by data breach after fake government email scam",
         "refId": "14061d0cc0b9",
@@ -76,6 +71,11 @@
         "text": "CMBS Special Servicing Rate Climbs in August 2026, Led by Several Large Maturity Defaults",
         "refId": "4c60f2d71c6e",
         "source": "Trepp Talk"
+      },
+      {
+        "text": "Anthropic launches Claude for Financial Advisors",
+        "refId": "7c156596f799",
+        "source": "Finextra"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "2c95e972fe1d",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Two missing pieces in the AI safety discussion",
         "refId": "e11d92be2323",
         "source": "Noahpinion (Noah Smith)"
@@ -160,17 +155,17 @@
         "text": "Does AI assistance enhance or erode expertise?",
         "refId": "81f19983bde7",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Is it the screens? Or education systems?",
+        "refId": "6b8deb7edad4",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Sunday assorted links",
-        "refId": "2c95e972fe1d",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "Prediction markets are becoming more professionalized, but also harder to beat",
         "refId": "2388a70286ac",
@@ -180,43 +175,48 @@
         "text": "Two missing pieces in the AI safety discussion",
         "refId": "e11d92be2323",
         "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Wall Street Bets on Rate Hike From a Fed Hemmed In by Persistent Inflation",
+        "refId": "b91e15d99171",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7583.89,
+      "v": 7581.48,
       "base": 7656.98,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26010.273,
+      "v": 25973.312,
       "base": 26333.04,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51933.13,
+      "v": 52053.99,
       "base": 52573.29,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.0,
+      "v": 4.996,
       "base": 4.961,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.66,
+      "v": 17.53,
       "base": 17.1,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 182.5736,
+      "v": 183.6722,
       "base": 188.06,
       "bp": false
     }
