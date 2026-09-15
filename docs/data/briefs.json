@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Goldman picks China healthcare stocks for a post-AI trade",
-        "refId": "e6a67efcafc8",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Prediction markets are becoming more professionalized, but also harder to beat",
         "refId": "2388a70286ac",
         "source": "CNBC Finance"
@@ -15,6 +10,11 @@
       {
         "text": "STMicroelectronics introduces automotive image sensor to help scale affordable in-cabin sensing",
         "refId": "650eede801d9",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "STMicroelectronics pr\u00e9sente un capteur d\u2019image automobile pour faciliter le d\u00e9ploiement des syst\u00e8mes d\u2019imagerie de l\u2019habitacle abordables",
+        "refId": "55478058f27a",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Where Have all the Atlantic Hurricanes Gone?",
-        "refId": "c2a4e214a6fc",
+        "text": "Trump Dismisses AI Safety Alarm, Says US Already Has Tools to Police Industry",
+        "refId": "fb5293e1822d",
         "source": "Insurance Journal"
       },
       {
-        "text": "Iranian Strait Authority Issues Updated List of 77 Sanctioned Vessels; Insurers Warned",
-        "refId": "c51f45094899",
+        "text": "People Moves: Ascot Aligns US Business for Next Phase of Growth",
+        "refId": "a0fb2a3cb049",
         "source": "Insurance Journal"
       },
       {
-        "text": "Louisiana Lawsuit Says LNG Terminals are Hurting Seafood Industry",
-        "refId": "a36c628bb5f1",
+        "text": "British Hedge Fund Founder Odey Loses Appeal Against Industry Ban",
+        "refId": "8167bae0466e",
         "source": "Insurance Journal"
       }
     ]
@@ -63,19 +63,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Singapore banks complete blockchain-enabled SGD transactions on Swift ledger",
-        "refId": "df01b8084010",
+        "text": "Saudi fintech Tabby raises $233m",
+        "refId": "914c0f02bfdd",
         "source": "Finextra"
       },
       {
-        "text": "Chift raises \u20ac10.5m to build financial connectivity layer for the AI era",
-        "refId": "3771b47380da",
+        "text": "Revolut hit by data breach after fake government email scam",
+        "refId": "14061d0cc0b9",
         "source": "Finextra"
       },
       {
-        "text": "YouLend and Dojo partnership reaches $2bn funding milestone",
-        "refId": "81ad307f2a8d",
-        "source": "Finextra"
+        "text": "CMBS Special Servicing Rate Climbs in August 2026, Led by Several Large Maturity Defaults",
+        "refId": "4c60f2d71c6e",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -93,9 +93,9 @@
         "source": "Private Equity International"
       },
       {
-        "text": "Permira appoints ex-Microsoft executive Julia Liuson as senior adviser",
-        "refId": "93e961b0e828",
-        "source": "PE Hub"
+        "text": "SFERS eyes smaller buyouts, growth strategies as it plans PE pacing rebound",
+        "refId": "0a15821cc5f7",
+        "source": "Buyouts Insider"
       }
     ]
   },
@@ -103,30 +103,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Is a higher earnings bar really harder to clear? \ud83d\udccf",
-        "refId": "5fd28ff975de",
-        "source": "TKer (Sam Ro)"
-      },
-      {
         "text": "The A.I. Slowdown Debate Goes Global",
         "refId": "1a8aebfe0abb",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Sign Up for DealBook",
-        "refId": "c7eece17793a",
+        "text": "Money Is Flowing Into Space Start-Ups. Some Investors See a SpaceX Effect.",
+        "refId": "37e26b2728c0",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "The Beijing Swing, Part 2: Refined Products",
+        "refId": "4d68f558771b",
+        "source": "Commodity Context"
       }
     ]
   },
   "Newsletters": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Dimensional\u2019s David Booth Discusses the State of ETFs, Investing and More",
-        "refId": "5c918625710a",
-        "source": "The Daily Upside"
-      },
       {
         "text": "Wall Street Bets on Rate Hike From a Fed Hemmed In by Persistent Inflation",
         "refId": "b91e15d99171",
@@ -135,6 +130,11 @@
       {
         "text": "Ford\u2019s Rare Rebuke of Trump Official Tests DC-Detroit Relations",
         "refId": "eacbad0352d6",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Meta May Be an AI Winner After All: Morgan Stanley",
+        "refId": "7c6a08de3e84",
         "source": "The Daily Upside"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Diversity Is Our Strength?",
-        "refId": "614c4c90d9e4",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Sunday assorted links",
         "refId": "2c95e972fe1d",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Two missing pieces in the AI safety discussion",
         "refId": "e11d92be2323",
         "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Does AI assistance enhance or erode expertise?",
+        "refId": "81f19983bde7",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Diversity Is Our Strength?",
-        "refId": "614c4c90d9e4",
+        "text": "Sunday assorted links",
+        "refId": "2c95e972fe1d",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Goldman picks China healthcare stocks for a post-AI trade",
-        "refId": "e6a67efcafc8",
+        "text": "Prediction markets are becoming more professionalized, but also harder to beat",
+        "refId": "2388a70286ac",
         "source": "CNBC Finance"
       },
       {
-        "text": "Dimensional\u2019s David Booth Discusses the State of ETFs, Investing and More",
-        "refId": "5c918625710a",
-        "source": "The Daily Upside"
+        "text": "Two missing pieces in the AI safety discussion",
+        "refId": "e11d92be2323",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7619.98,
-      "base": 7591.7,
+      "v": 7583.89,
+      "base": 7656.98,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26186.414,
-      "base": 26081.72,
+      "v": 26010.273,
+      "base": 26333.04,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52421.2,
-      "base": 52064.1,
+      "v": 51933.13,
+      "base": 52573.29,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.961,
-      "base": 4.975,
+      "v": 5.0,
+      "base": 4.961,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.1,
-      "base": 15.84,
+      "v": 17.66,
+      "base": 17.1,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 184.4465,
-      "base": 186.95,
+      "v": 182.5736,
+      "base": 188.06,
       "bp": false
     }
   ]
