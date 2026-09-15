@@ -13,9 +13,9 @@
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "STMicroelectronics pr\u00e9sente un capteur d\u2019image automobile pour faciliter le d\u00e9ploiement des syst\u00e8mes d\u2019imagerie de l\u2019habitacle abordables",
-        "refId": "55478058f27a",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "When collections is treated as arrears, banks miss the real risk",
+        "refId": "145ca0a6978c",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropic Launches Claude for Financial Advisors",
-        "refId": "9be1758ed0d8",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "The Estate Planning Documents Clients Need At Every Life Stage",
-        "refId": "2260faeed86a",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Over-Focusing on Estate Taxes Creates Tunnel Vision",
         "refId": "c8b1e6a000eb",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Wealth Management Invest: Building Diversified Portfolios with Nomura\u2019s Milissa Hutchinson",
+        "refId": "a29d3707a7a0",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Views from 6,230: Tax-Aware, Personalized and Scalable\u2014The New Model Portfolio",
+        "refId": "7feb5292a8d6",
         "source": "Wealth Management"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Carney Calls for Global Tech Body to Boost AI Guardrails",
-        "refId": "6d304527ea1e",
-        "source": "Insurance Journal"
+        "text": "Alex Wells selected to serve as CEO of Zurich U.S.",
+        "refId": "8004dd361fa3",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Business Moves: Miller Launches Miller Malaysia, Building Regional Footprint; MNK Group Buys Danish Insurer ETU Forsikring",
-        "refId": "cceb99a33280",
-        "source": "Insurance Journal"
+        "text": "Swiss Re sees adequate opportunities in short-tail lines and data centres: Urs Baertschi",
+        "refId": "58654574cc87",
+        "source": "Reinsurance News"
       },
       {
-        "text": "People Moves: Ames & Gough Appoints 2 in DC",
-        "refId": "d4f7c44f131a",
-        "source": "Insurance Journal"
+        "text": "LMG names LMA\u2019s Joe Brace as Chair of Data Council",
+        "refId": "e651ba928bf9",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Revolut hit by data breach after fake government email scam",
-        "refId": "14061d0cc0b9",
-        "source": "Finextra"
-      },
-      {
         "text": "CMBS Special Servicing Rate Climbs in August 2026, Led by Several Large Maturity Defaults",
         "refId": "4c60f2d71c6e",
         "source": "Trepp Talk"
       },
       {
-        "text": "Anthropic launches Claude for Financial Advisors",
-        "refId": "7c156596f799",
+        "text": "Nubank launches deposit account in the US",
+        "refId": "cd178ad98ef9",
+        "source": "Finextra"
+      },
+      {
+        "text": "CX specialist Foundever promotes banking innovation veteran Claire Calm\u00e9jane",
+        "refId": "a9db486768d6",
         "source": "Finextra"
       }
     ]
@@ -186,19 +186,19 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7581.48,
+      "v": 7585.73,
       "base": 7656.98,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25973.312,
+      "v": 25981.57,
       "base": 26333.04,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52053.99,
+      "v": 52093.11,
       "base": 52573.29,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 17.53,
+      "v": 17.2,
       "base": 17.1,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 183.6722,
+      "v": 183.8547,
       "base": 188.06,
       "bp": false
     }
