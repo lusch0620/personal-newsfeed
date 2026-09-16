@@ -3,30 +3,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-        "refId": "37e3d133579c",
+        "text": "Circuits Integrated Secures Pre-Seed Funding from Evercurious to Accelerate CI-ONE Commercialization",
+        "refId": "07f6b892ef44",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+        "refId": "7d8f186904c1",
         "source": "CNBC Finance"
       },
       {
-        "text": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
-        "refId": "0e6704f65038",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "China says AI CEOs' call for a slowdown is 'fear mongering'",
-        "refId": "551a25cc3741",
-        "source": "CNBC Finance"
+        "text": "Tower Semiconductor to Highlight its High-Volume Silicon Photonics and SiGe Solutions for AI Infrastructure, Telecom and Emerging Applications at ECOC 2026",
+        "refId": "0496d3377099",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Can 'Role-Playing' AI Agents Change The Game for Advisor Education?",
-        "refId": "662ba0f7f3f4",
-        "source": "Wealth Management"
-      },
       {
         "text": "People Moves: $29B Choreo Hires Chief People Officer From Edelman Financial",
         "refId": "ae83f610af35",
@@ -35,6 +30,11 @@
       {
         "text": "Columbia Threadneedle, Hamilton Lane Partner on Public/Private Products",
         "refId": "f4b59cebf602",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "LPL Advisors Stay Put After OSJ Defects to Cetera",
+        "refId": "e7c6751fdc86",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "TreviPay adds e-invoicing via Dynatos",
-        "refId": "bc0241cfd8ea",
-        "source": "Finextra"
-      },
-      {
         "text": "Nasdaq Verafin unites with Stablecore in financial crime fight",
         "refId": "67716e1ee824",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "Deutsche Kreditbank adopts Pega AI tech for customer service",
         "refId": "ab7d1cd54f2c",
+        "source": "Finextra"
+      },
+      {
+        "text": "Wells Fargo brings international money transfers to mobile app",
+        "refId": "e42180a772ac",
         "source": "Finextra"
       }
     ]
@@ -113,8 +113,8 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Landmark US crypto bill fails as Senate splits over Trump ethics concerns",
-        "refId": "4bf119ee0657",
+        "text": "OpenAI weighs funding round at $1.2tn valuation before IPO",
+        "refId": "87f2b59c940e",
         "source": "Financial Times Markets"
       }
     ]
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide",
-        "refId": "37e3d133579c",
-        "source": "CNBC Finance"
+        "text": "Just Waiting for Disinflation is Not Enough",
+        "refId": "42beaed96d49",
+        "source": "The Overshoot (Matthew Klein)"
       },
       {
-        "text": "Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike",
-        "refId": "0e6704f65038",
-        "source": "CNBC Finance"
+        "text": "Disruption Matters: The Exit Playbook",
+        "refId": "32fe7529cef3",
+        "source": "Private Equity International"
       },
       {
-        "text": "China says AI CEOs' call for a slowdown is 'fear mongering'",
-        "refId": "551a25cc3741",
-        "source": "CNBC Finance"
+        "text": "Circuits Integrated Secures Pre-Seed Funding from Evercurious to Accelerate CI-ONE Commercialization",
+        "refId": "07f6b892ef44",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7544.78,
+      "v": 7551.81,
       "base": 7619.98,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25962.88,
+      "v": 25978.424,
       "base": 26186.41,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51396.02,
+      "v": 51461.9,
       "base": 52421.2,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 18.07,
+      "v": 17.71,
       "base": 17.2,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 177.9871,
+      "v": 178.5791,
       "base": 184.45,
       "bp": false
     }
