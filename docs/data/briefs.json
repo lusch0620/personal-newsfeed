@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Micron Appoints Deirdre Hanford to Lead Micron Research Labs",
-        "refId": "8be90a747c53",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
         "text": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
         "refId": "7da91a2bf4ec",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "Stocks making the biggest moves premarket: SK Hynix, J.B. Hunt, Expedia & more",
         "refId": "171cb658fdba",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "PNC, Regions, Citizens execs eschew M&A \u2018distraction\u2019",
+        "refId": "f9c8ac47b05c",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Schwab scores exclusive (for now) contract with Anthropic and takes AI 'driver's seat' in RIA custody, analyst says, though others counter that it's generic and late-coming",
-        "refId": "2a836d64b093",
-        "source": "RIABiz"
-      },
-      {
-        "text": "Investment Management Platform Ridgeline Raises $250M Series E",
-        "refId": "b24eb977bbb8",
+        "text": "Advisor Sentiment Index: Advisor Attitudes on Markets, Economy Hold Steady",
+        "refId": "b3613325c923",
         "source": "Wealth Management"
       },
       {
-        "text": "Advisor Sentiment Index: Advisor Attitudes on Markets, Economy Hold Steady",
-        "refId": "b3613325c923",
+        "text": "A 'Disciplined Simplicity' Approach to Estate Planning",
+        "refId": "7110e66c5ffb",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "The Healthy Advisor: Resilience, Compassion and Purpose with Kim-Ha Nguyen",
+        "refId": "1cd5ce3b3bc0",
         "source": "Wealth Management"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Former Children\u2019s Health LP launches secondaries shop focused on overlooked deals",
-        "refId": "180dcc2cb65a",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "Evergreen execs spell out what they\u2019ve learned and how they\u2019ll judge success",
         "refId": "fe725b66d36e",
         "source": "Private Equity International"
@@ -96,17 +91,17 @@
         "text": "Side Letter: Nothing ventured\u2026",
         "refId": "35d6f5b2739a",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Neuberger smashes debut Japan target by more than 50%",
+        "refId": "f444027f4bae",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Unlikely Political Bedfellows on A.I. Regulation",
-        "refId": "789265b08a04",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "OpenAI Considers New Financing at a $1.5 Trillion Valuation",
         "refId": "89d88e9f805c",
@@ -115,6 +110,11 @@
       {
         "text": "Bessent and Warsh Take On the Bond Bears",
         "refId": "82e239586ced",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "In Silicon Valley, Hardware Is Having a Moment Again",
+        "refId": "bdf8036fdd49",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Micron Appoints Deirdre Hanford to Lead Micron Research Labs",
-        "refId": "8be90a747c53",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Intel-Backed Altera Joins IPO Tsunami",
+        "refId": "2fb3ec510f00",
+        "source": "The Daily Upside"
       },
       {
-        "text": "The Unlikely Political Bedfellows on A.I. Regulation",
-        "refId": "789265b08a04",
-        "source": "Dealbook (NYT)"
+        "text": "Bond Yields at 2007 Levels Undermine 60/40 Portfolio Rationale",
+        "refId": "d66401217462",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Former Children\u2019s Health LP launches secondaries shop focused on overlooked deals",
-        "refId": "180dcc2cb65a",
-        "source": "Buyouts Insider"
+        "text": "\u2018We\u2019re Done\u2019: Sweeping Crypto Legislation Rejected in Senate",
+        "refId": "bf9bf64733ac",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7642.02,
+      "v": 7637.76,
       "base": 7585.73,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26436.918,
+      "v": 26418.299,
       "base": 25981.57,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51795.96,
+      "v": 51778.04,
       "base": 52093.11,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 15.49,
+      "v": 15.44,
       "base": 17.71,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 179.1527,
+      "v": 179.2325,
       "base": 183.85,
       "bp": false
     }
