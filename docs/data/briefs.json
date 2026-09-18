@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves premarket: SK Hynix, J.B. Hunt, Expedia & more",
-        "refId": "171cb658fdba",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "PNC, Regions, Citizens execs eschew M&A \u2018distraction\u2019",
         "refId": "f9c8ac47b05c",
         "source": "Banking Dive"
@@ -16,6 +11,11 @@
         "text": "Crypto\u2019s Clarity Act stumbles",
         "refId": "b91ff7d0e962",
         "source": "Banking Dive"
+      },
+      {
+        "text": "Senate is still a toss-up, but Democrats now have slight edge, prediction market traders think",
+        "refId": "46a8178d1773",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -23,19 +23,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Advisor Sentiment Index: Advisor Attitudes on Markets, Economy Hold Steady",
-        "refId": "b3613325c923",
+        "text": "Former Advisor Gets 7 Years for $10M Fraud",
+        "refId": "508c530bbe87",
         "source": "Wealth Management"
       },
       {
-        "text": "A 'Disciplined Simplicity' Approach to Estate Planning",
-        "refId": "7110e66c5ffb",
+        "text": "SEC Settles With Canadian Broker Over Alleged AML Failures",
+        "refId": "11ded4bdcbd3",
         "source": "Wealth Management"
       },
       {
-        "text": "The Healthy Advisor: Resilience, Compassion and Purpose with Kim-Ha Nguyen",
-        "refId": "1cd5ce3b3bc0",
-        "source": "Wealth Management"
+        "text": "David Fortunato makes his third pivot after cash management cross-selling fails to yield ample robo investors -- a bolt-on discount brokerage will join its digital home-lending unit in a true Silicon Valley mashup",
+        "refId": "dfb6cf5b1d19",
+        "source": "RIABiz"
       }
     ]
   },
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "$2.6bn in NFIP subsidies remain five years into FEMA\u2019s Risk Rating 2.0: Neptune Flood",
-        "refId": "881881cf3d7f",
-        "source": "Reinsurance News"
+        "text": "The Body of the Last Victim of Hurricane Helene in Tennessee Has Been Found",
+        "refId": "d0e5bd437fc2",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Facultative reinsurance becomes strategic growth lever as market softens: Willis",
-        "refId": "0957cc9b459b",
-        "source": "Reinsurance News"
+        "text": "Federal Legislation Targets Auto Insurance Fraud With Steep Penalties",
+        "refId": "64b3c65920b3",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Video: Cultural alignment key to success of Nationwide and Ryan Re partnership, says Johnston & Issavi",
-        "refId": "305747664609",
-        "source": "Reinsurance News"
+        "text": "AI\u2019s Climate Footprint Draws Growing Concern From Asset Owners",
+        "refId": "6a0500c80592",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Clarity Act collapse causes crypto turmoil in US",
-        "refId": "d0a4cd96f9b2",
+        "text": "Industrial CMBS Takes a Larger Share of 2026 Issuance as SASB Deals Lead",
+        "refId": "3fd74837319a",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Zopa rolls out personal banking agent",
+        "refId": "0d69aa070dfd",
         "source": "Finextra"
       },
       {
-        "text": "Deutsche Bank prepares for go-live of digital asset custody",
-        "refId": "4a26632a7516",
-        "source": "Finextra"
-      },
-      {
-        "text": "Monzo launches auto-invest cashback card",
-        "refId": "4fb10b0ec3ea",
+        "text": "Amex launches business savings account",
+        "refId": "7de2f9d9b897",
         "source": "Finextra"
       }
     ]
@@ -83,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Evergreen execs spell out what they\u2019ve learned and how they\u2019ll judge success",
-        "refId": "fe725b66d36e",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Side Letter: Nothing ventured\u2026",
-        "refId": "35d6f5b2739a",
-        "source": "Private Equity International"
-      },
-      {
         "text": "Neuberger smashes debut Japan target by more than 50%",
         "refId": "f444027f4bae",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Hawaii pension rethinks decade-long private markets tilt",
+        "refId": "7abb0b73b099",
+        "source": "Buyouts Insider"
+      },
+      {
+        "text": "Mubadala: Healthcare PE\u2019s real test is patients, not just returns",
+        "refId": "9252a52fd218",
         "source": "Private Equity International"
       }
     ]
@@ -123,11 +123,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Why Binance Is Dipping Its Toes Into TradFi",
-        "refId": "62e53d476873",
-        "source": "The Daily Upside"
-      },
-      {
         "text": "Intel Considers Rejoining the Memory-Making Biz",
         "refId": "cac2f56800cd",
         "source": "The Daily Upside"
@@ -135,6 +130,11 @@
       {
         "text": "Tums-Maker\u2019s Sales Grow as Weight-Loss Drug Users Grapple With Uncomfortable Side Effects",
         "refId": "d6e166ff2da3",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Fed Raises Interest Rates for First Time in Three Years as Diesel, Gas Prices Surge",
+        "refId": "840b12a2bece",
         "source": "The Daily Upside"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The anti-American Right",
-        "refId": "5b4fbb6e16fb",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
-        "text": "The economics of cyber risk",
-        "refId": "c9001e0224d8",
+        "text": "Wednesday assorted links",
+        "refId": "527b26c1886b",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Salesforce AI Force, Agents as UI, The Race to Headless",
-        "refId": "15745b1ab548",
-        "source": "Stratechery (Ben Thompson)"
+        "text": "METR, EA, and others being attacked",
+        "refId": "159740c2710c",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The correct model of AI CEO behavior",
+        "refId": "3fed4a5d3e40",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The anti-American Right",
-        "refId": "5b4fbb6e16fb",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "PNC, Regions, Citizens execs eschew M&A \u2018distraction\u2019",
+        "refId": "f9c8ac47b05c",
+        "source": "Banking Dive"
       },
       {
-        "text": "The economics of cyber risk",
-        "refId": "c9001e0224d8",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Bessent and Warsh Take On the Bond Bears",
+        "refId": "82e239586ced",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Evergreen execs spell out what they\u2019ve learned and how they\u2019ll judge success",
-        "refId": "fe725b66d36e",
-        "source": "Private Equity International"
+        "text": "In Silicon Valley, Hardware Is Having a Moment Again",
+        "refId": "bdf8036fdd49",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7637.76,
-      "base": 7585.73,
+      "v": 7621.6,
+      "base": 7551.81,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26418.299,
-      "base": 25981.57,
+      "v": 26374.2,
+      "base": 25978.43,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51778.04,
-      "base": 52093.11,
+      "v": 51554.9,
+      "base": 51461.9,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.947,
-      "base": 5.006,
+      "v": 5.004,
+      "base": 4.947,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.44,
-      "base": 17.71,
+      "v": 15.49,
+      "base": 15.44,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 179.2325,
-      "base": 183.85,
+      "v": 178.7512,
+      "base": 178.58,
       "bp": false
     }
   ]
