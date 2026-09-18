@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Federal Reserve issues FOMC statement",
-        "refId": "5aa37e0ac435",
-        "source": "Federal Reserve Press Releases"
-      },
-      {
-        "text": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-        "refId": "0e63f32df71a",
-        "source": "Federal Reserve Press Releases"
-      },
-      {
-        "text": "Here is what changed in the new Fed statement under Warsh",
-        "refId": "d875764aff5a",
+        "text": "Here are five key takeaways from Wednesday's Fed rate hike",
+        "refId": "b0d4e8811635",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+        "refId": "eb3b88f3c737",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "NewPhotonics\u00ae and Tower Semiconductor Begin High-Volume Shipments of Laser-Integrated, Serviceable Optical Engine PICs for Scale-Out and Scale Up AI Interconnect",
+        "refId": "746b2b74cea5",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "David Fortunato makes his third pivot after cash management cross-selling fails to yield ample robo investors -- a bolt-on discount brokerage will join its digital home-lending unit in a true Silicon Valley mashup",
-        "refId": "dfb6cf5b1d19",
-        "source": "RIABiz"
-      },
-      {
         "text": "'No rush' Peter Mallouk is doing wild 'gap' deals as he rides out RIA seller's market and his Creative Planning keeps 'billions' of purchasing power 'locked-and-loaded' for 'perfect' moment",
         "refId": "82ace789cda0",
         "source": "RIABiz"
       },
       {
-        "text": "Knicks Star Jalen Brunson Launches Brand Advisory With Focus Support",
-        "refId": "6a301355ba19",
+        "text": "How Implementation Drag Is Eroding Your Investment Edge",
+        "refId": "a8c3bcc542c7",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "What is the 'Daughter Tax?'",
+        "refId": "2a65d4386a7c",
         "source": "Wealth Management"
       }
     ]
@@ -48,13 +48,13 @@
         "source": "Insurance Journal"
       },
       {
-        "text": "India Finds Nestle Baby Food Sample Substandard, Takes Legal Action",
-        "refId": "92ceb435c4d5",
-        "source": "Insurance Journal"
+        "text": "Cyber reinsurance demand expected to be stable in 2027: Moody\u2019s Ratings survey",
+        "refId": "ff0526bc70c0",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Revolut Says No Group Has Made Direct Contact After Data Breach",
-        "refId": "8c239eca05f1",
+        "text": "India Finds Nestle Baby Food Sample Substandard, Takes Legal Action",
+        "refId": "92ceb435c4d5",
         "source": "Insurance Journal"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Industrial CMBS Takes a Larger Share of 2026 Issuance as SASB Deals Lead",
-        "refId": "3fd74837319a",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Zopa rolls out personal banking agent",
         "refId": "0d69aa070dfd",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "Amex launches business savings account",
         "refId": "7de2f9d9b897",
+        "source": "Finextra"
+      },
+      {
+        "text": "Wealthtech platform Envestnet to acquire Vestmark",
+        "refId": "878fbc8a4df6",
         "source": "Finextra"
       }
     ]
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Federal Reserve issues FOMC statement",
-        "refId": "5aa37e0ac435",
-        "source": "Federal Reserve Press Releases"
-      },
-      {
-        "text": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-        "refId": "0e63f32df71a",
-        "source": "Federal Reserve Press Releases"
-      },
-      {
-        "text": "Here is what changed in the new Fed statement under Warsh",
-        "refId": "d875764aff5a",
+        "text": "Here are five key takeaways from Wednesday's Fed rate hike",
+        "refId": "b0d4e8811635",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Zopa rolls out personal banking agent",
+        "refId": "0d69aa070dfd",
+        "source": "Finextra"
+      },
+      {
+        "text": "Amex launches business savings account",
+        "refId": "7de2f9d9b897",
+        "source": "Finextra"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7628.37,
+      "v": 7650.5,
       "base": 7551.81,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26417.074,
+      "v": 26522.545,
       "base": 25978.43,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51597.55,
+      "v": 51682.64,
       "base": 51461.9,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 15.29,
+      "v": 14.81,
       "base": 15.44,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 178.2588,
+      "v": 178.777,
       "base": 178.58,
       "bp": false
     }
