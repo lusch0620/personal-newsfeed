@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
-        "refId": "7da91a2bf4ec",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Stocks making the biggest moves premarket: SK Hynix, J.B. Hunt, Expedia & more",
         "refId": "171cb658fdba",
         "source": "CNBC Finance"
@@ -15,6 +10,11 @@
       {
         "text": "PNC, Regions, Citizens execs eschew M&A \u2018distraction\u2019",
         "refId": "f9c8ac47b05c",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Crypto\u2019s Clarity Act stumbles",
+        "refId": "b91ff7d0e962",
         "source": "Banking Dive"
       }
     ]
@@ -43,30 +43,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "First Solar Drops ITC Patent Case, Shifts Focus to Lawsuits Against Rivals",
-        "refId": "fee4d3965bb7",
-        "source": "Insurance Journal"
+        "text": "$2.6bn in NFIP subsidies remain five years into FEMA\u2019s Risk Rating 2.0: Neptune Flood",
+        "refId": "881881cf3d7f",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Climate, Seismic Factors Primed \u2018Unprecedented\u2019 Nepal Disaster",
-        "refId": "f58b8ec0d916",
-        "source": "Insurance Journal"
+        "text": "Facultative reinsurance becomes strategic growth lever as market softens: Willis",
+        "refId": "0957cc9b459b",
+        "source": "Reinsurance News"
       },
       {
-        "text": "El Ni\u00f1o, War Raise Asia\u2019s Food Security Risks, Verisk Maplecroft Says",
-        "refId": "53e76e512b22",
-        "source": "Insurance Journal"
+        "text": "Video: Cultural alignment key to success of Nationwide and Ryan Re partnership, says Johnston & Issavi",
+        "refId": "305747664609",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Former Revolut and N26 alumni raise \u00a32.7 million to launch wealth management app",
-        "refId": "228ab38f08df",
-        "source": "Finextra"
-      },
       {
         "text": "Clarity Act collapse causes crypto turmoil in US",
         "refId": "d0a4cd96f9b2",
@@ -75,6 +70,11 @@
       {
         "text": "Deutsche Bank prepares for go-live of digital asset custody",
         "refId": "4a26632a7516",
+        "source": "Finextra"
+      },
+      {
+        "text": "Monzo launches auto-invest cashback card",
+        "refId": "4fb10b0ec3ea",
         "source": "Finextra"
       }
     ]
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "OpenAI Considers New Financing at a $1.5 Trillion Valuation",
-        "refId": "89d88e9f805c",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Bessent and Warsh Take On the Bond Bears",
         "refId": "82e239586ced",
         "source": "Dealbook (NYT)"
@@ -116,6 +111,11 @@
         "text": "In Silicon Valley, Hardware Is Having a Moment Again",
         "refId": "bdf8036fdd49",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Trump Looks Isolated on Interest Rates",
+        "refId": "59bee26e8a9b",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Intel-Backed Altera Joins IPO Tsunami",
-        "refId": "2fb3ec510f00",
+        "text": "Why Binance Is Dipping Its Toes Into TradFi",
+        "refId": "62e53d476873",
         "source": "The Daily Upside"
       },
       {
-        "text": "Bond Yields at 2007 Levels Undermine 60/40 Portfolio Rationale",
-        "refId": "d66401217462",
+        "text": "Intel Considers Rejoining the Memory-Making Biz",
+        "refId": "cac2f56800cd",
         "source": "The Daily Upside"
       },
       {
-        "text": "\u2018We\u2019re Done\u2019: Sweeping Crypto Legislation Rejected in Senate",
-        "refId": "bf9bf64733ac",
+        "text": "Tums-Maker\u2019s Sales Grow as Weight-Loss Drug Users Grapple With Uncomfortable Side Effects",
+        "refId": "d6e166ff2da3",
         "source": "The Daily Upside"
       }
     ]
@@ -147,10 +147,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "When discussing AI policy, start with China",
-        "refId": "c4da67775f2f",
+        "text": "The anti-American Right",
+        "refId": "5b4fbb6e16fb",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "The economics of cyber risk",
+        "refId": "c9001e0224d8",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
+      {
+        "text": "Salesforce AI Force, Agents as UI, The Race to Headless",
+        "refId": "15745b1ab548",
+        "source": "Stratechery (Ben Thompson)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
       {
         "text": "The anti-American Right",
         "refId": "5b4fbb6e16fb",
@@ -160,26 +175,11 @@
         "text": "The economics of cyber risk",
         "refId": "c9001e0224d8",
         "source": "Marginal Revolution (Tyler Cowen)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Intel-Backed Altera Joins IPO Tsunami",
-        "refId": "2fb3ec510f00",
-        "source": "The Daily Upside"
       },
       {
-        "text": "Bond Yields at 2007 Levels Undermine 60/40 Portfolio Rationale",
-        "refId": "d66401217462",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "\u2018We\u2019re Done\u2019: Sweeping Crypto Legislation Rejected in Senate",
-        "refId": "bf9bf64733ac",
-        "source": "The Daily Upside"
+        "text": "Evergreen execs spell out what they\u2019ve learned and how they\u2019ll judge success",
+        "refId": "fe725b66d36e",
+        "source": "Private Equity International"
       }
     ]
   },
