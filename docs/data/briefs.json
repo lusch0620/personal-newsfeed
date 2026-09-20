@@ -1,12 +1,7 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "3 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Skyworks Announces Extension of Expiration Date of Exchange Offers for Qorvo\u2019s Senior Notes due 2029 and 2031",
-        "refId": "b19fe1a08153",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
       {
         "text": "RIBER: INFORMATION MENSUELLE RELATIVE AU NOMBRE TOTAL D\u2019ACTIONS ET DE DROITS DE VOTE COMPOSANT LE CAPITAL SOCIAL",
         "refId": "d235ea6d2250",
@@ -20,14 +15,8 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Osaic Faces Additional Cash Sweep Class Action Suit",
-        "refId": "679fd701f489",
-        "source": "Wealth Management"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Insurance": {
     "lede": "1 story in this lane today.",
@@ -51,19 +40,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oil Context Weekly (W38)",
-        "refId": "0f7250d20cd4",
-        "source": "Commodity Context"
-      },
-      {
-        "text": "British data centre group Nscale files for $35bn US listing",
-        "refId": "7599a4a4becb",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Native American Tribe Teams Up With Kalshi on New Prediction Market",
         "refId": "5c394b39a5e2",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+        "refId": "db341cd9a544",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "US state department under pressure to disclose Venezuelan oil takings",
+        "refId": "e6658481153d",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -115,18 +104,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Osaic Faces Additional Cash Sweep Class Action Suit",
-        "refId": "679fd701f489",
-        "source": "Wealth Management"
+        "text": "Native American Tribe Teams Up With Kalshi on New Prediction Market",
+        "refId": "5c394b39a5e2",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Oil Context Weekly (W38)",
-        "refId": "0f7250d20cd4",
-        "source": "Commodity Context"
+        "text": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+        "refId": "db341cd9a544",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "British data centre group Nscale files for $35bn US listing",
-        "refId": "7599a4a4becb",
+        "text": "US state department under pressure to disclose Venezuelan oil takings",
+        "refId": "e6658481153d",
         "source": "Financial Times Markets"
       }
     ]
