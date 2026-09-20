@@ -1,12 +1,7 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-        "refId": "0ab2a766de59",
-        "source": "CNBC Finance"
-      },
       {
         "text": "Skyworks Announces Extension of Expiration Date of Exchange Offers for Qorvo\u2019s Senior Notes due 2029 and 2031",
         "refId": "b19fe1a08153",
@@ -16,25 +11,20 @@
         "text": "RIBER: INFORMATION MENSUELLE RELATIVE AU NOMBRE TOTAL D\u2019ACTIONS ET DE DROITS DE VOTE COMPOSANT LE CAPITAL SOCIAL",
         "refId": "d235ea6d2250",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+        "refId": "860254929c91",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "4 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Cerity Partners Enters Iowa with $2B Gilbert &amp; Cook",
-        "refId": "846be683fabb",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Ex-Cetera Advisor Pleads Guilty to $6M Cherry-Picking Scheme",
-        "refId": "85a6f0c90a93",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Wealth Manager Mercer Takes Out Private Credit With New Loan",
-        "refId": "44bfa39ef114",
+        "text": "Osaic Faces Additional Cash Sweep Class Action Suit",
+        "refId": "679fd701f489",
         "source": "Wealth Management"
       }
     ]
@@ -50,14 +40,8 @@
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "The Industrial Hard Maturity Mirage: $40.86 Billion Has Extension Capacity Beyond 2028",
-        "refId": "4ae71cafa25b",
-        "source": "Trepp Talk"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -111,18 +95,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Saplings: The World Outside",
-        "refId": "0a106a8ba65e",
-        "source": "The Generalist (Mario Gabriele)"
-      },
-      {
-        "text": "Scott Beaulier interviews me, in part about Wyoming",
-        "refId": "28db30255790",
+        "text": "Emergent Ventures India, 19th cohort",
+        "refId": "2ba0baace321",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Emergent Ventures India, 19th cohort",
-        "refId": "2ba0baace321",
+        "text": "Internet diffusion and religious decline?",
+        "refId": "95fc95f59fcb",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The Age of Wonders and Terrors",
+        "refId": "b7a6c07c675f",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -131,19 +115,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Industrial Hard Maturity Mirage: $40.86 Billion Has Extension Capacity Beyond 2028",
-        "refId": "4ae71cafa25b",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "Saplings: The World Outside",
-        "refId": "0a106a8ba65e",
-        "source": "The Generalist (Mario Gabriele)"
-      },
-      {
-        "text": "Cerity Partners Enters Iowa with $2B Gilbert &amp; Cook",
-        "refId": "846be683fabb",
+        "text": "Osaic Faces Additional Cash Sweep Class Action Suit",
+        "refId": "679fd701f489",
         "source": "Wealth Management"
+      },
+      {
+        "text": "Oil Context Weekly (W38)",
+        "refId": "0f7250d20cd4",
+        "source": "Commodity Context"
+      },
+      {
+        "text": "British data centre group Nscale files for $35bn US listing",
+        "refId": "7599a4a4becb",
+        "source": "Financial Times Markets"
       }
     ]
   },
