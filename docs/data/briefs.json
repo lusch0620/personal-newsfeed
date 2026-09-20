@@ -1,140 +1,104 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "Soitec announces the success of its offering of bonds settled in cash and/or convertible into new shares and/or exchangeable for existing shares (\u201cORNANEs\u201d) due September 2033 for a nominal amount of \u20ac500 million",
-        "refId": "3896e2c75f70",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "Soitec annonce le succ\u00e8s de son \u00e9mission d\u2019obligations \u00e0 option de remboursement en num\u00e9raire et/ou en actions nouvelles et/ou existantes (\u00ab ORNANEs \u00bb) \u00e0 \u00e9ch\u00e9ance septembre 2033 pour un montant nominal de 500 millions d\u2019euros",
-        "refId": "119df3548c7c",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-        "refId": "bacf0a4f971e",
+        "text": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+        "refId": "0ab2a766de59",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Skyworks Announces Extension of Expiration Date of Exchange Offers for Qorvo\u2019s Senior Notes due 2029 and 2031",
+        "refId": "b19fe1a08153",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "RIBER: INFORMATION MENSUELLE RELATIVE AU NOMBRE TOTAL D\u2019ACTIONS ET DE DROITS DE VOTE COMPOSANT LE CAPITAL SOCIAL",
+        "refId": "d235ea6d2250",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ritik Malhotra sells not-for-sale Savvy stake for $100 million after Utah Jazz owner showed up big for his LPL-disruption-by-AI play -- and Mark Casady re-upped at the new price as well",
-        "refId": "7efb37627b8e",
-        "source": "RIABiz"
-      },
-      {
-        "text": "Merit Financial Adds Former Commonwealth Advisor Overseeing $888M",
-        "refId": "d4a4c3f3aa18",
+        "text": "Cerity Partners Enters Iowa with $2B Gilbert &amp; Cook",
+        "refId": "846be683fabb",
         "source": "Wealth Management"
       },
       {
-        "text": "Apex Partners With FusionIQ to Simplify Financial Services Tech Development",
-        "refId": "bc0fb3efedb5",
+        "text": "Ex-Cetera Advisor Pleads Guilty to $6M Cherry-Picking Scheme",
+        "refId": "85a6f0c90a93",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Wealth Manager Mercer Takes Out Private Credit With New Loan",
+        "refId": "44bfa39ef114",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Saudis and Houthis Exchange Strikes, Yemenis Flee by Boat as Middle East War Spreads",
-        "refId": "2f14190d4994",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Cyber reinsurance demand expected to be stable in 2027: Moody\u2019s Ratings survey",
-        "refId": "ff0526bc70c0",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "India Finds Nestle Baby Food Sample Substandard, Takes Legal Action",
-        "refId": "92ceb435c4d5",
+        "text": "Unpacking Warehouse Legal Liability",
+        "refId": "5906006748ac",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Canadian fintech VC Portage closes US$600m fund",
-        "refId": "fe1ad6ba00de",
-        "source": "Finextra"
-      },
-      {
-        "text": "Raisin UK appoints ex-Goldman Sachs exec Jules di Mambro CEO",
-        "refId": "cf86e3abe860",
-        "source": "Finextra"
-      },
-      {
-        "text": "Ex-Monzo execs\u2019 Sync Savings completes funding round",
-        "refId": "4b9153dd8f51",
-        "source": "Finextra"
+        "text": "The Industrial Hard Maturity Mirage: $40.86 Billion Has Extension Capacity Beyond 2028",
+        "refId": "4ae71cafa25b",
+        "source": "Trepp Talk"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "UK built environment pulls in private equity; Providence Equity featured in They Said It",
-        "refId": "81cc47575e9f",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Lower-mid market Siguler Guff leverages exits to its biggest fundraise",
-        "refId": "ffeb4a9852ab",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "PE pursues medical textile businesses: 8 deals",
-        "refId": "a8567ea1d344",
-        "source": "PE Hub"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sign Up for DealBook",
-        "refId": "c7eece17793a",
+        "text": "Oil Context Weekly (W38)",
+        "refId": "0f7250d20cd4",
+        "source": "Commodity Context"
+      },
+      {
+        "text": "British data centre group Nscale files for $35bn US listing",
+        "refId": "7599a4a4becb",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Native American Tribe Teams Up With Kalshi on New Prediction Market",
+        "refId": "5c394b39a5e2",
         "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Come on Latin America, you owe me one",
-        "refId": "2b88a14e17a8",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Why Scott Bessent should pay attention to Turkey\u2019s market scandal",
-        "refId": "786e4d72e33e",
-        "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "5 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
       {
-        "text": "Generac Soars After $2.4B Deal to Provide Backup Power for Amazon",
-        "refId": "bb51e3ada7ac",
+        "text": "Brookfield of Dreams",
+        "refId": "338974d56715",
+        "source": "Net Interest (Marc Rubinstein)"
+      },
+      {
+        "text": "Re-Energized EV Market Grapples With Growing Drain on Profitability",
+        "refId": "fe504c206f9d",
         "source": "The Daily Upside"
       },
       {
-        "text": "SEC Greenlights Tokenized Stocks After Clarity Act Fails in Senate",
-        "refId": "ecbba23ff47a",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "\u2018Outlook Cloudy\u2019: Fed Rate Hike Pits Bulls Against Bears Over Year-End Rally Odds",
-        "refId": "429868cfe03a",
+        "text": "How Is China Changing the AI Game for Advisors?",
+        "refId": "da94090b50f5",
         "source": "The Daily Upside"
       }
     ]
@@ -147,19 +111,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Why Papua New Guinea is so interesting",
-        "refId": "8eea4c46ff15",
+        "text": "Saplings: The World Outside",
+        "refId": "0a106a8ba65e",
+        "source": "The Generalist (Mario Gabriele)"
+      },
+      {
+        "text": "Scott Beaulier interviews me, in part about Wyoming",
+        "refId": "28db30255790",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Reimagining research papers as interactive and reliable AI agents",
-        "refId": "eeafbe58721a",
+        "text": "Emergent Ventures India, 19th cohort",
+        "refId": "2ba0baace321",
         "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Roundup #88: Is it time to panic yet?",
-        "refId": "46c734be3438",
-        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Canadian fintech VC Portage closes US$600m fund",
-        "refId": "fe1ad6ba00de",
-        "source": "Finextra"
+        "text": "The Industrial Hard Maturity Mirage: $40.86 Billion Has Extension Capacity Beyond 2028",
+        "refId": "4ae71cafa25b",
+        "source": "Trepp Talk"
       },
       {
-        "text": "Ritik Malhotra sells not-for-sale Savvy stake for $100 million after Utah Jazz owner showed up big for his LPL-disruption-by-AI play -- and Mark Casady re-upped at the new price as well",
-        "refId": "7efb37627b8e",
-        "source": "RIABiz"
+        "text": "Saplings: The World Outside",
+        "refId": "0a106a8ba65e",
+        "source": "The Generalist (Mario Gabriele)"
       },
       {
-        "text": "Generac Soars After $2.4B Deal to Provide Backup Power for Amazon",
-        "refId": "bb51e3ada7ac",
-        "source": "The Daily Upside"
+        "text": "Cerity Partners Enters Iowa with $2B Gilbert &amp; Cook",
+        "refId": "846be683fabb",
+        "source": "Wealth Management"
       }
     ]
   },
