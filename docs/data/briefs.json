@@ -1,45 +1,66 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "RIBER: INFORMATION MENSUELLE RELATIVE AU NOMBRE TOTAL D\u2019ACTIONS ET DE DROITS DE VOTE COMPOSANT LE CAPITAL SOCIAL",
-        "refId": "d235ea6d2250",
+        "text": "Applied Materials to Host Investor Breakfast Presentation During SEMICON West",
+        "refId": "0022dda2816b",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-        "refId": "860254929c91",
+        "text": "Stocks making the biggest moves premarket: Paramount, Warner Bros., Accenture, Novo & more",
+        "refId": "ac222ec75f43",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "ASML reports transactions under its current share buyback program",
+        "refId": "6263e778f181",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Concurrent Expands in Houston, Tops $23B in Assets",
+        "refId": "c6e4db58fed0",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Lines Blurring Between RPAs and Institutional Investment Consultants",
+        "refId": "2089007f8313",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "California Advisor Gets 9 Years for $9.5M Fraud",
+        "refId": "b9ded8d5b746",
+        "source": "Wealth Management"
+      }
+    ]
   },
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "New Hampshire Approves 2.9% Workers\u2019 Compensation Rate Cut for 2027",
-        "refId": "de39efc25918",
+        "text": "El Ni\u00f1o and Heat Fuel Destructive Storms Across Pacific Ocean",
+        "refId": "73ccf6ee5a0c",
         "source": "Insurance Journal"
       },
       {
-        "text": "Judge Strikes Down NY Plan to Charge Fossil-Fuel Firms $75B for Climate Damages",
-        "refId": "e5b0ed388389",
+        "text": "Tech Update: Mosaic Launches AI-Enabled Digital Underwriting System for SMEs",
+        "refId": "967524e0e53d",
         "source": "Insurance Journal"
       },
       {
-        "text": "Is Your Hiring Process a Dream or a Nightmare for Job Seekers?",
-        "refId": "5f4a414db232",
+        "text": "AI Adoption Is Driving Hiring, but Mostly for Senior Roles",
+        "refId": "b21bc8ce7f86",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "SBI Group joins $25m funding round for dtcpay",
@@ -50,29 +71,50 @@
         "text": "Ant International launches financial AI stack",
         "refId": "ce6c94cffb71",
         "source": "Finextra"
+      },
+      {
+        "text": "AI-driven cashback-to-mortgage app Sprive raises $10 million",
+        "refId": "d5af9a1c42c7",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "McDermott on preparing for exit in a selective M&A market",
+        "refId": "f7ece9ae9741",
+        "source": "Buyouts Insider"
+      },
+      {
+        "text": "Investindustrial\u2019s Nexture signs deal to acquire Dubai chocolate maker La Crema",
+        "refId": "4d24d5ec30ba",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Investindustrial-backed Nexture to expand into UAE with La Crema; European exits in focus",
+        "refId": "f81d6659bebb",
+        "source": "PE Hub"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "10 Ways to Explain Why Interest Rates Are So High",
-        "refId": "a5da68232224",
-        "source": "Dealbook (NYT)"
+        "text": "\u2018Exposure therapy\u2019 for investors \ud83d\udd77\ufe0f",
+        "refId": "dd915a342f64",
+        "source": "TKer (Sam Ro)"
       },
       {
-        "text": "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
-        "refId": "c25104db8d5a",
-        "source": "Dealbook (NYT)"
+        "text": "Credit-Fueled Growth Is Moving the Cycle Forward",
+        "refId": "ab1d011fd16c",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "The Gulf cargo trade that vanished",
-        "refId": "8a25f2da2bd8",
+        "text": "VW ejected from European blue-chip index in blow to crisis-hit carmaker",
+        "refId": "afaf9b5c0621",
         "source": "Financial Times Markets"
       }
     ]
@@ -81,11 +123,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Brookfield of Dreams",
-        "refId": "338974d56715",
-        "source": "Net Interest (Marc Rubinstein)"
-      },
-      {
         "text": "Re-Energized EV Market Grapples With Growing Drain on Profitability",
         "refId": "fe504c206f9d",
         "source": "The Daily Upside"
@@ -93,6 +130,11 @@
       {
         "text": "How Is China Changing the AI Game for Advisors?",
         "refId": "da94090b50f5",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Humanoid Robots Can Outrun Usain Bolt, But Complex Tasks Are Taking Longer",
+        "refId": "0e9c057537ee",
         "source": "The Daily Upside"
       }
     ]
@@ -105,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Internet diffusion and religious decline?",
-        "refId": "95fc95f59fcb",
+        "text": "Saturday assorted links",
+        "refId": "00b0da62849f",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The Age of Wonders and Terrors",
-        "refId": "b7a6c07c675f",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "The Physical AI Investment OS: 12 Layers, 4 Tiers, and Where the Money Actually Sits",
+        "refId": "ed848c906c15",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "Reading List 09/19/2026",
-        "refId": "63e3d2840f23",
-        "source": "Construction Physics (Brian Potter)"
+        "text": "The polity that is Singapore",
+        "refId": "ab2523c457e9",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -125,18 +167,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Internet diffusion and religious decline?",
-        "refId": "95fc95f59fcb",
+        "text": "Saturday assorted links",
+        "refId": "00b0da62849f",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "RIBER: INFORMATION MENSUELLE RELATIVE AU NOMBRE TOTAL D\u2019ACTIONS ET DE DROITS DE VOTE COMPOSANT LE CAPITAL SOCIAL",
-        "refId": "d235ea6d2250",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "The Physical AI Investment OS: 12 Layers, 4 Tiers, and Where the Money Actually Sits",
+        "refId": "ed848c906c15",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "The Age of Wonders and Terrors",
-        "refId": "b7a6c07c675f",
+        "text": "The polity that is Singapore",
+        "refId": "ab2523c457e9",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -144,38 +186,38 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7650.5,
-      "base": 7551.81,
+      "v": 7751.53,
+      "base": 7637.76,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26522.545,
-      "base": 25978.43,
+      "v": 27045.896,
+      "base": 26418.3,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51682.64,
-      "base": 51461.9,
+      "v": 51983.0,
+      "base": 51778.04,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.998,
-      "base": 4.947,
+      "v": 4.957,
+      "base": 4.998,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.81,
-      "base": 15.44,
+      "v": 15.03,
+      "base": 14.81,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 178.777,
-      "base": 178.58,
+      "v": 179.7505,
+      "base": 179.23,
       "bp": false
     }
   ]
