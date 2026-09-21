@@ -19,18 +19,39 @@
     "bullets": []
   },
   "FIG \u2014 Insurance": {
-    "lede": "1 story in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Unpacking Warehouse Legal Liability",
-        "refId": "5906006748ac",
+        "text": "New Hampshire Approves 2.9% Workers\u2019 Compensation Rate Cut for 2027",
+        "refId": "de39efc25918",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Judge Strikes Down NY Plan to Charge Fossil-Fuel Firms $75B for Climate Damages",
+        "refId": "e5b0ed388389",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Is Your Hiring Process a Dream or a Nightmare for Job Seekers?",
+        "refId": "5f4a414db232",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "2 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "SBI Group joins $25m funding round for dtcpay",
+        "refId": "0b0f31bb2052",
+        "source": "Finextra"
+      },
+      {
+        "text": "Ant International launches financial AI stack",
+        "refId": "ce6c94cffb71",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -40,24 +61,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Native American Tribe Teams Up With Kalshi on New Prediction Market",
-        "refId": "5c394b39a5e2",
+        "text": "10 Ways to Explain Why Interest Rates Are So High",
+        "refId": "a5da68232224",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-        "refId": "db341cd9a544",
+        "text": "Warren Buffett Steps Down as Berkshire Hathaway Chairman",
+        "refId": "c25104db8d5a",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "US state department under pressure to disclose Venezuelan oil takings",
-        "refId": "e6658481153d",
+        "text": "The Gulf cargo trade that vanished",
+        "refId": "8a25f2da2bd8",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "3 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Brookfield of Dreams",
@@ -84,11 +105,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Emergent Ventures India, 19th cohort",
-        "refId": "2ba0baace321",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Internet diffusion and religious decline?",
         "refId": "95fc95f59fcb",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -97,6 +113,11 @@
         "text": "The Age of Wonders and Terrors",
         "refId": "b7a6c07c675f",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Reading List 09/19/2026",
+        "refId": "63e3d2840f23",
+        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
@@ -104,19 +125,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Native American Tribe Teams Up With Kalshi on New Prediction Market",
-        "refId": "5c394b39a5e2",
-        "source": "Dealbook (NYT)"
+        "text": "Internet diffusion and religious decline?",
+        "refId": "95fc95f59fcb",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-        "refId": "db341cd9a544",
-        "source": "Dealbook (NYT)"
+        "text": "RIBER: INFORMATION MENSUELLE RELATIVE AU NOMBRE TOTAL D\u2019ACTIONS ET DE DROITS DE VOTE COMPOSANT LE CAPITAL SOCIAL",
+        "refId": "d235ea6d2250",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
-        "text": "US state department under pressure to disclose Venezuelan oil takings",
-        "refId": "e6658481153d",
-        "source": "Financial Times Markets"
+        "text": "The Age of Wonders and Terrors",
+        "refId": "b7a6c07c675f",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
