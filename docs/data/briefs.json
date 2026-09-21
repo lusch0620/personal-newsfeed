@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "El Ni\u00f1o and Heat Fuel Destructive Storms Across Pacific Ocean",
-        "refId": "73ccf6ee5a0c",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Tech Update: Mosaic Launches AI-Enabled Digital Underwriting System for SMEs",
         "refId": "967524e0e53d",
         "source": "Insurance Journal"
@@ -55,6 +50,11 @@
       {
         "text": "AI Adoption Is Driving Hiring, but Mostly for Senior Roles",
         "refId": "b21bc8ce7f86",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "New York Upgrades Systems to Better Predict Floods and Water Supplies",
+        "refId": "41487f248176",
         "source": "Insurance Journal"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Saturday assorted links",
-        "refId": "00b0da62849f",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "The Physical AI Investment OS: 12 Layers, 4 Tiers, and Where the Money Actually Sits",
-        "refId": "ed848c906c15",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "The polity that is Singapore",
         "refId": "ab2523c457e9",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "UK productivity higher than we had thought",
+        "refId": "7908708bde68",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "How we can beat China",
+        "refId": "f53d696c28eb",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,18 +167,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Saturday assorted links",
-        "refId": "00b0da62849f",
+        "text": "The polity that is Singapore",
+        "refId": "ab2523c457e9",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The Physical AI Investment OS: 12 Layers, 4 Tiers, and Where the Money Actually Sits",
-        "refId": "ed848c906c15",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "Re-Energized EV Market Grapples With Growing Drain on Profitability",
+        "refId": "fe504c206f9d",
+        "source": "The Daily Upside"
       },
       {
-        "text": "The polity that is Singapore",
-        "refId": "ab2523c457e9",
+        "text": "UK productivity higher than we had thought",
+        "refId": "7908708bde68",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -186,37 +186,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7751.53,
+      "v": 7764.7,
       "base": 7637.76,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 27045.896,
+      "v": 27122.094,
       "base": 26418.3,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51983.0,
+      "v": 52048.83,
       "base": 51778.04,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.957,
+      "v": 4.963,
       "base": 4.998,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.03,
+      "v": 14.87,
       "base": 14.81,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 179.7505,
+      "v": 180.1679,
       "base": 179.23,
       "bp": false
     }
