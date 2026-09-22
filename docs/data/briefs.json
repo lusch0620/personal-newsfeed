@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The 10 Best and 10 Worst U.S. Cities to Retire in 2026",
-        "refId": "62af491ecc81",
-        "source": "Wealth Management"
-      },
-      {
         "text": "First Horizon Wealth Management: Staying Dynamic in a Changing Market",
         "refId": "221428be2ad6",
         "source": "Wealth Management"
@@ -35,6 +30,11 @@
       {
         "text": "Bill Harris Launches AI Financial Advice App",
         "refId": "218796802c8d",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "We\u2019re All AI Investors Now, and That\u2019s Risky",
+        "refId": "73cc4a7ef16b",
         "source": "Wealth Management"
       }
     ]
@@ -63,19 +63,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Eurosystem brings central bank money to tokenised finance",
-        "refId": "1d46a01421bd",
-        "source": "Finextra"
-      },
-      {
-        "text": "FintechOS raises funds for US push",
-        "refId": "c184aa639187",
-        "source": "Finextra"
-      },
-      {
         "text": "Securitized Student Housing\u2019s Refinance Test: Maturity Risk Builds in 2029 & 2030",
         "refId": "30c93beb8bba",
         "source": "Trepp Talk"
+      },
+      {
+        "text": "Russian fintech A7 exploited bank controls to funnel billion of dollars in sanctioned payments",
+        "refId": "4e0ae37f01b7",
+        "source": "Finextra"
+      },
+      {
+        "text": "Nomo collaborates with Allfunds on a fully digital, Sharia-compliant investments proposition",
+        "refId": "9fd5d09a6cf0",
+        "source": "Finextra"
       }
     ]
   },
@@ -186,19 +186,19 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7767.21,
+      "v": 7764.64,
       "base": 7650.5,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 27246.635,
+      "v": 27244.277,
       "base": 26522.54,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51889.3,
+      "v": 51863.69,
       "base": 51682.64,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 14.22,
+      "v": 14.21,
       "base": 14.87,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 175.9797,
+      "v": 175.8712,
       "base": 178.78,
       "bp": false
     }
