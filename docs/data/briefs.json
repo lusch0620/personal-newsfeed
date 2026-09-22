@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Concurrent Expands in Houston, Tops $23B in Assets",
-        "refId": "c6e4db58fed0",
+        "text": "The 10 Best and 10 Worst U.S. Cities to Retire in 2026",
+        "refId": "62af491ecc81",
         "source": "Wealth Management"
       },
       {
-        "text": "Lines Blurring Between RPAs and Institutional Investment Consultants",
-        "refId": "2089007f8313",
+        "text": "First Horizon Wealth Management: Staying Dynamic in a Changing Market",
+        "refId": "221428be2ad6",
         "source": "Wealth Management"
       },
       {
-        "text": "California Advisor Gets 9 Years for $9.5M Fraud",
-        "refId": "b9ded8d5b746",
+        "text": "Bill Harris Launches AI Financial Advice App",
+        "refId": "218796802c8d",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Polo Strengthens Into Hurricane, Threatening Mexico\u2019s Pacific Resort Towns",
-        "refId": "78c1aaf288ee",
+        "text": "DoorDash Reaches $131.5 Million Settlement With NYC Over Delivery Workers\u2019 Pay",
+        "refId": "752a0f254447",
         "source": "Insurance Journal"
       },
       {
-        "text": "Australian State Bans Data Centers From Residential Areas",
-        "refId": "b6af7a32d0bf",
+        "text": "Markets/Coverages: MNK International North America Launches",
+        "refId": "ce9b20c38b5f",
         "source": "Insurance Journal"
       },
       {
-        "text": "British Columbia Sues OpenAI Alleging Failure to Warn Before Mass Shooting",
-        "refId": "b5250ff60b82",
+        "text": "Texas Orders Halt to New Data Center Permits Pending Audit",
+        "refId": "bf5a5c483ad6",
         "source": "Insurance Journal"
       }
     ]
@@ -62,11 +62,6 @@
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Paymob garners $35 million in pre-Series C",
-        "refId": "7d5a77fcf520",
-        "source": "Finextra"
-      },
       {
         "text": "Eurosystem brings central bank money to tokenised finance",
         "refId": "1d46a01421bd",
@@ -76,6 +71,11 @@
         "text": "FintechOS raises funds for US push",
         "refId": "c184aa639187",
         "source": "Finextra"
+      },
+      {
+        "text": "Securitized Student Housing\u2019s Refinance Test: Maturity Risk Builds in 2029 & 2030",
+        "refId": "30c93beb8bba",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -103,11 +103,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Credit-Fueled Growth Is Moving the Cycle Forward",
-        "refId": "ab1d011fd16c",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "Bessent and China Hail Progress on A.I. Talks. Now Comes the Hard Part.",
         "refId": "cded5d4aeb5f",
         "source": "Dealbook (NYT)"
@@ -116,6 +111,11 @@
         "text": "A timely stock market lesson from the 1960s \ud83d\udcd6",
         "refId": "bbbe84afce94",
         "source": "TKer (Sam Ro)"
+      },
+      {
+        "text": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
+        "refId": "db341cd9a544",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -147,18 +147,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "TypeSafe Shipped a Model That Never Writes a Word. Here\u2019s the Decision-Layer Playbook",
-        "refId": "ed87176ec006",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "Sunday assorted links",
-        "refId": "9b8eaec42d91",
+        "text": "The Tragedy of Nikole Hannah-Jones",
+        "refId": "f3c2a2420f00",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The Tragedy of Nikole Hannah-Jones",
-        "refId": "f3c2a2420f00",
+        "text": "Everyone Is Hiring for Judgment. Nobody Is Making It Anymore.",
+        "refId": "fd2287dcf042",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Monday assorted links",
+        "refId": "18794545c53c",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "TypeSafe Shipped a Model That Never Writes a Word. Here\u2019s the Decision-Layer Playbook",
-        "refId": "ed87176ec006",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "Humanoid Robots Can Outrun Usain Bolt, But Complex Tasks Are Taking Longer",
+        "refId": "0e9c057537ee",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Sunday assorted links",
-        "refId": "9b8eaec42d91",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "IBM Takes a Billion-Dollar Step Toward Becoming Quantum\u2019s Foundry King",
+        "refId": "176a491886f9",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Credit-Fueled Growth Is Moving the Cycle Forward",
-        "refId": "ab1d011fd16c",
-        "source": "Capital Flows Research"
+        "text": "AI Risks, Trade War Loom Over Trump-Xi Summit",
+        "refId": "12ef33c9d260",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7765.45,
+      "v": 7767.21,
       "base": 7650.5,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 27219.77,
+      "v": 27246.635,
       "base": 26522.54,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51805.15,
+      "v": 51889.3,
       "base": 51682.64,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.957,
+      "v": 4.968,
       "base": 4.963,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.42,
+      "v": 14.22,
       "base": 14.87,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 175.2278,
+      "v": 175.9797,
       "base": 178.78,
       "bp": false
     }
