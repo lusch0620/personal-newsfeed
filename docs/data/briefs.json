@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Signorelli rejoins AIG as CEO, Americas and Global Personal Insurance",
-        "refId": "d474a49f8d71",
-        "source": "Reinsurance News"
+        "text": "Polo Strengthens Into Hurricane, Threatening Mexico\u2019s Pacific Resort Towns",
+        "refId": "78c1aaf288ee",
+        "source": "Insurance Journal"
       },
       {
-        "text": "WTW and Zurich expand partnership with global rollout of Radar across retail lines",
-        "refId": "eaa3a874877a",
-        "source": "Reinsurance News"
+        "text": "Australian State Bans Data Centers From Residential Areas",
+        "refId": "b6af7a32d0bf",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Chubb adds Oosthuizen and Lazaro to its Digital Business organisation",
-        "refId": "06b496886a6d",
-        "source": "Reinsurance News"
+        "text": "British Columbia Sues OpenAI Alleging Failure to Warn Before Mass Shooting",
+        "refId": "b5250ff60b82",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "SBI Group joins $25m funding round for dtcpay",
-        "refId": "0b0f31bb2052",
+        "text": "Paymob garners $35 million in pre-Series C",
+        "refId": "7d5a77fcf520",
         "source": "Finextra"
       },
       {
-        "text": "Ant International launches financial AI stack",
-        "refId": "ce6c94cffb71",
+        "text": "Eurosystem brings central bank money to tokenised finance",
+        "refId": "1d46a01421bd",
         "source": "Finextra"
       },
       {
-        "text": "AI-driven cashback-to-mortgage app Sprive raises $10 million",
-        "refId": "d5af9a1c42c7",
+        "text": "FintechOS raises funds for US push",
+        "refId": "c184aa639187",
         "source": "Finextra"
       }
     ]
@@ -88,14 +88,14 @@
         "source": "Buyouts Insider"
       },
       {
-        "text": "Investindustrial\u2019s Nexture signs deal to acquire Dubai chocolate maker La Crema",
-        "refId": "4d24d5ec30ba",
-        "source": "PE Hub"
+        "text": "Side Letter: Hawaii losing aloha for PE",
+        "refId": "5f272a736af6",
+        "source": "Private Equity International"
       },
       {
-        "text": "Investindustrial-backed Nexture to expand into UAE with La Crema; European exits in focus",
-        "refId": "f81d6659bebb",
-        "source": "PE Hub"
+        "text": "How top LPs incentivise their PE investment teams",
+        "refId": "7794ae84d783",
+        "source": "Private Equity International"
       }
     ]
   },
@@ -103,30 +103,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "\u2018Exposure therapy\u2019 for investors \ud83d\udd77\ufe0f",
-        "refId": "dd915a342f64",
-        "source": "TKer (Sam Ro)"
-      },
-      {
         "text": "Credit-Fueled Growth Is Moving the Cycle Forward",
         "refId": "ab1d011fd16c",
         "source": "Capital Flows Research"
       },
       {
-        "text": "Digital euro makes debut in wholesale financial markets",
-        "refId": "98c79c53b73c",
-        "source": "Financial Times Markets"
+        "text": "Bessent and China Hail Progress on A.I. Talks. Now Comes the Hard Part.",
+        "refId": "cded5d4aeb5f",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "A timely stock market lesson from the 1960s \ud83d\udcd6",
+        "refId": "bbbe84afce94",
+        "source": "TKer (Sam Ro)"
       }
     ]
   },
   "Newsletters": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "How Is China Changing the AI Game for Advisors?",
-        "refId": "da94090b50f5",
-        "source": "The Daily Upside"
-      },
       {
         "text": "Humanoid Robots Can Outrun Usain Bolt, But Complex Tasks Are Taking Longer",
         "refId": "0e9c057537ee",
@@ -135,6 +130,11 @@
       {
         "text": "IBM Takes a Billion-Dollar Step Toward Becoming Quantum\u2019s Foundry King",
         "refId": "176a491886f9",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "AI Risks, Trade War Loom Over Trump-Xi Summit",
+        "refId": "12ef33c9d260",
         "source": "The Daily Upside"
       }
     ]
@@ -147,10 +147,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How we can beat China",
-        "refId": "f53d696c28eb",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "TypeSafe Shipped a Model That Never Writes a Word. Here\u2019s the Decision-Layer Playbook",
+        "refId": "ed87176ec006",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
+      {
+        "text": "Sunday assorted links",
+        "refId": "9b8eaec42d91",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The Tragedy of Nikole Hannah-Jones",
+        "refId": "f3c2a2420f00",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
       {
         "text": "TypeSafe Shipped a Model That Never Writes a Word. Here\u2019s the Decision-Layer Playbook",
         "refId": "ed87176ec006",
@@ -160,64 +175,49 @@
         "text": "Sunday assorted links",
         "refId": "9b8eaec42d91",
         "source": "Marginal Revolution (Tyler Cowen)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "How we can beat China",
-        "refId": "f53d696c28eb",
-        "source": "Noahpinion (Noah Smith)"
       },
       {
-        "text": "How Is China Changing the AI Game for Advisors?",
-        "refId": "da94090b50f5",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "\u2018Exposure therapy\u2019 for investors \ud83d\udd77\ufe0f",
-        "refId": "dd915a342f64",
-        "source": "TKer (Sam Ro)"
+        "text": "Credit-Fueled Growth Is Moving the Cycle Forward",
+        "refId": "ab1d011fd16c",
+        "source": "Capital Flows Research"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7764.7,
-      "base": 7637.76,
+      "v": 7765.45,
+      "base": 7650.5,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 27122.094,
-      "base": 26418.3,
+      "v": 27219.77,
+      "base": 26522.54,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52048.83,
-      "base": 51778.04,
+      "v": 51805.15,
+      "base": 51682.64,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.963,
-      "base": 4.998,
+      "v": 4.957,
+      "base": 4.963,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.87,
-      "base": 14.81,
+      "v": 14.42,
+      "base": 14.87,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 180.1679,
-      "base": 179.23,
+      "v": 175.2278,
+      "base": 178.78,
       "bp": false
     }
   ]
