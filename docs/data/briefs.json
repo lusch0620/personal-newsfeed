@@ -33,8 +33,8 @@
         "source": "RIABiz"
       },
       {
-        "text": "401(k) Real Talk Episode 209: September 23, 2026",
-        "refId": "e11f84100cd4",
+        "text": "Protecting Gifts to Institutions at Risk of Failing",
+        "refId": "1cb3feea082e",
         "source": "Wealth Management"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Europe Seen Spending More Than $500 Billion to Adapt to Climate Change",
-        "refId": "3d45090fc164",
-        "source": "Insurance Journal"
+        "text": "Howden appoints John Zern to senior Health and Benefits role in the US",
+        "refId": "f35b23186151",
+        "source": "Reinsurance News"
       },
       {
-        "text": "St. John\u2019s to Honor Hartford CEO Swift as Insurance Leader of Year",
-        "refId": "0418c4693965",
-        "source": "Insurance Journal"
+        "text": "Significant rate decreases have been approved for Florida homeowners insurance: OIR",
+        "refId": "6482833c67ea",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Hurricane to Threaten Hawaii With Flooding Over Weekend",
-        "refId": "f4dc9d56e56a",
-        "source": "Insurance Journal"
+        "text": "TFP appoints Peter Williams and Gary McInally to Pink Walk\u2019s leadership team",
+        "refId": "2584142a5400",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Agent workflow platform Promenaut goes live at HSBC",
-        "refId": "be23d91b223d",
+        "text": "Student Housing\u2019s Hidden Credit Risk: Low Defaults Mask $1.25 Billion in Sub-1.0x DSCR Loans",
+        "refId": "410fef637807",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Mirai RiskTech raises \u20ac5m for global growth",
+        "refId": "7fe711d540ba",
         "source": "Finextra"
       },
       {
-        "text": "Monzo EU chief quits to launch his own startup",
-        "refId": "e014f6fcad95",
-        "source": "Finextra"
-      },
-      {
-        "text": "Global banks take on agentic commerce scam and fraud concerns",
-        "refId": "c41fd8533cd6",
+        "text": "Airtel Money to launch London IPO",
+        "refId": "bd75146fea28",
         "source": "Finextra"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Off-duty: Abry\u2019s CJ Brucato on football, \u2018Stairway to Heaven\u2019 and Sunday Italian gravy",
-        "refId": "c4ad1da224b1",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "The Exit Playbook: Starting with the exit journey in mind",
         "refId": "aab3ca0eb257",
         "source": "Private Equity International"
@@ -95,6 +90,11 @@
       {
         "text": "Side Letter: Schwarzman\u2019s US-AI play",
         "refId": "39670950de38",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Why growth and buyout strategies are becoming harder to distinguish",
+        "refId": "063e26d6eaf8",
         "source": "Private Equity International"
       }
     ]
@@ -123,11 +123,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The New Playbook for Income and Downside Protection",
-        "refId": "7e7e0342bc09",
-        "source": "The Daily Upside"
-      },
-      {
         "text": "Nissan Revs Up Gas/Electric with New Type of Hybrid",
         "refId": "d7c25d51c0a3",
         "source": "The Daily Upside"
@@ -135,6 +130,11 @@
       {
         "text": "Superman, Harry Potter and a Pile of Debt: What Paramount Won in WBD Settlement",
         "refId": "4729beebf511",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Meta\u2019s Muse Inspires Double-Digit Rally for CPU Stocks",
+        "refId": "d527b9dd7cd4",
         "source": "The Daily Upside"
       }
     ]
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The New Playbook for Income and Downside Protection",
-        "refId": "7e7e0342bc09",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Off-duty: Abry\u2019s CJ Brucato on football, \u2018Stairway to Heaven\u2019 and Sunday Italian gravy",
-        "refId": "c4ad1da224b1",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
         "refId": "edaec6575338",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Nissan Revs Up Gas/Electric with New Type of Hybrid",
+        "refId": "d7c25d51c0a3",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Superman, Harry Potter and a Pile of Debt: What Paramount Won in WBD Settlement",
+        "refId": "4729beebf511",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7698.34,
+      "v": 7706.03,
       "base": 7764.7,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26896.742,
+      "v": 26936.037,
       "base": 27122.09,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51509.18,
+      "v": 51511.59,
       "base": 52048.83,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 15.13,
+      "v": 15.18,
       "base": 14.21,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 173.9979,
+      "v": 173.7745,
       "base": 180.17,
       "bp": false
     }
