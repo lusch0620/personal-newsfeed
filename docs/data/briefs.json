@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-        "refId": "3dbcf14bd959",
-        "source": "Federal Reserve Press Releases"
-      },
-      {
         "text": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
         "refId": "d703375ed7e1",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "Tower Semiconductor to Showcase Technology Innovation and Industry Leadership at its 2026 Technical Global Symposium in the United States",
         "refId": "86348fe97cfd",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: IonQ, Maplebear, Worthington & more",
+        "refId": "9c03f24a8bb7",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Five Misconceptions About Donor-Advised Funds",
-        "refId": "d921a8cd46f5",
+        "text": "Commuting the Income Interest of Charitable Trusts",
+        "refId": "ba2182f224ae",
         "source": "Wealth Management"
       },
       {
-        "text": "Commuting the Income Interest of Charitable Trusts",
-        "refId": "ba2182f224ae",
+        "text": "Creating a Lifetime Stretch Through a Charitable Remainder Unitrust",
+        "refId": "e6902b68f953",
         "source": "Wealth Management"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Gallagher Re appoints Will MacLeod as Executive Director, Facultative",
-        "refId": "3c83648cfecc",
-        "source": "Reinsurance News"
+        "text": "Northeast Expecting Torrential Rains, Flood Risk as Coastal Storm Builds",
+        "refId": "66b89c4de2df",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Continental Re to strengthen underwriting capacity with $30m in fresh primary capital",
-        "refId": "5cf08ecca0b1",
-        "source": "Reinsurance News"
+        "text": "New Zealand Says China Is its Most Persistent State-Backed Cyber Threat",
+        "refId": "bfca01ef6fc4",
+        "source": "Insurance Journal"
       },
       {
-        "text": "CLARA Analytics launches \u2018first\u2019 agentic claims intelligence platform",
-        "refId": "b32bf86e8d0d",
-        "source": "Reinsurance News"
+        "text": "This Week\u2019s Northeast Disruption Puts Spotlight on Aging Air Traffic System",
+        "refId": "63f6807eb2e2",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Argentex founder Harry Adams raises \u00a37.5 million for new startup Tenora",
-        "refId": "832ce3beba6b",
-        "source": "Finextra"
-      },
-      {
         "text": "12 Sponsors Back Half of Securitized Self-Storage Debt, While Refinancing Risk Is Even More Concentrated",
         "refId": "141ca275ca10",
         "source": "Trepp Talk"
       },
       {
-        "text": "Citi launches media platform for advertisers",
-        "refId": "f520050a7c3e",
+        "text": "Trustly slashes 200 jobs",
+        "refId": "4bd415b06bce",
+        "source": "Finextra"
+      },
+      {
+        "text": "Former Visa crypto lead launches open payments network",
+        "refId": "8706599f2a45",
         "source": "Finextra"
       }
     ]
@@ -82,11 +82,6 @@
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Advent International targets $3bn for debut mid-market fund",
-        "refId": "7276c54cd887",
-        "source": "Buyouts Insider"
-      },
       {
         "text": "Side Letter: EQT\u2019s Gulf stream",
         "refId": "2d9a269fce92",
@@ -96,17 +91,17 @@
         "text": "Blackstone targets $8.5bn for latest energy transition fund",
         "refId": "cd0319d48924",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Investor Intentions: NHRS issues RFP for investment consultant",
+        "refId": "9872c3055796",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The KOSPI Is Where Policy Meets The AI Trade",
-        "refId": "61a79f00256b",
-        "source": "Capital Flows Research"
-      },
       {
         "text": "Trump\u2019s Diesel Dilemma",
         "refId": "dfcbbab83578",
@@ -116,6 +111,11 @@
         "text": "10 Ways to Explain Why Interest Rates Are So High",
         "refId": "a5da68232224",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "French far left sparks backlash with debt \u2018fire\u2019 plan",
+        "refId": "58aa71a1e993",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-        "refId": "3dbcf14bd959",
-        "source": "Federal Reserve Press Releases"
+        "text": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
+        "refId": "d703375ed7e1",
+        "source": "CNBC Finance"
       },
       {
-        "text": "The KOSPI Is Where Policy Meets The AI Trade",
-        "refId": "61a79f00256b",
-        "source": "Capital Flows Research"
+        "text": "Can Alibaba Become a Serious Hyperscaler?",
+        "refId": "025bfdc7c942",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Advent International targets $3bn for debut mid-market fund",
-        "refId": "7276c54cd887",
-        "source": "Buyouts Insider"
+        "text": "Viking Therapeutics Soars as Weight-Loss Drug Trial Addresses GLP-1 Weakness",
+        "refId": "61267d705191",
+        "source": "The Daily Upside"
       }
     ]
   },
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 15.58,
+      "v": 15.67,
       "base": 15.18,
       "bp": false
     },
