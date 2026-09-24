@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
-        "refId": "edaec6575338",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Boston\u2019s Beacon names next CEO a year after merger",
         "refId": "d4807aa7c90a",
         "source": "Banking Dive"
@@ -16,6 +11,11 @@
         "text": "Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more",
         "refId": "9487d2ff1d9b",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Ally bets on loyalty perks to boost consumer bank strategy",
+        "refId": "5906a5febcc9",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -33,8 +33,8 @@
         "source": "RIABiz"
       },
       {
-        "text": "Protecting Gifts to Institutions at Risk of Failing",
-        "refId": "1cb3feea082e",
+        "text": "How to Value Fossils and Other Non-Traditional Collectibles",
+        "refId": "2565c160408c",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Howden appoints John Zern to senior Health and Benefits role in the US",
-        "refId": "f35b23186151",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Significant rate decreases have been approved for Florida homeowners insurance: OIR",
-        "refId": "6482833c67ea",
-        "source": "Reinsurance News"
-      },
-      {
         "text": "TFP appoints Peter Williams and Gary McInally to Pink Walk\u2019s leadership team",
         "refId": "2584142a5400",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Hybrid fronting can bring new or underpenetrated risks into the insurance market: Marry, Bridgehaven",
+        "refId": "d413efa1ed9c",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Bohnert named EMEA MD of Life Solutions, Strategy and Technology Group",
+        "refId": "c05c88b4df0b",
         "source": "Reinsurance News"
       }
     ]
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Nissan Revs Up Gas/Electric with New Type of Hybrid",
-        "refId": "d7c25d51c0a3",
+        "text": "The Next Chapter of Active Investing",
+        "refId": "22c9c4b5b8fd",
         "source": "The Daily Upside"
       },
       {
-        "text": "Superman, Harry Potter and a Pile of Debt: What Paramount Won in WBD Settlement",
-        "refId": "4729beebf511",
+        "text": "Finding Opportunity in a Shifting Investment Landscape",
+        "refId": "4d6b9c73cdb7",
         "source": "The Daily Upside"
       },
       {
-        "text": "Meta\u2019s Muse Inspires Double-Digit Rally for CPU Stocks",
-        "refId": "d527b9dd7cd4",
+        "text": "Can Alibaba Become a Serious Hyperscaler?",
+        "refId": "025bfdc7c942",
         "source": "The Daily Upside"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Banning self-recursive improvement in AI models?",
-        "refId": "2abc75e23825",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "The problem(s) with utilitarianism",
         "refId": "ecf41684db25",
         "source": "Noahpinion (Noah Smith)"
@@ -160,6 +155,11 @@
         "text": "Amazon Blocks Muse, Amazon\u2019s Moat, Aggregator v Aggregator",
         "refId": "48cf5f03e17a",
         "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "Muse Just Beat ChatGPT's Launch 3-to-1. Here's the Operating Manual Nobody Wrote",
+        "refId": "288f0facac6c",
+        "source": "The AI Corner (Ruben Dominguez)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
-        "refId": "edaec6575338",
-        "source": "CNBC Finance"
+        "text": "The Exit Playbook: Starting with the exit journey in mind",
+        "refId": "aab3ca0eb257",
+        "source": "Private Equity International"
       },
       {
-        "text": "Nissan Revs Up Gas/Electric with New Type of Hybrid",
-        "refId": "d7c25d51c0a3",
-        "source": "The Daily Upside"
+        "text": "Paramount Settles States\u2019 Lawsuit, Clearing Way for Warner Bros. Merger",
+        "refId": "1c8c84683f3a",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Superman, Harry Potter and a Pile of Debt: What Paramount Won in WBD Settlement",
-        "refId": "4729beebf511",
-        "source": "The Daily Upside"
+        "text": "The problem(s) with utilitarianism",
+        "refId": "ecf41684db25",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
