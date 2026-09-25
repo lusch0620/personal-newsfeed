@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bank of America plans to double AI budget next year",
-        "refId": "7401956c194c",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Dive Deposits: The NCUA is not the Fed, DOJ says",
-        "refId": "57f291aede57",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Stocks making the biggest moves midday: McDonald's, Cracker Barrel, Alibaba, Worthington & more",
-        "refId": "1da60b0c9efc",
+        "text": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
+        "refId": "25858ac60f4b",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+        "refId": "0e8c5fd01c7e",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "RIBER AFFICHE UNE PROGRESSION DE SES R\u00c9SULTATS AU PREMIER SEMESTRE 2026",
+        "refId": "433c5537293c",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Ask Your Wealth Management Concierge",
-        "refId": "9e6c2d95aab9",
+        "text": "AI-Driven Financial Planning is a Minefield",
+        "refId": "b152716ed168",
         "source": "Wealth Management"
       },
       {
-        "text": "AI-Driven Financial Planning is a Minefield",
-        "refId": "b152716ed168",
+        "text": "Private Markets Boost TDF Returns, CFA Institute Study Finds",
+        "refId": "e2c79f28bae0",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Cybersecurity Stocks Are So Hot Investors Question Staying Power",
-        "refId": "847fa1e1d1c6",
+        "text": "Insurance Australia Group Settles $2B Credit Suisse Lawsuit Over Greensill Collapse",
+        "refId": "1ee4465856c6",
         "source": "Insurance Journal"
       },
       {
-        "text": "Singapore\u2019s Finance Firms to Train 80,000 Staff in AI Skills",
-        "refId": "aa5d8115aaed",
+        "text": "Crypto Exchange Bitget Says Hackers Stole $352 Million",
+        "refId": "73fa20cf7a9a",
         "source": "Insurance Journal"
       },
       {
-        "text": "Here Are Some AI Doomsday Scenarios Researchers Say Could Put Humanity at Risk",
-        "refId": "fbbb19724691",
+        "text": "First US Trial Against TikTok to Test Claims Platform Fueled Teen Mental Health Crisis",
+        "refId": "dd36b093d984",
         "source": "Insurance Journal"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "12 Sponsors Back Half of Securitized Self-Storage Debt, While Refinancing Risk Is Even More Concentrated",
-        "refId": "141ca275ca10",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Solaris goes live on ACI Worldwide platform for Sepa instant payments",
         "refId": "b80925b7690b",
         "source": "Finextra"
       },
       {
-        "text": "The Clearing House taps Quant for tokenised deposit network",
-        "refId": "069582f08848",
+        "text": "Community banks and credit unions back Crux Analytics to the tune of $2.2 million",
+        "refId": "86217c21c6a7",
+        "source": "Finextra"
+      },
+      {
+        "text": "IBM integrates digital asset platform with Swift shared ledger",
+        "refId": "5a42d2230f77",
         "source": "Finextra"
       }
     ]
@@ -82,11 +82,6 @@
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "New Hunter Point Capital COO and president maps out strategy",
-        "refId": "875a0ecb54a2",
-        "source": "Buyouts Insider"
-      },
       {
         "text": "Side Letter: Climate catch-22",
         "refId": "a6ffcfbf3c22",
@@ -96,17 +91,17 @@
         "text": "LPs rethink the key person clause",
         "refId": "de593f363865",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Carlyle leans into carve-outs as dealmaking gets more competitive",
+        "refId": "2e7e093450d9",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "10 Ways to Explain Why Interest Rates Are So High",
-        "refId": "a5da68232224",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "Investors Are Betting On Devices That Connect the Brain to Computers",
         "refId": "1e5fc4d546e0",
@@ -116,6 +111,11 @@
         "text": "A.I. Safety Concerns Go Global",
         "refId": "b7841066027a",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Interest Rate Strategy: How High Can They Really Go?",
+        "refId": "913b1806bc1c",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Wednesday assorted links",
-        "refId": "fbcdcc7abf55",
+        "text": "From the Master of Industrial Organization",
+        "refId": "3ee9cd58a4d9",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "How to Get 1,000 AI Agents Working While You\u2019re Offline",
-        "refId": "f7d2a3eefeb3",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "My economics-rich Conversation with Gita Gopinath",
+        "refId": "869171c92543",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "YouTube CEO Neal Mohan: Why We\u2019re Betting On AI And Not Afraid Of It",
-        "refId": "f6542ab20c8d",
-        "source": "Big Technology (Alex Kantrowitz)"
+        "text": "No, you are not on Indigenous land",
+        "refId": "346bcb50e8a4",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Wednesday assorted links",
-        "refId": "fbcdcc7abf55",
+        "text": "From the Master of Industrial Organization",
+        "refId": "3ee9cd58a4d9",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Bank of America plans to double AI budget next year",
-        "refId": "7401956c194c",
-        "source": "Banking Dive"
+        "text": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
+        "refId": "25858ac60f4b",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Dive Deposits: The NCUA is not the Fed, DOJ says",
-        "refId": "57f291aede57",
-        "source": "Banking Dive"
+        "text": "Wall Street Isn\u2019t Biting on McDonald\u2019s NEXT Menu",
+        "refId": "b77212aa13e5",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7713.82,
+      "v": 7743.41,
       "base": 7706.03,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26970.756,
+      "v": 27068.717,
       "base": 26936.04,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51525.39,
+      "v": 51828.62,
       "base": 51511.59,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.219,
+      "v": 5.184,
       "base": 5.162,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.39,
+      "v": 14.84,
       "base": 15.67,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 174.2265,
+      "v": 175.5667,
       "base": 173.77,
       "bp": false
     }
