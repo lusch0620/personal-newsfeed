@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
-        "refId": "d703375ed7e1",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Tower Semiconductor to Showcase Technology Innovation and Industry Leadership at its 2026 Technical Global Symposium in the United States",
         "refId": "86348fe97cfd",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -16,17 +11,17 @@
         "text": "Stocks making the biggest moves premarket: IonQ, Maplebear, Worthington & more",
         "refId": "9c03f24a8bb7",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Adyen snaps up Klarna CFO",
+        "refId": "df99a40516a7",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Schwab's poach of $8-billion Ameriprise breakaway extends its wild 2026 rout of the once impenetrable fortress to four $1-billion-plus teams with help from high-multiple market",
-        "refId": "d3d7e1a6f063",
-        "source": "RIABiz"
-      },
       {
         "text": "Commuting the Income Interest of Charitable Trusts",
         "refId": "ba2182f224ae",
@@ -36,6 +31,11 @@
         "text": "Creating a Lifetime Stretch Through a Charitable Remainder Unitrust",
         "refId": "e6902b68f953",
         "source": "Wealth Management"
+      },
+      {
+        "text": "The Opportunity Hiding in Plain Sight",
+        "refId": "b7f71c5a8b5d",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Northeast Expecting Torrential Rains, Flood Risk as Coastal Storm Builds",
-        "refId": "66b89c4de2df",
-        "source": "Insurance Journal"
+        "text": "CLARA Analytics launches \u2018first\u2019 agentic claims intelligence platform",
+        "refId": "b32bf86e8d0d",
+        "source": "Reinsurance News"
       },
       {
-        "text": "New Zealand Says China Is its Most Persistent State-Backed Cyber Threat",
-        "refId": "bfca01ef6fc4",
-        "source": "Insurance Journal"
+        "text": "Re/insurers unable to close nat cat protection gap alone, says Moody\u2019s",
+        "refId": "cab20759a116",
+        "source": "Reinsurance News"
       },
       {
-        "text": "This Week\u2019s Northeast Disruption Puts Spotlight on Aging Air Traffic System",
-        "refId": "63f6807eb2e2",
-        "source": "Insurance Journal"
+        "text": "Fathom Re appoints JJ Johnson as Managing Partner",
+        "refId": "e7b566095d5e",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -113,8 +113,8 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "French far left sparks backlash with debt \u2018fire\u2019 plan",
-        "refId": "58aa71a1e993",
+        "text": "Emerging markets sell foreign currency bonds at record rate",
+        "refId": "1f40ea697e83",
         "source": "Financial Times Markets"
       }
     ]
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Can Alibaba Become a Serious Hyperscaler?",
-        "refId": "025bfdc7c942",
+        "text": "Wall Street Isn\u2019t Biting on McDonald\u2019s NEXT Menu",
+        "refId": "b77212aa13e5",
         "source": "The Daily Upside"
       },
       {
-        "text": "Viking Therapeutics Soars as Weight-Loss Drug Trial Addresses GLP-1 Weakness",
-        "refId": "61267d705191",
+        "text": "Meta Keeps Muse Momentum as Rivals Push New AI Models",
+        "refId": "efa4ff4bed44",
         "source": "The Daily Upside"
       },
       {
-        "text": "Goldman Leads Bidding for $37 Billion Palmer Square, a CLO Powerhouse",
-        "refId": "3b8041d2c645",
+        "text": "Let\u2019s Wrap: ProShares CEO Michael Sapir Talks Expanding Beyond ETFs",
+        "refId": "ddb0462919f8",
         "source": "The Daily Upside"
       }
     ]
@@ -147,9 +147,29 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What I\u2019ve been reading",
-        "refId": "2fdbf7c2f7ea",
+        "text": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
+        "refId": "26845a0cc3a8",
+        "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "The Price of Intelligence is Falling Rapidly",
+        "refId": "05123db3c751",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Wednesday assorted links",
+        "refId": "fbcdcc7abf55",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Tower Semiconductor to Showcase Technology Innovation and Industry Leadership at its 2026 Technical Global Symposium in the United States",
+        "refId": "86348fe97cfd",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       },
       {
         "text": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
@@ -160,26 +180,6 @@
         "text": "The Price of Intelligence is Falling Rapidly",
         "refId": "05123db3c751",
         "source": "Marginal Revolution (Tyler Cowen)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation",
-        "refId": "d703375ed7e1",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Can Alibaba Become a Serious Hyperscaler?",
-        "refId": "025bfdc7c942",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Viking Therapeutics Soars as Weight-Loss Drug Trial Addresses GLP-1 Weakness",
-        "refId": "61267d705191",
-        "source": "The Daily Upside"
       }
     ]
   },
