@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "AI-Driven Financial Planning is a Minefield",
-        "refId": "b152716ed168",
+        "text": "Private Markets Boost TDF Returns, CFA Institute Study Finds",
+        "refId": "e2c79f28bae0",
         "source": "Wealth Management"
       },
       {
-        "text": "Private Markets Boost TDF Returns, CFA Institute Study Finds",
-        "refId": "e2c79f28bae0",
+        "text": "RIA M&amp;A Activity Plummets 19% in Q3",
+        "refId": "fb0aee90b8ba",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Solaris goes live on ACI Worldwide platform for Sepa instant payments",
-        "refId": "b80925b7690b",
-        "source": "Finextra"
-      },
-      {
         "text": "Community banks and credit unions back Crux Analytics to the tune of $2.2 million",
         "refId": "86217c21c6a7",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "IBM integrates digital asset platform with Swift shared ledger",
         "refId": "5a42d2230f77",
+        "source": "Finextra"
+      },
+      {
+        "text": "Narmi open AI marketplace for community banks",
+        "refId": "daa5e3b3ce6e",
         "source": "Finextra"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "From the Master of Industrial Organization",
-        "refId": "3ee9cd58a4d9",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "My economics-rich Conversation with Gita Gopinath",
         "refId": "869171c92543",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,17 +155,17 @@
         "text": "No, you are not on Indigenous land",
         "refId": "346bcb50e8a4",
         "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+        "refId": "69a3214b8267",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "From the Master of Industrial Organization",
-        "refId": "3ee9cd58a4d9",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
       {
         "text": "Trump-Xi meeting: Why China's self-sufficiency changes the calculus",
         "refId": "25858ac60f4b",
@@ -179,6 +174,11 @@
       {
         "text": "Wall Street Isn\u2019t Biting on McDonald\u2019s NEXT Menu",
         "refId": "b77212aa13e5",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Meta Keeps Muse Momentum as Rivals Push New AI Models",
+        "refId": "efa4ff4bed44",
         "source": "The Daily Upside"
       }
     ]
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 14.84,
+      "v": 14.87,
       "base": 15.67,
       "bp": false
     },
