@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Raymond James Attracts Two Teams Totaling $1.75B",
-        "refId": "ca6321dd23ba",
-        "source": "Wealth Management"
-      },
-      {
         "text": "The Real Disruption Behind PEPs",
         "refId": "04581cdf063c",
         "source": "Wealth Management"
@@ -35,6 +30,11 @@
       {
         "text": "Why Quality Investing May Be Entering a Rare Opportunity",
         "refId": "600621f386ae",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "WealthStack Roundup: Northwestern Mutual Adopts Jump's AI Suite",
+        "refId": "18caaa00aff1",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Revolut customers impacted by new data breach",
-        "refId": "cadc313bf7be",
-        "source": "Finextra"
-      },
-      {
         "text": "Swift and Wells Fargo join Linux Foundation Decentralized Trust",
         "refId": "30886f1479a5",
         "source": "Finextra"
@@ -76,6 +71,11 @@
         "text": "FedNow to enable cross-border payments",
         "refId": "a7fc4ff51254",
         "source": "Finextra"
+      },
+      {
+        "text": "BNP Paribas forges agentic AI partnership with Google Cloud",
+        "refId": "6ee1b0608215",
+        "source": "Finextra"
       }
     ]
   },
@@ -83,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "HighPost launches new vertical for aerospace, defense and cybersecurity",
-        "refId": "381513ebc2f1",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "The thorny issue of LP incentivisation",
-        "refId": "9ef3acd050ad",
-        "source": "Private Equity International"
-      },
-      {
         "text": "Bridgepoint backs equine clinic group; Vet coverage round-up; Haelan Capital feature in They Said It",
         "refId": "b0738ec3dc50",
+        "source": "PE Hub"
+      },
+      {
+        "text": "PE backs occupational healthcare: 6 deals",
+        "refId": "1d2a80575090",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Inflexion agrees to invest in French nail care brand Manucurist",
+        "refId": "cbf279cfdffe",
         "source": "PE Hub"
       }
     ]
@@ -102,11 +102,6 @@
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Fed Finally Gets It",
-        "refId": "c505763809f8",
-        "source": "The Overshoot (Matthew Klein)"
-      },
       {
         "text": "Trump raised weak yen in talks with Takaichi, Japan finance minister says",
         "refId": "36be489c0c0c",
@@ -116,17 +111,17 @@
         "text": "Bonds can keep falling",
         "refId": "3462ed43472f",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "ArcelorMittal to shutter Ukraine plant after Russian strikes kill workers",
+        "refId": "846fc7d767cb",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Big Oil Says Diesel Export Ban May Drive Fuel Prices Even Higher",
-        "refId": "12db48c88731",
-        "source": "The Daily Upside"
-      },
       {
         "text": "Cybersecurity Stocks Soar Amid Mounting Concern Over AI Hacks",
         "refId": "22d3f5dae72a",
@@ -135,6 +130,11 @@
       {
         "text": "Google Takes Data Centers to the Stars to Solve Earthbound Problems",
         "refId": "528b6463b01d",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Treasury Yields Touch 20-Year Highs, Fueled by Sticky Inflation, US Debt",
+        "refId": "c4300d38c44f",
         "source": "The Daily Upside"
       }
     ]
@@ -167,18 +167,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "HighPost launches new vertical for aerospace, defense and cybersecurity",
-        "refId": "381513ebc2f1",
-        "source": "Buyouts Insider"
+        "text": "Peter Thiel on AI and tech stagnation and democracy",
+        "refId": "12426ce435fd",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "The thorny issue of LP incentivisation",
-        "refId": "9ef3acd050ad",
-        "source": "Private Equity International"
+        "text": "Swift and Wells Fargo join Linux Foundation Decentralized Trust",
+        "refId": "30886f1479a5",
+        "source": "Finextra"
       },
       {
-        "text": "Revolut customers impacted by new data breach",
-        "refId": "cadc313bf7be",
+        "text": "FedNow to enable cross-border payments",
+        "refId": "a7fc4ff51254",
         "source": "Finextra"
       }
     ]
