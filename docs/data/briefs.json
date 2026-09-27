@@ -3,139 +3,92 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China's Xi urges U.S. to cooperate on AI",
-        "refId": "8ba6c48fd8be",
+        "text": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
+        "refId": "4a9d1d67c727",
         "source": "CNBC Finance"
       },
       {
-        "text": "Crypto platform Bitget suspects North Korea is responsible for $352 million hack",
-        "refId": "56ab1eb71e5d",
-        "source": "CNBC Finance"
+        "text": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+        "refId": "27c32974cfae",
+        "source": "Federal Reserve Press Releases"
       },
       {
-        "text": "Stocks making the biggest moves premarket: Akamai, Synopsys, Nike & more",
-        "refId": "4a23ca505c0a",
-        "source": "CNBC Finance"
+        "text": "Skyworks Announces Extension of Expiration Date of Exchange Offers for Qorvo\u2019s Senior Notes due 2029 and 2031",
+        "refId": "8eb8c0b8d728",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Real Disruption Behind PEPs",
-        "refId": "04581cdf063c",
+        "text": "Q&amp;A: Charlesbank's David Katz on Building RIA Institutions",
+        "refId": "8bcc2f6c2507",
         "source": "Wealth Management"
       },
       {
-        "text": "Why Quality Investing May Be Entering a Rare Opportunity",
-        "refId": "600621f386ae",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "WealthStack Roundup: Northwestern Mutual Adopts Jump's AI Suite",
-        "refId": "18caaa00aff1",
-        "source": "Wealth Management"
+        "text": "Hightower Advisor CEO names two new presidents -- one to revamp the old rollup business, the other to develop the new single-system unit -- both with the objective of kindling buyer interest without a conglomerate discount",
+        "refId": "60663c3ee60e",
+        "source": "RIABiz"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Aon establishes Global Onshore Renewables Facility",
-        "refId": "fa0b9cdffce9",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Insurance Australia Group Settles $2B Credit Suisse Lawsuit Over Greensill Collapse",
-        "refId": "1ee4465856c6",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "AI and supply chain dependencies drive systemic stress surge as risks become more interconnected: Swiss Re Institute & LSE",
-        "refId": "57b49588f31a",
-        "source": "Reinsurance News"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Swift and Wells Fargo join Linux Foundation Decentralized Trust",
-        "refId": "30886f1479a5",
-        "source": "Finextra"
-      },
-      {
-        "text": "FedNow to enable cross-border payments",
-        "refId": "a7fc4ff51254",
-        "source": "Finextra"
-      },
-      {
-        "text": "BNP Paribas forges agentic AI partnership with Google Cloud",
-        "refId": "6ee1b0608215",
+        "text": "Bitget hit by $387.5 million hack",
+        "refId": "0597ba52a013",
         "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Bridgepoint backs equine clinic group; Vet coverage round-up; Haelan Capital feature in They Said It",
-        "refId": "b0738ec3dc50",
-        "source": "PE Hub"
-      },
-      {
-        "text": "PE backs occupational healthcare: 6 deals",
-        "refId": "1d2a80575090",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Inflexion agrees to invest in French nail care brand Manucurist",
-        "refId": "cbf279cfdffe",
-        "source": "PE Hub"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Trump raised weak yen in talks with Takaichi, Japan finance minister says",
-        "refId": "36be489c0c0c",
+        "text": "Trump\u2019s Diesel Dilemma",
+        "refId": "dfcbbab83578",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Soaring bond yields \u2018not even close\u2019 to cooling red-hot US economy, investors say",
+        "refId": "89d0a36477e6",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Bonds can keep falling",
-        "refId": "3462ed43472f",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "ArcelorMittal to shutter Ukraine plant after Russian strikes kill workers",
-        "refId": "846fc7d767cb",
+        "text": "Blackstone\u2019s top private equity executive prepares exit for possible public service move",
+        "refId": "e232bdf0be27",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "5 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
       {
-        "text": "Cybersecurity Stocks Soar Amid Mounting Concern Over AI Hacks",
-        "refId": "22d3f5dae72a",
+        "text": "The Gig\u2019s Up: Robotaxis, Delivery Drones Reshape the Side-Hustle Market",
+        "refId": "f509f5b6c673",
         "source": "The Daily Upside"
       },
       {
-        "text": "Google Takes Data Centers to the Stars to Solve Earthbound Problems",
-        "refId": "528b6463b01d",
+        "text": "The Outsiders: Why So Many Financial Planners Are in Their Second Careers",
+        "refId": "d8acced9f755",
         "source": "The Daily Upside"
       },
       {
-        "text": "Treasury Yields Touch 20-Year Highs, Fueled by Sticky Inflation, US Debt",
-        "refId": "c4300d38c44f",
-        "source": "The Daily Upside"
+        "text": "The Agents Revolt",
+        "refId": "2015626b7f1b",
+        "source": "Net Interest (Marc Rubinstein)"
       }
     ]
   },
@@ -147,19 +100,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Peter Thiel on AI and tech stagnation and democracy",
-        "refId": "12426ce435fd",
+        "text": "Good points from James Gilliland",
+        "refId": "d072219606d3",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Four eras of San Francisco tech culture",
-        "refId": "ad4b34e94a9d",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "A doomsday scenario for American AI",
+        "refId": "316661023657",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Your AI Agents Are Aging",
-        "refId": "bc6947ccb89b",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "Should you text more?",
+        "refId": "3665248bc81e",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +120,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Peter Thiel on AI and tech stagnation and democracy",
-        "refId": "12426ce435fd",
+        "text": "Trump\u2019s Diesel Dilemma",
+        "refId": "dfcbbab83578",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Good points from James Gilliland",
+        "refId": "d072219606d3",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Swift and Wells Fargo join Linux Foundation Decentralized Trust",
-        "refId": "30886f1479a5",
-        "source": "Finextra"
-      },
-      {
-        "text": "FedNow to enable cross-border payments",
-        "refId": "a7fc4ff51254",
-        "source": "Finextra"
+        "text": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
+        "refId": "4a9d1d67c727",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -216,7 +169,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 175.5667,
+      "v": 175.567,
       "base": 173.77,
       "bp": false
     }

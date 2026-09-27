@@ -1,6 +1,6 @@
 # Research Notes
 *Personal annotations from the newsfeed. Injected into scoring context each pipeline run.*
-*Last updated: 2026-09-26 23:23 UTC*
+*Last updated: 2026-09-27 17:33 UTC*
 
 ---
 
@@ -15,7 +15,3 @@
 ### 2026-06-29 — Autocallable ETFs Rack Up $2.5B in Assets in First Year
 **Source:** The Daily Upside
 > i'd be curious to know if there are other players like this in the space and any derivative business ideas like this
-
-### 2026-06-29 — Atom Bank sale nears collapse - FT
-**Source:** Finextra
-> This is good context for the amina bank transaction
