@@ -1,32 +1,27 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
-        "refId": "4a9d1d67c727",
+        "text": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
+        "refId": "262fbd7df03d",
         "source": "CNBC Finance"
       },
       {
-        "text": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
-        "refId": "27c32974cfae",
-        "source": "Federal Reserve Press Releases"
+        "text": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+        "refId": "34ada08d0d9a",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Skyworks Announces Extension of Expiration Date of Exchange Offers for Qorvo\u2019s Senior Notes due 2029 and 2031",
-        "refId": "8eb8c0b8d728",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure",
+        "refId": "1dcf438037cd",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
-      {
-        "text": "Q&amp;A: Charlesbank's David Katz on Building RIA Institutions",
-        "refId": "8bcc2f6c2507",
-        "source": "Wealth Management"
-      },
       {
         "text": "Hightower Advisor CEO names two new presidents -- one to revamp the old rollup business, the other to develop the new single-system unit -- both with the objective of kindling buyer interest without a conglomerate discount",
         "refId": "60663c3ee60e",
@@ -39,11 +34,16 @@
     "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bitget hit by $387.5 million hack",
-        "refId": "0597ba52a013",
+        "text": "Revolut gets green light to buy Argentinian bank",
+        "refId": "91dc10f54c41",
+        "source": "Finextra"
+      },
+      {
+        "text": "Singapore to train 80,000 FS sector employees in AI skills",
+        "refId": "52009c9f0df6",
         "source": "Finextra"
       }
     ]
@@ -56,24 +56,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Trump\u2019s Diesel Dilemma",
-        "refId": "dfcbbab83578",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Soaring bond yields \u2018not even close\u2019 to cooling red-hot US economy, investors say",
-        "refId": "89d0a36477e6",
+        "text": "The climate doom-mongers now dread sovereign debt blowouts",
+        "refId": "d78bb333d1c7",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Blackstone\u2019s top private equity executive prepares exit for possible public service move",
-        "refId": "e232bdf0be27",
+        "text": "Are you the \u2018digital PA\u2019 for your parents?",
+        "refId": "3ef53cb83637",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Apax nears deal to buy Warburg Pincus out of \u20ac6.5bn telecoms group Odido",
+        "refId": "42da825790fb",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "3 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
         "text": "The Gig\u2019s Up: Robotaxis, Delivery Drones Reshape the Side-Hustle Market",
@@ -84,11 +84,6 @@
         "text": "The Outsiders: Why So Many Financial Planners Are in Their Second Careers",
         "refId": "d8acced9f755",
         "source": "The Daily Upside"
-      },
-      {
-        "text": "The Agents Revolt",
-        "refId": "2015626b7f1b",
-        "source": "Net Interest (Marc Rubinstein)"
       }
     ]
   },
@@ -100,11 +95,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Good points from James Gilliland",
-        "refId": "d072219606d3",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "A doomsday scenario for American AI",
         "refId": "316661023657",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -113,6 +103,11 @@
         "text": "Should you text more?",
         "refId": "3665248bc81e",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Reading List 2026-09-26",
+        "refId": "792ad14776ef",
+        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
@@ -120,19 +115,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Trump\u2019s Diesel Dilemma",
-        "refId": "dfcbbab83578",
-        "source": "Dealbook (NYT)"
+        "text": "Hightower Advisor CEO names two new presidents -- one to revamp the old rollup business, the other to develop the new single-system unit -- both with the objective of kindling buyer interest without a conglomerate discount",
+        "refId": "60663c3ee60e",
+        "source": "RIABiz"
       },
       {
-        "text": "Good points from James Gilliland",
-        "refId": "d072219606d3",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "The climate doom-mongers now dread sovereign debt blowouts",
+        "refId": "d78bb333d1c7",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Stocks making the biggest moves midday: Akamai Technologies, Genius Sports, People Inc & more",
-        "refId": "4a9d1d67c727",
-        "source": "CNBC Finance"
+        "text": "Are you the \u2018digital PA\u2019 for your parents?",
+        "refId": "3ef53cb83637",
+        "source": "Financial Times Markets"
       }
     ]
   },
