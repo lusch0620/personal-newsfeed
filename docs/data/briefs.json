@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bangkok Gets a Month of Rain in Weekend, Disrupting City",
-        "refId": "2aa5a770df66",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Rebecca Drummond joins PPL as Chief Product and Technology Officer",
         "refId": "c31377cc4bea",
         "source": "Reinsurance News"
       },
       {
-        "text": "Vitol Told Deutsche Bank That Radiant Contracts With CFO\u2019s Signature Were Fake",
-        "refId": "2abe4c44e6b0",
-        "source": "Insurance Journal"
+        "text": "Tokio Marine GX launches nine-strong partner ecosystem one year after launch",
+        "refId": "e2f3157c0d59",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Gallagher Re appoints Andy Bush as Vice President, Facultative",
+        "refId": "83b6250ff681",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -83,30 +83,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Tailwater Capital leans into gas investments",
-        "refId": "970ed8689499",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Growth Capital Partners names Richard Shaw managing partner in leadership reshuffle",
-        "refId": "a6a0ecc8079e",
-        "source": "PE Hub"
-      },
-      {
         "text": "Veritas Capital\u2019s Finalsite bolts on school payments provider RevTrak",
         "refId": "2f42ea23a86e",
         "source": "PE Hub"
+      },
+      {
+        "text": "Fifth Ocean Capital and Tartan back live event producer Complete Production Resources",
+        "refId": "066dfd7be175",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Side Letter: \u2018Responsible retailisation\u2019",
+        "refId": "cfb638e00179",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "As A.I. Makes Law Firms More Efficient, Clients Ask: \u2018Where\u2019s My Discount?\u2019",
-        "refId": "d51d2f20dd09",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "Value of old supertankers soars past new builds as market goes \u2018bananas\u2019",
         "refId": "6ab67e6bb410",
@@ -115,6 +110,11 @@
       {
         "text": "Big dreams and tiny revenue are new norm for AI IPOs",
         "refId": "90e64708d3f8",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Europe braces for LNG tug of war with Asia",
+        "refId": "177874911220",
         "source": "Financial Times Markets"
       }
     ]
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "As A.I. Makes Law Firms More Efficient, Clients Ask: \u2018Where\u2019s My Discount?\u2019",
-        "refId": "d51d2f20dd09",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Value of old supertankers soars past new builds as market goes \u2018bananas\u2019",
         "refId": "6ab67e6bb410",
         "source": "Financial Times Markets"
@@ -180,43 +175,48 @@
         "text": "Big dreams and tiny revenue are new norm for AI IPOs",
         "refId": "90e64708d3f8",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "Europe braces for LNG tug of war with Asia",
+        "refId": "177874911220",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7701.08,
+      "v": 7683.69,
       "base": 7704.13,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26907.22,
+      "v": 26820.38,
       "base": 26939.37,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51585.02,
+      "v": 51481.51,
       "base": 51349.98,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.226,
+      "v": 5.24,
       "base": 5.184,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.9,
+      "v": 16.07,
       "base": 14.87,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 173.4375,
+      "v": 172.9106,
       "base": 173.64,
       "bp": false
     }
