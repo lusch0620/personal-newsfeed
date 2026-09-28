@@ -3,48 +3,64 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
-        "refId": "34ada08d0d9a",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure",
-        "refId": "1dcf438037cd",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Debt-hungry AI companies face increased risk as bond yields spike",
         "refId": "bf49c64b87ec",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "VSMC Celebrates the Grand Opening of Its First 300mm Fab in Singapore",
+        "refId": "d4a491675d7a",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+        "refId": "bd74cb20adc0",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "DTCC Invests in iCapital, Announces Partnership",
+        "refId": "5c1fb0dc916e",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Views from 6,230: New Opportunities Emerging in Municipal Bonds",
+        "refId": "37c200a7804e",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Major Obstacles Inhibit Widespread Adoption of Retirement Income in DC Plans",
+        "refId": "fd5a4d6eaa0c",
+        "source": "Wealth Management"
+      }
+    ]
   },
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Blackstone-Backed Insurance Underwriter The Fidelis Partnership Files for IPO",
-        "refId": "5168f9bd3c40",
+        "text": "Bangkok Gets a Month of Rain in Weekend, Disrupting City",
+        "refId": "2aa5a770df66",
         "source": "Insurance Journal"
       },
       {
-        "text": "NYC Lawmakers Propose Financial Rewards for AI Whistleblowers",
-        "refId": "96523daf28db",
-        "source": "Insurance Journal"
+        "text": "Rebecca Drummond joins PPL as Chief Product and Technology Officer",
+        "refId": "c31377cc4bea",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Relation Insurance Reports It Acquired Pennsylvania\u2019s LaPlaca Agency",
-        "refId": "9741ccd71bcf",
+        "text": "Vitol Told Deutsche Bank That Radiant Contracts With CFO\u2019s Signature Were Fake",
+        "refId": "2abe4c44e6b0",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Revolut gets green light to buy Argentinian bank",
@@ -55,15 +71,30 @@
         "text": "Singapore to train 80,000 FS sector employees in AI skills",
         "refId": "52009c9f0df6",
         "source": "Finextra"
+      },
+      {
+        "text": "Nubank in talks to take over Monzo",
+        "refId": "9e15d731372b",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "1 story in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AI vs AI: Speed of cyberthreats draws dealmakers to cybersecurity companies",
-        "refId": "eb909139a747",
+        "text": "Tailwater Capital leans into gas investments",
+        "refId": "970ed8689499",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Growth Capital Partners names Richard Shaw managing partner in leadership reshuffle",
+        "refId": "a6a0ecc8079e",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Veritas Capital\u2019s Finalsite bolts on school payments provider RevTrak",
+        "refId": "2f42ea23a86e",
         "source": "PE Hub"
       }
     ]
@@ -72,18 +103,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sector Deep Dive: North American Midstream",
-        "refId": "336be85ba91b",
-        "source": "Doomberg"
-      },
-      {
         "text": "As A.I. Makes Law Firms More Efficient, Clients Ask: \u2018Where\u2019s My Discount?\u2019",
         "refId": "d51d2f20dd09",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land",
-        "refId": "5a89404733bb",
+        "text": "Value of old supertankers soars past new builds as market goes \u2018bananas\u2019",
+        "refId": "6ab67e6bb410",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Big dreams and tiny revenue are new norm for AI IPOs",
+        "refId": "90e64708d3f8",
         "source": "Financial Times Markets"
       }
     ]
@@ -116,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Should you text more?",
-        "refId": "3665248bc81e",
+        "text": "The Federal Lands: An Economic Property Rights Perspective",
+        "refId": "09d2b47ef9b6",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Reading List 2026-09-26",
-        "refId": "792ad14776ef",
-        "source": "Construction Physics (Brian Potter)"
+        "text": "Earth fact of the day, #2",
+        "refId": "033284d6c671",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Shorter Prompts Are Making Your AI Agents More Expensive",
-        "refId": "7f393c977611",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "Where\u2019s the \u201cintelligence explosion\u201d?",
+        "refId": "669f17f50462",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -136,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Should you text more?",
-        "refId": "3665248bc81e",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "As A.I. Makes Law Firms More Efficient, Clients Ask: \u2018Where\u2019s My Discount?\u2019",
+        "refId": "d51d2f20dd09",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Reading List 2026-09-26",
-        "refId": "792ad14776ef",
-        "source": "Construction Physics (Brian Potter)"
+        "text": "Value of old supertankers soars past new builds as market goes \u2018bananas\u2019",
+        "refId": "6ab67e6bb410",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Sector Deep Dive: North American Midstream",
-        "refId": "336be85ba91b",
-        "source": "Doomberg"
+        "text": "Big dreams and tiny revenue are new norm for AI IPOs",
+        "refId": "90e64708d3f8",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7743.41,
-      "base": 7706.03,
+      "v": 7701.08,
+      "base": 7704.13,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 27068.717,
-      "base": 26936.04,
+      "v": 26907.22,
+      "base": 26939.37,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51828.62,
-      "base": 51511.59,
+      "v": 51585.02,
+      "base": 51349.98,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.184,
-      "base": 5.162,
+      "v": 5.226,
+      "base": 5.184,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.87,
-      "base": 15.67,
+      "v": 15.9,
+      "base": 14.87,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 175.567,
-      "base": 173.77,
+      "v": 173.4375,
+      "base": 173.64,
       "bp": false
     }
   ]
