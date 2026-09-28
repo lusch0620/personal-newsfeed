@@ -1,12 +1,7 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
-        "refId": "262fbd7df03d",
-        "source": "CNBC Finance"
-      },
       {
         "text": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
         "refId": "34ada08d0d9a",
@@ -16,22 +11,37 @@
         "text": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure",
         "refId": "1dcf438037cd",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Debt-hungry AI companies face increased risk as bond yields spike",
+        "refId": "bf49c64b87ec",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Hightower Advisor CEO names two new presidents -- one to revamp the old rollup business, the other to develop the new single-system unit -- both with the objective of kindling buyer interest without a conglomerate discount",
-        "refId": "60663c3ee60e",
-        "source": "RIABiz"
-      }
-    ]
-  },
-  "FIG \u2014 Insurance": {
     "lede": "No stories in this lane today.",
     "bullets": []
+  },
+  "FIG \u2014 Insurance": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Blackstone-Backed Insurance Underwriter The Fidelis Partnership Files for IPO",
+        "refId": "5168f9bd3c40",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "NYC Lawmakers Propose Financial Rewards for AI Whistleblowers",
+        "refId": "96523daf28db",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Relation Insurance Reports It Acquired Pennsylvania\u2019s LaPlaca Agency",
+        "refId": "9741ccd71bcf",
+        "source": "Insurance Journal"
+      }
+    ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "2 stories in this lane today.",
@@ -49,31 +59,37 @@
     ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "1 story in this lane today.",
+    "bullets": [
+      {
+        "text": "AI vs AI: Speed of cyberthreats draws dealmakers to cybersecurity companies",
+        "refId": "eb909139a747",
+        "source": "PE Hub"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The climate doom-mongers now dread sovereign debt blowouts",
-        "refId": "d78bb333d1c7",
-        "source": "Financial Times Markets"
+        "text": "Sector Deep Dive: North American Midstream",
+        "refId": "336be85ba91b",
+        "source": "Doomberg"
       },
       {
-        "text": "Are you the \u2018digital PA\u2019 for your parents?",
-        "refId": "3ef53cb83637",
-        "source": "Financial Times Markets"
+        "text": "As A.I. Makes Law Firms More Efficient, Clients Ask: \u2018Where\u2019s My Discount?\u2019",
+        "refId": "d51d2f20dd09",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Apax nears deal to buy Warburg Pincus out of \u20ac6.5bn telecoms group Odido",
-        "refId": "42da825790fb",
+        "text": "Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land",
+        "refId": "5a89404733bb",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "The Gig\u2019s Up: Robotaxis, Delivery Drones Reshape the Side-Hustle Market",
@@ -83,6 +99,11 @@
       {
         "text": "The Outsiders: Why So Many Financial Planners Are in Their Second Careers",
         "refId": "d8acced9f755",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "What Will Latest Jobs Data Reveal About AI\u2019s Effects on Labor Market?",
+        "refId": "c0105f90d93c",
         "source": "The Daily Upside"
       }
     ]
@@ -95,10 +116,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "A doomsday scenario for American AI",
-        "refId": "316661023657",
+        "text": "Should you text more?",
+        "refId": "3665248bc81e",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
+      {
+        "text": "Reading List 2026-09-26",
+        "refId": "792ad14776ef",
+        "source": "Construction Physics (Brian Potter)"
+      },
+      {
+        "text": "Shorter Prompts Are Making Your AI Agents More Expensive",
+        "refId": "7f393c977611",
+        "source": "The AI Corner (Ruben Dominguez)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
       {
         "text": "Should you text more?",
         "refId": "3665248bc81e",
@@ -108,26 +144,11 @@
         "text": "Reading List 2026-09-26",
         "refId": "792ad14776ef",
         "source": "Construction Physics (Brian Potter)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Hightower Advisor CEO names two new presidents -- one to revamp the old rollup business, the other to develop the new single-system unit -- both with the objective of kindling buyer interest without a conglomerate discount",
-        "refId": "60663c3ee60e",
-        "source": "RIABiz"
       },
       {
-        "text": "The climate doom-mongers now dread sovereign debt blowouts",
-        "refId": "d78bb333d1c7",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Are you the \u2018digital PA\u2019 for your parents?",
-        "refId": "3ef53cb83637",
-        "source": "Financial Times Markets"
+        "text": "Sector Deep Dive: North American Midstream",
+        "refId": "336be85ba91b",
+        "source": "Doomberg"
       }
     ]
   },
