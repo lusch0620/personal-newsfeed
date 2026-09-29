@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "DTCC Invests in iCapital, Announces Partnership",
-        "refId": "5c1fb0dc916e",
+        "text": "SEC Commissioner Hester Peirce To Resign This Week",
+        "refId": "091a893a6cd9",
         "source": "Wealth Management"
       },
       {
-        "text": "Views from 6,230: New Opportunities Emerging in Municipal Bonds",
-        "refId": "37c200a7804e",
+        "text": "Insurer and Wealth Manager HUB Rebrands Ahead of Planned IPO",
+        "refId": "25385a0db621",
         "source": "Wealth Management"
       },
       {
-        "text": "Major Obstacles Inhibit Widespread Adoption of Retirement Income in DC Plans",
-        "refId": "fd5a4d6eaa0c",
+        "text": "Why RIA M&amp;A Deals Keep Getting Bigger, and What It Means for Your Firm",
+        "refId": "4839959f0bb4",
         "source": "Wealth Management"
       }
     ]
@@ -42,11 +42,6 @@
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Slips, Trips And Falls: Why It\u2019s Important to Get Ahead of An Incident",
-        "refId": "bf3de1cdfac1",
-        "source": "Insurance Journal"
-      },
       {
         "text": "Estonia Says Russia Behind Arson Attack on Defense Firm",
         "refId": "9c510f9b9efb",
@@ -56,6 +51,11 @@
         "text": "Samsung\u2019s Insurance Arms Lead Korean Drive for Overseas M&A",
         "refId": "cfa1d5a514ec",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "French Court Finds Swiftair Guilty of Corporate Manslaughter Over Mali Crash",
+        "refId": "273b980be9c9",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Nubank in talks to take over Monzo",
-        "refId": "9e15d731372b",
-        "source": "Finextra"
-      },
-      {
-        "text": "New forms of intelligent money set to hit traditional bank B2B revenue streams",
-        "refId": "5333a26c305e",
-        "source": "Finextra"
-      },
-      {
         "text": "US banks invited to join Apple Pay class lawsuit",
         "refId": "65a8eb41c945",
+        "source": "Finextra"
+      },
+      {
+        "text": "BNY unveils Pay-to-Wallet technology option for banks",
+        "refId": "346729cbf70c",
+        "source": "Finextra"
+      },
+      {
+        "text": "Swift provides cross-border gateway to Bizum, PayID and Pix users",
+        "refId": "31b7323dd7a6",
         "source": "Finextra"
       }
     ]
@@ -108,13 +108,13 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Nvidia turns to insurers to offset AI risks",
-        "refId": "a95ab3dd727d",
+        "text": "Bond investors become oil traders as Iran war drives yields",
+        "refId": "b37fe7260547",
         "source": "Financial Times Markets"
       },
       {
-        "text": "European banks launch in-house ETFs to challenge BlackRock and Vanguard",
-        "refId": "ded58e951025",
+        "text": "Private equity wrestles with its own generational wealth gap",
+        "refId": "dc9a64bb92fb",
         "source": "Financial Times Markets"
       }
     ]
@@ -133,8 +133,8 @@
         "source": "The Daily Upside"
       },
       {
-        "text": "High-Volume Semi Production, Souped-Up Roadster Offer Jolt for Tesla Investors",
-        "refId": "5a1b20ed2636",
+        "text": "Why Manager Selection Matters More in Private Markets",
+        "refId": "55616799f086",
         "source": "The Daily Upside"
       }
     ]
@@ -177,8 +177,8 @@
         "source": "The Daily Upside"
       },
       {
-        "text": "High-Volume Semi Production, Souped-Up Roadster Offer Jolt for Tesla Investors",
-        "refId": "5a1b20ed2636",
+        "text": "Why Manager Selection Matters More in Private Markets",
+        "refId": "55616799f086",
         "source": "The Daily Upside"
       }
     ]
@@ -186,37 +186,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7659.4,
+      "v": 7670.84,
       "base": 7743.41,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26761.01,
+      "v": 26797.541,
       "base": 27068.72,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51194.02,
+      "v": 51349.92,
       "base": 51828.62,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.274,
+      "v": 5.255,
       "base": 5.24,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.21,
+      "v": 16.04,
       "base": 16.07,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 171.1705,
+      "v": 171.65,
       "base": 175.57,
       "bp": false
     }
