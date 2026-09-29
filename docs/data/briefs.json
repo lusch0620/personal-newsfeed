@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Debt-hungry AI companies face increased risk as bond yields spike",
-        "refId": "bf49c64b87ec",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "VSMC Celebrates the Grand Opening of Its First 300mm Fab in Singapore",
         "refId": "d4a491675d7a",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
@@ -15,6 +10,11 @@
       {
         "text": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
         "refId": "bd74cb20adc0",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
+        "refId": "1e9ede109bc5",
         "source": "CNBC Finance"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Strategic adaptability, faster decision-making key for future reinsurance leaders: EY",
-        "refId": "e19c8dd6dd7a",
-        "source": "Reinsurance News"
+        "text": "Slips, Trips And Falls: Why It\u2019s Important to Get Ahead of An Incident",
+        "refId": "bf3de1cdfac1",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Slide broadens South Carolina homeowners insurance offering",
-        "refId": "06c7295f8af2",
-        "source": "Reinsurance News"
+        "text": "Estonia Says Russia Behind Arson Attack on Defense Firm",
+        "refId": "9c510f9b9efb",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Fortitude Re advances long-term strategy with Dayforward acquisition",
-        "refId": "840ef28c3814",
-        "source": "Reinsurance News"
+        "text": "Samsung\u2019s Insurance Arms Lead Korean Drive for Overseas M&A",
+        "refId": "cfa1d5a514ec",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Revolut gets green light to buy Argentinian bank",
-        "refId": "91dc10f54c41",
-        "source": "Finextra"
-      },
-      {
-        "text": "Singapore to train 80,000 FS sector employees in AI skills",
-        "refId": "52009c9f0df6",
-        "source": "Finextra"
-      },
-      {
         "text": "Nubank in talks to take over Monzo",
         "refId": "9e15d731372b",
+        "source": "Finextra"
+      },
+      {
+        "text": "New forms of intelligent money set to hit traditional bank B2B revenue streams",
+        "refId": "5333a26c305e",
+        "source": "Finextra"
+      },
+      {
+        "text": "US banks invited to join Apple Pay class lawsuit",
+        "refId": "65a8eb41c945",
         "source": "Finextra"
       }
     ]
@@ -83,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Veritas Capital\u2019s Finalsite bolts on school payments provider RevTrak",
-        "refId": "2f42ea23a86e",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Fifth Ocean Capital and Tartan back live event producer Complete Production Resources",
-        "refId": "066dfd7be175",
-        "source": "PE Hub"
-      },
-      {
         "text": "Side Letter: \u2018Responsible retailisation\u2019",
         "refId": "cfb638e00179",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Franklin Templeton bets on client diversification amid evergreen push",
+        "refId": "363d468a923a",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Japanese GP returns entire debut fund with first exit",
+        "refId": "2db288fc9488",
         "source": "Private Equity International"
       }
     ]
@@ -103,18 +103,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The AI earnings headwind and accounting headache that\u2019s set to intensify \ud83c\udf2c\ufe0f",
-        "refId": "a3e4027d7514",
-        "source": "TKer (Sam Ro)"
+        "text": "Could A.I. Safety Risks Derail the Sector\u2019s I.P.O. Prospects?",
+        "refId": "8e8c12a35d32",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "AI and the Fall? of the Creative Class",
-        "refId": "3ec29c6eab5f",
-        "source": "Apricitas Economics"
+        "text": "Nvidia turns to insurers to offset AI risks",
+        "refId": "a95ab3dd727d",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "The bargain between shareholders and companies is being eroded",
-        "refId": "3ff29d113a26",
+        "text": "European banks launch in-house ETFs to challenge BlackRock and Vanguard",
+        "refId": "ded58e951025",
         "source": "Financial Times Markets"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Earth fact of the day, #2",
-        "refId": "033284d6c671",
+        "text": "Bundesrepublik Deutschland",
+        "refId": "20b02d819f91",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Where\u2019s the \u201cintelligence explosion\u201d?",
-        "refId": "669f17f50462",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Apps, Agents, and Aggregation",
+        "refId": "121fe776bc86",
+        "source": "Stratechery (Ben Thompson)"
       },
       {
-        "text": "Your AI Agent Might Be Paying $11,000 a Month to Answer Yes or No",
-        "refId": "e00d12f1b13b",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "Defining the Unemployment Rate",
+        "refId": "f4c4a15446c7",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Earth fact of the day, #2",
-        "refId": "033284d6c671",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "What Will Latest Jobs Data Reveal About AI\u2019s Effects on Labor Market?",
+        "refId": "c0105f90d93c",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Where\u2019s the \u201cintelligence explosion\u201d?",
-        "refId": "669f17f50462",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Netflix Struggles to Regain Engagement Momentum, Escape YouTube\u2019s Shadow",
+        "refId": "5606a575443c",
+        "source": "The Daily Upside"
       },
       {
-        "text": "The AI earnings headwind and accounting headache that\u2019s set to intensify \ud83c\udf2c\ufe0f",
-        "refId": "a3e4027d7514",
-        "source": "TKer (Sam Ro)"
+        "text": "High-Volume Semi Production, Souped-Up Roadster Offer Jolt for Tesla Investors",
+        "refId": "5a1b20ed2636",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7683.69,
-      "base": 7704.13,
+      "v": 7659.4,
+      "base": 7743.41,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26820.38,
-      "base": 26939.37,
+      "v": 26761.01,
+      "base": 27068.72,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51481.51,
-      "base": 51349.98,
+      "v": 51194.02,
+      "base": 51828.62,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.24,
-      "base": 5.184,
+      "v": 5.274,
+      "base": 5.24,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.07,
-      "base": 14.87,
+      "v": 16.21,
+      "base": 16.07,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 172.9106,
-      "base": 173.64,
+      "v": 171.1705,
+      "base": 175.57,
       "bp": false
     }
   ]
