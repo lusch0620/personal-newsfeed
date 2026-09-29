@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Rebecca Drummond joins PPL as Chief Product and Technology Officer",
-        "refId": "c31377cc4bea",
+        "text": "Strategic adaptability, faster decision-making key for future reinsurance leaders: EY",
+        "refId": "e19c8dd6dd7a",
         "source": "Reinsurance News"
       },
       {
-        "text": "Tokio Marine GX launches nine-strong partner ecosystem one year after launch",
-        "refId": "e2f3157c0d59",
+        "text": "Slide broadens South Carolina homeowners insurance offering",
+        "refId": "06c7295f8af2",
         "source": "Reinsurance News"
       },
       {
-        "text": "Gallagher Re appoints Andy Bush as Vice President, Facultative",
-        "refId": "83b6250ff681",
+        "text": "Fortitude Re advances long-term strategy with Dayforward acquisition",
+        "refId": "840ef28c3814",
         "source": "Reinsurance News"
       }
     ]
@@ -103,18 +103,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Value of old supertankers soars past new builds as market goes \u2018bananas\u2019",
-        "refId": "6ab67e6bb410",
-        "source": "Financial Times Markets"
+        "text": "The AI earnings headwind and accounting headache that\u2019s set to intensify \ud83c\udf2c\ufe0f",
+        "refId": "a3e4027d7514",
+        "source": "TKer (Sam Ro)"
       },
       {
-        "text": "Big dreams and tiny revenue are new norm for AI IPOs",
-        "refId": "90e64708d3f8",
-        "source": "Financial Times Markets"
+        "text": "AI and the Fall? of the Creative Class",
+        "refId": "3ec29c6eab5f",
+        "source": "Apricitas Economics"
       },
       {
-        "text": "Europe braces for LNG tug of war with Asia",
-        "refId": "177874911220",
+        "text": "The bargain between shareholders and companies is being eroded",
+        "refId": "3ff29d113a26",
         "source": "Financial Times Markets"
       }
     ]
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Gig\u2019s Up: Robotaxis, Delivery Drones Reshape the Side-Hustle Market",
-        "refId": "f509f5b6c673",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "The Outsiders: Why So Many Financial Planners Are in Their Second Careers",
-        "refId": "d8acced9f755",
-        "source": "The Daily Upside"
-      },
-      {
         "text": "What Will Latest Jobs Data Reveal About AI\u2019s Effects on Labor Market?",
         "refId": "c0105f90d93c",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Netflix Struggles to Regain Engagement Momentum, Escape YouTube\u2019s Shadow",
+        "refId": "5606a575443c",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "High-Volume Semi Production, Souped-Up Roadster Offer Jolt for Tesla Investors",
+        "refId": "5a1b20ed2636",
         "source": "The Daily Upside"
       }
     ]
@@ -147,10 +147,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Federal Lands: An Economic Property Rights Perspective",
-        "refId": "09d2b47ef9b6",
+        "text": "Earth fact of the day, #2",
+        "refId": "033284d6c671",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
+      {
+        "text": "Where\u2019s the \u201cintelligence explosion\u201d?",
+        "refId": "669f17f50462",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Your AI Agent Might Be Paying $11,000 a Month to Answer Yes or No",
+        "refId": "e00d12f1b13b",
+        "source": "The AI Corner (Ruben Dominguez)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
       {
         "text": "Earth fact of the day, #2",
         "refId": "033284d6c671",
@@ -160,26 +175,11 @@
         "text": "Where\u2019s the \u201cintelligence explosion\u201d?",
         "refId": "669f17f50462",
         "source": "Noahpinion (Noah Smith)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Value of old supertankers soars past new builds as market goes \u2018bananas\u2019",
-        "refId": "6ab67e6bb410",
-        "source": "Financial Times Markets"
       },
       {
-        "text": "Big dreams and tiny revenue are new norm for AI IPOs",
-        "refId": "90e64708d3f8",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Europe braces for LNG tug of war with Asia",
-        "refId": "177874911220",
-        "source": "Financial Times Markets"
+        "text": "The AI earnings headwind and accounting headache that\u2019s set to intensify \ud83c\udf2c\ufe0f",
+        "refId": "a3e4027d7514",
+        "source": "TKer (Sam Ro)"
       }
     ]
   },
