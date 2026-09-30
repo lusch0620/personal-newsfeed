@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
-        "refId": "4691429f9edd",
+        "text": "Polymarket taps Goldman Sachs veteran Lisa Mantil to attract Wall Street liquidity",
+        "refId": "15510c2d1adf",
         "source": "CNBC Finance"
       },
       {
-        "text": "Circle CFO to step down following $1.05B IPO",
-        "refId": "5fdd2dc10e3f",
-        "source": "Banking Dive"
+        "text": "Stocks making the biggest moves premarket: Fair Isaac, SpaceX, AMD & more",
+        "refId": "c483c26b26db",
+        "source": "CNBC Finance"
       },
       {
-        "text": "AMD to Acquire World Labs to Advance the Future of AI Compute",
-        "refId": "dc0e2c07f2c4",
+        "text": "Linxon, Hitachi Energy and FTC Solar Announce Strategic Collaboration to Accelerate Utility-Scale Renewable Energy and Grid Infrastructure Development",
+        "refId": "015c8784e1ae",
         "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
@@ -33,8 +33,8 @@
         "source": "RIABiz"
       },
       {
-        "text": "FINRA Bars Former LPL Rep For Taking $1.7M From Clients",
-        "refId": "b904a8332499",
+        "text": "XYPN Adds Income Lab as Member Benefit",
+        "refId": "8a6f5cd54564",
         "source": "Wealth Management"
       }
     ]
@@ -42,11 +42,6 @@
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "UK Police Find Fuel but No Explosives at RAF Fairford Scene",
-        "refId": "98e77912a570",
-        "source": "Insurance Journal"
-      },
       {
         "text": "Mexico\u2019s Journalists Have Long Faced Bullets. Now Lawsuits Against Them Are Rising.",
         "refId": "a4750a5b1a68",
@@ -56,6 +51,11 @@
         "text": "Cyber Worker Allegedly Moonlighted as ShinyHunters Hacker",
         "refId": "4378859cbaa0",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "McKinsey Rebukes Partner Who Questioned Challenges Facing Women CEOs",
+        "refId": "ed9bb2b42e51",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Limited-Service Hotel Loans Lead CMBS Lodging in Nonperforming Rate and Refinancing Risk",
-        "refId": "688edd627a30",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "Sibos 2026: What does sovereignty look like in a multi-rail payments landscape?",
-        "refId": "97ba905fe480",
+        "text": "Elio Mortgage launches with $5.1m in pre-seed funding",
+        "refId": "809d658299bc",
         "source": "Finextra"
       },
       {
-        "text": "Elio Mortgage launches with $5.1m in pre-seed funding",
-        "refId": "809d658299bc",
+        "text": "Circle and Volante partner to help banks integrate stablecoins into payment operations",
+        "refId": "75e4f7b63531",
+        "source": "Finextra"
+      },
+      {
+        "text": "SMEs turn from banks to fintechs for cross-border payments",
+        "refId": "83080096ec6d",
         "source": "Finextra"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Monday assorted links",
-        "refId": "63e283e92dec",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Here\u2019s Everything OpenAI\u2019s Bots (And Others) Have Hacked Or Considered Hacking",
-        "refId": "cf2545c30c6f",
-        "source": "Big Technology (Alex Kantrowitz)"
-      },
-      {
         "text": "Stop spending money on smaller classes",
         "refId": "572dfc6fb58f",
         "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "The Macroeconomic Effect of AI through software engineering",
+        "refId": "2ecfcb683d62",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Accounting for Cross-Country Income Differences Revisited",
+        "refId": "2a7e92d57b18",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Monday assorted links",
-        "refId": "63e283e92dec",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Stop spending money on smaller classes",
+        "refId": "572dfc6fb58f",
+        "source": "Noahpinion (Noah Smith)"
       },
       {
-        "text": "Nearly half the stocks in the S&P 500 are at cross purposes with the rest of the market",
-        "refId": "4691429f9edd",
-        "source": "CNBC Finance"
+        "text": "Japanese GP returns entire debut fund with first exit",
+        "refId": "2db288fc9488",
+        "source": "Private Equity International"
       },
       {
-        "text": "Limited-Service Hotel Loans Lead CMBS Lodging in Nonperforming Rate and Refinancing Risk",
-        "refId": "688edd627a30",
-        "source": "Trepp Talk"
+        "text": "New Eye Treatment Boosts Kodiak Into Ranks of Resurgent Biotechs",
+        "refId": "6742a3afd7c9",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7708.11,
+      "v": 7651.54,
       "base": 7683.69,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 27052.916,
+      "v": 26861.064,
       "base": 26820.38,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51298.57,
+      "v": 50906.05,
       "base": 51481.51,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.287,
+      "v": 5.293,
       "base": 5.255,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.9,
+      "v": 16.34,
       "base": 16.04,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 170.757,
+      "v": 169.963,
       "base": 172.91,
       "bp": false
     }
