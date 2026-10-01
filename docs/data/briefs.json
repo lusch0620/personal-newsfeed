@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Elio Mortgage launches with $5.1m in pre-seed funding",
-        "refId": "809d658299bc",
+        "text": "Brits feel overwhelmed by growing sophistication of AI-powered scams",
+        "refId": "50ead13c2793",
         "source": "Finextra"
       },
       {
-        "text": "Circle and Volante partner to help banks integrate stablecoins into payment operations",
-        "refId": "75e4f7b63531",
+        "text": "Duco clients report 76% time savings in post-trade reconciliation operations with AI platform",
+        "refId": "5432e1c79d39",
         "source": "Finextra"
       },
       {
-        "text": "SMEs turn from banks to fintechs for cross-border payments",
-        "refId": "83080096ec6d",
+        "text": "Visa and Lloyds complete live trials of stablecoin settlement",
+        "refId": "8b2d61a49c3b",
         "source": "Finextra"
       }
     ]
@@ -83,19 +83,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Japanese GP returns entire debut fund with first exit",
-        "refId": "2db288fc9488",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "The Exit Playbook: Right-timing the exit",
-        "refId": "05760a8e5b91",
-        "source": "Private Equity International"
-      },
-      {
         "text": "Rising Point oversubscribes Fund I in unforgiving market for first-timers",
         "refId": "1ff45a922cf0",
         "source": "Buyouts Insider"
+      },
+      {
+        "text": "Miller departs Recognize to launch AI-focused SingleSpoke",
+        "refId": "7b2ed75644bd",
+        "source": "Buyouts Insider"
+      },
+      {
+        "text": "HIG Capital completes acquisition of UK safety equipment distributor Arco",
+        "refId": "84ecf8187a03",
+        "source": "PE Hub"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stop spending money on smaller classes",
-        "refId": "572dfc6fb58f",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
         "text": "The Macroeconomic Effect of AI through software engineering",
         "refId": "2ecfcb683d62",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Accounting for Cross-Country Income Differences Revisited",
         "refId": "2a7e92d57b18",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
+        "refId": "5e93accccbf4",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -167,18 +167,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stop spending money on smaller classes",
-        "refId": "572dfc6fb58f",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
-        "text": "Japanese GP returns entire debut fund with first exit",
-        "refId": "2db288fc9488",
-        "source": "Private Equity International"
-      },
-      {
         "text": "New Eye Treatment Boosts Kodiak Into Ranks of Resurgent Biotechs",
         "refId": "6742a3afd7c9",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Jefferies\u2019 Record Investment Banking Results Raise Stakes for Wall Street Giants",
+        "refId": "1bd0808bd5db",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Nvidia Develops Tools to Tackle Rogue AI Risks",
+        "refId": "0f1a08ed9acc",
         "source": "The Daily Upside"
       }
     ]
