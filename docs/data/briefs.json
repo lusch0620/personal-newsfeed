@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Pontera 'reframes' itself from 401(k) workaround agent to trusted gatekeeper of AI agents -- possibly solving impasse with Fidelity -- as Schwab unleashes 'Charley,' its new AI agent 'foundation' for millions of clients",
-        "refId": "049e616c7dbe",
-        "source": "RIABiz"
-      },
-      {
         "text": "People Moves: TradePMR Tech Executive Jon Patullo Jumps to Hybrid RIA",
         "refId": "9fdacb09771a",
         "source": "Wealth Management"
@@ -36,6 +31,11 @@
         "text": "Deals &amp; Moves: HB Wealth Adds Family Trio, Hightower Signature Acquires Externally",
         "refId": "67580a4da564",
         "source": "Wealth Management"
+      },
+      {
+        "text": "Fidelity's move to kick sub-$100-million RIAs off its platform is 'bizarre,' Kitces says; it\u2019s likely to backfire,  Chalekian says; yet, the Fidelity-Savvy deal last week may soften any blow",
+        "refId": "6416fa759c24",
+        "source": "RIABiz"
       }
     ]
   },
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Walapay raises $4.6m",
-        "refId": "f19ef1702095",
-        "source": "Finextra"
-      },
-      {
         "text": "Barclays ramps up use of Anthropic's Claude",
         "refId": "234932fc5b90",
         "source": "Finextra"
@@ -76,17 +71,17 @@
         "text": "Monarch acquires HMBradley",
         "refId": "c191818dec48",
         "source": "Finextra"
+      },
+      {
+        "text": "Australia's WeMoney launches AI and open banking-powered lending assessment service",
+        "refId": "0333a79cc350",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "California pension weighs merits of adding co-investment program",
-        "refId": "5678663e3b7f",
-        "source": "Buyouts Insider"
-      },
       {
         "text": "Investor Intentions: Korea Venture Investment Corporation seeks domestic blind-pool VC funds for 2026",
         "refId": "4a7afa29d72b",
@@ -95,6 +90,11 @@
       {
         "text": "Music deals in focus after Pophouse acquires stake in Sia\u2019s master music rights; Forward Consumer Partners featured in They Said It",
         "refId": "9f29092f2fac",
+        "source": "PE Hub"
+      },
+      {
+        "text": "TDR Capital\u2019s Lyceum Education Group strikes deal for Aspiration Training",
+        "refId": "db6a7fbf4c21",
         "source": "PE Hub"
       }
     ]
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Walapay raises $4.6m",
-        "refId": "f19ef1702095",
+        "text": "Barclays ramps up use of Anthropic's Claude",
+        "refId": "234932fc5b90",
         "source": "Finextra"
       },
       {
-        "text": "California pension weighs merits of adding co-investment program",
-        "refId": "5678663e3b7f",
-        "source": "Buyouts Insider"
+        "text": "Monarch acquires HMBradley",
+        "refId": "c191818dec48",
+        "source": "Finextra"
       },
       {
-        "text": "Pontera 'reframes' itself from 401(k) workaround agent to trusted gatekeeper of AI agents -- possibly solving impasse with Fidelity -- as Schwab unleashes 'Charley,' its new AI agent 'foundation' for millions of clients",
-        "refId": "049e616c7dbe",
-        "source": "RIABiz"
+        "text": "Australia's WeMoney launches AI and open banking-powered lending assessment service",
+        "refId": "0333a79cc350",
+        "source": "Finextra"
       }
     ]
   },
