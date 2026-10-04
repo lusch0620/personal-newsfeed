@@ -1,33 +1,22 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-        "refId": "39c68e96a7cb",
+        "text": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+        "refId": "1f3471166d4e",
         "source": "CNBC Finance"
       },
       {
-        "text": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
-        "refId": "66023f32d0e1",
+        "text": "Sports betting is increasingly the norm for Gen Z.  Here\u2019s why some financial and mental health experts are worried",
+        "refId": "c4112a5d6b85",
         "source": "CNBC Finance"
-      },
-      {
-        "text": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-        "refId": "8ba34d816d88",
-        "source": "Federal Reserve Press Releases"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "SEC Crypto Custody Proposal Draws Divisive Reactions",
-        "refId": "a08f8cff80d4",
-        "source": "Wealth Management"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Insurance": {
     "lede": "No stories in this lane today.",
@@ -45,18 +34,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Arctic sea routes boom as Gulf war and global warming divert shipping",
-        "refId": "051a0836c2c0",
+        "text": "Private capital checks into Europe\u2019s booming hostel market",
+        "refId": "1a6dcd205cd2",
         "source": "Financial Times Markets"
       },
       {
-        "text": "US economy adds just 29,000 jobs in September as hiring slows sharply",
-        "refId": "a74887f47e19",
+        "text": "Dethroning FICO won\u2019t much help US homeowners",
+        "refId": "918000628293",
         "source": "Financial Times Markets"
       },
       {
-        "text": "US backs down from fuel export ban threat as G7 agrees to release 100mn barrels",
-        "refId": "93785981b8c4",
+        "text": "Rising gilt yields attract retail investors hunting for tax-efficient assets",
+        "refId": "4500e627ea01",
         "source": "Financial Times Markets"
       }
     ]
@@ -89,19 +78,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Supply is elastic, installment #1637",
-        "refId": "a97dcb9289c1",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Anthropic\u2019s IPO and Our Collective Leap Of Faith",
-        "refId": "8ce473289ac1",
-        "source": "Big Technology (Alex Kantrowitz)"
-      },
-      {
         "text": "New issue of Econ Journal Watch",
         "refId": "39df21857c60",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The second Trump presidency is a world-historic failure",
+        "refId": "e1d0adab74d9",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Reading List 2026-10-03",
+        "refId": "74b825d388b3",
+        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
@@ -109,19 +98,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Supply is elastic, installment #1637",
-        "refId": "a97dcb9289c1",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Private capital checks into Europe\u2019s booming hostel market",
+        "refId": "1a6dcd205cd2",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
-        "refId": "39c68e96a7cb",
-        "source": "CNBC Finance"
+        "text": "Dethroning FICO won\u2019t much help US homeowners",
+        "refId": "918000628293",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Anthropic\u2019s IPO and Our Collective Leap Of Faith",
-        "refId": "8ce473289ac1",
-        "source": "Big Technology (Alex Kantrowitz)"
+        "text": "Rising gilt yields attract retail investors hunting for tax-efficient assets",
+        "refId": "4500e627ea01",
+        "source": "Financial Times Markets"
       }
     ]
   },
