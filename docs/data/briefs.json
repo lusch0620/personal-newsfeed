@@ -3,138 +3,80 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bitget 'not expecting to recover a lot' from $388 million hack, CEO tells CNBC",
-        "refId": "a68039abff71",
+        "text": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+        "refId": "39c68e96a7cb",
         "source": "CNBC Finance"
       },
       {
-        "text": "'The hottest skill on Wall Street\u2019: Demand for this AI ability jumped 1,721% as banks embrace agents",
-        "refId": "7870d5dcbd43",
+        "text": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
+        "refId": "66023f32d0e1",
         "source": "CNBC Finance"
       },
       {
-        "text": "EMD Electronics Opens New R&D Facility in Wisconsin to Accelerate Advanced Semiconductor Materials Innovation",
-        "refId": "f46c325d6c57",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+        "refId": "8ba34d816d88",
+        "source": "Federal Reserve Press Releases"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "People Moves: TradePMR Tech Executive Jon Patullo Jumps to Hybrid RIA",
-        "refId": "9fdacb09771a",
+        "text": "SEC Crypto Custody Proposal Draws Divisive Reactions",
+        "refId": "a08f8cff80d4",
         "source": "Wealth Management"
-      },
-      {
-        "text": "Deals &amp; Moves: HB Wealth Adds Family Trio, Hightower Signature Acquires Externally",
-        "refId": "67580a4da564",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Fidelity's move to kick sub-$100-million RIAs off its platform is 'bizarre,' Kitces says; it\u2019s likely to backfire,  Chalekian says; yet, the Fidelity-Savvy deal last week may soften any blow",
-        "refId": "6416fa759c24",
-        "source": "RIABiz"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Wisconsin Workers\u2019 Comp Rates Decrease for 11th Straight Year",
-        "refId": "e8df111c50fc",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Ohio Mutual Completes Merger of Idaho-Based Gem State",
-        "refId": "7212696242b9",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "What Operationally Consistent Client Service Actually Looks Like",
-        "refId": "092807f79614",
-        "source": "Insurance Journal"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Barclays ramps up use of Anthropic's Claude",
-        "refId": "234932fc5b90",
-        "source": "Finextra"
-      },
-      {
-        "text": "Monarch acquires HMBradley",
-        "refId": "c191818dec48",
-        "source": "Finextra"
-      },
-      {
-        "text": "Australia's WeMoney launches AI and open banking-powered lending assessment service",
-        "refId": "0333a79cc350",
-        "source": "Finextra"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Investor Intentions: Korea Venture Investment Corporation seeks domestic blind-pool VC funds for 2026",
-        "refId": "4a7afa29d72b",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Music deals in focus after Pophouse acquires stake in Sia\u2019s master music rights; Forward Consumer Partners featured in They Said It",
-        "refId": "9f29092f2fac",
-        "source": "PE Hub"
-      },
-      {
-        "text": "TDR Capital\u2019s Lyceum Education Group strikes deal for Aspiration Training",
-        "refId": "db6a7fbf4c21",
-        "source": "PE Hub"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Latest Challenge to Data Centers? Restive Investors.",
-        "refId": "6f11e5f6aa49",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "US puts sanctions on Kremlin-backed fintech A7 for allegedly assisting\u00a0Iran",
-        "refId": "cb34fac6226d",
+        "text": "Arctic sea routes boom as Gulf war and global warming divert shipping",
+        "refId": "051a0836c2c0",
         "source": "Financial Times Markets"
       },
       {
-        "text": "I\u2019m even more bullish about stocks than a year ago",
-        "refId": "6bfa3f46ee1e",
+        "text": "US economy adds just 29,000 jobs in September as hiring slows sharply",
+        "refId": "a74887f47e19",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "US backs down from fuel export ban threat as G7 agrees to release 100mn barrels",
+        "refId": "93785981b8c4",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "5 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
       {
-        "text": "Accenture\u2019s Strong Earnings Bring Welcome Good News for Software Stocks",
-        "refId": "5a1dce140ef8",
+        "text": "The Art of Doing Financial Engineering",
+        "refId": "5bf04f41fa45",
+        "source": "Net Interest (Marc Rubinstein)"
+      },
+      {
+        "text": "These Money Illusions Can Cost Investors Dearly",
+        "refId": "e9bb264aa98c",
         "source": "The Daily Upside"
       },
       {
-        "text": "TSMC Considers New Plant in Lone Star State",
-        "refId": "e010acfc0c09",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Appetite for US Bonds as Safe Haven Rebounds After Global Yields Spike",
-        "refId": "9137478f4a00",
+        "text": "The Bond Market\u2019s Tokyo Story",
+        "refId": "4a4961f28260",
         "source": "The Daily Upside"
       }
     ]
@@ -147,18 +89,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "My excellent Conversation with Luis Garicano",
-        "refId": "2cb448f3d065",
+        "text": "Supply is elastic, installment #1637",
+        "refId": "a97dcb9289c1",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "What should I ask Tom Griffiths?",
-        "refId": "e46572555e04",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Anthropic\u2019s IPO and Our Collective Leap Of Faith",
+        "refId": "8ce473289ac1",
+        "source": "Big Technology (Alex Kantrowitz)"
       },
       {
-        "text": "Friday assorted links",
-        "refId": "b62c859fe315",
+        "text": "New issue of Econ Journal Watch",
+        "refId": "39df21857c60",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -167,19 +109,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Barclays ramps up use of Anthropic's Claude",
-        "refId": "234932fc5b90",
-        "source": "Finextra"
+        "text": "Supply is elastic, installment #1637",
+        "refId": "a97dcb9289c1",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Monarch acquires HMBradley",
-        "refId": "c191818dec48",
-        "source": "Finextra"
+        "text": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
+        "refId": "39c68e96a7cb",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Australia's WeMoney launches AI and open banking-powered lending assessment service",
-        "refId": "0333a79cc350",
-        "source": "Finextra"
+        "text": "Anthropic\u2019s IPO and Our Collective Leap Of Faith",
+        "refId": "8ce473289ac1",
+        "source": "Big Technology (Alex Kantrowitz)"
       }
     ]
   },
@@ -216,7 +158,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 170.6925,
+      "v": 170.693,
       "base": 169.96,
       "bp": false
     }
