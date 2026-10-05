@@ -1,6 +1,6 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
@@ -11,6 +11,11 @@
         "text": "Sports betting is increasingly the norm for Gen Z.  Here\u2019s why some financial and mental health experts are worried",
         "refId": "c4112a5d6b85",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Himax Technologies, Inc. Schedules Third Quarter 2026 Financial Results Conference Call on Thursday, November 5, 2026 at 8:00 AM EST",
+        "refId": "4f44fcec118b",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -19,39 +24,77 @@
     "bullets": []
   },
   "FIG \u2014 Insurance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Claims Against NYC Rental Buildings Nearly Doubled Since 2021: Milford Street",
+        "refId": "5eb1e7d3f251",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Lockton Named in NBA Investigation Into Clippers Salary Cap Circumvention",
+        "refId": "4d2899ae0e02",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Michigan Joins Settlement Against Mortgage Servicer Over \u2018Force-Placed\u2019 Insurance",
+        "refId": "4137a89ce2fe",
+        "source": "Insurance Journal"
+      }
+    ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "1 story in this lane today.",
+    "bullets": [
+      {
+        "text": "Community finance and open banking technology can support \u2018credit invisibles\u2019 \u2013 Salad Finance",
+        "refId": "f1a0cec45bce",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Women of Influence 2026: G-K",
+        "refId": "21358e482681",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Download Private Equity International\u2019s 2026 Women in Private Funds report",
+        "refId": "435f4c8d349c",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Women-led funds find a way in tough fundraising climate",
+        "refId": "dff9066e0512",
+        "source": "Private Equity International"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Private capital checks into Europe\u2019s booming hostel market",
-        "refId": "1a6dcd205cd2",
+        "text": "France is the Biggest Loser in the Global Rates Reset",
+        "refId": "2d1c7e4376c6",
+        "source": "The Overshoot (Matthew Klein)"
+      },
+      {
+        "text": "What\u2019s driving the global bond sell-off?",
+        "refId": "68f2289e7f94",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Dethroning FICO won\u2019t much help US homeowners",
-        "refId": "918000628293",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Rising gilt yields attract retail investors hunting for tax-efficient assets",
-        "refId": "4500e627ea01",
-        "source": "Financial Times Markets"
+        "text": "Sign Up for DealBook",
+        "refId": "c7eece17793a",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "Newsletters": {
-    "lede": "3 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "The Art of Doing Financial Engineering",
@@ -78,11 +121,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "New issue of Econ Journal Watch",
-        "refId": "39df21857c60",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "The second Trump presidency is a world-historic failure",
         "refId": "e1d0adab74d9",
         "source": "Noahpinion (Noah Smith)"
@@ -91,6 +129,11 @@
         "text": "Reading List 2026-10-03",
         "refId": "74b825d388b3",
         "source": "Construction Physics (Brian Potter)"
+      },
+      {
+        "text": "Saturday assorted links",
+        "refId": "75ad1e51f35e",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -98,18 +141,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Private capital checks into Europe\u2019s booming hostel market",
-        "refId": "1a6dcd205cd2",
-        "source": "Financial Times Markets"
+        "text": "France is the Biggest Loser in the Global Rates Reset",
+        "refId": "2d1c7e4376c6",
+        "source": "The Overshoot (Matthew Klein)"
       },
       {
-        "text": "Dethroning FICO won\u2019t much help US homeowners",
-        "refId": "918000628293",
-        "source": "Financial Times Markets"
+        "text": "The second Trump presidency is a world-historic failure",
+        "refId": "e1d0adab74d9",
+        "source": "Noahpinion (Noah Smith)"
       },
       {
-        "text": "Rising gilt yields attract retail investors hunting for tax-efficient assets",
-        "refId": "4500e627ea01",
+        "text": "What\u2019s driving the global bond sell-off?",
+        "refId": "68f2289e7f94",
         "source": "Financial Times Markets"
       }
     ]
