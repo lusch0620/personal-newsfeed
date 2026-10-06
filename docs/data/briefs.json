@@ -103,18 +103,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "As A.I. Agents Begin Shopping, Brands Are Changing Their Sales Pitch",
-        "refId": "53704a2d96e9",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "A bear-case scenario for the long-term, diversified stock market investor \ud83d\udcc9",
         "refId": "d382cece0555",
         "source": "TKer (Sam Ro)"
       },
       {
-        "text": "The jobs market is still fine",
-        "refId": "3adda22fa066",
+        "text": "Saudi Aramco chief warns world\u2019s oil stockpiles are \u2018scarily thin\u2019",
+        "refId": "68f6fac41054",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Bond turbulence means it\u2019s time for the ECB to put QT on hold",
+        "refId": "051afb289f3c",
         "source": "Financial Times Markets"
       }
     ]
@@ -167,11 +167,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "As A.I. Agents Begin Shopping, Brands Are Changing Their Sales Pitch",
-        "refId": "53704a2d96e9",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Do the elderly prefer robotic care?",
         "refId": "47ab07e284c3",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -180,25 +175,30 @@
         "text": "Marital sorting by class and race",
         "refId": "a464a61ef005",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Does Costco Cause Cancer?",
+        "refId": "ef72f1f3998c",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7792.05,
+      "v": 7773.95,
       "base": 7666.45,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 27535.855,
+      "v": 27477.31,
       "base": 26871.6,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51388.79,
+      "v": 51267.9,
       "base": 50926.56,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 15.61,
+      "v": 15.52,
       "base": 15.31,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 171.243,
+      "v": 170.6074,
       "base": 169.67,
       "bp": false
     }
