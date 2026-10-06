@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Morningstar: Geopolitical Tensions, Inflation Top List of Advisors\u2019 Market Concerns",
-        "refId": "0613717b27c9",
+        "text": "Q&amp;A: What the Spike in Treasuries Means for Real Estate Investing",
+        "refId": "d3755d5e0a9b",
         "source": "Wealth Management"
       },
       {
-        "text": "Obstacles Facing Convergence of Wealth and Retirement at Work",
-        "refId": "a0799a4ea288",
+        "text": "CFTC Proposes Registering Crypto Exchanges Offering Leverage",
+        "refId": "56eb16285a16",
         "source": "Wealth Management"
       },
       {
-        "text": "Views from 6,230: How Investors Choose Advisors",
-        "refId": "03d55c5c648f",
+        "text": "Colleges Slash Tuition Bills by $20,000 in Reckoning Over Costs",
+        "refId": "6fdffbb4579c",
         "source": "Wealth Management"
       }
     ]
@@ -53,9 +53,9 @@
         "source": "Reinsurance News"
       },
       {
-        "text": "People Moves: PhiloSmith Promotes Yazmer to Partner",
-        "refId": "d2563d203cd6",
-        "source": "Insurance Journal"
+        "text": "Phil Rosace to lead Aviva Specialty\u2019s US cyber business",
+        "refId": "3c6d4eb84977",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -63,19 +63,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Mynt valued at $7bn for upcoming IPO",
-        "refId": "78897803d886",
-        "source": "Finextra"
-      },
-      {
-        "text": "EBAday 2027 moves to Rome: Early bird registration now open",
-        "refId": "0582729dc970",
-        "source": "Finextra"
-      },
-      {
         "text": "Basware buys payment fraud prevention platform Trustpair",
         "refId": "2e890900a05a",
         "source": "Finextra"
+      },
+      {
+        "text": "South Korean president orders investigation after spate of bank data breaches",
+        "refId": "550b010675a6",
+        "source": "Finextra"
+      },
+      {
+        "text": "Four Las Vegas Casino Loans Are Masking Securitized Lodging\u2019s Cash-Flow Compression",
+        "refId": "2f9b56d1dcbe",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -113,8 +113,8 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "The bond sell-off comes for corporate America",
-        "refId": "1cc6549b9009",
+        "text": "How AI could scupper the dollar",
+        "refId": "8eea71dd0f91",
         "source": "Financial Times Markets"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "35ca483cfd8f",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "The Harness Is the Product: 6 Decisions That Turn an AI Agent Into a Worker You Can Leave Alone",
-        "refId": "8e337414118a",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Crime in Covid Times",
         "refId": "5a88b059ee01",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "China fact of the day",
+        "refId": "18e706a07600",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "What the AI boom is doing for Americans",
+        "refId": "46bf2bfe3d09",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,18 +167,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sunday assorted links",
-        "refId": "35ca483cfd8f",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "The Harness Is the Product: 6 Decisions That Turn an AI Agent Into a Worker You Can Leave Alone",
-        "refId": "8e337414118a",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Women of Influence on guiding the next generation",
         "refId": "60704e0e61a6",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Women of Influence 2026: R-Z",
+        "refId": "af77d50998a4",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Women of Influence 2026: L-P",
+        "refId": "0cef9388f8e3",
         "source": "Private Equity International"
       }
     ]
@@ -186,37 +186,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7829.21,
+      "v": 7818.93,
       "base": 7722.72,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 27653.615,
+      "v": 27599.791,
       "base": 27190.86,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51545.57,
+      "v": 51521.28,
       "base": 51176.96,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.273,
+      "v": 5.269,
       "base": 5.311,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.98,
+      "v": 15.01,
       "base": 15.52,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 170.5616,
+      "v": 170.668,
       "base": 170.69,
       "bp": false
     }
