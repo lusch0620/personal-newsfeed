@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Cocoa prices are climbing again. Here\u2019s why this time is different",
-        "refId": "668dbe86ebbe",
+        "text": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
+        "refId": "f00422c249f1",
         "source": "CNBC Finance"
       },
       {
-        "text": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-        "refId": "aeb13508b352",
-        "source": "Federal Reserve Press Releases"
+        "text": "Banks prioritize responsible AI, governance as use soars",
+        "refId": "f51b9488989f",
+        "source": "Banking Dive"
       },
       {
-        "text": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
-        "refId": "d3ba0bc6cfeb",
+        "text": "Stocks making the biggest moves premarket: Constellation Energy, Option Care Health, Lennar, P&G and more",
+        "refId": "02669dfa67d2",
         "source": "CNBC Finance"
       }
     ]
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Aspen Standard Wealth's 10th Acquisition Is for $1B Louisiana RIA",
-        "refId": "140cc2d11c0d",
+        "text": "$1.1B Hightower Naples Joins Flagship Firm The Bahnsen Group",
+        "refId": "5653351f88b6",
         "source": "Wealth Management"
       },
       {
-        "text": "Custodians, RIA Platforms Target Fidelity Clients on Heels of $100M Minimum",
-        "refId": "1656ef3bf62f",
+        "text": "You've Invested in AI. So Why Isn't it Doing the Real Work?",
+        "refId": "49ceba7e65d3",
         "source": "Wealth Management"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Four Las Vegas Casino Loans Are Masking Securitized Lodging\u2019s Cash-Flow Compression",
-        "refId": "2f9b56d1dcbe",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "Revolut eyes Philippines bank licence",
-        "refId": "c8ef37624549",
+        "text": "UK picks banks as lead managers for digital gilt pilot",
+        "refId": "b8ba542b320c",
         "source": "Finextra"
       },
       {
-        "text": "UK picks banks as lead managers for digital gilt pilot",
-        "refId": "b8ba542b320c",
+        "text": "October 2026 CMBS Hard Maturity Volume Rises as Refinance Risk Shifts to Multifamily and Hospitality",
+        "refId": "110027b240cc",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Circle, Ripple and Standard Chartered invest in OKX",
+        "refId": "f0d7ef76b1a6",
         "source": "Finextra"
       }
     ]
@@ -82,11 +82,6 @@
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "LP-backed Collective Global eyes $1bn for sophomore GP stakes fund",
-        "refId": "91e34e56d68a",
-        "source": "Buyouts Insider"
-      },
       {
         "text": "The Exit Playbook: The human key to exits",
         "refId": "e9baf496b99a",
@@ -96,17 +91,17 @@
         "text": "Why UK private and public markets need each other to succeed",
         "refId": "a877cddfbf08",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Investor Intentions: Illinois TRS seeks private equity secondaries market advisory services",
+        "refId": "27cc90000849",
+        "source": "Private Equity International"
       }
     ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "College Students Flex Their Power in A.I. Investment Frenzy",
-        "refId": "bf145dfbabbe",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "A New Open-Weight Challenger to Anthropic, Reflection, Emerges",
         "refId": "d6a85bfd3163",
@@ -116,6 +111,11 @@
         "text": "U.S. Trade Deficit Hits 17-Month High Despite Trump\u2019s Tariffs",
         "refId": "a499d8f6a961",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "IMF\u2019s Georgieva urges governments to rein in spending",
+        "refId": "05943360b937",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Key Anthropic Numbers You Need To Know Ahead Of Its IPO",
-        "refId": "2a220b1e376d",
-        "source": "Big Technology (Alex Kantrowitz)"
-      },
-      {
         "text": "Rising concentration for economics awards",
         "refId": "ff8ea5f448fd",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "The Great Accretion and the Great Depression",
         "refId": "b250f796ced7",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
+        "refId": "bcda29bb05c8",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Four Las Vegas Casino Loans Are Masking Securitized Lodging\u2019s Cash-Flow Compression",
-        "refId": "2f9b56d1dcbe",
-        "source": "Trepp Talk"
+        "text": "BofA Upgrades DraftKings as Sport Books and Prediction Markets Play Nice",
+        "refId": "6e9225cec7a7",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Cocoa prices are climbing again. Here\u2019s why this time is different",
-        "refId": "668dbe86ebbe",
-        "source": "CNBC Finance"
+        "text": "Skydance Faces One Box Office Bust After Another",
+        "refId": "6c5d247edce7",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-        "refId": "aeb13508b352",
-        "source": "Federal Reserve Press Releases"
+        "text": "GM Says Hybrid Vehicles on the Way as Asian Carmakers Capture Spiking Demand",
+        "refId": "630feb4066bb",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7801.76,
+      "v": 7801.77,
       "base": 7773.95,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 27494.332,
+      "v": 27538.691,
       "base": 27477.31,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51225.37,
+      "v": 51179.87,
       "base": 51267.9,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 15.19,
+      "v": 15.08,
       "base": 15.01,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 168.74,
+      "v": 168.734,
       "base": 170.61,
       "bp": false
     }
