@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How event contract bundles are boosting volume on prediction markets",
-        "refId": "4cce63a59a3d",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-        "refId": "8d0eb4f1de0d",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
         "refId": "8a17b51eac40",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Skyworks Si829x Isolated Safety Gate Driver Qualified and Ready for\u00a0Customer Evaluation",
+        "refId": "a7fb4c35cfe8",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "The elder statesman of trust charters makes its move",
+        "refId": "0838b4408787",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "How to Advise a Business Client With a Personal Judgment Against Them",
-        "refId": "7321d21e651c",
+        "text": "Schwab Sells Forge Trust to Self-Directed IRA Platform Alto",
+        "refId": "b80627606aa1",
         "source": "Wealth Management"
       },
       {
-        "text": "Focused on the Future: How RIA Leaders Can Prepare for Growth, Technology and AI with Stan Gregor",
-        "refId": "6c368d81972f",
+        "text": "Fidelity: $100M Custody Minimum to Impact a Few Hundred Firms",
+        "refId": "064c72a5c0ca",
         "source": "Wealth Management"
       }
     ]
@@ -42,11 +42,6 @@
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Drones Hit Yandex Site in First Major Attack on Russian Data Hub",
-        "refId": "6cb9531afbef",
-        "source": "Insurance Journal"
-      },
       {
         "text": "Canada\u2019s Weston Family and Fairfax Financial Partner to Buy UK\u2019s Boots in $8.9B Deal",
         "refId": "412a1446084c",
@@ -56,17 +51,17 @@
         "text": "So. Korean Banks Were Likely Hacked by China-Based Actor With AI Agent: CrowdStrike",
         "refId": "73632517b101",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "Sapiens launches insurance-native AI foundation powering SapiensAIP",
+        "refId": "99cea65b6fc2",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Noah raises $38m for stablecoin payments platform",
-        "refId": "f44685d57aba",
-        "source": "Finextra"
-      },
       {
         "text": "HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push",
         "refId": "15cebb91f2b3",
@@ -75,6 +70,11 @@
       {
         "text": "AI systems most at risk of cybersecurity attacks, PwC report shows",
         "refId": "af45b5f0fa0f",
+        "source": "Finextra"
+      },
+      {
+        "text": "Sibos 2026: TradFi vs DeFi, which wins and why",
+        "refId": "868f1122ce35",
         "source": "Finextra"
       }
     ]
@@ -108,14 +108,14 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "What is the real price of oil?",
-        "refId": "a740d441f459",
+        "text": "Crowding out pits sovereigns against AI",
+        "refId": "8f6a55e0f194",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Wise to pay customers\u2019 tax bills after errors",
-        "refId": "c140ae3adc82",
-        "source": "Financial Times Markets"
+        "text": "Everyone wants to catch the falling knife in the bond market",
+        "refId": "14c6fc52d358",
+        "source": "fx:macro"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Brazil election notes (from my email)",
-        "refId": "8e6c21dd965d",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Effective altruism is useful at the margin",
         "refId": "370f7d3fd992",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Why most stereotypes are negative",
         "refId": "b88d920b24dc",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "There is no \u201cIndian Question\u201d",
+        "refId": "accb5b51d9d2",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How event contract bundles are boosting volume on prediction markets",
-        "refId": "4cce63a59a3d",
-        "source": "CNBC Finance"
+        "text": "Anduril Commits $3.7 Billion to Shipyard, Wins $2.9 Billion Navy Award in Defense Tech Coup",
+        "refId": "7de3dbfc062a",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-        "refId": "8d0eb4f1de0d",
-        "source": "CNBC Finance"
+        "text": "AMD Rides Muse Hype to New Heights",
+        "refId": "3d1ae2967ba0",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Brazil election notes (from my email)",
-        "refId": "8e6c21dd965d",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "New York State Comptroller Says Wall Street Profits Could Top $90 Billion by the End of the Year",
+        "refId": "2adfb41dca40",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7749.8,
+      "v": 7765.36,
       "base": 7818.93,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 27154.31,
+      "v": 27193.34,
       "base": 27599.79,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51134.61,
+      "v": 51231.64,
       "base": 51521.28,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.239,
+      "v": 5.231,
       "base": 5.277,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.06,
+      "v": 15.41,
       "base": 15.08,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 169.1765,
+      "v": 170.0013,
       "base": 170.67,
       "bp": false
     }
