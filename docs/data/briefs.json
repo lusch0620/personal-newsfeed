@@ -43,30 +43,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Weather Damage Turning Into Long-Term Debt for Homeowners: Report",
-        "refId": "1fdc5057e492",
-        "source": "Insurance Journal"
+        "text": "Ledgebrook secures $200m equity financing, gets multi-year Allianz reinsurance",
+        "refId": "b9a2c26193b5",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Gulf Coast on Alert for First Hurricane of 2026",
-        "refId": "a182ba5d9c47",
-        "source": "Insurance Journal"
+        "text": "Fully autonomous AI expected within three years, newly launched Sapiens index reveals",
+        "refId": "efab427b1d6b",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Volkswagen Sets Aside \u00a3725 Million for UK Car Finance Payout",
-        "refId": "2f7ce757d97c",
-        "source": "Insurance Journal"
+        "text": "Nationwide and Ryan Re target thoughtful specialty reinsurance growth",
+        "refId": "45193316fef5",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "UK picks banks as lead managers for digital gilt pilot",
-        "refId": "b8ba542b320c",
-        "source": "Finextra"
-      },
       {
         "text": "October 2026 CMBS Hard Maturity Volume Rises as Refinance Risk Shifts to Multifamily and Hospitality",
         "refId": "110027b240cc",
@@ -76,17 +71,17 @@
         "text": "Circle, Ripple and Standard Chartered invest in OKX",
         "refId": "f0d7ef76b1a6",
         "source": "Finextra"
+      },
+      {
+        "text": "Plaid launches credit, fraud and payment risk AI models",
+        "refId": "20ac134fff81",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "The Exit Playbook: The human key to exits",
-        "refId": "e9baf496b99a",
-        "source": "Private Equity International"
-      },
       {
         "text": "Why UK private and public markets need each other to succeed",
         "refId": "a877cddfbf08",
@@ -95,6 +90,11 @@
       {
         "text": "Investor Intentions: Illinois TRS seeks private equity secondaries market advisory services",
         "refId": "27cc90000849",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Lender, not owner: NYC pension leans into credit amid PE slump",
+        "refId": "a2968c307146",
         "source": "Private Equity International"
       }
     ]
@@ -113,9 +113,9 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "IMF\u2019s Georgieva urges governments to rein in spending",
-        "refId": "05943360b937",
-        "source": "Financial Times Markets"
+        "text": "Sign Up for DealBook",
+        "refId": "c7eece17793a",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "BofA Upgrades DraftKings as Sport Books and Prediction Markets Play Nice",
-        "refId": "6e9225cec7a7",
+        "text": "Anduril Commits $3.7 Billion to Shipyard, Wins $2.9 Billion Navy Award in Defense Tech Coup",
+        "refId": "7de3dbfc062a",
         "source": "The Daily Upside"
       },
       {
-        "text": "Skydance Faces One Box Office Bust After Another",
-        "refId": "6c5d247edce7",
+        "text": "AMD Rides Muse Hype to New Heights",
+        "refId": "3d1ae2967ba0",
         "source": "The Daily Upside"
       },
       {
-        "text": "GM Says Hybrid Vehicles on the Way as Asian Carmakers Capture Spiking Demand",
-        "refId": "630feb4066bb",
+        "text": "New York State Comptroller Says Wall Street Profits Could Top $90 Billion by the End of the Year",
+        "refId": "2adfb41dca40",
         "source": "The Daily Upside"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Rising concentration for economics awards",
-        "refId": "ff8ea5f448fd",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "The Great Accretion and the Great Depression",
         "refId": "b250f796ced7",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
         "refId": "bcda29bb05c8",
         "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "Paul Graham Versus the Pope",
+        "refId": "fe74b84176da",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "BofA Upgrades DraftKings as Sport Books and Prediction Markets Play Nice",
-        "refId": "6e9225cec7a7",
-        "source": "The Daily Upside"
+        "text": "The Great Accretion and the Great Depression",
+        "refId": "b250f796ced7",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Skydance Faces One Box Office Bust After Another",
-        "refId": "6c5d247edce7",
-        "source": "The Daily Upside"
+        "text": "Why UK private and public markets need each other to succeed",
+        "refId": "a877cddfbf08",
+        "source": "Private Equity International"
       },
       {
-        "text": "GM Says Hybrid Vehicles on the Way as Asian Carmakers Capture Spiking Demand",
-        "refId": "630feb4066bb",
-        "source": "The Daily Upside"
+        "text": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
+        "refId": "f00422c249f1",
+        "source": "CNBC Finance"
       }
     ]
   },
