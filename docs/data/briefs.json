@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Skyworks Si829x Isolated Safety Gate Driver Qualified and Ready for\u00a0Customer Evaluation",
-        "refId": "a7fb4c35cfe8",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+        "refId": "b41a41921ee8",
+        "source": "Federal Reserve Press Releases"
       },
       {
-        "text": "The elder statesman of trust charters makes its move",
-        "refId": "0838b4408787",
-        "source": "Banking Dive"
+        "text": "Fed officials see another hike coming, but no sign as to when, minutes show",
+        "refId": "b58072cb9562",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Stocks making the biggest moves premarket: Constellation Brands, Flutter Entertainment, Neogen & more",
-        "refId": "c1483788ffa1",
+        "text": "Huawei doubles down on smartphones as EV sales slow",
+        "refId": "ab44db627356",
         "source": "CNBC Finance"
       }
     ]
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Schwab is opening its SMA marketplace to a Houston start-up's 'cash' option that lets advisors chase 7.5% yields on FDIC-insured cash -- with a few wrinkles",
-        "refId": "c0618238be73",
-        "source": "RIABiz"
-      },
-      {
-        "text": "Schwab Sells Forge Trust to Self-Directed IRA Platform Alto",
-        "refId": "b80627606aa1",
+        "text": "Four Practices Bring $1B to Ascentis Independent From Raymond James",
+        "refId": "33810620b417",
         "source": "Wealth Management"
       },
       {
-        "text": "Fidelity: $100M Custody Minimum to Impact a Few Hundred Firms",
-        "refId": "064c72a5c0ca",
+        "text": "Wirehouses Lost 517 Advisors in First Half of 2026",
+        "refId": "e131b5c76e6a",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "The Diamond Podcast for Financial Advisors: The Wirehouse Talent Battle",
+        "refId": "13d58c84bcec",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Canadian insurers Intact and Definity release cat loss estimates for Q3\u201926",
-        "refId": "4cff1c346bfe",
-        "source": "Reinsurance News"
+        "text": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says",
+        "refId": "e465c58905f8",
+        "source": "Insurance Journal"
       },
       {
-        "text": "AM Best reports continued strength among Sub-Saharan African reinsurers",
-        "refId": "2c700938801d",
-        "source": "Reinsurance News"
+        "text": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face",
+        "refId": "8ebeac4dda21",
+        "source": "Insurance Journal"
       },
       {
-        "text": "Florida Cybersecurity Firm Head Charged With Scamming Victimized Businesses",
-        "refId": "ac932df798c8",
+        "text": "The Part of the Underwriting Workflow Where a $300,000 Mistake Hides",
+        "refId": "602b039c76f9",
         "source": "Insurance Journal"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push",
-        "refId": "15cebb91f2b3",
+        "text": "CRE Prices Stabilize, but Recovery Remains Uneven: TPPI Q2 2026",
+        "refId": "e83e41b6665c",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "Wise to pay clients' tax bills after third-party software error",
+        "refId": "22b2275716f5",
         "source": "Finextra"
       },
       {
-        "text": "AI systems most at risk of cybersecurity attacks, PwC report shows",
-        "refId": "af45b5f0fa0f",
-        "source": "Finextra"
-      },
-      {
-        "text": "Sibos 2026: TradFi vs DeFi, which wins and why",
-        "refId": "868f1122ce35",
+        "text": "Standard Chartered extends digital asset custody to Singapore",
+        "refId": "c19404e15f5d",
         "source": "Finextra"
       }
     ]
@@ -83,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "LGPS Central partner funds commit an additional \u00a32bn to private markets",
-        "refId": "1629b5e0ea9b",
+        "text": "PennSERS lowers PE target due to lack of \u2018options\u2019 in current market",
+        "refId": "435782b3f156",
+        "source": "Buyouts Insider"
+      },
+      {
+        "text": "Inside PEI Group\u2019s inaugural Private Markets 100 ranking",
+        "refId": "fbd2d6d0492f",
         "source": "Private Equity International"
       },
       {
-        "text": "Boka targets $300m for third defence fund",
-        "refId": "4e54d7a0cad0",
-        "source": "Private Equity International"
-      },
-      {
-        "text": "Side Letter: Fundraising sneak peek",
-        "refId": "ad277abd9c50",
+        "text": "Side Letter: Riders on the storm",
+        "refId": "af1b3083239f",
         "source": "Private Equity International"
       }
     ]
@@ -102,11 +102,6 @@
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Why Markets Are Buoyant \u2014 and Under Pressure",
-        "refId": "4e94de0d3aab",
-        "source": "Dealbook (NYT)"
-      },
       {
         "text": "Everyone wants to catch the falling knife in the bond market",
         "refId": "14c6fc52d358",
@@ -116,6 +111,11 @@
         "text": "The Little-Noticed Exception in Trump Accounts",
         "refId": "67801f0f5c09",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Crypto companies linked to Trump-backed firm in $141mn legal battle",
+        "refId": "952324e65621",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Why most stereotypes are negative",
-        "refId": "b88d920b24dc",
+        "text": "Wednesday assorted links",
+        "refId": "2ae6618005f7",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "There is no \u201cIndian Question\u201d",
-        "refId": "accb5b51d9d2",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Build Your Own Stock Analyst With ChatGPT and Instinct",
+        "refId": "781149aa5cfa",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
-        "refId": "1a79caeb0667",
-        "source": "Stratechery (Ben Thompson)"
+        "text": "What I\u2019ve been reading",
+        "refId": "c5f4133bb453",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Why most stereotypes are negative",
-        "refId": "b88d920b24dc",
+        "text": "Wednesday assorted links",
+        "refId": "2ae6618005f7",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "LGPS Central partner funds commit an additional \u00a32bn to private markets",
-        "refId": "1629b5e0ea9b",
-        "source": "Private Equity International"
+        "text": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+        "refId": "b41a41921ee8",
+        "source": "Federal Reserve Press Releases"
       },
       {
-        "text": "Schwab is opening its SMA marketplace to a Houston start-up's 'cash' option that lets advisors chase 7.5% yields on FDIC-insured cash -- with a few wrinkles",
-        "refId": "c0618238be73",
-        "source": "RIABiz"
+        "text": "CRE Prices Stabilize, but Recovery Remains Uneven: TPPI Q2 2026",
+        "refId": "e83e41b6665c",
+        "source": "Trepp Talk"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7765.36,
-      "base": 7818.93,
+      "v": 7806.17,
+      "base": 7801.77,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 27193.34,
-      "base": 27599.79,
+      "v": 27335.46,
+      "base": 27538.69,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51231.64,
-      "base": 51521.28,
+      "v": 51608.91,
+      "base": 51179.87,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.231,
-      "base": 5.277,
+      "v": 5.244,
+      "base": 5.231,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.41,
-      "base": 15.08,
+      "v": 14.86,
+      "base": 15.41,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 170.0013,
-      "base": 170.67,
+      "v": 170.3405,
+      "base": 168.73,
       "bp": false
     }
   ]
