@@ -2301,7 +2301,7 @@
     "source": "Financial Times Markets",
     "section": "Markets & Macro",
     "date": "2026-10-09T18:38:06+00:00",
-    "summary_raw": "First Atlantic hurricane of the season headed towards Florida, Alabama, Georgia and Mississippi",
+    "summary_raw": "First major Atlantic storm of the season threatens Florida, Alabama, Georgia and Mississippi",
     "summary_ai": {
       "digest": "Oil and gas production disrupted as Hurricane Isaias barrels towards Gulf",
       "summary_long": "",
@@ -2321,40 +2321,6 @@
     "summary_raw": "These are some of the stocks posting the largest moves midday.",
     "summary_ai": {
       "digest": "Stocks making the biggest moves midday: T-Mobile, Verizon, AT&T, Crown Castle, Teva & more",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "456048e6064c",
-    "title": "Here\u2019s how Treasury yields could rise to 6% \u2014 even without market upheaval",
-    "url": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-10-09T20:03:00+00:00",
-    "summary_raw": "The bond market will be closed on Monday for Columbus Day, but the stock market will operate normally.",
-    "summary_ai": {
-      "digest": "Here\u2019s how Treasury yields could rise to 6% \u2014 even without market upheaval",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "f24353bce9bc",
-    "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-    "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-10-09T20:15:00+00:00",
-    "summary_raw": "\u201cThe house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.\u201d",
-    "summary_ai": {
-      "digest": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2406,23 +2372,6 @@
     "summary_raw": "Telecommunications stocks saw their worst daily drops in over a decade.",
     "summary_ai": {
       "digest": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "613a2175cd43",
-    "title": "\u2018I feel like a loser\u2019: I check my ETFs every day. They\u2019re up one minute, down the next. Should I be worried?",
-    "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-10-09T21:15:00+00:00",
-    "summary_raw": "\u201cI presume these are sophisticated investors taking a profit.\u201d",
-    "summary_ai": {
-      "digest": "\u2018I feel like a loser\u2019: I check my ETFs every day. They\u2019re up one minute, down the next. Should I be worried?",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2542,6 +2491,74 @@
     "summary_raw": "Unlike the stock market, whose future returns are anything but assured, a TIPS ladder\u2019s payout is guaranteed.",
     "summary_ai": {
       "digest": "How to provide guaranteed retirement income while paying no commissions",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "fb3075711a2c",
+    "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+    "url": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-10-09T23:15:00+00:00",
+    "summary_raw": "\u201cBoth properties will be solely in his name.\u201d",
+    "summary_ai": {
+      "digest": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "613a2175cd43",
+    "title": "\u2018I feel like a loser\u2019: I check my ETFs every day. They\u2019re up one minute, down the next. Should I be worried?",
+    "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-10-10T00:00:00+00:00",
+    "summary_raw": "\u201cI presume these are sophisticated investors taking a profit.\u201d",
+    "summary_ai": {
+      "digest": "\u2018I feel like a loser\u2019: I check my ETFs every day. They\u2019re up one minute, down the next. Should I be worried?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "f24353bce9bc",
+    "title": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+    "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-10-10T00:15:00+00:00",
+    "summary_raw": "\u201cThe house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.\u201d",
+    "summary_ai": {
+      "digest": "\u2018I have no children\u2019: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "13cec865c753",
+    "title": "Pershing reveal of 'Wove' kerfuffle during corporate restructuring last June raises questions about the No. 3 RIA custodian's direction; the task now lies with new RIA head Adam Vos",
+    "url": "https://riabiz.com/a/2026/10/10/pershing-reveal-of-wove-kerfuffle-during-corporate-restructuring-last-june-raises-questions-about-the-no-3-ria-custodians-direction-the-task-now-lies-with-new-ria-head-adam-vos",
+    "source": "RIABiz",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-10-10T01:13:19+00:00",
+    "summary_raw": "Ainslee Simmonds is out, and 'Wove' with her, as the unit attempts re-set and new platform under BNY insert Adam Vos",
+    "summary_ai": {
+      "digest": "Pershing reveal of 'Wove' kerfuffle during corporate restructuring last June raises questions about the No. 3 RIA custodian's direction; the task now lies with new RIA head Adam Vos",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
