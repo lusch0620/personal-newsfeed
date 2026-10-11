@@ -1,100 +1,53 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
       {
-        "text": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
-        "refId": "782be49d58db",
+        "text": "Stocks making the biggest moves midday: T-Mobile, Verizon, AT&T, Crown Castle, Teva & more",
+        "refId": "5e92fd9388b4",
         "source": "CNBC Finance"
       },
       {
-        "text": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
-        "refId": "b1d3618b947e",
+        "text": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+        "refId": "3e09605932d4",
         "source": "CNBC Finance"
       },
       {
-        "text": "Stocks making the biggest moves premarket: Delta Air Lines, SpaceX, T-Mobile, Humana & more",
-        "refId": "71a47fff02bc",
+        "text": "This Chinese memory chip maker has global potential and is poised to outperform",
+        "refId": "526ecd45bd3e",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Deals &amp; Moves: The Mather Group, AlphaCore Snag $400M RIAs",
-        "refId": "88e1b37e79c3",
+        "text": "When a Family Has Several Advisors",
+        "refId": "7dac3f08c8e9",
         "source": "Wealth Management"
       },
       {
-        "text": "RIA Edge 100: Pathstone\u2019s Unusual Growth Engine Includes Skiing, Fly Fishing Trips",
-        "refId": "ae5a583491e8",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Advisor Sentiment Index: Market Optimism Slides Downward",
-        "refId": "790c7bcf115c",
-        "source": "Wealth Management"
+        "text": "Pershing reveal of 'Wove' kerfuffle during corporate restructuring last June raises questions about the No. 3 RIA custodian's direction; the task now lies with new RIA head Adam Vos",
+        "refId": "13cec865c753",
+        "source": "RIABiz"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "AI Bubble Risks Worst S&P 500 Crash Since 2008, Strategist Says",
-        "refId": "e465c58905f8",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face",
-        "refId": "8ebeac4dda21",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "The Part of the Underwriting Workflow Where a $300,000 Mistake Hides",
-        "refId": "602b039c76f9",
-        "source": "Insurance Journal"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "DailyPay competes $200m securitisation",
-        "refId": "4cf846aa2407",
-        "source": "Finextra"
-      },
-      {
-        "text": "Nivo launches AI assistant for lending",
-        "refId": "791d2079f163",
-        "source": "Finextra"
-      },
-      {
-        "text": "Amex hit with $350m penalty for AML deficiencies",
-        "refId": "708ed4df2486",
-        "source": "Finextra"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Ambienta adds 23 hires, including three partners, across European offices",
-        "refId": "7c75d5ff8f3e",
-        "source": "PE Hub"
-      },
-      {
-        "text": "Private equity circles equipment providers amid growing surgical demand: 6 deals",
-        "refId": "cc643659cc0d",
-        "source": "PE Hub"
-      },
-      {
-        "text": "TA Associates signs Rocscience exit to Hexagon at $535m enterprise value",
-        "refId": "3eaea54fe1fa",
+        "text": "Stone Point-backed Alliant picks up New Hampshire insurance broker Melcher & Prescott",
+        "refId": "6ec01abca35e",
         "source": "PE Hub"
       }
     ]
@@ -103,39 +56,39 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Former Deutsche Bank star trader has rate-rigging conviction quashed",
-        "refId": "498d39314f93",
-        "source": "Financial Times Markets"
+        "text": "Macro Trades: Rates, Energy, and AI Capex Rotations",
+        "refId": "0ea9c9f7d2f6",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "The Fallout From OpenAI\u2019s Revenue Surprise",
-        "refId": "9b801f94c798",
-        "source": "Dealbook (NYT)"
+        "text": "Oil Context Weekly (W41)",
+        "refId": "6f5621ba6760",
+        "source": "Commodity Context"
       },
       {
-        "text": "The ECB will sit on the sidelines during France\u2019s debt sell-off",
-        "refId": "ac85c15593b1",
-        "source": "Financial Times Markets"
+        "text": "Found: America\u2019s Missing Interest Income",
+        "refId": "9eefc414c3a0",
+        "source": "The Overshoot (Matthew Klein)"
       }
     ]
   },
   "Newsletters": {
-    "lede": "5 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
       {
-        "text": "After Headline-Making Losses in 2022, Tiger Global Touts a $5 Billion Windfall on an OpenAI Bet",
-        "refId": "9f47cd67e57a",
+        "text": "Rise of the Machines? Not So Fast for Financial Advisory Jobs",
+        "refId": "8a788e04037a",
         "source": "The Daily Upside"
       },
       {
-        "text": "Palantir\u2019s Poised to Win in the Sovereign AI Era, Goldman Says",
-        "refId": "080ba23da45b",
+        "text": "Quantum is Poised for a Commercial Leap, Investors Have Noticed",
+        "refId": "1e52d4f3c468",
         "source": "The Daily Upside"
       },
       {
-        "text": "Consumer Sentiment in the Spotlight as Michigan Survey Set for Release",
-        "refId": "2599abb96f84",
-        "source": "The Daily Upside"
+        "text": "When Saturday Comes",
+        "refId": "cce8653a728b",
+        "source": "Net Interest (Marc Rubinstein)"
       }
     ]
   },
@@ -147,19 +100,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "On *Stubborn Attachments* and religion (from my email)",
-        "refId": "80646733efac",
+        "text": "California in-migration and out-migration",
+        "refId": "e32667bc0c16",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "A Sentiment Analysis of Cowen, Hanson, Caplan, and Krugman",
-        "refId": "b9681394f238",
+        "text": "Earth facts of the day",
+        "refId": "8466a925eb78",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Maybe the Rapture is already here",
-        "refId": "b33e471af481",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Reading List 10/10/26",
+        "refId": "e5883c092656",
+        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
@@ -167,19 +120,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "After Headline-Making Losses in 2022, Tiger Global Touts a $5 Billion Windfall on an OpenAI Bet",
-        "refId": "9f47cd67e57a",
-        "source": "The Daily Upside"
+        "text": "Stone Point-backed Alliant picks up New Hampshire insurance broker Melcher & Prescott",
+        "refId": "6ec01abca35e",
+        "source": "PE Hub"
       },
       {
-        "text": "Palantir\u2019s Poised to Win in the Sovereign AI Era, Goldman Says",
-        "refId": "080ba23da45b",
-        "source": "The Daily Upside"
+        "text": "Macro Trades: Rates, Energy, and AI Capex Rotations",
+        "refId": "0ea9c9f7d2f6",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Consumer Sentiment in the Spotlight as Michigan Survey Set for Release",
-        "refId": "2599abb96f84",
-        "source": "The Daily Upside"
+        "text": "When a Family Has Several Advisors",
+        "refId": "7dac3f08c8e9",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -216,7 +169,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 170.6478,
+      "v": 170.648,
       "base": 168.73,
       "bp": false
     }
