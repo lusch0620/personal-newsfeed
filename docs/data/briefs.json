@@ -15,25 +15,35 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Pershing reveal of 'Wove' kerfuffle during corporate restructuring last June raises questions about the No. 3 RIA custodian's direction; the task now lies with new RIA head Adam Vos",
-        "refId": "13cec865c753",
-        "source": "RIABiz"
-      }
-    ]
-  },
-  "FIG \u2014 Insurance": {
     "lede": "No stories in this lane today.",
     "bullets": []
   },
+  "FIG \u2014 Insurance": {
+    "lede": "2 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Jensten names Jaime Swindle as CEO of Product & Distribution",
+        "refId": "20df1f9eb0bd",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "AM Best keeps stable outlook for Indonesia\u2019s non-life insurance sector",
+        "refId": "1943429a3dab",
+        "source": "Reinsurance News"
+      }
+    ]
+  },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
         "text": "SBI Group and Mesh prep digital asset JV",
         "refId": "ab6f73f97aeb",
+        "source": "Finextra"
+      },
+      {
+        "text": "FIS launches agentic AI suite for the office of the CFO",
+        "refId": "ae513ebc1a93",
         "source": "Finextra"
       }
     ]
@@ -46,24 +56,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Manchester City scandal pushes BDO and UK audit regime into spotlight",
-        "refId": "734e166915f5",
-        "source": "Financial Times Markets"
+        "text": "What\u2019s Dragging Down A.I. Efficiency? The \u2018Verification Tax.\u2019",
+        "refId": "881d4a4deee7",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Slowing deals are another flashing red sign for equity markets",
-        "refId": "bf38bfbd6c8b",
-        "source": "Financial Times Markets"
+        "text": "Sign Up for DealBook",
+        "refId": "c7eece17793a",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "The world of one trade \u2014 AI",
-        "refId": "4bdd6d32ee65",
-        "source": "Financial Times Markets"
+        "text": "Should I put my nest egg in a 30-year Treasury bond?",
+        "refId": "afc1a9fbfe95",
+        "source": "MarketWatch"
       }
     ]
   },
   "Newsletters": {
-    "lede": "3 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Rise of the Machines? Not So Fast for Financial Advisory Jobs",
@@ -76,9 +86,9 @@
         "source": "The Daily Upside"
       },
       {
-        "text": "When Saturday Comes",
-        "refId": "cce8653a728b",
-        "source": "Net Interest (Marc Rubinstein)"
+        "text": "Finfluencers Sell Expensive Advice, Often Without the Finance Chops to Back It Up",
+        "refId": "c39526fb1f49",
+        "source": "The Daily Upside"
       }
     ]
   },
@@ -90,11 +100,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "California in-migration and out-migration",
-        "refId": "e32667bc0c16",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Earth facts of the day",
         "refId": "8466a925eb78",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -103,6 +108,11 @@
         "text": "Reading List 10/10/26",
         "refId": "e5883c092656",
         "source": "Construction Physics (Brian Potter)"
+      },
+      {
+        "text": "Saturday assorted links",
+        "refId": "20eef08424e9",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -110,19 +120,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Pershing reveal of 'Wove' kerfuffle during corporate restructuring last June raises questions about the No. 3 RIA custodian's direction; the task now lies with new RIA head Adam Vos",
-        "refId": "13cec865c753",
-        "source": "RIABiz"
+        "text": "Earth facts of the day",
+        "refId": "8466a925eb78",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Manchester City scandal pushes BDO and UK audit regime into spotlight",
-        "refId": "734e166915f5",
-        "source": "Financial Times Markets"
+        "text": "What\u2019s Dragging Down A.I. Efficiency? The \u2018Verification Tax.\u2019",
+        "refId": "881d4a4deee7",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Slowing deals are another flashing red sign for equity markets",
-        "refId": "bf38bfbd6c8b",
-        "source": "Financial Times Markets"
+        "text": "Sign Up for DealBook",
+        "refId": "c7eece17793a",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
