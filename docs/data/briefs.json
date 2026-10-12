@@ -1,12 +1,7 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "3 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Stocks making the biggest moves midday: T-Mobile, Verizon, AT&T, Crown Castle, Teva & more",
-        "refId": "5e92fd9388b4",
-        "source": "CNBC Finance"
-      },
       {
         "text": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
         "refId": "3e09605932d4",
@@ -20,13 +15,8 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
-      {
-        "text": "When a Family Has Several Advisors",
-        "refId": "7dac3f08c8e9",
-        "source": "Wealth Management"
-      },
       {
         "text": "Pershing reveal of 'Wove' kerfuffle during corporate restructuring last June raises questions about the No. 3 RIA custodian's direction; the task now lies with new RIA head Adam Vos",
         "refId": "13cec865c753",
@@ -39,36 +29,36 @@
     "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
-  },
-  "PE & Deals": {
     "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Stone Point-backed Alliant picks up New Hampshire insurance broker Melcher & Prescott",
-        "refId": "6ec01abca35e",
-        "source": "PE Hub"
+        "text": "SBI Group and Mesh prep digital asset JV",
+        "refId": "ab6f73f97aeb",
+        "source": "Finextra"
       }
     ]
+  },
+  "PE & Deals": {
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Macro Trades: Rates, Energy, and AI Capex Rotations",
-        "refId": "0ea9c9f7d2f6",
-        "source": "Capital Flows Research"
+        "text": "Manchester City scandal pushes BDO and UK audit regime into spotlight",
+        "refId": "734e166915f5",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Oil Context Weekly (W41)",
-        "refId": "6f5621ba6760",
-        "source": "Commodity Context"
+        "text": "Slowing deals are another flashing red sign for equity markets",
+        "refId": "bf38bfbd6c8b",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Found: America\u2019s Missing Interest Income",
-        "refId": "9eefc414c3a0",
-        "source": "The Overshoot (Matthew Klein)"
+        "text": "The world of one trade \u2014 AI",
+        "refId": "4bdd6d32ee65",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -120,19 +110,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stone Point-backed Alliant picks up New Hampshire insurance broker Melcher & Prescott",
-        "refId": "6ec01abca35e",
-        "source": "PE Hub"
+        "text": "Pershing reveal of 'Wove' kerfuffle during corporate restructuring last June raises questions about the No. 3 RIA custodian's direction; the task now lies with new RIA head Adam Vos",
+        "refId": "13cec865c753",
+        "source": "RIABiz"
       },
       {
-        "text": "Macro Trades: Rates, Energy, and AI Capex Rotations",
-        "refId": "0ea9c9f7d2f6",
-        "source": "Capital Flows Research"
+        "text": "Manchester City scandal pushes BDO and UK audit regime into spotlight",
+        "refId": "734e166915f5",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "When a Family Has Several Advisors",
-        "refId": "7dac3f08c8e9",
-        "source": "Wealth Management"
+        "text": "Slowing deals are another flashing red sign for equity markets",
+        "refId": "bf38bfbd6c8b",
+        "source": "Financial Times Markets"
       }
     ]
   },
