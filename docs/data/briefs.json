@@ -1,40 +1,66 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
-        "refId": "3e09605932d4",
-        "source": "CNBC Finance"
-      },
       {
         "text": "This Chinese memory chip maker has global potential and is poised to outperform",
         "refId": "526ecd45bd3e",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "In AI-era banking, trust has a new enforcer\u2014the network",
+        "refId": "328e0e66fde3",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "The rate turn just put 2 years of margin recovery back in play",
+        "refId": "548a212a2e7b",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
-  },
-  "FIG \u2014 Insurance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "Jensten names Jaime Swindle as CEO of Product & Distribution",
-        "refId": "20df1f9eb0bd",
+        "text": "Prime Capital: Private Equity-Backed But Advisor-Controlled",
+        "refId": "c1dc45e5be57",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Goldman\u2019s $2.3 Billion Deal Puts Tax-Smart ETFs Under Scrutiny",
+        "refId": "91d6230e1369",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Wealth Management Invest: Opportunities Beyond Large Cap Stocks with BNY\u2019s Alicia Levine",
+        "refId": "faec6e815788",
+        "source": "Wealth Management"
+      }
+    ]
+  },
+  "FIG \u2014 Insurance": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Walker to lead Markel Insurance\u2019s newly launched Chemical, Oil & Gas related Energy Property offering",
+        "refId": "0c448785cb09",
         "source": "Reinsurance News"
       },
       {
-        "text": "AM Best keeps stable outlook for Indonesia\u2019s non-life insurance sector",
-        "refId": "1943429a3dab",
+        "text": "Gallagher Re appoints Madhavi Gopinathan and Joy Ramirez to facultative team",
+        "refId": "e796878f3371",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "NEXROC announces intention to acquire US and Australian insurance companies",
+        "refId": "4bd764f8679a",
         "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "SBI Group and Mesh prep digital asset JV",
@@ -45,30 +71,51 @@
         "text": "FIS launches agentic AI suite for the office of the CFO",
         "refId": "ae513ebc1a93",
         "source": "Finextra"
+      },
+      {
+        "text": "Kudo launches instant crypto withdrawals",
+        "refId": "84fa1e10ef5e",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "AusSuper: US-Asia returns gap \u2018might start to narrow\u2019",
+        "refId": "9783f12c3f83",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Adelis, Aspirity bet on Nordic businesses; Ambienta, Omni Partners feature in new hire round up",
+        "refId": "eaaa501aac1b",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Orlando Bravo: BlueMatrix \u2018will become the standard\u2019 for investment research after Aiera add-on",
+        "refId": "6c5e78b85aa1",
+        "source": "PE Hub"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What\u2019s Dragging Down A.I. Efficiency? The \u2018Verification Tax.\u2019",
-        "refId": "881d4a4deee7",
-        "source": "Dealbook (NYT)"
+        "text": "The stock market \u2260 the economy \u270b",
+        "refId": "e73c087e7f52",
+        "source": "TKer (Sam Ro)"
       },
       {
-        "text": "Sign Up for DealBook",
-        "refId": "c7eece17793a",
-        "source": "Dealbook (NYT)"
+        "text": "The Volatility No One Escapes - Sovereign Debt Crisis",
+        "refId": "59df092f4f74",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Should I put my nest egg in a 30-year Treasury bond?",
-        "refId": "afc1a9fbfe95",
-        "source": "MarketWatch"
+        "text": "Can Russia meet Trump\u2019s diesel demands?",
+        "refId": "3c712be1d3b6",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -100,18 +147,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Earth facts of the day",
-        "refId": "8466a925eb78",
+        "text": "The economics of agents",
+        "refId": "1b73eff0a6f7",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Reading List 10/10/26",
-        "refId": "e5883c092656",
-        "source": "Construction Physics (Brian Potter)"
+        "text": "Why Donald Trump won in 2024",
+        "refId": "0db9fd1be1e1",
+        "source": "Noahpinion (Noah Smith)"
       },
       {
-        "text": "Saturday assorted links",
-        "refId": "20eef08424e9",
+        "text": "What should I ask Fuchsia Dunlop?",
+        "refId": "54834a5408cb",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -120,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Earth facts of the day",
-        "refId": "8466a925eb78",
+        "text": "The economics of agents",
+        "refId": "1b73eff0a6f7",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "What\u2019s Dragging Down A.I. Efficiency? The \u2018Verification Tax.\u2019",
-        "refId": "881d4a4deee7",
-        "source": "Dealbook (NYT)"
+        "text": "Why Donald Trump won in 2024",
+        "refId": "0db9fd1be1e1",
+        "source": "Noahpinion (Noah Smith)"
       },
       {
-        "text": "Sign Up for DealBook",
-        "refId": "c7eece17793a",
-        "source": "Dealbook (NYT)"
+        "text": "What should I ask Fuchsia Dunlop?",
+        "refId": "54834a5408cb",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7811.54,
-      "base": 7801.77,
+      "v": 7807.21,
+      "base": 7765.36,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 27366.17,
-      "base": 27538.69,
+      "v": 27245.902,
+      "base": 27193.34,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51654.95,
-      "base": 51179.87,
+      "v": 51850.55,
+      "base": 51231.64,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.244,
-      "base": 5.231,
+      "v": 5.24,
+      "base": 5.244,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 14.84,
-      "base": 15.41,
+      "v": 15.24,
+      "base": 14.84,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 170.648,
-      "base": 168.73,
+      "v": 171.4122,
+      "base": 170.0,
       "bp": false
     }
   ]
