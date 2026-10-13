@@ -53,9 +53,9 @@
         "source": "Reinsurance News"
       },
       {
-        "text": "Hackers Heat French Supermarket Fridges, Sparking Fires and Spoiling Food",
-        "refId": "963fd3da2278",
-        "source": "Insurance Journal"
+        "text": "Pacific Life Re executes structured reinsurance capital solutions transaction in Japan",
+        "refId": "2b9ab040c02d",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -108,13 +108,13 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Biotech start-ups turn to reverse mergers to fast-track listings",
-        "refId": "5feac2da9669",
+        "text": "China gets spiky on currencies",
+        "refId": "7bb5ef20a7b9",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Investors brave US Treasury rout to lock in highest yields in decades",
-        "refId": "95261b514753",
+        "text": "BP to set out new strategy after windfall year",
+        "refId": "e6105d7c2994",
         "source": "Financial Times Markets"
       }
     ]
@@ -186,37 +186,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7795.99,
+      "v": 7805.45,
       "base": 7811.54,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 27173.28,
+      "v": 27204.38,
       "base": 27366.17,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51607.73,
+      "v": 51670.1,
       "base": 51654.95,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.219,
+      "v": 5.217,
       "base": 5.24,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.48,
+      "v": 15.27,
       "base": 15.21,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 169.1379,
+      "v": 169.0157,
       "base": 170.65,
       "bp": false
     }
