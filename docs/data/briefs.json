@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Growing reinsurance capital supply is good news as systemic risks increase: Swiss Re",
-        "refId": "141808913919",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Liberty Mutual Re completes parametric payout to Mexico following July earthquake",
-        "refId": "26036a52230d",
-        "source": "Reinsurance News"
-      },
-      {
         "text": "Pacific Life Re executes structured reinsurance capital solutions transaction in Japan",
         "refId": "2b9ab040c02d",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Berman appointed as Marsh Re\u2019s Head of Advisory for North America",
+        "refId": "dbe95a895455",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Flood Re sets out plans for UK-wide flood resilience information platform",
+        "refId": "03237c12e715",
         "source": "Reinsurance News"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "SBI Group and Mesh prep digital asset JV",
-        "refId": "ab6f73f97aeb",
-        "source": "Finextra"
-      },
-      {
-        "text": "FIS launches agentic AI suite for the office of the CFO",
-        "refId": "ae513ebc1a93",
-        "source": "Finextra"
-      },
-      {
         "text": "Pepkor's $1.3bn fintech deal comes under shareholder scrutiny",
         "refId": "7f7f16e7a848",
+        "source": "Finextra"
+      },
+      {
+        "text": "Bahrain central bank to treble tech budget",
+        "refId": "2fcde84d2a5a",
+        "source": "Finextra"
+      },
+      {
+        "text": "N26 appoints chief financial officer",
+        "refId": "0115215d5c74",
         "source": "Finextra"
       }
     ]
@@ -108,13 +108,13 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "China gets spiky on currencies",
-        "refId": "7bb5ef20a7b9",
+        "text": "UK chances of keeping \u00a33.8bn bitcoin haul rise after High Court ruling",
+        "refId": "1e1ec0b10181",
         "source": "Financial Times Markets"
       },
       {
-        "text": "BP to set out new strategy after windfall year",
-        "refId": "e6105d7c2994",
+        "text": "Can energy help Mexico in trade talks with Trump?",
+        "refId": "13c32468ecf3",
         "source": "Financial Times Markets"
       }
     ]
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Finfluencers Sell Expensive Advice, Often Without the Finance Chops to Back It Up",
-        "refId": "c39526fb1f49",
+        "text": "IMF Warns of AI \u2018Tsunami\u2019 That Will Wash Away Jobs, Tax Revenue",
+        "refId": "d3bac53e5856",
         "source": "The Daily Upside"
       },
       {
-        "text": "Reflection Wants to Deliver America\u2019s Most Powerful Open-Weight AI",
-        "refId": "33c78e5f9d26",
+        "text": "Big Telcos Are a Distant Galaxy for SpaceX",
+        "refId": "94cc0e20fa1e",
         "source": "The Daily Upside"
       },
       {
-        "text": "Big Banks Earning Week Puts Fears of Slowing Capital Markets Activity in Focus",
-        "refId": "9bee3f94d2bb",
+        "text": "Chips Still Up for TSMC and ASML",
+        "refId": "d188c811b0e8",
         "source": "The Daily Upside"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Okie-dokie, Casey Handmer edition",
-        "refId": "d5e2ea3d93d8",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Michael Woodford Wins Nobel",
         "refId": "3dbe3a788c70",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "The Nobel Prize Goes to Robert Hall and Michael Woodford",
         "refId": "2790ccb72a53",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Robert E. Hall, Nobel Laureate",
+        "refId": "50d04337be68",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "SBI Group and Mesh prep digital asset JV",
-        "refId": "ab6f73f97aeb",
-        "source": "Finextra"
+        "text": "AusSuper: US-Asia returns gap \u2018might start to narrow\u2019",
+        "refId": "9783f12c3f83",
+        "source": "Private Equity International"
       },
       {
-        "text": "Finfluencers Sell Expensive Advice, Often Without the Finance Chops to Back It Up",
-        "refId": "c39526fb1f49",
-        "source": "The Daily Upside"
+        "text": "In AI-era banking, trust has a new enforcer\u2014the network",
+        "refId": "328e0e66fde3",
+        "source": "Banking Dive"
       },
       {
-        "text": "Reflection Wants to Deliver America\u2019s Most Powerful Open-Weight AI",
-        "refId": "33c78e5f9d26",
-        "source": "The Daily Upside"
+        "text": "The rate turn just put 2 years of margin recovery back in play",
+        "refId": "548a212a2e7b",
+        "source": "Banking Dive"
       }
     ]
   },
