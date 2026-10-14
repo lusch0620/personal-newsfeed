@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Market data costs to rise by up to 50% thanks to AI",
-        "refId": "f06665e08583",
-        "source": "Finextra"
-      },
-      {
         "text": "Singapore's UOB signs cloud MoU with AWS",
         "refId": "09a3224328b5",
         "source": "Finextra"
@@ -76,6 +71,11 @@
         "text": "Credit Agricole launches digital bank for German market",
         "refId": "eedd26ef0b81",
         "source": "Finextra"
+      },
+      {
+        "text": "CMBS Special Servicing Rate Rose Seven Basis Points to 11.49% in September 2026",
+        "refId": "04135dd2b82e",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Replit's CEO Got Canceled for Killing Code in 2025. A Year Later, He Was Right.",
-        "refId": "c9852033468b",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "\u201cI have no mouth and I must scream\u201d",
         "refId": "064359045c20",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,17 +155,17 @@
         "text": "A Nobel for New Keynesian macro, at last!",
         "refId": "183f088330ef",
         "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+        "refId": "8ce55f5ed695",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Replit's CEO Got Canceled for Killing Code in 2025. A Year Later, He Was Right.",
-        "refId": "c9852033468b",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
       {
         "text": "No sooner does MassMutual sell control of Flourish than it massively buys its cash management services for its 6,000 brokers; odd timing explained by 'plumbing'",
         "refId": "cb910052e9ac",
@@ -180,6 +175,11 @@
         "text": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
         "refId": "a87348614d36",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "LP appetites for APAC turn positive as overall recovery remains on standby",
+        "refId": "e599c00289a7",
+        "source": "Private Equity International"
       }
     ]
   },
