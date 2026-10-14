@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Dive Deposits: Trump\u2019s Cook committee is betting like it\u2019s 2025",
-        "refId": "af22cb7c38b9",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-        "refId": "d1ff2a6e442f",
+        "text": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+        "refId": "a87348614d36",
         "source": "CNBC Finance"
       },
       {
-        "text": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-        "refId": "a87348614d36",
+        "text": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+        "refId": "a1faa390dd46",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+        "refId": "b3e21c89cdd7",
         "source": "CNBC Finance"
       }
     ]
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "14 Investment Must Reads for This Week (Oct. 13, 2026)",
-        "refId": "1513d91fe03a",
+        "text": "Captrust Adds $3B Hoge-Barrett Group from Truist",
+        "refId": "3209069b05ea",
         "source": "Wealth Management"
       },
       {
-        "text": "Calm Markets, Crowded Risks",
-        "refId": "4552680eee4c",
+        "text": "VestGen Receives Growth Capital From Private Credit Firms",
+        "refId": "325da4d65d3a",
         "source": "Wealth Management"
       }
     ]
@@ -42,11 +42,6 @@
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "RT Specialty expands proprietary follow-line facility RT FLEX",
-        "refId": "675e7b6c9de6",
-        "source": "Reinsurance News"
-      },
       {
         "text": "Scott Yin to lead Zurich China as CEO",
         "refId": "2d15dd1d936a",
@@ -56,6 +51,11 @@
         "text": "Reinsurers focused on staying relevant to clients: Gallagher Re\u2019s Spenner",
         "refId": "584f37bcca22",
         "source": "Reinsurance News"
+      },
+      {
+        "text": "Porch to Acquire Allied Trust in $200M Deal",
+        "refId": "01b643d8406b",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -108,13 +108,13 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Mortgages, diesel and the US midterms",
-        "refId": "948ca808629a",
+        "text": "Bank of America fined $1.2bn over money laundering failures",
+        "refId": "b758410d3ecc",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Bank of America fined $1.2bn over money laundering failures",
-        "refId": "b758410d3ecc",
+        "text": "Chip stocks slide after Broadcom boss warns of \u2018casino\u2019 mentality in AI investing",
+        "refId": "363ae2071856",
         "source": "Financial Times Markets"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Monday assorted links",
-        "refId": "32615980b8ea",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Replit's CEO Got Canceled for Killing Code in 2025. A Year Later, He Was Right.",
         "refId": "c9852033468b",
         "source": "The AI Corner (Ruben Dominguez)"
@@ -160,6 +155,11 @@
         "text": "\u201cI have no mouth and I must scream\u201d",
         "refId": "064359045c20",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "A Nobel for New Keynesian macro, at last!",
+        "refId": "183f088330ef",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Dive Deposits: Trump\u2019s Cook committee is betting like it\u2019s 2025",
-        "refId": "af22cb7c38b9",
-        "source": "Banking Dive"
+        "text": "Replit's CEO Got Canceled for Killing Code in 2025. A Year Later, He Was Right.",
+        "refId": "c9852033468b",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "The bull market turned 4 years old on Monday. Investors say reaching a fifth birthday could be challenging",
-        "refId": "d1ff2a6e442f",
+        "text": "No sooner does MassMutual sell control of Flourish than it massively buys its cash management services for its 6,000 brokers; odd timing explained by 'plumbing'",
+        "refId": "cb910052e9ac",
+        "source": "RIABiz"
+      },
+      {
+        "text": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+        "refId": "a87348614d36",
         "source": "CNBC Finance"
-      },
-      {
-        "text": "Monday assorted links",
-        "refId": "32615980b8ea",
-        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7735.71,
+      "v": 7718.94,
       "base": 7807.24,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26856.52,
+      "v": 26692.87,
       "base": 27245.9,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51616.41,
+      "v": 51621.48,
       "base": 51850.55,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.255,
+      "v": 5.19,
       "base": 5.217,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.87,
+      "v": 16.87,
       "base": 15.27,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 165.7296,
+      "v": 166.5063,
       "base": 171.41,
       "bp": false
     }
