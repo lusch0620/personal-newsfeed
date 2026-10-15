@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stablecoin startups advance payments",
-        "refId": "e8805abe1b60",
+        "text": "BofA fined $1.21B over AML flaws",
+        "refId": "5f2af6a3a98f",
         "source": "Banking Dive"
       },
       {
-        "text": "JPMorgan CEO Dimon warns customers of \u2018liability transfer\u2019 with AI",
-        "refId": "7b4a99128d48",
-        "source": "Banking Dive"
+        "text": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+        "refId": "21e58a8decb7",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Fintech Upgrade applies for ILC charter",
-        "refId": "6d5734515d96",
-        "source": "Banking Dive"
+        "text": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+        "refId": "8477bae84db4",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Convergence, AI Top Broker/Dealers\u2019 Biggest Concerns",
-        "refId": "71190687758f",
+        "text": "Your Wealthiest Clients May Not Have Their Estate Plans in Order",
+        "refId": "193badb7c6eb",
         "source": "Wealth Management"
       },
       {
-        "text": "When Are DAFs the Right Choice?",
-        "refId": "248c0c09b3b2",
+        "text": "T. Rowe Price Beefs Up its Advisor Distribution Efforts",
+        "refId": "eb31b03cec3e",
         "source": "Wealth Management"
       }
     ]
@@ -43,30 +43,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Judge Won\u2019t Block Trump Order Targeting DEI by Federal Contractors",
-        "refId": "744cfa3e063a",
+        "text": "Viewpoint: AI Doesn\u2019t End the Rite of Passage; the Grind Wasn\u2019t the Teacher",
+        "refId": "cd9df653ccdb",
         "source": "Insurance Journal"
       },
       {
-        "text": "People Moves: Marsh Hires Meta\u2019s Risk Manager for New Role",
-        "refId": "f6bf1f66a92a",
+        "text": "How AI is Changing Insurance Document Research",
+        "refId": "afea8c7fe868",
         "source": "Insurance Journal"
       },
       {
-        "text": "Eight States Sue OpenAI, Claiming ChatGPT Harms Children",
-        "refId": "7fce66eb9812",
-        "source": "Insurance Journal"
+        "text": "LM Re appoints Fredrik \u00d8yan as Market Manager, Nordics",
+        "refId": "3010ed87964b",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "CMBS Special Servicing Rate Rose Seven Basis Points to 11.49% in September 2026",
-        "refId": "04135dd2b82e",
-        "source": "Trepp Talk"
-      },
       {
         "text": "BoE and IMF warn of cyber threat to banking system",
         "refId": "8556ce570524",
@@ -75,6 +70,11 @@
       {
         "text": "Kraken parent to buy European bank Saldo",
         "refId": "ceb5d147ca99",
+        "source": "Finextra"
+      },
+      {
+        "text": "LSEG in talks over $3.5bn deal for credit specialist Octus",
+        "refId": "a9c4855847f0",
         "source": "Finextra"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Your GTM Agents Work in Seconds. Your Playbook Still Changes Once a Quarter",
-        "refId": "1e845f4badb9",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "Tuesday assorted links",
-        "refId": "99a60f8ecf0a",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Well-planned African immigration to America will go fine",
         "refId": "2418ad0f2125",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "*Plunder: The Last of the War in Europe, 1945*",
+        "refId": "44ecc3965334",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Apple HomeView, The New Apple TV, The App Story",
+        "refId": "63224a680748",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Your GTM Agents Work in Seconds. Your Playbook Still Changes Once a Quarter",
-        "refId": "1e845f4badb9",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "Audax Private Equity sets $6.25bn target for latest flagship fund",
+        "refId": "c86b1fa3a69f",
+        "source": "Buyouts Insider"
       },
       {
-        "text": "Stablecoin startups advance payments",
-        "refId": "e8805abe1b60",
+        "text": "BofA fined $1.21B over AML flaws",
+        "refId": "5f2af6a3a98f",
         "source": "Banking Dive"
       },
       {
-        "text": "JPMorgan CEO Dimon warns customers of \u2018liability transfer\u2019 with AI",
-        "refId": "7b4a99128d48",
-        "source": "Banking Dive"
+        "text": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+        "refId": "21e58a8decb7",
+        "source": "CNBC Finance"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7731.15,
+      "v": 7744.06,
       "base": 7805.45,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26631.582,
+      "v": 26713.025,
       "base": 27204.38,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52182.56,
+      "v": 52177.69,
       "base": 51670.1,
       "bp": false
     },
@@ -210,13 +210,13 @@
     },
     {
       "nm": "VIX",
-      "v": 16.84,
+      "v": 16.47,
       "base": 16.87,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 167.3154,
+      "v": 168.6257,
       "base": 169.02,
       "bp": false
     }
