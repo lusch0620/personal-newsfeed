@@ -3,30 +3,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-        "refId": "a87348614d36",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
-        "refId": "a1faa390dd46",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
         "refId": "b3e21c89cdd7",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: JPMorgan Chase, Micron, UnitedHealth & more",
+        "refId": "e494409f07b3",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Stablecoin startups advance payments",
+        "refId": "e8805abe1b60",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "No sooner does MassMutual sell control of Flourish than it massively buys its cash management services for its 6,000 brokers; odd timing explained by 'plumbing'",
-        "refId": "cb910052e9ac",
-        "source": "RIABiz"
-      },
       {
         "text": "Captrust Adds $3B Hoge-Barrett Group from Truist",
         "refId": "3209069b05ea",
@@ -36,6 +31,11 @@
         "text": "VestGen Receives Growth Capital From Private Credit Firms",
         "refId": "325da4d65d3a",
         "source": "Wealth Management"
+      },
+      {
+        "text": "Connecticut Wealth Management Hires Subatomic to Build AI Operating System",
+        "refId": "23dfb2ad0bac",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Scott Yin to lead Zurich China as CEO",
-        "refId": "2d15dd1d936a",
-        "source": "Reinsurance News"
-      },
-      {
         "text": "Reinsurers focused on staying relevant to clients: Gallagher Re\u2019s Spenner",
         "refId": "584f37bcca22",
         "source": "Reinsurance News"
       },
       {
-        "text": "Porch to Acquire Allied Trust in $200M Deal",
-        "refId": "01b643d8406b",
-        "source": "Insurance Journal"
+        "text": "Magowan appointed Chief Sales Officer at Duck Creek Technologies",
+        "refId": "64bb62ac4ca6",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Reinsurance market success depends on more than capacity alone: Westfield\u2019s Gray",
+        "refId": "7772e6bdf392",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "LP appetites for APAC turn positive as overall recovery remains on standby",
-        "refId": "e599c00289a7",
-        "source": "Private Equity International"
-      },
-      {
         "text": "The Exit Playbook: Safe landings when exits stall",
         "refId": "bfad8ad8703f",
         "source": "Private Equity International"
@@ -95,6 +90,11 @@
       {
         "text": "Lazard to reshuffle APAC advisory leadership following acquisition of Campbell Lutyens",
         "refId": "22cf314aa0ba",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Side Letter: Returns recalibration",
+        "refId": "f5e532491b41",
         "source": "Private Equity International"
       }
     ]
@@ -108,13 +108,13 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Bank of America fined $1.2bn over money laundering failures",
-        "refId": "b758410d3ecc",
-        "source": "Financial Times Markets"
+        "text": "Diesel of Discontent",
+        "refId": "02b97db6620d",
+        "source": "Doomberg"
       },
       {
-        "text": "Chip stocks slide after Broadcom boss warns of \u2018casino\u2019 mentality in AI investing",
-        "refId": "363ae2071856",
+        "text": "General Atlantic plans IPO at up to $10bn valuation",
+        "refId": "eda62a3d5127",
         "source": "Financial Times Markets"
       }
     ]
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "IMF Warns of AI \u2018Tsunami\u2019 That Will Wash Away Jobs, Tax Revenue",
-        "refId": "d3bac53e5856",
+        "text": "Walmart Adds GLP-1 Coverage for Some Employees",
+        "refId": "dc0741fe5178",
         "source": "The Daily Upside"
       },
       {
-        "text": "Big Telcos Are a Distant Galaxy for SpaceX",
-        "refId": "94cc0e20fa1e",
+        "text": "Apple Pushes into the Crowded Smart Home Market with HomeView Hub",
+        "refId": "3f6ec9ffe102",
         "source": "The Daily Upside"
       },
       {
-        "text": "Chips Still Up for TSMC and ASML",
-        "refId": "d188c811b0e8",
+        "text": "Wall Street\u2019s Big Gains Met with Muted Reception",
+        "refId": "39fa84e0c8ab",
         "source": "The Daily Upside"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "\u201cI have no mouth and I must scream\u201d",
-        "refId": "064359045c20",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "A Nobel for New Keynesian macro, at last!",
         "refId": "183f088330ef",
         "source": "Noahpinion (Noah Smith)"
@@ -160,6 +155,11 @@
         "text": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
         "refId": "8ce55f5ed695",
         "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "Is Your Agent a Double Agent?",
+        "refId": "5abb74319b7d",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "No sooner does MassMutual sell control of Flourish than it massively buys its cash management services for its 6,000 brokers; odd timing explained by 'plumbing'",
-        "refId": "cb910052e9ac",
-        "source": "RIABiz"
+        "text": "A Nobel for New Keynesian macro, at last!",
+        "refId": "183f088330ef",
+        "source": "Noahpinion (Noah Smith)"
       },
       {
-        "text": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-        "refId": "a87348614d36",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "LP appetites for APAC turn positive as overall recovery remains on standby",
-        "refId": "e599c00289a7",
+        "text": "The Exit Playbook: Safe landings when exits stall",
+        "refId": "bfad8ad8703f",
         "source": "Private Equity International"
+      },
+      {
+        "text": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+        "refId": "b3e21c89cdd7",
+        "source": "CNBC Finance"
       }
     ]
   },
