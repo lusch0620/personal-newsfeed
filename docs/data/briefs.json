@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "BofA fined $1.21B over AML flaws",
-        "refId": "5f2af6a3a98f",
+        "text": "China's exports and imports surge past expectations in September",
+        "refId": "e5018fdec991",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
+        "refId": "8847433f5b39",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "JPMorgan to livestream fraud-fighting event to 700 branches",
+        "refId": "dbcbb7ab9d9e",
         "source": "Banking Dive"
-      },
-      {
-        "text": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-        "refId": "21e58a8decb7",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-        "refId": "8477bae84db4",
-        "source": "CNBC Finance"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Your Wealthiest Clients May Not Have Their Estate Plans in Order",
-        "refId": "193badb7c6eb",
+        "text": "T. Rowe Price Beefs Up its Advisor Distribution Efforts",
+        "refId": "eb31b03cec3e",
         "source": "Wealth Management"
       },
       {
-        "text": "T. Rowe Price Beefs Up its Advisor Distribution Efforts",
-        "refId": "eb31b03cec3e",
+        "text": "LPL Draws $1B Northwestern Mutual Team to RIA Channel",
+        "refId": "ab7997a820b4",
         "source": "Wealth Management"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "BoE and IMF warn of cyber threat to banking system",
-        "refId": "8556ce570524",
-        "source": "Finextra"
-      },
-      {
-        "text": "Kraken parent to buy European bank Saldo",
-        "refId": "ceb5d147ca99",
-        "source": "Finextra"
-      },
-      {
         "text": "LSEG in talks over $3.5bn deal for credit specialist Octus",
         "refId": "a9c4855847f0",
+        "source": "Finextra"
+      },
+      {
+        "text": "Starling becomes first bank to train AI model on UK sovereign cloud",
+        "refId": "c276dda03d1c",
+        "source": "Finextra"
+      },
+      {
+        "text": "Visa secures China card business green light",
+        "refId": "05c423d226c1",
         "source": "Finextra"
       }
     ]
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Audax Private Equity sets $6.25bn target for latest flagship fund",
-        "refId": "c86b1fa3a69f",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "Aus regulator reports \u2018significant concerns\u2019 over unlisted asset valuations",
         "refId": "38703fe7cd8c",
         "source": "Private Equity International"
@@ -95,6 +90,11 @@
       {
         "text": "Fund performance: Is the worst over or yet to come?",
         "refId": "80e53ee4632d",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Side Letter: Pain shared",
+        "refId": "a8aadfc5b65d",
         "source": "Private Equity International"
       }
     ]
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Audax Private Equity sets $6.25bn target for latest flagship fund",
-        "refId": "c86b1fa3a69f",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "BofA fined $1.21B over AML flaws",
-        "refId": "5f2af6a3a98f",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-        "refId": "21e58a8decb7",
+        "text": "China's exports and imports surge past expectations in September",
+        "refId": "e5018fdec991",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Walmart Adds GLP-1 Coverage for Some Employees",
+        "refId": "dc0741fe5178",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Apple Pushes into the Crowded Smart Home Market with HomeView Hub",
+        "refId": "3f6ec9ffe102",
+        "source": "The Daily Upside"
       }
     ]
   },
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 16.47,
+      "v": 16.46,
       "base": 16.87,
       "bp": false
     },
