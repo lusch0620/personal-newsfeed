@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China's exports and imports surge past expectations in September",
-        "refId": "e5018fdec991",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Stocks making the biggest moves premarket: Bank of America, BlackRock, HPE & more",
         "refId": "8847433f5b39",
         "source": "CNBC Finance"
@@ -15,6 +10,11 @@
       {
         "text": "JPMorgan to livestream fraud-fighting event to 700 branches",
         "refId": "dbcbb7ab9d9e",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "OCC blasts debanking instances by JPMorgan, others in report",
+        "refId": "654b7beeedda",
         "source": "Banking Dive"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Viewpoint: AI Doesn\u2019t End the Rite of Passage; the Grind Wasn\u2019t the Teacher",
-        "refId": "cd9df653ccdb",
-        "source": "Insurance Journal"
+        "text": "KCC estimates insured losses from Hurricane Isaias at $3bn",
+        "refId": "e5e5bca61431",
+        "source": "Reinsurance News"
       },
       {
-        "text": "How AI is Changing Insurance Document Research",
-        "refId": "afea8c7fe868",
-        "source": "Insurance Journal"
+        "text": "MacHale to join Clearwater Underwriting as CEO",
+        "refId": "f73d5f1a4833",
+        "source": "Reinsurance News"
       },
       {
-        "text": "LM Re appoints Fredrik \u00d8yan as Market Manager, Nordics",
-        "refId": "3010ed87964b",
+        "text": "Marsh grows Q3\u201926 revenue 8% as reinsurance generates $374m",
+        "refId": "36d018001b4e",
         "source": "Reinsurance News"
       }
     ]
@@ -123,18 +123,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Walmart Adds GLP-1 Coverage for Some Employees",
-        "refId": "dc0741fe5178",
+        "text": "Delta\u2019s Top Spenders Roll Up to the Plane in a Porsche",
+        "refId": "b29f208dda58",
         "source": "The Daily Upside"
       },
       {
-        "text": "Apple Pushes into the Crowded Smart Home Market with HomeView Hub",
-        "refId": "3f6ec9ffe102",
+        "text": "As Soaring Energy Prices Boost Inflation, Refiners Have Become Money Machines",
+        "refId": "399e84351c01",
         "source": "The Daily Upside"
       },
       {
-        "text": "Wall Street\u2019s Big Gains Met with Muted Reception",
-        "refId": "39fa84e0c8ab",
+        "text": "BlackRock\u2019s Happy Place is at the Crossroads of All Global Capital",
+        "refId": "7913982f4759",
         "source": "The Daily Upside"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Well-planned African immigration to America will go fine",
-        "refId": "2418ad0f2125",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "*Plunder: The Last of the War in Europe, 1945*",
         "refId": "44ecc3965334",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Apple HomeView, The New Apple TV, The App Story",
         "refId": "63224a680748",
         "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "Wednesday assorted links",
+        "refId": "0993a9705e98",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "China's exports and imports surge past expectations in September",
-        "refId": "e5018fdec991",
-        "source": "CNBC Finance"
+        "text": "*Plunder: The Last of the War in Europe, 1945*",
+        "refId": "44ecc3965334",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Walmart Adds GLP-1 Coverage for Some Employees",
-        "refId": "dc0741fe5178",
-        "source": "The Daily Upside"
+        "text": "Aus regulator reports \u2018significant concerns\u2019 over unlisted asset valuations",
+        "refId": "38703fe7cd8c",
+        "source": "Private Equity International"
       },
       {
-        "text": "Apple Pushes into the Crowded Smart Home Market with HomeView Hub",
-        "refId": "3f6ec9ffe102",
-        "source": "The Daily Upside"
+        "text": "Diesel of Discontent",
+        "refId": "02b97db6620d",
+        "source": "Doomberg"
       }
     ]
   },
