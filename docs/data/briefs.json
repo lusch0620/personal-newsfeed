@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-        "refId": "66c9d686a45d",
+        "text": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+        "refId": "3e6c415a2784",
         "source": "CNBC Finance"
       },
       {
-        "text": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-        "refId": "97b149ae216d",
-        "source": "CNBC Finance"
+        "text": "What Wells Fargo, Citi and Goldman Sachs\u2019 CEOs are saying about AI",
+        "refId": "bc77ddec772e",
+        "source": "Banking Dive"
       },
       {
-        "text": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-        "refId": "e5f02cddb391",
+        "text": "Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix & more",
+        "refId": "ca105739d9fd",
         "source": "CNBC Finance"
       }
     ]
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "SEI Names Kristie Edling-Day as Chief Information Officer",
-        "refId": "53d0a6651e2f",
+        "text": "Q3 M&amp;A Deal Volume Cools, But Consolidators May Yet Drive a Record 2026",
+        "refId": "d057f66f3c8d",
         "source": "Wealth Management"
       },
       {
-        "text": "Former VestGen CEO Launches New Wealth Firm",
-        "refId": "ce3e1bca8f26",
+        "text": "Before You Turn On AI, Treat It Like a New Hire",
+        "refId": "9985fca3b30b",
         "source": "Wealth Management"
       },
       {
-        "text": "The Diamond Podcast for Financial Advisors: UBS Breakaways on What It Takes to Move $1B in Just Months",
-        "refId": "0afcf541f573",
+        "text": "Schwab Tags Wealth Advice as Key Growth Area, Investment Focus",
+        "refId": "50b95cee70c1",
         "source": "Wealth Management"
       }
     ]
@@ -83,18 +83,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "San Joaquin County sets PE pacing, cuts venture commitments",
-        "refId": "d341d7fe89fd",
-        "source": "Buyouts Insider"
-      },
-      {
-        "text": "Fund performance: Is the worst over or yet to come?",
-        "refId": "8dc876098f1f",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "Side Letter: Self-inflicted illiquidity?",
         "refId": "6104f77e4316",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "EQT expects another 12-15 months of fundraising for latest flagship",
+        "refId": "08758a211ec7",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "Is an elevated hurdle rate a good idea?",
+        "refId": "3c6936cf88c9",
         "source": "Private Equity International"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What\u2019s Your AI Agent\u2019s ROI?",
-        "refId": "3bb2beec8c55",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "My excellent Conversation with Liaquat Ahamed",
         "refId": "aaab975d7ba8",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "Why I do not use LLMs more",
         "refId": "807d18c501cf",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "AI vs. the railroads",
+        "refId": "c1d4c0ba3fa6",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -167,38 +167,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-        "refId": "66c9d686a45d",
-        "source": "CNBC Finance"
+        "text": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+        "refId": "f1a06f2b9187",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-        "refId": "97b149ae216d",
-        "source": "CNBC Finance"
+        "text": "Delta\u2019s Top Spenders Roll Up to the Plane in a Porsche",
+        "refId": "b29f208dda58",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
-        "refId": "e5f02cddb391",
-        "source": "CNBC Finance"
+        "text": "As Soaring Energy Prices Boost Inflation, Refiners Have Become Money Machines",
+        "refId": "399e84351c01",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7647.19,
+      "v": 7659.44,
       "base": 7718.94,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26077.1,
+      "v": 26140.033,
       "base": 26692.87,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51910.67,
+      "v": 52002.41,
       "base": 51621.48,
       "bp": false
     },
@@ -216,7 +216,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 168.5603,
+      "v": 169.0264,
       "base": 166.51,
       "bp": false
     }
