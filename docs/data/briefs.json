@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "OCC blasts debanking instances by JPMorgan, others in report",
-        "refId": "654b7beeedda",
-        "source": "Banking Dive"
+        "text": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+        "refId": "66c9d686a45d",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Kraken parent eyes EU license with bank acquisition",
-        "refId": "e89234fe19a2",
-        "source": "Banking Dive"
+        "text": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+        "refId": "97b149ae216d",
+        "source": "CNBC Finance"
       },
       {
-        "text": "SoFi, Figure co-founder raises $19M for newest venture",
-        "refId": "d1437b83a3c6",
-        "source": "Banking Dive"
+        "text": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+        "refId": "e5f02cddb391",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Wealth Revenues Climb at Morgan Stanley, Merrill Lynch",
-        "refId": "1ed75ef31029",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "The Org Chart Nobody Draws",
-        "refId": "7defb70696e1",
-        "source": "Wealth Management"
-      },
-      {
         "text": "SEI Names Kristie Edling-Day as Chief Information Officer",
         "refId": "53d0a6651e2f",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Former VestGen CEO Launches New Wealth Firm",
+        "refId": "ce3e1bca8f26",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "The Diamond Podcast for Financial Advisors: UBS Breakaways on What It Takes to Move $1B in Just Months",
+        "refId": "0afcf541f573",
         "source": "Wealth Management"
       }
     ]
@@ -43,30 +43,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Adjuster Created Law Firm and Fake Claim to Defraud Insurer of $1M, Officials Charge",
-        "refId": "d95601a6526c",
+        "text": "Cyber Rates Are Down, Risks Are Up but Small Businesses Slow to Adopt",
+        "refId": "a13ee41c54ff",
         "source": "Insurance Journal"
       },
       {
-        "text": "Lemonade Launches Renters Insurance in Hawaii",
-        "refId": "c06111d9f6d4",
+        "text": "People Moves: OneShield Appoints Brown as Chief Insurance Officer",
+        "refId": "bc1ed6a68638",
         "source": "Insurance Journal"
       },
       {
-        "text": "Anthropic Stands Alone as Rest of IPO Market Slows to a Crawl",
-        "refId": "03341e8d4f88",
-        "source": "Insurance Journal"
+        "text": "Nepal and World Bank Group sign mandate to develop cat bond for earthquake",
+        "refId": "f0c7200fda68",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Gauging Securitized Commercial Real Estate Debt Exposure to Hurricane Isaias in Florida",
-        "refId": "ae6837a800d5",
-        "source": "Trepp Talk"
-      },
       {
         "text": "Wise appoints chairman designate",
         "refId": "a722b2b9b8da",
@@ -75,6 +70,11 @@
       {
         "text": "Lack of financial confidence driving consumers to AI assistants",
         "refId": "92951ea4bf14",
+        "source": "Finextra"
+      },
+      {
+        "text": "Mastercard and BVNK bring fiat and stablecoin payments together in global money platform",
+        "refId": "5951ab6dfb8a",
         "source": "Finextra"
       }
     ]
@@ -147,19 +147,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Wednesday assorted links",
-        "refId": "0993a9705e98",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "China fact (?) of the day",
-        "refId": "a9feaeff2e4c",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "What\u2019s Your AI Agent\u2019s ROI?",
         "refId": "3bb2beec8c55",
         "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "My excellent Conversation with Liaquat Ahamed",
+        "refId": "aaab975d7ba8",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Why I do not use LLMs more",
+        "refId": "807d18c501cf",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,56 +167,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Wednesday assorted links",
-        "refId": "0993a9705e98",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
+        "refId": "66c9d686a45d",
+        "source": "CNBC Finance"
       },
       {
-        "text": "OCC blasts debanking instances by JPMorgan, others in report",
-        "refId": "654b7beeedda",
-        "source": "Banking Dive"
+        "text": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+        "refId": "97b149ae216d",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Wealth Revenues Climb at Morgan Stanley, Merrill Lynch",
-        "refId": "1ed75ef31029",
-        "source": "Wealth Management"
+        "text": "Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million",
+        "refId": "e5f02cddb391",
+        "source": "CNBC Finance"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7735.32,
+      "v": 7647.19,
       "base": 7718.94,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26492.08,
+      "v": 26077.1,
       "base": 26692.87,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52424.1,
+      "v": 51910.67,
       "base": 51621.48,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.1,
+      "v": 5.098,
       "base": 5.089,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 15.74,
+      "v": 19.99,
       "base": 16.46,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 171.3183,
+      "v": 168.5603,
       "base": 166.51,
       "bp": false
     }
