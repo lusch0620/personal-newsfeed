@@ -3,30 +3,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-        "refId": "0d1e32644fd7",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Stocks making the biggest moves after hours: Interactive Brokers, J.B. Hunt, Alcoa and more",
-        "refId": "a98134112f4d",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "People in China are spending nearly as much of their income as Americans on healthcare",
         "refId": "31d7345cb9ee",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: Tesla, SpaceX, Alcoa, CoreWeave, Travelers & more",
+        "refId": "cf4184063d4b",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+        "refId": "5ca7abfeabe9",
+        "source": "Federal Reserve Press Releases"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Shook Research Rebrands as Veritant, Plans December Return of Forbes RIA Rankings",
-        "refId": "2b79a0831fb3",
-        "source": "Wealth Management"
-      },
       {
         "text": "TD Bank's RIA unit poaches Schwab's 'head of firmwide AI' and makes him  its 'head of U.S. Wealth' with an eye on national franchise",
         "refId": "0650a18b6030",
@@ -36,6 +31,11 @@
         "text": "Rick Wurster chides Fidelity in wake of Fido's $100-million RIA purge, as Q3 net-new RIA assets -- both Schwab Advisor Services and Schwab Wealth Advisory -- soar 47% and 55%, respectively",
         "refId": "2d16c97242e8",
         "source": "RIABiz"
+      },
+      {
+        "text": "The WealthStack Podcast: Cybersecurity and Client Protection Beyond the Portfolio with Ken Eiden",
+        "refId": "50dabafc9293",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -83,11 +83,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Off-duty: Sagard\u2019s Jonathan T\u00e9trault on less-traveled paths, Ch\u00e2teau Rayas and AI-generated music",
-        "refId": "f0620b79a548",
-        "source": "Buyouts Insider"
-      },
-      {
         "text": "PE eyes cardiometabolic care amid GLP-1 boom, outpatient shifts: 6 deals",
         "refId": "e738473292e5",
         "source": "PE Hub"
@@ -95,6 +90,11 @@
       {
         "text": "Thoma Bravo\u2019s Proofpoint inks $6.3bn take-private of data security firm Varonis",
         "refId": "11fd380f3662",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Greybull Stewardship acquires El Paso textile recycler Mid-West Textile",
+        "refId": "c97aa6429d9f",
         "source": "PE Hub"
       }
     ]
@@ -147,11 +147,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The AI CEO Dashboard Kit: An Excel Model, 14 Checks and 10 Claude Prompts",
-        "refId": "b99871b467de",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "I guest host the NYT podcast and interview Dwarkesh",
         "refId": "7f4ca837d416",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -160,6 +155,11 @@
         "text": "On Bergman\u2019s *Persona*",
         "refId": "4a5a7b046077",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "India has more Restrictive Labor Law than Germany",
+        "refId": "d36c5d857866",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -167,19 +167,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Harvard\u2019s endowment jumps 27% in fiscal 2026, lifted by SpaceX as top holding",
-        "refId": "0d1e32644fd7",
+        "text": "People in China are spending nearly as much of their income as Americans on healthcare",
+        "refId": "31d7345cb9ee",
         "source": "CNBC Finance"
       },
       {
-        "text": "Off-duty: Sagard\u2019s Jonathan T\u00e9trault on less-traveled paths, Ch\u00e2teau Rayas and AI-generated music",
-        "refId": "f0620b79a548",
-        "source": "Buyouts Insider"
+        "text": "AI-native personal finance platform Matters emerges from stealth with $5m pre-seed",
+        "refId": "490b2a7950b5",
+        "source": "Finextra"
       },
       {
-        "text": "Shook Research Rebrands as Veritant, Plans December Return of Forbes RIA Rankings",
-        "refId": "2b79a0831fb3",
-        "source": "Wealth Management"
+        "text": "AI-native payments platform Movere launches",
+        "refId": "e895c7dc8d65",
+        "source": "Finextra"
       }
     ]
   },
