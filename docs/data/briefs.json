@@ -1,77 +1,50 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa & more",
-        "refId": "eef3a5117e3e",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-        "refId": "cf2a3f5f34de",
-        "source": "CNBC Finance"
-      },
       {
         "text": "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage over bonds",
         "refId": "125b71d59436",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
+        "refId": "5d627f041ab3",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "5 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Trust &amp; Will Launching Chartered Retail Trust Company",
-        "refId": "cf1f793bae8f",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Janney Adds $3.5B Houston-Based Team From Raymond James",
-        "refId": "b07875f0cfad",
-        "source": "Wealth Management"
-      },
       {
         "text": "Fifth Third Wealth Advisors: Why CIO Chris Osmond Is Bullish on Infrastructure",
         "refId": "8c9bbf093e07",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Ex-MML Associate Pleads Guilty To $3.8M Fraud",
+        "refId": "3ff9009cb018",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Deals &amp; Moves: WPCG-Backed Apella, Waverly Keep Acquiring",
+        "refId": "44a7fdce6e96",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "3 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Ohio AG Sues Home-Improvement Companies for Allegedly Scamming Customers",
-        "refId": "644214db8263",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "NTSB Investigating Plane Crash in Wisconsin That Killed 6",
-        "refId": "f52215fb1c55",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "TDI Unveils Transparency Tool Showing Why Auto Policies are Declined",
-        "refId": "f6911f1ebf63",
-        "source": "Insurance Journal"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "No stories in this lane today.",
     "bullets": []
   },
   "PE & Deals": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Vista Equity Partners strikes deal to carve out HID\u2019s PKI business",
-        "refId": "8426b3ece102",
-        "source": "PE Hub"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
@@ -94,13 +67,8 @@
     ]
   },
   "Newsletters": {
-    "lede": "4 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
-      {
-        "text": "CFOs Talk AI and Peak Workloads in Denver",
-        "refId": "508045658f04",
-        "source": "The Daily Upside"
-      },
       {
         "text": "How the Price of Chocolate Got Scary High",
         "refId": "923a62b53134",
@@ -121,19 +89,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Rivian CEO: Robotics Is Progressing Much Faster Than You Think",
-        "refId": "63544c2b6edc",
-        "source": "Big Technology (Alex Kantrowitz)"
-      },
-      {
-        "text": "Friday assorted links",
-        "refId": "d3be4b2b605e",
+        "text": "New Matt Faherty study of the NSF",
+        "refId": "9a961050c4cf",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "2026.42: Home At Last",
-        "refId": "2d2dd647b392",
-        "source": "Stratechery (Ben Thompson)"
+        "text": "Solving for the equilibrium?",
+        "refId": "d5986bbd3cc9",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Reading List 10/17/26",
+        "refId": "f88543195718",
+        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
@@ -141,19 +109,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ohio AG Sues Home-Improvement Companies for Allegedly Scamming Customers",
-        "refId": "644214db8263",
-        "source": "Insurance Journal"
+        "text": "Fifth Third Wealth Advisors: Why CIO Chris Osmond Is Bullish on Infrastructure",
+        "refId": "8c9bbf093e07",
+        "source": "Wealth Management"
       },
       {
-        "text": "Rivian CEO: Robotics Is Progressing Much Faster Than You Think",
-        "refId": "63544c2b6edc",
-        "source": "Big Technology (Alex Kantrowitz)"
+        "text": "Ex-MML Associate Pleads Guilty To $3.8M Fraud",
+        "refId": "3ff9009cb018",
+        "source": "Wealth Management"
       },
       {
-        "text": "Stocks making the biggest moves midday: CoreWeave, Moog, J.B. Hunt, Alcoa & more",
-        "refId": "eef3a5117e3e",
-        "source": "CNBC Finance"
+        "text": "Deals &amp; Moves: WPCG-Backed Apella, Waverly Keep Acquiring",
+        "refId": "44a7fdce6e96",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -190,7 +158,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 169.0264,
+      "v": 169.026,
       "base": 166.51,
       "bp": false
     }
