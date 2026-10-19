@@ -19,12 +19,39 @@
     "bullets": []
   },
   "FIG \u2014 Insurance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Two SE States Take Action Against A-Cap Insurers Amid Rising Concerns About Ability to Pay Claims",
+        "refId": "bf843a8e40d9",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Clearinghouse for Florida Citizens\u2019 Commercial Policies Hits a Snag, with OIR and Board Concerns",
+        "refId": "c0571fd90277",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Texas Rangers Pursuing Criminal Investigation Against Camp Mystic",
+        "refId": "fcfca691ee24",
+        "source": "Insurance Journal"
+      }
+    ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "2 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Acorns buys Gen Z social finance app Frich",
+        "refId": "ae152d76294b",
+        "source": "Finextra"
+      },
+      {
+        "text": "World takes on AI-driven impersonations with new suite for banking and finance",
+        "refId": "ec639465f46d",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -34,24 +61,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oil hits five-month high of $110 on new escalation in Middle East",
-        "refId": "064b5adeca3c",
+        "text": "Chart of the Week: The chip stock split",
+        "refId": "0aacbfedb411",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Anthropic offers Blackstone double-digit yield in latest chip financing",
-        "refId": "8980aa2ffe1f",
+        "text": "Trump exempts Russia from further sanctions mandated by new law",
+        "refId": "dba964aa5f5f",
         "source": "Financial Times Markets"
       },
       {
-        "text": "SoftBank in talks to buy US security group Allied Universal",
-        "refId": "dfcf1651e7b0",
+        "text": "BoE\u2019s Bailey tells G30 they \u2018have got to address\u2019 AI agent concerns",
+        "refId": "6df996a524bb",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "How the Price of Chocolate Got Scary High",
@@ -61,6 +88,11 @@
       {
         "text": "Watering the Garden: Getting the Organic Growth that RIAs Crave",
         "refId": "47c43f6eb28d",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Ahead of GM Earnings, Disciplined Pricing and New Business Lines Come into Focus",
+        "refId": "29ad01554e25",
         "source": "The Daily Upside"
       }
     ]
@@ -73,11 +105,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "New Matt Faherty study of the NSF",
-        "refId": "9a961050c4cf",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Solving for the equilibrium?",
         "refId": "d5986bbd3cc9",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -86,6 +113,11 @@
         "text": "Reading List 10/17/26",
         "refId": "f88543195718",
         "source": "Construction Physics (Brian Potter)"
+      },
+      {
+        "text": "Saturday assorted links",
+        "refId": "5427fc485892",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -93,18 +125,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Oil hits five-month high of $110 on new escalation in Middle East",
-        "refId": "064b5adeca3c",
+        "text": "Solving for the equilibrium?",
+        "refId": "d5986bbd3cc9",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Chart of the Week: The chip stock split",
+        "refId": "0aacbfedb411",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Anthropic offers Blackstone double-digit yield in latest chip financing",
-        "refId": "8980aa2ffe1f",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "SoftBank in talks to buy US security group Allied Universal",
-        "refId": "dfcf1651e7b0",
+        "text": "Trump exempts Russia from further sanctions mandated by new law",
+        "refId": "dba964aa5f5f",
         "source": "Financial Times Markets"
       }
     ]
