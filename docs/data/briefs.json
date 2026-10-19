@@ -1,45 +1,66 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-        "refId": "125b71d59436",
-        "source": "CNBC Finance"
+        "text": "The risk you can\u2019t report: banking\u2019s hidden cyber exposure problem",
+        "refId": "f214e7202941",
+        "source": "Banking Dive"
       },
       {
-        "text": "Software\u2019s new consolidator gets big vote of confidence from Berkshire",
-        "refId": "5d627f041ab3",
-        "source": "CNBC Finance"
+        "text": "The next AI decision financial institutions must get right",
+        "refId": "26370b0a4303",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "The blueprint for financial leadership: Building a self-driving WAN for the AI era",
+        "refId": "55bdd70e8a8f",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "4 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Butterfly Effect of State Mandates on 401(k) Plans",
+        "refId": "04bada6053c5",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Jump Integrates with FMG to Surface Content",
+        "refId": "86fdcf656cc5",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Views from 6,230: The Hidden Opportunities in an Unattractive Bond Market",
+        "refId": "26a1892a9f2f",
+        "source": "Wealth Management"
+      }
+    ]
   },
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Two SE States Take Action Against A-Cap Insurers Amid Rising Concerns About Ability to Pay Claims",
-        "refId": "bf843a8e40d9",
+        "text": "3M to Argue Australia\u2019s $1.4B \u2018Forever Chemicals\u2019 Lawsuit Legally Flawed, Court Hears",
+        "refId": "dd291ab60189",
         "source": "Insurance Journal"
       },
       {
-        "text": "Clearinghouse for Florida Citizens\u2019 Commercial Policies Hits a Snag, with OIR and Board Concerns",
-        "refId": "c0571fd90277",
+        "text": "Diageo\u2019s Toxic Spill Hits a Pristine River in Scottish Whisky Country",
+        "refId": "85ec954d97db",
         "source": "Insurance Journal"
       },
       {
-        "text": "Texas Rangers Pursuing Criminal Investigation Against Camp Mystic",
-        "refId": "fcfca691ee24",
-        "source": "Insurance Journal"
+        "text": "Brit extends cyber insurance distribution through Acturis Package",
+        "refId": "13c316dc8d4d",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Acorns buys Gen Z social finance app Frich",
@@ -50,29 +71,50 @@
         "text": "World takes on AI-driven impersonations with new suite for banking and finance",
         "refId": "ec639465f46d",
         "source": "Finextra"
+      },
+      {
+        "text": "Zilch to move to new London HQ",
+        "refId": "0394efa1a465",
+        "source": "Finextra"
       }
     ]
   },
   "PE & Deals": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Side Letter: Sustainable retreat",
+        "refId": "17a6b5e086c6",
+        "source": "Private Equity International"
+      },
+      {
+        "text": "CVC\u2019s Panzani in exclusive talks to merge with Sofina-backed Cerealis",
+        "refId": "04dfa7b86ce0",
+        "source": "PE Hub"
+      },
+      {
+        "text": "Ardan Equity and GI Partners take co-control of Clinical Ink",
+        "refId": "926f1f0f4940",
+        "source": "PE Hub"
+      }
+    ]
   },
   "Markets & Macro": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Chart of the Week: The chip stock split",
-        "refId": "0aacbfedb411",
+        "text": "SPECIAL EDITION: TKer\u2019s 5th year taught us you could be right about valuations but wrong about prices \ud83d\udd00",
+        "refId": "0fc66dbbf544",
+        "source": "TKer (Sam Ro)"
+      },
+      {
+        "text": "Private equity finds next Asian frontier",
+        "refId": "e5f44e711d8e",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Trump exempts Russia from further sanctions mandated by new law",
-        "refId": "dba964aa5f5f",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "BoE\u2019s Bailey tells G30 they \u2018have got to address\u2019 AI agent concerns",
-        "refId": "6df996a524bb",
+        "text": "Rise of crypto vaults channels billions of dollars into risky lending",
+        "refId": "74b0af838801",
         "source": "Financial Times Markets"
       }
     ]
@@ -105,18 +147,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Solving for the equilibrium?",
-        "refId": "d5986bbd3cc9",
+        "text": "The Agent Workforce Kit: Anthropic\u2019s 8 Metrics, a Role Radar and 12 Claude Prompts",
+        "refId": "6a3e7da50c09",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "The archaeology tranche of Emergent Ventures",
+        "refId": "15e3b526495c",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Reading List 10/17/26",
-        "refId": "f88543195718",
-        "source": "Construction Physics (Brian Potter)"
-      },
-      {
-        "text": "Saturday assorted links",
-        "refId": "5427fc485892",
+        "text": "Our fascination with screens, demand curves slope downward installment #1637",
+        "refId": "9b54d01e684e",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -125,57 +167,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Solving for the equilibrium?",
-        "refId": "d5986bbd3cc9",
+        "text": "The Agent Workforce Kit: Anthropic\u2019s 8 Metrics, a Role Radar and 12 Claude Prompts",
+        "refId": "6a3e7da50c09",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "How the Price of Chocolate Got Scary High",
+        "refId": "923a62b53134",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "The archaeology tranche of Emergent Ventures",
+        "refId": "15e3b526495c",
         "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Chart of the Week: The chip stock split",
-        "refId": "0aacbfedb411",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Trump exempts Russia from further sanctions mandated by new law",
-        "refId": "dba964aa5f5f",
-        "source": "Financial Times Markets"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7659.44,
-      "base": 7718.94,
+      "v": 7700.33,
+      "base": 7744.06,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26140.033,
-      "base": 26692.87,
+      "v": 26464.398,
+      "base": 26713.03,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52002.41,
-      "base": 51621.48,
+      "v": 51985.69,
+      "base": 52177.69,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.098,
-      "base": 5.089,
+      "v": 5.146,
+      "base": 5.098,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 19.99,
-      "base": 16.46,
+      "v": 18.2,
+      "base": 19.99,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 169.026,
-      "base": 166.51,
+      "v": 167.6446,
+      "base": 168.63,
       "bp": false
     }
   ]
