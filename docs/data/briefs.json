@@ -20,7 +20,7 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "4 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Butterfly Effect of State Mandates on 401(k) Plans",
@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "3M to Argue Australia\u2019s $1.4B \u2018Forever Chemicals\u2019 Lawsuit Legally Flawed, Court Hears",
-        "refId": "dd291ab60189",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Diageo\u2019s Toxic Spill Hits a Pristine River in Scottish Whisky Country",
         "refId": "85ec954d97db",
         "source": "Insurance Journal"
@@ -56,6 +51,11 @@
         "text": "Brit extends cyber insurance distribution through Acturis Package",
         "refId": "13c316dc8d4d",
         "source": "Reinsurance News"
+      },
+      {
+        "text": "Severe Drought Hits Parts of England for First Time Since 1995",
+        "refId": "95762a8c6a6f",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -88,13 +88,13 @@
         "source": "Private Equity International"
       },
       {
-        "text": "CVC\u2019s Panzani in exclusive talks to merge with Sofina-backed Cerealis",
-        "refId": "04dfa7b86ce0",
+        "text": "AIP to commit $1bn for 40 percent stake in Silgan\u2019s $3.4bn Trivium deal",
+        "refId": "11b0a2d00ca2",
         "source": "PE Hub"
       },
       {
-        "text": "Ardan Equity and GI Partners take co-control of Clinical Ink",
-        "refId": "926f1f0f4940",
+        "text": "Banner Capital launches roofing platform with Exterior Solutions Group deal",
+        "refId": "9e3d10795764",
         "source": "PE Hub"
       }
     ]
@@ -108,13 +108,13 @@
         "source": "TKer (Sam Ro)"
       },
       {
-        "text": "Private equity finds next Asian frontier",
-        "refId": "e5f44e711d8e",
+        "text": "Private equity group Charlesbank closes one of the biggest law firm deals",
+        "refId": "4fe149897237",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Rise of crypto vaults channels billions of dollars into risky lending",
-        "refId": "74b0af838801",
+        "text": "Investors turn on data centres",
+        "refId": "ea4d19c07f4c",
         "source": "Financial Times Markets"
       }
     ]
@@ -186,37 +186,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7700.33,
+      "v": 7690.73,
       "base": 7744.06,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26464.398,
+      "v": 26430.887,
       "base": 26713.03,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51985.69,
+      "v": 51966.03,
       "base": 52177.69,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.146,
+      "v": 5.136,
       "base": 5.098,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.2,
+      "v": 18.44,
       "base": 19.99,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 167.6446,
+      "v": 167.1549,
       "base": 168.63,
       "bp": false
     }
