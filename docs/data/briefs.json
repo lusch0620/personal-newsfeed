@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Citizens Sues Ameriprise, Accusing Ex-Advisor of Breaking Employment Contracts",
-        "refId": "fcb59fa6b2d9",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Bank of America analyst 'double' slams Ameriprise not least because RIA 'structural' advantage triggered proactive in-house retention bonuses that take a bite out of margins and may not retain big teams long-term",
         "refId": "2b1a18d4d34a",
         "source": "RIABiz"
@@ -35,6 +30,11 @@
       {
         "text": "CircleBlack Taps Robertson Stephens COO Vikram Chugh as New CEO",
         "refId": "a1aec5df7706",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "$2.3B ICG Next Leaves LPL for Osaic with Plans for Acquisition",
+        "refId": "8feb85c1b225",
         "source": "Wealth Management"
       }
     ]
@@ -68,13 +68,13 @@
         "source": "Trepp Talk"
       },
       {
-        "text": "Pay by Bank sector poised for growth says survey",
-        "refId": "81e0fd7722c7",
+        "text": "Mynt IPO breaks records in Philippines",
+        "refId": "4d3e5856144a",
         "source": "Finextra"
       },
       {
-        "text": "Sustainable Finance Live: Why banks should prioritise investing in thriving communities",
-        "refId": "47d17f5af1ad",
+        "text": "NAB cuts 2,500 jobs citing \"technological change\"",
+        "refId": "6182be17709e",
         "source": "Finextra"
       }
     ]
@@ -108,13 +108,13 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Ambani looks to pull off India\u2019s biggest IPO",
-        "refId": "98cc3d3ac091",
+        "text": "Japan \u2018months\u2019 from running out of critical rare earth as China squeezes supply",
+        "refId": "286a140a32ef",
         "source": "Financial Times Markets"
       },
       {
-        "text": "AI debt worries spark surge in default insurance trading",
-        "refId": "e876d84af346",
+        "text": "What has actually battered the bond market?",
+        "refId": "c533c4722bc3",
         "source": "Financial Times Markets"
       }
     ]
@@ -147,18 +147,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The AI-Era Fundraising Toolkit: 105 Verified Links, a Raise Command Center and 15 Claude Prompts",
-        "refId": "68c6216213d2",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "*You Can See Everything* (no spoilers)",
-        "refId": "a39d805ced77",
+        "text": "What I\u2019ve been reading",
+        "refId": "747c1fdf552f",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "What I\u2019ve been reading",
-        "refId": "747c1fdf552f",
+        "text": "Can a Million AI Agents Create Superintelligence?",
+        "refId": "c682ee28a31e",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "No, DataCenters are Not Crowding-Out Other Investments",
+        "refId": "eb660fc72090",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -167,18 +167,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The AI-Era Fundraising Toolkit: 105 Verified Links, a Raise Command Center and 15 Claude Prompts",
-        "refId": "68c6216213d2",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "*You Can See Everything* (no spoilers)",
-        "refId": "a39d805ced77",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Ahead of GM Earnings, Disciplined Pricing and New Business Lines Come into Focus",
         "refId": "29ad01554e25",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Where Is the Love? Bumble\u2019s Take-Private Deal Heralds Dating Apps\u2019 Decline",
+        "refId": "ecc437456a2d",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Morgan Stanley\u2019s Wealth Management Focus Is Paying Off",
+        "refId": "650c9f84ad1f",
         "source": "The Daily Upside"
       }
     ]
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 17.51,
+      "v": 17.31,
       "base": 18.44,
       "bp": false
     },
