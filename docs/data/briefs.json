@@ -147,9 +147,29 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Agent Workforce Kit: Anthropic\u2019s 8 Metrics, a Role Radar and 12 Claude Prompts",
-        "refId": "6a3e7da50c09",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "The archaeology tranche of Emergent Ventures",
+        "refId": "15e3b526495c",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Our fascination with screens, demand curves slope downward installment #1637",
+        "refId": "9b54d01e684e",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Why are we ruled by barbarians?",
+        "refId": "e5da05c30306",
+        "source": "Noahpinion (Noah Smith)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "How the Price of Chocolate Got Scary High",
+        "refId": "923a62b53134",
+        "source": "The Daily Upside"
       },
       {
         "text": "The archaeology tranche of Emergent Ventures",
@@ -159,26 +179,6 @@
       {
         "text": "Our fascination with screens, demand curves slope downward installment #1637",
         "refId": "9b54d01e684e",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "The Agent Workforce Kit: Anthropic\u2019s 8 Metrics, a Role Radar and 12 Claude Prompts",
-        "refId": "6a3e7da50c09",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "How the Price of Chocolate Got Scary High",
-        "refId": "923a62b53134",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "The archaeology tranche of Emergent Ventures",
-        "refId": "15e3b526495c",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
