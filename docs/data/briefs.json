@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sustainable Finance Live: How can we power regenerative finance?",
-        "refId": "817bc0da98ce",
-        "source": "Finextra"
-      },
-      {
         "text": "Ramp applies for national bank trust charter",
         "refId": "5ce955e695e5",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "Sustainable Finance Live: Fighting food poverty and financing pensions",
         "refId": "88bf98fa8ad1",
+        "source": "Finextra"
+      },
+      {
+        "text": "NatWest orders 30,000 staff to spend more time in the office",
+        "refId": "88717858d52e",
         "source": "Finextra"
       }
     ]
@@ -210,7 +210,7 @@
     },
     {
       "nm": "VIX",
-      "v": 16.64,
+      "v": 16.68,
       "base": 17.31,
       "bp": false
     },
