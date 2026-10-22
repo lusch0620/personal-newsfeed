@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves premarket: RTX, General Motors, Northrop Grumman, Steel Dynamics & more",
-        "refId": "6f7748001b24",
+        "text": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
+        "refId": "6ce2b8261c90",
         "source": "CNBC Finance"
       },
       {
-        "text": "Stocks making the biggest moves midday: Hasbro, Northrop Grumman, Equifax, General Motors & more",
-        "refId": "79b68d96adcc",
+        "text": "Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",
+        "refId": "41703d8493a4",
         "source": "CNBC Finance"
       },
       {
-        "text": "4 keys to Wells Fargo\u2019s strategy to transform the bank with AI",
-        "refId": "74999ff3e22d",
+        "text": "FDIC\u2019s Hill mulls agentic AI deposit impact",
+        "refId": "e9fba0691984",
         "source": "Banking Dive"
       }
     ]
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "401(k) Real Talk Episode 213: October 21, 2026",
-        "refId": "62f3329de2db",
+        "text": "$20B Modera Wealth Management Launches AI Operating Platform",
+        "refId": "6db6a4ddbcfd",
         "source": "Wealth Management"
       },
       {
-        "text": "IRS Grants Filing Extension to Opt Out of GST Tax Allocation",
-        "refId": "6ed0bb00e014",
-        "source": "Wealth Management"
+        "text": "Rick Wurster says Schwab is tackling its forced rationing of long/short SMAs with proprietary 'offering' to stretch balance sheet, but it may be more about a fee upside, a long/short manager says",
+        "refId": "25b59a6b4405",
+        "source": "RIABiz"
       },
       {
-        "text": "The Healthy Advisor: The Comeback with Vincent Crudo",
-        "refId": "8f4bef224373",
+        "text": "RIA Platform Leaders Ask \u2018What\u2019s the Advantage in Having Your Own Form ADV?\u2019",
+        "refId": "1d3a7e0ed645",
         "source": "Wealth Management"
       }
     ]
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Cost of Losing Your Cool: Tallying the Losses of a Supermarket Cyberattack",
-        "refId": "4b0c7ea1cbc0",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Acrisure appoints Andy Tedstone CEO of UK Retail",
-        "refId": "551bf1a11e2e",
+        "text": "Ategrity\u2019s 9M\u201926 net income rises 52% as underwriting results improve",
+        "refId": "165edb6307ca",
         "source": "Reinsurance News"
       },
       {
-        "text": "Russia Drones Are Already Killing People Within EU Territory",
-        "refId": "67ad4ce1c08f",
+        "text": "IMAC reports continued growth following CIMA\u2019s Q3\u201926 licensing stats",
+        "refId": "e73978852b2c",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Update: Critical PHP Flaws Spur Global Patch Effort, Temporary Shutdowns",
+        "refId": "5d685fdbcc12",
         "source": "Insurance Journal"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Denver's Multifamily Stress is Showing Up Before Delinquencies",
-        "refId": "37d1e3550a02",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Singapore's Sea plans IPO for fintech arm Monee",
         "refId": "2bedae85eaf5",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "India's largest bank hit by cyberattack",
         "refId": "9b4b654e135b",
+        "source": "Finextra"
+      },
+      {
+        "text": "Bank bosses under pressure to implement AI ahead of time",
+        "refId": "6d2c62585243",
         "source": "Finextra"
       }
     ]
@@ -87,11 +87,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Investors in Anticipation Over Musk\u2019s Next Big SpaceX Deal",
-        "refId": "425084057cb4",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Global Interest Rate Intelligence: Macro Liquidity",
         "refId": "59cfe8f93a33",
         "source": "Capital Flows Research"
@@ -100,6 +95,11 @@
         "text": "Doomberg Academy: Refining",
         "refId": "6a8a3aaab0b5",
         "source": "Doomberg"
+      },
+      {
+        "text": "SpaceX Boosts the A.I. Rally",
+        "refId": "215ac8cd37b4",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -131,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Tuesday assorted links",
-        "refId": "18372a3a4e4e",
+        "text": "The Causal Effect of Foreign Ideas on U.S. Innovation",
+        "refId": "f0f2859fd42f",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Sundar Pichai: Google\u2019s Frontier Imperative, Compute Scarcity Dilemmas, Future AI Products and Businesses",
-        "refId": "beffff538699",
-        "source": "Big Technology (Alex Kantrowitz)"
+        "text": "One reason I do not love AI writing, or even AI-assisted writing",
+        "refId": "55628ccfba81",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Saving for the machines",
-        "refId": "51590e0af49a",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "\u201cYou Can See Everything\u201d and the nature of liars",
+        "refId": "9a6b4ea143c5",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -151,56 +151,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Tuesday assorted links",
-        "refId": "18372a3a4e4e",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Investors in Anticipation Over Musk\u2019s Next Big SpaceX Deal",
-        "refId": "425084057cb4",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Stocks making the biggest moves premarket: RTX, General Motors, Northrop Grumman, Steel Dynamics & more",
-        "refId": "6f7748001b24",
+        "text": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
+        "refId": "6ce2b8261c90",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Global Interest Rate Intelligence: Macro Liquidity",
+        "refId": "59cfe8f93a33",
+        "source": "Capital Flows Research"
+      },
+      {
+        "text": "Slow TV: Netflix\u2019s Revenue Growth Comes In at Slowest Pace in Three Years",
+        "refId": "85af3e976c89",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7659.09,
+      "v": 7663.43,
       "base": 7712.57,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26109.76,
+      "v": 26008.86,
       "base": 26424.82,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52732.3,
+      "v": 52867.98,
       "base": 52495.88,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.011,
+      "v": 4.953,
       "base": 5.146,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.89,
+      "v": 18.96,
       "base": 16.68,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 171.1848,
+      "v": 171.8405,
       "base": 169.58,
       "bp": false
     }
