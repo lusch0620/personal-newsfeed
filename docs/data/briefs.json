@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
-        "refId": "6ce2b8261c90",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Stocks making the biggest moves premarket: SpaceX, Super Micro Computer, Netflix, Dell and more",
         "refId": "41703d8493a4",
         "source": "CNBC Finance"
@@ -15,6 +10,11 @@
       {
         "text": "FDIC\u2019s Hill mulls agentic AI deposit impact",
         "refId": "e9fba0691984",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "BMO taps next US country head",
+        "refId": "648da4f35a51",
         "source": "Banking Dive"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Singapore's Sea plans IPO for fintech arm Monee",
-        "refId": "2bedae85eaf5",
-        "source": "Finextra"
-      },
-      {
-        "text": "India's largest bank hit by cyberattack",
-        "refId": "9b4b654e135b",
-        "source": "Finextra"
-      },
-      {
         "text": "Bank bosses under pressure to implement AI ahead of time",
         "refId": "6d2c62585243",
+        "source": "Finextra"
+      },
+      {
+        "text": "Standard Chartered to acquire Zodia Custody",
+        "refId": "9774d8e7ec52",
+        "source": "Finextra"
+      },
+      {
+        "text": "BBVA works with Nvidia to boost AI agent security",
+        "refId": "9ed89798d84b",
         "source": "Finextra"
       }
     ]
@@ -151,11 +151,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves after hours: Super Micro Computer, Intuitive Surgical, Netflix, SpaceX & more",
-        "refId": "6ce2b8261c90",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Global Interest Rate Intelligence: Macro Liquidity",
         "refId": "59cfe8f93a33",
         "source": "Capital Flows Research"
@@ -163,6 +158,11 @@
       {
         "text": "Slow TV: Netflix\u2019s Revenue Growth Comes In at Slowest Pace in Three Years",
         "refId": "85af3e976c89",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "September Data and Goldman Sachs Point to a Bleak 2027 for Housing Market",
+        "refId": "5629362e8903",
         "source": "The Daily Upside"
       }
     ]
@@ -194,7 +194,7 @@
     },
     {
       "nm": "VIX",
-      "v": 18.96,
+      "v": 19.03,
       "base": 16.68,
       "bp": false
     },
