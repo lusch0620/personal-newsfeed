@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ategrity\u2019s 9M\u201926 net income rises 52% as underwriting results improve",
-        "refId": "165edb6307ca",
+        "text": "You Re adds two new capacity partners to US treaty portfolio",
+        "refId": "39215983b995",
         "source": "Reinsurance News"
       },
       {
-        "text": "IMAC reports continued growth following CIMA\u2019s Q3\u201926 licensing stats",
-        "refId": "e73978852b2c",
+        "text": "AM Best reports rising social inflation costs continue to challenge US liability insurers",
+        "refId": "cff78919bc32",
         "source": "Reinsurance News"
       },
       {
-        "text": "Update: Critical PHP Flaws Spur Global Patch Effort, Temporary Shutdowns",
-        "refId": "5d685fdbcc12",
-        "source": "Insurance Journal"
+        "text": "Price Forbes names Anthony Burnell-Nugent as Marine CEO as Paul Kearns takes Chairman role",
+        "refId": "4f10039b1095",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -87,11 +87,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Global Interest Rate Intelligence: Macro Liquidity",
-        "refId": "59cfe8f93a33",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "Doomberg Academy: Refining",
         "refId": "6a8a3aaab0b5",
         "source": "Doomberg"
@@ -100,6 +95,11 @@
         "text": "SpaceX Boosts the A.I. Rally",
         "refId": "215ac8cd37b4",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections",
+        "refId": "cdc2dd1a228f",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -107,18 +107,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Slow TV: Netflix\u2019s Revenue Growth Comes In at Slowest Pace in Three Years",
-        "refId": "85af3e976c89",
+        "text": "Middle East Oil Flows Surpass Prewar Levels, but Don\u2019t Bet on Price Drops",
+        "refId": "0d1a0095b40c",
         "source": "The Daily Upside"
       },
       {
-        "text": "September Data and Goldman Sachs Point to a Bleak 2027 for Housing Market",
-        "refId": "5629362e8903",
+        "text": "The Big Three Investment Banks Feed Hedge Funds\u2019 AI-mbitions",
+        "refId": "88b6e12d11f3",
         "source": "The Daily Upside"
       },
       {
-        "text": "Another Neocloud Meltdown Means Little to Big Tech\u2019s Big Plans",
-        "refId": "43adfd614c9f",
+        "text": "Meta\u2019s Muse Is Everywhere and Nowhere in Latest Earnings Result",
+        "refId": "2213a52f8a64",
         "source": "The Daily Upside"
       }
     ]
@@ -131,10 +131,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Causal Effect of Foreign Ideas on U.S. Innovation",
-        "refId": "f0f2859fd42f",
+        "text": "One reason I do not love AI writing, or even AI-assisted writing",
+        "refId": "55628ccfba81",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
+      {
+        "text": "\u201cYou Can See Everything\u201d and the nature of liars",
+        "refId": "9a6b4ea143c5",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Netflix Earnings, Business or Franchise, Disney\u2019s Deal",
+        "refId": "f49dec24ecdf",
+        "source": "Stratechery (Ben Thompson)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
       {
         "text": "One reason I do not love AI writing, or even AI-assisted writing",
         "refId": "55628ccfba81",
@@ -144,26 +159,11 @@
         "text": "\u201cYou Can See Everything\u201d and the nature of liars",
         "refId": "9a6b4ea143c5",
         "source": "Noahpinion (Noah Smith)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Global Interest Rate Intelligence: Macro Liquidity",
-        "refId": "59cfe8f93a33",
-        "source": "Capital Flows Research"
       },
       {
-        "text": "Slow TV: Netflix\u2019s Revenue Growth Comes In at Slowest Pace in Three Years",
-        "refId": "85af3e976c89",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "September Data and Goldman Sachs Point to a Bleak 2027 for Housing Market",
-        "refId": "5629362e8903",
-        "source": "The Daily Upside"
+        "text": "Netflix Earnings, Business or Franchise, Disney\u2019s Deal",
+        "refId": "f49dec24ecdf",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
