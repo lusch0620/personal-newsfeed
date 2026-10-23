@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Rick Wurster says Schwab is tackling its forced rationing of long/short SMAs with proprietary 'offering' to stretch balance sheet, but it may be more about a fee upside, a long/short manager says",
-        "refId": "25b59a6b4405",
-        "source": "RIABiz"
-      },
-      {
         "text": "An Amazon intern in 2020, Nevis CEO Mark Swan is the unlikely dream weaver for Focus Financial and other big RIA rollups with 'nightmare' integration issues -- with help from Schwab, Fidelity, OpenAI and Anthropic",
         "refId": "522bc735dcf9",
         "source": "RIABiz"
@@ -35,6 +30,11 @@
       {
         "text": "Mariner Wealth Advisors Seeks $150M in Additional Debt for Acquisitions",
         "refId": "4c45d3c5bbb1",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Get Rich (With QSBS) Or Die Tryin\u2019 (To Sell It)",
+        "refId": "2f9150b1e9f9",
         "source": "Wealth Management"
       }
     ]
@@ -151,11 +151,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Rick Wurster says Schwab is tackling its forced rationing of long/short SMAs with proprietary 'offering' to stretch balance sheet, but it may be more about a fee upside, a long/short manager says",
-        "refId": "25b59a6b4405",
-        "source": "RIABiz"
-      },
-      {
         "text": "Fintechs top banks and stablecoins for cheap cross-border payment - BIS research",
         "refId": "8674e94151d8",
         "source": "Finextra"
@@ -164,6 +159,11 @@
         "text": "New Interest Rate Regime Model - Volatility is building",
         "refId": "c8009e4a44e0",
         "source": "Capital Flows Research"
+      },
+      {
+        "text": "Middle East Oil Flows Surpass Prewar Levels, but Don\u2019t Bet on Price Drops",
+        "refId": "0d1a0095b40c",
+        "source": "The Daily Upside"
       }
     ]
   },
@@ -194,7 +194,7 @@
     },
     {
       "nm": "VIX",
-      "v": 19.79,
+      "v": 19.45,
       "base": 19.03,
       "bp": false
     },
