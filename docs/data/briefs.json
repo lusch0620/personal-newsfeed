@@ -1,20 +1,20 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "Plaid CEO: AI\u2019s rise could fuel \u2018scary year\u2019 for financial security",
-        "refId": "baa5a522e801",
+        "text": "JPMorgan Chase, Goldman Sachs underscore security in AI plans",
+        "refId": "b4c697bebce1",
         "source": "Banking Dive"
       },
       {
-        "text": "Paze sets big targets after revamp",
-        "refId": "e6904821f9d0",
+        "text": "Citi takes cautious approach on AI agent access",
+        "refId": "6e8334ffdc69",
         "source": "Banking Dive"
       },
       {
-        "text": "Barclays to cut 5,000 employees this year",
-        "refId": "175491ce6d45",
+        "text": "Chartered in December, public in January: How BitGo\u2019s growing",
+        "refId": "3fb2763544cf",
         "source": "Banking Dive"
       }
     ]
@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "An Amazon intern in 2020, Nevis CEO Mark Swan is the unlikely dream weaver for Focus Financial and other big RIA rollups with 'nightmare' integration issues -- with help from Schwab, Fidelity, OpenAI and Anthropic",
-        "refId": "522bc735dcf9",
-        "source": "RIABiz"
-      },
-      {
         "text": "Mariner Wealth Advisors Seeks $150M in Additional Debt for Acquisitions",
         "refId": "4c45d3c5bbb1",
         "source": "Wealth Management"
@@ -35,6 +30,11 @@
       {
         "text": "Get Rich (With QSBS) Or Die Tryin\u2019 (To Sell It)",
         "refId": "2f9150b1e9f9",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Proposed Regulations and the Pro Rata Share Rule for CFCs: Part I",
+        "refId": "40216ef7f0fd",
         "source": "Wealth Management"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Fintechs top banks and stablecoins for cheap cross-border payment - BIS research",
-        "refId": "8674e94151d8",
+        "text": "$802 Million in Chicago Office Loans Face Tenant Rollover Before Maturity",
+        "refId": "0b7a186ea5d0",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "SoFi launches tokenised deposits",
+        "refId": "855e241bf2b6",
         "source": "Finextra"
       },
       {
-        "text": "LSEG to acquire data provider Octus for $3.5bn",
-        "refId": "1e8e0690505d",
-        "source": "Finextra"
-      },
-      {
-        "text": "Barclays to cut 5,000 jobs amid AI expansion",
-        "refId": "6cdc235f9c1a",
+        "text": "UK and EU financial regulators seek answers from Google over cloud outage",
+        "refId": "64cb39ba3cca",
         "source": "Finextra"
       }
     ]
@@ -87,39 +87,29 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "New Interest Rate Regime Model - Volatility is building",
-        "refId": "c8009e4a44e0",
+        "text": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+        "refId": "d34e9581a8b5",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "U.S. Inflation Not Getting (Much) Worse, or Better, but Consumers are Fine",
+        "refId": "d6b66fa2b2ad",
+        "source": "The Overshoot (Matthew Klein)"
+      },
+      {
+        "text": "Credit Cycle Intelligence",
+        "refId": "5910923b0eba",
         "source": "Capital Flows Research"
-      },
-      {
-        "text": "Zuckerberg\u2019s Big Deal to Stay in California",
-        "refId": "7f4cda2e81b3",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Sign Up for DealBook",
-        "refId": "c7eece17793a",
-        "source": "Dealbook (NYT)"
       }
     ]
   },
   "Newsletters": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Middle East Oil Flows Surpass Prewar Levels, but Don\u2019t Bet on Price Drops",
-        "refId": "0d1a0095b40c",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "The Big Three Investment Banks Feed Hedge Funds\u2019 AI-mbitions",
-        "refId": "88b6e12d11f3",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Meta\u2019s Muse Is Everywhere and Nowhere in Latest Earnings Result",
-        "refId": "2213a52f8a64",
-        "source": "The Daily Upside"
+        "text": "Capital Wars",
+        "refId": "f2c5dc30e903",
+        "source": "Net Interest (Marc Rubinstein)"
       }
     ]
   },
@@ -131,19 +121,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Do mass shootings in universities lead to permanent effects?",
-        "refId": "5318a113987b",
+        "text": "How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700\u20132026",
+        "refId": "dff9874866c3",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "A simple point about the intertemporal regulation of AI",
-        "refId": "34020fcaabcc",
+        "text": "Will bystander economies be able to finance their governments?",
+        "refId": "f301805de343",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "France and the limits of liberalism",
-        "refId": "e0bd4482e3ec",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Podcast with Rabbi David Wolpe",
+        "refId": "684fc16f9397",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -151,19 +141,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Fintechs top banks and stablecoins for cheap cross-border payment - BIS research",
-        "refId": "8674e94151d8",
-        "source": "Finextra"
+        "text": "$802 Million in Chicago Office Loans Face Tenant Rollover Before Maturity",
+        "refId": "0b7a186ea5d0",
+        "source": "Trepp Talk"
       },
       {
-        "text": "New Interest Rate Regime Model - Volatility is building",
-        "refId": "c8009e4a44e0",
-        "source": "Capital Flows Research"
+        "text": "How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700\u20132026",
+        "refId": "dff9874866c3",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Middle East Oil Flows Surpass Prewar Levels, but Don\u2019t Bet on Price Drops",
-        "refId": "0d1a0095b40c",
-        "source": "The Daily Upside"
+        "text": "Mariner Wealth Advisors Seeks $150M in Additional Debt for Acquisitions",
+        "refId": "4c45d3c5bbb1",
+        "source": "Wealth Management"
       }
     ]
   },
