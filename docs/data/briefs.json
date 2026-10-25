@@ -4,22 +4,17 @@
     "bullets": []
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Raymond James Recruits $700M Advisor Team from Truist",
-        "refId": "2fd3ede09981",
-        "source": "Wealth Management"
+        "text": "Bank of America analyst 'double' slams Ameriprise not least because RIA 'structural' advantage triggered proactive in-house retention bonuses that take a bite out of margins and may not retain big teams long-term",
+        "refId": "2b1a18d4d34a",
+        "source": "RIABiz"
       },
       {
-        "text": "Lido CEO Signals Openness to International Expansion",
-        "refId": "955cd7952521",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "SEC Examiners' 2027 Focus Includes Firms' Protections Against AI Phishing, Deepfakes",
-        "refId": "8fa3a8f48f7a",
-        "source": "Wealth Management"
+        "text": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026",
+        "refId": "32879cc632ae",
+        "source": "RIABiz"
       }
     ]
   },
@@ -28,14 +23,8 @@
     "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Seniors Housing Faces $2.24 Billion in Hard Maturities Through 2027",
-        "refId": "8664d64d6817",
-        "source": "Trepp Talk"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -45,11 +34,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stockpickers: Aberdeen, ITM Power, Tristel",
-        "refId": "c343180a1778",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Lunch break under threat as Hong Kong looks at longer trading day",
         "refId": "4ec4de7d6f6c",
         "source": "Financial Times Markets"
@@ -58,6 +42,11 @@
         "text": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
         "refId": "0a3259dbc190",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "Oil Context Weekly (W43)",
+        "refId": "09ef85a1ccbc",
+        "source": "Commodity Context"
       }
     ]
   },
@@ -73,11 +62,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Only 4.5% of Americans Pay for AI. The Top 1% of Them Spend $903 a Month.",
-        "refId": "eba3c96045e1",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Far from RSI? Compute Shortages? Google CEO Sundar Pichai\u2019s View Of AI\u2019s Trajectory",
         "refId": "21555f1f8d07",
         "source": "Big Technology (Alex Kantrowitz)"
@@ -86,6 +70,11 @@
         "text": "I guest host an NYT podcast with Michael Kratsios, Trump science advisor",
         "refId": "3c7b9745c050",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Reading List 10/24/26",
+        "refId": "99e967fbaf67",
+        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
@@ -93,19 +82,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stockpickers: Aberdeen, ITM Power, Tristel",
-        "refId": "c343180a1778",
+        "text": "Lunch break under threat as Hong Kong looks at longer trading day",
+        "refId": "4ec4de7d6f6c",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Seniors Housing Faces $2.24 Billion in Hard Maturities Through 2027",
-        "refId": "8664d64d6817",
-        "source": "Trepp Talk"
+        "text": "Bank of America analyst 'double' slams Ameriprise not least because RIA 'structural' advantage triggered proactive in-house retention bonuses that take a bite out of margins and may not retain big teams long-term",
+        "refId": "2b1a18d4d34a",
+        "source": "RIABiz"
       },
       {
-        "text": "Raymond James Recruits $700M Advisor Team from Truist",
-        "refId": "2fd3ede09981",
-        "source": "Wealth Management"
+        "text": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
+        "refId": "0a3259dbc190",
+        "source": "Financial Times Markets"
       }
     ]
   },
