@@ -4,13 +4,8 @@
     "bullets": []
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
-      {
-        "text": "Bank of America analyst 'double' slams Ameriprise not least because RIA 'structural' advantage triggered proactive in-house retention bonuses that take a bite out of margins and may not retain big teams long-term",
-        "refId": "2b1a18d4d34a",
-        "source": "RIABiz"
-      },
       {
         "text": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026",
         "refId": "32879cc632ae",
@@ -34,19 +29,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Lunch break under threat as Hong Kong looks at longer trading day",
-        "refId": "4ec4de7d6f6c",
+        "text": "US executives quit $25bn gas venture over claims of secret Russian control",
+        "refId": "a9382a848351",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
-        "refId": "0a3259dbc190",
+        "text": "\u2018Disrupter\u2019 exchanges battle for ETFs in challenge to NYSE and Nasdaq",
+        "refId": "f32cc3148629",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Oil Context Weekly (W43)",
-        "refId": "09ef85a1ccbc",
-        "source": "Commodity Context"
+        "text": "A little bit of luck is lifting UK Budget expectations",
+        "refId": "018a8308fe98",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -62,11 +57,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Far from RSI? Compute Shortages? Google CEO Sundar Pichai\u2019s View Of AI\u2019s Trajectory",
-        "refId": "21555f1f8d07",
-        "source": "Big Technology (Alex Kantrowitz)"
-      },
-      {
         "text": "I guest host an NYT podcast with Michael Kratsios, Trump science advisor",
         "refId": "3c7b9745c050",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -75,6 +65,11 @@
         "text": "Reading List 10/24/26",
         "refId": "99e967fbaf67",
         "source": "Construction Physics (Brian Potter)"
+      },
+      {
+        "text": "Why are cybersecurity losses not worse?",
+        "refId": "c34835722907",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -82,18 +77,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Lunch break under threat as Hong Kong looks at longer trading day",
-        "refId": "4ec4de7d6f6c",
+        "text": "US executives quit $25bn gas venture over claims of secret Russian control",
+        "refId": "a9382a848351",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Bank of America analyst 'double' slams Ameriprise not least because RIA 'structural' advantage triggered proactive in-house retention bonuses that take a bite out of margins and may not retain big teams long-term",
-        "refId": "2b1a18d4d34a",
-        "source": "RIABiz"
+        "text": "\u2018Disrupter\u2019 exchanges battle for ETFs in challenge to NYSE and Nasdaq",
+        "refId": "f32cc3148629",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
-        "refId": "0a3259dbc190",
+        "text": "A little bit of luck is lifting UK Budget expectations",
+        "refId": "018a8308fe98",
         "source": "Financial Times Markets"
       }
     ]
