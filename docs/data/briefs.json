@@ -1,81 +1,39 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "JPMorgan Chase, Goldman Sachs underscore security in AI plans",
-        "refId": "b4c697bebce1",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Citi takes cautious approach on AI agent access",
-        "refId": "6e8334ffdc69",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Chartered in December, public in January: How BitGo\u2019s growing",
-        "refId": "3fb2763544cf",
-        "source": "Banking Dive"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Vanguard is fulfilling Salim Ramji's May 1 promised renewal of 'Flagship' platinum tier service after it eroded, and he's willing to count non-Vanguard funds against the $1-million minimum for the first time",
-        "refId": "3b1995ec1894",
-        "source": "RIABiz"
-      },
-      {
-        "text": "WealthStack Roundup: Syntax Integrates With Schwab's iRebal to Streamline Direct Indexing",
-        "refId": "8ef5a0ca7012",
+        "text": "Raymond James Recruits $700M Advisor Team from Truist",
+        "refId": "2fd3ede09981",
         "source": "Wealth Management"
       },
       {
-        "text": "Truist Names New Wealth Co-Heads in Leadership Shakeup",
-        "refId": "a990e04c77ed",
+        "text": "Lido CEO Signals Openness to International Expansion",
+        "refId": "955cd7952521",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "SEC Examiners' 2027 Focus Includes Firms' Protections Against AI Phishing, Deepfakes",
+        "refId": "8fa3a8f48f7a",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Bishop Street names Fiato Chief Business Officer, Wilson appointed CEO of CIS and President of AIM",
-        "refId": "012976d8abb8",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Donegal expands partnership with ZestyAI, adding Z-PROPERTY",
-        "refId": "ef1467ec9936",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Pinion names Robert Carlaw as Chief Technical Officer to advance Sarrus platform development",
-        "refId": "ce5873f9e3d0",
-        "source": "Reinsurance News"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Cognitive Credit raises $40m to scale specialist data and AI for credit markets",
-        "refId": "ff6be4087915",
-        "source": "Finextra"
-      },
-      {
-        "text": "Visa partners with Singapore Tourism Board",
-        "refId": "a2bdce1eb6f7",
-        "source": "Finextra"
-      },
-      {
-        "text": "HKEX launches AI and semiconductor indices",
-        "refId": "6618952e55b0",
-        "source": "Finextra"
+        "text": "Seniors Housing Faces $2.24 Billion in Hard Maturities Through 2027",
+        "refId": "8664d64d6817",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -87,31 +45,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Credit Cycle Intelligence",
-        "refId": "5910923b0eba",
-        "source": "Capital Flows Research"
-      },
-      {
-        "text": "Winter arrives in markets",
-        "refId": "274a44965190",
+        "text": "Stockpickers: Aberdeen, ITM Power, Tristel",
+        "refId": "c343180a1778",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Why the UK should greenlight both Jackdaw and Rosebank",
-        "refId": "3f52a2da23dd",
+        "text": "Lunch break under threat as Hong Kong looks at longer trading day",
+        "refId": "4ec4de7d6f6c",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Oil hits $117 for first time since April on fears of flare-up in Iran hostilities",
+        "refId": "0a3259dbc190",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Capital Wars",
-        "refId": "f2c5dc30e903",
-        "source": "Net Interest (Marc Rubinstein)"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "Career Intel": {
     "lede": "No stories in this lane today.",
@@ -121,19 +73,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Will bystander economies be able to finance their governments?",
-        "refId": "f301805de343",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Only 4.5% of Americans Pay for AI. The Top 1% of Them Spend $903 a Month.",
+        "refId": "eba3c96045e1",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "Podcast with Rabbi David Wolpe",
-        "refId": "684fc16f9397",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Far from RSI? Compute Shortages? Google CEO Sundar Pichai\u2019s View Of AI\u2019s Trajectory",
+        "refId": "21555f1f8d07",
+        "source": "Big Technology (Alex Kantrowitz)"
       },
       {
-        "text": "Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta\u2019s VR Glasses",
-        "refId": "fb9c74b1377e",
-        "source": "Stratechery (Ben Thompson)"
+        "text": "I guest host an NYT podcast with Michael Kratsios, Trump science advisor",
+        "refId": "3c7b9745c050",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -141,19 +93,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Cognitive Credit raises $40m to scale specialist data and AI for credit markets",
-        "refId": "ff6be4087915",
-        "source": "Finextra"
+        "text": "Stockpickers: Aberdeen, ITM Power, Tristel",
+        "refId": "c343180a1778",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Credit Cycle Intelligence",
-        "refId": "5910923b0eba",
-        "source": "Capital Flows Research"
+        "text": "Seniors Housing Faces $2.24 Billion in Hard Maturities Through 2027",
+        "refId": "8664d64d6817",
+        "source": "Trepp Talk"
       },
       {
-        "text": "Vanguard is fulfilling Salim Ramji's May 1 promised renewal of 'Flagship' platinum tier service after it eroded, and he's willing to count non-Vanguard funds against the $1-million minimum for the first time",
-        "refId": "3b1995ec1894",
-        "source": "RIABiz"
+        "text": "Raymond James Recruits $700M Advisor Team from Truist",
+        "refId": "2fd3ede09981",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -190,7 +142,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 170.5413,
+      "v": 170.541,
       "base": 171.55,
       "bp": false
     }
