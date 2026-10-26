@@ -1,6 +1,6 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "How community and regional banks can modernize without losing what makes them work",
@@ -20,13 +20,8 @@
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "4 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026",
-        "refId": "32879cc632ae",
-        "source": "RIABiz"
-      },
       {
         "text": "Major Changes Coming to 401(k) Plans Driven by Employers, Participants",
         "refId": "d7e2e58e7f91",
@@ -35,6 +30,11 @@
       {
         "text": "Views From 6,230: What Advisors Need from Asset Managers",
         "refId": "62772314e652",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Wealth Management Invest: Fixed Income Opportunities in a Higher-Rate Market with Sean Banai",
+        "refId": "79434ccde62d",
         "source": "Wealth Management"
       }
     ]
@@ -73,8 +73,8 @@
         "source": "Finextra"
       },
       {
-        "text": "Chargebacks911 launches AI agent to protect merchants from chargeback risks associated with agentic",
-        "refId": "4401f7306cb0",
+        "text": "Canadian credit union Vancity selects Temenos SaaS",
+        "refId": "7f6fc394bca8",
         "source": "Finextra"
       }
     ]
@@ -87,18 +87,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Will the Fed drop any hints on rate rises?",
-        "refId": "a66b860c947c",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "5 myths and misunderstandings about investing in the stock market \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
         "refId": "dd57f961befd",
         "source": "TKer (Sam Ro)"
       },
       {
-        "text": "Carney\u2019s energy ambitions boosted by Conservative victory in British Columbia",
-        "refId": "bae85af81ff6",
+        "text": "How Canada is Decoupling From the US",
+        "refId": "93676ee6dba0",
+        "source": "Apricitas Economics"
+      },
+      {
+        "text": "\u2018Do no harm\u2019 \u2014 what gilt investors want from Healey in the Budget",
+        "refId": "04663df86a70",
         "source": "Financial Times Markets"
       }
     ]
@@ -131,9 +131,29 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The 5-Person Team That Runs on Claude Code",
-        "refId": "1bfcb31fed41",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "Emergent Ventures India, 20th cohort",
+        "refId": "13d4832461d7",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "How central bankers spend their time",
+        "refId": "6dfb9201d36f",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Facts about breastfeeding",
+        "refId": "3964caf0be34",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "After Decades of Low Mortgage Rates, Homebuyers Are Facing a New Normal",
+        "refId": "748099d7c0bf",
+        "source": "The Daily Upside"
       },
       {
         "text": "Emergent Ventures India, 20th cohort",
@@ -147,60 +167,40 @@
       }
     ]
   },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026",
-        "refId": "32879cc632ae",
-        "source": "RIABiz"
-      },
-      {
-        "text": "The 5-Person Team That Runs on Claude Code",
-        "refId": "1bfcb31fed41",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "After Decades of Low Mortgage Rates, Homebuyers Are Facing a New Normal",
-        "refId": "748099d7c0bf",
-        "source": "The Daily Upside"
-      }
-    ]
-  },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7680.27,
+      "v": 7676.77,
       "base": 7663.43,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26219.191,
+      "v": 26169.38,
       "base": 26008.86,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52334.17,
+      "v": 52361.58,
       "base": 52867.98,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.98,
+      "v": 4.986,
       "base": 4.988,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 18.67,
+      "v": 18.39,
       "base": 19.45,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 172.2265,
+      "v": 171.719,
       "base": 171.84,
       "bp": false
     }
