@@ -1,15 +1,41 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "4 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "How community and regional banks can modernize without losing what makes them work",
+        "refId": "3b32651206c4",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "A look inside the AI playbook at Morgan Stanley\u2019s wealth division",
+        "refId": "c94e9b8685d4",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Citi targets deeper client ties with savings rate boost",
+        "refId": "8f99b3d02dfb",
+        "source": "Banking Dive"
+      }
+    ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "1 story in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
         "text": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026",
         "refId": "32879cc632ae",
         "source": "RIABiz"
+      },
+      {
+        "text": "Major Changes Coming to 401(k) Plans Driven by Employers, Participants",
+        "refId": "d7e2e58e7f91",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Views From 6,230: What Advisors Need from Asset Managers",
+        "refId": "62772314e652",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -17,28 +43,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Pennsylvania\u2019s Commonwealth University Adds Risk Management/Insurance Program",
-        "refId": "d13dd1ca0bbf",
-        "source": "Insurance Journal"
+        "text": "LM Re to tackle missing data in parametric cover with Celest.Science collaboration",
+        "refId": "e9a3305fa920",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Court Rejects Exxon Appeal of $815M Award to Former Mechanic Over Benzene Exposure",
-        "refId": "d40b6f755e88",
-        "source": "Insurance Journal"
+        "text": "AmTrust International acquires Wakam to strengthen position in UK and Europe",
+        "refId": "179eef6aa6bf",
+        "source": "Reinsurance News"
       },
       {
-        "text": "PG&E Weighs Gas Business Separation Over California Fire Rules",
-        "refId": "2be34393b63a",
-        "source": "Insurance Journal"
+        "text": "Allianz UK enhances renewable energy proposition and simplifies multi-technology cover",
+        "refId": "e26327a82b38",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Riksbank reignites e-krona debate",
         "refId": "4ed013bf4375",
+        "source": "Finextra"
+      },
+      {
+        "text": "NextGen Nordics 2027: Who controls the future of payments?",
+        "refId": "c8bfa4556160",
+        "source": "Finextra"
+      },
+      {
+        "text": "Chargebacks911 launches AI agent to protect merchants from chargeback risks associated with agentic",
+        "refId": "4401f7306cb0",
         "source": "Finextra"
       }
     ]
@@ -51,25 +87,41 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "French government and corporate bond yields are converging",
-        "refId": "67a2797cdc3c",
+        "text": "Will the Fed drop any hints on rate rises?",
+        "refId": "a66b860c947c",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Black Sea is now the world\u2019s deadliest shipping route",
-        "refId": "a70c908fedd5",
-        "source": "Financial Times Markets"
+        "text": "5 myths and misunderstandings about investing in the stock market \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+        "refId": "dd57f961befd",
+        "source": "TKer (Sam Ro)"
       },
       {
-        "text": "Mercuria challenging the \u2018Dow Jones of shipping\u2019 in court after Hormuz losses",
-        "refId": "e5b6eb34baf6",
+        "text": "Carney\u2019s energy ambitions boosted by Conservative victory in British Columbia",
+        "refId": "bae85af81ff6",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "After Decades of Low Mortgage Rates, Homebuyers Are Facing a New Normal",
+        "refId": "748099d7c0bf",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Not Just OpenAI: There Are More Pre-IPO Names to Watch",
+        "refId": "ca10c6405d00",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Why Permian Drillers are Embracing \u2018Chill Baby, Chill\u2019",
+        "refId": "76c873485016",
+        "source": "The Daily Upside"
+      }
+    ]
   },
   "Career Intel": {
     "lede": "No stories in this lane today.",
@@ -79,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Reading List 10/24/26",
-        "refId": "99e967fbaf67",
-        "source": "Construction Physics (Brian Potter)"
-      },
-      {
-        "text": "Why are cybersecurity losses not worse?",
-        "refId": "c34835722907",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "The 5-Person Team That Runs on Claude Code",
         "refId": "1bfcb31fed41",
         "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Emergent Ventures India, 20th cohort",
+        "refId": "13d4832461d7",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "How central bankers spend their time",
+        "refId": "6dfb9201d36f",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -99,57 +151,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "French government and corporate bond yields are converging",
-        "refId": "67a2797cdc3c",
-        "source": "Financial Times Markets"
+        "text": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026",
+        "refId": "32879cc632ae",
+        "source": "RIABiz"
       },
       {
-        "text": "Reading List 10/24/26",
-        "refId": "99e967fbaf67",
-        "source": "Construction Physics (Brian Potter)"
+        "text": "The 5-Person Team That Runs on Claude Code",
+        "refId": "1bfcb31fed41",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "Why are cybersecurity losses not worse?",
-        "refId": "c34835722907",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "After Decades of Low Mortgage Rates, Homebuyers Are Facing a New Normal",
+        "refId": "748099d7c0bf",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7623.68,
-      "base": 7757.17,
+      "v": 7680.27,
+      "base": 7663.43,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25955.342,
-      "base": 26702.86,
+      "v": 26219.191,
+      "base": 26008.86,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52215.16,
-      "base": 52856.09,
+      "v": 52334.17,
+      "base": 52867.98,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.988,
-      "base": 4.953,
+      "v": 4.98,
+      "base": 4.988,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 19.45,
-      "base": 19.03,
+      "v": 18.67,
+      "base": 19.45,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 170.541,
-      "base": 171.55,
+      "v": 172.2265,
+      "base": 171.84,
       "bp": false
     }
   ]
