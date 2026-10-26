@@ -14,12 +14,34 @@
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Pennsylvania\u2019s Commonwealth University Adds Risk Management/Insurance Program",
+        "refId": "d13dd1ca0bbf",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Court Rejects Exxon Appeal of $815M Award to Former Mechanic Over Benzene Exposure",
+        "refId": "d40b6f755e88",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "PG&E Weighs Gas Business Separation Over California Fire Rules",
+        "refId": "2be34393b63a",
+        "source": "Insurance Journal"
+      }
+    ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "1 story in this lane today.",
+    "bullets": [
+      {
+        "text": "Riksbank reignites e-krona debate",
+        "refId": "4ed013bf4375",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -29,18 +51,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "US executives quit $25bn gas venture over claims of secret Russian control",
-        "refId": "a9382a848351",
+        "text": "French government and corporate bond yields are converging",
+        "refId": "67a2797cdc3c",
         "source": "Financial Times Markets"
       },
       {
-        "text": "\u2018Disrupter\u2019 exchanges battle for ETFs in challenge to NYSE and Nasdaq",
-        "refId": "f32cc3148629",
+        "text": "Black Sea is now the world\u2019s deadliest shipping route",
+        "refId": "a70c908fedd5",
         "source": "Financial Times Markets"
       },
       {
-        "text": "A little bit of luck is lifting UK Budget expectations",
-        "refId": "018a8308fe98",
+        "text": "Mercuria challenging the \u2018Dow Jones of shipping\u2019 in court after Hormuz losses",
+        "refId": "e5b6eb34baf6",
         "source": "Financial Times Markets"
       }
     ]
@@ -57,9 +79,29 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "I guest host an NYT podcast with Michael Kratsios, Trump science advisor",
-        "refId": "3c7b9745c050",
+        "text": "Reading List 10/24/26",
+        "refId": "99e967fbaf67",
+        "source": "Construction Physics (Brian Potter)"
+      },
+      {
+        "text": "Why are cybersecurity losses not worse?",
+        "refId": "c34835722907",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The 5-Person Team That Runs on Claude Code",
+        "refId": "1bfcb31fed41",
+        "source": "The AI Corner (Ruben Dominguez)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "French government and corporate bond yields are converging",
+        "refId": "67a2797cdc3c",
+        "source": "Financial Times Markets"
       },
       {
         "text": "Reading List 10/24/26",
@@ -70,26 +112,6 @@
         "text": "Why are cybersecurity losses not worse?",
         "refId": "c34835722907",
         "source": "Marginal Revolution (Tyler Cowen)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "US executives quit $25bn gas venture over claims of secret Russian control",
-        "refId": "a9382a848351",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "\u2018Disrupter\u2019 exchanges battle for ETFs in challenge to NYSE and Nasdaq",
-        "refId": "f32cc3148629",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "A little bit of luck is lifting UK Budget expectations",
-        "refId": "018a8308fe98",
-        "source": "Financial Times Markets"
       }
     ]
   },
