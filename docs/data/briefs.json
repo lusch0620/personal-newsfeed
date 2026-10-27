@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Major Changes Coming to 401(k) Plans Driven by Employers, Participants",
-        "refId": "d7e2e58e7f91",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Views From 6,230: What Advisors Need from Asset Managers",
         "refId": "62772314e652",
         "source": "Wealth Management"
@@ -36,6 +31,11 @@
         "text": "Wealth Management Invest: Fixed Income Opportunities in a Higher-Rate Market with Sean Banai",
         "refId": "79434ccde62d",
         "source": "Wealth Management"
+      },
+      {
+        "text": "People Moves: $6.8B Sowell Names New CIO, Launches Investment Office",
+        "refId": "288f19792070",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "IIHS: Utah\u2019s Strict Alcohol Limit Linked to Lasting Drop in Crashes",
-        "refId": "1ac736401889",
+        "text": "FTC, States Sue Dollar General Over Deceptive-Pricing Claims",
+        "refId": "f7cc75e0c595",
         "source": "Insurance Journal"
       },
       {
-        "text": "Yellow Furball Mascot Liberty Biberty Sparks \u2018Beautiful\u2019 Protest. Seriously?",
-        "refId": "19537c609b05",
+        "text": "French Banks to Face Investor Scrutiny Over Risks from Turmoil",
+        "refId": "840df59c322a",
         "source": "Insurance Journal"
       },
       {
-        "text": "California Launches Nature, Biodiversity and Insurance Commission",
-        "refId": "865831e5744d",
+        "text": "Guidewire to Buy UK Insurance AI Firm hyperexponential in Deal Worth Up to $2.1B",
+        "refId": "680f3ea3c563",
         "source": "Insurance Journal"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Barclays names Anita Tanna chief AI officer",
-        "refId": "280320aef878",
-        "source": "Finextra"
-      },
-      {
         "text": "Japan tells banks to review cyber policies following wave of attacks",
         "refId": "5553033ea4af",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "Revolut launches personal loans in the UK",
         "refId": "8730f8844f00",
+        "source": "Finextra"
+      },
+      {
+        "text": "UK FS sector embraces GenAI",
+        "refId": "b412db564815",
         "source": "Finextra"
       }
     ]
@@ -87,11 +87,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How Canada is Decoupling From the US",
-        "refId": "93676ee6dba0",
-        "source": "Apricitas Economics"
-      },
-      {
         "text": "Musk Is Predicting \u2018Guppy-level Death\u2019 for Scores of A.I. Companies",
         "refId": "c02948c63f18",
         "source": "Dealbook (NYT)"
@@ -99,6 +94,11 @@
       {
         "text": "C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.",
         "refId": "ce7a1f10f76b",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+        "refId": "0314cbacd17d",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -151,11 +151,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How Canada is Decoupling From the US",
-        "refId": "93676ee6dba0",
-        "source": "Apricitas Economics"
-      },
-      {
         "text": "13,486 AI Investors in One Workbook: The AI Corner AI Investors Database 2026",
         "refId": "6e4f985aadca",
         "source": "The AI Corner (Ruben Dominguez)"
@@ -164,43 +159,48 @@
         "text": "Why Permian Drillers are Embracing \u2018Chill Baby, Chill\u2019",
         "refId": "76c873485016",
         "source": "The Daily Upside"
+      },
+      {
+        "text": "Alphabet and Microsoft Earnings Will Put Investors\u2019 AI Stress to the Test",
+        "refId": "b19e1806fffd",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7731.08,
+      "v": 7722.6,
       "base": 7623.68,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26513.676,
+      "v": 26477.81,
       "base": 25955.34,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52454.74,
+      "v": 52377.57,
       "base": 52215.16,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.986,
+      "v": 4.993,
       "base": 4.986,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.55,
+      "v": 17.52,
       "base": 18.39,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 172.622,
+      "v": 172.538,
       "base": 170.54,
       "bp": false
     }
