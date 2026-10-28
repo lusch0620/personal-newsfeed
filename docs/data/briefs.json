@@ -131,11 +131,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "13,486 AI Investors in One Workbook: The AI Corner AI Investors Database 2026",
-        "refId": "6e4f985aadca",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Frances Lee on American elections",
         "refId": "101d8079ee8f",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -144,17 +139,17 @@
         "text": "Brazil\u2019s economic problems, in a nutshell",
         "refId": "6fa46caddc4b",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The End of the Internet",
+        "refId": "af288f82bcc9",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
   "all": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "13,486 AI Investors in One Workbook: The AI Corner AI Investors Database 2026",
-        "refId": "6e4f985aadca",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
       {
         "text": "Why Permian Drillers are Embracing \u2018Chill Baby, Chill\u2019",
         "refId": "76c873485016",
@@ -163,6 +158,11 @@
       {
         "text": "Alphabet and Microsoft Earnings Will Put Investors\u2019 AI Stress to the Test",
         "refId": "b19e1806fffd",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Anthropic\u2019s IPO Stares Down a Wobbly AI Trade",
+        "refId": "1428d85ff993",
         "source": "The Daily Upside"
       }
     ]
