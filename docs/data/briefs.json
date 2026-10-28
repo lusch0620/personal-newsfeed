@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "[Podcast] From Fragmentation to Infrastructure: The Lasting Value of Modernizing Insurance Payments",
-        "refId": "e2c7733a96ff",
-        "source": "Banking Dive"
-      },
-      {
         "text": "Piermont CEO: Discipline with fintech clients is key",
         "refId": "916c7c386edd",
         "source": "Banking Dive"
@@ -15,6 +10,11 @@
       {
         "text": "Ripple gets OCC\u2019s unconditional charter approval",
         "refId": "4fb95e9c1100",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "PNC CEO: AI will change the M&A landscape",
+        "refId": "9837f4bd91ba",
         "source": "Banking Dive"
       }
     ]
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "12 Investment Must Reads for This Week (Oct. 27, 2026)",
-        "refId": "5c8e2434f872",
+        "text": "Anthropic Expands Claude Advisor Tool",
+        "refId": "72774ebda6cc",
         "source": "Wealth Management"
       },
       {
-        "text": "Why Access, Not Appetite, Is Holding Advisors Back in Alternatives",
-        "refId": "e951512886e0",
+        "text": "Echelon: PE-Backed Buyers' Deal Volume Dips as RIA M&amp;A Stays Strong",
+        "refId": "dcf365fe65cf",
         "source": "Wealth Management"
       }
     ]
@@ -42,11 +42,6 @@
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Falvey Insurance reshapes finance leadership and expands cargo underwriting team",
-        "refId": "dcb7bf18daa3",
-        "source": "Reinsurance News"
-      },
       {
         "text": "GEICO Returns $10.5 Million to New Jersey Policyholders",
         "refId": "c63b33966b9c",
@@ -56,6 +51,11 @@
         "text": "US Tells Ships to Avoid Unnecessary Transits Through Hormuz",
         "refId": "326c30b48804",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "Ping An P&C premium income rises 3.5% in 9M\u201926",
+        "refId": "944b385958ac",
+        "source": "Reinsurance News"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Q3 2026 Quarterly Data Review: Momentum Meets Resistance in CRE",
-        "refId": "2ecf5c7ac295",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "Nature loss threatens 140 million jobs across Europe",
-        "refId": "8a70c3c09b15",
+        "text": "Bank of England orders review of Revolut product approvals - FT",
+        "refId": "f89420ffa0f0",
         "source": "Finextra"
       },
       {
-        "text": "Bank of England orders review of Revolut product approvals - FT",
-        "refId": "f89420ffa0f0",
+        "text": "Zafin to buy Naehas to expand AI-powered banking and compliance platform",
+        "refId": "0607112e0e3c",
+        "source": "Finextra"
+      },
+      {
+        "text": "Ripple secures national bank charter; inks deals with BNY and Robinhood",
+        "refId": "cc47ff299621",
         "source": "Finextra"
       }
     ]
@@ -87,18 +87,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
-        "refId": "0314cbacd17d",
-        "source": "Dealbook (NYT)"
+        "text": "Midterms and The Coming AI Regulatory Crisis",
+        "refId": "f74bad93ba13",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Some quick thoughts on Anthropic, mega IPOs, and \u2018existential risks to humanity\u2019 \ud83e\udd16",
-        "refId": "051ee70d79e1",
-        "source": "TKer (Sam Ro)"
+        "text": "(Video Breakdown) Midterms and The Coming AI Regulatory Crisis",
+        "refId": "5607fe29ae67",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "What\u2019s Riding on Anthropic Going Public? Nearly Everything.",
-        "refId": "1af9c31b3869",
+        "text": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
+        "refId": "b1691582fcf9",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -131,11 +131,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sam Altman Gave Up Coding a Year Ago. Here Is the Renaissance He Wants AI to Build",
-        "refId": "d07a73e69a01",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Is \u201cWho\u2019s on First?\u201d funny?",
         "refId": "b576777d3cc5",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -144,6 +139,11 @@
         "text": "Roundup #90: In which Noah joins a Japanese VC firm",
         "refId": "c87401cf78c2",
         "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "NYT debate on the rules for AI companies",
+        "refId": "776ed50c255c",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -151,56 +151,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sam Altman Gave Up Coding a Year Ago. Here Is the Renaissance He Wants AI to Build",
-        "refId": "d07a73e69a01",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "Midterms and The Coming AI Regulatory Crisis",
+        "refId": "f74bad93ba13",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "[Podcast] From Fragmentation to Infrastructure: The Lasting Value of Modernizing Insurance Payments",
-        "refId": "e2c7733a96ff",
-        "source": "Banking Dive"
+        "text": "What\u2019s Going on at Powerhouse Law Firm Weil, Gotshal & Manges?",
+        "refId": "1b16b8fff33e",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
-        "refId": "0314cbacd17d",
-        "source": "Dealbook (NYT)"
+        "text": "Verizon\u2019s Comeback Tries to Cut Through SpaceX Static",
+        "refId": "7f9e00c95d16",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7737.98,
+      "v": 7743.98,
       "base": 7676.77,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 26463.965,
+      "v": 26549.852,
       "base": 26169.38,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52538.65,
+      "v": 52475.1,
       "base": 52361.58,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.03,
+      "v": 5.045,
       "base": 4.993,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 17.36,
+      "v": 16.91,
       "base": 17.52,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 173.717,
+      "v": 173.531,
       "base": 171.72,
       "bp": false
     }
