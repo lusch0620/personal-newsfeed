@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Bank of England orders review of Revolut product approvals - FT",
-        "refId": "f89420ffa0f0",
-        "source": "Finextra"
-      },
-      {
         "text": "Zafin to buy Naehas to expand AI-powered banking and compliance platform",
         "refId": "0607112e0e3c",
         "source": "Finextra"
@@ -76,6 +71,11 @@
         "text": "Ripple secures national bank charter; inks deals with BNY and Robinhood",
         "refId": "cc47ff299621",
         "source": "Finextra"
+      },
+      {
+        "text": "Data Center CMBS Spreads Widen as the Rest of the Market Holds Steady",
+        "refId": "96212efdff9c",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -87,11 +87,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Midterms and The Coming AI Regulatory Crisis",
-        "refId": "f74bad93ba13",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "(Video Breakdown) Midterms and The Coming AI Regulatory Crisis",
         "refId": "5607fe29ae67",
         "source": "Capital Flows Research"
@@ -100,6 +95,11 @@
         "text": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
         "refId": "b1691582fcf9",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Can an investor be too big to care about ethics?",
+        "refId": "acf424ad4378",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -151,11 +151,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Midterms and The Coming AI Regulatory Crisis",
-        "refId": "f74bad93ba13",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "What\u2019s Going on at Powerhouse Law Firm Weil, Gotshal & Manges?",
         "refId": "1b16b8fff33e",
         "source": "The Daily Upside"
@@ -163,6 +158,11 @@
       {
         "text": "Verizon\u2019s Comeback Tries to Cut Through SpaceX Static",
         "refId": "7f9e00c95d16",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Meta, SpaceX Detail New Financing Plans as Capital Squeeze Hits AI Industry",
+        "refId": "109d7da0af16",
         "source": "The Daily Upside"
       }
     ]
