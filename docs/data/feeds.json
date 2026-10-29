@@ -1,73 +1,5 @@
 [
   {
-    "id": "f7f31647eedf",
-    "title": "How Top Teams Review AI-Written Code",
-    "url": "https://www.the-ai-corner.com/p/ai-code-review-claude-code-team",
-    "source": "The AI Corner (Ruben Dominguez)",
-    "section": "Learn",
-    "date": "2026-10-27T17:32:54+00:00",
-    "summary_raw": "Merged pull requests more than doubled in three months while the revert share fell by over 40%. Here are the six layers of checks and risk tiers behind it.",
-    "summary_ai": {
-      "digest": "How Top Teams Review AI-Written Code",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "b1691582fcf9",
-    "title": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
-    "url": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
-    "source": "Dealbook (NYT)",
-    "section": "Markets & Macro",
-    "date": "2026-10-27T17:46:24+00:00",
-    "summary_raw": "After more than 100 years on the New York Stock Exchange, the automaker is shifting its listing to the Nasdaq, which is home to many technology companies.",
-    "summary_ai": {
-      "digest": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "96212efdff9c",
-    "title": "Data Center CMBS Spreads Widen as the Rest of the Market Holds Steady",
-    "url": "https://www.trepp.com/trepptalk/data-center-cmbs-caught-in-the-ai-sell-off",
-    "source": "Trepp Talk",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-10-27T18:30:00+00:00",
-    "summary_raw": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://www.trepp.com/trepptalk/data-center-cmbs-caught-in-the-ai-sell-off\" title=\"\"> <img alt=\"Data Center CMBS Spreads Widen as the Rest of the Market Holds Steady\" class=\"hs-featured-image\" src=\"https://www.trepp.com/hubfs/Blue%20Data%20Center%20Server%20(min).jpg\" style=\"width: auto !important; float: left; margin: 0 15px 15px 0;\" /> </a> \n</div> \n<p style=\"font-size: 16px; line-height: 2;\"><span style=\"color: ",
-    "summary_ai": {
-      "digest": "Data Center CMBS Spreads Widen as the Rest of the Market Holds Steady",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "c781e3ed9e31",
-    "title": "The Big Technology Guide To: Enterprise AI",
-    "url": "https://www.bigtechnology.com/p/the-big-technology-guide-to-enterprise",
-    "source": "Big Technology (Alex Kantrowitz)",
-    "section": "Learn",
-    "date": "2026-10-27T19:31:28+00:00",
-    "summary_raw": "An in-depth look at the opportunities, pitfalls, and capabilities of a technology with the potential to transform the nature of business today.",
-    "summary_ai": {
-      "digest": "The Big Technology Guide To: Enterprise AI",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "be6ead4d252c",
     "title": "Coca-Cola Flexes Volume Growth, but Posts Fizzless Quarter on Home Turf",
     "url": "https://www.thedailyupside.com/industries/consumer/coca-cola-flexes-volume-growth-but-posts-fizzless-quarter-on-home-turf/",
@@ -153,23 +85,6 @@
     }
   },
   {
-    "id": "201b3df0394c",
-    "title": "Clearstream makes tokenised fund distribution move",
-    "url": "https://www.finextra.com/newsarticle/48658/clearstream-makes-tokenised-fund-distribution-move?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-10-28T08:30:00+00:00",
-    "summary_raw": "Deutsche B\u00f6rse's post-trade business Clearstream is set to enable asset managers to securely issue tokenised fund shares using distributed ledger technology.",
-    "summary_ai": {
-      "digest": "Clearstream makes tokenised fund distribution move",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "e9d86e297194",
     "title": "Meta Earnings, Muse and the Frontier, Musebook",
     "url": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/",
@@ -179,23 +94,6 @@
     "summary_raw": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
     "summary_ai": {
       "digest": "Meta Earnings, Muse and the Frontier, Musebook",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "ec8243c1d461",
-    "title": "Zen.com and Mastercard expand Pay By Bank for merchants and consumers across Europe",
-    "url": "https://www.finextra.com/newsarticle/48659/zencom-and-mastercard-expand-pay-by-bank-for-merchants-and-consumers-across-europe?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-10-28T11:09:00+00:00",
-    "summary_raw": "European fintech Zen.com has enabled Pay by Bank experiences through Mastercard Open Finance, now supporting merchant payment acceptance and digital wallet top ups across nine target markets, Germany, Austria, Spain, Belgium, the Netherlands, Italy, Portugal, Ireland and Lithuania.",
-    "summary_ai": {
-      "digest": "Zen.com and Mastercard expand Pay By Bank for merchants and consumers across Europe",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -247,40 +145,6 @@
     "summary_raw": "NatWest has brought in AI agents from Adclear to overhaul how compliance is embedded across its marketing and communications operations, slashing approval times by 80%.",
     "summary_ai": {
       "digest": "NatWest slashes marketing compliance approval times with Adclear agents",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "7c3416b74efb",
-    "title": "BetaNXT Partners With Pave Finance on Portfolio Tech",
-    "url": "https://www.wealthmanagement.com/advisor-support-platforms/betanxt-partners-with-pave-finance-on-portfolio-tech",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-10-28T13:00:00+00:00",
-    "summary_raw": "BetaNXT will add Pave's portfolio construction and optimization software to its wealth management suite, giving advisors more tools to personalize client accounts at scale.",
-    "summary_ai": {
-      "digest": "BetaNXT Partners With Pave Finance on Portfolio Tech",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "ed299a70dba7",
-    "title": "Citizens Adds $1.2B Newport Beach Team From Comerica Bank",
-    "url": "https://www.wealthmanagement.com/ibd-news/citizens-adds-12b-newport-beach-team-from-comerica-bank",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-10-28T13:00:00+00:00",
-    "summary_raw": "Matt Webber and Chris Illiano bring their California practice to Citizens Private Wealth, deepening the bank's push into high-net-worth client relationships statewide.",
-    "summary_ai": {
-      "digest": "Citizens Adds $1.2B Newport Beach Team From Comerica Bank",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -391,23 +255,6 @@
     }
   },
   {
-    "id": "2553a28a6299",
-    "title": "The Only Way to Avoid This New Tax Burden: Don\u2019t Get Married",
-    "url": "https://www.wealthmanagement.com/high-net-worth/the-only-way-to-avoid-this-new-tax-burden-don-t-get-married",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-10-28T14:56:19+00:00",
-    "summary_raw": "High-earning couples could be subject to a \u201cmarriage penalty.\u201d",
-    "summary_ai": {
-      "digest": "The Only Way to Avoid This New Tax Burden: Don\u2019t Get Married",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "48ca10c04956",
     "title": "Opportunity Zone 101: What They Are and Why They Matter to CRE",
     "url": "https://www.trepp.com/trepptalk/opportunity-zone-101-what-they-are-and-why-they-matter-to-cre",
@@ -417,57 +264,6 @@
     "summary_raw": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://www.trepp.com/trepptalk/opportunity-zone-101-what-they-are-and-why-they-matter-to-cre\" title=\"\"> <img alt=\"Opportunity Zone 101: What They Are and Why They Matter to CRE\" class=\"hs-featured-image\" src=\"https://www.trepp.com/hubfs/Dallas%2c%20Texas%2c%20USA.%20Cityscape%20image%20of%20downtown%20Dallas%20(min).jpg\" style=\"width: auto !important; float: left; margin: 0 15px 15px 0;\" /> </a> \n</div> \n<p style=",
     "summary_ai": {
       "digest": "Opportunity Zone 101: What They Are and Why They Matter to CRE",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "17ea2d14fc7f",
-    "title": "Investment Roundup: Vestmark, Allspring, WisdomTree, Returned Stacked ETFs, Quoros Expand Model Portfolio Options",
-    "url": "https://www.wealthmanagement.com/etfs/investment-roundup-vestmark-allspring-wisdomtree-returned-stacked-etfs-quoros-expand-model-portfolio-options",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-10-28T15:33:43+00:00",
-    "summary_raw": "Janus Henderson, Van Eck and Cantor Fitzgerald also announced innovative fund launches in recent days.",
-    "summary_ai": {
-      "digest": "Investment Roundup: Vestmark, Allspring, WisdomTree, Returned Stacked ETFs, Quoros Expand Model Portfolio Options",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "732de195f65b",
-    "title": "The Delaware Statutory Trust Handoff",
-    "url": "https://www.wealthmanagement.com/estate-planning/the-delaware-statutory-trust-handoff",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-10-28T15:44:04+00:00",
-    "summary_raw": "What an executor needs when a client dies holding a DST interest.",
-    "summary_ai": {
-      "digest": "The Delaware Statutory Trust Handoff",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "2e63ccd400e0",
-    "title": "Investing in Trump Accounts\u2014A New Form of Philanthropy?",
-    "url": "https://www.wealthmanagement.com/philanthropy/investing-in-trump-accounts-a-new-form-of-philanthropy-",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-10-28T15:49:31+00:00",
-    "summary_raw": "Billionaires are pledging billions to seed the federal investment program, but what\u2019s in it for them?",
-    "summary_ai": {
-      "digest": "Investing in Trump Accounts\u2014A New Form of Philanthropy?",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -918,57 +714,6 @@
     }
   },
   {
-    "id": "883c8be02ba3",
-    "title": "Traditional crops offer a taste of tomorrow",
-    "url": "https://www.ft.com/content/a7d82893-4f09-47af-ac30-417c73de8aab?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T05:00:11+00:00",
-    "summary_raw": "The human diet of the future can draw on traditions from regions that share similar climate conditions \u2014 but farmers need more security to experiment",
-    "summary_ai": {
-      "digest": "Traditional crops offer a taste of tomorrow",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "601b88a65e0a",
-    "title": "Copper\u2019s AI-fuelled boom gets a reality check",
-    "url": "https://www.ft.com/content/6b5b96f5-0d2a-4161-911f-71dda46ccb9d?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T05:00:20+00:00",
-    "summary_raw": "Tariff threats from the US may have driven up the price but the industry has shifted spending on the basis of long-term demand",
-    "summary_ai": {
-      "digest": "Copper\u2019s AI-fuelled boom gets a reality check",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "95f0c5189e71",
-    "title": "Private equity\u2019s growing pains",
-    "url": "https://www.ft.com/content/b36c5561-b601-48f4-bdbc-9a2227a958fa?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T05:00:30+00:00",
-    "summary_raw": "The past decade has demonstrated that PE at scale is a differentiated asset class \u2014 not a better form of capitalism",
-    "summary_ai": {
-      "digest": "Private equity\u2019s growing pains",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "9bbb8d35aad2",
     "title": "LPL shares freefall more than 15% after investors aren't appeased by answers to hard-hitting questions about next act after Commonwealth, or by CEO humor during the quarterly analysts' call",
     "url": "https://riabiz.com/a/2026/10/29/lpl-shares-freefall-more-than-15-after-investors-arent-appeased-by-answers-to-hard-hitting-questions-about-next-act-after-commonwealth-or-by-ceo-humor-during-the-quarterly-analysts-call",
@@ -978,23 +723,6 @@
     "summary_raw": "LPL shareholders ran for the exits as one analyst after another asked where future growth was coming from amid light-hearted banter over grammar that fell flat",
     "summary_ai": {
       "digest": "LPL shares freefall more than 15% after investors aren't appeased by answers to hard-hitting questions about next act after Commonwealth, or by CEO humor during the quarterly analysts' call",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "42493d04c338",
-    "title": "The Fed plays for time (but doesn\u2019t have much)",
-    "url": "https://www.ft.com/content/65d84258-7b04-4064-ab76-6610bd522d65?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T06:30:00+00:00",
-    "summary_raw": "Plus, tech results and UK bank taxes",
-    "summary_ai": {
-      "digest": "The Fed plays for time (but doesn\u2019t have much)",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -1026,7 +754,7 @@
     "source": "Banking Dive",
     "section": "FIG \u2014 Banks",
     "date": "2026-10-29T09:55:00+00:00",
-    "summary_raw": "<p>Safety and soundness is paramount as the agentic commerce trend unfurls, and mobile wallet Paze is &ldquo;ready to do pilots,&rdquo; said Wally Mlynarski, CEO of the U.S. Bank subsidiary.</p>",
+    "summary_raw": "<p>Safety and soundness are paramount as the agentic commerce trend unfurls, and mobile wallet Paze is &ldquo;ready to do pilots,&rdquo; said Wally Mlynarski, CEO of the U.S. Bank subsidiary.</p>",
     "summary_ai": {
       "digest": "Elavon CEO: Trust, not speed, will rule in agentic commerce",
       "summary_long": "",
@@ -1071,23 +799,6 @@
     }
   },
   {
-    "id": "7644656721f1",
-    "title": "Any stock dips after the midterms are likely to be opportunities",
-    "url": "https://www.ft.com/content/e48bfc16-c7ab-4185-bb61-44491830a5cb?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T10:00:01+00:00",
-    "summary_raw": "The US economy\u2019s resilience is expected to continue driving US earnings and shares higher even if there is gridlock",
-    "summary_ai": {
-      "digest": "Any stock dips after the midterms are likely to be opportunities",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "6d426bbb4ea8",
     "title": "Captrust Acquires $1.1B Pacific Northwest RIA",
     "url": "https://www.wealthmanagement.com/ria-news/captrust-acquires-pacific-sage-partners-in-washington",
@@ -1097,23 +808,6 @@
     "summary_raw": "Captrust is expanding its Pacific Northwest footprint, acquiring Edmonds, Wash.-based Pacific Sage Partners and its $1.1 billion in client assets and eight advisors.",
     "summary_ai": {
       "digest": "Captrust Acquires $1.1B Pacific Northwest RIA",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "5b4f57985702",
-    "title": "Polymarket\u2019s Swiss Tony returns",
-    "url": "https://www.ft.com/content/463865ad-6725-40a7-b394-5cd9ba60bb7d?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T10:30:01+00:00",
-    "summary_raw": "The top-rated trader is back",
-    "summary_ai": {
-      "digest": "Polymarket\u2019s Swiss Tony returns",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -1241,23 +935,6 @@
     }
   },
   {
-    "id": "f11c7944349e",
-    "title": "Neonomics and Movitz Payments strengthen Pay by Bank security",
-    "url": "https://www.finextra.com/pressarticle/111501/neonomics-and-movitz-payments-strengthen-pay-by-bank-security?utm_medium=rssfinextra&utm_source=finextrafeed",
-    "source": "Finextra",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-10-29T12:12:00+00:00",
-    "summary_raw": "Neonomics, the European open banking and Pay by Bank provider, has integrated Movitz Payments' Verification of Payee (VoP) technology into Nello Pay in Finland, with plans to expand to Sweden, Denmark and Norway in 2027.",
-    "summary_ai": {
-      "digest": "Neonomics and Movitz Payments strengthen Pay by Bank security",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "ef95b3228b4f",
     "title": "Crypto exchange HTX agrees to exit UK after being sued by watchdog",
     "url": "https://www.ft.com/content/54c236ef-af7a-40df-9f0f-abf3d6c825d2?syn-25a6b1a6=1",
@@ -1309,6 +986,23 @@
     }
   },
   {
+    "id": "9ec83aabf015",
+    "title": "DNA Payments partners Zeal to pilot loyalty programme",
+    "url": "https://www.finextra.com/pressarticle/111504/dna-payments-partners-zeal-to-pilot-loyalty-programme?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-10-29T12:19:00+00:00",
+    "summary_raw": "DNA Payments, one of the UK\u2019s fastest-growing payment providers, has begun piloting a new loyalty programme for select UK merchants, in partnership with Zeal, the data and loyalty layer for card machines.",
+    "summary_ai": {
+      "digest": "DNA Payments partners Zeal to pilot loyalty programme",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
     "id": "eccc2093325d",
     "title": "Microsoft Up, Google Down. A Tale of Two Hyperscalers.",
     "url": "https://www.nytimes.com/2026/10/29/business/dealbook/microsoft-google-ai-hyperscalers.html",
@@ -1335,23 +1029,6 @@
     "summary_raw": "Make sense of the latest business and policy headlines with our daily newsletter.",
     "summary_ai": {
       "digest": "Sign Up for DealBook",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "c7ef1a1befd5",
-    "title": "WTW grows Q3\u201926 revenue by 8% to $2.46bn",
-    "url": "https://www.reinsurancene.ws/wtw-grows-q326-revenue-by-8-to-2-46bn/",
-    "source": "Reinsurance News",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-10-29T12:30:46+00:00",
-    "summary_raw": "<p>Global insurance and reinsurance broking group WTW generated revenue of $2.46 billion in Q3 2026, an increase of 8% year-on-year, while organic revenue grew by 4%. WTW&#8217;s income from operations increased by 3% to $429 million, although the operating margin declined by 90 basis points to 17.4%. The firm&#8217;s adjusted operating income rose by 15% [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/wtw-grows-q326-revenue-by-8-to-2-46bn/\">WTW grows Q3&#8217;26 revenue by 8% to",
-    "summary_ai": {
-      "digest": "WTW grows Q3\u201926 revenue by 8% to $2.46bn",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -1530,23 +1207,6 @@
     }
   },
   {
-    "id": "a62520d1d925",
-    "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
-    "url": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
-    "source": "Dealbook (NYT)",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T14:10:43+00:00",
-    "summary_raw": "The deal combines the country\u2019s largest restaurant delivery service with its biggest online grocery platform.",
-    "summary_ai": {
-      "digest": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "0b31dda9b740",
     "title": "Who Was to Blame for Hong Kong\u2019s Deadly 2025 Fire?",
     "url": "https://www.insurancejournal.com/news/international/2026/10/29/890760.htm",
@@ -1701,14 +1361,14 @@
   },
   {
     "id": "6eb449b9bb4e",
-    "title": "Druckenmiller backs push to bring risky crypto-style bets to Wall Street",
+    "title": "Druckenmiller backs push to bring risky perpetual futures to Wall Street",
     "url": "https://www.ft.com/content/08dea965-63c8-4e63-a69d-b2c2a8e909eb?syn-25a6b1a6=1",
     "source": "Financial Times Markets",
     "section": "Markets & Macro",
     "date": "2026-10-29T14:54:48+00:00",
     "summary_raw": "Hedge fund billionaire says he has invested in little-known CME Group rival tradeXYZ",
     "summary_ai": {
-      "digest": "Druckenmiller backs push to bring risky crypto-style bets to Wall Street",
+      "digest": "Druckenmiller backs push to bring risky perpetual futures to Wall Street",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -1726,40 +1386,6 @@
     "summary_raw": "<p>Aon\u2019s latest Global Catastrophe Recap shows that global insured losses from natural disasters reached $91 billion in the first nine months of 2026, the lowest for the period since 2019. The figure remained well below the five-year average of $135 billion, but was slightly above the 21st-century average of $88 billion. Global economic losses reportedly [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/global-insured-nat-cat-losses-reach-91bn-in-first-9m-26-aon/\">Global insured na",
     "summary_ai": {
       "digest": "Global insured nat cat losses reach $91bn in first 9M\u201926: Aon",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "1bc12f0aa9bd",
-    "title": "Consumers are spending more, but they\u2019re not getting their money\u2019s worth due to inflation",
-    "url": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T15:04:00+00:00",
-    "summary_raw": "Consumer spending rose sharply in September, but it largely reflected households spending more on gas and transportation after an increase in energy costs.",
-    "summary_ai": {
-      "digest": "Consumers are spending more, but they\u2019re not getting their money\u2019s worth due to inflation",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "063e880c0133",
-    "title": "Caterpillar\u2019s stock is sinking. Here\u2019s what that means for the Dow.",
-    "url": "https://www.marketwatch.com/story/caterpillars-stock-heads-for-worst-day-in-7-years-and-what-that-means-for-the-dow-d67f1fb7?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T15:12:00+00:00",
-    "summary_raw": "Caterpillar\u2019s data-center business is fine, but other areas disappointed. The stock was heading for its biggest loss in years.",
-    "summary_ai": {
-      "digest": "Caterpillar\u2019s stock is sinking. Here\u2019s what that means for the Dow.",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -1870,40 +1496,6 @@
     }
   },
   {
-    "id": "2da880c216a2",
-    "title": "Florida is voting on whether to slash property taxes. Here\u2019s who it would benefit \u2014 and hurt.",
-    "url": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T15:39:00+00:00",
-    "summary_raw": "Amendment 3\u2019s passage could add momentum to other states\u2019 efforts to slash property taxes",
-    "summary_ai": {
-      "digest": "Florida is voting on whether to slash property taxes. Here\u2019s who it would benefit \u2014 and hurt.",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "8eb15447df8f",
-    "title": "\u2018Fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-    "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T15:45:00+00:00",
-    "summary_raw": "\u201cI\u2019m 68, she\u2019s 74, and we\u2019re both in good health. We married later in life and have no children.\u201d",
-    "summary_ai": {
-      "digest": "\u2018Fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "6a592382a5ab",
     "title": "A New Kind of Chemistry",
     "url": "https://www.construction-physics.com/p/a-new-kind-of-chemistry",
@@ -1938,23 +1530,6 @@
     }
   },
   {
-    "id": "1c0c8a933d45",
-    "title": "Looking for income? These dividend stocks have high yields that seem well supported.",
-    "url": "https://www.marketwatch.com/story/looking-for-income-these-dividend-stocks-have-high-yields-that-seem-well-supported-81093bdf?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T15:54:00+00:00",
-    "summary_raw": "Ford, Pfizer and Verizon are among 11 stocks that passed a screen of the S&amp;P 500 for high dividend yields that are expected to be well covered by the companies\u2019 free cash flow.",
-    "summary_ai": {
-      "digest": "Looking for income? These dividend stocks have high yields that seem well supported.",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "c1d4de8461e6",
     "title": "Study: 75% of Ex-NFL Players Who Died Between 2008 and 2023 Had CTE",
     "url": "https://www.insurancejournal.com/news/national/2026/10/29/890788.htm",
@@ -1964,40 +1539,6 @@
     "summary_raw": "Nearly 75% of all National Football League (NFL) players who died between 2008 and 2023 had chronic traumatic encephalopathy (CTE) neuropathology, according to a new study led by Boston University. The new findings build on an August 2026 study from &#8230;",
     "summary_ai": {
       "digest": "Study: 75% of Ex-NFL Players Who Died Between 2008 and 2023 Had CTE",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "b64ccc9facb3",
-    "title": "US tech stocks fall after earnings fuel AI spending concerns",
-    "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T15:58:07+00:00",
-    "summary_raw": "Nasdaq 100 loses 1.2% after Google parent Alphabet and Microsoft report lower than expected capex",
-    "summary_ai": {
-      "digest": "US tech stocks fall after earnings fuel AI spending concerns",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "406ce10d8261",
-    "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-    "url": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T16:00:00+00:00",
-    "summary_raw": "\u201cGiven the size and long-term nature of this gift, we want to make sure the funds are managed prudently.\u201d",
-    "summary_ai": {
-      "digest": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2023,23 +1564,6 @@
     }
   },
   {
-    "id": "fa79725ce54c",
-    "title": "Josh Kushner and OpenAI-backed group agree deal for US home security firm",
-    "url": "https://www.ft.com/content/f88e30a0-1252-4695-97b0-03da22e5fd42?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T16:06:14+00:00",
-    "summary_raw": "Private capital group backed by OpenAI expects ADT to \u2018form the foundation\u2019 of its home security business",
-    "summary_ai": {
-      "digest": "Josh Kushner and OpenAI-backed group agree deal for US home security firm",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "d43280fad002",
     "title": "Greek PM Calls for Global Maritime Truce After Greek Ship Sunk in Drone Attack",
     "url": "https://www.insurancejournal.com/news/international/2026/10/29/890791.htm",
@@ -2049,6 +1573,23 @@
     "summary_raw": "Greek Prime Minister Kyriakos Mitsotakis called on Wednesday for a global maritime truce after a drone attack sank a Greek container ship off Bulgaria, the latest of a series of strikes on ships in the western Black Sea this month. &#8230;",
     "summary_ai": {
       "digest": "Greek PM Calls for Global Maritime Truce After Greek Ship Sunk in Drone Attack",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "0fd6cf8a93dd",
+    "title": "Bank of America plants its flag in Wisconsin",
+    "url": "https://www.bankingdive.com/news/bank-of-america-opens-wisconsin-madison-milwaukee-alabama-louisiana/873206/",
+    "source": "Banking Dive",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-10-29T16:12:30+00:00",
+    "summary_raw": "<figure><div><img src=\"https://imgproxy.divecdn.com/1wTdJjouk3JEF5cQLSJRczVYkG-4NPSsgS9fVP3S9aA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ2MzEyNzc2LmpwZw==.webp\" /></div></figure><p>The Charlotte, North Carolina-based bank&rsquo;s first Wisconsin retail branch opened Wednesday. BofA plans to open branches in Alabama and Louisiana next year.</p>",
+    "summary_ai": {
+      "digest": "Bank of America plants its flag in Wisconsin",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2108,23 +1649,6 @@
     }
   },
   {
-    "id": "228c18f64919",
-    "title": "You can\u2019t rely on the S&P 500 as much as you may think",
-    "url": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-10-29T16:26:00+00:00",
-    "summary_raw": "The index\u2019s weakness may surprise a generation of investors raised on the cult of \u201cstocks always go up.\u201d",
-    "summary_ai": {
-      "digest": "You can\u2019t rely on the S&P 500 as much as you may think",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "54a3cad42d9f",
     "title": "Rainier Partners Acquires Texas MGA Platform Apex",
     "url": "https://www.insurancejournal.com/news/southcentral/2026/10/29/890822.htm",
@@ -2134,6 +1658,23 @@
     "summary_raw": "Rainier Partners, a private equity firm investing in lower middle-market services businesses, has acquired Apex Insurance Services, a multi-brand managing general agency (MGA) platform focused on the Texas non-standard auto insurance market. Headquartered in Richardson, Texas, Apex manages five MGAs &#8230;",
     "summary_ai": {
       "digest": "Rainier Partners Acquires Texas MGA Platform Apex",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "9bf0d8b75be4",
+    "title": "Your Ideal Client Profile Describes the Wrong Day",
+    "url": "https://www.wealthmanagement.com/marketing/your-ideal-client-profile-describes-the-wrong-day",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-10-29T16:28:13+00:00",
+    "summary_raw": "Your best clients already told you who your ideal client is on the day they first called.",
+    "summary_ai": {
+      "digest": "Your Ideal Client Profile Describes the Wrong Day",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2176,15 +1717,15 @@
     }
   },
   {
-    "id": "542943c2d2ec",
-    "title": "This credit card is the \u2018best weapon\u2019 to fight debt while interest rates keep climbing",
-    "url": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
-    "source": "MarketWatch",
+    "id": "6bd8564a19e8",
+    "title": "NYSE owner\u2019s tokenised stock plan hits hurdle as big companies object",
+    "url": "https://www.ft.com/content/b6fe5be5-b508-4fe5-b705-955ae77f208b?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
     "section": "Markets & Macro",
-    "date": "2026-10-29T16:49:00+00:00",
-    "summary_raw": "After September\u2019s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.",
+    "date": "2026-10-29T16:42:40+00:00",
+    "summary_raw": "Alphabet, Oracle and Microsoft among 38 groups of a proposed 62 saying they do not want their stocks included",
     "summary_ai": {
-      "digest": "This credit card is the \u2018best weapon\u2019 to fight debt while interest rates keep climbing",
+      "digest": "NYSE owner\u2019s tokenised stock plan hits hurdle as big companies object",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2193,15 +1734,15 @@
     }
   },
   {
-    "id": "779a3b90870c",
-    "title": "Get ready for the \u2018Year of Starlink\u2019 as airlines battle over superfast WiFi",
-    "url": "https://www.marketwatch.com/story/get-ready-for-the-year-of-starlink-as-airlines-battle-over-superfast-wifi-6bce32c1?mod=mw_rss_topstories",
-    "source": "MarketWatch",
+    "id": "750c89e8353b",
+    "title": "Investors double withdrawal requests at Partners\u2019 flagship US private equity fund",
+    "url": "https://www.ft.com/content/1ff658df-963e-4b92-9e12-f0cf5517b2ec?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
     "section": "Markets & Macro",
-    "date": "2026-10-29T16:49:00+00:00",
-    "summary_raw": "More airlines are looking to add the SpaceX-owned satellite internet to their fleets as passengers clamor for fast and reliable wifi/",
+    "date": "2026-10-29T16:59:02+00:00",
+    "summary_raw": "Wealthy individuals sought to pull 15% of the fund\u2019s net assets during the third quarter",
     "summary_ai": {
-      "digest": "Get ready for the \u2018Year of Starlink\u2019 as airlines battle over superfast WiFi",
+      "digest": "Investors double withdrawal requests at Partners\u2019 flagship US private equity fund",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -2227,15 +1768,525 @@
     }
   },
   {
+    "id": "e2c7733a96ff",
+    "title": "[Podcast] From Fragmentation to Infrastructure: The Lasting Value of Modernizing Insurance Payments",
+    "url": "https://www.bankingdive.com/spons/podcast-from-fragmentation-to-infrastructure-the-lasting-value-of-modern/833759/",
+    "source": "Banking Dive",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-10-29T17:05:07+00:00",
+    "summary_raw": "<p>Explore how modernizing and unifying insurance payments helps insurers reduce costs, improve customer experiences, and build a foundation for long-term growth.</p>",
+    "summary_ai": {
+      "digest": "[Podcast] From Fragmentation to Infrastructure: The Lasting Value of Modernizing Insurance Payments",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "b2bd938fa856",
+    "title": "BofE consults on tokenised collateral in central clearing",
+    "url": "https://www.finextra.com/newsarticle/48670/bofe-consults-on-tokenised-collateral-in-central-clearing?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-10-29T17:23:00+00:00",
+    "summary_raw": "The Bank of England has launched a consultation supporting central counterparties (CCPs) acceptance of tokenised forms of eligible collateral.",
+    "summary_ai": {
+      "digest": "BofE consults on tokenised collateral in central clearing",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "980f4987babc",
+    "title": "AXA XL Re GWP & other revenues down 9% in 9M\u201926 on lower volumes",
+    "url": "https://www.reinsurancene.ws/axa-xl-re-gwp-other-revenues-down-9-in-9m26-on-lower-volumes/",
+    "source": "Reinsurance News",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-10-29T17:30:28+00:00",
+    "summary_raw": "<p>AXA XL Reinsurance, the global property, casualty, and specialty reinsurance division of AXA Group, recorded a 9% year-on-year decrease in gross written premiums and other revenues during the first nine months of 2026 to \u20ac2.2 billion, with the firm pointing to discipline in the softening market. Numerous insurers and reinsurers have reported their third quarter [&#8230;]</p>\n<p>The post <a href=\"https://www.reinsurancene.ws/axa-xl-re-gwp-other-revenues-down-9-in-9m26-on-lower-volumes/\">AXA XL",
+    "summary_ai": {
+      "digest": "AXA XL Re GWP & other revenues down 9% in 9M\u201926 on lower volumes",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "dd7183a51139",
+    "title": "Want to Know Your Clients Better? Ask Them These 10 Questions",
+    "url": "https://www.wealthmanagement.com/client-relations/want-to-know-your-clients-better-ask-them-these-10-questions",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-10-29T17:50:04+00:00",
+    "summary_raw": "Blueprints for turning routine meetings into genuine discoveries.",
+    "summary_ai": {
+      "digest": "Want to Know Your Clients Better? Ask Them These 10 Questions",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "bd9c87d9b97c",
+    "title": "State of AI 2026: AI Is 13x Cheaper. Where\u2019s the Payoff?",
+    "url": "https://www.the-ai-corner.com/p/state-of-ai-report-2026-findings",
+    "source": "The AI Corner (Ruben Dominguez)",
+    "section": "Learn",
+    "date": "2026-10-29T17:53:37+00:00",
+    "summary_raw": "The 6 findings that matter most if you build or run a company.",
+    "summary_ai": {
+      "digest": "State of AI 2026: AI Is 13x Cheaper. Where\u2019s the Payoff?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "c744d66eff74",
+    "title": "Raymond James Recruiting Across Affiliation Models",
+    "url": "https://www.wealthmanagement.com/ibd-news/raymond-james-recruiting-surges-assets-hit-187-trillion",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-10-29T18:01:43+00:00",
+    "summary_raw": "Raymond James posted record quarterly client assets and strong recruiting gains across its advisor channels, with CEO Paul Shoukry crediting flexibility in affiliation options for the growth.",
+    "summary_ai": {
+      "digest": "Raymond James Recruiting Across Affiliation Models",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "7c27c8c734e4",
+    "title": "Can Artificial Intelligence Forecast Treatment Effects in Economics?",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/10/can-artificial-intelligence-forecast-treatment-effects-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=can-artificial-intelligence-forecast-treatment-effects-in-economics",
+    "source": "Marginal Revolution (Tyler Cowen)",
+    "section": "Learn",
+    "date": "2026-10-29T18:02:03+00:00",
+    "summary_raw": "<p>I use LLMs to forecast treatment effects of research studies pre-registered on the AEA RCT Registry and the Open Science Framework. I focus on studies whose results were first publicly released in 2026 and elicit forecasts from models whose training or knowledge cut-off dates were before the relevant set of papers was released. First, LLM [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/10/can-artificial-intelligence-forecast-treatment-effects-in-econo",
+    "summary_ai": {
+      "digest": "Can Artificial Intelligence Forecast Treatment Effects in Economics?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "9ccad68197e6",
+    "title": "Schwab to Push Bank Capabilities for RIAs to Compete With Wirehouses",
+    "url": "https://www.wealthmanagement.com/ria-news/schwab-to-push-on-bank-capabilities-for-rias-to-further-compete-with-wirehouses",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-10-29T18:26:19+00:00",
+    "summary_raw": "Schwab CEO Rick Wurster said the firm will remain focused on bank-like services for RIAs, as he anticipates more large wirehouse teams considering a move.",
+    "summary_ai": {
+      "digest": "Schwab to Push Bank Capabilities for RIAs to Compete With Wirehouses",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "a62520d1d925",
+    "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
+    "url": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
+    "source": "Dealbook (NYT)",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T18:52:07+00:00",
+    "summary_raw": "The deal combines the country\u2019s largest restaurant delivery service with its biggest online grocery platform.",
+    "summary_ai": {
+      "digest": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "6ac3cbfb89cd",
+    "title": "ExxonMobil boss pulls out of Gulf energy conference over security concerns",
+    "url": "https://www.ft.com/content/288ccf9d-6456-4bed-85c0-e7216bb31c66?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T18:55:08+00:00",
+    "summary_raw": "Darren Woods was scheduled to speak at the Adipec conference in Abu Dhabi on Monday",
+    "summary_ai": {
+      "digest": "ExxonMobil boss pulls out of Gulf energy conference over security concerns",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "f7278cc1513d",
+    "title": "Visa and Tencent ink agentic commerce and cross-border payments MoU",
+    "url": "https://www.finextra.com/newsarticle/48672/visa-and-tencent-ink-agentic-commerce-and-cross-border-payments-mou?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "section": "FIG \u2014 Specialty Finance",
+    "date": "2026-10-29T18:57:00+00:00",
+    "summary_raw": "Weeks after securing the regulatory green light to step up its operations in China, Visa has inked a deal with the country's tech behemoth Tencent spanning cross-border payments and AI-powered commerce.",
+    "summary_ai": {
+      "digest": "Visa and Tencent ink agentic commerce and cross-border payments MoU",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "e1f17a27bf15",
+    "title": "LPL-Affiliated Firm Sues Former Advisor, Cetera for Soliciting Clients, Stealing Data",
+    "url": "https://www.wealthmanagement.com/ibd-news/lpl-firm-sues-former-adviser-cetera-over-clients",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-10-29T19:12:48+00:00",
+    "summary_raw": "Wochnick Financial Services accused former employee Andrew Koetter of breaching noncompete terms and taking client data before joining Cetera, with 19 accounts reportedly lost so far.",
+    "summary_ai": {
+      "digest": "LPL-Affiliated Firm Sues Former Advisor, Cetera for Soliciting Clients, Stealing Data",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "714bf45499e0",
+    "title": "Why AI Hackers Still Fall for Simple Traps",
+    "url": "https://www.bigtechnology.com/p/why-ai-hackers-still-fall-for-simple",
+    "source": "Big Technology (Alex Kantrowitz)",
+    "section": "Learn",
+    "date": "2026-10-29T19:18:46+00:00",
+    "summary_raw": "Horizon3 CEO Snehal Antani on AI cybersecurity hype, the real danger of faster exploits, and why agents should be treated as insider threats.",
+    "summary_ai": {
+      "digest": "Why AI Hackers Still Fall for Simple Traps",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "070e572dc0bd",
+    "title": "Accounting\u2019s AI Boom Is Widening the Experience Gap",
+    "url": "https://www.thedailyupside.com/cfo/accounting-tax/accounting-ai-boom-is-widening-the-experience-gap-erik-nakamura-daily-journal-jack-castonguay-hofstra/",
+    "source": "The Daily Upside",
+    "section": "Newsletters",
+    "date": "2026-10-29T19:31:33+00:00",
+    "summary_raw": "<p>Daily Journal CFO Erik Nakamura and Hofstra professor Jack Castonguay explain why AI raises the stakes for accounting judgment and training.</p>\n<p>The post <a href=\"https://www.thedailyupside.com/cfo/accounting-tax/accounting-ai-boom-is-widening-the-experience-gap-erik-nakamura-daily-journal-jack-castonguay-hofstra/\">Accounting\u2019s AI Boom Is Widening the Experience Gap</a> appeared first on <a href=\"https://www.thedailyupside.com\">The Daily Upside</a>.</p>",
+    "summary_ai": {
+      "digest": "Accounting\u2019s AI Boom Is Widening the Experience Gap",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "72858b0ca976",
+    "title": "Why the slowdown in Wall Street deals?",
+    "url": "https://www.ft.com/content/0da88a47-1b89-4980-9161-03413e7a8a35?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T20:00:00+00:00",
+    "summary_raw": "Are mergers a casualty of a slowing market?",
+    "summary_ai": {
+      "digest": "Why the slowdown in Wall Street deals?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "b64ccc9facb3",
+    "title": "US tech stocks fall after earnings fuel AI spending concerns",
+    "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T20:10:36+00:00",
+    "summary_raw": "Nasdaq 100 drops 1.4% after Google parent Alphabet and Microsoft report lower than expected capex",
+    "summary_ai": {
+      "digest": "US tech stocks fall after earnings fuel AI spending concerns",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "fa79725ce54c",
+    "title": "Josh Kushner and OpenAI-backed group agree deal for US home security firm",
+    "url": "https://www.ft.com/content/f88e30a0-1252-4695-97b0-03da22e5fd42?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T20:28:20+00:00",
+    "summary_raw": "Private capital group backed by OpenAI expects ADT to \u2018form the foundation\u2019 of its home security business",
+    "summary_ai": {
+      "digest": "Josh Kushner and OpenAI-backed group agree deal for US home security firm",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "ea5cac73e3c8",
+    "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+    "source": "Federal Reserve Press Releases",
+    "section": "FIG \u2014 Banks",
+    "date": "2026-10-29T20:30:00+00:00",
+    "summary_raw": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+    "summary_ai": {
+      "digest": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
     "id": "d5a839c12a79",
-    "title": "All the reasons Marvell investors are \u2019freaking out\u2019 as Lumentum deal rumors swirl",
+    "title": "All the reasons Marvell investors are \u2018freaking out\u2019 as Lumentum deal rumors swirl",
     "url": "https://www.marketwatch.com/story/marvell-is-reportedly-close-to-buying-lumentum-analysts-say-they-see-logic-in-a-potential-deal-d7539c59?mod=mw_rss_topstories",
     "source": "MarketWatch",
     "section": "Markets & Macro",
-    "date": "2026-10-29T17:08:00+00:00",
+    "date": "2026-10-29T20:31:00+00:00",
     "summary_raw": "Investors are nervous that Marvell would have to pay a big premium \u2014\u00a0and wait a while for China to approve any deal.",
     "summary_ai": {
-      "digest": "All the reasons Marvell investors are \u2019freaking out\u2019 as Lumentum deal rumors swirl",
+      "digest": "All the reasons Marvell investors are \u2018freaking out\u2019 as Lumentum deal rumors swirl",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "ea1143136dc5",
+    "title": "New Jersey governor threatens to block delivery of Russian diesel cargoes",
+    "url": "https://www.ft.com/content/3d9ac5af-d6c7-48f8-a5b4-7b3b22cc243d?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T20:34:22+00:00",
+    "summary_raw": "Mikie Sherrill calls Trump\u2019s deal with Putin \u2018corrupt and illegal\u2019 as she weighs moves to stop shipment to east coast port",
+    "summary_ai": {
+      "digest": "New Jersey governor threatens to block delivery of Russian diesel cargoes",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "228c18f64919",
+    "title": "The S&P 500 isn\u2019t the big winner you may think it is",
+    "url": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T20:39:00+00:00",
+    "summary_raw": "The index\u2019s weakness may surprise a generation of investors raised on the cult of \u201cstocks always go up.\u201d",
+    "summary_ai": {
+      "digest": "The S&P 500 isn\u2019t the big winner you may think it is",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "7376d159cd9a",
+    "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+    "url": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T20:45:00+00:00",
+    "summary_raw": "\u201cWhen I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.\u201d",
+    "summary_ai": {
+      "digest": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "30d8257a17dd",
+    "title": "Schwab Survey: RIAs Are Shifting Growth Focus Beyond AUM to New Clients, Referrals",
+    "url": "https://www.wealthmanagement.com/ria-news/rias-shift-growth-focus-beyond-aum-to-referrals",
+    "source": "Wealth Management",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-10-29T20:49:46+00:00",
+    "summary_raw": "Schwab's latest RIA survey finds advisors increasingly measuring success through new clients and referrals, not just assets, as firms brace for a tougher organic growth landscape.",
+    "summary_ai": {
+      "digest": "Schwab Survey: RIAs Are Shifting Growth Focus Beyond AUM to New Clients, Referrals",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "8eb15447df8f",
+    "title": "\u2018Fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+    "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T21:31:00+00:00",
+    "summary_raw": "\u201cI\u2019m 68, she\u2019s 74, and we\u2019re both in good health. We married later in life and have no children.\u201d",
+    "summary_ai": {
+      "digest": "\u2018Fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "a7ec37226e54",
+    "title": "Sandisk sees revenue nearly quintuple \u2014\u00a0and a stock split is on the way",
+    "url": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T21:35:00+00:00",
+    "summary_raw": "Sandisk\u2019s stock has climbed more than 2,600% since the company separated from Western Digital 20 months ago \u2014 and it has one of the highest prices in the S&amp;P 500.",
+    "summary_ai": {
+      "digest": "Sandisk sees revenue nearly quintuple \u2014\u00a0and a stock split is on the way",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "2d6176f3b5a4",
+    "title": "A Starbucks turnaround is brewing \u2014\u00a0but perhaps not quickly enough",
+    "url": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T21:36:00+00:00",
+    "summary_raw": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
+    "summary_ai": {
+      "digest": "A Starbucks turnaround is brewing \u2014\u00a0but perhaps not quickly enough",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "fd2421ab1bdc",
+    "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+    "url": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T21:52:00+00:00",
+    "summary_raw": "Several proposals consider changing the way retirees receive inflation protection. Here\u2019s what it could cost you.",
+    "summary_ai": {
+      "digest": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "0f14a9b93e44",
+    "title": "Alphabet shares tumble in $500bn rout",
+    "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+    "source": "Financial Times Markets",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T21:53:41+00:00",
+    "summary_raw": "Google owner admits \u2018AI mode\u2019 has hurt traditional search as sales and profits undershoot expectations",
+    "summary_ai": {
+      "digest": "Alphabet shares tumble in $500bn rout",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "406ce10d8261",
+    "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+    "url": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T22:00:00+00:00",
+    "summary_raw": "\u201cGiven the size and long-term nature of this gift, we want to make sure the funds are managed prudently.\u201d",
+    "summary_ai": {
+      "digest": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "4b7ead4d73f4",
+    "title": "The midterms are crucial to the future of Social Security \u2014 no matter how old you are",
+    "url": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T22:01:00+00:00",
+    "summary_raw": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator\u2019s term.",
+    "summary_ai": {
+      "digest": "The midterms are crucial to the future of Social Security \u2014 no matter how old you are",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "5f9214bf2a88",
+    "title": "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses to pay. Is he legally obligated?",
+    "url": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-10-29T22:45:00+00:00",
+    "summary_raw": "\u201cBefore our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.\u201d",
+    "summary_ai": {
+      "digest": "My abusive ex-husband promised $20,000 for our kids\u2019 education. Now he refuses to pay. Is he legally obligated?",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
