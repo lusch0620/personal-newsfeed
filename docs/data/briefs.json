@@ -3,18 +3,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Federal Reserve issues FOMC statement",
-        "refId": "52aa4bc1dd51",
-        "source": "Federal Reserve Press Releases"
-      },
-      {
-        "text": "Bluevine, Valley Bank execs talk integration approach",
-        "refId": "db3e9809e9de",
+        "text": "Elavon CEO: Trust, not speed, will rule in agentic commerce",
+        "refId": "09137ca1bf4b",
         "source": "Banking Dive"
       },
       {
-        "text": "Elavon CEO: Trust, not speed, will rule in agentic commerce",
-        "refId": "09137ca1bf4b",
+        "text": "Smaller AI models help Bank of America, Capital One manage costs",
+        "refId": "6df54c59ce14",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "U.S. Bank risk chief heads to Amex",
+        "refId": "41f7ca370da5",
         "source": "Banking Dive"
       }
     ]
@@ -22,11 +22,6 @@
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026",
-        "refId": "32879cc632ae",
-        "source": "RIABiz"
-      },
       {
         "text": "Referral vendor Zoe Financial rewrites its ADV2 for fee hikes in its RIA TAMP that follow a censure, cease-and-desist order, and $450,000 civil penalty to atone for conflict disclosure failures in how it wears both hats",
         "refId": "ba324c2e5a96",
@@ -36,6 +31,11 @@
         "text": "LPL shares freefall more than 15% after investors aren't appeased by answers to hard-hitting questions about next act after Commonwealth, or by CEO humor during the quarterly analysts' call",
         "refId": "9bbb8d35aad2",
         "source": "RIABiz"
+      },
+      {
+        "text": "Want to Know Your Clients Better? Ask Them These 10 Questions",
+        "refId": "dd7183a51139",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Federal Reserve Holds as the Case for Another Hike Builds at the October FOMC Meeting",
-        "refId": "e4e8d825201e",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "Mollie introduces ChatGPT and Claude integrations",
-        "refId": "83807b9714d8",
+        "text": "TradeStation Europe expands operations capability",
+        "refId": "624cdff0c301",
         "source": "Finextra"
       },
       {
-        "text": "TradeStation Europe expands operations capability",
-        "refId": "624cdff0c301",
+        "text": "SettleMint integrates digital asset lifecycle platform with IBM Digital Asset Haven",
+        "refId": "f2ea214bda84",
+        "source": "Finextra"
+      },
+      {
+        "text": "B2Broker Group moves into agentic trading",
+        "refId": "f06ee8c5eb92",
         "source": "Finextra"
       }
     ]
@@ -87,11 +87,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Global Oil Data Deck (October 2026)",
-        "refId": "8d3aa61534ae",
-        "source": "Commodity Context"
-      },
-      {
         "text": "The Fed\u2019s Looming Policy Error",
         "refId": "32bb08766cd4",
         "source": "Capital Flows Research"
@@ -99,6 +94,11 @@
       {
         "text": "Its Investors Say Kalshi Is Worth $40 Billion. Is an I.P.O. Next?",
         "refId": "d323272a147f",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Microsoft Up, Google Down. A Tale of Two Hyperscalers.",
+        "refId": "eccc2093325d",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -131,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How is AI shaping economic research?",
-        "refId": "766985e5af06",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Errors in the research of Emmanuel Saez and Gabriel Zucman",
-        "refId": "a49f0f5c21ed",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "My design Conversation with Roman Mars",
         "refId": "487b564ee620",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "AI dominates human peer reviews",
+        "refId": "d70ec9452cbe",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "A golden age of science is coming",
+        "refId": "fad0bd8ec24f",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -151,56 +151,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Global Oil Data Deck (October 2026)",
-        "refId": "8d3aa61534ae",
-        "source": "Commodity Context"
-      },
-      {
-        "text": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026",
-        "refId": "32879cc632ae",
+        "text": "Referral vendor Zoe Financial rewrites its ADV2 for fee hikes in its RIA TAMP that follow a censure, cease-and-desist order, and $450,000 civil penalty to atone for conflict disclosure failures in how it wears both hats",
+        "refId": "ba324c2e5a96",
         "source": "RIABiz"
       },
       {
-        "text": "Federal Reserve issues FOMC statement",
-        "refId": "52aa4bc1dd51",
-        "source": "Federal Reserve Press Releases"
+        "text": "The Fed\u2019s Looming Policy Error",
+        "refId": "32bb08766cd4",
+        "source": "Capital Flows Research"
+      },
+      {
+        "text": "GE Vernova Places High-Voltage, $9 Billion Bet on Energy Equipment",
+        "refId": "d0015c52737a",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7581.97,
+      "v": 7580.07,
       "base": 7743.98,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25415.719,
+      "v": 25436.998,
       "base": 26549.85,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51886.64,
+      "v": 51770.31,
       "base": 52475.1,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.949,
+      "v": 4.929,
       "base": 4.989,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 20.0,
+      "v": 19.42,
       "base": 17.2,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 171.9401,
+      "v": 172.0179,
       "base": 173.53,
       "bp": false
     }
