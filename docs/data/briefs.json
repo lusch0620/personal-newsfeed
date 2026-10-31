@@ -1,12 +1,7 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-        "refId": "ea5cac73e3c8",
-        "source": "Federal Reserve Press Releases"
-      },
       {
         "text": "City National private bank plays up RBC tie",
         "refId": "51a1c463aacd",
@@ -16,6 +11,11 @@
         "text": "Warren urges DOJ to probe BofA\u2019s AML issues",
         "refId": "04a3f43b2210",
         "source": "Banking Dive"
+      },
+      {
+        "text": "Dive Deposits: Black-owned bank repeatedly rebuffs offer from upstart",
+        "refId": "4cd0464bafba",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Want to Know Your Clients Better? Ask Them These 10 Questions",
-        "refId": "dd7183a51139",
+        "text": "Celebrities &amp; Wealth Series: NFL Pro Bowler D\u2019Qwell Jackson",
+        "refId": "dec21568c8bc",
         "source": "Wealth Management"
       },
       {
-        "text": "Raymond James Recruiting Across Affiliation Models",
-        "refId": "c744d66eff74",
+        "text": "Advisors Debate AI Hype, ROI at Schwab Impact",
+        "refId": "25ca34a77ce5",
         "source": "Wealth Management"
       },
       {
-        "text": "Schwab to Push Bank Capabilities for RIAs to Compete With Wirehouses",
-        "refId": "9ccad68197e6",
+        "text": "The WealthStack Podcast: The RIA Growth Trap with Brad Johnson",
+        "refId": "b2294da90eec",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Visa and Tencent ink agentic commerce and cross-border payments MoU",
-        "refId": "f7278cc1513d",
-        "source": "Finextra"
-      },
-      {
         "text": "PhotonPay raises $40m for stablecoin-centric financial OS",
         "refId": "c46ab8a92a7a",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "Kalshi valuation jumps to $40 billion on latest raise",
         "refId": "78de902f91ba",
+        "source": "Finextra"
+      },
+      {
+        "text": "Hackers steal $6.3bn in crypto assets from Binance",
+        "refId": "328dd4d6390e",
         "source": "Finextra"
       }
     ]
@@ -87,11 +87,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
-        "refId": "a62520d1d925",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
         "refId": "ca989cc0764c",
         "source": "Dealbook (NYT)"
@@ -100,17 +95,17 @@
         "text": "CD&R pursues buyout of $40bn card processor Global Payments",
         "refId": "4bdde669eb83",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "Apollo and Thrive capitalise on private equity\u2019s generational shift",
+        "refId": "343c780c3a83",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Accounting\u2019s AI Boom Is Widening the Experience Gap",
-        "refId": "070e572dc0bd",
-        "source": "The Daily Upside"
-      },
       {
         "text": "Mastercard\u2019s Earnings Beat Underscores Payments Pivot to Cryptocurrency, Fraud Services, Agentic Commerce",
         "refId": "8fdc6c3a0aba",
@@ -119,6 +114,11 @@
       {
         "text": "DoorDash Puts a $17 Billion Price Tag on Instacart",
         "refId": "f1b96e13c5aa",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Amazon Suffers Untimely E-Commerce Slowdown",
+        "refId": "eed04a1b933b",
         "source": "The Daily Upside"
       }
     ]
@@ -131,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "State of AI 2026: AI Is 13x Cheaper. Where\u2019s the Payoff?",
-        "refId": "bd9c87d9b97c",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "Can Artificial Intelligence Forecast Treatment Effects in Economics?",
-        "refId": "7c27c8c734e4",
+        "text": "Chronicle of Higher Education interviews me on AI and education",
+        "refId": "91b356c028c5",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Why AI Hackers Still Fall for Simple Traps",
-        "refId": "714bf45499e0",
-        "source": "Big Technology (Alex Kantrowitz)"
+        "text": "Are there too many misdemeanor convictions?",
+        "refId": "e3236188d075",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Sharp Tech on Video: Anthropic\u2019s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
+        "refId": "6aefc31ba6e6",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -151,19 +151,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Want to Know Your Clients Better? Ask Them These 10 Questions",
-        "refId": "dd7183a51139",
-        "source": "Wealth Management"
+        "text": "PhotonPay raises $40m for stablecoin-centric financial OS",
+        "refId": "c46ab8a92a7a",
+        "source": "Finextra"
       },
       {
-        "text": "State of AI 2026: AI Is 13x Cheaper. Where\u2019s the Payoff?",
-        "refId": "bd9c87d9b97c",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "Kalshi valuation jumps to $40 billion on latest raise",
+        "refId": "78de902f91ba",
+        "source": "Finextra"
       },
       {
-        "text": "Raymond James Recruiting Across Affiliation Models",
-        "refId": "c744d66eff74",
-        "source": "Wealth Management"
+        "text": "Mastercard\u2019s Earnings Beat Underscores Payments Pivot to Cryptocurrency, Fraud Services, Agentic Commerce",
+        "refId": "8fdc6c3a0aba",
+        "source": "The Daily Upside"
       }
     ]
   },
