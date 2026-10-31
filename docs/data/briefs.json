@@ -1,20 +1,20 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "Elavon CEO: Trust, not speed, will rule in agentic commerce",
-        "refId": "09137ca1bf4b",
+        "text": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+        "refId": "ea5cac73e3c8",
+        "source": "Federal Reserve Press Releases"
+      },
+      {
+        "text": "City National private bank plays up RBC tie",
+        "refId": "51a1c463aacd",
         "source": "Banking Dive"
       },
       {
-        "text": "Smaller AI models help Bank of America, Capital One manage costs",
-        "refId": "6df54c59ce14",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "U.S. Bank risk chief heads to Amex",
-        "refId": "41f7ca370da5",
+        "text": "Warren urges DOJ to probe BofA\u2019s AML issues",
+        "refId": "04a3f43b2210",
         "source": "Banking Dive"
       }
     ]
@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "LPL shares freefall more than 15% after investors aren't appeased by answers to hard-hitting questions about next act after Commonwealth, or by CEO humor during the quarterly analysts' call",
-        "refId": "9bbb8d35aad2",
-        "source": "RIABiz"
-      },
-      {
         "text": "Want to Know Your Clients Better? Ask Them These 10 Questions",
         "refId": "dd7183a51139",
         "source": "Wealth Management"
@@ -35,6 +30,11 @@
       {
         "text": "Raymond James Recruiting Across Affiliation Models",
         "refId": "c744d66eff74",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Schwab to Push Bank Capabilities for RIAs to Compete With Wirehouses",
+        "refId": "9ccad68197e6",
         "source": "Wealth Management"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "TradeStation Europe expands operations capability",
-        "refId": "624cdff0c301",
+        "text": "Visa and Tencent ink agentic commerce and cross-border payments MoU",
+        "refId": "f7278cc1513d",
         "source": "Finextra"
       },
       {
-        "text": "SettleMint integrates digital asset lifecycle platform with IBM Digital Asset Haven",
-        "refId": "f2ea214bda84",
+        "text": "PhotonPay raises $40m for stablecoin-centric financial OS",
+        "refId": "c46ab8a92a7a",
         "source": "Finextra"
       },
       {
-        "text": "B2Broker Group moves into agentic trading",
-        "refId": "f06ee8c5eb92",
+        "text": "Kalshi valuation jumps to $40 billion on latest raise",
+        "refId": "78de902f91ba",
         "source": "Finextra"
       }
     ]
@@ -87,19 +87,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Fed\u2019s Looming Policy Error",
-        "refId": "32bb08766cd4",
-        "source": "Capital Flows Research"
-      },
-      {
-        "text": "Its Investors Say Kalshi Is Worth $40 Billion. Is an I.P.O. Next?",
-        "refId": "d323272a147f",
+        "text": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
+        "refId": "a62520d1d925",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Microsoft Up, Google Down. A Tale of Two Hyperscalers.",
-        "refId": "eccc2093325d",
+        "text": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+        "refId": "ca989cc0764c",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "CD&R pursues buyout of $40bn card processor Global Payments",
+        "refId": "4bdde669eb83",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -107,18 +107,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "GE Vernova Places High-Voltage, $9 Billion Bet on Energy Equipment",
-        "refId": "d0015c52737a",
+        "text": "Accounting\u2019s AI Boom Is Widening the Experience Gap",
+        "refId": "070e572dc0bd",
         "source": "The Daily Upside"
       },
       {
-        "text": "Wendy\u2019s Squares Up to Nelson Peltz\u2019s Takeover Attempt",
-        "refId": "c6acd2b9f4ad",
+        "text": "Mastercard\u2019s Earnings Beat Underscores Payments Pivot to Cryptocurrency, Fraud Services, Agentic Commerce",
+        "refId": "8fdc6c3a0aba",
         "source": "The Daily Upside"
       },
       {
-        "text": "Microsoft Remains the Adult in the AI Room",
-        "refId": "8607115ef5fe",
+        "text": "DoorDash Puts a $17 Billion Price Tag on Instacart",
+        "refId": "f1b96e13c5aa",
         "source": "The Daily Upside"
       }
     ]
@@ -131,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "My design Conversation with Roman Mars",
-        "refId": "487b564ee620",
+        "text": "State of AI 2026: AI Is 13x Cheaper. Where\u2019s the Payoff?",
+        "refId": "bd9c87d9b97c",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Can Artificial Intelligence Forecast Treatment Effects in Economics?",
+        "refId": "7c27c8c734e4",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "AI dominates human peer reviews",
-        "refId": "d70ec9452cbe",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "A golden age of science is coming",
-        "refId": "fad0bd8ec24f",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Why AI Hackers Still Fall for Simple Traps",
+        "refId": "714bf45499e0",
+        "source": "Big Technology (Alex Kantrowitz)"
       }
     ]
   },
@@ -151,19 +151,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Fed\u2019s Looming Policy Error",
-        "refId": "32bb08766cd4",
-        "source": "Capital Flows Research"
+        "text": "Want to Know Your Clients Better? Ask Them These 10 Questions",
+        "refId": "dd7183a51139",
+        "source": "Wealth Management"
       },
       {
-        "text": "GE Vernova Places High-Voltage, $9 Billion Bet on Energy Equipment",
-        "refId": "d0015c52737a",
-        "source": "The Daily Upside"
+        "text": "State of AI 2026: AI Is 13x Cheaper. Where\u2019s the Payoff?",
+        "refId": "bd9c87d9b97c",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "Wendy\u2019s Squares Up to Nelson Peltz\u2019s Takeover Attempt",
-        "refId": "c6acd2b9f4ad",
-        "source": "The Daily Upside"
+        "text": "Raymond James Recruiting Across Affiliation Models",
+        "refId": "c744d66eff74",
+        "source": "Wealth Management"
       }
     ]
   },
