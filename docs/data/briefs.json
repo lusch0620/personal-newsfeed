@@ -4,19 +4,8 @@
     "bullets": []
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Snowden Lane Settles SEC Charges Over Fee Disclosures",
-        "refId": "2deb0fbd379e",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Wealth Firms Urge Patience on Anthropic IPO",
-        "refId": "47c5b61cc567",
-        "source": "Wealth Management"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Insurance": {
     "lede": "1 story in this lane today.",
@@ -40,19 +29,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Tech Tumult Rocks Wall Street",
-        "refId": "0aa48507dc57",
-        "source": "Dealbook (NYT)"
+        "text": "Equity Selling Pressure",
+        "refId": "66a1d1bc8395",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Oil Context Weekly (W44)",
-        "refId": "fc32739047f3",
-        "source": "Commodity Context"
+        "text": "Bank of England explores easing key limit on riskier mortgage lending",
+        "refId": "773b290493c0",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Binance\u2019s $6.3 Billion Hack Is Just the Start of a Risky New Era",
-        "refId": "bad525a57b3b",
-        "source": "Dealbook (NYT)"
+        "text": "Lula\u2019s surprise election victory sends agri-commodities tumbling",
+        "refId": "05ec4b1f41ec",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -79,19 +68,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Why YC Founders Let Us In: 50+ Companies Later",
-        "refId": "9f5fcdbaeeb9",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
-        "text": "Why Are We All Just Waiting For The Inevitable AI-Driven Catastrophe To Happen?",
-        "refId": "37ac27335fa1",
-        "source": "Big Technology (Alex Kantrowitz)"
-      },
-      {
         "text": "Farewell, my Captain",
         "refId": "fc2860019459",
         "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "The unintended consequences of academic leniency",
+        "refId": "f319e316dfe2",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The pass-through of retail crime",
+        "refId": "3d89649b4c52",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -99,19 +88,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Snowden Lane Settles SEC Charges Over Fee Disclosures",
-        "refId": "2deb0fbd379e",
-        "source": "Wealth Management"
+        "text": "Equity Selling Pressure",
+        "refId": "66a1d1bc8395",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Wealth Firms Urge Patience on Anthropic IPO",
-        "refId": "47c5b61cc567",
-        "source": "Wealth Management"
+        "text": "Farewell, my Captain",
+        "refId": "fc2860019459",
+        "source": "Noahpinion (Noah Smith)"
       },
       {
-        "text": "The Tech Tumult Rocks Wall Street",
-        "refId": "0aa48507dc57",
-        "source": "Dealbook (NYT)"
+        "text": "The unintended consequences of academic leniency",
+        "refId": "f319e316dfe2",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
