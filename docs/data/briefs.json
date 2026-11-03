@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "AssetMark Launches Private Wealth Program for Advisors",
-        "refId": "7b5ad311f7a8",
+        "text": "Five Qualities of a Good Advisor",
+        "refId": "c1a5ea68cbdf",
         "source": "Wealth Management"
       },
       {
-        "text": "Views from 6,230: Why The Fed Is Wrong on Stocks",
-        "refId": "c37cec2acaad",
+        "text": "Beyond NIL Part 1: A Planning Framework for Student-Athletes",
+        "refId": "4b7106e005b8",
         "source": "Wealth Management"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Regulator warns Australians about 'highly speculative' prediction markets",
-        "refId": "5d1ffe4bc91f",
-        "source": "Finextra"
-      },
-      {
-        "text": "OPay withdraws planned $304m US IPO after regulatory inquiry",
-        "refId": "aa560294c925",
-        "source": "Finextra"
-      },
-      {
         "text": "Binance users withdraw $5bn in wake of hack",
         "refId": "e950fd5e0422",
+        "source": "Finextra"
+      },
+      {
+        "text": "TZero to go public in Spac deal",
+        "refId": "803db518faf6",
+        "source": "Finextra"
+      },
+      {
+        "text": "HSBC to open Hong Kong AI and emerging technology institute",
+        "refId": "f7596b4069ac",
         "source": "Finextra"
       }
     ]
@@ -97,8 +97,8 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "North Korean hackers expected to take months to launder Binance billions",
-        "refId": "86f8ff6bdc03",
+        "text": "A new threat to the New York-based stock exchanges",
+        "refId": "a9cb51c8eb27",
         "source": "Financial Times Markets"
       }
     ]
@@ -131,11 +131,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "As predicted, the ACA exchanges seem not to be stable",
-        "refId": "3d25f56f5597",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Should you feel grief for the dead who go to heaven?",
         "refId": "9412219f8614",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -144,6 +139,11 @@
         "text": "Google Earnings, Facebook D\u00e9j\u00e0 Vu, The Agent Play",
         "refId": "06e89f8a26af",
         "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "Anthropic\u2019s moat is Claude",
+        "refId": "583d6899bf7e",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -151,18 +151,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "As predicted, the ACA exchanges seem not to be stable",
-        "refId": "3d25f56f5597",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Regulator warns Australians about 'highly speculative' prediction markets",
-        "refId": "5d1ffe4bc91f",
-        "source": "Finextra"
-      },
-      {
         "text": "Midterms to Subject Prediction Markets to Reputational Stress Test",
         "refId": "ddf5fd8828e6",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Broadcom Emerges as Anthropic IPO\u2019s Big Winner",
+        "refId": "e1611d2a1fd7",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "China\u2019s AI Bubble Rapidly Loses Air",
+        "refId": "fd83a9dc0f91",
         "source": "The Daily Upside"
       }
     ]
@@ -170,37 +170,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7589.52,
+      "v": 7568.92,
       "base": 7580.07,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25455.838,
+      "v": 25372.01,
       "base": 25437.0,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51858.2,
+      "v": 51786.72,
       "base": 51770.31,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.954,
+      "v": 4.952,
       "base": 4.894,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 20.74,
+      "v": 20.83,
       "base": 21.15,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 173.4494,
+      "v": 173.3367,
       "base": 172.02,
       "bp": false
     }
