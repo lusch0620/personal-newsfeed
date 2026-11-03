@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Binance Outflows Reach $4.7 Billion After North Korea Hack",
-        "refId": "4028513d9c76",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "RiverStone International makes ILS debut through landmark Leadenhall LPT deal",
-        "refId": "1825fee47e2c",
+        "text": "Singapore to anchor new data centre insurance facility, developed by industry consortium",
+        "refId": "400f2d872188",
         "source": "Reinsurance News"
       },
       {
-        "text": "Gallagher Re names Casandra Ceballos as EVP, Facilities, Facultative",
-        "refId": "4b17784a86a5",
+        "text": "Non-life run-off deals reach 25 and $3.46bn so far in 2026: PwC",
+        "refId": "ac7452c93f11",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Ardonagh appoints Mallory Motley as Head of International Placement",
+        "refId": "78b6997a7ccb",
         "source": "Reinsurance News"
       }
     ]
@@ -73,8 +73,8 @@
         "source": "Finextra"
       },
       {
-        "text": "HugoHub goes live with HugoHub platform",
-        "refId": "da1f6bf5e364",
+        "text": "Binance users withdraw $5bn in wake of hack",
+        "refId": "e950fd5e0422",
         "source": "Finextra"
       }
     ]
@@ -87,18 +87,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "US critical minerals push delivers a gold rush \u2014 for Washington lobbyists",
-        "refId": "15e85e5753d7",
-        "source": "Financial Times Markets"
+        "text": "Cracks in the A.I. Borrowing Binge",
+        "refId": "ebdd7a6f922b",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "A word of caution about bullish post-midterm election stock market patterns \u26a0\ufe0f",
-        "refId": "720baaf487e6",
-        "source": "TKer (Sam Ro)"
+        "text": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
+        "refId": "1576a72c07ff",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Junk debt rout sparks \u2018bloodbath\u2019 for credit investors",
-        "refId": "67fec006c5ca",
+        "text": "North Korean hackers expected to take months to launder Binance billions",
+        "refId": "86f8ff6bdc03",
         "source": "Financial Times Markets"
       }
     ]
@@ -107,18 +107,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "It\u2019s Hard To Break the Chain and Start an RIA, but Often Worth It",
-        "refId": "493619a5b045",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Will Tokenized Stocks Be a Game Changer for US Investors?",
-        "refId": "ca4078680467",
-        "source": "The Daily Upside"
-      },
-      {
         "text": "Midterms to Subject Prediction Markets to Reputational Stress Test",
         "refId": "ddf5fd8828e6",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Broadcom Emerges as Anthropic IPO\u2019s Big Winner",
+        "refId": "e1611d2a1fd7",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "China\u2019s AI Bubble Rapidly Loses Air",
+        "refId": "fd83a9dc0f91",
         "source": "The Daily Upside"
       }
     ]
@@ -131,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Are LLMs good or bad Bayesians?",
-        "refId": "454c0fae5f46",
+        "text": "As predicted, the ACA exchanges seem not to be stable",
+        "refId": "3d25f56f5597",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Those new service sector jobs?",
-        "refId": "7c706a271361",
+        "text": "Should you feel grief for the dead who go to heaven?",
+        "refId": "9412219f8614",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Which AI Plan Is Worth Paying For? We Priced 32 to Find Out",
-        "refId": "27b611c0364b",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "Google Earnings, Facebook D\u00e9j\u00e0 Vu, The Agent Play",
+        "refId": "06e89f8a26af",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -151,57 +151,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Are LLMs good or bad Bayesians?",
-        "refId": "454c0fae5f46",
+        "text": "As predicted, the ACA exchanges seem not to be stable",
+        "refId": "3d25f56f5597",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Those new service sector jobs?",
-        "refId": "7c706a271361",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Regulator warns Australians about 'highly speculative' prediction markets",
+        "refId": "5d1ffe4bc91f",
+        "source": "Finextra"
       },
       {
-        "text": "Which AI Plan Is Worth Paying For? We Priced 32 to Find Out",
-        "refId": "27b611c0364b",
-        "source": "The AI Corner (Ruben Dominguez)"
+        "text": "Midterms to Subject Prediction Markets to Reputational Stress Test",
+        "refId": "ddf5fd8828e6",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7541.4,
-      "base": 7720.39,
+      "v": 7589.52,
+      "base": 7580.07,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25164.363,
-      "base": 26184.72,
+      "v": 25455.838,
+      "base": 25437.0,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51983.98,
-      "base": 52342.56,
+      "v": 51858.2,
+      "base": 51770.31,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.894,
-      "base": 4.929,
+      "v": 4.954,
+      "base": 4.894,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 21.15,
-      "base": 19.42,
+      "v": 20.74,
+      "base": 21.15,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 174.3072,
-      "base": 175.49,
+      "v": 173.4494,
+      "base": 172.02,
       "bp": false
     }
   ]
