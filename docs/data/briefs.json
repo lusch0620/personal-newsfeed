@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Schwab RIAs have until Monday to convert exclusively to 'Docusign,' ending paper era, as it deputizes Nevis to help RIAs conquer their onboarding quagmire \u2013 and prove AI can fix 'the most painful workflow at any RIA'",
-        "refId": "f3ded4a4ef0b",
-        "source": "RIABiz"
-      },
-      {
         "text": "Five Qualities of a Good Advisor",
         "refId": "c1a5ea68cbdf",
         "source": "Wealth Management"
@@ -36,6 +31,11 @@
         "text": "Beyond NIL Part 1: A Planning Framework for Student-Athletes",
         "refId": "4b7106e005b8",
         "source": "Wealth Management"
+      },
+      {
+        "text": "$1B Beacon Financial Moves to Osaic's W-2 Channel from Private Client Services",
+        "refId": "bd5a7d62b3ba",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Singapore to anchor new data centre insurance facility, developed by industry consortium",
-        "refId": "400f2d872188",
+        "text": "Legacy roundtable: Establishing trust key to a successful legacy partnership as client expectations evolve",
+        "refId": "b0927353b79e",
         "source": "Reinsurance News"
       },
       {
-        "text": "Non-life run-off deals reach 25 and $3.46bn so far in 2026: PwC",
-        "refId": "ac7452c93f11",
+        "text": "Miller names Stubbings as CEO of Reinsurance and Masters as Chairman",
+        "refId": "e6b3250c1d0e",
         "source": "Reinsurance News"
       },
       {
-        "text": "Ardonagh appoints Mallory Motley as Head of International Placement",
-        "refId": "78b6997a7ccb",
+        "text": "Vantage hires Lisa Pickard to lead new Fac reinsurance business",
+        "refId": "75e09a94673f",
         "source": "Reinsurance News"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Binance users withdraw $5bn in wake of hack",
-        "refId": "e950fd5e0422",
-        "source": "Finextra"
-      },
-      {
         "text": "TZero to go public in Spac deal",
         "refId": "803db518faf6",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "HSBC to open Hong Kong AI and emerging technology institute",
         "refId": "f7596b4069ac",
+        "source": "Finextra"
+      },
+      {
+        "text": "Lo:Tech raises $12m to take on Wall Street",
+        "refId": "73d6a9d556f1",
         "source": "Finextra"
       }
     ]
@@ -97,9 +97,9 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "A new threat to the New York-based stock exchanges",
-        "refId": "a9cb51c8eb27",
-        "source": "Financial Times Markets"
+        "text": "The Changing Shape of the U.S. AI Capex Boom",
+        "refId": "484542b4193e",
+        "source": "The Overshoot (Matthew Klein)"
       }
     ]
   },
@@ -107,18 +107,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Midterms to Subject Prediction Markets to Reputational Stress Test",
-        "refId": "ddf5fd8828e6",
+        "text": "Cybersecurity Firms Prepare to Fight AI with AI After Black October",
+        "refId": "23c1fa4e24b6",
         "source": "The Daily Upside"
       },
       {
-        "text": "Broadcom Emerges as Anthropic IPO\u2019s Big Winner",
-        "refId": "e1611d2a1fd7",
+        "text": "Oracle Raises Another $20 Billion in Debt and Equity",
+        "refId": "2f002abf3c58",
         "source": "The Daily Upside"
       },
       {
-        "text": "China\u2019s AI Bubble Rapidly Loses Air",
-        "refId": "fd83a9dc0f91",
+        "text": "Marvell Stock Waffles on $115 Billion Bet on AI Infrastructure\u2019s Future",
+        "refId": "afdac127859e",
         "source": "The Daily Upside"
       }
     ]
@@ -131,9 +131,29 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Should you feel grief for the dead who go to heaven?",
-        "refId": "9412219f8614",
+        "text": "Google Earnings, Facebook D\u00e9j\u00e0 Vu, The Agent Play",
+        "refId": "06e89f8a26af",
+        "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "Anthropic\u2019s moat is Claude",
+        "refId": "583d6899bf7e",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Expensive Pharmaceuticals for Targeted Diseases",
+        "refId": "8abc885ec658",
         "source": "Marginal Revolution (Tyler Cowen)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Financial AI needs a reliable view of the customer",
+        "refId": "d8c1b0ee4257",
+        "source": "Banking Dive"
       },
       {
         "text": "Google Earnings, Facebook D\u00e9j\u00e0 Vu, The Agent Play",
@@ -144,26 +164,6 @@
         "text": "Anthropic\u2019s moat is Claude",
         "refId": "583d6899bf7e",
         "source": "Noahpinion (Noah Smith)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Midterms to Subject Prediction Markets to Reputational Stress Test",
-        "refId": "ddf5fd8828e6",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Broadcom Emerges as Anthropic IPO\u2019s Big Winner",
-        "refId": "e1611d2a1fd7",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "China\u2019s AI Bubble Rapidly Loses Air",
-        "refId": "fd83a9dc0f91",
-        "source": "The Daily Upside"
       }
     ]
   },
