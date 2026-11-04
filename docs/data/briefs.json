@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Financial AI needs a reliable view of the customer",
-        "refId": "d8c1b0ee4257",
-        "source": "Banking Dive"
-      },
-      {
-        "text": "Stocks making the biggest moves premarket: CrowdStrike, Rivian, Micron & more",
-        "refId": "734e7ca00a51",
+        "text": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
+        "refId": "9c1a9f6e49ab",
         "source": "CNBC Finance"
       },
       {
-        "text": "FDIC amends directive against Old Glory Bank",
-        "refId": "cb3b0d58b5b1",
-        "source": "Banking Dive"
+        "text": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+        "refId": "172291aebd98",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies  & more",
+        "refId": "7aa9b660a792",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Five Qualities of a Good Advisor",
-        "refId": "c1a5ea68cbdf",
+        "text": "Carson Group Adds $1.6B Team, Boosting Atlanta Presence",
+        "refId": "b1f7b382a120",
         "source": "Wealth Management"
       },
       {
-        "text": "Beyond NIL Part 1: A Planning Framework for Student-Athletes",
-        "refId": "4b7106e005b8",
+        "text": "12 Investment Must Reads for This Week (Nov. 3, 2026)",
+        "refId": "b512eed3fd27",
         "source": "Wealth Management"
       },
       {
-        "text": "$1B Beacon Financial Moves to Osaic's W-2 Channel from Private Client Services",
-        "refId": "bd5a7d62b3ba",
+        "text": "Mesirow Taps Bank Exec Shawn Beber as CEO",
+        "refId": "c74d2137ce4f",
         "source": "Wealth Management"
       }
     ]
@@ -43,19 +43,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Legacy roundtable: Establishing trust key to a successful legacy partnership as client expectations evolve",
-        "refId": "b0927353b79e",
+        "text": "LMA CEO Sheila Cameron to step down in 2027 as search for successor gets under way",
+        "refId": "5bf8958c86da",
         "source": "Reinsurance News"
       },
       {
-        "text": "Miller names Stubbings as CEO of Reinsurance and Masters as Chairman",
-        "refId": "e6b3250c1d0e",
+        "text": "WTW appoints Phil Traicus as Senior Director in Canadian insurance consulting business",
+        "refId": "65acc2e3c595",
         "source": "Reinsurance News"
       },
       {
-        "text": "Vantage hires Lisa Pickard to lead new Fac reinsurance business",
-        "refId": "75e09a94673f",
-        "source": "Reinsurance News"
+        "text": "Supermarket Fridge Attack Is Just the Start, Says UK Cybersecurity Chief",
+        "refId": "94391309b177",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "TZero to go public in Spac deal",
-        "refId": "803db518faf6",
+        "text": "CMBS Delinquency Rate Drops 15 Basis Points in October 2026",
+        "refId": "36048e09669d",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "EU and Canada plan to link real-time payment systems",
+        "refId": "f136b6bb6d41",
         "source": "Finextra"
       },
       {
-        "text": "HSBC to open Hong Kong AI and emerging technology institute",
-        "refId": "f7596b4069ac",
-        "source": "Finextra"
-      },
-      {
-        "text": "Lo:Tech raises $12m to take on Wall Street",
-        "refId": "73d6a9d556f1",
+        "text": "TD launches challenge to help Gen Z build financial confidence",
+        "refId": "9991d94fff17",
         "source": "Finextra"
       }
     ]
@@ -87,11 +87,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Cracks in the A.I. Borrowing Binge",
-        "refId": "ebdd7a6f922b",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
         "refId": "1576a72c07ff",
         "source": "Dealbook (NYT)"
@@ -100,6 +95,11 @@
         "text": "The Changing Shape of the U.S. AI Capex Boom",
         "refId": "484542b4193e",
         "source": "The Overshoot (Matthew Klein)"
+      },
+      {
+        "text": "North American Oil Data Deck (November 2026)",
+        "refId": "3aab8ef191cb",
+        "source": "Commodity Context"
       }
     ]
   },
@@ -131,18 +131,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Google Earnings, Facebook D\u00e9j\u00e0 Vu, The Agent Play",
-        "refId": "06e89f8a26af",
-        "source": "Stratechery (Ben Thompson)"
+        "text": "*Fjord* and *Fatherland*",
+        "refId": "df1a646e01ef",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Anthropic\u2019s moat is Claude",
-        "refId": "583d6899bf7e",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Are economists declining in status?",
+        "refId": "35704e74f895",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Expensive Pharmaceuticals for Targeted Diseases",
-        "refId": "8abc885ec658",
+        "text": "The economics of tips",
+        "refId": "e5ffa5ae9634",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -151,57 +151,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Financial AI needs a reliable view of the customer",
-        "refId": "d8c1b0ee4257",
-        "source": "Banking Dive"
+        "text": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
+        "refId": "1576a72c07ff",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Google Earnings, Facebook D\u00e9j\u00e0 Vu, The Agent Play",
-        "refId": "06e89f8a26af",
-        "source": "Stratechery (Ben Thompson)"
+        "text": "*Fjord* and *Fatherland*",
+        "refId": "df1a646e01ef",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Anthropic\u2019s moat is Claude",
-        "refId": "583d6899bf7e",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
+        "refId": "9c1a9f6e49ab",
+        "source": "CNBC Finance"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7568.92,
-      "base": 7580.07,
+      "v": 7708.83,
+      "base": 7541.4,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25372.01,
-      "base": 25437.0,
+      "v": 25902.402,
+      "base": 25164.31,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51786.72,
-      "base": 51770.31,
+      "v": 53292.14,
+      "base": 51983.98,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.952,
-      "base": 4.894,
+      "v": 4.902,
+      "base": 4.952,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 20.83,
-      "base": 21.15,
+      "v": 16.72,
+      "base": 20.83,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 173.3367,
-      "base": 172.02,
+      "v": 176.9741,
+      "base": 174.31,
       "bp": false
     }
   ]
