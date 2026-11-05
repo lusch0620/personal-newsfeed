@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
-        "refId": "9c1a9f6e49ab",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
         "refId": "172291aebd98",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies  & more",
         "refId": "7aa9b660a792",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Texas governor race tightens in prediction markets, but Abbott remains favored",
+        "refId": "20cd0287b35b",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Carson Group Adds $1.6B Team, Boosting Atlanta Presence",
-        "refId": "b1f7b382a120",
+        "text": "Kestra's Bluespring Acquires $920M Whitaker-Myers Wealth Team",
+        "refId": "da2154f53c5e",
         "source": "Wealth Management"
       },
       {
-        "text": "12 Investment Must Reads for This Week (Nov. 3, 2026)",
-        "refId": "b512eed3fd27",
+        "text": "Former Edelman CEO Larry Raffone Joins Son's RIA as Executive Chairman",
+        "refId": "42980be03f33",
         "source": "Wealth Management"
       },
       {
-        "text": "Mesirow Taps Bank Exec Shawn Beber as CEO",
-        "refId": "c74d2137ce4f",
+        "text": "People Moves: Mercer Advisors Hires Wealth.com, Meta Alum as VP of Data",
+        "refId": "4d1dac699ffe",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "CMBS Delinquency Rate Drops 15 Basis Points in October 2026",
-        "refId": "36048e09669d",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "EU and Canada plan to link real-time payment systems",
         "refId": "f136b6bb6d41",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "TD launches challenge to help Gen Z build financial confidence",
         "refId": "9991d94fff17",
+        "source": "Finextra"
+      },
+      {
+        "text": "Binance says hackers used fake job interviews and AI tools in $6.3bn hack",
+        "refId": "d1c1bf07ede6",
         "source": "Finextra"
       }
     ]
@@ -87,11 +87,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
-        "refId": "1576a72c07ff",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "The Changing Shape of the U.S. AI Capex Boom",
         "refId": "484542b4193e",
         "source": "The Overshoot (Matthew Klein)"
@@ -100,6 +95,11 @@
         "text": "North American Oil Data Deck (November 2026)",
         "refId": "3aab8ef191cb",
         "source": "Commodity Context"
+      },
+      {
+        "text": "Gaming Out the Prospect of a Blue Wave",
+        "refId": "18cab1a09710",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -131,11 +131,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "*Fjord* and *Fatherland*",
-        "refId": "df1a646e01ef",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Are economists declining in status?",
         "refId": "35704e74f895",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -144,6 +139,11 @@
         "text": "The economics of tips",
         "refId": "e5ffa5ae9634",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Apple Earnings, Memory Problems, The Hardware Company Regression",
+        "refId": "7d55345eec7e",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -151,56 +151,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
-        "refId": "1576a72c07ff",
-        "source": "Dealbook (NYT)"
+        "text": "Cybersecurity Firms Prepare to Fight AI with AI After Black October",
+        "refId": "23c1fa4e24b6",
+        "source": "The Daily Upside"
       },
       {
-        "text": "*Fjord* and *Fatherland*",
-        "refId": "df1a646e01ef",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Oracle Raises Another $20 Billion in Debt and Equity",
+        "refId": "2f002abf3c58",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Stocks making the biggest moves midday: Oracle, SpaceX, Tempus AI, Rivian & more",
-        "refId": "9c1a9f6e49ab",
-        "source": "CNBC Finance"
+        "text": "Marvell Stock Waffles on $115 Billion Bet on AI Infrastructure\u2019s Future",
+        "refId": "afdac127859e",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7708.83,
+      "v": 7688.62,
       "base": 7541.4,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25902.402,
+      "v": 25736.514,
       "base": 25164.31,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 53292.14,
+      "v": 53356.12,
       "base": 51983.98,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.902,
+      "v": 4.894,
       "base": 4.952,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 16.72,
+      "v": 16.61,
       "base": 20.83,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 176.9741,
+      "v": 177.5439,
       "base": 174.31,
       "bp": false
     }
