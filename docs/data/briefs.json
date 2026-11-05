@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-        "refId": "172291aebd98",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Stocks making the biggest moves premarket: Pfizer, Apple, Palantir, Zebra Technologies  & more",
         "refId": "7aa9b660a792",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "Texas governor race tightens in prediction markets, but Abbott remains favored",
         "refId": "20cd0287b35b",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Bilt tackles sports loyalty with $300M deal",
+        "refId": "59fe57191ea4",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "LMA CEO Sheila Cameron to step down in 2027 as search for successor gets under way",
-        "refId": "5bf8958c86da",
+        "text": "Lloyd\u2019s restructures operating model to cut complexity and cost of doing business",
+        "refId": "c5269e8bf282",
         "source": "Reinsurance News"
       },
       {
-        "text": "WTW appoints Phil Traicus as Senior Director in Canadian insurance consulting business",
-        "refId": "65acc2e3c595",
+        "text": "Mercury reports 9% rise in DPW amid a net loss of $13.7m in Q3\u201926",
+        "refId": "14cf5f5eb398",
         "source": "Reinsurance News"
       },
       {
-        "text": "Supermarket Fridge Attack Is Just the Start, Says UK Cybersecurity Chief",
-        "refId": "94391309b177",
+        "text": "Georgia, Florida Insurers Facing New Scrutiny, Regulations After Election",
+        "refId": "78beb5229fdc",
         "source": "Insurance Journal"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "EU and Canada plan to link real-time payment systems",
-        "refId": "f136b6bb6d41",
-        "source": "Finextra"
-      },
-      {
-        "text": "TD launches challenge to help Gen Z build financial confidence",
-        "refId": "9991d94fff17",
-        "source": "Finextra"
-      },
-      {
         "text": "Binance says hackers used fake job interviews and AI tools in $6.3bn hack",
         "refId": "d1c1bf07ede6",
+        "source": "Finextra"
+      },
+      {
+        "text": "Industrial CMBS Nears Record Issuance as Data Centers Gain Ground",
+        "refId": "3a020e236e3b",
+        "source": "Trepp Talk"
+      },
+      {
+        "text": "OppFi abandons purchase of BNC Bank",
+        "refId": "a82dbd0e12a8",
         "source": "Finextra"
       }
     ]
@@ -107,18 +107,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Cybersecurity Firms Prepare to Fight AI with AI After Black October",
-        "refId": "23c1fa4e24b6",
+        "text": "Shopify Stock Dives After Revenue and Gross Merchandise Volume Come Up Short",
+        "refId": "e2ab28faa12d",
         "source": "The Daily Upside"
       },
       {
-        "text": "Oracle Raises Another $20 Billion in Debt and Equity",
-        "refId": "2f002abf3c58",
+        "text": "Disney Opts for Yet Another Round of Layoffs",
+        "refId": "4ca74d78e58c",
         "source": "The Daily Upside"
       },
       {
-        "text": "Marvell Stock Waffles on $115 Billion Bet on AI Infrastructure\u2019s Future",
-        "refId": "afdac127859e",
+        "text": "AMD Passes Silicon Market Stress Test, Nearly Doubles Data Center Sales",
+        "refId": "d8f39366bf81",
         "source": "The Daily Upside"
       }
     ]
@@ -131,11 +131,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Are economists declining in status?",
-        "refId": "35704e74f895",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "The economics of tips",
         "refId": "e5ffa5ae9634",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -144,6 +139,11 @@
         "text": "Apple Earnings, Memory Problems, The Hardware Company Regression",
         "refId": "7d55345eec7e",
         "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "Thoughts on Owning a Self-Driving Tesla",
+        "refId": "8aeeb90b501d",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -151,19 +151,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Cybersecurity Firms Prepare to Fight AI with AI After Black October",
-        "refId": "23c1fa4e24b6",
-        "source": "The Daily Upside"
+        "text": "The economics of tips",
+        "refId": "e5ffa5ae9634",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Oracle Raises Another $20 Billion in Debt and Equity",
-        "refId": "2f002abf3c58",
-        "source": "The Daily Upside"
+        "text": "The Changing Shape of the U.S. AI Capex Boom",
+        "refId": "484542b4193e",
+        "source": "The Overshoot (Matthew Klein)"
       },
       {
-        "text": "Marvell Stock Waffles on $115 Billion Bet on AI Infrastructure\u2019s Future",
-        "refId": "afdac127859e",
-        "source": "The Daily Upside"
+        "text": "Apple Earnings, Memory Problems, The Hardware Company Regression",
+        "refId": "7d55345eec7e",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
