@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "Creative Planning Acquires Syracuse-Based RIA Overseeing $2.2B",
-        "refId": "342fe134e67a",
+        "text": "BKFi Acquires San Diego-Based Firm in First Deal",
+        "refId": "48b9d7c43927",
         "source": "Wealth Management"
       },
       {
-        "text": "Should Your Firm Adopt an AI and Cybersecurity Policy Statement?",
-        "refId": "25b0e169b1c5",
+        "text": "Court Tosses Suit Challenging NYC Pied-A-Terre Tax Rollout",
+        "refId": "4642eff77cb2",
         "source": "Wealth Management"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Industrial CMBS Nears Record Issuance as Data Centers Gain Ground",
-        "refId": "3a020e236e3b",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "Starling Bank CEO Raman Bhatia to step down - FT",
-        "refId": "b5395cb630ec",
+        "text": "Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack after reports of $133m crypto theft",
+        "refId": "2c1824b8a821",
         "source": "Finextra"
       },
       {
-        "text": "Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack after reports of $133m crypto theft",
-        "refId": "2c1824b8a821",
+        "text": "Etoro targets Latin America through LB Finanzas acquisition",
+        "refId": "06cf9768a8c7",
+        "source": "Finextra"
+      },
+      {
+        "text": "Mastercard launches free platform to help European SMEs boost cyber confidence",
+        "refId": "2c30827b36c1",
         "source": "Finextra"
       }
     ]
@@ -97,8 +97,8 @@
         "source": "TKer (Sam Ro)"
       },
       {
-        "text": "European rates go electric!",
-        "refId": "286bc87c5b7a",
+        "text": "Wall Street bets Democratic sweep will empower moderates in Washington",
+        "refId": "3765f54c3c75",
         "source": "Financial Times Markets"
       }
     ]
@@ -131,11 +131,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ireland fact of the day",
-        "refId": "d0421be27379",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Trade and the end of antiquity, or did Islam serve to deglobalize the world?",
         "refId": "587b468bd870",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -144,6 +139,11 @@
         "text": "Normal Americans punished MAGA",
         "refId": "ec95c5af5b17",
         "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Wednesday assorted links",
+        "refId": "c011fddb0ef2",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -151,18 +151,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ireland fact of the day",
-        "refId": "d0421be27379",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Industrial CMBS Nears Record Issuance as Data Centers Gain Ground",
-        "refId": "3a020e236e3b",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Shopify Stock Dives After Revenue and Gross Merchandise Volume Come Up Short",
         "refId": "e2ab28faa12d",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Disney Opts for Yet Another Round of Layoffs",
+        "refId": "4ca74d78e58c",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "AMD Passes Silicon Market Stress Test, Nearly Doubles Data Center Sales",
+        "refId": "d8f39366bf81",
         "source": "The Daily Upside"
       }
     ]
@@ -170,37 +170,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7378.81,
+      "v": 7353.73,
       "base": 7568.92,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24371.422,
+      "v": 24314.998,
       "base": 25372.01,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51694.19,
+      "v": 51523.06,
       "base": 51786.72,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.827,
+      "v": 4.837,
       "base": 4.894,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 27.56,
+      "v": 28.18,
       "base": 16.61,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 170.9778,
+      "v": 171.2067,
       "base": 173.34,
       "bp": false
     }
