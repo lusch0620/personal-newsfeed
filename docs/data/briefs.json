@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
-        "refId": "beccedcaf04f",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Stocks making the biggest moves after hours: Coherent, AppLovin, Expedia, Qualcomm and more",
-        "refId": "ca39acb581d1",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "What the Democratic midterms sweep changes for U.S.-China relations",
         "refId": "08dd9b83aedb",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
+        "refId": "2049da68d771",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Cards draw customers, Marqeta CEO says",
+        "refId": "fa65a8937caa",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "The Diamond Podcast for Financial Advisors: A Different Private Equity Playbook",
-        "refId": "2a6ec3f5da4b",
+        "text": "Fearing a Perfect Annuity Storm",
+        "refId": "0ceb978d5916",
         "source": "Wealth Management"
       },
       {
-        "text": "Insurance Brokerage Alliant Starts RIA Recruiting With Former Rise Growth Partner",
-        "refId": "9d9f998bfda2",
+        "text": "Avoiding Family Discord Over Vacation Homes",
+        "refId": "e4db25266a25",
         "source": "Wealth Management"
       }
     ]
@@ -43,30 +43,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Man Group Found Liable by Judge for \u2018Breathtaking\u2019 Kuwaiti Bribery",
-        "refId": "2cfda12ec209",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "French Bank Credit Mutuel Arkea Says \u20ac100 Million Missing After Cyberattack",
-        "refId": "b52459ecefb6",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Nordea Bank Risks Almost $1 Billion Fine in Denmark Money Laundering Case",
         "refId": "c0e9580119fe",
         "source": "Insurance Journal"
+      },
+      {
+        "text": "Aircraft Bomb Threats Persist in Europe, Causing More Diversions",
+        "refId": "09c2a22b428a",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "US E&S direct premium growth slows sharply in 2026 as market softens: ALIRT",
+        "refId": "2640539e2b3e",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Data Center Votes Add Local Approval Risk to the AI Buildout",
-        "refId": "7503066c6053",
-        "source": "Trepp Talk"
-      },
       {
         "text": "AI accounting platform Kabilio raises \u20ac10m",
         "refId": "3f0f7ccb9a46",
@@ -75,6 +70,11 @@
       {
         "text": "Early Revolut employees open waitlist for wealth AI startup Haido",
         "refId": "c0f6dbeeafc2",
+        "source": "Finextra"
+      },
+      {
+        "text": "Kalepa raises $75m to expand AI underwriting platform",
+        "refId": "2be0535333d9",
         "source": "Finextra"
       }
     ]
@@ -131,11 +131,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What Drives Censorship on College Campuses?",
-        "refId": "eadbba5d2206",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "My very good Conversation with Richard Hanania",
         "refId": "5ac65368ffd0",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -144,6 +139,11 @@
         "text": "Social media and political radicalization",
         "refId": "99f60ec47fc5",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
+        "refId": "b73e8113f914",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -151,56 +151,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Data Center Votes Add Local Approval Risk to the AI Buildout",
-        "refId": "7503066c6053",
-        "source": "Trepp Talk"
+        "text": "Craig Siegenthaler sat out the Oct. 29 Ameriprise conference call but three of his peers asked about the 'elephant' he cited in double-downgrading the broker's stock ten days earlier, triggering a share price dive",
+        "refId": "450f247d060a",
+        "source": "RIABiz"
       },
       {
-        "text": "What Drives Censorship on College Campuses?",
-        "refId": "eadbba5d2206",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Who Cares About Declining US Sales? The World Is McDonald\u2019s McOyster",
+        "refId": "c5e4aa381142",
+        "source": "The Daily Upside"
       },
       {
-        "text": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
-        "refId": "beccedcaf04f",
-        "source": "CNBC Finance"
+        "text": "CVS Prescribes Itself Two Separate Companies",
+        "refId": "d5283dbccba5",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7394.99,
+      "v": 7376.86,
       "base": 7688.62,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24593.834,
+      "v": 24579.424,
       "base": 25736.51,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51481.1,
+      "v": 51285.73,
       "base": 53356.12,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.851,
+      "v": 4.859,
       "base": 4.837,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 24.23,
+      "v": 25.64,
       "base": 28.18,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 171.148,
+      "v": 170.3073,
       "base": 177.54,
       "bp": false
     }
