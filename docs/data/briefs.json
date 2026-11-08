@@ -1,81 +1,66 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more",
-        "refId": "b1b30e2e9d44",
+        "text": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+        "refId": "658425f4541f",
         "source": "CNBC Finance"
       },
       {
-        "text": "PNC boosts branch expansion, kicks off CFO transition",
-        "refId": "8a810daf2a82",
-        "source": "Banking Dive"
+        "text": "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
+        "refId": "09a568428d15",
+        "source": "CNBC Finance"
       },
       {
-        "text": "California takes CoinFlip to task",
-        "refId": "75d4dc5c5654",
-        "source": "Banking Dive"
+        "text": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+        "refId": "91a8c3a6d08b",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Few RIAs Have Named AI Leaders, Caddi Finds",
-        "refId": "9c8c65ad7941",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "WealthStack Roundup: Kihan Launches Constitutional Computing for AI Governance",
-        "refId": "47481be65013",
-        "source": "Wealth Management"
-      },
       {
         "text": "Advisors Weigh in on SEC Proposal to Rescind 'Pay-to-Play' Rules",
         "refId": "7f4a2f463e1e",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Deals &amp; Moves: Beacon Pointe Acquires RIA Focused on Airline Workers",
+        "refId": "bf752165c0d5",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Osaic's CW Advisors Announces 3 of 8 Planned Acquisitions This Year",
+        "refId": "cfe3075eac61",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Nordea Bank Risks Almost $1 Billion Fine in Denmark Money Laundering Case",
-        "refId": "c0e9580119fe",
+        "text": "Kim Declares Victory in California Insurance Commissioner Race",
+        "refId": "1740e356a07f",
         "source": "Insurance Journal"
       },
       {
-        "text": "Aircraft Bomb Threats Persist in Europe, Causing More Diversions",
-        "refId": "09c2a22b428a",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "Archdiocese of NY Finalizes $800M Fund for Sex Abuse Survivors; Avoids Bankruptcy",
-        "refId": "0b8f75abe13a",
-        "source": "Insurance Journal"
+        "text": "Berkshire Hathaway underwriting earnings fall 43% in Q3 as Tokio Marine deal supports P&C reinsurance premiums",
+        "refId": "4347c39bf8e9",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "FATF report identifies practical approaches for disrupting scam compounds",
-        "refId": "208218d7c20d",
-        "source": "Finextra"
-      },
-      {
-        "text": "Huntington National Bank launches treasury management platform",
-        "refId": "1394ebfa89c9",
-        "source": "Finextra"
-      },
-      {
-        "text": "Monzo eyes fresh funding at \u00a37.5bn valuation - FT",
-        "refId": "e6e4f78a5f21",
-        "source": "Finextra"
+        "text": "Voters Say No to Data Centers, Yes to Infill, and Keep a Veto at the Edge",
+        "refId": "1f0e57d2c8ac",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -87,38 +72,33 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain",
-        "refId": "1d214229facb",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Be careful about what your gut is telling you right now \ud83e\udd22",
-        "refId": "8953939a1a8b",
-        "source": "TKer (Sam Ro)"
-      },
-      {
-        "text": "UK retail investors buy the dip after bruising tech sell-off",
-        "refId": "3105145ff704",
+        "text": "A new phase in the tech market correction",
+        "refId": "23c20d4f5305",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+        "refId": "061d04974b23",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Oil Context Weekly (W45)",
+        "refId": "df13179ae19f",
+        "source": "Commodity Context"
       }
     ]
   },
   "Newsletters": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Marc Lore and the Wonder of IPOs",
-        "refId": "49f87be7455a",
+        "text": "Not All Charitable Giving Is Equal When It Comes to Taxes",
+        "refId": "c68c9bdb796c",
         "source": "The Daily Upside"
       },
       {
-        "text": "Newly Public Agility Wants to Prove Physical AI Has Legs",
-        "refId": "01712c48f4d1",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Bye Bye $2.5 Trillion: Post-Midterm \u2018Momentum Unwind\u2019 Fears Ignite Mammoth AI Selloff",
-        "refId": "e7d6fd722dec",
+        "text": "Who Gets Hit in the Great Data Center Slowdown?",
+        "refId": "d1f18a196408",
         "source": "The Daily Upside"
       }
     ]
@@ -131,19 +111,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Natasha Cowen guest posts on Caffrey",
-        "refId": "6d6a22663691",
+        "text": "2026.45: Falling Leaves (and Stocks)",
+        "refId": "d7855784b5d2",
+        "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "Was Mossadegh a liberal, democratizing force?",
+        "refId": "8581d2694b22",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "For the Democrats, now comes the hard part",
-        "refId": "6c08de006226",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
-        "text": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google\u2019s Response to AI",
-        "refId": "9ec693aa1a1c",
-        "source": "Stratechery (Ben Thompson)"
+        "text": "The Anthropic succession plan?",
+        "refId": "e75f34565954",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -151,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Marc Lore and the Wonder of IPOs",
-        "refId": "49f87be7455a",
-        "source": "The Daily Upside"
+        "text": "2026.45: Falling Leaves (and Stocks)",
+        "refId": "d7855784b5d2",
+        "source": "Stratechery (Ben Thompson)"
       },
       {
-        "text": "Newly Public Agility Wants to Prove Physical AI Has Legs",
-        "refId": "01712c48f4d1",
-        "source": "The Daily Upside"
+        "text": "A new phase in the tech market correction",
+        "refId": "23c20d4f5305",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Bye Bye $2.5 Trillion: Post-Midterm \u2018Momentum Unwind\u2019 Fears Ignite Mammoth AI Selloff",
-        "refId": "e7d6fd722dec",
-        "source": "The Daily Upside"
+        "text": "Voters Say No to Data Centers, Yes to Infill, and Keep a Veto at the Edge",
+        "refId": "1f0e57d2c8ac",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -200,7 +180,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 170.3073,
+      "v": 170.307,
       "base": 177.54,
       "bp": false
     }
