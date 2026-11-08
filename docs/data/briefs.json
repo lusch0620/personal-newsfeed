@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-        "refId": "57c2ce21cb03",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "Stocks making the biggest moves premarket: Moderna, Airbnb, Cloudflare, Affirm & more",
         "refId": "b1b30e2e9d44",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "PNC boosts branch expansion, kicks off CFO transition",
         "refId": "8a810daf2a82",
         "source": "Banking Dive"
+      },
+      {
+        "text": "California takes CoinFlip to task",
+        "refId": "75d4dc5c5654",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Fidelity, Capital Group Stand to Reap Billions in Anthropic IPO",
-        "refId": "32b06aaaae1f",
+        "text": "Few RIAs Have Named AI Leaders, Caddi Finds",
+        "refId": "9c8c65ad7941",
         "source": "Wealth Management"
       },
       {
-        "text": "Advisor Pleads Guilty to Impersonating DOL Employee To Defraud Business Owners",
-        "refId": "54cdc9b81e4d",
+        "text": "WealthStack Roundup: Kihan Launches Constitutional Computing for AI Governance",
+        "refId": "47481be65013",
         "source": "Wealth Management"
       },
       {
-        "text": "Investment Roundup: Clearlake Capital Launches Clearlake Private Wealth",
-        "refId": "4cb1663860d1",
+        "text": "Advisors Weigh in on SEC Proposal to Rescind 'Pay-to-Play' Rules",
+        "refId": "7f4a2f463e1e",
         "source": "Wealth Management"
       }
     ]
@@ -63,19 +63,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Tabs partners Adyen to bring payment processing directly into invoicing and revenue platform",
-        "refId": "886500d4c348",
+        "text": "FATF report identifies practical approaches for disrupting scam compounds",
+        "refId": "208218d7c20d",
         "source": "Finextra"
       },
       {
-        "text": "EDX Markets and BitSafe launch centralised exchange trading for CBTC",
-        "refId": "4d877eb59b92",
+        "text": "Huntington National Bank launches treasury management platform",
+        "refId": "1394ebfa89c9",
         "source": "Finextra"
       },
       {
-        "text": "Bank CRE Loan Performance Q2 2026: The Rate Turn Arrives on Credit That Was Already Sorting Itself Out",
-        "refId": "3f13629e2ddc",
-        "source": "Trepp Talk"
+        "text": "Monzo eyes fresh funding at \u00a37.5bn valuation - FT",
+        "refId": "e6e4f78a5f21",
+        "source": "Finextra"
       }
     ]
   },
@@ -87,11 +87,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
-        "refId": "a0406f706213",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain",
         "refId": "1d214229facb",
         "source": "Dealbook (NYT)"
@@ -100,6 +95,11 @@
         "text": "Be careful about what your gut is telling you right now \ud83e\udd22",
         "refId": "8953939a1a8b",
         "source": "TKer (Sam Ro)"
+      },
+      {
+        "text": "UK retail investors buy the dip after bruising tech sell-off",
+        "refId": "3105145ff704",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -131,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Love at first photo?",
-        "refId": "5ff1e5ee6213",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Nasdaq Just Entered Correction. Here Is Where I Put Capital in Tech and AI",
-        "refId": "8fd5354679d4",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "Natasha Cowen guest posts on Caffrey",
         "refId": "6d6a22663691",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "For the Democrats, now comes the hard part",
+        "refId": "6c08de006226",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google\u2019s Response to AI",
+        "refId": "9ec693aa1a1c",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -151,19 +151,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Fidelity, Capital Group Stand to Reap Billions in Anthropic IPO",
-        "refId": "32b06aaaae1f",
-        "source": "Wealth Management"
+        "text": "Marc Lore and the Wonder of IPOs",
+        "refId": "49f87be7455a",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Tabs partners Adyen to bring payment processing directly into invoicing and revenue platform",
-        "refId": "886500d4c348",
-        "source": "Finextra"
+        "text": "Newly Public Agility Wants to Prove Physical AI Has Legs",
+        "refId": "01712c48f4d1",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Advisor Pleads Guilty to Impersonating DOL Employee To Defraud Business Owners",
-        "refId": "54cdc9b81e4d",
-        "source": "Wealth Management"
+        "text": "Bye Bye $2.5 Trillion: Post-Midterm \u2018Momentum Unwind\u2019 Fears Ignite Mammoth AI Selloff",
+        "refId": "e7d6fd722dec",
+        "source": "The Daily Upside"
       }
     ]
   },
