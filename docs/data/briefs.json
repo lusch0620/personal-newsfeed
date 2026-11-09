@@ -30,7 +30,7 @@
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "4 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Berkshire Hathaway underwriting earnings fall 43% in Q3 as Tokio Marine deal supports P&C reinsurance premiums",
@@ -38,13 +38,13 @@
         "source": "Reinsurance News"
       },
       {
-        "text": "Construction Industry Review",
-        "refId": "a42fa887f074",
+        "text": "Report: Arizona Vehicle Thefts Fall 21%, But Fraud Schemes May Mask Losses",
+        "refId": "178e0ae99b0a",
         "source": "Insurance Journal"
       },
       {
-        "text": "Finding the Best Defense to Protect Against Cargo Theft",
-        "refId": "33d990bb9b1e",
+        "text": "Washington Updates Insurance Claims Handling Rules, Sets New Deadlines",
+        "refId": "0c3f0f2bbcc5",
         "source": "Insurance Journal"
       }
     ]
@@ -61,24 +61,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Russia ships metal via the Arctic to evade Ukrainian strikes",
-        "refId": "9e3cf7c69b00",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "How Wall Street\u2019s all-in bet on AI blew up",
-        "refId": "9015c352f469",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Data centres rebuked",
         "refId": "7eb4aff15874",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
+        "refId": "f22be3755904",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
+        "refId": "d8100ac010ba",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Not All Charitable Giving Is Equal When It Comes to Taxes",
@@ -88,6 +88,11 @@
       {
         "text": "Who Gets Hit in the Great Data Center Slowdown?",
         "refId": "d1f18a196408",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "COVID Is Still Cash at Moderna, Where a Surprise Profit and New Vaccines Are Hyping Up the Stock",
+        "refId": "11af7872bb5e",
         "source": "The Daily Upside"
       }
     ]
@@ -100,11 +105,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Was Mossadegh a liberal, democratizing force?",
-        "refId": "8581d2694b22",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "The Anthropic succession plan?",
         "refId": "e75f34565954",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -113,6 +113,11 @@
         "text": "What are the Best MR Posts?",
         "refId": "f26a52410922",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Reading List 11/7/2026",
+        "refId": "deccacb5b8d5",
+        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
@@ -120,18 +125,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Russia ships metal via the Arctic to evade Ukrainian strikes",
-        "refId": "9e3cf7c69b00",
+        "text": "The Anthropic succession plan?",
+        "refId": "e75f34565954",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Data centres rebuked",
+        "refId": "7eb4aff15874",
         "source": "Financial Times Markets"
       },
       {
-        "text": "How Wall Street\u2019s all-in bet on AI blew up",
-        "refId": "9015c352f469",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "Was Mossadegh a liberal, democratizing force?",
-        "refId": "8581d2694b22",
+        "text": "What are the Best MR Posts?",
+        "refId": "f26a52410922",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
