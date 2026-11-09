@@ -1,31 +1,41 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-        "refId": "91a8c3a6d08b",
-        "source": "CNBC Finance"
+        "text": "Why augmentation, not automation, is banking\u2019s AI sweet spot",
+        "refId": "115dc7354e75",
+        "source": "Banking Dive"
       },
       {
-        "text": "Why the prognosis for healthcare stocks is uncertain ahead of Congress\u2019 new makeup",
-        "refId": "39871281131b",
-        "source": "CNBC Finance"
+        "text": "Coinbase secures unconditional trust charter",
+        "refId": "c428139737b1",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Morgan Stanley to bolster IPO wheelhouse with Vinyl acquisition",
+        "refId": "a66d29ea8060",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "SEC, Schwab, and Michael Kitces all improbably allied successfully to 'protect' sub-$1 billion RIAs by reclassifying them as 'small,' but move may create vulnerability \u2013 the Commission gained leverage to push firms to state registration",
-        "refId": "8254047d4b62",
-        "source": "RIABiz"
-      },
       {
         "text": "Schwab RIAs have until Monday to convert exclusively to 'Docusign,' ending paper era, as it deputizes Nevis to help RIAs conquer their onboarding quagmire \u2013 and prove AI can fix 'the most painful workflow at any RIA'",
         "refId": "f3ded4a4ef0b",
         "source": "RIABiz"
+      },
+      {
+        "text": "Merchant Takes Stake in Elevation Point as Emigrant Exits",
+        "refId": "5cc390baa4ae",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Wealth CIOs Hold Steady in Wake of Midterms",
+        "refId": "1202d4cae38e",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -33,25 +43,41 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Berkshire Hathaway underwriting earnings fall 43% in Q3 as Tokio Marine deal supports P&C reinsurance premiums",
-        "refId": "4347c39bf8e9",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Report: Arizona Vehicle Thefts Fall 21%, But Fraud Schemes May Mask Losses",
-        "refId": "178e0ae99b0a",
+        "text": "Home-Renovation Expense Keeps Rising as Companies Pass on Costs",
+        "refId": "4c30d19864d6",
         "source": "Insurance Journal"
       },
       {
-        "text": "Washington Updates Insurance Claims Handling Rules, Sets New Deadlines",
-        "refId": "0c3f0f2bbcc5",
+        "text": "Oil Falls as Trump Signals Restraint on Iran Despite Fresh Shipping Attacks",
+        "refId": "c5e71d6ab37f",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Newsroom Bomb Threats Follow Escalating European Flight Hoaxes",
+        "refId": "d526cd69d500",
         "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Visa benchmark finds AI models fail 43% of shopping test runs",
+        "refId": "ee694e3a0e61",
+        "source": "Finextra"
+      },
+      {
+        "text": "Cr\u00e9dit Agricole proposes merger with Banco BPM to create new Italian bank",
+        "refId": "3bf88ce9ae58",
+        "source": "Finextra"
+      },
+      {
+        "text": "Embedded finance platform Synctera raises $24.5m",
+        "refId": "1aba1c05302d",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -61,18 +87,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Data centres rebuked",
-        "refId": "7eb4aff15874",
+        "text": "8 Wall Street insights after the midterm elections \ud83c\uddfa\ud83c\uddf8",
+        "refId": "006eea6b3454",
+        "source": "TKer (Sam Ro)"
+      },
+      {
+        "text": "The great British sell-off",
+        "refId": "dcaaf6070859",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
-        "refId": "f22be3755904",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
-        "refId": "d8100ac010ba",
+        "text": "How the UK could borrow more without spooking gilt markets",
+        "refId": "8a900027a2af",
         "source": "Financial Times Markets"
       }
     ]
@@ -105,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Anthropic succession plan?",
-        "refId": "e75f34565954",
+        "text": "Why I\u2019m becoming a China bear",
+        "refId": "0f46066f6b8b",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "What I\u2019ve been reading",
+        "refId": "d405fe387e51",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "What are the Best MR Posts?",
-        "refId": "f26a52410922",
+        "text": "The Pope probably knows this song",
+        "refId": "1c7b4fb8f0ea",
         "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Reading List 11/7/2026",
-        "refId": "deccacb5b8d5",
-        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
@@ -125,18 +151,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Anthropic succession plan?",
-        "refId": "e75f34565954",
+        "text": "Why I\u2019m becoming a China bear",
+        "refId": "0f46066f6b8b",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "What I\u2019ve been reading",
+        "refId": "d405fe387e51",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Data centres rebuked",
-        "refId": "7eb4aff15874",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "What are the Best MR Posts?",
-        "refId": "f26a52410922",
+        "text": "The Pope probably knows this song",
+        "refId": "1c7b4fb8f0ea",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -144,38 +170,38 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7376.86,
-      "base": 7688.62,
+      "v": 7549.94,
+      "base": 7353.73,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24579.424,
-      "base": 25736.51,
+      "v": 25253.139,
+      "base": 24315.0,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51285.73,
-      "base": 53356.12,
+      "v": 52389.75,
+      "base": 51523.06,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.859,
-      "base": 4.837,
+      "v": 4.864,
+      "base": 4.859,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 25.64,
-      "base": 28.18,
+      "v": 20.01,
+      "base": 25.64,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 170.307,
-      "base": 177.54,
+      "v": 174.4708,
+      "base": 171.21,
       "bp": false
     }
   ]
