@@ -1,260 +1,5 @@
 [
   {
-    "id": "d7855784b5d2",
-    "title": "2026.45: Falling Leaves (and Stocks)",
-    "url": "https://stratechery.com/2026/falling-leaves-and-stocks/",
-    "source": "Stratechery (Ben Thompson)",
-    "section": "Learn",
-    "date": "2026-11-06T18:14:42+00:00",
-    "summary_raw": "The best Stratechery content from the week of November 2, 2026, including AI on the ballot, a Google state of the union, and China.",
-    "summary_ai": {
-      "digest": "2026.45: Falling Leaves (and Stocks)",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "23c20d4f5305",
-    "title": "A new phase in the tech market correction",
-    "url": "https://www.ft.com/content/a91d70f1-d335-4d58-a6d8-1052658211ba?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-11-06T18:24:44+00:00",
-    "summary_raw": "Investors are no longer pricing in accelerating AI growth",
-    "summary_ai": {
-      "digest": "A new phase in the tech market correction",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "1f0e57d2c8ac",
-    "title": "Voters Say No to Data Centers, Yes to Infill, and Keep a Veto at the Edge",
-    "url": "https://www.trepp.com/trepptalk/development-on-the-ballot-infill-veto-edges",
-    "source": "Trepp Talk",
-    "section": "FIG \u2014 Specialty Finance",
-    "date": "2026-11-06T18:30:00+00:00",
-    "summary_raw": "<div class=\"hs-featured-image-wrapper\"> \n <a class=\"hs-featured-image-link\" href=\"https://www.trepp.com/trepptalk/development-on-the-ballot-infill-veto-edges\" title=\"\"> <img alt=\"Voters Say No to Data Centers, Yes to Infill, and Keep a Veto at the Edge\" class=\"hs-featured-image\" src=\"https://www.trepp.com/hubfs/GettyImages-1066713660-compressor.jpg\" style=\"width: auto !important; float: left; margin: 0 15px 15px 0;\" /> </a> \n</div> \n<p style=\"font-size: 16px; line-height: 2;\"><span style=\"color:",
-    "summary_ai": {
-      "digest": "Voters Say No to Data Centers, Yes to Infill, and Keep a Veto at the Edge",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "7f4a2f463e1e",
-    "title": "Advisors Weigh in on SEC Proposal to Rescind 'Pay-to-Play' Rules",
-    "url": "https://www.wealthmanagement.com/regulation-compliance/advisors-split-as-sec-weighs-pay-to-play-rule-rescission",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-11-06T19:04:29+00:00",
-    "summary_raw": "As the SEC's comment period on rescinding the rule nears its close, advisors remain split between easing compliance burdens and preserving safeguards against political influence.",
-    "summary_ai": {
-      "digest": "Advisors Weigh in on SEC Proposal to Rescind 'Pay-to-Play' Rules",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "658425f4541f",
-    "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-    "url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-11-06T19:05:00+00:00",
-    "summary_raw": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
-    "summary_ai": {
-      "digest": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "bf752165c0d5",
-    "title": "Deals &amp; Moves: Beacon Pointe Acquires RIA Focused on Airline Workers",
-    "url": "https://www.wealthmanagement.com/ria-news/deals-moves-beacon-point-acquires-ria-focused-on-airline-workers",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-11-06T19:41:14+00:00",
-    "summary_raw": "In other moves, $20B Modera adds its first West Coast office; Mercer acquires an AI-driven tax planner, advisory and accounting firm; Aprio makes its first standalone wealth deal; and Robertson Stephens expands in Colorado.",
-    "summary_ai": {
-      "digest": "Deals &amp; Moves: Beacon Pointe Acquires RIA Focused on Airline Workers",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "cfe3075eac61",
-    "title": "Osaic's CW Advisors Announces 3 of 8 Planned Acquisitions This Year",
-    "url": "https://www.wealthmanagement.com/ria-news/cw-advisors-acquires-three-rias-adds-16-billion",
-    "source": "Wealth Management",
-    "section": "FIG \u2014 Asset & Wealth Management",
-    "date": "2026-11-06T20:36:59+00:00",
-    "summary_raw": "The Boston-based firm, backed by Osaic and Reverence Capital Partners, added Yosemite, Threadgill and Peddock Capital Advisors, pushing its total AUM near $20 billion across 30 offices.",
-    "summary_ai": {
-      "digest": "Osaic's CW Advisors Announces 3 of 8 Planned Acquisitions This Year",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "09a568428d15",
-    "title": "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
-    "url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
-    "source": "CNBC Finance",
-    "section": "FIG \u2014 Banks",
-    "date": "2026-11-06T20:42:28+00:00",
-    "summary_raw": "Nasdaq\u2019s slide into correction territory puts its history of recoveries in focus. Here's what history shows.",
-    "summary_ai": {
-      "digest": "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "061d04974b23",
-    "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
-    "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-11-06T21:00:09+00:00",
-    "summary_raw": "Claude maker intends to list before Thanksgiving despite brutal tech rout",
-    "summary_ai": {
-      "digest": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "df13179ae19f",
-    "title": "Oil Context Weekly (W45)",
-    "url": "https://www.commoditycontext.com/p/ocw45w26",
-    "source": "Commodity Context",
-    "section": "Markets & Macro",
-    "date": "2026-11-06T21:33:17+00:00",
-    "summary_raw": "Crude suffered steepest weekly decline since April as escalation failed to materialize and Democratic Midterm landslide seen lowering odds of future strikes, but status quo remains unsustainable.",
-    "summary_ai": {
-      "digest": "Oil Context Weekly (W45)",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "1740e356a07f",
-    "title": "Kim Declares Victory in California Insurance Commissioner Race",
-    "url": "https://www.insurancejournal.com/news/west/2026/11/06/891884.htm",
-    "source": "Insurance Journal",
-    "section": "FIG \u2014 Insurance",
-    "date": "2026-11-06T21:50:35+00:00",
-    "summary_raw": "Jane Kim claimed victory over fellow Democrat Ben Allen in the race for California insurance commissioner on Friday. Kim was up by more than 400,000 votes as of Friday afternoon. As of Wednesday morning, 99.8% of precincts had reported in, &#8230;",
-    "summary_ai": {
-      "digest": "Kim Declares Victory in California Insurance Commissioner Race",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "470169f8fb5c",
-    "title": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears",
-    "url": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-11-06T22:00:56+00:00",
-    "summary_raw": "Magnitude of rebound was feeble compared with historic recoveries from severe sell-offs",
-    "summary_ai": {
-      "digest": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "685d59d98681",
-    "title": "US economy outstrips forecasts to add 165,000 jobs in October",
-    "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-11-06T22:16:13+00:00",
-    "summary_raw": "Hiring rebound reinforces expectations Federal Reserve will raise interest rates",
-    "summary_ai": {
-      "digest": "US economy outstrips forecasts to add 165,000 jobs in October",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "a81d79e0f39f",
-    "title": "US stocks recover after tech rout",
-    "url": "https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-11-06T22:22:05+00:00",
-    "summary_raw": "Tech-heavy Nasdaq 100 rises 1.4% following day of turmoil",
-    "summary_ai": {
-      "digest": "US stocks recover after tech rout",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "a48f18b6b8a5",
-    "title": "US warns China it must \u2018immediately\u2019 meet terms of Busan trade deal",
-    "url": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
-    "source": "Financial Times Markets",
-    "section": "Markets & Macro",
-    "date": "2026-11-06T22:53:51+00:00",
-    "summary_raw": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products",
-    "summary_ai": {
-      "digest": "US warns China it must \u2018immediately\u2019 meet terms of Busan trade deal",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "9e3cf7c69b00",
     "title": "Russia ships metal via the Arctic to evade Ukrainian strikes",
     "url": "https://www.ft.com/content/80d91653-c210-43cd-b91e-2b8c644561c1?syn-25a6b1a6=1",
@@ -595,23 +340,6 @@
     }
   },
   {
-    "id": "031f99a20d1c",
-    "title": "This market signal called the tech selloff. Now it\u2019s sending another warning.",
-    "url": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-11-08T12:00:00+00:00",
-    "summary_raw": "Correlations between individual stocks recently hit a record low, and a reversion to the mean may not be a good thing for the market.",
-    "summary_ai": {
-      "digest": "This market signal called the tech selloff. Now it\u2019s sending another warning.",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "0d957e026aa5",
     "title": "Saudi Aramco office in Riyadh damaged in latest Houthi strikes",
     "url": "https://www.ft.com/content/eeadc13e-b915-4591-ab85-54db81030996?syn-25a6b1a6=1",
@@ -646,23 +374,6 @@
     }
   },
   {
-    "id": "c257d59c2a39",
-    "title": "Stocks are moving in sync again for the first time in a while. There\u2019s just one problem.",
-    "url": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-11-08T14:00:00+00:00",
-    "summary_raw": "An increasingly divided U.S. equity market is enjoying a rare moment of unity. Unfortunately, it has coincided with the biggest selloff in more than a year.",
-    "summary_ai": {
-      "digest": "Stocks are moving in sync again for the first time in a while. There\u2019s just one problem.",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "006eea6b3454",
     "title": "8 Wall Street insights after the midterm elections \ud83c\uddfa\ud83c\uddf8",
     "url": "https://www.tker.co/p/midterm-election-results-wall-street-quotes",
@@ -672,23 +383,6 @@
     "summary_raw": "Plus a charted review of the macro crosscurrents &#128256;",
     "summary_ai": {
       "digest": "8 Wall Street insights after the midterm elections \ud83c\uddfa\ud83c\uddf8",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "49e444ec6ed6",
-    "title": "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream-cheese sales",
-    "url": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-11-08T14:13:00+00:00",
-    "summary_raw": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
-    "summary_ai": {
-      "digest": "\u2018We\u2019re losing to cottage cheese\u2019: The protein-maxxing craze is hurting cream-cheese sales",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -714,23 +408,6 @@
     }
   },
   {
-    "id": "efeb84ea0598",
-    "title": "Corporate America\u2019s profit numbers are just barely beating Wall Street\u2019s expectations",
-    "url": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-11-08T15:00:00+00:00",
-    "summary_raw": "S&amp;P 500 companies\u2019 earnings are mostly topping analysts\u2019 estimates \u2014\u00a0but by the narrowest margin in roughly four years.",
-    "summary_ai": {
-      "digest": "Corporate America\u2019s profit numbers are just barely beating Wall Street\u2019s expectations",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "d1f18a196408",
     "title": "Who Gets Hit in the Great Data Center Slowdown?",
     "url": "https://www.thedailyupside.com/technology/artificial-intelligence/who-gets-hit-in-the-great-data-center-slowdown/",
@@ -740,40 +417,6 @@
     "summary_raw": "<p>Experts say the outcome is likely more gloom than doom, though some stakeholders are destined to feel the pain more acutely than others.</p>\n<p>The post <a href=\"https://www.thedailyupside.com/technology/artificial-intelligence/who-gets-hit-in-the-great-data-center-slowdown/\">Who Gets Hit in the Great Data Center Slowdown?</a> appeared first on <a href=\"https://www.thedailyupside.com\">The Daily Upside</a>.</p>",
     "summary_ai": {
       "digest": "Who Gets Hit in the Great Data Center Slowdown?",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "981b54b2daf1",
-    "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-    "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-11-08T15:16:00+00:00",
-    "summary_raw": "\u201cMy brother had no job and needed a place to live.\u201d",
-    "summary_ai": {
-      "digest": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "6d21ec3d22fa",
-    "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-    "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-11-08T15:30:00+00:00",
-    "summary_raw": "\u201cSometimes I wonder whether wealthier Americans should trade places with people like me.\u201d",
-    "summary_ai": {
-      "digest": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -799,23 +442,6 @@
     }
   },
   {
-    "id": "404bc0f7cf98",
-    "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
-    "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-11-08T16:00:00+00:00",
-    "summary_raw": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
-    "summary_ai": {
-      "digest": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
     "id": "d28dbab7ff2e",
     "title": "Sunday assorted links",
     "url": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-589",
@@ -825,23 +451,6 @@
     "summary_raw": "<p>1. Among the Wagner fanatics. 2. Does AI instead commodify jobs? 3. The digital world is making Islam more diverse (The Economist). 4. &#8220;An affair with an economist exposed the calculus of modern dating.&#8221; (New Yorker) 5. &#8220;How Much Economic Value Do AI Systems Produce per Unit of Energy?&#8221; 6. John Gray will be writing [&#8230;]</p>\n<p>The post <a href=\"https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html\">Sunday assorted links</a> appea",
     "summary_ai": {
       "digest": "Sunday assorted links",
-      "summary_long": "",
-      "talking_points": [],
-      "topics": [],
-      "highlight": null,
-      "relevance": 5
-    }
-  },
-  {
-    "id": "1bcf66b356ff",
-    "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-    "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-    "source": "MarketWatch",
-    "section": "Markets & Macro",
-    "date": "2026-11-08T17:23:00+00:00",
-    "summary_raw": "\u201cIt\u2019s not my funeral \u2014 it\u2019s yours \u2014 so make it what you want,\u201d one funeral-home operator says.",
-    "summary_ai": {
-      "digest": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
@@ -876,6 +485,210 @@
     "summary_raw": "\u201cOur basic living expenses are covered by $110,000 in annual pensions and Social Security.\u201d",
     "summary_ai": {
       "digest": "\u2018It seems bizarre\u2019: We\u2019re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "f3ded4a4ef0b",
+    "title": "Schwab RIAs have until Monday to convert exclusively to 'Docusign,' ending paper era, as it deputizes Nevis to help RIAs conquer their onboarding quagmire \u2013 and prove AI can fix 'the most painful workflow at any RIA'",
+    "url": "https://riabiz.com/a/2026/11/2/schwab-rias-have-until-monday-to-convert-exclusively-to-docusign-ending-paper-era-as-it-deputizes-nevis-to-help-rias-conquer-their-onboarding-quagmire-and-prove-ai-can-fix-the-most-painful-workflow-at-any-ria",
+    "source": "RIABiz",
+    "section": "FIG \u2014 Asset & Wealth Management",
+    "date": "2026-11-08T21:09:38+00:00",
+    "summary_raw": "The Nov. 2 deadline marks a huge Schwab milestone but the real challenge remains \u2013 integrating the back-office with artificial intelligence (AI) and digitizing its paper trail.",
+    "summary_ai": {
+      "digest": "Schwab RIAs have until Monday to convert exclusively to 'Docusign,' ending paper era, as it deputizes Nevis to help RIAs conquer their onboarding quagmire \u2013 and prove AI can fix 'the most painful workflow at any RIA'",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "fc6f52011185",
+    "title": "A new setback for the AI trade: Nvidia\u2019s board is probing CEO Huang\u2019s relationship with alleged spy",
+    "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-11-08T23:05:00+00:00",
+    "summary_raw": "Jensen Huang will remain in his role and cooperate with the investigation, though analysts say the matter could cloud over Nvidia\u2019s stock for some time.",
+    "summary_ai": {
+      "digest": "A new setback for the AI trade: Nvidia\u2019s board is probing CEO Huang\u2019s relationship with alleged spy",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "538a089c7ed3",
+    "title": "You follow the rules for smart stock trading. But are they the right rules?",
+    "url": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-11-08T23:15:00+00:00",
+    "summary_raw": "Apply the wisdom of investment pros to develop your own consistent methodology.",
+    "summary_ai": {
+      "digest": "You follow the rules for smart stock trading. But are they the right rules?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "7bc421a0cc50",
+    "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+    "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-11-08T23:35:00+00:00",
+    "summary_raw": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful podcaster at 72.",
+    "summary_ai": {
+      "digest": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "9f55269758f9",
+    "title": "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+    "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-11-08T23:49:00+00:00",
+    "summary_raw": "Math may be cold and unemotional \u2014 but finances are not.",
+    "summary_ai": {
+      "digest": "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "3816d2c7be35",
+    "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+    "url": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-11-08T23:50:00+00:00",
+    "summary_raw": "The math should actually start with \u201cif\u201d \u2014 not \u201chow much.\u201d",
+    "summary_ai": {
+      "digest": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "a42fa887f074",
+    "title": "Construction Industry Review",
+    "url": "https://www.insurancejournal.com/partner-perspective/liberty-mutual/2026/11/09/891545.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-11-09T00:00:00+00:00",
+    "summary_raw": "The construction insurance market continues to present significant opportunity for agents and brokers, but it also faces new and evolving challenges, particularly from the prevalence of legal system abuse and the casualty-heavy nature of construction risks. Scott Lombardi, Executive Vice &#8230;",
+    "summary_ai": {
+      "digest": "Construction Industry Review",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "33d990bb9b1e",
+    "title": "Finding the Best Defense to Protect Against Cargo Theft",
+    "url": "https://www.insurancejournal.com/magazines/mag-features/2026/11/09/891544.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-11-09T00:00:00+00:00",
+    "summary_raw": "By Andrea Wells Cargo theft has reached record levels across the United States, prompting some insurers to increase rates, raise deductibles, and impose new coverage exclusions as criminals employ increasingly sophisticated methods to steal freight. Scott Cornell, executive vide president, &#8230;",
+    "summary_ai": {
+      "digest": "Finding the Best Defense to Protect Against Cargo Theft",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "f74769b33a5f",
+    "title": "Is Shopping Personal Lines Finally Slowing Down?",
+    "url": "https://www.insurancejournal.com/magazines/mag-editorsnote/2026/11/09/891542.htm",
+    "source": "Insurance Journal",
+    "section": "FIG \u2014 Insurance",
+    "date": "2026-11-09T00:00:00+00:00",
+    "summary_raw": "Are agencies seeing fewer requests to shop their coverage? According to a recent survey by JD Power, moderating insurance rates have led to a more stable shopping environment among consumers. &#8220;As rate actions moderate and premium increases begin to stabilize, &#8230;",
+    "summary_ai": {
+      "digest": "Is Shopping Personal Lines Finally Slowing Down?",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "1bcf66b356ff",
+    "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+    "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-11-09T00:00:00+00:00",
+    "summary_raw": "\u201cIt\u2019s not my funeral \u2014 it\u2019s yours \u2014 so make it what you want,\u201d one funeral-home operator says.",
+    "summary_ai": {
+      "digest": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "404bc0f7cf98",
+    "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
+    "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-11-09T00:02:00+00:00",
+    "summary_raw": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
+    "summary_ai": {
+      "digest": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
+      "summary_long": "",
+      "talking_points": [],
+      "topics": [],
+      "highlight": null,
+      "relevance": 5
+    }
+  },
+  {
+    "id": "c0e38bd7fe4f",
+    "title": "I\u2019m second-guessing my adviser: Is an annuity the right move in this market?",
+    "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "section": "Markets & Macro",
+    "date": "2026-11-09T00:30:00+00:00",
+    "summary_raw": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d",
+    "summary_ai": {
+      "digest": "I\u2019m second-guessing my adviser: Is an annuity the right move in this market?",
       "summary_long": "",
       "talking_points": [],
       "topics": [],
