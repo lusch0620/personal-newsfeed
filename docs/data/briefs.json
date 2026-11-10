@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Schwab RIAs have until Monday to convert exclusively to 'Docusign,' ending paper era, as it deputizes Nevis to help RIAs conquer their onboarding quagmire \u2013 and prove AI can fix 'the most painful workflow at any RIA'",
-        "refId": "f3ded4a4ef0b",
-        "source": "RIABiz"
-      },
-      {
         "text": "SEC, Schwab, and Michael Kitces all improbably allied successfully to 'protect' sub-$1 billion RIAs by reclassifying them as 'small,' but move may create vulnerability \u2013 the Commission gained leverage to push firms to state registration",
         "refId": "8254047d4b62",
         "source": "RIABiz"
       },
       {
-        "text": "Power and Money in a Divided Government",
-        "refId": "b1a20df25511",
+        "text": "Model Portfolio Customization Is Here to Stay. But How Will Providers Scale It?",
+        "refId": "ffbbf1c78942",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Mercer Advisors Launches Philanthropic Services Team",
+        "refId": "3f7d60be9a60",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Canada's real-time payments system launches",
-        "refId": "3b05382b6709",
-        "source": "Finextra"
-      },
-      {
         "text": "Financial intelligence platform geniosAI raises $19.1m",
         "refId": "0ee28a6eb932",
         "source": "Finextra"
@@ -76,6 +71,11 @@
         "text": "Morgan Stanley agrees to buy transfer agent Vinyl Equity",
         "refId": "9ef627bd8b44",
         "source": "Finextra"
+      },
+      {
+        "text": "CMBS Special Servicing Rate Rises 25 Basis Points to 11.74% in October 2026",
+        "refId": "6a3d83fc1ccc",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -92,13 +92,13 @@
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Russia rations petrol after new Ukrainian strikes on refineries",
-        "refId": "67b884ed32a9",
-        "source": "Financial Times Markets"
+        "text": "The Fall Of Jensen, Anthropic IPO, and The Systemic Risks For Macro Liquidity",
+        "refId": "0c6168e97bad",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Saudi Arabia\u2019s vital East-West pipeline struck in attack",
-        "refId": "26c08b3c80ee",
+        "text": "US stocks rebound after AI rout",
+        "refId": "a18dd3251bc4",
         "source": "Financial Times Markets"
       }
     ]
@@ -151,11 +151,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Schwab RIAs have until Monday to convert exclusively to 'Docusign,' ending paper era, as it deputizes Nevis to help RIAs conquer their onboarding quagmire \u2013 and prove AI can fix 'the most painful workflow at any RIA'",
-        "refId": "f3ded4a4ef0b",
-        "source": "RIABiz"
-      },
-      {
         "text": "COVID Is Still Cash at Moderna, Where a Surprise Profit and New Vaccines Are Hyping Up the Stock",
         "refId": "11af7872bb5e",
         "source": "The Daily Upside"
@@ -164,43 +159,48 @@
         "text": "Zillow-Scrolling Takes a Hit as Millennials Wait Out Mortgage Rates",
         "refId": "ec02eae47187",
         "source": "The Daily Upside"
+      },
+      {
+        "text": "Does a Hot Jobs Report Guarantee a December Rate Hike?",
+        "refId": "3191f5572263",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7481.21,
+      "v": 7520.93,
       "base": 7376.86,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24879.482,
+      "v": 25065.875,
       "base": 24579.43,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52069.56,
+      "v": 52231.89,
       "base": 51285.73,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.013,
+      "v": 4.983,
       "base": 4.864,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 20.83,
+      "v": 19.46,
       "base": 19.92,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 174.1905,
+      "v": 174.3249,
       "base": 170.31,
       "bp": false
     }
