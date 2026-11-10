@@ -92,13 +92,13 @@
         "source": "TKer (Sam Ro)"
       },
       {
-        "text": "The great British sell-off",
-        "refId": "dcaaf6070859",
+        "text": "How the UK could borrow more without spooking gilt markets",
+        "refId": "8a900027a2af",
         "source": "Financial Times Markets"
       },
       {
-        "text": "How the UK could borrow more without spooking gilt markets",
-        "refId": "8a900027a2af",
+        "text": "ECB contender Klaas Knot \u2018won\u2019t hesitate\u2019 to act in a debt crisis",
+        "refId": "2115c07d30bf",
         "source": "Financial Times Markets"
       }
     ]
@@ -131,11 +131,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Why I\u2019m becoming a China bear",
-        "refId": "0f46066f6b8b",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
         "text": "What I\u2019ve been reading",
         "refId": "d405fe387e51",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -144,6 +139,11 @@
         "text": "The Pope probably knows this song",
         "refId": "1c7b4fb8f0ea",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The AI Product Shipping Kit",
+        "refId": "aa0fe6cf9dcd",
+        "source": "The AI Corner (Ruben Dominguez)"
       }
     ]
   },
@@ -151,11 +151,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Why I\u2019m becoming a China bear",
-        "refId": "0f46066f6b8b",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
         "text": "What I\u2019ve been reading",
         "refId": "d405fe387e51",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -164,6 +159,11 @@
         "text": "The Pope probably knows this song",
         "refId": "1c7b4fb8f0ea",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Not All Charitable Giving Is Equal When It Comes to Taxes",
+        "refId": "c68c9bdb796c",
+        "source": "The Daily Upside"
       }
     ]
   },
@@ -182,7 +182,7 @@
     },
     {
       "nm": "Dow",
-      "v": 52389.75,
+      "v": 52389.8,
       "base": 51523.06,
       "bp": false
     },
@@ -194,13 +194,13 @@
     },
     {
       "nm": "VIX",
-      "v": 20.01,
+      "v": 19.92,
       "base": 25.64,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 174.4708,
+      "v": 174.471,
       "base": 171.21,
       "bp": false
     }
