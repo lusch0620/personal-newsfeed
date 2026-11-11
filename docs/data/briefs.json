@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Gallagher appoints Rawden Leigh as Head of Retail in its Financial Institutions practice",
-        "refId": "ce7afe3b5048",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Insurance market must become more \u2018risk aware and not risk off,\u2019 says Lloyd\u2019s Turk",
-        "refId": "315417d8b201",
-        "source": "Reinsurance News"
-      },
-      {
         "text": "Goosehead estimates Q3\u201926 revenue growth of 17%",
         "refId": "b9bed37931c5",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "ZestyAI\u2019s water risk model Z-WATER\u2122 now approved in 22 states",
+        "refId": "aa1ebe5d21c2",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "Aon appoints Mona Gupta as Global Head of Risk Capital Client Delivery",
+        "refId": "a10cfe73718b",
         "source": "Reinsurance News"
       }
     ]
@@ -62,11 +62,6 @@
   "FIG \u2014 Specialty Finance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Financial intelligence platform geniosAI raises $19.1m",
-        "refId": "0ee28a6eb932",
-        "source": "Finextra"
-      },
       {
         "text": "Morgan Stanley agrees to buy transfer agent Vinyl Equity",
         "refId": "9ef627bd8b44",
@@ -76,6 +71,11 @@
         "text": "CMBS Special Servicing Rate Rises 25 Basis Points to 11.74% in October 2026",
         "refId": "6a3d83fc1ccc",
         "source": "Trepp Talk"
+      },
+      {
+        "text": "FCA explores use of quantum computing to tackle financial crime",
+        "refId": "95d88acdfdd0",
+        "source": "Finextra"
       }
     ]
   },
@@ -97,8 +97,8 @@
         "source": "Capital Flows Research"
       },
       {
-        "text": "US stocks rebound after AI rout",
-        "refId": "a18dd3251bc4",
+        "text": "The index impact of SpaceX\u2019s record-shattering IPO",
+        "refId": "503a86f77cfc",
         "source": "Financial Times Markets"
       }
     ]
@@ -107,18 +107,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "COVID Is Still Cash at Moderna, Where a Surprise Profit and New Vaccines Are Hyping Up the Stock",
-        "refId": "11af7872bb5e",
+        "text": "Can Nvidia\u2019s Huang Hold On Through a Spy Scandal?",
+        "refId": "2c555adee874",
         "source": "The Daily Upside"
       },
       {
-        "text": "Zillow-Scrolling Takes a Hit as Millennials Wait Out Mortgage Rates",
-        "refId": "ec02eae47187",
+        "text": "Anthropic Can Now Start Its Roadshow. The Traffic\u2019s Bad.",
+        "refId": "05c623d4bc2e",
         "source": "The Daily Upside"
       },
       {
-        "text": "Does a Hot Jobs Report Guarantee a December Rate Hike?",
-        "refId": "3191f5572263",
+        "text": "KKR Outdoes Berkshire With Its Berkshire Impression",
+        "refId": "c86ad7f349c8",
         "source": "The Daily Upside"
       }
     ]
@@ -131,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Paraguayan bank story",
-        "refId": "6881aef4ff18",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Seb Krier, Ricardian?",
-        "refId": "e8d632b9698a",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO",
         "refId": "e29ed1d71e9e",
         "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Jensen Huang\u2019s Affair, The Culper Report, Huang\u2019s Righteousness",
+        "refId": "deb976b1594a",
+        "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "The economics of honeypots",
+        "refId": "8c5abe890aa9",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -151,19 +151,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "COVID Is Still Cash at Moderna, Where a Surprise Profit and New Vaccines Are Hyping Up the Stock",
-        "refId": "11af7872bb5e",
-        "source": "The Daily Upside"
+        "text": "Noah, Brad DeLong, and Dan Wang discuss the Anthropic IPO",
+        "refId": "e29ed1d71e9e",
+        "source": "Noahpinion (Noah Smith)"
       },
       {
-        "text": "Zillow-Scrolling Takes a Hit as Millennials Wait Out Mortgage Rates",
-        "refId": "ec02eae47187",
-        "source": "The Daily Upside"
+        "text": "Why augmentation, not automation, is banking\u2019s AI sweet spot",
+        "refId": "115dc7354e75",
+        "source": "Banking Dive"
       },
       {
-        "text": "Does a Hot Jobs Report Guarantee a December Rate Hike?",
-        "refId": "3191f5572263",
-        "source": "The Daily Upside"
+        "text": "Jensen Huang\u2019s Affair, The Culper Report, Huang\u2019s Righteousness",
+        "refId": "deb976b1594a",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
