@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-        "refId": "780fd7287cba",
+        "text": "Polymarket says annualized revenue has topped $1.8 billion",
+        "refId": "63dc875d3148",
         "source": "CNBC Finance"
       },
       {
-        "text": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-        "refId": "72871fe37dfc",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Binance CFO departs one week after $6B hack",
-        "refId": "f8ad847b1d73",
+        "text": "PNC adds stablecoin option for corporate clients",
+        "refId": "88083d5ef860",
         "source": "Banking Dive"
+      },
+      {
+        "text": "U.S. gas prices fall below $4 for the first time since July",
+        "refId": "da9d43a2d008",
+        "source": "CNBC Finance"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropic Founders to Cash Out $1.75B in Blockbuster IPO",
-        "refId": "17b38609905d",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Carlyle, SEI Investments Debut Retail Private Markets Fund",
-        "refId": "cea1ec8f467f",
-        "source": "Wealth Management"
-      },
-      {
         "text": "Modern Wealth Lands $200M from Centerbridge",
         "refId": "ea999867e2db",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Beacon Pointe Acquires $905M Edge Wealth Management",
+        "refId": "39adbb1e83dc",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "RIAs Urged to Treat AI Agents Like New Hires",
+        "refId": "5768dcd44682",
         "source": "Wealth Management"
       }
     ]
@@ -63,11 +63,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "CMBS Special Servicing Rate Rises 25 Basis Points to 11.74% in October 2026",
-        "refId": "6a3d83fc1ccc",
-        "source": "Trepp Talk"
-      },
-      {
         "text": "Standard Chartered powered bank Mox appoints Anshul Sabherwal as CEO",
         "refId": "c09d54a08fc5",
         "source": "Finextra"
@@ -75,6 +70,11 @@
       {
         "text": "Bud lands venture backing for US push",
         "refId": "30fa25426122",
+        "source": "Finextra"
+      },
+      {
+        "text": "Venmo launches receipt scanning feature for bill splitting",
+        "refId": "6ead8dfb2b4b",
         "source": "Finextra"
       }
     ]
@@ -87,11 +87,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Fall Of Jensen, Anthropic IPO, and The Systemic Risks For Macro Liquidity",
-        "refId": "0c6168e97bad",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "Nvidia\u2019s Game of Thrones",
         "refId": "e645ddfa6324",
         "source": "Dealbook (NYT)"
@@ -99,6 +94,11 @@
       {
         "text": "This Law Firm Just Bought Malpractice Insurance for its A.I. Agents",
         "refId": "f22be3755904",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Data Show Households Still Managing to Meet Their Monthly Debts",
+        "refId": "87c59043b468",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -131,11 +131,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Noah Smith and Azeem Azhar discuss the AI boom",
-        "refId": "1a2e77c60229",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
         "text": "*Unbeatable: The Brutally Honest Case for Free Markets*",
         "refId": "c9ca5407adb2",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -144,6 +139,11 @@
         "text": "*Godzilla: Minus Zero* (no spoilers)",
         "refId": "deafcaeabd73",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley",
+        "refId": "efbd17fae06b",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -151,38 +151,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-        "refId": "780fd7287cba",
-        "source": "CNBC Finance"
+        "text": "Can Nvidia\u2019s Huang Hold On Through a Spy Scandal?",
+        "refId": "2c555adee874",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
-        "refId": "72871fe37dfc",
-        "source": "CNBC Finance"
+        "text": "Anthropic Can Now Start Its Roadshow. The Traffic\u2019s Bad.",
+        "refId": "05c623d4bc2e",
+        "source": "The Daily Upside"
       },
       {
-        "text": "CMBS Special Servicing Rate Rises 25 Basis Points to 11.74% in October 2026",
-        "refId": "6a3d83fc1ccc",
-        "source": "Trepp Talk"
+        "text": "KKR Outdoes Berkshire With Its Berkshire Impression",
+        "refId": "c86ad7f349c8",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7637.0,
+      "v": 7619.38,
       "base": 7549.94,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25610.918,
+      "v": 25466.19,
       "base": 25253.14,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52424.89,
+      "v": 52486.49,
       "base": 52389.75,
       "bp": false
     },
@@ -194,13 +194,13 @@
     },
     {
       "nm": "VIX",
-      "v": 17.53,
+      "v": 17.49,
       "base": 19.46,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 175.346,
+      "v": 175.2595,
       "base": 174.47,
       "bp": false
     }
