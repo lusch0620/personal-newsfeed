@@ -23,11 +23,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Vanguard just scored a $4-billion private placement to close its $4.6-billion Altruist deal by year's end, but it comes with at least a $200-million annual drag on its legendary at-cost model",
-        "refId": "948882ac9b45",
-        "source": "RIABiz"
-      },
-      {
         "text": "Proposed IRS Rules Could Reduce Charitable Trust Paperwork",
         "refId": "9dc626737462",
         "source": "Wealth Management"
@@ -36,6 +31,11 @@
         "text": "Paris Jackson Seeks $600M from Her Father\u2019s Estate",
         "refId": "a1757e94aa77",
         "source": "Wealth Management"
+      },
+      {
+        "text": "\u2018Nothing Harder\u2019 Than Succeeding a Founder, Says $7B Sowell CEO",
+        "refId": "a3adb1b035ba",
+        "source": "Wealth Management"
       }
     ]
   },
@@ -43,18 +43,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Pelagos\u2019 GPW rises 5.3% to $839.8m in Q3\u201926",
-        "refId": "120d53e91039",
+        "text": "Geopolitical risks and AI-driven cyberattacks key risk factors for European re/insurers in 2027: S&P",
+        "refId": "56cabb95984a",
         "source": "Reinsurance News"
       },
       {
-        "text": "ANZ CEO Matos Warns of Global Jobs Crisis Without AI Rules",
-        "refId": "3917dc97e70e",
-        "source": "Insurance Journal"
+        "text": "US reciprocal insurance exchanges expand as property insurance pressures drive growth, ALIRT finds",
+        "refId": "30c34c367dbf",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Willis expands Climate Diagnostic capabilities with enhanced climate risk analysis",
-        "refId": "9310283fa198",
+        "text": "Arch Capital appoints Houston Chair of Board of Directors as Pasquesi steps down",
+        "refId": "9953a582689d",
         "source": "Reinsurance News"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Deutsche Bank and Ant set out roadmap for integrating agentic AI into wholesale banking",
-        "refId": "663f2ef88cfc",
-        "source": "Finextra"
-      },
-      {
-        "text": "Zilch expands debt facilities to \u00a3395m in round led by Deutsche Bank",
-        "refId": "444408171146",
-        "source": "Finextra"
-      },
-      {
         "text": "Indonesia ranks social engineering scams as single biggest concern",
         "refId": "8551681b9be6",
+        "source": "Finextra"
+      },
+      {
+        "text": "Western Union ditches Intermex acquisition",
+        "refId": "4b53689cb499",
+        "source": "Finextra"
+      },
+      {
+        "text": "Alta raises $47.5m to build blockchain infrastructure for financial institutions",
+        "refId": "611d204209aa",
         "source": "Finextra"
       }
     ]
@@ -87,11 +87,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Inflation Cycle Has Begun",
-        "refId": "de648399ef02",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "Anthropic\u2019s I.P.O. and the Clubby Business of A.I.",
         "refId": "d4fe1ce6b90a",
         "source": "Dealbook (NYT)"
@@ -100,6 +95,11 @@
         "text": "How GLP-1 Drugs and a Revamp Revived Ro\u2019s Business",
         "refId": "ddc99b18a5d6",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Nvidia Scandal Puts Lori Huang, Jensen Huang\u2019s Wife, In the Spotlight",
+        "refId": "b9ea178d383d",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -107,18 +107,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Amazon\u2019s Ring Unleashes Flying Drone and Rolling Robot Into Consumer Security Market",
-        "refId": "39840702c2bd",
+        "text": "Anthropic\u2019s IPO Is Both Boom and Bust for Big Tech",
+        "refId": "6251235a0be5",
         "source": "The Daily Upside"
       },
       {
-        "text": "Falling Oil Prices May Provide a Cushion Amid Higher-Than-Expected Inflation",
-        "refId": "42b949c46df6",
+        "text": "Take a Nap, Bears: Revenue Surge at CoreWeave Calms AI Spending Worries",
+        "refId": "124b64956335",
         "source": "The Daily Upside"
       },
       {
-        "text": "Jensen Huang\u2019s Affair Renews Debate on Chips Export Controls",
-        "refId": "0de22303983b",
+        "text": "Costco Shareholders Get a $13 Billion Free Sample",
+        "refId": "6d28e867e96b",
         "source": "The Daily Upside"
       }
     ]
@@ -131,9 +131,29 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Spying makes a comeback",
-        "refId": "cd44ec876d2a",
+        "text": "India is quietly doing great",
+        "refId": "062e61598225",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Intel Earnings, AMD Earnings, Intel and AMD\u2019s Divergence",
+        "refId": "8bdd576f06be",
+        "source": "Stratechery (Ben Thompson)"
+      },
+      {
+        "text": "What should I ask Simon Sebag Montefiore?",
+        "refId": "1e70495b3029",
         "source": "Marginal Revolution (Tyler Cowen)"
+      }
+    ]
+  },
+  "all": {
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+        "refId": "cc64fd18d331",
+        "source": "CNBC Finance"
       },
       {
         "text": "India is quietly doing great",
@@ -144,26 +164,6 @@
         "text": "Intel Earnings, AMD Earnings, Intel and AMD\u2019s Divergence",
         "refId": "8bdd576f06be",
         "source": "Stratechery (Ben Thompson)"
-      }
-    ]
-  },
-  "all": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Vanguard just scored a $4-billion private placement to close its $4.6-billion Altruist deal by year's end, but it comes with at least a $200-million annual drag on its legendary at-cost model",
-        "refId": "948882ac9b45",
-        "source": "RIABiz"
-      },
-      {
-        "text": "The Inflation Cycle Has Begun",
-        "refId": "de648399ef02",
-        "source": "Capital Flows Research"
-      },
-      {
-        "text": "Amazon\u2019s Ring Unleashes Flying Drone and Rolling Robot Into Consumer Security Market",
-        "refId": "39840702c2bd",
-        "source": "The Daily Upside"
       }
     ]
   },
