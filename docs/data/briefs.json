@@ -3,11 +3,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
-        "refId": "3663a4953b9d",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair",
         "refId": "d32d9ba07c6d",
         "source": "CNBC Finance"
@@ -16,6 +11,11 @@
         "text": "BofA to settle fake-accounts lawsuit",
         "refId": "ed0374a7db7b",
         "source": "Banking Dive"
+      },
+      {
+        "text": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+        "refId": "f414382a9594",
+        "source": "Federal Reserve Press Releases"
       }
     ]
   },
@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "I Was Amused by Muse. Wealth Managers Shouldn\u2019t Be",
-        "refId": "755e6f91c4fe",
+        "text": "Sergey Brin Knew What Elon Musk Didn\u2019t About Politics",
+        "refId": "376657db351d",
         "source": "Wealth Management"
       },
       {
-        "text": "The Diamond Podcast for Financial Advisors: How an Ex-Goldman Advisor Quietly Built an $8.5B RIA",
-        "refId": "dd3af2302c07",
+        "text": "Daily Upside Founder Launches RIA with Former Mercer Advisor",
+        "refId": "d74c4b9142ec",
         "source": "Wealth Management"
       }
     ]
@@ -68,13 +68,13 @@
         "source": "Finextra"
       },
       {
-        "text": "Intermex 'rejects' Western Union's termination of takeover deal",
-        "refId": "d7a548f7d598",
+        "text": "Axway launches platform to put banks in control of AI costs, data, and decision",
+        "refId": "414de44a2636",
         "source": "Finextra"
       },
       {
-        "text": "Axway launches platform to put banks in control of AI costs, data, and decision",
-        "refId": "414de44a2636",
+        "text": "NYDFS issues virtual currency advertising guidance",
+        "refId": "4e1a2a5b1182",
         "source": "Finextra"
       }
     ]
@@ -131,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Experimentally validated digital twins",
-        "refId": "64a8ce1b2941",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Richard Posner, RIP\u2026",
-        "refId": "b2d3865bc4f3",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "My excellent Conversation with Terence Tao",
         "refId": "c3dad3a1054d",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "USG assets are worth less than Arnold Kling had thought",
+        "refId": "ef3fb0c21737",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "An Interview With Roblox CEO David Baszucki About Aggregating Play",
+        "refId": "74f92efce52e",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -151,56 +151,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Experimentally validated digital twins",
-        "refId": "64a8ce1b2941",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Rick Wurster's off-hand offer to trade sweep cash for RIA custody fee at IMPACT reveals dilemma over 'hidden costs' driving legacy custody model off the rails and into the lap of leaner, AI-driven competitors",
+        "refId": "2fff940e408d",
+        "source": "RIABiz"
       },
       {
-        "text": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
-        "refId": "3663a4953b9d",
-        "source": "CNBC Finance"
+        "text": "Anthropic\u2019s IPO Is Both Boom and Bust for Big Tech",
+        "refId": "6251235a0be5",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Richard Posner, RIP\u2026",
-        "refId": "b2d3865bc4f3",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Take a Nap, Bears: Revenue Surge at CoreWeave Calms AI Spending Worries",
+        "refId": "124b64956335",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7531.83,
+      "v": 7561.67,
       "base": 7619.38,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25027.455,
+      "v": 25136.273,
       "base": 25466.19,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52203.28,
+      "v": 52347.55,
       "base": 52486.49,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.141,
+      "v": 5.154,
       "base": 5.103,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 19.89,
+      "v": 19.3,
       "base": 18.7,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 174.182,
+      "v": 175.2776,
       "base": 175.26,
       "bp": false
     }
