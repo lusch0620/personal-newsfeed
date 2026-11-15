@@ -1,73 +1,46 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-        "refId": "de453ecc7075",
+        "text": "Agencies extend comment period for proposed third-party risk management guidance",
+        "refId": "22d2c8e5fbc2",
+        "source": "Federal Reserve Press Releases"
+      },
+      {
+        "text": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+        "refId": "fc3b46569196",
         "source": "CNBC Finance"
       },
       {
-        "text": "Chips&Media Integrates High-Performance Video Codec IP into Next-Gen AI Semiconductors for Physical AI & Robotics in Partnership with Mobilint",
-        "refId": "4cc5b36867d1",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "FTC Solar Introduces SUNCARE\u2122 Preventive Maintenance Program for Long-Term Tracker Performance",
-        "refId": "04b5af719ee3",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+        "refId": "ea09f222f29e",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Could Commonwealth Conversion Be a Catalyst for LPL's Business?",
-        "refId": "0dc80bf39859",
+        "text": "Wall Street Regulator FINRA Moves to Give Industry Bigger Role",
+        "refId": "c7a2ee5d1d1a",
         "source": "Wealth Management"
       },
       {
-        "text": "New Osaic AI Head Plans Claude for Financial Advisors Pilot Program",
-        "refId": "4fab0d8b6b66",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "The WealthStack Podcast: AI, Video and the New Rules of Client Engagement with David Moricca",
-        "refId": "38ac2dcb632f",
+        "text": "RIA Edge: Industry Faces Advisor Shortfall as $124T Wealth Transfer Looms",
+        "refId": "8ee43ee85c3c",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "MNK International names Danny Greenaway to head new Aviation and Aerospace division",
-        "refId": "f04586e067ca",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Aon expands Pietro Toffanello\u2019s leadership remit across Iberia, South Africa & Israel",
-        "refId": "a87ae9721460",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Cortina launch raises fresh concerns over additional reinsurance capacity: JP Morgan",
-        "refId": "db56664c65ef",
-        "source": "Reinsurance News"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Apartment REITs Sell More Than They Buy as Rents Grow",
-        "refId": "7457179c3937",
-        "source": "Trepp Talk"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -77,38 +50,33 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Meetings are a waste of money",
-        "refId": "25c9fd9423c5",
-        "source": "Klement on Investing"
+        "text": "Inflation Cycle Playbook (Livestream Reply)",
+        "refId": "8c66857b6adc",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "A Scorecard for Huang\u2019s Exit From Nvidia",
-        "refId": "838a6e85e774",
-        "source": "Dealbook (NYT)"
+        "text": "Oil Context Weekly (W46)",
+        "refId": "8192ead41255",
+        "source": "Commodity Context"
       },
       {
-        "text": "Sign Up for DealBook",
-        "refId": "c7eece17793a",
-        "source": "Dealbook (NYT)"
+        "text": "How bonds got interesting again",
+        "refId": "77eb90f8a63d",
+        "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Obscure Defense Tech Company Sees 1,550% Revenue Jump",
-        "refId": "af2d19709bfb",
+        "text": "Grand Theft Auto Revs Up Big Revenue",
+        "refId": "d37ce43018b9",
         "source": "The Daily Upside"
       },
       {
-        "text": "Kraft Heinz Wants to Win Back the Modern Eater",
-        "refId": "7bd101b94fe1",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "When Bad News Is Good News: Nvidia Rival Led by Jensen Huang\u2019s Cousin Rallies Amid Ex-CEO\u2019s \u2018Spy Soap Opera\u2019",
-        "refId": "5d8609b830dc",
+        "text": "Planned Obsolescence: Financial Advice for Workers at Risk of AI Replacement",
+        "refId": "ff1694c6d6e2",
         "source": "The Daily Upside"
       }
     ]
@@ -121,19 +89,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
-        "refId": "8295291daa59",
-        "source": "Stratechery (Ben Thompson)"
+        "text": "An AI Hacker Owned a Patched Network in 14 Minutes. The Hard Part Was Making It Safe for Production",
+        "refId": "b34d20882114",
+        "source": "The AI Corner (Ruben Dominguez)"
       },
       {
-        "text": "Do not overrate zero-sum status-seeking",
-        "refId": "fc58543ce61f",
+        "text": "The Power and Roots of Aspirations",
+        "refId": "aed388d3c047",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Brad and Noah discuss the reindustrialization of America",
-        "refId": "215d59f34cc9",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "People like their jobs, even British people",
+        "refId": "f023b163c87c",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -141,19 +109,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-        "refId": "de453ecc7075",
-        "source": "CNBC Finance"
+        "text": "Wall Street Regulator FINRA Moves to Give Industry Bigger Role",
+        "refId": "c7a2ee5d1d1a",
+        "source": "Wealth Management"
       },
       {
-        "text": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
-        "refId": "8295291daa59",
-        "source": "Stratechery (Ben Thompson)"
+        "text": "Inflation Cycle Playbook (Livestream Reply)",
+        "refId": "8c66857b6adc",
+        "source": "Capital Flows Research"
       },
       {
-        "text": "Obscure Defense Tech Company Sees 1,550% Revenue Jump",
-        "refId": "af2d19709bfb",
-        "source": "The Daily Upside"
+        "text": "RIA Edge: Industry Faces Advisor Shortfall as $124T Wealth Transfer Looms",
+        "refId": "8ee43ee85c3c",
+        "source": "Wealth Management"
       }
     ]
   },
