@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-        "refId": "8d247e86a29f",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-        "refId": "e5887ef1d9da",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
         "refId": "de453ecc7075",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Chips&Media Integrates High-Performance Video Codec IP into Next-Gen AI Semiconductors for Physical AI & Robotics in Partnership with Mobilint",
+        "refId": "4cc5b36867d1",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
+      },
+      {
+        "text": "FTC Solar Introduces SUNCARE\u2122 Preventive Maintenance Program for Long-Term Tracker Performance",
+        "refId": "04b5af719ee3",
+        "source": "GlobeNewswire \u2014 Banking (press releases)"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Raymond James Adds $18.7B to Financial Institutions Channel",
-        "refId": "0ad86c29a86e",
+        "text": "Could Commonwealth Conversion Be a Catalyst for LPL's Business?",
+        "refId": "0dc80bf39859",
         "source": "Wealth Management"
       },
       {
-        "text": "RIA Edge Panel Touts Family Office Services, But \u2018How\u2019 Remains Tricky",
-        "refId": "9fb62447636c",
+        "text": "New Osaic AI Head Plans Claude for Financial Advisors Pilot Program",
+        "refId": "4fab0d8b6b66",
         "source": "Wealth Management"
       },
       {
-        "text": "Income Lab Expands Planning Tools Beyond Retirement",
-        "refId": "9339644d19b7",
+        "text": "The WealthStack Podcast: AI, Video and the New Rules of Client Engagement with David Moricca",
+        "refId": "38ac2dcb632f",
         "source": "Wealth Management"
       }
     ]
@@ -60,22 +60,12 @@
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "$4.42 Billion of Private-Label CMBS Debt Reaches Hard Maturity in November",
-        "refId": "77a148206285",
+        "text": "Apartment REITs Sell More Than They Buy as Rents Grow",
+        "refId": "7457179c3937",
         "source": "Trepp Talk"
-      },
-      {
-        "text": "Mexico's Clara raises $65m for spend management platform",
-        "refId": "90944748149b",
-        "source": "Finextra"
-      },
-      {
-        "text": "Mastercard opens Singapore innovation centre of excellence",
-        "refId": "21b6c470be6a",
-        "source": "Finextra"
       }
     ]
   },
@@ -87,9 +77,9 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Nvidia Stock Tumbles After Jensen Huang Resigns as CEO",
-        "refId": "3d49fc69836f",
-        "source": "Dealbook (NYT)"
+        "text": "Meetings are a waste of money",
+        "refId": "25c9fd9423c5",
+        "source": "Klement on Investing"
       },
       {
         "text": "A Scorecard for Huang\u2019s Exit From Nvidia",
@@ -131,11 +121,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "My Barcelona talk on AI",
-        "refId": "5fee3b631de4",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
         "refId": "8295291daa59",
         "source": "Stratechery (Ben Thompson)"
@@ -144,6 +129,11 @@
         "text": "Do not overrate zero-sum status-seeking",
         "refId": "fc58543ce61f",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Brad and Noah discuss the reindustrialization of America",
+        "refId": "215d59f34cc9",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -151,19 +141,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "My Barcelona talk on AI",
-        "refId": "5fee3b631de4",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+        "refId": "de453ecc7075",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Raymond James Adds $18.7B to Financial Institutions Channel",
-        "refId": "0ad86c29a86e",
-        "source": "Wealth Management"
+        "text": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
+        "refId": "8295291daa59",
+        "source": "Stratechery (Ben Thompson)"
       },
       {
-        "text": "$4.42 Billion of Private-Label CMBS Debt Reaches Hard Maturity in November",
-        "refId": "77a148206285",
-        "source": "Trepp Talk"
+        "text": "Obscure Defense Tech Company Sees 1,550% Revenue Jump",
+        "refId": "af2d19709bfb",
+        "source": "The Daily Upside"
       }
     ]
   },
