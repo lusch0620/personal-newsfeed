@@ -1,51 +1,73 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-        "refId": "ea09f222f29e",
+        "text": "China\u2019s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+        "refId": "bc8702980a28",
         "source": "CNBC Finance"
+      },
+      {
+        "text": "Building trust in an AI-driven banking landscape",
+        "refId": "c2d4e6444f21",
+        "source": "Banking Dive"
       },
       {
         "text": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
         "refId": "e4f388d37e51",
         "source": "CNBC Finance"
-      },
-      {
-        "text": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-        "refId": "fc3b46569196",
-        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Views from 6,230: Why Anthropic's IPO Is a $2T Bet on AI",
+        "refId": "6e2252e01024",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Apollo Makes Minority Investment in Focus Financial",
+        "refId": "f00b3a9f1ecc",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "RIA Edge: New Capital, New Competition Reshape RIA Deal Landscape",
+        "refId": "165025cbf444",
+        "source": "Wealth Management"
+      }
+    ]
   },
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Microsoft Says Services Fully Restored After Outage Roiled World",
-        "refId": "a8cf3bf451f4",
+        "text": "Evacuation Order Lifted After Bomb Found Near Illinois Ethanol Plant",
+        "refId": "6680d0b60abb",
         "source": "Insurance Journal"
       },
       {
-        "text": "California Seeks Insurer Input on AI Use, Public Workshop Planned",
-        "refId": "28fe7640af4e",
-        "source": "Insurance Journal"
+        "text": "Bajaj General Insurance adds Ankur Gupta as Head of Reinsurance",
+        "refId": "7e93bdbedd07",
+        "source": "Reinsurance News"
       },
       {
-        "text": "Court Says US Wrongly Withheld NY\u2019s Highway Funds Over Immigrant Licenses",
-        "refId": "1adb354ed5d3",
-        "source": "Insurance Journal"
+        "text": "Envelop gains Lloyd\u2019s approval for Syndicate 1925",
+        "refId": "8fecef1ab825",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "1 story in this lane today.",
+    "bullets": [
+      {
+        "text": "Manufactured Housing Faces $1.82 Billion of Hard Maturities With None Delinquent",
+        "refId": "ce1b44e04c6c",
+        "source": "Trepp Talk"
+      }
+    ]
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -55,18 +77,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Chart of the Week: The great market rotation",
-        "refId": "4d4909a217ea",
-        "source": "Financial Times Markets"
+        "text": "Lame Duck \u00e0 L\u2019Orange",
+        "refId": "c7a118275a35",
+        "source": "Doomberg"
       },
       {
-        "text": "5 Big Questions as C.E.O.s Meet in China",
-        "refId": "30f80b493819",
-        "source": "Dealbook (NYT)"
+        "text": "Glad I\u2019ve been diversified \ud83d\ude0c",
+        "refId": "83ec216719a3",
+        "source": "TKer (Sam Ro)"
       },
       {
-        "text": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
-        "refId": "8a5521986979",
+        "text": "US allies sign accord to keep China out of AI supply chains",
+        "refId": "12374fb52d54",
         "source": "Financial Times Markets"
       }
     ]
@@ -99,19 +121,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "I\u2019m feeling more optimistic about American politics",
-        "refId": "e89f922c8c24",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
-        "text": "Privatize Air Traffic Control, Redux",
-        "refId": "45fca03699a1",
+        "text": "Tyler Cowen\u2019s strongest musical recommendations, 2003\u20132026",
+        "refId": "858136298be5",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Reading List 11/14/2026",
-        "refId": "97919bccb1c3",
-        "source": "Construction Physics (Brian Potter)"
+        "text": "Garry Tan Spends $100K to $200K a Year on AI Tokens. Here\u2019s a Personal AI Agent for $170",
+        "refId": "8ab57e5fc701",
+        "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Sunday assorted links",
+        "refId": "c3898b73e789",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -119,57 +141,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "I\u2019m feeling more optimistic about American politics",
-        "refId": "e89f922c8c24",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Grand Theft Auto Revs Up Big Revenue",
+        "refId": "d37ce43018b9",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Chart of the Week: The great market rotation",
-        "refId": "4d4909a217ea",
-        "source": "Financial Times Markets"
+        "text": "Lame Duck \u00e0 L\u2019Orange",
+        "refId": "c7a118275a35",
+        "source": "Doomberg"
       },
       {
-        "text": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-        "refId": "ea09f222f29e",
-        "source": "CNBC Finance"
+        "text": "Tyler Cowen\u2019s strongest musical recommendations, 2003\u20132026",
+        "refId": "858136298be5",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7561.67,
-      "base": 7619.38,
+      "v": 7405.96,
+      "base": 7592.4,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 25136.273,
-      "base": 25466.19,
+      "v": 24486.076,
+      "base": 25366.09,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 52347.55,
-      "base": 52486.49,
+      "v": 51529.27,
+      "base": 52297.09,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.154,
-      "base": 5.103,
+      "v": 5.121,
+      "base": 5.154,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 19.3,
-      "base": 18.7,
+      "v": 23.72,
+      "base": 19.3,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 175.278,
-      "base": 175.26,
+      "v": 172.0145,
+      "base": 174.23,
       "bp": false
     }
   ]
