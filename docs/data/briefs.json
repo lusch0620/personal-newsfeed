@@ -1,6 +1,6 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "3 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
         "text": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
@@ -24,8 +24,24 @@
     "bullets": []
   },
   "FIG \u2014 Insurance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Microsoft Says Services Fully Restored After Outage Roiled World",
+        "refId": "a8cf3bf451f4",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "California Seeks Insurer Input on AI Use, Public Workshop Planned",
+        "refId": "28fe7640af4e",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Court Says US Wrongly Withheld NY\u2019s Highway Funds Over Immigrant Licenses",
+        "refId": "1adb354ed5d3",
+        "source": "Insurance Journal"
+      }
+    ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "No stories in this lane today.",
@@ -39,24 +55,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How bonds got interesting again",
-        "refId": "77eb90f8a63d",
+        "text": "Chart of the Week: The great market rotation",
+        "refId": "4d4909a217ea",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Treat prediction markets like futures trading",
-        "refId": "9db580f21a25",
-        "source": "Financial Times Markets"
+        "text": "5 Big Questions as C.E.O.s Meet in China",
+        "refId": "30f80b493819",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "China\u2019s beaten-down tech stocks could offer AI with a little less drama",
-        "refId": "d7c064c41c7a",
+        "text": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
+        "refId": "8a5521986979",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Grand Theft Auto Revs Up Big Revenue",
@@ -66,6 +82,11 @@
       {
         "text": "Planned Obsolescence: Financial Advice for Workers at Risk of AI Replacement",
         "refId": "ff1694c6d6e2",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Fewer Tugs on White Collars During Atkins First Year at the SEC as Enforcement Hits Decade-Plus Low",
+        "refId": "925d24ab6870",
         "source": "The Daily Upside"
       }
     ]
@@ -78,19 +99,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Power and Roots of Aspirations",
-        "refId": "aed388d3c047",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "People like their jobs, even British people",
-        "refId": "f023b163c87c",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "I\u2019m feeling more optimistic about American politics",
         "refId": "e89f922c8c24",
         "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Privatize Air Traffic Control, Redux",
+        "refId": "45fca03699a1",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Reading List 11/14/2026",
+        "refId": "97919bccb1c3",
+        "source": "Construction Physics (Brian Potter)"
       }
     ]
   },
@@ -98,19 +119,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How bonds got interesting again",
-        "refId": "77eb90f8a63d",
+        "text": "I\u2019m feeling more optimistic about American politics",
+        "refId": "e89f922c8c24",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Chart of the Week: The great market rotation",
+        "refId": "4d4909a217ea",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Treat prediction markets like futures trading",
-        "refId": "9db580f21a25",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "China\u2019s beaten-down tech stocks could offer AI with a little less drama",
-        "refId": "d7c064c41c7a",
-        "source": "Financial Times Markets"
+        "text": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+        "refId": "ea09f222f29e",
+        "source": "CNBC Finance"
       }
     ]
   },
