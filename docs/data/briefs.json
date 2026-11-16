@@ -1,38 +1,27 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
+    "lede": "3 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Agencies extend comment period for proposed third-party risk management guidance",
-        "refId": "22d2c8e5fbc2",
-        "source": "Federal Reserve Press Releases"
-      },
-      {
-        "text": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-        "refId": "fc3b46569196",
-        "source": "CNBC Finance"
-      },
       {
         "text": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
         "refId": "ea09f222f29e",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+        "refId": "e4f388d37e51",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+        "refId": "fc3b46569196",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Wall Street Regulator FINRA Moves to Give Industry Bigger Role",
-        "refId": "c7a2ee5d1d1a",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "RIA Edge: Industry Faces Advisor Shortfall as $124T Wealth Transfer Looms",
-        "refId": "8ee43ee85c3c",
-        "source": "Wealth Management"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Insurance": {
     "lede": "No stories in this lane today.",
@@ -50,18 +39,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Inflation Cycle Playbook (Livestream Reply)",
-        "refId": "8c66857b6adc",
-        "source": "Capital Flows Research"
-      },
-      {
-        "text": "Oil Context Weekly (W46)",
-        "refId": "8192ead41255",
-        "source": "Commodity Context"
-      },
-      {
         "text": "How bonds got interesting again",
         "refId": "77eb90f8a63d",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Treat prediction markets like futures trading",
+        "refId": "9db580f21a25",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "China\u2019s beaten-down tech stocks could offer AI with a little less drama",
+        "refId": "d7c064c41c7a",
         "source": "Financial Times Markets"
       }
     ]
@@ -89,11 +78,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "An AI Hacker Owned a Patched Network in 14 Minutes. The Hard Part Was Making It Safe for Production",
-        "refId": "b34d20882114",
-        "source": "The AI Corner (Ruben Dominguez)"
-      },
-      {
         "text": "The Power and Roots of Aspirations",
         "refId": "aed388d3c047",
         "source": "Marginal Revolution (Tyler Cowen)"
@@ -102,6 +86,11 @@
         "text": "People like their jobs, even British people",
         "refId": "f023b163c87c",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "I\u2019m feeling more optimistic about American politics",
+        "refId": "e89f922c8c24",
+        "source": "Noahpinion (Noah Smith)"
       }
     ]
   },
@@ -109,19 +98,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Wall Street Regulator FINRA Moves to Give Industry Bigger Role",
-        "refId": "c7a2ee5d1d1a",
-        "source": "Wealth Management"
+        "text": "How bonds got interesting again",
+        "refId": "77eb90f8a63d",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Inflation Cycle Playbook (Livestream Reply)",
-        "refId": "8c66857b6adc",
-        "source": "Capital Flows Research"
+        "text": "Treat prediction markets like futures trading",
+        "refId": "9db580f21a25",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "RIA Edge: Industry Faces Advisor Shortfall as $124T Wealth Transfer Looms",
-        "refId": "8ee43ee85c3c",
-        "source": "Wealth Management"
+        "text": "China\u2019s beaten-down tech stocks could offer AI with a little less drama",
+        "refId": "d7c064c41c7a",
+        "source": "Financial Times Markets"
       }
     ]
   },
