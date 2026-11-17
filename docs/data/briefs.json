@@ -43,11 +43,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Evacuation Order Lifted After Bomb Found Near Illinois Ethanol Plant",
-        "refId": "6680d0b60abb",
-        "source": "Insurance Journal"
-      },
-      {
         "text": "Bajaj General Insurance adds Ankur Gupta as Head of Reinsurance",
         "refId": "7e93bdbedd07",
         "source": "Reinsurance News"
@@ -56,6 +51,11 @@
         "text": "Envelop gains Lloyd\u2019s approval for Syndicate 1925",
         "refId": "8fecef1ab825",
         "source": "Reinsurance News"
+      },
+      {
+        "text": "Bridge Specialty Group Went All-In on Submission AI Three Years Ago. Here\u2019s What Happened.",
+        "refId": "a3e7b0dfe741",
+        "source": "Insurance Journal"
       }
     ]
   },
@@ -87,8 +87,8 @@
         "source": "TKer (Sam Ro)"
       },
       {
-        "text": "US allies sign accord to keep China out of AI supply chains",
-        "refId": "12374fb52d54",
+        "text": "European banks\u2019 risk transfer boom raises exposure to \u2018forced deleveraging\u2019",
+        "refId": "3c88e9c2251b",
         "source": "Financial Times Markets"
       }
     ]
@@ -160,19 +160,19 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7405.96,
+      "v": 7416.59,
       "base": 7592.4,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24486.076,
+      "v": 24509.758,
       "base": 25366.09,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 51529.27,
+      "v": 51608.17,
       "base": 52297.09,
       "bp": false
     },
@@ -184,13 +184,13 @@
     },
     {
       "nm": "VIX",
-      "v": 23.72,
+      "v": 22.91,
       "base": 19.3,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 172.0145,
+      "v": 172.493,
       "base": 174.23,
       "bp": false
     }
