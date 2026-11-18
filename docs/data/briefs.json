@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "RIA Edge: New Capital, New Competition Reshape RIA Deal Landscape",
-        "refId": "165025cbf444",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Patagonia, Grady White and Ownership Without an Owner",
-        "refId": "e98afacbbe07",
-        "source": "Wealth Management"
-      },
-      {
         "text": "BOK Financial Sues Cerity Over Additional Advisor Poaching",
         "refId": "bf58fa18dc86",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "RPA Aggregators Tackle Convergence, Data and AI Gaps",
+        "refId": "a1d641e5000c",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "BlackRock Seeks to Break ETF Mold With Private-Market Hybrid",
+        "refId": "b90a5f0aeea9",
         "source": "Wealth Management"
       }
     ]
@@ -82,18 +82,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
+        "text": "About those net zero targets",
+        "refId": "2ce6e5f5718a",
+        "source": "Klement on Investing"
+      },
+      {
         "text": "Is Jensen Huang Plotting a Comeback?",
         "refId": "746c85bb6038",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Chevron nears $5bn deal for Blackstone-backed oil producer in US Gulf",
-        "refId": "98d2a869acfa",
-        "source": "Financial Times Markets"
-      },
-      {
-        "text": "CVC plans to back out of Italian deal with Advent, triggering potential legal clash",
-        "refId": "db7b88d14183",
+        "text": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
+        "refId": "5ab7e623208c",
         "source": "Financial Times Markets"
       }
     ]
@@ -165,37 +165,37 @@
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7328.82,
+      "v": 7340.53,
       "base": 7561.67,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24242.977,
+      "v": 24328.383,
       "base": 25136.27,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 50780.43,
+      "v": 50759.42,
       "base": 52347.55,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.109,
+      "v": 5.103,
       "base": 5.121,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 25.7,
+      "v": 25.46,
       "base": 22.91,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 169.212,
+      "v": 169.071,
       "base": 175.28,
       "bp": false
     }
