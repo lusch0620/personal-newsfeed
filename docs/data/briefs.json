@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Two Mistakes That Cost Heirs the IRC Section 721 Exchange Step-Up",
-        "refId": "c638868d32d7",
+        "text": "Social Security Can\u2019t Be the Only Priority",
+        "refId": "2929f0becae4",
         "source": "Wealth Management"
       },
       {
-        "text": "The Transfer Path to Succession Planning",
-        "refId": "fe8c935da382",
+        "text": "Osaic-Owned CW Advisors Adds $920M Boston Firm",
+        "refId": "c9c941cb7acd",
         "source": "Wealth Management"
       },
       {
-        "text": "Ameriprise, LPL Agree To End Multi-Year Court Standoff",
-        "refId": "5b887bafb422",
+        "text": "LPL Closes Deal for $2.7B Commonwealth Team Post-Conversion",
+        "refId": "cfc0899df0cc",
         "source": "Wealth Management"
       }
     ]
@@ -63,18 +63,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Model ML raises $250m to give bankers their own personal agents",
-        "refId": "bfeae26895d8",
-        "source": "Finextra"
-      },
-      {
-        "text": "Goldman Sachs leads $280m Series C for Payhawk",
-        "refId": "c7a62c26e64a",
-        "source": "Finextra"
-      },
-      {
         "text": "Visa expands Agentic Ready programme to acceptance ecosystem",
         "refId": "b5641b4d6e97",
+        "source": "Finextra"
+      },
+      {
+        "text": "US bank outages caused by software bug at JPMorgan Chase",
+        "refId": "23eebd7d802c",
+        "source": "Finextra"
+      },
+      {
+        "text": "New Zealand banks form fraud intelligence sharing network",
+        "refId": "ff4ad817ec2a",
         "source": "Finextra"
       }
     ]
@@ -131,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What should I ask Alexander Mikaberidze?",
-        "refId": "2b6f4332c10f",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "The Kalshi market on U.S. productivity growth",
-        "refId": "288291215fb2",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Me on the cyberattacks",
         "refId": "b6a24d6e7486",
         "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Roundup #91: Rocketing into the technofuture",
+        "refId": "644c85b28054",
+        "source": "Noahpinion (Noah Smith)"
+      },
+      {
+        "text": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+        "refId": "861b99aca915",
+        "source": "Stratechery (Ben Thompson)"
       }
     ]
   },
@@ -151,56 +151,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "What should I ask Alexander Mikaberidze?",
-        "refId": "2b6f4332c10f",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Disney\u2019s Latest Accounting Magic: $3 Billion in Cost Savings to Fund Growth",
+        "refId": "7857ee1f5595",
+        "source": "The Daily Upside"
       },
       {
-        "text": "The Kalshi market on U.S. productivity growth",
-        "refId": "288291215fb2",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Home Depot Earnings Beat Expectations as Homeowners Renovate Instead of Relocate",
+        "refId": "d0ae885d01cc",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Model ML raises $250m to give bankers their own personal agents",
-        "refId": "bfeae26895d8",
-        "source": "Finextra"
+        "text": "Nvidia\u2019s First Post-Huang Call Can\u2019t Escape the China Question",
+        "refId": "3fceb671e4d7",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7208.25,
+      "v": 7175.83,
       "base": 7340.53,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 24022.727,
+      "v": 23879.2,
       "base": 24328.38,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 49306.2,
+      "v": 49097.06,
       "base": 50759.42,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 5.054,
+      "v": 5.052,
       "base": 5.066,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 27.45,
+      "v": 28.44,
       "base": 24.56,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 164.1861,
+      "v": 163.7796,
       "base": 169.07,
       "bp": false
     }
