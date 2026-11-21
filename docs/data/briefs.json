@@ -3,19 +3,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-        "refId": "b7211ca2eb22",
+        "text": "Trump praises \u2018great relationship\u2019 with Putin after meeting, as Ukraine war takes center stage",
+        "refId": "8382ca380c2c",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+        "refId": "a63b4edafa75",
         "source": "Federal Reserve Press Releases"
       },
       {
-        "text": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-        "refId": "2f0726494c22",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
-        "refId": "c3f9f185358c",
-        "source": "CNBC Finance"
+        "text": "PNC bets on hospitality to counter AI disruption",
+        "refId": "2987aa08a85d",
+        "source": "Banking Dive"
       }
     ]
   },
@@ -23,18 +23,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ameriprise two-year legal battle ends with LPL getting off the legal hook but Ameriprise gets what it needs -- to send a message to its increasingly courted troops",
-        "refId": "03b4129369d5",
-        "source": "RIABiz"
-      },
-      {
-        "text": "LPL Financial Raises $750M in Senior Notes",
-        "refId": "1bd6e31ef1d4",
+        "text": "Focused on the Future: Do I Have the Right Team, Platform to Grow My Advisory Firm? With Debra Brennan Tagg",
+        "refId": "ea24c4fca82d",
         "source": "Wealth Management"
       },
       {
-        "text": "AI Blurs the Line Between Authorship and Editing",
-        "refId": "a927cae5d6c6",
+        "text": "Who Really Owns the Client Relationship?",
+        "refId": "1ed272ab7a74",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "$2.5B Credit Union Firm Copper Financial Joins Osaic Institutions",
+        "refId": "7b91ff3e5c4a",
         "source": "Wealth Management"
       }
     ]
@@ -63,19 +63,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Modified, Not Fixed: The State of CMBS Loan Modifications",
-        "refId": "66fa8926a134",
-        "source": "Trepp Talk"
-      },
-      {
-        "text": "Singapore sets national AI missions for financial services",
-        "refId": "6ce33f5a7a77",
+        "text": "BMO reaches quantum utility",
+        "refId": "65635166c200",
         "source": "Finextra"
       },
       {
-        "text": "\ud83d\udca5It\u2019s all fun and games...\ud83d\udca5",
-        "refId": "ebdd8af2e8f9",
-        "source": "PETITION (distressed/restructuring)"
+        "text": "With attacks on the rise, UK regulators clarify cyber expectations",
+        "refId": "2c7189325891",
+        "source": "Finextra"
+      },
+      {
+        "text": "100,000+ UK retail investors score Anthropic shares",
+        "refId": "91bfb2ccfec0",
+        "source": "Finextra"
       }
     ]
   },
@@ -87,18 +87,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Mamdani Talks Trump, Taxes and Oct. 7 at DealBook Summit",
-        "refId": "019d052c847c",
+        "text": "Watch: Hailey Bieber Says Social Media Has Affected Her Mental Health",
+        "refId": "a625e1187c73",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Watch: Satya Nadella on A.I.\u2019s Threat to Global Infrastructure",
-        "refId": "5dededf768ba",
+        "text": "Watch: Elon Musk Says He\u2019s a Political Moderate, \u2018Not MAGA\u2019",
+        "refId": "73355e934115",
         "source": "Dealbook (NYT)"
       },
       {
-        "text": "Watch: Palmer Luckey Warns of Falling Behind in A.I. Race",
-        "refId": "14a9b3a3bc2f",
+        "text": "Watch the Biggest Interviews at the DealBook Summit",
+        "refId": "db4dabb2e823",
         "source": "Dealbook (NYT)"
       }
     ]
@@ -151,56 +151,56 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-        "refId": "b7211ca2eb22",
-        "source": "Federal Reserve Press Releases"
+        "text": "Watch: Hailey Bieber Says Social Media Has Affected Her Mental Health",
+        "refId": "a625e1187c73",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Modified, Not Fixed: The State of CMBS Loan Modifications",
-        "refId": "66fa8926a134",
-        "source": "Trepp Talk"
+        "text": "Watch: Elon Musk Says He\u2019s a Political Moderate, \u2018Not MAGA\u2019",
+        "refId": "73355e934115",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-        "refId": "2f0726494c22",
-        "source": "CNBC Finance"
+        "text": "Watch the Biggest Interviews at the DealBook Summit",
+        "refId": "db4dabb2e823",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7041.51,
+      "v": 6910.39,
       "base": 7323.63,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 23117.033,
+      "v": 22617.732,
       "base": 24429.88,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 48886.83,
+      "v": 48147.33,
       "base": 50198.17,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.946,
+      "v": 4.912,
       "base": 5.052,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 31.51,
+      "v": 35.89,
       "base": 28.44,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 161.5553,
+      "v": 158.6664,
       "base": 166.93,
       "bp": false
     }
