@@ -1,83 +1,41 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-        "refId": "e82c187e6d22",
+        "text": "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
+        "refId": "3785241c282e",
         "source": "CNBC Finance"
       },
       {
-        "text": "The bull market has a new problem. The 'smart money' is selling",
-        "refId": "7ddfa77672b4",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-        "refId": "ce78320c2448",
+        "text": "Federal Reserve announces College Fed Challenge winners",
+        "refId": "dca8af8f2c97",
         "source": "Federal Reserve Press Releases"
+      },
+      {
+        "text": "How China is using summits to expand its global influence",
+        "refId": "f799b83b92bc",
+        "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "5 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
       {
-        "text": "Investment Roundup: AssetMark Launches Portfolio Model Management",
-        "refId": "def74cb00a40",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Aidentified to Integrate with FMG Suite",
-        "refId": "f6553da5f2bb",
-        "source": "Wealth Management"
-      },
-      {
-        "text": "Liz Ann Sonders' 2027 Market Outlook: What Financial Advisors Should Watch",
-        "refId": "230a44cd71ff",
+        "text": "Arena Private Wealth: Focused on an Active Investment Approach",
+        "refId": "a3f6e8a4a635",
         "source": "Wealth Management"
       }
     ]
   },
   "FIG \u2014 Insurance": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "RAA appoints AXA XL Re\u2019s Greg Schiffer as Secretary-Treasurer of Board",
-        "refId": "710fbc1daa3f",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "Aon\u2019s new surety program to support US digital infrastructure growth",
-        "refId": "b157efd2e4b9",
-        "source": "Reinsurance News"
-      },
-      {
-        "text": "UK Finds Fix for Fridge and Freezer Vulnerability After European Hacks",
-        "refId": "36b9df39b5c8",
-        "source": "Insurance Journal"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
-    "bullets": [
-      {
-        "text": "Storspay completes money services business registration in Canada",
-        "refId": "e9192209a7f6",
-        "source": "Finextra"
-      },
-      {
-        "text": "UK SME lender OakNorth secures US banking licence",
-        "refId": "dd71dc8b93d7",
-        "source": "Finextra"
-      },
-      {
-        "text": "Worldline shares plummet on FT report on cash advances",
-        "refId": "b45844708b71",
-        "source": "Finextra"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -87,38 +45,33 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropic, AI Flows, and The Coming Hiking Cycle",
-        "refId": "d8fc227b10fc",
-        "source": "Capital Flows Research"
-      },
-      {
-        "text": "Worldline bolstered cash flow through delayed payments and early receipts",
-        "refId": "775f8fdbd7d5",
+        "text": "Inside Anthropic\u2019s historic IPO",
+        "refId": "fd7f4a9dbd09",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Anthropic market cap in line with Alphaville\u2019s guess",
-        "refId": "9c3f05997fea",
+        "text": "Oil Context Weekly (W47)",
+        "refId": "5627e3badec7",
+        "source": "Commodity Context"
+      },
+      {
+        "text": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+        "refId": "067287614b44",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "5 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "Nascent Texas Stock Exchanges Build Niches, Grudges",
-        "refId": "f637544d6087",
+        "text": "The Cross-Border Conundrum: What Increased US Emigration Means for Advisors",
+        "refId": "7e8e2a87bf82",
         "source": "The Daily Upside"
       },
       {
-        "text": "Intel\u2019s Chipmaking Biz Ramps Up with New Mystery Client",
-        "refId": "73dc95abd209",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "Anthropic Debuts in a New Era for the AI Trade",
-        "refId": "3c0b2d6c09c3",
+        "text": "A \u2018Silver Tsunami\u2019 of Inherited Homes Is Coming for the Housing Market",
+        "refId": "e0d67da5fee6",
         "source": "The Daily Upside"
       }
     ]
@@ -131,19 +84,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "AIs vs. humans in economics papers",
-        "refId": "87cf939328c4",
+        "text": "Emergent Ventures, 60th cohort",
+        "refId": "6380ae4a8fe5",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Phonics-based Instruction and Student Achievement",
-        "refId": "5aa3ff6d3e0c",
+        "text": "*The Great Enrichment*",
+        "refId": "0f40d91188a0",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Does it really matter if there\u2019s an intelligence explosion?",
-        "refId": "65fa44ba6f63",
-        "source": "Noahpinion (Noah Smith)"
+        "text": "Paul Litvak\u2019s Evidence Guide",
+        "refId": "0e9bca5d25d3",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -151,19 +104,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropic, AI Flows, and The Coming Hiking Cycle",
-        "refId": "d8fc227b10fc",
-        "source": "Capital Flows Research"
+        "text": "Arena Private Wealth: Focused on an Active Investment Approach",
+        "refId": "a3f6e8a4a635",
+        "source": "Wealth Management"
       },
       {
-        "text": "Nascent Texas Stock Exchanges Build Niches, Grudges",
-        "refId": "f637544d6087",
-        "source": "The Daily Upside"
+        "text": "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
+        "refId": "3785241c282e",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Intel\u2019s Chipmaking Biz Ramps Up with New Mystery Client",
-        "refId": "73dc95abd209",
-        "source": "The Daily Upside"
+        "text": "Federal Reserve announces College Fed Challenge winners",
+        "refId": "dca8af8f2c97",
+        "source": "Federal Reserve Press Releases"
       }
     ]
   },
