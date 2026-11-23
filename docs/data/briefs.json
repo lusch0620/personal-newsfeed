@@ -1,33 +1,22 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "4 stories in this lane today.",
+    "lede": "2 stories in this lane today.",
     "bullets": [
-      {
-        "text": "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
-        "refId": "3785241c282e",
-        "source": "CNBC Finance"
-      },
-      {
-        "text": "Federal Reserve announces College Fed Challenge winners",
-        "refId": "dca8af8f2c97",
-        "source": "Federal Reserve Press Releases"
-      },
       {
         "text": "How China is using summits to expand its global influence",
         "refId": "f799b83b92bc",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+        "refId": "774ce43f23be",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "1 story in this lane today.",
-    "bullets": [
-      {
-        "text": "Arena Private Wealth: Focused on an Active Investment Approach",
-        "refId": "a3f6e8a4a635",
-        "source": "Wealth Management"
-      }
-    ]
+    "lede": "No stories in this lane today.",
+    "bullets": []
   },
   "FIG \u2014 Insurance": {
     "lede": "No stories in this lane today.",
@@ -45,18 +34,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Inside Anthropic\u2019s historic IPO",
-        "refId": "fd7f4a9dbd09",
+        "text": "How can investors succeed in markets today?",
+        "refId": "d2887c78bd3d",
         "source": "Financial Times Markets"
       },
       {
-        "text": "Oil Context Weekly (W47)",
-        "refId": "5627e3badec7",
-        "source": "Commodity Context"
+        "text": "CVC claims accounting manipulation in \u20ac3bn Advent pastry ingredients deal",
+        "refId": "c3de1be8109a",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-        "refId": "067287614b44",
+        "text": "Oil shipped through Hormuz falls as Iranian strikes increase",
+        "refId": "cf9a5e9fe3bf",
         "source": "Financial Times Markets"
       }
     ]
@@ -104,19 +93,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Arena Private Wealth: Focused on an Active Investment Approach",
-        "refId": "a3f6e8a4a635",
-        "source": "Wealth Management"
+        "text": "How can investors succeed in markets today?",
+        "refId": "d2887c78bd3d",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
-        "refId": "3785241c282e",
-        "source": "CNBC Finance"
+        "text": "CVC claims accounting manipulation in \u20ac3bn Advent pastry ingredients deal",
+        "refId": "c3de1be8109a",
+        "source": "Financial Times Markets"
       },
       {
-        "text": "Federal Reserve announces College Fed Challenge winners",
-        "refId": "dca8af8f2c97",
-        "source": "Federal Reserve Press Releases"
+        "text": "Oil shipped through Hormuz falls as Iranian strikes increase",
+        "refId": "cf9a5e9fe3bf",
+        "source": "Financial Times Markets"
       }
     ]
   },
@@ -148,7 +137,7 @@
     {
       "nm": "VIX",
       "v": 35.89,
-      "base": 28.44,
+      "base": 24.56,
       "bp": false
     },
     {
