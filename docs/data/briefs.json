@@ -3,13 +3,13 @@
     "lede": "2 stories in this lane today.",
     "bullets": [
       {
-        "text": "How China is using summits to expand its global influence",
-        "refId": "f799b83b92bc",
+        "text": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+        "refId": "774ce43f23be",
         "source": "CNBC Finance"
       },
       {
-        "text": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-        "refId": "774ce43f23be",
+        "text": "JPMorgan is working on AI agent transactions that don\u2019t involve humans",
+        "refId": "854f0fbce886",
         "source": "CNBC Finance"
       }
     ]
@@ -19,8 +19,24 @@
     "bullets": []
   },
   "FIG \u2014 Insurance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Lawsuits Allege Corner Cutting and Ignored Warnings Led to Fatal Building Collapse",
+        "refId": "4bcc683bf6ef",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "Nippon Dynawave Facing $10.1M in Penalties, Costs Over Deadly Washington Tank Failure",
+        "refId": "fc889c061192",
+        "source": "Insurance Journal"
+      },
+      {
+        "text": "DAC Beachcroft expands international insurance team",
+        "refId": "c5498195d5c9",
+        "source": "Reinsurance News"
+      }
+    ]
   },
   "FIG \u2014 Specialty Finance": {
     "lede": "No stories in this lane today.",
@@ -34,24 +50,24 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How can investors succeed in markets today?",
-        "refId": "d2887c78bd3d",
-        "source": "Financial Times Markets"
+        "text": "The Faces of the 2026 DealBook Summit",
+        "refId": "bdc6b50945dd",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "CVC claims accounting manipulation in \u20ac3bn Advent pastry ingredients deal",
-        "refId": "c3de1be8109a",
-        "source": "Financial Times Markets"
+        "text": "Elon Musk on His Politics, a Potential Merger and Ukraine",
+        "refId": "6ea819e89fbc",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "Oil shipped through Hormuz falls as Iranian strikes increase",
-        "refId": "cf9a5e9fe3bf",
+        "text": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+        "refId": "21fbdb30f95c",
         "source": "Financial Times Markets"
       }
     ]
   },
   "Newsletters": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "The Cross-Border Conundrum: What Increased US Emigration Means for Advisors",
@@ -61,6 +77,11 @@
       {
         "text": "A \u2018Silver Tsunami\u2019 of Inherited Homes Is Coming for the Housing Market",
         "refId": "e0d67da5fee6",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "\u2018Rolling Right Along\u2019: Consumer Holiday Spending Counters Market\u2019s Sour AI Mood",
+        "refId": "432787653812",
         "source": "The Daily Upside"
       }
     ]
@@ -73,18 +94,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Emergent Ventures, 60th cohort",
-        "refId": "6380ae4a8fe5",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "*The Great Enrichment*",
-        "refId": "0f40d91188a0",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
         "text": "Paul Litvak\u2019s Evidence Guide",
         "refId": "0e9bca5d25d3",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Reading List 11/21/2026",
+        "refId": "cb791a93781c",
+        "source": "Construction Physics (Brian Potter)"
+      },
+      {
+        "text": "A simple observation",
+        "refId": "88fb35ed9844",
         "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
@@ -93,19 +114,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "How can investors succeed in markets today?",
-        "refId": "d2887c78bd3d",
-        "source": "Financial Times Markets"
+        "text": "The Faces of the 2026 DealBook Summit",
+        "refId": "bdc6b50945dd",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "CVC claims accounting manipulation in \u20ac3bn Advent pastry ingredients deal",
-        "refId": "c3de1be8109a",
-        "source": "Financial Times Markets"
+        "text": "Paul Litvak\u2019s Evidence Guide",
+        "refId": "0e9bca5d25d3",
+        "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Oil shipped through Hormuz falls as Iranian strikes increase",
-        "refId": "cf9a5e9fe3bf",
-        "source": "Financial Times Markets"
+        "text": "Elon Musk on His Politics, a Potential Merger and Ukraine",
+        "refId": "6ea819e89fbc",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
