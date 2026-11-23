@@ -1,6 +1,6 @@
 {
   "FIG \u2014 Banks": {
-    "lede": "2 stories in this lane today.",
+    "lede": "5 stories in this lane today.",
     "bullets": [
       {
         "text": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
@@ -8,39 +8,76 @@
         "source": "CNBC Finance"
       },
       {
-        "text": "JPMorgan is working on AI agent transactions that don\u2019t involve humans",
-        "refId": "854f0fbce886",
-        "source": "CNBC Finance"
+        "text": "AI-forward insurance startup Corgi applies for bank charter",
+        "refId": "a197647557fc",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Payoneer gets conditional approval for trust bank",
+        "refId": "1d91ab455fc8",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Advisor Sentiment Index: Advisor Optimism Rose in October",
+        "refId": "b32aa92469f2",
+        "source": "Wealth Management"
+      },
+      {
+        "text": "Abby Johnson reaches key milestones as Fidelity crosses $20 trillion in assets;  she braces for an uncertain future and faces her biggest challenge yet -- coming up with a second act that exceeds her first as CEO",
+        "refId": "5b66fc58fe5a",
+        "source": "RIABiz"
+      },
+      {
+        "text": "Views from 6,230: Can Investors Trust Prediction Markets?",
+        "refId": "df7031654e4e",
+        "source": "Wealth Management"
+      }
+    ]
   },
   "FIG \u2014 Insurance": {
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Lawsuits Allege Corner Cutting and Ignored Warnings Led to Fatal Building Collapse",
-        "refId": "4bcc683bf6ef",
+        "text": "Russian Cargo Ship Attacked by Drones in Gulf of Finland",
+        "refId": "50cc299c2e4f",
         "source": "Insurance Journal"
       },
       {
-        "text": "Nippon Dynawave Facing $10.1M in Penalties, Costs Over Deadly Washington Tank Failure",
-        "refId": "fc889c061192",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "DAC Beachcroft expands international insurance team",
-        "refId": "c5498195d5c9",
+        "text": "RiverStone enters transaction with NHBC covering new-home warranty liabilities",
+        "refId": "65ca9d1dbd05",
         "source": "Reinsurance News"
+      },
+      {
+        "text": "Companies\u2019 El Ni\u00f1o Anxiety Is Surging as Weather Perils Loom",
+        "refId": "7ff9afa191b9",
+        "source": "Insurance Journal"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "No stories in this lane today.",
-    "bullets": []
+    "lede": "5 stories in this lane today.",
+    "bullets": [
+      {
+        "text": "Ex-Monzo scam fighting team raises \u00a31.8m for startup Acorda",
+        "refId": "19dbc19cc4ff",
+        "source": "Finextra"
+      },
+      {
+        "text": "Canada picks FDX for open banking technical standards",
+        "refId": "d21313fa47ee",
+        "source": "Finextra"
+      },
+      {
+        "text": "CFTC loses emergency effort to block New York action against Kalshi",
+        "refId": "f2a2efade872",
+        "source": "Finextra"
+      }
+    ]
   },
   "PE & Deals": {
     "lede": "No stories in this lane today.",
@@ -50,19 +87,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Faces of the 2026 DealBook Summit",
-        "refId": "bdc6b50945dd",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Elon Musk on His Politics, a Potential Merger and Ukraine",
-        "refId": "6ea819e89fbc",
-        "source": "Dealbook (NYT)"
-      },
-      {
-        "text": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
-        "refId": "21fbdb30f95c",
+        "text": "US ports face cyber attack onslaught as hackers target vital trade routes",
+        "refId": "cb8a06db38e4",
         "source": "Financial Times Markets"
+      },
+      {
+        "text": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes",
+        "refId": "51a66add2d79",
+        "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "Dear Diary, November 2026 has been brutal \ud83d\uddd3\ufe0f",
+        "refId": "cf40aef88853",
+        "source": "TKer (Sam Ro)"
       }
     ]
   },
@@ -94,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Paul Litvak\u2019s Evidence Guide",
-        "refId": "0e9bca5d25d3",
+        "text": "Will AI Growth Reach the Developing World?",
+        "refId": "18f5bd2518be",
         "source": "Marginal Revolution (Tyler Cowen)"
       },
       {
-        "text": "Reading List 11/21/2026",
-        "refId": "cb791a93781c",
-        "source": "Construction Physics (Brian Potter)"
+        "text": "AI people are very, very, very, very rich",
+        "refId": "44482e0ca019",
+        "source": "Noahpinion (Noah Smith)"
       },
       {
-        "text": "A simple observation",
-        "refId": "88fb35ed9844",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "The Post-AGI Kit: DeepMind\u2019s 4 Roads to Superintelligence, a 10x Compute Model and 12 Claude Prompts",
+        "refId": "d07497bc0b6e",
+        "source": "The AI Corner (Ruben Dominguez)"
       }
     ]
   },
@@ -114,57 +151,57 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Faces of the 2026 DealBook Summit",
-        "refId": "bdc6b50945dd",
-        "source": "Dealbook (NYT)"
+        "text": "The Cross-Border Conundrum: What Increased US Emigration Means for Advisors",
+        "refId": "7e8e2a87bf82",
+        "source": "The Daily Upside"
       },
       {
-        "text": "Paul Litvak\u2019s Evidence Guide",
-        "refId": "0e9bca5d25d3",
+        "text": "A \u2018Silver Tsunami\u2019 of Inherited Homes Is Coming for the Housing Market",
+        "refId": "e0d67da5fee6",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Will AI Growth Reach the Developing World?",
+        "refId": "18f5bd2518be",
         "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "Elon Musk on His Politics, a Potential Merger and Ukraine",
-        "refId": "6ea819e89fbc",
-        "source": "Dealbook (NYT)"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 6910.39,
-      "base": 7323.63,
+      "v": 7237.17,
+      "base": 7175.83,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 22617.732,
-      "base": 24429.88,
+      "v": 24089.559,
+      "base": 23879.2,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 48147.33,
-      "base": 50198.17,
+      "v": 49595.31,
+      "base": 49097.06,
       "bp": false
     },
     {
       "nm": "US 10Y",
-      "v": 4.912,
-      "base": 5.052,
+      "v": 4.918,
+      "base": 4.912,
       "bp": true
     },
     {
       "nm": "VIX",
-      "v": 35.89,
-      "base": 24.56,
+      "v": 26.62,
+      "base": 35.89,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 158.666,
-      "base": 166.93,
+      "v": 162.8486,
+      "base": 163.78,
       "bp": false
     }
   ]
