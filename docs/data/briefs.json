@@ -3,13 +3,13 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-        "refId": "774ce43f23be",
-        "source": "CNBC Finance"
-      },
-      {
         "text": "AI-forward insurance startup Corgi applies for bank charter",
         "refId": "a197647557fc",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "First Horizon eyes growth while maintaining \u2018optionality\u2019",
+        "refId": "c0beb94e6ef8",
         "source": "Banking Dive"
       },
       {
@@ -43,39 +43,39 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Russian Cargo Ship Attacked by Drones in Gulf of Finland",
-        "refId": "50cc299c2e4f",
-        "source": "Insurance Journal"
-      },
-      {
-        "text": "RiverStone enters transaction with NHBC covering new-home warranty liabilities",
-        "refId": "65ca9d1dbd05",
+        "text": "Global insurance sector sees higher premiums and strong profitability as risk pressures persist, OECD finds",
+        "refId": "e1e78db27f68",
         "source": "Reinsurance News"
       },
       {
-        "text": "Companies\u2019 El Ni\u00f1o Anxiety Is Surging as Weather Perils Loom",
-        "refId": "7ff9afa191b9",
-        "source": "Insurance Journal"
+        "text": "Atrium and CRC Risk Solutions launch Fractal Re II at Lloyd\u2019s",
+        "refId": "f9eae79c4e78",
+        "source": "Reinsurance News"
+      },
+      {
+        "text": "AM Best retains stable assessment of US life and annuity insurance sector ahead of 2027",
+        "refId": "c5a345296894",
+        "source": "Reinsurance News"
       }
     ]
   },
   "FIG \u2014 Specialty Finance": {
-    "lede": "5 stories in this lane today.",
+    "lede": "4 stories in this lane today.",
     "bullets": [
       {
-        "text": "Ex-Monzo scam fighting team raises \u00a31.8m for startup Acorda",
-        "refId": "19dbc19cc4ff",
-        "source": "Finextra"
+        "text": "OneMain Gets FDIC Nod On ILC Charter",
+        "refId": "32414113f214",
+        "source": "Fintech Business Weekly (Jason Mikula)"
       },
       {
-        "text": "Canada picks FDX for open banking technical standards",
-        "refId": "d21313fa47ee",
-        "source": "Finextra"
+        "text": "\ud83d\udca5Skadden. Sullivan. Who\u2019s RXmaxxing?\ud83d\udca5",
+        "refId": "4f770bced9ba",
+        "source": "PETITION (distressed/restructuring)"
       },
       {
-        "text": "CFTC loses emergency effort to block New York action against Kalshi",
-        "refId": "f2a2efade872",
-        "source": "Finextra"
+        "text": "Where Are They Now? The CMBS Loans Modified During COVID",
+        "refId": "74a4ae306aa4",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -87,11 +87,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "US ports face cyber attack onslaught as hackers target vital trade routes",
-        "refId": "cb8a06db38e4",
-        "source": "Financial Times Markets"
-      },
-      {
         "text": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes",
         "refId": "51a66add2d79",
         "source": "Dealbook (NYT)"
@@ -100,6 +95,11 @@
         "text": "Dear Diary, November 2026 has been brutal \ud83d\uddd3\ufe0f",
         "refId": "cf40aef88853",
         "source": "TKer (Sam Ro)"
+      },
+      {
+        "text": "When Is The Bottom In For Equities?",
+        "refId": "abadc59b8bdc",
+        "source": "Capital Flows Research"
       }
     ]
   },
@@ -107,18 +107,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Cross-Border Conundrum: What Increased US Emigration Means for Advisors",
-        "refId": "7e8e2a87bf82",
-        "source": "The Daily Upside"
-      },
-      {
-        "text": "A \u2018Silver Tsunami\u2019 of Inherited Homes Is Coming for the Housing Market",
-        "refId": "e0d67da5fee6",
-        "source": "The Daily Upside"
-      },
-      {
         "text": "\u2018Rolling Right Along\u2019: Consumer Holiday Spending Counters Market\u2019s Sour AI Mood",
         "refId": "432787653812",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "ANT IPO Is Boom Now, Possibly Bust Later for Google",
+        "refId": "9c9507f52d4b",
+        "source": "The Daily Upside"
+      },
+      {
+        "text": "Cyber Firms Copy-Paste Dollar Signs Amid Tech\u2019s Meltdown",
+        "refId": "169d1bfd7f88",
         "source": "The Daily Upside"
       }
     ]
@@ -131,19 +131,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Will AI Growth Reach the Developing World?",
-        "refId": "18f5bd2518be",
-        "source": "Marginal Revolution (Tyler Cowen)"
-      },
-      {
-        "text": "AI people are very, very, very, very rich",
-        "refId": "44482e0ca019",
-        "source": "Noahpinion (Noah Smith)"
-      },
-      {
         "text": "The Post-AGI Kit: DeepMind\u2019s 4 Roads to Superintelligence, a 10x Compute Model and 12 Claude Prompts",
         "refId": "d07497bc0b6e",
         "source": "The AI Corner (Ruben Dominguez)"
+      },
+      {
+        "text": "Sunday assorted links",
+        "refId": "f074c385cb10",
+        "source": "Marginal Revolution (Tyler Cowen)"
+      },
+      {
+        "text": "Increasing pay for lower wage workers",
+        "refId": "f58f70d75d26",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -151,19 +151,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "The Cross-Border Conundrum: What Increased US Emigration Means for Advisors",
-        "refId": "7e8e2a87bf82",
-        "source": "The Daily Upside"
+        "text": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes",
+        "refId": "51a66add2d79",
+        "source": "Dealbook (NYT)"
       },
       {
-        "text": "A \u2018Silver Tsunami\u2019 of Inherited Homes Is Coming for the Housing Market",
-        "refId": "e0d67da5fee6",
-        "source": "The Daily Upside"
+        "text": "OneMain Gets FDIC Nod On ILC Charter",
+        "refId": "32414113f214",
+        "source": "Fintech Business Weekly (Jason Mikula)"
       },
       {
-        "text": "Will AI Growth Reach the Developing World?",
-        "refId": "18f5bd2518be",
-        "source": "Marginal Revolution (Tyler Cowen)"
+        "text": "Dear Diary, November 2026 has been brutal \ud83d\uddd3\ufe0f",
+        "refId": "cf40aef88853",
+        "source": "TKer (Sam Ro)"
       }
     ]
   },
@@ -200,7 +200,7 @@
     },
     {
       "nm": "KBW Banks",
-      "v": 162.8486,
+      "v": 162.849,
       "base": 163.78,
       "bp": false
     }
