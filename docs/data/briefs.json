@@ -28,13 +28,13 @@
         "source": "RIABiz"
       },
       {
-        "text": "New Filings Show How Many Commonwealth Advisors Stuck With LPL",
-        "refId": "49dd20022b9b",
+        "text": "DOL Revives Effort to Curb ESG in Retirement Plans",
+        "refId": "4a948385b26d",
         "source": "Wealth Management"
       },
       {
-        "text": "DOL Revives Effort to Curb ESG in Retirement Plans",
-        "refId": "4a948385b26d",
+        "text": "How AI Is Changing Fraud Risks and Compliance for Financial Advisors",
+        "refId": "2df60c6b092c",
         "source": "Wealth Management"
       }
     ]
@@ -63,19 +63,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Canada picks FDX for open banking technical standards",
-        "refId": "d21313fa47ee",
-        "source": "Finextra"
-      },
-      {
-        "text": "CFTC loses emergency effort to block New York action against Kalshi",
-        "refId": "f2a2efade872",
-        "source": "Finextra"
-      },
-      {
         "text": "Stablecoin FX platform Codex raises $30m",
         "refId": "f9f550fe838b",
         "source": "Finextra"
+      },
+      {
+        "text": "Payoneer scores preliminarily OCC approval for stablecoin bank",
+        "refId": "7ffede495ef9",
+        "source": "Finextra"
+      },
+      {
+        "text": "Where Are They Now? The CMBS Loans Modified During COVID",
+        "refId": "74a4ae306aa4",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -87,11 +87,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "When Is The Bottom In For Equities?",
-        "refId": "abadc59b8bdc",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "CVS Health\u2019s Planned Breakup Hasn\u2019t Quieted Antitrust Critics",
         "refId": "bb89d656940c",
         "source": "Dealbook (NYT)"
@@ -100,6 +95,11 @@
         "text": "Two Major Cybersecurity Firms to Combine in $44 Billion Deal",
         "refId": "a63165cec7bf",
         "source": "Dealbook (NYT)"
+      },
+      {
+        "text": "I didn\u2019t see that coming \ud83d\udea8",
+        "refId": "a2dd8e567c72",
+        "source": "TKer (Sam Ro)"
       }
     ]
   },
@@ -151,11 +151,6 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "When Is The Bottom In For Equities?",
-        "refId": "abadc59b8bdc",
-        "source": "Capital Flows Research"
-      },
-      {
         "text": "\u2018Rolling Right Along\u2019: Consumer Holiday Spending Counters Market\u2019s Sour AI Mood",
         "refId": "432787653812",
         "source": "The Daily Upside"
@@ -164,25 +159,30 @@
         "text": "ANT IPO Is Boom Now, Possibly Bust Later for Google",
         "refId": "9c9507f52d4b",
         "source": "The Daily Upside"
+      },
+      {
+        "text": "Cyber Firms Copy-Paste Dollar Signs Amid Tech\u2019s Meltdown",
+        "refId": "169d1bfd7f88",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7197.34,
+      "v": 7201.09,
       "base": 6910.39,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 23723.047,
+      "v": 23733.535,
       "base": 22617.73,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 50003.37,
+      "v": 50018.7,
       "base": 48147.33,
       "bp": false
     },
@@ -194,13 +194,13 @@
     },
     {
       "nm": "VIX",
-      "v": 26.95,
+      "v": 26.36,
       "base": 26.62,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 163.0792,
+      "v": 163.1658,
       "base": 158.67,
       "bp": false
     }
