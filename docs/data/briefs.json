@@ -3,30 +3,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-        "refId": "774ce43f23be",
+        "text": "OCC cuts leave agency vulnerable, former staffers say",
+        "refId": "ec4b87ef9b14",
+        "source": "Banking Dive"
+      },
+      {
+        "text": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+        "refId": "10b061ba7aaa",
         "source": "CNBC Finance"
       },
       {
-        "text": "STMicroelectronics pr\u00e9sente le VL53LB, son plus petit capteur de distance ToF, qui compl\u00e8te la gamme FlightSense\u2122 et permet une plus longue port\u00e9e tout en consommant moins d\u2019\u00e9nergie",
-        "refId": "10582ba4f0ce",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
-      },
-      {
-        "text": "STMicroelectronics introduces VL53LB, its smallest Time-of-Flight ranging sensor that completes the FlightSense\u2122 portfolio, bringing longer-range depth sensing to slimmer, lower-power devices",
-        "refId": "efd9c185ea6e",
-        "source": "GlobeNewswire \u2014 Banking (press releases)"
+        "text": "Adyen co-founder to step down",
+        "refId": "d166732ae3d0",
+        "source": "Banking Dive"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
     "lede": "5 stories in this lane today.",
     "bullets": [
-      {
-        "text": "NVIDIA shares roar back in wild see-saw after chipmaker rehires CEO under Trump pressure, erasing collateral aftershocks from 'sexpionage scandal' and sending short sellers scrambling, but broader questions, congressional hearings remain",
-        "refId": "549b28ac7e93",
-        "source": "RIABiz"
-      },
       {
         "text": "Thrivent Adds Two ETFs To Actively Managed Lineup",
         "refId": "928f91b8f867",
@@ -35,6 +30,11 @@
       {
         "text": "Private Equity Is Gobbling Up Sports Assets Across Globe",
         "refId": "596a3eca226b",
+        "source": "Financial Advisor Magazine"
+      },
+      {
+        "text": "Bill Ackman Says The U.S. Economy Could Be Headed For Another Recession",
+        "refId": "1ec2acd18af6",
         "source": "Financial Advisor Magazine"
       }
     ]
@@ -63,19 +63,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "\ud83d\udca5Some PETITION positivity?\ud83d\udca5",
-        "refId": "494eeaae6a3f",
-        "source": "PETITION (distressed/restructuring)"
+        "text": "The Corn Cob of Consequences: Farm-Belt CMBS Below National Rate, but St. Louis Office Is Hurting",
+        "refId": "898202d16162",
+        "source": "Trepp Talk"
       },
       {
-        "text": "Perspective on Risk - Nov. 24, 2026 (Grabbag)",
-        "refId": "8c8cd828286c",
-        "source": "Perspective on Risk (private credit)"
-      },
-      {
-        "text": "JP Morgan, HSBC and StoneX pilot digital gold trades",
-        "refId": "9e0e15ebd074",
+        "text": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
+        "refId": "8827a7dd845f",
         "source": "Finextra"
+      },
+      {
+        "text": "Not Every Berry Floats: Cranberry-State CMBS Delinquency Tops the National Rate, Led by Oregon Hotels",
+        "refId": "354eddeeeff5",
+        "source": "Trepp Talk"
       }
     ]
   },
@@ -87,19 +87,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "A Word Of Caution For Sentiment and NVDA Flows",
-        "refId": "72b8682f6bb5",
-        "source": "Capital Flows Research"
-      },
-      {
-        "text": "The upside of AI for investment analysis",
-        "refId": "0ef257f57872",
-        "source": "Klement on Investing"
-      },
-      {
         "text": "Everything is Awesome",
         "refId": "0d0d941c2fbd",
         "source": "Doomberg"
+      },
+      {
+        "text": "Global Oil Data Deck (November 2026)",
+        "refId": "6fcf946af2ff",
+        "source": "Commodity Context"
+      },
+      {
+        "text": "DealBook Summit 2026: Rein in A.I., but Don\u2019t Pause It",
+        "refId": "5ce8e5c82182",
+        "source": "Dealbook (NYT)"
       }
     ]
   },
@@ -151,38 +151,38 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-        "refId": "774ce43f23be",
-        "source": "CNBC Finance"
+        "text": "Tesla Wants Drivers to Keep Their Eyes on the AI-Rendered Road",
+        "refId": "a7fa1557f607",
+        "source": "The Daily Upside"
       },
       {
-        "text": "A Word Of Caution For Sentiment and NVDA Flows",
-        "refId": "72b8682f6bb5",
-        "source": "Capital Flows Research"
+        "text": "Huang Returns to Nvidia, Markets Soar and Doubts Linger",
+        "refId": "fa6293e5b901",
+        "source": "The Daily Upside"
       },
       {
-        "text": "NVIDIA shares roar back in wild see-saw after chipmaker rehires CEO under Trump pressure, erasing collateral aftershocks from 'sexpionage scandal' and sending short sellers scrambling, but broader questions, congressional hearings remain",
-        "refId": "549b28ac7e93",
-        "source": "RIABiz"
+        "text": "In Zscaler, CrowdStrike Finds Its Perfect Cybersecurity Partner",
+        "refId": "27a34d62fcdd",
+        "source": "The Daily Upside"
       }
     ]
   },
   "indices": [
     {
       "nm": "S&P 500",
-      "v": 7176.69,
+      "v": 7182.78,
       "base": 7237.17,
       "bp": false
     },
     {
       "nm": "Nasdaq",
-      "v": 23538.582,
+      "v": 23585.803,
       "base": 24089.56,
       "bp": false
     },
     {
       "nm": "Dow",
-      "v": 50233.32,
+      "v": 50182.95,
       "base": 49595.31,
       "bp": false
     },
@@ -194,13 +194,13 @@
     },
     {
       "nm": "VIX",
-      "v": 27.86,
+      "v": 28.29,
       "base": 26.36,
       "bp": false
     },
     {
       "nm": "KBW Banks",
-      "v": 163.8412,
+      "v": 163.7332,
       "base": 162.85,
       "bp": false
     }
