@@ -3,30 +3,25 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-        "refId": "9cd4ad9f7380",
-        "source": "Federal Reserve Press Releases"
-      },
-      {
-        "text": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-        "refId": "ea3d4d120f58",
-        "source": "Federal Reserve Press Releases"
-      },
-      {
         "text": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
         "refId": "bcb876838655",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+        "refId": "6140b81f5320",
+        "source": "CNBC Finance"
+      },
+      {
+        "text": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+        "refId": "f33db60d959d",
         "source": "CNBC Finance"
       }
     ]
   },
   "FIG \u2014 Asset & Wealth Management": {
-    "lede": "2 stories in this lane today.",
+    "lede": "1 story in this lane today.",
     "bullets": [
-      {
-        "text": "Demystifying Paid Media Marketing",
-        "refId": "0094ed8fa391",
-        "source": "Wealth Management"
-      },
       {
         "text": "Sanctuary Wealth thought its $250-million Kennedy Lewis recapitalization was done Friday, until 53% Italian owner Azimut dropped an identical top-line offer on the table on Monday -- so who is in charge?",
         "refId": "36beac93ab9e",
@@ -82,18 +77,18 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Anthropic\u2019s Stock Debut Could Hurt Tech Start-Ups",
-        "refId": "74a9589854c3",
-        "source": "Dealbook (NYT)"
-      },
-      {
         "text": "Why I\u2019m thankful even as the stock market struggles \ud83d\ude4f",
         "refId": "a520349a3457",
         "source": "TKer (Sam Ro)"
       },
       {
-        "text": "Kalshi\u2019s next big bet: \u2018microinsurance\u2019 for small businesses",
-        "refId": "53d99917718f",
+        "text": "Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals",
+        "refId": "252f4bfa60c0",
+        "source": "Financial Times Markets"
+      },
+      {
+        "text": "Venezuelan oil magnate defends contentious deal with Trump",
+        "refId": "0f2ee5016d11",
         "source": "Financial Times Markets"
       }
     ]
@@ -146,19 +141,19 @@
     "lede": "5 stories in this lane today.",
     "bullets": [
       {
-        "text": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-        "refId": "9cd4ad9f7380",
-        "source": "Federal Reserve Press Releases"
+        "text": "Sanctuary Wealth thought its $250-million Kennedy Lewis recapitalization was done Friday, until 53% Italian owner Azimut dropped an identical top-line offer on the table on Monday -- so who is in charge?",
+        "refId": "36beac93ab9e",
+        "source": "RIABiz"
       },
       {
-        "text": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-        "refId": "ea3d4d120f58",
-        "source": "Federal Reserve Press Releases"
+        "text": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
+        "refId": "bcb876838655",
+        "source": "CNBC Finance"
       },
       {
-        "text": "Demystifying Paid Media Marketing",
-        "refId": "0094ed8fa391",
-        "source": "Wealth Management"
+        "text": "My excellent Conversation with Moxie Marlinspike of Signal",
+        "refId": "80a092cb9c2c",
+        "source": "Marginal Revolution (Tyler Cowen)"
       }
     ]
   },
@@ -183,7 +178,7 @@
     },
     {
       "nm": "US 10Y",
-      "v": 4.934,
+      "v": 4.936,
       "base": 4.848,
       "bp": true
     },
